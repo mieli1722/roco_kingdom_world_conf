@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 55,
     "id": 1300001,
     "ability_name": "普通冲刺",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Dash/BP_DashAbility.BP_DashAbility",
@@ -17,8 +15,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.DashAbilityHelper"
   },
   {
-    "_row_key": 2,
-    "_row_size": 36,
     "id": 1300003,
     "ability_name": "普通游泳",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Dash/BP_PassiveSwimmingAbility.BP_PassiveSwimmingAbility",
@@ -32,8 +28,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 3,
-    "_row_size": 59,
     "id": 1300004,
     "ability_name": "游泳冲刺",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Dash/BP_DashAbility.BP_DashAbility",
@@ -50,8 +44,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.DashAbilityHelper"
   },
   {
-    "_row_key": 4,
-    "_row_size": 39,
     "id": 1300019,
     "ability_name": "滑行",
     "ability_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_chongci_png.btn_chongci_png'",
@@ -63,8 +55,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 5,
-    "_row_size": 47,
     "id": 1300020,
     "ability_name": "冲刺主技能",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Dash/BP_MainAbility.BP_MainAbility",
@@ -80,8 +70,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.MainAbilityHelper"
   },
   {
-    "_row_key": 6,
-    "_row_size": 31,
     "id": 1300021,
     "ability_name": "主技能入口",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Dash/BP_MainAbilityEntry.BP_MainAbilityEntry",
@@ -91,8 +79,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 7,
-    "_row_size": 31,
     "id": 1300025,
     "ability_name": "抛球入口",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/ThrowBall/BP_ThrowBallEntry.BP_ThrowBallEntry",
@@ -102,8 +88,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 8,
-    "_row_size": 55,
     "id": 1300026,
     "ability_name": "精准抛球",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/ThrowBall/BP_AimThrowBall.BP_AimThrowBall",
@@ -121,8 +105,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.ThrowAbilityHelper"
   },
   {
-    "_row_key": 9,
-    "_row_size": 48,
     "id": 1300027,
     "ability_name": "回收宠物",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/ThrowBall/BP_RecycleThrowBall.BP_RecycleThrowBall",
@@ -137,8 +119,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.RecycleAbilityHelper"
   },
   {
-    "_row_key": 10,
-    "_row_size": 28,
     "id": 1300028,
     "ability_name": "坠落（被动）",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/BP_PassiveFallingAbility.BP_PassiveFallingAbility",
@@ -150,8 +130,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 11,
-    "_row_size": 43,
     "id": 1300035,
     "ability_name": "冲刺主技能(解除)",
     "skill_lua_path": "MainAbility.StopMainAbility",
@@ -166,8 +144,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 12,
-    "_row_size": 43,
     "id": 1300036,
     "ability_name": "投掷出手",
     "skill_path": "/Game/NewRoco/Modules/Core/Scene/Ability/ThrowBall/BP_ThrowSkill.BP_ThrowSkill",
@@ -182,8 +158,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 13,
-    "_row_size": 27,
     "id": 1300037,
     "ability_name": "潜行（添加）",
     "skill_lua_path": "Crouch.StartCrouchAbility",
@@ -194,8 +168,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 14,
-    "_row_size": 27,
     "id": 1300038,
     "ability_name": "潜行（移除）",
     "skill_lua_path": "Crouch.StopCrouchAbility",
@@ -206,8 +178,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 15,
-    "_row_size": 28,
     "id": 1300046,
     "ability_name": "滑行（被动）",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/BP_PassiveSlideAbility.BP_PassiveSlideAbility",
@@ -219,8 +189,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 16,
-    "_row_size": 59,
     "id": 1300056,
     "ability_name": "感知",
     "skill_lua_path": "Perception.PerceptionAbility",
@@ -239,8 +207,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.PerceptionAbilityHelper"
   },
   {
-    "_row_key": 17,
-    "_row_size": 35,
     "id": 1300057,
     "ability_name": "感知关闭",
     "skill_lua_path": "Perception.EndPerceptionAbility",
@@ -253,8 +219,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.PerceptionAbilityHelper"
   },
   {
-    "_row_key": 18,
-    "_row_size": 51,
     "id": 1300058,
     "ability_name": "风场魔法蓄力",
     "skill_lua_path": "MagicAbility.PrepareWindAbility",
@@ -271,8 +235,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.WindAbilityHelper"
   },
   {
-    "_row_key": 19,
-    "_row_size": 47,
     "id": 1300059,
     "ability_name": "风场魔法释放",
     "skill_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Magic/BP_MagicSkill_Wind.BP_MagicSkill_Wind",
@@ -288,8 +250,6 @@
     "remove_sub_status": 2
   },
   {
-    "_row_key": 20,
-    "_row_size": 51,
     "id": 1300060,
     "ability_name": "星星魔法蓄力",
     "skill_bp_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Magic/BP_MagicStar.BP_MagicStar",
@@ -306,8 +266,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.MagicAbilityBaseHelper"
   },
   {
-    "_row_key": 21,
-    "_row_size": 47,
     "id": 1300061,
     "ability_name": "星星魔法释放",
     "skill_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Magic/BP_MagicSkill_Star.BP_MagicSkill_Star",
@@ -323,8 +281,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 22,
-    "_row_size": 47,
     "id": 1300062,
     "ability_name": "解除攀爬",
     "skill_lua_path": "Climb.CancelClimb",
@@ -340,8 +296,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 23,
-    "_row_size": 55,
     "id": 1300063,
     "ability_name": "攀爬冲刺",
     "skill_lua_path": "Climb.ClimbDash",
@@ -359,8 +313,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.ClimbDashHelper"
   },
   {
-    "_row_key": 24,
-    "_row_size": 23,
     "id": 1300064,
     "ability_name": "攀爬",
     "add_sub_status": 1,
@@ -370,8 +322,6 @@
     ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 55,
     "id": 1300065,
     "ability_name": "全精灵骑乘",
     "skill_lua_path": "RideAll.RideAllAbility",
@@ -380,7 +330,7 @@
     "ability_press_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_xiao_qicheng_jinzhi_png.btn_xiao_qicheng_jinzhi_png'",
     "scene_ability_slot_cast_type": 1,
     "cooldown_type": 1,
-    "cooldown": 0.4000000059604645,
+    "cooldown": 0.4,
     "priority": 1,
     "add_status": [
       26
@@ -389,8 +339,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.RideAllHelper"
   },
   {
-    "_row_key": 26,
-    "_row_size": 51,
     "id": 1300066,
     "ability_name": "解散全精灵骑乘",
     "skill_lua_path": "RideAll.OffRideAllAbility",
@@ -407,8 +355,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.OffRideAllHelper"
   },
   {
-    "_row_key": 27,
-    "_row_size": 51,
     "id": 1300067,
     "ability_name": "全精灵主动技能",
     "skill_lua_path": "RideAll.RideAllMainAbility",
@@ -425,8 +371,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.RideAll.RideAllMainAbilityHelper"
   },
   {
-    "_row_key": 28,
-    "_row_size": 51,
     "id": 1300068,
     "ability_name": "解散全精灵主动",
     "skill_lua_path": "RideAll.OffRideAllMainAbility",
@@ -443,8 +387,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 29,
-    "_row_size": 51,
     "id": 1300069,
     "ability_name": "玩家跳跃",
     "ability_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/btn_jump_png.btn_jump_png'",
@@ -459,8 +401,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 30,
-    "_row_size": 59,
     "id": 1300080,
     "ability_name": "创造魔法蓄力",
     "skill_lua_path": "MagicAbility.PrepareCreateAbility",
@@ -481,8 +421,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.CreateAbilityHelper"
   },
   {
-    "_row_key": 31,
-    "_row_size": 47,
     "id": 1300081,
     "ability_name": "创造魔法释放",
     "skill_lua_path": "MagicAbility.CastCreateAbility",
@@ -500,8 +438,6 @@
     ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 47,
     "id": 1300090,
     "ability_name": "液化术",
     "skill_lua_path": "MagicAbility.MagicTransformAbility",
@@ -517,8 +453,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.MagicTransformAbilityHelper"
   },
   {
-    "_row_key": 33,
-    "_row_size": 43,
     "id": 1300091,
     "ability_name": "液化术",
     "skill_lua_path": "MagicAbility.CastMagicTransform",
@@ -533,8 +467,6 @@
     "remove_sub_status": 4
   },
   {
-    "_row_key": 34,
-    "_row_size": 23,
     "id": 1300092,
     "ability_name": "变形开始",
     "skill_lua_path": "Transform.TransformAbility",
@@ -544,8 +476,6 @@
     "add_sub_status": 1
   },
   {
-    "_row_key": 35,
-    "_row_size": 23,
     "id": 1300093,
     "ability_name": "变形结束",
     "skill_lua_path": "Transform.EndTransformAbility",
@@ -555,8 +485,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 36,
-    "_row_size": 51,
     "id": 1300100,
     "ability_name": "光系魔法蓄力-1",
     "skill_lua_path": "MagicAbility.PrepareLightAbility",
@@ -573,8 +501,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.LightAbilityHelper"
   },
   {
-    "_row_key": 37,
-    "_row_size": 47,
     "id": 1300101,
     "ability_name": "光系魔法释放-1",
     "skill_path": "/Game/NewRoco/Modules/Core/Scene/Ability/Magic/BP_MagicSkill_Star.BP_MagicSkill_Star",
@@ -590,8 +516,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.LightAbilityHelper"
   },
   {
-    "_row_key": 38,
-    "_row_size": 27,
     "id": 1300110,
     "ability_name": "特殊移动（添加）",
     "skill_lua_path": "SpecialMove.StartSpecialMoveAbility",
@@ -602,8 +526,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 39,
-    "_row_size": 27,
     "id": 1300111,
     "ability_name": "特殊移动（移除）",
     "skill_lua_path": "SpecialMove.StopSpecialMoveAbility",
@@ -614,8 +536,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 40,
-    "_row_size": 55,
     "id": 1300120,
     "ability_name": "留言魔法蓄力",
     "skill_lua_path": "MagicAbility.PrepareMessageAbility",
@@ -635,8 +555,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.MessageAbilityHelper"
   },
   {
-    "_row_key": 41,
-    "_row_size": 47,
     "id": 1300121,
     "ability_name": "留言魔法释放",
     "skill_lua_path": "MagicAbility.CastMessageAbility",
@@ -654,8 +572,6 @@
     ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 35,
     "id": 1300122,
     "ability_name": "双人动作邀请",
     "skill_lua_path": "Perform.InviteInteractAbility",
@@ -670,8 +586,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 43,
-    "_row_size": 31,
     "id": 1300123,
     "ability_name": "双人动作",
     "skill_lua_path": "Perform.TwoPlayerAnimAbility",
@@ -685,8 +599,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 44,
-    "_row_size": 31,
     "id": 1300124,
     "ability_name": "双人牵手",
     "skill_lua_path": "Perform.HandInHandAbility",
@@ -700,8 +612,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 45,
-    "_row_size": 31,
     "id": 1300125,
     "ability_name": "双人牵手-2P解除",
     "skill_lua_path": "Perform.HandInHand2PAbility",
@@ -715,8 +625,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 46,
-    "_row_size": 31,
     "id": 1300126,
     "ability_name": "精灵赐福",
     "skill_lua_path": "Perform.PetBlessingAbility",
@@ -730,8 +638,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 47,
-    "_row_size": 27,
     "id": 1300127,
     "ability_name": "自拍",
     "skill_lua_path": "TakePhoto.TakePhotoSelfAbility",
@@ -744,8 +650,6 @@
     "remove_sub_status": 1
   },
   {
-    "_row_key": 48,
-    "_row_size": 27,
     "id": 1300128,
     "ability_name": "休闲待机",
     "skill_lua_path": "Perform.IdleRelaxAbility",
@@ -758,8 +662,6 @@
     ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 55,
     "id": 1300129,
     "ability_name": "留影魔法蓄力",
     "skill_lua_path": "MagicAbility.PrepareVideoAbility",
@@ -779,8 +681,6 @@
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.Magic.VideoAbilityHelper"
   },
   {
-    "_row_key": 50,
-    "_row_size": 47,
     "id": 1300130,
     "ability_name": "留影魔法释放",
     "skill_lua_path": "MagicAbility.CastVideoAbility",
@@ -798,8 +698,6 @@
     ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 39,
     "id": 1300131,
     "ability_name": "玩家跳跃",
     "skill_lua_path": "RideAll.RideAllJumpAbility",

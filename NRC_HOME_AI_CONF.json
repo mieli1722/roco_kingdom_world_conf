@@ -1,10 +1,20 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 47,
     "id": 1,
     "editor_name": "精灵巡逻",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -17,11 +27,16 @@
     "group_initiator_role_type": 46
   },
   {
-    "_row_key": 2,
-    "_row_size": 47,
     "id": 2,
     "editor_name": "精灵嬉戏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 5,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -34,11 +49,21 @@
     "group_initiator_role_type": 46
   },
   {
-    "_row_key": 3,
-    "_row_size": 47,
     "id": 3,
     "editor_name": "精灵追逃",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 44,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 48,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -51,11 +76,21 @@
     "group_initiator_role_type": 44
   },
   {
-    "_row_key": 4,
-    "_row_size": 47,
     "id": 4,
     "editor_name": "精灵打架",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -68,11 +103,22 @@
     "group_initiator_role_type": 49
   },
   {
-    "_row_key": 5,
-    "_row_size": 47,
     "id": 5,
     "editor_name": "巡视领地-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -83,11 +129,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 6,
-    "_row_size": 47,
     "id": 6,
     "editor_name": "精灵蹦迪-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -98,11 +155,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 7,
-    "_row_size": 47,
     "id": 7,
     "editor_name": "精灵蹦迪与行为劝阻-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -113,11 +181,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 8,
-    "_row_size": 47,
     "id": 8,
     "editor_name": "精灵自由选点睡觉-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -128,11 +207,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 9,
-    "_row_size": 47,
     "id": 9,
     "editor_name": "精灵巡视领地后睡觉-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -143,11 +233,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 10,
-    "_row_size": 47,
     "id": 10,
     "editor_name": "多精灵自由选点睡觉-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 66,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -158,11 +259,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 11,
-    "_row_size": 47,
     "id": 11,
     "editor_name": "精灵依次睡觉-床",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 67,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -173,11 +285,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 12,
-    "_row_size": 47,
     "id": 12,
     "editor_name": "独立型精灵睡觉被吵醒",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 65,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -188,11 +311,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 13,
-    "_row_size": 47,
     "id": 13,
     "editor_name": "慵懒型精灵睡觉被吵醒",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 47,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -203,11 +337,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 14,
-    "_row_size": 47,
     "id": 14,
     "editor_name": "好奇型精灵跳上柜子蹦迪",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 72,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -218,11 +363,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 15,
-    "_row_size": 47,
     "id": 15,
     "editor_name": "胆小型精灵跳上柜子蹦迪",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 74,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -233,11 +389,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 16,
-    "_row_size": 47,
     "id": 16,
     "editor_name": "独立型精灵绕着柜子观察",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 45,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -248,11 +415,22 @@
     "group_initiator_role_type": 6300
   },
   {
-    "_row_key": 17,
-    "_row_size": 47,
     "id": 17,
     "editor_name": "好奇型精灵召集观察柜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -263,11 +441,22 @@
     "group_initiator_role_type": 6300
   },
   {
-    "_row_key": 18,
-    "_row_size": 47,
     "id": 18,
     "editor_name": "粘人型精灵在柜子上休闲",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 70,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -278,11 +467,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 19,
-    "_row_size": 47,
     "id": 19,
     "editor_name": "独立型精灵在柜子上休闲",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 71,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -293,11 +493,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 20,
-    "_row_size": 47,
     "id": 20,
     "editor_name": "好奇型精灵在柜子上休闲",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 72,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -308,11 +519,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 21,
-    "_row_size": 47,
     "id": 21,
     "editor_name": "胆小型精灵在柜子上休闲",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 74,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -323,11 +545,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 22,
-    "_row_size": 47,
     "id": 22,
     "editor_name": "慵懒型精灵在柜子上休闲",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 73,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -338,11 +571,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 23,
-    "_row_size": 47,
     "id": 23,
     "editor_name": "慵懒型精灵在柜子上睡觉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 73,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -353,12 +597,23 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 24,
-    "_row_size": 48,
     "id": 24,
     "editor_name": "精灵在椅子上休息",
     "ai_disable_event_switch": true,
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -369,11 +624,22 @@
     "group_initiator_role_type": 6500
   },
   {
-    "_row_key": 25,
-    "_row_size": 47,
     "id": 25,
     "editor_name": "多只精灵一起在椅子上休息",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -384,11 +650,22 @@
     "group_initiator_role_type": 6500
   },
   {
-    "_row_key": 26,
-    "_row_size": 47,
     "id": 26,
     "editor_name": "精灵给玩家让座",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -399,11 +676,22 @@
     "group_initiator_role_type": 6500
   },
   {
-    "_row_key": 27,
-    "_row_size": 47,
     "id": 27,
     "editor_name": "胆小型精灵躲在柜子后面",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 48,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -414,11 +702,22 @@
     "group_initiator_role_type": 6302
   },
   {
-    "_row_key": 28,
-    "_row_size": 47,
     "id": 28,
     "editor_name": "精灵照镜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -429,11 +728,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 29,
-    "_row_size": 47,
     "id": 29,
     "editor_name": "精灵撞镜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -444,11 +754,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 30,
-    "_row_size": 47,
     "id": 30,
     "editor_name": "精灵吓自己",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 48,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -459,11 +780,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 31,
-    "_row_size": 47,
     "id": 31,
     "editor_name": "精灵照镜子后睡着",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -474,11 +806,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 32,
-    "_row_size": 47,
     "id": 32,
     "editor_name": "精灵照镜子被打扰",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 47,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -489,11 +832,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 33,
-    "_row_size": 47,
     "id": 33,
     "editor_name": "精灵集体照镜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 300000,
@@ -504,11 +858,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 34,
-    "_row_size": 47,
     "id": 34,
     "editor_name": "精灵跳上桌子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -519,11 +884,22 @@
     "group_initiator_role_type": 6600
   },
   {
-    "_row_key": 35,
-    "_row_size": 47,
     "id": 35,
     "editor_name": "精灵靠近壁炉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -534,11 +910,22 @@
     "group_initiator_role_type": 6000
   },
   {
-    "_row_key": 36,
-    "_row_size": 47,
     "id": 36,
     "editor_name": "独立型精灵靠近壁炉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 45,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -549,12 +936,23 @@
     "group_initiator_role_type": 6000
   },
   {
-    "_row_key": 37,
-    "_row_size": 48,
     "id": 37,
     "editor_name": "精灵躲在桌子下等玩家来",
     "ai_disable_event_switch": true,
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -565,12 +963,23 @@
     "group_initiator_role_type": 6601
   },
   {
-    "_row_key": 38,
-    "_row_size": 48,
     "id": 38,
     "editor_name": "精灵桌下捉迷藏",
     "ai_disable_event_switch": true,
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 72,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -581,11 +990,22 @@
     "group_initiator_role_type": 6601
   },
   {
-    "_row_key": 39,
-    "_row_size": 47,
     "id": 39,
     "editor_name": "精灵在桌子下睡觉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -596,11 +1016,21 @@
     "group_initiator_role_type": 6601
   },
   {
-    "_row_key": 40,
-    "_row_size": 47,
     "id": 40,
     "editor_name": "精灵光合作用",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 21,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -613,11 +1043,21 @@
     "group_initiator_role_type": 21
   },
   {
-    "_row_key": 41,
-    "_row_size": 47,
     "id": 41,
     "editor_name": "精灵大逃亡",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -630,11 +1070,21 @@
     "group_initiator_role_type": 49
   },
   {
-    "_row_key": 42,
-    "_row_size": 47,
     "id": 42,
     "editor_name": "精灵大呼唤",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 44,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 60000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -647,11 +1097,24 @@
     "group_initiator_role_type": 44
   },
   {
-    "_row_key": 43,
-    "_row_size": 51,
     "id": 43,
     "editor_name": "呆小路家园转圈",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 1,
+        "activation_condition_parameter": 50435,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 1,
+        "activation_condition_parameter": 710092,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 1
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -668,11 +1131,21 @@
     "group_initiator_role_type": 50
   },
   {
-    "_row_key": 44,
-    "_row_size": 51,
     "id": 44,
     "editor_name": "绿耳松鼠歌唱",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 76,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -686,11 +1159,21 @@
     "group_initiator_role_type": 76
   },
   {
-    "_row_key": 45,
-    "_row_size": 47,
     "id": 45,
     "editor_name": "水系精灵下雨",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 23,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -703,12 +1186,22 @@
     "group_initiator_role_type": 23
   },
   {
-    "_row_key": 46,
-    "_row_size": 48,
     "id": 46,
     "editor_name": "毒系精灵放毒雾",
     "ai_disable_event_switch": true,
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 29,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -721,11 +1214,21 @@
     "group_initiator_role_type": 29
   },
   {
-    "_row_key": 47,
-    "_row_size": 51,
     "id": 47,
     "editor_name": "幽灵系精灵恐吓好奇型精灵",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 34,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -739,11 +1242,21 @@
     "group_initiator_role_type": 34
   },
   {
-    "_row_key": 48,
-    "_row_size": 51,
     "id": 48,
     "editor_name": "幽灵系精灵恐吓粘人型精灵",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 34,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 44,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -757,11 +1270,21 @@
     "group_initiator_role_type": 34
   },
   {
-    "_row_key": 49,
-    "_row_size": 47,
     "id": 49,
     "editor_name": "幽灵系精灵恐吓慵懒型精灵",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 34,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 47,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 300000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -774,11 +1297,22 @@
     "group_initiator_role_type": 34
   },
   {
-    "_row_key": 50,
-    "_row_size": 51,
     "id": 50,
     "editor_name": "蛮横型精灵驻守床-泛用",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -790,11 +1324,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 51,
-    "_row_size": 51,
     "id": 51,
     "editor_name": "蛮横型精灵驻守柜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -806,11 +1351,22 @@
     "group_initiator_role_type": 6304
   },
   {
-    "_row_key": 52,
-    "_row_size": 51,
     "id": 52,
     "editor_name": "蛮横型精灵驻守椅子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -822,11 +1378,22 @@
     "group_initiator_role_type": 6500
   },
   {
-    "_row_key": 53,
-    "_row_size": 51,
     "id": 53,
     "editor_name": "蛮横型精灵驻守镜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 10,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -838,11 +1405,22 @@
     "group_initiator_role_type": 6900
   },
   {
-    "_row_key": 54,
-    "_row_size": 51,
     "id": 54,
     "editor_name": "蛮横型精灵驻守壁炉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -854,11 +1432,22 @@
     "group_initiator_role_type": 6000
   },
   {
-    "_row_key": 55,
-    "_row_size": 51,
     "id": 55,
     "editor_name": "蛮横型精灵驻守床-胆小",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -870,11 +1459,22 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 56,
-    "_row_size": 51,
     "id": 56,
     "editor_name": "蛮横型精灵驻守床-蛮横",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 49,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -886,11 +1486,16 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 57,
-    "_row_size": 51,
     "id": 28000,
     "editor_name": "抱枕松鼠歌唱",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 76,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -904,11 +1509,22 @@
     "group_initiator_role_type": 76
   },
   {
-    "_row_key": 58,
-    "_row_size": 47,
     "id": 28001,
     "editor_name": "S1赛季望远镜群组",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 11,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -919,11 +1535,22 @@
     "group_initiator_role_type": 7003
   },
   {
-    "_row_key": 59,
-    "_row_size": 47,
     "id": 28002,
     "editor_name": "S1赛季地球仪群组",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 11,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 63,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -934,11 +1561,22 @@
     "group_initiator_role_type": 7002
   },
   {
-    "_row_key": 60,
-    "_row_size": 47,
     "id": 28003,
     "editor_name": "晶石蜗靠近矿石工艺品",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 79,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 11,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -949,12 +1587,22 @@
     "group_initiator_role_type": 7004
   },
   {
-    "_row_key": 61,
-    "_row_size": 48,
     "id": 28004,
     "editor_name": "一阶精灵骑乘白金独角兽",
     "ai_disable_event_switch": true,
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 80,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 38,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -967,11 +1615,22 @@
     "group_initiator_role_type": 80
   },
   {
-    "_row_key": 62,
-    "_row_size": 47,
     "id": 28005,
     "editor_name": "画精灵藏进画里",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 81,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 16,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -982,11 +1641,22 @@
     "group_initiator_role_type": 7500
   },
   {
-    "_row_key": 63,
-    "_row_size": 47,
     "id": 28006,
     "editor_name": "S1赛季展示台群组",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 46,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 11,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -997,11 +1667,21 @@
     "group_initiator_role_type": 7001
   },
   {
-    "_row_key": 64,
-    "_row_size": 51,
     "id": 28007,
     "editor_name": "卡瓦重演奏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 82,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1015,11 +1695,21 @@
     "group_initiator_role_type": 82
   },
   {
-    "_row_key": 65,
-    "_row_size": 51,
     "id": 28008,
     "editor_name": "里拉瑶演奏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 83,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1033,11 +1723,21 @@
     "group_initiator_role_type": 83
   },
   {
-    "_row_key": 66,
-    "_row_size": 51,
     "id": 28009,
     "editor_name": "号儿鱼演奏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 84,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1051,11 +1751,21 @@
     "group_initiator_role_type": 84
   },
   {
-    "_row_key": 67,
-    "_row_size": 51,
     "id": 28010,
     "editor_name": "吸泥鸥演奏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 85,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1069,11 +1779,36 @@
     "group_initiator_role_type": 85
   },
   {
-    "_row_key": 68,
-    "_row_size": 51,
     "id": 28011,
     "editor_name": "乐团精灵集体演奏",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 82,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 3,
+        "comparison_symbols": 6
+      },
+      {
+        "activation_condition_parameter": 83,
+        "number": 1,
+        "comparison_symbols": 6
+      },
+      {
+        "activation_condition_parameter": 84,
+        "number": 1,
+        "comparison_symbols": 6
+      },
+      {
+        "activation_condition_parameter": 85,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 5000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 360000,
@@ -1087,11 +1822,16 @@
     "group_initiator_role_type": 82
   },
   {
-    "_row_key": 69,
-    "_row_size": 47,
     "id": 28012,
     "editor_name": "绿翼鸟停在玩家脑袋上",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 86,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 45000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1104,11 +1844,23 @@
     "group_initiator_role_type": 86
   },
   {
-    "_row_key": 70,
-    "_row_size": 55,
     "id": 28013,
     "editor_name": "【孵蛋】精灵们跑上床休息",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1126,11 +1878,23 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 71,
-    "_row_size": 51,
     "id": 28014,
     "editor_name": "【孵蛋】精灵们在床上蹦蹦跳跳",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1142,11 +1906,17 @@
     "group_initiator_role_type": 6100
   },
   {
-    "_row_key": 72,
-    "_row_size": 51,
     "id": 28015,
     "editor_name": "【孵蛋】精灵一起走",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1163,11 +1933,17 @@
     "group_event_id": 280200
   },
   {
-    "_row_key": 73,
-    "_row_size": 51,
     "id": 28016,
     "editor_name": "【孵蛋】精灵一起走",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 2,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1184,11 +1960,17 @@
     "group_event_id": 280200
   },
   {
-    "_row_key": 74,
-    "_row_size": 51,
     "id": 28017,
     "editor_name": "【孵蛋】精灵一起走",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 3,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1205,11 +1987,23 @@
     "group_event_id": 280200
   },
   {
-    "_row_key": 75,
-    "_row_size": 51,
     "id": 28018,
     "editor_name": "【孵蛋】精灵一起坐",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1221,11 +2015,22 @@
     "group_initiator_role_type": 6500
   },
   {
-    "_row_key": 76,
-    "_row_size": 51,
     "id": 28019,
     "editor_name": "【孵蛋】精灵一起去看书",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 5,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1237,11 +2042,22 @@
     "group_initiator_role_type": 6400
   },
   {
-    "_row_key": 77,
-    "_row_size": 51,
     "id": 28020,
     "editor_name": "【孵蛋】精灵一起去逛壁炉",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1253,11 +2069,22 @@
     "group_initiator_role_type": 6000
   },
   {
-    "_row_key": 78,
-    "_row_size": 51,
     "id": 28021,
     "editor_name": "【孵蛋】精灵一起去逛柜子",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 4,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,
@@ -1269,11 +2096,23 @@
     "group_initiator_role_type": 6300
   },
   {
-    "_row_key": 79,
-    "_row_size": 51,
     "id": 28022,
     "editor_name": "【孵蛋】精灵一起坐",
-    "cell_ai_group_param": [],
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 6,
+        "activation_condition_parameter": 1,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 6,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
     "detecting_cd": 40000,
     "detecting_cd_float": 500,
     "successful_detection_cd": 240000,

@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 10010,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -12,11 +10,18 @@
     "area_id": 451030084,
     "world_map_activity_conf_id": 6,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 8,
+        "drop_prob": 100,
+        "day_got_limit": 600,
+        "total_got_limit": 1800
+      }
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 38,
     "id": 10011,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -27,11 +32,18 @@
     "area_id": 451030085,
     "world_map_activity_conf_id": 7,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 8,
+        "drop_prob": 100,
+        "day_got_limit": 600,
+        "total_got_limit": 1800
+      }
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 38,
     "id": 10012,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -42,11 +54,18 @@
     "area_id": 451030086,
     "world_map_activity_conf_id": 8,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 8,
+        "drop_prob": 100,
+        "day_got_limit": 600,
+        "total_got_limit": 2400
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 38,
     "id": 10013,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -57,11 +76,18 @@
     "area_id": 451030088,
     "world_map_activity_conf_id": 10,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 8,
+        "drop_prob": 100,
+        "day_got_limit": 600,
+        "total_got_limit": 2400
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 38,
     "id": 10014,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -72,11 +98,18 @@
     "area_id": 451030087,
     "world_map_activity_conf_id": 9,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 8,
+        "drop_prob": 100,
+        "day_got_limit": 600,
+        "total_got_limit": 3000
+      }
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 30,
     "id": 10015,
     "drop_behavior": 17,
     "drop_behavior_condition": [
@@ -87,21 +120,35 @@
     "begin_time": "2025-10-25 04:00:00",
     "end_time": "2026-05-08 03:59:59",
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 12,
+        "goods_count": 1,
+        "drop_prob": 50,
+        "day_got_limit": 5,
+        "total_got_limit": 220
+      }
+    ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 26,
     "id": 10016,
     "drop_behavior": 20,
     "begin_time": "2025-10-25 04:00:00",
     "end_time": "2026-05-08 03:59:59",
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 12,
+        "goods_count": 1,
+        "drop_prob": 50,
+        "day_got_limit": 5,
+        "total_got_limit": 220
+      }
+    ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 42,
     "id": 10017,
     "drop_behavior": 21,
     "drop_behavior_condition": [
@@ -120,13 +167,20 @@
     "end_time": "2026-05-06 03:59:59",
     "player_world_type": 1,
     "drop_show_area": 1,
-    "reward_group": [],
+    "reward_group": [
+      {
+        "goods_type": 3,
+        "goods_id": 200000171,
+        "goods_count": 1,
+        "drop_prob": 100,
+        "day_got_limit": 500,
+        "total_got_limit": 8500
+      }
+    ],
     "drop_show_goods_type": 1,
     "drop_show_goods_id": 100699
   },
   {
-    "_row_key": 9,
-    "_row_size": 34,
     "id": 50000001,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -136,11 +190,18 @@
     "end_time": "2026-03-27 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 38,
     "id": 50000002,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -151,11 +212,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 38,
     "id": 50000003,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -166,11 +234,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 38,
     "id": 50000004,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -181,11 +256,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 38,
     "id": 50000005,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -196,11 +278,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 34,
     "id": 50000006,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -210,11 +299,18 @@
     "end_time": "2026-03-28 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 38,
     "id": 50000007,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -225,11 +321,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 16,
-    "_row_size": 38,
     "id": 50000008,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -240,11 +343,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 17,
-    "_row_size": 38,
     "id": 50000009,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -255,11 +365,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 18,
-    "_row_size": 38,
     "id": 50000010,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -270,11 +387,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 34,
     "id": 50000011,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -284,11 +408,18 @@
     "end_time": "2026-03-29 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 38,
     "id": 50000012,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -299,11 +430,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 38,
     "id": 50000013,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -314,11 +452,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 38,
     "id": 50000014,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -329,11 +474,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 38,
     "id": 50000015,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -344,11 +496,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 34,
     "id": 50000016,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -358,11 +517,18 @@
     "end_time": "2026-03-30 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 38,
     "id": 50000017,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -373,11 +539,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 38,
     "id": 50000018,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -388,11 +561,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 38,
     "id": 50000019,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -403,11 +583,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 38,
     "id": 50000020,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -418,11 +605,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 34,
     "id": 50000021,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -432,11 +626,18 @@
     "end_time": "2026-03-31 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 38,
     "id": 50000022,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -447,11 +648,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 38,
     "id": 50000023,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -462,11 +670,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 38,
     "id": 50000024,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -477,11 +692,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 38,
     "id": 50000025,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -492,11 +714,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 34,
     "id": 50000026,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -506,11 +735,18 @@
     "end_time": "2026-04-01 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 38,
     "id": 50000027,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -521,11 +757,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 38,
     "id": 50000028,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -536,11 +779,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 38,
     "id": 50000029,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -551,11 +801,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 38,
     "id": 50000030,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -566,11 +823,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 34,
     "id": 50000031,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -580,11 +844,18 @@
     "end_time": "2026-04-02 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 38,
     "id": 50000032,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -595,11 +866,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 38,
     "id": 50000033,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -610,11 +888,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 38,
     "id": 50000034,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -625,11 +910,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 38,
     "id": 50000035,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -640,11 +932,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 34,
     "id": 50000036,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -654,11 +953,18 @@
     "end_time": "2026-04-03 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 38,
     "id": 50000037,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -669,11 +975,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 38,
     "id": 50000038,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -684,11 +997,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 38,
     "id": 50000039,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -699,11 +1019,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 38,
     "id": 50000040,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -714,11 +1041,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 34,
     "id": 50000041,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -728,11 +1062,18 @@
     "end_time": "2026-04-04 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 38,
     "id": 50000042,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -743,11 +1084,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 38,
     "id": 50000043,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -758,11 +1106,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 38,
     "id": 50000044,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -773,11 +1128,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 38,
     "id": 50000045,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -788,11 +1150,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 34,
     "id": 50000046,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -802,11 +1171,18 @@
     "end_time": "2026-04-05 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 38,
     "id": 50000047,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -817,11 +1193,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 38,
     "id": 50000048,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -832,11 +1215,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 38,
     "id": 50000049,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -847,11 +1237,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 38,
     "id": 50000050,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -862,11 +1259,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 34,
     "id": 50000051,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -876,11 +1280,18 @@
     "end_time": "2026-04-06 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 38,
     "id": 50000052,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -891,11 +1302,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 38,
     "id": 50000053,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -906,11 +1324,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 38,
     "id": 50000054,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -921,11 +1346,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 63,
-    "_row_size": 38,
     "id": 50000055,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -936,11 +1368,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 34,
     "id": 50000056,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -950,11 +1389,18 @@
     "end_time": "2026-04-07 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 38,
     "id": 50000057,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -965,11 +1411,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 66,
-    "_row_size": 38,
     "id": 50000058,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -980,11 +1433,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 67,
-    "_row_size": 38,
     "id": 50000059,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -995,11 +1455,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 68,
-    "_row_size": 38,
     "id": 50000060,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1010,11 +1477,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 69,
-    "_row_size": 34,
     "id": 50000061,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1024,11 +1498,18 @@
     "end_time": "2026-04-08 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 70,
-    "_row_size": 38,
     "id": 50000062,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1039,11 +1520,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 71,
-    "_row_size": 38,
     "id": 50000063,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1054,11 +1542,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 72,
-    "_row_size": 38,
     "id": 50000064,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1069,11 +1564,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 73,
-    "_row_size": 38,
     "id": 50000065,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1084,11 +1586,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 74,
-    "_row_size": 34,
     "id": 50000066,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1098,11 +1607,18 @@
     "end_time": "2026-04-09 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 75,
-    "_row_size": 38,
     "id": 50000067,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1113,11 +1629,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 76,
-    "_row_size": 38,
     "id": 50000068,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1128,11 +1651,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 77,
-    "_row_size": 38,
     "id": 50000069,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1143,11 +1673,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 78,
-    "_row_size": 38,
     "id": 50000070,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1158,11 +1695,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 79,
-    "_row_size": 34,
     "id": 50000071,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1172,11 +1716,18 @@
     "end_time": "2026-04-10 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 80,
-    "_row_size": 38,
     "id": 50000072,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1187,11 +1738,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 81,
-    "_row_size": 38,
     "id": 50000073,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1202,11 +1760,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 82,
-    "_row_size": 38,
     "id": 50000074,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1217,11 +1782,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 83,
-    "_row_size": 38,
     "id": 50000075,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1232,11 +1804,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 84,
-    "_row_size": 34,
     "id": 50000076,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1246,11 +1825,18 @@
     "end_time": "2026-04-11 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 85,
-    "_row_size": 38,
     "id": 50000077,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1261,11 +1847,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 86,
-    "_row_size": 38,
     "id": 50000078,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1276,11 +1869,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 87,
-    "_row_size": 38,
     "id": 50000079,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1291,11 +1891,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 88,
-    "_row_size": 38,
     "id": 50000080,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1306,11 +1913,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 89,
-    "_row_size": 34,
     "id": 50000081,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1320,11 +1934,18 @@
     "end_time": "2026-04-12 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 90,
-    "_row_size": 38,
     "id": 50000082,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1335,11 +1956,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 91,
-    "_row_size": 38,
     "id": 50000083,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1350,11 +1978,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 92,
-    "_row_size": 38,
     "id": 50000084,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1365,11 +2000,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 93,
-    "_row_size": 38,
     "id": 50000085,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1380,11 +2022,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 94,
-    "_row_size": 34,
     "id": 50000086,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1394,11 +2043,18 @@
     "end_time": "2026-04-13 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 95,
-    "_row_size": 38,
     "id": 50000087,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1409,11 +2065,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 96,
-    "_row_size": 38,
     "id": 50000088,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1424,11 +2087,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 97,
-    "_row_size": 38,
     "id": 50000089,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1439,11 +2109,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 98,
-    "_row_size": 38,
     "id": 50000090,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1454,11 +2131,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 99,
-    "_row_size": 34,
     "id": 50000091,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1468,11 +2152,18 @@
     "end_time": "2026-04-14 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 100,
-    "_row_size": 38,
     "id": 50000092,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1483,11 +2174,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 101,
-    "_row_size": 38,
     "id": 50000093,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1498,11 +2196,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 102,
-    "_row_size": 38,
     "id": 50000094,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1513,11 +2218,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 103,
-    "_row_size": 38,
     "id": 50000095,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1528,11 +2240,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 104,
-    "_row_size": 34,
     "id": 50000096,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1542,11 +2261,18 @@
     "end_time": "2026-04-15 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 105,
-    "_row_size": 38,
     "id": 50000097,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1557,11 +2283,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 106,
-    "_row_size": 38,
     "id": 50000098,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1572,11 +2305,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 107,
-    "_row_size": 38,
     "id": 50000099,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1587,11 +2327,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 108,
-    "_row_size": 38,
     "id": 50000100,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1602,11 +2349,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 109,
-    "_row_size": 34,
     "id": 50000101,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1616,11 +2370,18 @@
     "end_time": "2026-04-16 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 110,
-    "_row_size": 38,
     "id": 50000102,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1631,11 +2392,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 111,
-    "_row_size": 38,
     "id": 50000103,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1646,11 +2414,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 112,
-    "_row_size": 38,
     "id": 50000104,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1661,11 +2436,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 113,
-    "_row_size": 38,
     "id": 50000105,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1676,11 +2458,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 114,
-    "_row_size": 34,
     "id": 50000106,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1690,11 +2479,18 @@
     "end_time": "2026-04-17 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 115,
-    "_row_size": 38,
     "id": 50000107,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1705,11 +2501,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 116,
-    "_row_size": 38,
     "id": 50000108,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1720,11 +2523,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 117,
-    "_row_size": 38,
     "id": 50000109,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1735,11 +2545,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 118,
-    "_row_size": 38,
     "id": 50000110,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1750,11 +2567,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 119,
-    "_row_size": 34,
     "id": 50000111,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1764,11 +2588,18 @@
     "end_time": "2026-04-18 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 120,
-    "_row_size": 38,
     "id": 50000112,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1779,11 +2610,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 121,
-    "_row_size": 38,
     "id": 50000113,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1794,11 +2632,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 122,
-    "_row_size": 38,
     "id": 50000114,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1809,11 +2654,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 123,
-    "_row_size": 38,
     "id": 50000115,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1824,11 +2676,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 124,
-    "_row_size": 34,
     "id": 50000116,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1838,11 +2697,18 @@
     "end_time": "2026-04-19 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 125,
-    "_row_size": 38,
     "id": 50000117,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1853,11 +2719,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 126,
-    "_row_size": 38,
     "id": 50000118,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1868,11 +2741,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 127,
-    "_row_size": 38,
     "id": 50000119,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1883,11 +2763,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 128,
-    "_row_size": 38,
     "id": 50000120,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1898,11 +2785,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 129,
-    "_row_size": 34,
     "id": 50000121,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1912,11 +2806,18 @@
     "end_time": "2026-04-20 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 130,
-    "_row_size": 38,
     "id": 50000122,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1927,11 +2828,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 131,
-    "_row_size": 38,
     "id": 50000123,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1942,11 +2850,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 132,
-    "_row_size": 38,
     "id": 50000124,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1957,11 +2872,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 133,
-    "_row_size": 38,
     "id": 50000125,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1972,11 +2894,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 134,
-    "_row_size": 34,
     "id": 50000126,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -1986,11 +2915,18 @@
     "end_time": "2026-04-21 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 135,
-    "_row_size": 38,
     "id": 50000127,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2001,11 +2937,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 136,
-    "_row_size": 38,
     "id": 50000128,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2016,11 +2959,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 137,
-    "_row_size": 38,
     "id": 50000129,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2031,11 +2981,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 138,
-    "_row_size": 38,
     "id": 50000130,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2046,11 +3003,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 139,
-    "_row_size": 34,
     "id": 50000131,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2060,11 +3024,18 @@
     "end_time": "2026-04-22 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 140,
-    "_row_size": 38,
     "id": 50000132,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2075,11 +3046,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 141,
-    "_row_size": 38,
     "id": 50000133,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2090,11 +3068,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 142,
-    "_row_size": 38,
     "id": 50000134,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2105,11 +3090,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 143,
-    "_row_size": 38,
     "id": 50000135,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2120,11 +3112,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 144,
-    "_row_size": 34,
     "id": 50000136,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2134,11 +3133,18 @@
     "end_time": "2026-04-23 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 145,
-    "_row_size": 38,
     "id": 50000137,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2149,11 +3155,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 146,
-    "_row_size": 38,
     "id": 50000138,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2164,11 +3177,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 147,
-    "_row_size": 38,
     "id": 50000139,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2179,11 +3199,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 148,
-    "_row_size": 38,
     "id": 50000140,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2194,11 +3221,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 149,
-    "_row_size": 34,
     "id": 50000141,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2208,11 +3242,18 @@
     "end_time": "2026-04-24 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 150,
-    "_row_size": 38,
     "id": 50000142,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2223,11 +3264,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 151,
-    "_row_size": 38,
     "id": 50000143,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2238,11 +3286,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 152,
-    "_row_size": 38,
     "id": 50000144,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2253,11 +3308,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 153,
-    "_row_size": 38,
     "id": 50000145,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2268,11 +3330,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 154,
-    "_row_size": 34,
     "id": 50000146,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2282,11 +3351,18 @@
     "end_time": "2026-04-25 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 155,
-    "_row_size": 38,
     "id": 50000147,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2297,11 +3373,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 156,
-    "_row_size": 38,
     "id": 50000148,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2312,11 +3395,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 157,
-    "_row_size": 38,
     "id": 50000149,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2327,11 +3417,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 158,
-    "_row_size": 38,
     "id": 50000150,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2342,11 +3439,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 159,
-    "_row_size": 34,
     "id": 50000151,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2356,11 +3460,18 @@
     "end_time": "2026-04-26 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 160,
-    "_row_size": 38,
     "id": 50000152,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2371,11 +3482,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 161,
-    "_row_size": 38,
     "id": 50000153,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2386,11 +3504,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 162,
-    "_row_size": 38,
     "id": 50000154,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2401,11 +3526,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 163,
-    "_row_size": 38,
     "id": 50000155,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2416,11 +3548,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 164,
-    "_row_size": 34,
     "id": 50000156,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2430,11 +3569,18 @@
     "end_time": "2026-04-27 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 165,
-    "_row_size": 38,
     "id": 50000157,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2445,11 +3591,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 166,
-    "_row_size": 38,
     "id": 50000158,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2460,11 +3613,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 167,
-    "_row_size": 38,
     "id": 50000159,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2475,11 +3635,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 168,
-    "_row_size": 38,
     "id": 50000160,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2490,11 +3657,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 169,
-    "_row_size": 34,
     "id": 50000161,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2504,11 +3678,18 @@
     "end_time": "2026-04-28 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 170,
-    "_row_size": 38,
     "id": 50000162,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2519,11 +3700,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 171,
-    "_row_size": 38,
     "id": 50000163,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2534,11 +3722,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 172,
-    "_row_size": 38,
     "id": 50000164,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2549,11 +3744,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 173,
-    "_row_size": 38,
     "id": 50000165,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2564,11 +3766,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 174,
-    "_row_size": 34,
     "id": 50000166,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2578,11 +3787,18 @@
     "end_time": "2026-04-29 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 175,
-    "_row_size": 38,
     "id": 50000167,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2593,11 +3809,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 176,
-    "_row_size": 38,
     "id": 50000168,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2608,11 +3831,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 177,
-    "_row_size": 38,
     "id": 50000169,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2623,11 +3853,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 178,
-    "_row_size": 38,
     "id": 50000170,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2638,11 +3875,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 179,
-    "_row_size": 34,
     "id": 50000171,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2652,11 +3896,18 @@
     "end_time": "2026-04-30 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 180,
-    "_row_size": 38,
     "id": 50000172,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2667,11 +3918,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 181,
-    "_row_size": 38,
     "id": 50000173,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2682,11 +3940,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 182,
-    "_row_size": 38,
     "id": 50000174,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2697,11 +3962,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 183,
-    "_row_size": 38,
     "id": 50000175,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2712,11 +3984,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 184,
-    "_row_size": 34,
     "id": 50000176,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2726,11 +4005,18 @@
     "end_time": "2026-05-01 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 185,
-    "_row_size": 38,
     "id": 50000177,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2741,11 +4027,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 186,
-    "_row_size": 38,
     "id": 50000178,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2756,11 +4049,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 187,
-    "_row_size": 38,
     "id": 50000179,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2771,11 +4071,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 188,
-    "_row_size": 38,
     "id": 50000180,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2786,11 +4093,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 189,
-    "_row_size": 34,
     "id": 50000181,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2800,11 +4114,18 @@
     "end_time": "2026-05-02 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 190,
-    "_row_size": 38,
     "id": 50000182,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2815,11 +4136,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 191,
-    "_row_size": 38,
     "id": 50000183,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2830,11 +4158,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 192,
-    "_row_size": 38,
     "id": 50000184,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2845,11 +4180,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 193,
-    "_row_size": 38,
     "id": 50000185,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2860,11 +4202,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 194,
-    "_row_size": 34,
     "id": 50000186,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2874,11 +4223,18 @@
     "end_time": "2026-05-03 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 195,
-    "_row_size": 38,
     "id": 50000187,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2889,11 +4245,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 196,
-    "_row_size": 38,
     "id": 50000188,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2904,11 +4267,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 197,
-    "_row_size": 38,
     "id": 50000189,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2919,11 +4289,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 198,
-    "_row_size": 38,
     "id": 50000190,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2934,11 +4311,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 199,
-    "_row_size": 34,
     "id": 50000191,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2948,11 +4332,18 @@
     "end_time": "2026-05-04 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 200,
-    "_row_size": 38,
     "id": 50000192,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2963,11 +4354,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 201,
-    "_row_size": 38,
     "id": 50000193,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2978,11 +4376,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 202,
-    "_row_size": 38,
     "id": 50000194,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -2993,11 +4398,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 203,
-    "_row_size": 38,
     "id": 50000195,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3008,11 +4420,18 @@
     "area_id": 451030132,
     "world_map_activity_conf_id": 15,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 204,
-    "_row_size": 34,
     "id": 50000196,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3022,11 +4441,18 @@
     "end_time": "2026-05-05 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 205,
-    "_row_size": 38,
     "id": 50000197,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3037,11 +4463,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 206,
-    "_row_size": 38,
     "id": 50000198,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3052,11 +4485,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 207,
-    "_row_size": 38,
     "id": 50000199,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3067,11 +4507,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 208,
-    "_row_size": 38,
     "id": 50000200,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3082,11 +4529,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 209,
-    "_row_size": 34,
     "id": 50000201,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3096,11 +4550,18 @@
     "end_time": "2026-05-06 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 210,
-    "_row_size": 38,
     "id": 50000202,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3111,11 +4572,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 211,
-    "_row_size": 38,
     "id": 50000203,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3126,11 +4594,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 212,
-    "_row_size": 38,
     "id": 50000204,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3141,11 +4616,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 213,
-    "_row_size": 38,
     "id": 50000205,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3156,11 +4638,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 214,
-    "_row_size": 34,
     "id": 50000206,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3170,11 +4659,18 @@
     "end_time": "2026-05-07 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 215,
-    "_row_size": 38,
     "id": 50000207,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3185,11 +4681,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 216,
-    "_row_size": 38,
     "id": 50000208,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3200,11 +4703,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 217,
-    "_row_size": 38,
     "id": 50000209,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3215,11 +4725,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 218,
-    "_row_size": 38,
     "id": 50000210,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3230,11 +4747,18 @@
     "area_id": 451030134,
     "world_map_activity_conf_id": 17,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 219,
-    "_row_size": 34,
     "id": 50000211,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3244,11 +4768,18 @@
     "end_time": "2026-05-08 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 220,
-    "_row_size": 38,
     "id": 50000212,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3259,11 +4790,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 221,
-    "_row_size": 38,
     "id": 50000213,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3274,11 +4812,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 222,
-    "_row_size": 38,
     "id": 50000214,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3289,11 +4834,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 223,
-    "_row_size": 38,
     "id": 50000215,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3304,11 +4856,18 @@
     "area_id": 451030140,
     "world_map_activity_conf_id": 23,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 224,
-    "_row_size": 34,
     "id": 50000216,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3318,11 +4877,18 @@
     "end_time": "2026-05-09 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 225,
-    "_row_size": 38,
     "id": 50000217,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3333,11 +4899,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 226,
-    "_row_size": 38,
     "id": 50000218,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3348,11 +4921,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 227,
-    "_row_size": 38,
     "id": 50000219,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3363,11 +4943,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 228,
-    "_row_size": 38,
     "id": 50000220,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3378,11 +4965,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 229,
-    "_row_size": 34,
     "id": 50000221,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3392,11 +4986,18 @@
     "end_time": "2026-05-10 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 230,
-    "_row_size": 38,
     "id": 50000222,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3407,11 +5008,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 231,
-    "_row_size": 38,
     "id": 50000223,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3422,11 +5030,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 232,
-    "_row_size": 38,
     "id": 50000224,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3437,11 +5052,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 233,
-    "_row_size": 38,
     "id": 50000225,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3452,11 +5074,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 234,
-    "_row_size": 34,
     "id": 50000226,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3466,11 +5095,18 @@
     "end_time": "2026-05-11 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 235,
-    "_row_size": 38,
     "id": 50000227,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3481,11 +5117,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 236,
-    "_row_size": 38,
     "id": 50000228,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3496,11 +5139,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 237,
-    "_row_size": 38,
     "id": 50000229,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3511,11 +5161,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 238,
-    "_row_size": 38,
     "id": 50000230,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3526,11 +5183,18 @@
     "area_id": 451030131,
     "world_map_activity_conf_id": 14,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 239,
-    "_row_size": 34,
     "id": 50000231,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3540,11 +5204,18 @@
     "end_time": "2026-05-12 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 240,
-    "_row_size": 38,
     "id": 50000232,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3555,11 +5226,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 241,
-    "_row_size": 38,
     "id": 50000233,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3570,11 +5248,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 242,
-    "_row_size": 38,
     "id": 50000234,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3585,11 +5270,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 243,
-    "_row_size": 38,
     "id": 50000235,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3600,11 +5292,18 @@
     "area_id": 451030139,
     "world_map_activity_conf_id": 21,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 244,
-    "_row_size": 34,
     "id": 50000236,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3614,11 +5313,18 @@
     "end_time": "2026-05-13 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 245,
-    "_row_size": 38,
     "id": 50000237,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3629,11 +5335,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 246,
-    "_row_size": 38,
     "id": 50000238,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3644,11 +5357,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 247,
-    "_row_size": 38,
     "id": 50000239,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3659,11 +5379,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 248,
-    "_row_size": 38,
     "id": 50000240,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3674,11 +5401,18 @@
     "area_id": 451030133,
     "world_map_activity_conf_id": 16,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 249,
-    "_row_size": 34,
     "id": 50000241,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3688,11 +5422,18 @@
     "end_time": "2026-05-14 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 250,
-    "_row_size": 38,
     "id": 50000242,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3703,11 +5444,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 251,
-    "_row_size": 38,
     "id": 50000243,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3718,11 +5466,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 252,
-    "_row_size": 38,
     "id": 50000244,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3733,11 +5488,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 253,
-    "_row_size": 38,
     "id": 50000245,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3748,11 +5510,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 254,
-    "_row_size": 34,
     "id": 50000246,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3762,11 +5531,18 @@
     "end_time": "2026-05-15 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 255,
-    "_row_size": 38,
     "id": 50000247,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3777,11 +5553,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 256,
-    "_row_size": 38,
     "id": 50000248,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3792,11 +5575,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 257,
-    "_row_size": 38,
     "id": 50000249,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3807,11 +5597,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 258,
-    "_row_size": 38,
     "id": 50000250,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3822,11 +5619,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 259,
-    "_row_size": 34,
     "id": 50000251,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3836,11 +5640,18 @@
     "end_time": "2026-05-16 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 260,
-    "_row_size": 38,
     "id": 50000252,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3851,11 +5662,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 261,
-    "_row_size": 38,
     "id": 50000253,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3866,11 +5684,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 262,
-    "_row_size": 38,
     "id": 50000254,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3881,11 +5706,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 263,
-    "_row_size": 38,
     "id": 50000255,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3896,11 +5728,18 @@
     "area_id": 451030136,
     "world_map_activity_conf_id": 19,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 264,
-    "_row_size": 34,
     "id": 50000256,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3910,11 +5749,18 @@
     "end_time": "2026-05-17 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 265,
-    "_row_size": 38,
     "id": 50000257,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3925,11 +5771,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 266,
-    "_row_size": 38,
     "id": 50000258,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3940,11 +5793,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 267,
-    "_row_size": 38,
     "id": 50000259,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3955,11 +5815,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 268,
-    "_row_size": 38,
     "id": 50000260,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3970,11 +5837,18 @@
     "area_id": 451030137,
     "world_map_activity_conf_id": 20,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 269,
-    "_row_size": 34,
     "id": 50000261,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3984,11 +5858,18 @@
     "end_time": "2026-05-18 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 270,
-    "_row_size": 38,
     "id": 50000262,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -3999,11 +5880,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 271,
-    "_row_size": 38,
     "id": 50000263,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4014,11 +5902,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 272,
-    "_row_size": 38,
     "id": 50000264,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4029,11 +5924,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 273,
-    "_row_size": 38,
     "id": 50000265,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4044,11 +5946,18 @@
     "area_id": 451030138,
     "world_map_activity_conf_id": 22,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 274,
-    "_row_size": 34,
     "id": 50000266,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4058,11 +5967,18 @@
     "end_time": "2026-05-19 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 275,
-    "_row_size": 38,
     "id": 50000267,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4073,11 +5989,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 276,
-    "_row_size": 38,
     "id": 50000268,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4088,11 +6011,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 277,
-    "_row_size": 38,
     "id": 50000269,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4103,11 +6033,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 278,
-    "_row_size": 38,
     "id": 50000270,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4118,11 +6055,18 @@
     "area_id": 451030129,
     "world_map_activity_conf_id": 12,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 279,
-    "_row_size": 34,
     "id": 50000271,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4132,11 +6076,18 @@
     "end_time": "2026-05-20 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 280,
-    "_row_size": 38,
     "id": 50000272,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4147,11 +6098,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 281,
-    "_row_size": 38,
     "id": 50000273,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4162,11 +6120,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 282,
-    "_row_size": 38,
     "id": 50000274,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4177,11 +6142,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 283,
-    "_row_size": 38,
     "id": 50000275,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4192,11 +6164,18 @@
     "area_id": 451030130,
     "world_map_activity_conf_id": 13,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 284,
-    "_row_size": 34,
     "id": 50000276,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4206,11 +6185,18 @@
     "end_time": "2026-05-21 03:59:59",
     "area_id": 641030009,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 285,
-    "_row_size": 38,
     "id": 50000277,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4221,11 +6207,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 286,
-    "_row_size": 38,
     "id": 50000278,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4236,11 +6229,18 @@
     "area_id": 451030128,
     "world_map_activity_conf_id": 11,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 287,
-    "_row_size": 38,
     "id": 50000279,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4251,11 +6251,18 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   },
   {
-    "_row_key": 288,
-    "_row_size": 38,
     "id": 50000280,
     "drop_behavior": 23,
     "drop_behavior_condition": [
@@ -4266,6 +6273,15 @@
     "area_id": 451030135,
     "world_map_activity_conf_id": 18,
     "player_world_type": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "drop_prob": 100,
+        "day_got_limit": 1200,
+        "total_got_limit": 1200
+      }
+    ]
   }
 ]

@@ -1,15 +1,11 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 18,
     "id": 1,
     "name": "朴素小屋",
     "expend_vitem_type": 44,
     "look": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Textures/img_HousePhotos1.img_HousePhotos1'"
   },
   {
-    "_row_key": 2,
-    "_row_size": 46,
     "id": 2,
     "name": "双室简居",
     "task": 60111,
@@ -20,11 +16,20 @@
     "movie": 30,
     "movie_ui_time": 13000,
     "look": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Textures/img_HousePhotos2.img_HousePhotos2'",
-    "desc": []
+    "desc": [
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem1_png.img_Expansion_UnlockItem1_png'",
+        "desc_text_1": "独立房间",
+        "desc_text_2": "新增房间"
+      },
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem3_png.img_Expansion_UnlockItem3_png'",
+        "desc_text_1": "叮叮推荐",
+        "desc_text_2": "新增家具种类"
+      }
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 46,
     "id": 3,
     "name": "宽阔平层",
     "task": 60112,
@@ -35,11 +40,20 @@
     "movie": 31,
     "movie_ui_time": 13000,
     "look": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Textures/img_HousePhotos3.img_HousePhotos3'",
-    "desc": []
+    "desc": [
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem1_png.img_Expansion_UnlockItem1_png'",
+        "desc_text_1": "走廊房间",
+        "desc_text_2": "新增房间"
+      },
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem3_png.img_Expansion_UnlockItem3_png'",
+        "desc_text_1": "叮叮推荐",
+        "desc_text_2": "新增家具种类"
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 46,
     "id": 4,
     "name": "地窖别邸",
     "task": 60113,
@@ -50,11 +64,20 @@
     "movie": 32,
     "movie_ui_time": 13000,
     "look": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Textures/img_HousePhotos4.img_HousePhotos4'",
-    "desc": []
+    "desc": [
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem1_png.img_Expansion_UnlockItem1_png'",
+        "desc_text_1": "地下室",
+        "desc_text_2": "新增房间"
+      },
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem3_png.img_Expansion_UnlockItem3_png'",
+        "desc_text_1": "叮叮推荐",
+        "desc_text_2": "新增家具种类"
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 46,
     "id": 5,
     "name": "独栋豪宅",
     "task": 60114,
@@ -65,6 +88,17 @@
     "movie": 33,
     "movie_ui_time": 13000,
     "look": "Texture2D'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Textures/img_HousePhotos5.img_HousePhotos5'",
-    "desc": []
+    "desc": [
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem1_png.img_Expansion_UnlockItem1_png'",
+        "desc_text_1": "二层阁楼",
+        "desc_text_2": "新增房间"
+      },
+      {
+        "desc_icon": "PaperSprite'/Game/NewRoco/Modules/System/Home/Raw/HouseExpansion/Frames/img_Expansion_UnlockItem3_png.img_Expansion_UnlockItem3_png'",
+        "desc_text_1": "叮叮推荐",
+        "desc_text_2": "新增家具种类"
+      }
+    ]
   }
 ]

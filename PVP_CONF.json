@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 83,
     "id": 1001,
     "sequence": 3,
     "name": "闪耀大赛",
@@ -12,7 +10,9 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_duizhan_png.img_duizhan_png'",
     "icon_color": "dc9827",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_Light.img_Light'",
-    "award": 8,
+    "award": [
+      250001
+    ],
     "time": 30,
     "battle_config": 340001,
     "team_type": 5,
@@ -21,11 +21,11 @@
     "hide_npc_area": 411030009,
     "teleport": 1002,
     "team_num": 6,
-    "mappoint": ","
+    "mappoint": [
+      "103;-802979;-778280;29974"
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 79,
     "id": 2001,
     "sequence": 4,
     "name": "命运对决",
@@ -36,7 +36,9 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_suiji_png.img_suiji_png'",
     "icon_color": "8d73bd",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_Phantom.img_Phantom'",
-    "award": 8,
+    "award": [
+      250001
+    ],
     "time": 150,
     "battle_config": 340002,
     "team_type": 6,
@@ -44,11 +46,12 @@
     "air_wall": 81030002,
     "teleport": 1004,
     "team_num": 6,
-    "mappoint": "-"
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 75,
     "id": 3001,
     "sequence": 5,
     "name": "激流对决",
@@ -59,18 +62,21 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_shui_png.img_shui_png'",
     "icon_color": "65aaff",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_water.img_water'",
-    "award": 8,
+    "award": [
+      250001
+    ],
     "time": 30,
     "battle_config": 340003,
     "team_type": 3,
     "match_type": 1,
     "air_wall": 81030003,
     "team_num": 6,
-    "mappoint": "-"
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 75,
     "id": 4001,
     "sequence": 6,
     "name": "虫虫对决",
@@ -81,18 +87,21 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_chongxi_png.img_chongxi_png'",
     "icon_color": "9fcc35",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_Bug.img_Bug'",
-    "award": 8,
+    "award": [
+      250001
+    ],
     "time": 30,
     "battle_config": 340004,
     "team_type": 4,
     "match_type": 1,
     "air_wall": 81030004,
     "team_num": 6,
-    "mappoint": "-"
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 88,
     "id": 5001,
     "sequence": 1,
     "name": "闪耀大赛",
@@ -103,7 +112,11 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_duizhan_png.img_duizhan_png'",
     "icon_color": "dc9827",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_pvp.img_pvp'",
-    "award": 36,
+    "award": [
+      110002,
+      110001,
+      250001
+    ],
     "time": 30,
     "battle_config": 340005,
     "team_type": 5,
@@ -114,11 +127,11 @@
     "is_show": true,
     "team_num": 6,
     "pvp_rank_is_open_limit_fantastic": 1,
-    "mappoint": ","
+    "mappoint": [
+      "103;-802979;-778280;29974"
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 79,
     "id": 6001,
     "sequence": 2,
     "name": "极速对决",
@@ -129,7 +142,9 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_3v3_png.img_3v3_png'",
     "icon_color": "4cb1d6",
     "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_cao.img_cao'",
-    "award": 8,
+    "award": [
+      250001
+    ],
     "time": 30,
     "battle_config": 340006,
     "team_type": 10,
@@ -137,6 +152,9 @@
     "air_wall": 81030005,
     "teleport": 1002,
     "team_num": 3,
-    "mappoint": "-"
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ]
   }
 ]

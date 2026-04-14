@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 89,
     "id": 100002,
     "editor_name": "普通咕噜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_001/FairyBall_001_H_Skin.FairyBall_001_H_Skin'",
@@ -12,7 +10,9 @@
     "Noeffect_ball_prob": 20000,
     "guarant_efficiency": 12000,
     "static_catch_rate": -1,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_effect_blackboard": "Normal",
     "ball_threshold_modify": 10000,
     "hp_sup_prob": 1,
@@ -25,8 +25,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu1_png.img_qiu1_png'"
   },
   {
-    "_row_key": 2,
-    "_row_size": 90,
     "id": 100003,
     "editor_name": "高级咕噜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_002/FairyBall_002_H_Skin.FairyBall_002_H_Skin'",
@@ -38,7 +36,9 @@
     "Noeffect_ball_prob": 25000,
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_effect_blackboard": "GaoJi",
     "ball_threshold_modify": 240000,
     "hp_sup_prob": 1,
@@ -51,8 +51,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu2_png.img_qiu2_png'"
   },
   {
-    "_row_key": 3,
-    "_row_size": 70,
     "id": 100254,
     "editor_name": "爱心球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_001/FairyBall_001_H_Skin.FairyBall_001_H_Skin'",
@@ -62,7 +60,9 @@
     "solid_ball_act": 100001,
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_effect_blackboard": "Normal",
     "hp_sup_prob": 1,
     "refresh_prob": 1000,
@@ -72,8 +72,6 @@
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100254.100254'"
   },
   {
-    "_row_key": 4,
-    "_row_size": 99,
     "id": 100255,
     "editor_name": "国王球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_003/FairyBall_003_H_Skin.FairyBall_003_H_Skin'",
@@ -87,7 +85,14 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 2,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {
+        "extra_effect": 5,
+        "extra_effect_param1": [
+          4
+        ]
+      }
+    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "GuoWang",
     "ball_threshold_modify": 9990000,
@@ -101,8 +106,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu3_png.img_qiu3_png'"
   },
   {
-    "_row_key": 5,
-    "_row_size": 102,
     "id": 100261,
     "editor_name": "瞌睡球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_011/FairyBall_011_H_Skin.FairyBall_011_H_Skin'",
@@ -115,7 +118,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_blackboard": [
       3
     ],
@@ -134,8 +139,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_keshuiqiu_png.img_keshuiqiu_png'"
   },
   {
-    "_row_key": 6,
-    "_row_size": 102,
     "id": 100262,
     "editor_name": "美妙球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_031/FairyBall_031_H_Skin.FairyBall_031_H_Skin'",
@@ -148,7 +151,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_blackboard": [
       2
     ],
@@ -168,8 +173,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_haihaiqiu_png.img_haihaiqiu_png'"
   },
   {
-    "_row_key": 7,
-    "_row_size": 102,
     "id": 100263,
     "editor_name": "好战球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_021/FairyBall_021_Skin.FairyBall_021_Skin'",
@@ -182,7 +185,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_blackboard": [
       1
     ],
@@ -202,8 +207,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_lumangqiu_png.img_lumangqiu_png'"
   },
   {
-    "_row_key": 8,
-    "_row_size": 98,
     "id": 100271,
     "editor_name": "光合球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_081/FairyBall_081_Skin.FairyBall_081_Skin'",
@@ -216,7 +219,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       3,
       6
@@ -233,8 +238,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_guangheqiu_png.img_guangheqiu_png'"
   },
   {
-    "_row_key": 9,
-    "_row_size": 98,
     "id": 100272,
     "editor_name": "网兜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_041/FairyBall_041_Skin.FairyBall_041_Skin'",
@@ -247,7 +250,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       5,
       15
@@ -264,8 +269,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_wangdiuqiu_png.img_wangdiuqiu_png'"
   },
   {
-    "_row_key": 10,
-    "_row_size": 102,
     "id": 100273,
     "editor_name": "暗星球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_051/FairyBall_051_Skin.FairyBall_051_Skin'",
@@ -278,7 +281,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_blackboard": [
       4
     ],
@@ -298,8 +303,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_daodanqiu_png.img_daodanqiu_png'"
   },
   {
-    "_row_key": 11,
-    "_row_size": 98,
     "id": 100274,
     "editor_name": "调温球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_061/FairyBall_061_Skin.FairyBall_061_Skin'",
@@ -312,7 +315,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       9,
       4
@@ -329,8 +334,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_tiaowenqiu_png.img_tiaowenqiu_png'"
   },
   {
-    "_row_key": 12,
-    "_row_size": 98,
     "id": 100275,
     "editor_name": "绝缘球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_071/FairyBall_071_Skin.FairyBall_071_Skin'",
@@ -343,7 +346,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       11,
       12
@@ -360,8 +365,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_jueyuanqiu_png.img_jueyuanqiu_png'"
   },
   {
-    "_row_key": 13,
-    "_row_size": 98,
     "id": 100281,
     "editor_name": "水珠球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_091/FairyBall_091_Skin.FairyBall_091_Skin'",
@@ -374,7 +377,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_weather": [
       3,
       4
@@ -391,8 +396,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_shuizhuqiu_png.img_shuizhuqiu_png'"
   },
   {
-    "_row_key": 14,
-    "_row_size": 98,
     "id": 100282,
     "editor_name": "冰凌球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_101/FairyBall_101_Skin.FairyBall_101_Skin'",
@@ -405,7 +408,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_weather": [
       5
     ],
@@ -421,8 +426,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_binglingqiu_png.img_binglingqiu_png'"
   },
   {
-    "_row_key": 15,
-    "_row_size": 98,
     "id": 100283,
     "editor_name": "淘沙球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_111/FairyBall_111_Skin.FairyBall_111_Skin'",
@@ -435,7 +438,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       8,
       13
@@ -452,8 +457,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_shaliqiu_png.img_shaliqiu_png'"
   },
   {
-    "_row_key": 16,
-    "_row_size": 98,
     "id": 100284,
     "editor_name": "变幻球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_121/FairyBall_121_Skin.FairyBall_121_Skin'",
@@ -466,7 +469,9 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "param_skilldam": [
       20,
       19
@@ -483,8 +488,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_miwuqiu_png.img_miwuqiu_png'"
   },
   {
-    "_row_key": 17,
-    "_row_size": 94,
     "id": 100285,
     "editor_name": "捕光球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_121/FairyBall_121_Skin.FairyBall_131_Skin'",
@@ -496,7 +499,9 @@
     "Noeffect_ball_prob": 9990000,
     "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "BuGuang",
     "ball_threshold_modify": 9990000,
@@ -510,8 +515,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon11_png.img_icon11_png'"
   },
   {
-    "_row_key": 18,
-    "_row_size": 99,
     "id": 100286,
     "editor_name": "棱镜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_141/FairyBall_141_Skin.FairyBall_141_Skin'",
@@ -525,7 +528,36 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {
+        "extra_effect": 4,
+        "extra_effect_param1": [
+          1,
+          2
+        ],
+        "extra_effect_param2": [
+          0,
+          1000
+        ],
+        "extra_effect_param3": [
+          0,
+          0
+        ],
+        "extra_effect_param4": [
+          9900,
+          100
+        ]
+      },
+      {
+        "extra_effect": 5,
+        "extra_effect_param1": [
+          4
+        ],
+        "extra_effect_param2": [
+          10
+        ]
+      }
+    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "LengJing",
     "ball_threshold_modify": 9990000,
@@ -539,8 +571,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon18_png.img_icon18_png'"
   },
   {
-    "_row_key": 19,
-    "_row_size": 90,
     "id": 100287,
     "editor_name": "可可果球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_161/FairyBall_161_Skin.FairyBall_161_Skin'",
@@ -552,7 +582,9 @@
     "Noeffect_ball_prob": 25000,
     "guarant_efficiency": 20000,
     "static_catch_rate": -1,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_effect_blackboard": "GaoJi",
     "ball_threshold_modify": 240000,
     "hp_sup_prob": 1,
@@ -565,8 +597,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon19_png.img_icon19_png'"
   },
   {
-    "_row_key": 20,
-    "_row_size": 99,
     "id": 100288,
     "editor_name": "织梦棱镜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_171/FairyBall_171_Skin.FairyBall_171_Skin'",
@@ -580,7 +610,29 @@
     "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {
+        "extra_effect": 4,
+        "extra_effect_param1": [
+          2
+        ],
+        "extra_effect_param2": [
+          1
+        ],
+        "extra_effect_param4": [
+          10000
+        ]
+      },
+      {
+        "extra_effect": 5,
+        "extra_effect_param1": [
+          4
+        ],
+        "extra_effect_param2": [
+          10
+        ]
+      }
+    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "S1",
     "ball_threshold_modify": 9990000,
@@ -594,8 +646,6 @@
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon20_png.img_icon20_png'"
   },
   {
-    "_row_key": 21,
-    "_row_size": 73,
     "id": 280001,
     "editor_name": "临时咕噜球",
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_000/FairyBall_000_Skin.FairyBall_000_Skin'",
@@ -606,7 +656,9 @@
     "Noeffect_ball_prob": 20000,
     "guarant_efficiency": 12000,
     "static_catch_rate": -1,
-    "extra_effect_group": [],
+    "extra_effect_group": [
+      {}
+    ],
     "catch_effect_blackboard": "LinShi",
     "ball_threshold_modify": 10000,
     "ball_list_priority": 1,

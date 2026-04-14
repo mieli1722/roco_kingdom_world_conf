@@ -1,167 +1,139 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 19,
     "id": 1,
     "editor_name": "主角冲刺",
     "server_move_type": 3,
     "vitality_cost": {
-      "min_start": 32028,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 125,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 2,
-    "_row_size": 19,
     "id": 2,
     "editor_name": "骑乘狼冲刺",
     "server_move_type": 3,
     "vitality_cost": {
-      "min_start": 58908,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 230,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 3,
-    "_row_size": 19,
     "id": 3,
     "editor_name": "主角游泳",
     "server_move_type": 11,
     "vitality_cost": {
-      "min_start": 6428,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 25,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 4,
-    "_row_size": 19,
     "id": 4,
     "editor_name": "主角游泳冲刺",
     "server_move_type": 12,
     "vitality_cost": {
-      "min_start": 19228,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 75,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 5,
-    "_row_size": 19,
     "id": 5,
     "editor_name": "主角攀爬",
     "server_move_type": 17,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 5120,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 6,
-    "_row_size": 19,
     "id": 6,
     "editor_name": "主角攀爬跳跃",
     "server_move_type": 18,
     "vitality_cost": {
-      "min_start": 448,
-      "start_cost": 51200
+      "min_start": 1,
+      "start_cost": 200
     }
   },
   {
-    "_row_key": 7,
-    "_row_size": 15,
     "id": 7,
     "editor_name": "主角感知技能",
     "vitality_cost": {
-      "min_start": 25628,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 100,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 8,
-    "_row_size": 19,
     "id": 8,
     "editor_name": "冬雨雀飞升",
     "server_move_type": 6,
     "vitality_cost": {
-      "min_start": 51228,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 200,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 9,
-    "_row_size": 19,
     "id": 9,
     "editor_name": "蒲公英飞升",
     "server_move_type": 6,
     "vitality_cost": {
-      "min_start": 40988,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 160,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 10,
-    "_row_size": 19,
     "id": 10,
     "editor_name": "岚鸟飞升",
     "server_move_type": 6,
     "vitality_cost": {
-      "min_start": 51228,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 200,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 11,
-    "_row_size": 15,
     "id": 11,
     "editor_name": "冬雨雀滑翔",
     "vitality_cost": {
-      "min_start": 5148,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 12,
-    "_row_size": 15,
     "id": 12,
     "editor_name": "蒲公英滑翔",
     "vitality_cost": {
-      "min_start": 5148,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 13,
-    "_row_size": 15,
     "id": 13,
     "editor_name": "岚鸟滑翔",
     "vitality_cost": {
-      "min_start": 5148,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 14,
-    "_row_size": 43,
     "id": 10001,
     "editor_name": "代步1",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6656,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 26,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:800",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_1",
@@ -182,16 +154,14 @@
     ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 43,
     "id": 10002,
     "editor_name": "代步2",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 7680,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 30,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:860",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_2",
@@ -212,16 +182,14 @@
     ]
   },
   {
-    "_row_key": 16,
-    "_row_size": 43,
     "id": 10003,
     "editor_name": "代步3",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 8448,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 33,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:900",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_3",
@@ -242,16 +210,14 @@
     ]
   },
   {
-    "_row_key": 17,
-    "_row_size": 43,
     "id": 10004,
     "editor_name": "代步4",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5120,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:720",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_4",
@@ -272,16 +238,14 @@
     ]
   },
   {
-    "_row_key": 18,
-    "_row_size": 43,
     "id": 10005,
     "editor_name": "代步5",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6912,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 27,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:810",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_5",
@@ -302,16 +266,14 @@
     ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 43,
     "id": 10006,
     "editor_name": "代步6",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5888,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 23,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:750",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_6",
@@ -332,16 +294,14 @@
     ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 43,
     "id": 10101,
     "editor_name": "代步1-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6656,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 26,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:540",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_1",
@@ -362,16 +322,14 @@
     ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 43,
     "id": 10102,
     "editor_name": "代步2-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 7680,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 30,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:666",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_2",
@@ -392,16 +350,14 @@
     ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 43,
     "id": 10103,
     "editor_name": "代步3-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 8448,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 33,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:510",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_3",
@@ -422,16 +378,14 @@
     ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 43,
     "id": 10104,
     "editor_name": "代步4-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5120,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:571",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_4",
@@ -452,16 +406,14 @@
     ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 43,
     "id": 10105,
     "editor_name": "代步5-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6912,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 27,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:676",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_5",
@@ -482,16 +434,14 @@
     ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 43,
     "id": 10106,
     "editor_name": "代步6-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5888,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 23,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:553",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_6",
@@ -512,16 +462,14 @@
     ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 43,
     "id": 10201,
     "editor_name": "代步1-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6656,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 26,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:272",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_1",
@@ -542,16 +490,14 @@
     ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 43,
     "id": 10202,
     "editor_name": "代步2-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 7680,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 30,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:493",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_2",
@@ -572,16 +518,14 @@
     ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 43,
     "id": 10203,
     "editor_name": "代步3-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 8448,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 33,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:470",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_3",
@@ -602,16 +546,14 @@
     ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 43,
     "id": 10204,
     "editor_name": "代步4-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5120,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 20,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_4",
@@ -632,16 +574,14 @@
     ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 43,
     "id": 10205,
     "editor_name": "代步5-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6912,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 27,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:501",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_5",
@@ -662,16 +602,14 @@
     ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 43,
     "id": 10206,
     "editor_name": "代步6-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5888,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 23,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:482",
     "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_6",
@@ -692,16 +630,14 @@
     ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 43,
     "id": 11001,
     "editor_name": "杂耍1-抱1",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:500",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_1",
@@ -722,16 +658,14 @@
     ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 47,
     "id": 11002,
     "editor_name": "杂耍2-昏睡纺锤/蜂后",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:800",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_2",
@@ -753,16 +687,14 @@
     ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 43,
     "id": 11003,
     "editor_name": "杂耍3-慢速昆虫/鱼类陆地",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:300",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_3",
@@ -783,16 +715,14 @@
     ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 43,
     "id": 11004,
     "editor_name": "杂耍4-遁地鼠",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:1200",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_4",
@@ -813,16 +743,14 @@
     ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 47,
     "id": 11005,
     "editor_name": "杂耍5-白发路路/菊花梨",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:900",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_5",
@@ -844,16 +772,14 @@
     ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 47,
     "id": 11006,
     "editor_name": "杂耍6-怖哭菇/幽影树",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:750",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_6",
@@ -875,16 +801,14 @@
     ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 43,
     "id": 11007,
     "editor_name": "杂耍7-魔草巫灵",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:600",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_7",
@@ -905,16 +829,14 @@
     ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 43,
     "id": 11008,
     "editor_name": "杂耍8-手牵手",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:500",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_8",
@@ -935,16 +857,14 @@
     ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 47,
     "id": 11009,
     "editor_name": "杂耍9-风滚暮虫",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:2000",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_9",
@@ -966,16 +886,14 @@
     ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 47,
     "id": 11010,
     "editor_name": "杂耍10-鸭吉吉/圣代甜甜",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:800",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_10",
@@ -997,16 +915,14 @@
     ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 47,
     "id": 11011,
     "editor_name": "杂耍11-昆虫类攀爬",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:500",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_11",
@@ -1028,16 +944,14 @@
     ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 43,
     "id": 11012,
     "editor_name": "杂耍12-格兰球",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:660",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_12",
@@ -1058,16 +972,14 @@
     ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 43,
     "id": 11013,
     "editor_name": "杂耍13-迷迷眼",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:700",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_13",
@@ -1088,16 +1000,14 @@
     ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 43,
     "id": 11014,
     "editor_name": "杂耍14-魔偶/嘟嘟煲",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:433",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_14",
@@ -1118,16 +1028,14 @@
     ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 43,
     "id": 11015,
     "editor_name": "杂耍15-抱2",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:470",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_15",
@@ -1148,16 +1056,14 @@
     ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 43,
     "id": 11103,
     "editor_name": "杂耍3-慢速昆虫/鱼类陆地",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:260",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_3",
@@ -1178,16 +1084,14 @@
     ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 43,
     "id": 11107,
     "editor_name": "杂耍7-魔草巫灵-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:480",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_7",
@@ -1208,16 +1112,14 @@
     ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 43,
     "id": 11108,
     "editor_name": "杂耍8-手牵手2",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_8",
@@ -1238,16 +1140,14 @@
     ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 47,
     "id": 11110,
     "editor_name": "杂耍10-鸭吉吉/圣代甜甜-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:640",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_10",
@@ -1269,16 +1169,14 @@
     ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 47,
     "id": 11111,
     "editor_name": "杂耍11-昆虫类攀爬-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_2": "SlopeMaxSpeedCurve:Run_Clown/Ride_SlopeMaxSpeedCurve_Clown_11_2",
@@ -1300,16 +1198,14 @@
     ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 43,
     "id": 11112,
     "editor_name": "杂耍12-格兰球-2阶-果冻",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_12",
@@ -1330,16 +1226,14 @@
     ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 43,
     "id": 11115,
     "editor_name": "杂耍15-路路尼/卡瓦重-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:560",
     "move_param_3": "AccelerateCurve:Run_Clown/ride_acc_curve_Clown_15",
@@ -1360,16 +1254,14 @@
     ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 43,
     "id": 12001,
     "editor_name": "赶路1",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 11008,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 43,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:720",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_1",
@@ -1390,16 +1282,14 @@
     ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 43,
     "id": 12002,
     "editor_name": "赶路2",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 9984,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 39,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:690",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_2",
@@ -1420,16 +1310,14 @@
     ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 43,
     "id": 12101,
     "editor_name": "赶路1-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 11008,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 43,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:560",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_1",
@@ -1450,16 +1338,14 @@
     ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 43,
     "id": 12102,
     "editor_name": "赶路2-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 9984,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 39,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:535",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_2",
@@ -1480,16 +1366,14 @@
     ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 43,
     "id": 12201,
     "editor_name": "赶路1-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 11008,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 43,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:480",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_1",
@@ -1510,16 +1394,14 @@
     ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 43,
     "id": 12202,
     "editor_name": "赶路2-1阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 9984,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 39,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:460",
     "move_param_3": "AccelerateCurve:Run_Ganlu/ride_acc_curve_ganlu_2",
@@ -1540,16 +1422,14 @@
     ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 43,
     "id": 13001,
     "editor_name": "地面移动-飞行",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 11776,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 46,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:600",
     "move_param_3": "AccelerateCurve:Run_Fly/ride_acc_curve_fly_1",
@@ -1570,16 +1450,14 @@
     ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 43,
     "id": 13002,
     "editor_name": "地面移动-飞行-2阶",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 11776,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 46,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_3": "AccelerateCurve:Run_Fly/ride_acc_curve_fly_1",
@@ -1600,16 +1478,14 @@
     ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 43,
     "id": 14001,
     "editor_name": "跳跃-1-远跳-地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 17664,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 69,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:700",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_1",
@@ -1630,16 +1506,14 @@
     ]
   },
   {
-    "_row_key": 63,
-    "_row_size": 43,
     "id": 14002,
     "editor_name": "跳跃-2-地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 18944,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 74,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:750",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_2",
@@ -1660,16 +1534,14 @@
     ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 43,
     "id": 14003,
     "editor_name": "跳跃-3-高跳-地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 20224,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 79,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:800",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_3",
@@ -1690,16 +1562,14 @@
     ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 43,
     "id": 14004,
     "editor_name": "跳跃-4-地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 18432,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 72,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:725",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_4",
@@ -1720,16 +1590,14 @@
     ]
   },
   {
-    "_row_key": 66,
-    "_row_size": 43,
     "id": 14005,
     "editor_name": "跳跃-5-地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 19712,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 77,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:775",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_5",
@@ -1750,16 +1618,14 @@
     ]
   },
   {
-    "_row_key": 67,
-    "_row_size": 35,
     "id": 15001,
     "editor_name": "临时占位",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 18432,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 72,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:525",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_4",
@@ -1767,16 +1633,14 @@
     "move_param_5": "LinerAngularSpeedCurve:Run_Jump/ride_runjump_angular_4"
   },
   {
-    "_row_key": 68,
-    "_row_size": 59,
     "id": 20001,
     "editor_name": "滑翔 骑背上大体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6144,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 24,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:600",
@@ -1801,16 +1665,14 @@
     ]
   },
   {
-    "_row_key": 69,
-    "_row_size": 59,
     "id": 20002,
     "editor_name": "滑翔 骑背上 小体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 5888,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 23,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:580",
     "move_param_2": "BaseMaxSpeed:550",
@@ -1835,16 +1697,14 @@
     ]
   },
   {
-    "_row_key": 70,
-    "_row_size": 59,
     "id": 20003,
     "editor_name": "滑翔 抓背包 大体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:570",
     "move_param_2": "BaseMaxSpeed:600",
@@ -1869,16 +1729,14 @@
     ]
   },
   {
-    "_row_key": 71,
-    "_row_size": 59,
     "id": 20004,
     "editor_name": "滑翔 抓背包 小体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 6144,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 24,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:550",
     "move_param_2": "BaseMaxSpeed:550",
@@ -1903,16 +1761,14 @@
     ]
   },
   {
-    "_row_key": 72,
-    "_row_size": 55,
     "id": 20005,
     "editor_name": "滑翔 抓脚 大体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 10752,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 42,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:530",
     "move_param_2": "BaseMaxSpeed:600",
@@ -1936,16 +1792,14 @@
     ]
   },
   {
-    "_row_key": 73,
-    "_row_size": 55,
     "id": 20006,
     "editor_name": "滑翔  抓脚 小体型",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 8960,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 35,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:500",
     "move_param_2": "BaseMaxSpeed:550",
@@ -1969,15 +1823,13 @@
     ]
   },
   {
-    "_row_key": 74,
-    "_row_size": 55,
     "id": 20007,
     "editor_name": "滑翔 缓落",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 25628,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 100,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:600",
@@ -2001,16 +1853,14 @@
     ]
   },
   {
-    "_row_key": 75,
-    "_row_size": 55,
     "id": 20008,
     "editor_name": "滑翔 冬羽雀",
     "move_type": 6,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 8960,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 35,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:450",
     "move_param_2": "BaseMaxSpeed:450",
@@ -2034,16 +1884,14 @@
     ]
   },
   {
-    "_row_key": 76,
-    "_row_size": 47,
     "id": 30001,
     "editor_name": "游泳1 现实",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 4352,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 17,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:400",
     "move_param_2": "BaseMaxSpeed:720",
@@ -2065,16 +1913,14 @@
     ]
   },
   {
-    "_row_key": 77,
-    "_row_size": 47,
     "id": 30002,
     "editor_name": "游泳2 鱼型",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:1200",
@@ -2096,16 +1942,14 @@
     ]
   },
   {
-    "_row_key": 78,
-    "_row_size": 47,
     "id": 30003,
     "editor_name": "游泳3 鸭子",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 5376,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 21,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:200",
     "move_param_2": "BaseMaxSpeed:920",
@@ -2127,16 +1971,14 @@
     ]
   },
   {
-    "_row_key": 79,
-    "_row_size": 47,
     "id": 30004,
     "editor_name": "游泳4 鱼类 涉水深度浅",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:1200",
@@ -2158,16 +2000,14 @@
     ]
   },
   {
-    "_row_key": 80,
-    "_row_size": 47,
     "id": 30101,
     "editor_name": "游泳1 现实-2阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 4352,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 17,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:400",
     "move_param_2": "BaseMaxSpeed:600",
@@ -2189,16 +2029,14 @@
     ]
   },
   {
-    "_row_key": 81,
-    "_row_size": 47,
     "id": 30102,
     "editor_name": "游泳2 鱼型-2阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:1000",
@@ -2220,16 +2058,14 @@
     ]
   },
   {
-    "_row_key": 82,
-    "_row_size": 47,
     "id": 30103,
     "editor_name": "游泳3 鸭子-2阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 5376,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 21,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:200",
     "move_param_2": "BaseMaxSpeed:800",
@@ -2251,16 +2087,14 @@
     ]
   },
   {
-    "_row_key": 83,
-    "_row_size": 47,
     "id": 30104,
     "editor_name": "游泳4 鱼类 涉水深度浅-2阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:1000",
@@ -2282,16 +2116,14 @@
     ]
   },
   {
-    "_row_key": 84,
-    "_row_size": 47,
     "id": 30201,
     "editor_name": "游泳1 现实-1阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 4352,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 17,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:400",
     "move_param_2": "BaseMaxSpeed:480",
@@ -2313,16 +2145,14 @@
     ]
   },
   {
-    "_row_key": 85,
-    "_row_size": 47,
     "id": 30202,
     "editor_name": "游泳2 鱼型-1阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:800",
@@ -2344,16 +2174,14 @@
     ]
   },
   {
-    "_row_key": 86,
-    "_row_size": 47,
     "id": 30203,
     "editor_name": "游泳3 鸭子-1阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 5376,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 21,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:200",
     "move_param_2": "BaseMaxSpeed:640",
@@ -2375,16 +2203,14 @@
     ]
   },
   {
-    "_row_key": 87,
-    "_row_size": 47,
     "id": 30204,
     "editor_name": "游泳2 鱼类 涉水深度浅-1阶",
     "move_type": 4,
     "vitality_cost": {
-      "min_start": 5276,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 20,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "MaxAcceleration:600",
     "move_param_2": "BaseMaxSpeed:800",
@@ -2406,14 +2232,12 @@
     ]
   },
   {
-    "_row_key": 88,
-    "_row_size": 59,
     "id": 40001,
     "editor_name": "跳跃-1-远跳",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 51392,
-      "start_cost": 51200
+      "min_start": 200,
+      "start_cost": 200
     },
     "move_param_1": "520",
     "move_param_2": "0",
@@ -2438,14 +2262,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 89,
-    "_row_size": 63,
     "id": 40002,
     "editor_name": "跳跃-2 二段",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 51392,
-      "start_cost": 51200
+      "min_start": 200,
+      "start_cost": 200
     },
     "move_param_1": "560",
     "move_param_2": "0",
@@ -2471,14 +2293,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 90,
-    "_row_size": 59,
     "id": 40003,
     "editor_name": "跳跃-3-高跳",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 25792,
-      "start_cost": 25600
+      "min_start": 100,
+      "start_cost": 100
     },
     "move_param_1": "600",
     "move_param_2": "0",
@@ -2503,14 +2323,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 91,
-    "_row_size": 59,
     "id": 40004,
     "editor_name": "跳跃-4-小",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 25792,
-      "start_cost": 25600
+      "min_start": 100,
+      "start_cost": 100
     },
     "move_param_1": "640",
     "move_param_2": "0",
@@ -2535,14 +2353,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 92,
-    "_row_size": 59,
     "id": 40005,
     "editor_name": "跳跃-5-大",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 51392,
-      "start_cost": 51200
+      "min_start": 200,
+      "start_cost": 200
     },
     "move_param_1": "680",
     "move_param_2": "0",
@@ -2567,14 +2383,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 93,
-    "_row_size": 59,
     "id": 40007,
     "editor_name": "跳跃-帕尔萨斯高跳",
     "active_type": 2,
     "vitality_cost": {
-      "min_start": 51392,
-      "start_cost": 51200
+      "min_start": 200,
+      "start_cost": 200
     },
     "move_param_1": "520",
     "move_param_2": "0",
@@ -2599,14 +2413,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 94,
-    "_row_size": 55,
     "id": 50001,
     "editor_name": "飞升 骑背上 大体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 76992,
-      "start_cost": 76800
+      "min_start": 300,
+      "start_cost": 300
     },
     "move_param_1": "600",
     "move_param_2": "600",
@@ -2619,14 +2431,12 @@
     "move_param_11": "1.2"
   },
   {
-    "_row_key": 95,
-    "_row_size": 55,
     "id": 50002,
     "editor_name": "飞升 骑背上 小体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 67520,
-      "start_cost": 67328
+      "min_start": 263,
+      "start_cost": 263
     },
     "move_param_1": "580",
     "move_param_2": "550",
@@ -2639,14 +2449,12 @@
     "move_param_11": "1"
   },
   {
-    "_row_key": 96,
-    "_row_size": 55,
     "id": 50003,
     "editor_name": "飞升 抓背包 大体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 55232,
-      "start_cost": 55040
+      "min_start": 215,
+      "start_cost": 215
     },
     "move_param_1": "570",
     "move_param_2": "600",
@@ -2659,14 +2467,12 @@
     "move_param_11": "1.5"
   },
   {
-    "_row_key": 97,
-    "_row_size": 55,
     "id": 50004,
     "editor_name": "飞升 抓背包 小体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 51392,
-      "start_cost": 51200
+      "min_start": 200,
+      "start_cost": 200
     },
     "move_param_1": "550",
     "move_param_2": "550",
@@ -2679,14 +2485,12 @@
     "move_param_11": "1.2"
   },
   {
-    "_row_key": 98,
-    "_row_size": 63,
     "id": 50005,
     "editor_name": "飞升  抓脚 大体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 38592,
-      "start_cost": 38400
+      "min_start": 150,
+      "start_cost": 150
     },
     "move_param_1": "530",
     "move_param_2": "600",
@@ -2701,14 +2505,12 @@
     "move_param_11": "2"
   },
   {
-    "_row_key": 99,
-    "_row_size": 51,
     "id": 50006,
     "editor_name": "飞升  抓脚小体型",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 32192,
-      "start_cost": 32000
+      "min_start": 125,
+      "start_cost": 125
     },
     "move_param_1": "500",
     "move_param_2": "550",
@@ -2720,14 +2522,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 100,
-    "_row_size": 51,
     "id": 50007,
     "editor_name": "地面飞升",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 38592,
-      "start_cost": 38400
+      "min_start": 150,
+      "start_cost": 150
     },
     "move_param_1": "600",
     "move_param_2": "600",
@@ -2739,14 +2539,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 101,
-    "_row_size": 55,
     "id": 50008,
     "editor_name": "飞升 冬羽雀",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 32192,
-      "start_cost": 32000
+      "min_start": 125,
+      "start_cost": 125
     },
     "move_param_1": "450",
     "move_param_2": "450",
@@ -2759,14 +2557,12 @@
     "move_param_11": "1.2"
   },
   {
-    "_row_key": 102,
-    "_row_size": 63,
     "id": 60001,
     "editor_name": "陆地冲刺1-小精灵冲刺",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 94144,
-      "start_cost": 93952
+      "min_start": 367,
+      "start_cost": 367
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2792,14 +2588,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 103,
-    "_row_size": 63,
     "id": 60002,
     "editor_name": "陆地冲刺2-阶段减速快",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 57280,
-      "start_cost": 57088
+      "min_start": 223,
+      "start_cost": 223
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2825,14 +2619,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 104,
-    "_row_size": 63,
     "id": 60003,
     "editor_name": "陆地冲刺3-阶段减速",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 149696,
-      "start_cost": 149504
+      "min_start": 584,
+      "start_cost": 584
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2858,14 +2650,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 105,
-    "_row_size": 63,
     "id": 60004,
     "editor_name": "陆地冲刺4-持续匀速减速",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 55744,
-      "start_cost": 55552
+      "min_start": 217,
+      "start_cost": 217
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2891,14 +2681,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 106,
-    "_row_size": 63,
     "id": 60005,
     "editor_name": "陆地冲刺5-长耐力精灵用",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 70080,
-      "start_cost": 69888
+      "min_start": 273,
+      "start_cost": 273
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2924,14 +2712,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 107,
-    "_row_size": 63,
     "id": 60006,
     "editor_name": "陆地冲刺6-机械匀速加速",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 57280,
-      "start_cost": 57088
+      "min_start": 223,
+      "start_cost": 223
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2957,14 +2743,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 108,
-    "_row_size": 63,
     "id": 60007,
     "editor_name": "陆地冲刺7-重型精灵",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 106944,
-      "start_cost": 106752
+      "min_start": 417,
+      "start_cost": 417
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -2990,14 +2774,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 109,
-    "_row_size": 63,
     "id": 60101,
     "editor_name": "陆地冲刺1-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 94144,
-      "start_cost": 93952
+      "min_start": 367,
+      "start_cost": 367
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3023,14 +2805,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 110,
-    "_row_size": 63,
     "id": 60102,
     "editor_name": "陆地冲刺2-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 57280,
-      "start_cost": 57088
+      "min_start": 223,
+      "start_cost": 223
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3056,14 +2836,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 111,
-    "_row_size": 63,
     "id": 60103,
     "editor_name": "陆地冲刺3-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 149696,
-      "start_cost": 149504
+      "min_start": 584,
+      "start_cost": 584
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3089,14 +2867,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 112,
-    "_row_size": 63,
     "id": 60104,
     "editor_name": "陆地冲刺4-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 55744,
-      "start_cost": 55552
+      "min_start": 217,
+      "start_cost": 217
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3122,14 +2898,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 113,
-    "_row_size": 63,
     "id": 60105,
     "editor_name": "陆地冲刺5-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 70080,
-      "start_cost": 69888
+      "min_start": 273,
+      "start_cost": 273
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3155,14 +2929,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 114,
-    "_row_size": 63,
     "id": 60106,
     "editor_name": "陆地冲刺6-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 57280,
-      "start_cost": 57088
+      "min_start": 223,
+      "start_cost": 223
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3188,14 +2960,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 115,
-    "_row_size": 63,
     "id": 60107,
     "editor_name": "陆地冲刺7-2阶",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 106944,
-      "start_cost": 106752
+      "min_start": 417,
+      "start_cost": 417
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3221,14 +2991,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 116,
-    "_row_size": 63,
     "id": 60108,
     "editor_name": "陆地冲刺8-鸭吉吉",
     "active_type": 1,
     "vitality_cost": {
-      "min_start": 106944,
-      "start_cost": 106752
+      "min_start": 417,
+      "start_cost": 417
     },
     "move_param_1": "9999",
     "move_param_2": "700",
@@ -3254,198 +3022,173 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 117,
-    "_row_size": 19,
     "id": 70001,
     "editor_name": "测试用-主动感知",
     "active_type": 3,
     "vitality_cost": {
-      "min_start": 25628,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 100,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     }
   },
   {
-    "_row_key": 118,
-    "_row_size": 19,
     "id": 70002,
     "editor_name": "临时",
     "active_type": 3,
     "vitality_cost": {
-      "min_start": 12816
+      "cost_per_seconds": 50
     }
   },
   {
-    "_row_key": 119,
-    "_row_size": 19,
     "id": 70003,
     "editor_name": "第二主动技能为空-占位",
     "active_type": 14,
     "vitality_cost": {}
   },
   {
-    "_row_key": 120,
-    "_row_size": 27,
     "id": 80001,
     "editor_name": "游泳冲刺-1.25",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 10012,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 39,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "1.25",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 121,
-    "_row_size": 27,
     "id": 80002,
     "editor_name": "游泳冲刺-1.5",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 12060,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 47,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "1.5",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 122,
-    "_row_size": 27,
     "id": 80003,
     "editor_name": "游泳冲刺-1.75",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 13852,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 54,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "1.75",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 123,
-    "_row_size": 27,
     "id": 80004,
     "editor_name": "游泳冲刺-2",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 15900,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 62,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "2",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 124,
-    "_row_size": 27,
     "id": 80005,
     "editor_name": "游泳冲刺-2.25",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 17948,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 70,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "2.25",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 125,
-    "_row_size": 27,
     "id": 80006,
     "editor_name": "游泳冲刺-2.5",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 19996,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 78,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "2.5",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 126,
-    "_row_size": 27,
     "id": 80007,
     "editor_name": "游泳冲刺-2.75",
     "active_type": 8,
     "vitality_cost": {
-      "min_start": 22044,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 86,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "2.75",
     "move_param_2": "2400"
   },
   {
-    "_row_key": 127,
-    "_row_size": 27,
     "id": 90001,
     "editor_name": "望远镜-三倍",
     "active_type": 7,
     "vitality_cost": {
-      "min_start": 286,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 1,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50,
+      "idle_cost": true
     },
     "move_param_1": "30",
     "move_param_2": "50"
   },
   {
-    "_row_key": 128,
-    "_row_size": 27,
     "id": 90002,
     "editor_name": "望远镜-六倍",
     "active_type": 7,
     "vitality_cost": {
-      "min_start": 286,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 1,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50,
+      "idle_cost": true
     },
     "move_param_1": "15",
     "move_param_2": "50"
   },
   {
-    "_row_key": 129,
-    "_row_size": 27,
     "id": 90003,
     "editor_name": "望近镜- 一倍",
     "active_type": 7,
     "vitality_cost": {
-      "min_start": 286,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 1,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50,
+      "idle_cost": true
     },
     "move_param_1": "105",
     "move_param_2": "50"
   },
   {
-    "_row_key": 130,
-    "_row_size": 27,
     "id": 90004,
     "editor_name": "望近镜- 二倍",
     "active_type": 7,
     "vitality_cost": {
-      "min_start": 286,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 12800
+      "cost_per_seconds": 1,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50,
+      "idle_cost": true
     },
     "move_param_1": "120",
     "move_param_2": "50"
   },
   {
-    "_row_key": 131,
-    "_row_size": 47,
     "id": 110001,
     "editor_name": "蓄力冲刺-1阶",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.0001",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_1.powerdash_time_curve_1",
@@ -3467,14 +3210,13 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 132,
-    "_row_size": 47,
     "id": 110002,
     "editor_name": "蓄力冲刺-2阶",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.0002",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_1.powerdash_time_curve_1",
@@ -3496,14 +3238,13 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 133,
-    "_row_size": 47,
     "id": 110003,
     "editor_name": "蓄力冲刺-3阶",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.0003",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_1.powerdash_time_curve_1",
@@ -3525,14 +3266,13 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 134,
-    "_row_size": 47,
     "id": 110004,
     "editor_name": "蓄力冲刺-短",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.9",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_2.powerdash_time_curve_2",
@@ -3554,14 +3294,13 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 135,
-    "_row_size": 47,
     "id": 110005,
     "editor_name": "蓄力冲刺-长距离",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.4",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_1.powerdash_time_curve_1",
@@ -3583,14 +3322,13 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 136,
-    "_row_size": 47,
     "id": 110006,
     "editor_name": "蓄力冲刺-加速",
     "active_type": 6,
     "vitality_cost": {
-      "min_start": 38594,
-      "start_cost": 51200
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
     },
     "move_param_1": "0.001",
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_3.powerdash_time_curve_3",
@@ -3612,16 +3350,14 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 137,
-    "_row_size": 39,
     "id": 120001,
     "editor_name": "攀爬一阶",
     "move_type": 8,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 5632,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 22,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:380",
     "move_param_2": "MaxAcceleration:450",
@@ -3641,16 +3377,14 @@
     ]
   },
   {
-    "_row_key": 138,
-    "_row_size": 39,
     "id": 120002,
     "editor_name": "攀爬二阶",
     "move_type": 8,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 6144,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 24,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:450",
     "move_param_2": "MaxAcceleration:550",
@@ -3670,16 +3404,14 @@
     ]
   },
   {
-    "_row_key": 139,
-    "_row_size": 39,
     "id": 120003,
     "editor_name": "攀爬三阶",
     "move_type": 8,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 7168,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 28,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:520",
     "move_param_2": "MaxAcceleration:650",
@@ -3699,14 +3431,12 @@
     ]
   },
   {
-    "_row_key": 140,
-    "_row_size": 35,
     "id": 130001,
     "editor_name": "攀爬跳跃一阶",
     "active_type": 5,
     "vitality_cost": {
-      "min_start": 74432,
-      "start_cost": 72192
+      "min_start": 290,
+      "start_cost": 282
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_2.ClimbDash_2",
     "property_modify_speed_param_1": [
@@ -3725,14 +3455,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 141,
-    "_row_size": 35,
     "id": 130002,
     "editor_name": "攀爬跳跃二阶",
     "active_type": 5,
     "vitality_cost": {
-      "min_start": 80832,
-      "start_cost": 78336
+      "min_start": 315,
+      "start_cost": 306
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_1.ClimbDash_1",
     "property_modify_speed_param_1": [
@@ -3751,14 +3479,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 142,
-    "_row_size": 35,
     "id": 130003,
     "editor_name": "攀爬跳跃三阶",
     "active_type": 5,
     "vitality_cost": {
-      "min_start": 94912,
-      "start_cost": 92416
+      "min_start": 370,
+      "start_cost": 361
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_3.ClimbDash_3",
     "property_modify_speed_param_1": [
@@ -3777,14 +3503,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 143,
-    "_row_size": 35,
     "id": 130004,
     "editor_name": "攀爬跳跃小",
     "active_type": 5,
     "vitality_cost": {
-      "min_start": 53952,
-      "start_cost": 51200
+      "min_start": 210,
+      "start_cost": 200
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_S.ClimbDash_S",
     "property_modify_speed_param_1": [
@@ -3803,14 +3527,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 144,
-    "_row_size": 35,
     "id": 130005,
     "editor_name": "攀爬跳跃大",
     "active_type": 5,
     "vitality_cost": {
-      "min_start": 94912,
-      "start_cost": 92416
+      "min_start": 370,
+      "start_cost": 361
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_L.ClimbDash_L",
     "property_modify_speed_param_1": [
@@ -3829,14 +3551,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 145,
-    "_row_size": 51,
     "id": 140001,
     "editor_name": "升空飞跃",
     "active_type": 9,
     "vitality_cost": {
-      "min_start": 64192,
-      "start_cost": 64000
+      "min_start": 250,
+      "start_cost": 250
     },
     "move_param_1": "0.2",
     "move_param_2": "65",
@@ -3848,14 +3568,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 146,
-    "_row_size": 51,
     "id": 140002,
     "editor_name": "升空二段跳",
     "active_type": 9,
     "vitality_cost": {
-      "min_start": 64192,
-      "start_cost": 64000
+      "min_start": 250,
+      "start_cost": 250
     },
     "move_param_1": "0.2",
     "move_param_2": "65",
@@ -3867,14 +3585,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 147,
-    "_row_size": 51,
     "id": 140003,
     "editor_name": "升空二段跳高速",
     "active_type": 9,
     "vitality_cost": {
-      "min_start": 64192,
-      "start_cost": 64000
+      "min_start": 250,
+      "start_cost": 250
     },
     "move_param_1": "0.2",
     "move_param_2": "75",
@@ -3886,14 +3602,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 148,
-    "_row_size": 51,
     "id": 140004,
     "editor_name": "后跳二段跳",
     "active_type": 9,
     "vitality_cost": {
-      "min_start": 64192,
-      "start_cost": 64000
+      "min_start": 250,
+      "start_cost": 250
     },
     "move_param_1": "0.2",
     "move_param_2": "120",
@@ -3905,14 +3619,12 @@
     "move_param_8": "1"
   },
   {
-    "_row_key": 149,
-    "_row_size": 59,
     "id": 150001,
     "editor_name": "水面跳跃三阶",
     "active_type": 11,
     "vitality_cost": {
-      "min_start": 27072,
-      "start_cost": 25600
+      "min_start": 105,
+      "start_cost": 100
     },
     "move_param_1": "640",
     "move_param_2": "0",
@@ -3937,14 +3649,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 150,
-    "_row_size": 59,
     "id": 150002,
     "editor_name": "水面跳跃二阶",
     "active_type": 11,
     "vitality_cost": {
-      "min_start": 27072,
-      "start_cost": 25600
+      "min_start": 105,
+      "start_cost": 100
     },
     "move_param_1": "640",
     "move_param_2": "0",
@@ -3969,14 +3679,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 151,
-    "_row_size": 67,
     "id": 160001,
     "editor_name": "钩锁测试",
     "active_type": 10,
     "vitality_cost": {
-      "min_start": 102592,
-      "start_cost": 102400
+      "min_start": 400,
+      "start_cost": 400
     },
     "move_param_1": "27.5",
     "move_param_2": "1750",
@@ -4003,14 +3711,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 152,
-    "_row_size": 67,
     "id": 160002,
     "editor_name": "钩锁一阶",
     "active_type": 10,
     "vitality_cost": {
-      "min_start": 102592,
-      "start_cost": 51200
+      "min_start": 400,
+      "start_cost": 200
     },
     "move_param_1": "27.5",
     "move_param_2": "1000",
@@ -4037,14 +3743,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 153,
-    "_row_size": 67,
     "id": 160003,
     "editor_name": "钩锁二阶",
     "active_type": 10,
     "vitality_cost": {
-      "min_start": 102592,
-      "start_cost": 64000
+      "min_start": 400,
+      "start_cost": 250
     },
     "move_param_1": "27.5",
     "move_param_2": "1350",
@@ -4071,14 +3775,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 154,
-    "_row_size": 67,
     "id": 160004,
     "editor_name": "钩锁三阶",
     "active_type": 10,
     "vitality_cost": {
-      "min_start": 102592,
-      "start_cost": 102400
+      "min_start": 400,
+      "start_cost": 400
     },
     "move_param_1": "27.5",
     "move_param_2": "1750",
@@ -4105,16 +3807,14 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 155,
-    "_row_size": 39,
     "id": 170001,
     "editor_name": "攀瀑三阶",
     "move_type": 14,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 6400,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 25,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:500",
     "move_param_2": "MaxAcceleration:650",
@@ -4134,16 +3834,14 @@
     ]
   },
   {
-    "_row_key": 156,
-    "_row_size": 39,
     "id": 170002,
     "editor_name": "攀瀑二阶",
     "move_type": 14,
     "vitality_cost": {
-      "min_start": 25756,
-      "start_cost": 12800,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 100,
+      "cost_per_seconds": 50,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:380",
     "move_param_2": "MaxAcceleration:550",
@@ -4163,14 +3861,12 @@
     ]
   },
   {
-    "_row_key": 157,
-    "_row_size": 35,
     "id": 180001,
     "editor_name": "攀瀑跳跃三阶",
     "active_type": 13,
     "vitality_cost": {
-      "min_start": 53952,
-      "start_cost": 51200
+      "min_start": 210,
+      "start_cost": 200
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_3.ClimbDash_3",
     "property_modify_speed_param_1": [
@@ -4189,14 +3885,12 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 158,
-    "_row_size": 35,
     "id": 180002,
     "editor_name": "攀瀑跳跃二阶",
     "active_type": 13,
     "vitality_cost": {
-      "min_start": 53952,
-      "start_cost": 51200
+      "min_start": 210,
+      "start_cost": 200
     },
     "move_param_1": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ClimbDash/ClimbDash_1.ClimbDash_1",
     "property_modify_speed_param_1": [
@@ -4215,24 +3909,20 @@
     "property_modify_speed_param_3": 1
   },
   {
-    "_row_key": 159,
-    "_row_size": 19,
     "id": 190001,
     "editor_name": "双人骑乘",
     "active_type": 12,
     "vitality_cost": {}
   },
   {
-    "_row_key": 160,
-    "_row_size": 35,
     "id": 200001,
     "editor_name": "守护地-觅觅蝠地面移动",
     "move_type": 1,
     "vitality_cost": {
-      "min_start": 20636,
-      "start_cost": 20224,
-      "cost_percentage_per_seconds": 6400,
-      "cost_per_seconds": 12800
+      "min_start": 80,
+      "cost_per_seconds": 79,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
     },
     "move_param_1": "BaseMaxSpeed:300",
     "move_param_3": "AccelerateCurve:Run_Jump/ride_runjump_acc_curve_3",
@@ -4240,8 +3930,6 @@
     "move_param_5": "LinerAngularSpeedCurve:Run_Jump/ride_runjump_angular_3"
   },
   {
-    "_row_key": 161,
-    "_row_size": 51,
     "id": 200002,
     "editor_name": "守护地-觅觅蝠滑翔",
     "move_type": 6,
@@ -4256,19 +3944,16 @@
     "move_param_8": "HangStartSpeed:500"
   },
   {
-    "_row_key": 162,
-    "_row_size": 51,
     "id": 200003,
     "editor_name": "守护地-觅觅蝠上飞",
     "active_type": 4,
     "vitality_cost": {
-      "min_start": 508,
-      "start_cost": -1734967296,
-      "cost_percentage_per_seconds": 25600,
-      "cost_per_seconds": -1734967296,
-      "decay_threshold_percent": 25600,
-      "decay_percent": 25600,
-      "idle_cost": false
+      "min_start": 1,
+      "start_cost": 10000000,
+      "cost_percentage_per_seconds": 100,
+      "cost_per_seconds": 10000000,
+      "decay_threshold_percent": 100,
+      "decay_percent": 100
     },
     "move_param_1": "750",
     "move_param_2": "750",

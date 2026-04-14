@@ -1,90 +1,86 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 13,
     "id": 2600001,
     "option_id": 10,
-    "petshow_group": []
+    "petshow_group": [
+      {}
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 21,
     "id": 2600002,
     "end_time": "2026-07-20 23:59:59",
     "option_id": 11,
     "petbase_id": 3010,
     "petshow_group": [
       {
-        "show_type": 18,
-        "show_param": 19
+        "show_type": 1,
+        "show_param": 18
+      },
+      {
+        "show_type": 3,
+        "show_param": 13
       }
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 21,
     "id": 2600003,
     "end_time": "2026-07-21 23:59:59",
     "option_id": 12,
     "petbase_id": 3011,
     "petshow_group": [
       {
-        "show_type": 20,
-        "show_param": 21
+        "show_type": 2,
+        "show_param": 20002
+      },
+      {
+        "show_type": 4,
+        "show_param": 20002
       }
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 17,
     "id": 2600004,
     "end_time": "2025-11-14 03:59:59",
     "option_id": 13,
-    "petshow_group": []
+    "petshow_group": [
+      {}
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 13,
     "id": 2600005,
     "end_time": "2025-11-13 23:59:59",
     "option_id": 14
   },
   {
-    "_row_key": 6,
-    "_row_size": 13,
     "id": 2600006,
     "end_time": "2025-11-28 03:59:00",
     "option_id": 15
   },
   {
-    "_row_key": 7,
-    "_row_size": 13,
     "id": 2600007,
     "end_time": "2025-11-23 23:59:59",
     "option_id": 16
   },
   {
-    "_row_key": 8,
-    "_row_size": 17,
     "id": 2600008,
     "end_time": "2026-02-17 03:59:59",
     "petbase_id": 3469,
     "petshow_group": [
       {
-        "show_type": 20,
-        "show_param": 21
+        "show_type": 2,
+        "show_param": 20002
+      },
+      {
+        "show_type": 4,
+        "show_param": 20002
       }
     ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 9,
     "id": 2600009,
     "option_id": 10011
   },
   {
-    "_row_key": 10,
-    "_row_size": 21,
     "id": 2600010,
     "end_time": "2026-04-10 03:59:59",
     "option_id": 30,
@@ -96,8 +92,6 @@
     "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElfCollection/Frames/img_meituan_logo_png.img_meituan_logo_png'"
   },
   {
-    "_row_key": 11,
-    "_row_size": 21,
     "id": 2600011,
     "end_time": "2026-04-24 03:59:59",
     "option_id": 31,
@@ -109,8 +103,6 @@
     "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElfCollection/Frames/img_wangwang_logo_png.img_wangwang_logo_png'"
   },
   {
-    "_row_key": 12,
-    "_row_size": 5,
     "id": 2600012
   }
 ]

@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 25,
     "id": 1,
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_pikayuekan_png.img_pikayuekan_png'",
     "text": "皮卡月刊",
@@ -13,17 +11,20 @@
     "red_point_key": 310,
     "display_condition": [
       {
-        "display_type": 13,
+        "display_type": 1,
         "display_data": [
-          1008,
-          4608
+          40
+        ]
+      },
+      {
+        "display_type": 3,
+        "display_data": [
+          17
         ]
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 21,
     "id": 2,
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_alchemy_png.img_alchemy_png'",
     "text": "可升级魔法",
@@ -50,11 +51,18 @@
       801362,
       801440
     ],
-    "display_condition": []
+    "display_condition": [
+      {
+        "display_type": 2,
+        "display_data": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 21,
     "id": 3,
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_lvxingshangren_png.img_lvxingshangren_png'",
     "text": "远行商人出现",
@@ -78,6 +86,13 @@
       54000028,
       54000030
     ],
-    "display_condition": []
+    "display_condition": [
+      {
+        "display_type": 1,
+        "display_data": [
+          59
+        ]
+      }
+    ]
   }
 ]

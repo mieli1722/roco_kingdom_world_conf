@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 10034001,
     "show_paragraph": 10034001,
     "task_name": "法瑞莎莎",
@@ -10,40 +8,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          51200
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          51712
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ06_SUM_01/Picture/JQ06_SUM_01_Day.JQ06_SUM_01_Day'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ06_SUM_01/Picture/JQ06_SUM_01_Mornig.JQ06_SUM_01_Mornig'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ06_SUM_01/Picture/JQ06_SUM_01_Night.JQ06_SUM_01_Night'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ06_SUM_01/Picture/JQ06_SUM_01_Rain.JQ06_SUM_01_Rain'"
       }
     ],
-    "pc_action": "J",
-    "pc_pos": "L",
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ06_SUM_01_2.JQ06_SUM_01_2'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ06_SUM_01.JQ06_SUM_01'"
+    ],
+    "pc_pos": [
+      "396670",
+      "570700",
+      "13030",
+      "0",
+      "0",
+      "-160.000168"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 38,
     "id": 21607021,
     "show_paragraph": 21607021,
     "task_name": "恩佐",
@@ -52,40 +143,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          55040
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          55040
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ05_SUM_01/Picture/TQ05_SUM_01.TQ05_SUM_01'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ05_SUM_01/Picture/TQ05_SUM_01.TQ05_SUM_01'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ05_SUM_01/Picture/TQ05_SUM_01.TQ05_SUM_01'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ05_SUM_01/Picture/TQ05_SUM_01.TQ05_SUM_01'"
       }
     ],
-    "pc_action": "Y",
-    "pc_pos": "[",
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/TQ05_SUM_01.TQ05_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/TQ05_SUM_01.TQ05_SUM_01'"
+    ],
+    "pc_pos": [
+      "513.649902",
+      "-198.171204",
+      "36.725586",
+      "0",
+      "0",
+      "-140.882629"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 38,
     "id": 30046012,
     "show_paragraph": 30046012,
     "task_name": "安妮",
@@ -94,40 +278,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          55296
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          55552
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ10_SUM_01/Picture/TQ10_SUM_01_Day.TQ10_SUM_01_Day'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ10_SUM_01/Picture/TQ10_SUM_01_Morning.TQ10_SUM_01_Morning'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ10_SUM_01/Picture/TQ10_SUM_01_Night.TQ10_SUM_01_Night'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/TQ10_SUM_01/Picture/TQ10_SUM_01_Rain.TQ10_SUM_01_Rain'"
       }
     ],
-    "pc_action": "c",
-    "pc_pos": "e",
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/TQ10_SUM_01.TQ10_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/TQ10_SUM_01.TQ10_SUM_01'"
+    ],
+    "pc_pos": [
+      "436160.5",
+      "665595.25",
+      "884.375977",
+      "0",
+      "0",
+      "-58.197578"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          56320
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          56576
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "4"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "22"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "23"
+        ]
       }
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 26,
     "id": 60121015,
     "show_paragraph": 60121015,
     "task_name": "研究员",
@@ -135,38 +412,121 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          57344
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          57344
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_01/PICTURE/S1_SUM_01_DAY.S1_SUM_01_DAY'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_01/PICTURE/S1_SUM_01_DAY.S1_SUM_01_DAY'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_01/PICTURE/S1_SUM_01_DAY.S1_SUM_01_DAY'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_01/PICTURE/S1_SUM_01_DAY.S1_SUM_01_DAY'"
       }
     ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 26,
     "id": 60122019,
     "show_paragraph": 60122019,
     "task_name": "研究员",
@@ -174,38 +534,121 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          57600
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          57600
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_02/picture/S1_SUM_02_DAY.S1_SUM_02_DAY'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_02/picture/S1_SUM_02_DAY.S1_SUM_02_DAY'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_02/picture/S1_SUM_02_DAY.S1_SUM_02_DAY'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_02/picture/S1_SUM_02_DAY.S1_SUM_02_DAY'"
       }
     ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 26,
     "id": 60123019,
     "show_paragraph": 60123019,
     "task_name": "研究员",
@@ -213,38 +656,121 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          57856
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          57856
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_03/picture/S1_SUM_03_DAY.S1_SUM_03_DAY'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_03/picture/S1_SUM_03_DAY.S1_SUM_03_DAY'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_03/picture/S1_SUM_03_DAY.S1_SUM_03_DAY'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_03/picture/S1_SUM_03_DAY.S1_SUM_03_DAY'"
       }
     ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 26,
     "id": 60124011,
     "show_paragraph": 60124011,
     "task_name": "研究员",
@@ -252,38 +778,121 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          58112
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          58112
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_04/Picture/S1_SUM_04_DAY_.S1_SUM_04_DAY_'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_04/Picture/S1_SUM_04_DAY_.S1_SUM_04_DAY_'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_04/Picture/S1_SUM_04_DAY_.S1_SUM_04_DAY_'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/S1_SUM_04/Picture/S1_SUM_04_DAY_.S1_SUM_04_DAY_'"
       }
     ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 38,
     "id": 70035029,
     "show_paragraph": 81006002,
     "task_name": "路易斯",
@@ -292,40 +901,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          58368
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          58624
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ08_SUM_01/Picture/JQ08_SUM_01_Day.JQ08_SUM_01_Day'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ08_SUM_01/Picture/JQ08_SUM_01_Morning.JQ08_SUM_01_Morning'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ08_SUM_01/Picture/JQ08_SUM_01_Night.JQ08_SUM_01_Night'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ08_SUM_01/Picture/JQ08_SUM_01_Rain.JQ08_SUM_01_Rain'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ08_SUM_01.JQ08_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ08_SUM_01.JQ08_SUM_01'"
+    ],
+    "pc_pos": [
+      "431770.1875",
+      "688467.6875",
+      "2304.005127",
+      "0",
+      "0",
+      "137.209396"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          56320
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          56576
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "4"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "22"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "23"
+        ]
       }
     ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 38,
     "id": 70037070,
     "show_paragraph": 70037070,
     "task_name": "恩佐",
@@ -334,40 +1036,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          59392
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          59392
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_02/Picture/JQ07_SUM_02_Light.JQ07_SUM_02_Light'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_02/Picture/JQ07_SUM_02_Light.JQ07_SUM_02_Light'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_02/Picture/JQ07_SUM_02_Light.JQ07_SUM_02_Light'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_02/Picture/JQ07_SUM_02_Light.JQ07_SUM_02_Light'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ07_SUM_02_2.JQ07_SUM_02_2'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ07_SUM_02.JQ07_SUM_02'"
+    ],
+    "pc_pos": [
+      "395520",
+      "550300",
+      "48130",
+      "0",
+      "0",
+      "-60.000088"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 38,
     "id": 70998019,
     "show_paragraph": 70035001,
     "task_name": "伊里斯",
@@ -376,40 +1171,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          59648
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          59648
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_01/Picture/JQ07_SUM_01_Light.JQ07_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_01/Picture/JQ07_SUM_01_Light.JQ07_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_01/Picture/JQ07_SUM_01_Light.JQ07_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ07_SUM_01/Picture/JQ07_SUM_01_Light.JQ07_SUM_01_Light'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ07_SUM_01.JQ07_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ07_SUM_01.JQ07_SUM_01'"
+    ],
+    "pc_pos": [
+      "25804.714844",
+      "6716.021484",
+      "-4196.84082",
+      "0",
+      "0",
+      "90.000092"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 38,
     "id": 71004005,
     "show_paragraph": 71008002,
     "task_name": "噜噜船长",
@@ -418,40 +1306,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          59904
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          60160
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ01_SUM_01/Picture/JQ01_SUM_01_Day.JQ01_SUM_01_Day'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ01_SUM_01/Picture/JQ01_SUM_01_Morning.JQ01_SUM_01_Morning'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ01_SUM_01/Picture/JQ01_SUM_01_Night.JQ01_SUM_01_Night'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ01_SUM_01/Picture/JQ01_SUM_01_Rain.JQ01_SUM_01_Rain'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ01_SUM_01_2.JQ01_SUM_01_2'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ01_SUM_01_2.JQ01_SUM_01_2'"
+    ],
+    "pc_pos": [
+      "-35.191772",
+      "-310",
+      "1296.876099",
+      "0",
+      "0",
+      "-32.66983"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          56320
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          56576
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "4"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "22"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "23"
+        ]
       }
     ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 38,
     "id": 80033002,
     "show_paragraph": 80033002,
     "task_name": "麦克达克",
@@ -460,40 +1441,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          60928
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          60928
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ05_SUM_01/Picture/JQ05_SUM_01_Light.JQ05_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ05_SUM_01/Picture/JQ05_SUM_01_Light.JQ05_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ05_SUM_01/Picture/JQ05_SUM_01_Light.JQ05_SUM_01_Light'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ05_SUM_01/Picture/JQ05_SUM_01_Light.JQ05_SUM_01_Light'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ05_SUM_01_2.JQ05_SUM_01_2'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ05_SUM_01.JQ05_SUM_01'"
+    ],
+    "pc_pos": [
+      "-4360",
+      "-20270",
+      "820",
+      "0",
+      "0",
+      "-40.000061"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          53760
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          53760
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "20"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "20"
+        ]
       }
     ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 38,
     "id": 80055042,
     "show_paragraph": 80055040,
     "task_name": "恩佐",
@@ -502,40 +1576,133 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          61184
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          61440
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ10_SUM_01/Picture/JQ10_SUM_01_Day.JQ10_SUM_01_Day'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ10_SUM_01/Picture/JQ10_SUM_01_Morning.JQ10_SUM_01_Morning'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ10_SUM_01/Picture/JQ10_SUM_01_Night.JQ10_SUM_01_Night'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ10_SUM_01/Picture/JQ10_SUM_01_Rain.JQ10_SUM_01_Rain'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ10_SUM_01.JQ10_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ10_SUM_01.JQ10_SUM_01'"
+    ],
+    "pc_pos": [
+      "-803694.5",
+      "-777843.5625",
+      "29886.847656",
+      "0",
+      "0",
+      "-112.668221"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          56320
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          56576
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "4"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "22"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "23"
+        ]
       }
     ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 38,
     "id": 80059017,
     "show_paragraph": 80059017,
     "task_name": "恩佐",
@@ -544,34 +1711,129 @@
     "res_conf": [
       {
         "tod": [
-          50912,
-          50944,
-          62208
+          2
         ],
         "weather": [
-          51680,
-          50944,
-          62208
+          1,
+          11,
+          12
         ],
-        "bg_res": null,
-        "extra_res": null
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ11_SUM_01/Picture/JQ11_SUM_01.JQ11_SUM_01'"
+      },
+      {
+        "tod": [
+          3
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ11_SUM_01/Picture/JQ11_SUM_01.JQ11_SUM_01'"
+      },
+      {
+        "tod": [
+          1
+        ],
+        "weather": [
+          1,
+          11,
+          12
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ11_SUM_01/Picture/JQ11_SUM_01.JQ11_SUM_01'"
+      },
+      {
+        "tod": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "bg_res": "Texture2D'/Game/ArtRes/UI/Photo/JQ11_SUM_01/Picture/JQ11_SUM_01.JQ11_SUM_01'"
       }
     ],
-    "pc_action": null,
-    "pc_pos": null,
+    "pc_action": [
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC1/Animation/JQ11_SUM_01.JQ11_SUM_01'",
+      "AnimSequence'/Game/ArtRes/AnimSequence/Human/PC/PC2/Animation/JQ11_SUM_01.JQ11_SUM_01'"
+    ],
+    "pc_pos": [
+      "-990135.0",
+      "687426.8125",
+      "-9.877388",
+      "0",
+      "0",
+      "60.82943"
+    ],
     "light_conf": [
       {
         "tod_pc": [
-          53472,
-          53504,
-          56576
+          2
         ],
         "weather_pc": [
-          54240,
-          53504,
-          56576
+          1,
+          11,
+          12
         ],
-        "light_para": null
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          3
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1
+        ],
+        "weather_pc": [
+          1,
+          11,
+          12
+        ],
+        "light_para": [
+          "12"
+        ]
+      },
+      {
+        "tod_pc": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "weather_pc": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "light_para": [
+          "12"
+        ]
       }
     ]
   }

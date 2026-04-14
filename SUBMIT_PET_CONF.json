@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 13,
     "id": 1,
     "editor_name": "无条件的绿耳松鼠",
     "base_id": [
@@ -9,8 +7,6 @@
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 13,
     "id": 2,
     "editor_name": "无条件的喵喵",
     "base_id": [
@@ -18,8 +14,6 @@
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 13,
     "id": 3,
     "editor_name": "无条件的板板壳",
     "base_id": [
@@ -27,19 +21,27 @@
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 21,
     "id": 4,
     "editor_name": "性格要求的蓬松的鸭吉吉",
     "base_id": [
       3012
     ],
     "submit_desc": "需要一只外向性格的鸭吉吉（勇敢、逞强、稳重、天真、慎重、开朗）",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          4,
+          5,
+          6,
+          7,
+          19,
+          23
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 17,
     "id": 5,
     "editor_name": "火系精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -77,8 +79,6 @@
     "submit_desc": "需要一只能生火的精灵"
   },
   {
-    "_row_key": 6,
-    "_row_size": 17,
     "id": 6,
     "editor_name": "翼系精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -144,8 +144,6 @@
     "submit_desc": "需要一只能能飞的精灵"
   },
   {
-    "_row_key": 7,
-    "_row_size": 17,
     "id": 7,
     "editor_name": "水系精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -210,8 +208,6 @@
     "submit_desc": "需要一只能渡海的精灵"
   },
   {
-    "_row_key": 8,
-    "_row_size": 17,
     "id": 8,
     "editor_name": "看起来很小很可爱的精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -239,8 +235,6 @@
     "submit_desc": "需要一只小小精灵"
   },
   {
-    "_row_key": 9,
-    "_row_size": 17,
     "id": 9,
     "editor_name": "翅膀很大的精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -256,8 +250,6 @@
     "submit_desc": "需要一只翅膀很大的精灵"
   },
   {
-    "_row_key": 10,
-    "_row_size": 17,
     "id": 10,
     "editor_name": "会发光的精灵（目前填的petbase_id数组，有拓展性问题，后续需要增加枚举）",
     "base_id": [
@@ -288,8 +280,6 @@
     "submit_desc": "需要一只会发光的精灵"
   },
   {
-    "_row_key": 11,
-    "_row_size": 17,
     "id": 11,
     "editor_name": "彼得大道的精灵",
     "base_id": [
@@ -302,8 +292,6 @@
     "submit_desc": "需要活跃在彼得大道的精灵"
   },
   {
-    "_row_key": 12,
-    "_row_size": 13,
     "id": 12,
     "editor_name": "无条件的贝加尔",
     "base_id": [
@@ -311,8 +299,6 @@
     ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 17,
     "id": 13,
     "editor_name": "无条件的红丝绒",
     "base_id": [
@@ -321,8 +307,6 @@
     "submit_desc": "需要一只红丝绒"
   },
   {
-    "_row_key": 14,
-    "_row_size": 17,
     "id": 14,
     "editor_name": "主线-智者鲨1",
     "base_id": [
@@ -331,8 +315,6 @@
     "submit_desc": "需要一只？？？"
   },
   {
-    "_row_key": 15,
-    "_row_size": 17,
     "id": 15,
     "editor_name": "主线-智者鲨2",
     "base_id": [
@@ -341,8 +323,6 @@
     "submit_desc": "需要一只？？？"
   },
   {
-    "_row_key": 16,
-    "_row_size": 17,
     "id": 16,
     "editor_name": "主线-智者鲨3",
     "base_id": [
@@ -351,8 +331,6 @@
     "submit_desc": "需要一只？？？"
   },
   {
-    "_row_key": 17,
-    "_row_size": 17,
     "id": 17,
     "editor_name": "拾遗-形迹可疑之人-蹦蹦种子",
     "base_id": [
@@ -364,8 +342,6 @@
     "submit_desc": "需要一只蹦蹦种子"
   },
   {
-    "_row_key": 18,
-    "_row_size": 17,
     "id": 18,
     "editor_name": "拾遗-形迹可疑之人-蓬叶虫",
     "base_id": [
@@ -374,8 +350,6 @@
     "submit_desc": "需要一只蓬叶虫"
   },
   {
-    "_row_key": 19,
-    "_row_size": 17,
     "id": 19,
     "editor_name": "拾遗-形迹可疑之人-布是岩",
     "base_id": [
@@ -384,8 +358,6 @@
     "submit_desc": "需要一只布是岩"
   },
   {
-    "_row_key": 20,
-    "_row_size": 17,
     "id": 20,
     "editor_name": "拾遗-欧文的烦心事",
     "base_id": [
@@ -394,8 +366,6 @@
     "submit_desc": "需要一只风铃鲨"
   },
   {
-    "_row_key": 21,
-    "_row_size": 17,
     "id": 21,
     "editor_name": "拾遗-区别对待-人权派",
     "base_id": [
@@ -404,8 +374,6 @@
     "submit_desc": "需要一只会跳舞的蓬松鸭吉吉"
   },
   {
-    "_row_key": 22,
-    "_row_size": 17,
     "id": 22,
     "editor_name": "拾遗-区别对待-效益派",
     "base_id": [
@@ -414,8 +382,6 @@
     "submit_desc": "需要一只布是岩"
   },
   {
-    "_row_key": 23,
-    "_row_size": 17,
     "id": 23,
     "editor_name": "拾遗-反收购护主犬",
     "base_id": [
@@ -424,8 +390,6 @@
     "submit_desc": "需要一只护主犬"
   },
   {
-    "_row_key": 24,
-    "_row_size": 17,
     "id": 24,
     "editor_name": "拾遗-反收购音速犬",
     "base_id": [
@@ -434,8 +398,6 @@
     "submit_desc": "需要一只音速犬"
   },
   {
-    "_row_key": 25,
-    "_row_size": 17,
     "id": 25,
     "editor_name": "无条件的冬羽雀",
     "base_id": [
@@ -447,8 +409,6 @@
     "submit_desc": "需要一只冬羽雀"
   },
   {
-    "_row_key": 26,
-    "_row_size": 17,
     "id": 26,
     "editor_name": "无条件的花影羚羊",
     "base_id": [
@@ -457,8 +417,6 @@
     "submit_desc": "需要一只花影羚羊"
   },
   {
-    "_row_key": 27,
-    "_row_size": 17,
     "id": 27,
     "editor_name": "无条件的羚兰羊",
     "base_id": [
@@ -467,8 +425,6 @@
     "submit_desc": "需要一只羚兰羊"
   },
   {
-    "_row_key": 28,
-    "_row_size": 17,
     "id": 28,
     "editor_name": "无条件的锥尾羊",
     "base_id": [
@@ -477,8 +433,6 @@
     "submit_desc": "需要一只锥尾羊"
   },
   {
-    "_row_key": 29,
-    "_row_size": 17,
     "id": 29,
     "editor_name": "拾遗-间谍",
     "base_id": [
@@ -487,155 +441,250 @@
     "submit_desc": "需要一只蒲公英娃娃"
   },
   {
-    "_row_key": 30,
-    "_row_size": 17,
     "id": 30,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-1-2（保底）",
     "submit_desc": "需要一只性格为「悠闲」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          9
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 17,
     "id": 31,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-1-3（保底）",
     "submit_desc": "需要一只性格为「大胆」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          1
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 17,
     "id": 32,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-1-4（保底）",
     "submit_desc": "需要一只性格为「固执」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          2
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 17,
     "id": 33,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-2-2（保底）",
     "submit_desc": "需要一只性格为「沉默」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          26
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 17,
     "id": 34,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-2-3（保底）",
     "submit_desc": "需要一只性格为「稳重」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          6
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 17,
     "id": 35,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-2-4（保底）",
     "submit_desc": "需要一只性格为「勇敢」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          4
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 17,
     "id": 36,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-3-2（保底）",
     "submit_desc": "需要一只性格为「粗心」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          29
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 17,
     "id": 37,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-3-3（保底）",
     "submit_desc": "需要一只性格为「急躁」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          22
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 17,
     "id": 38,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-3-4（保底）",
     "submit_desc": "需要一只性格为「温顺」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          17
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 17,
     "id": 39,
     "editor_name": "A2_骑士拾遗2.0_翼系_1-3-3-5（保底）",
     "submit_desc": "需要一只性格为「开朗」的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 1,
+        "attr_cond_param": [
+          23
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 17,
     "id": 40,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_地＆虫",
     "submit_desc": "需要一只使用「淘沙球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100283
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 17,
     "id": 41,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_武＆龙",
     "submit_desc": "需要一只使用「好战球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100263
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 17,
     "id": 42,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_幽＆恶",
     "submit_desc": "需要一只使用「暗星球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100273
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 17,
     "id": 43,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_火＆冰",
     "submit_desc": "需要一只使用「调温球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100274
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 17,
     "id": 44,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_草＆光",
     "submit_desc": "需要一只使用「光合球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100271
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 17,
     "id": 45,
     "editor_name": "A2_骑士拾遗2.1_水系_锻造_光＆虫",
     "submit_desc": "需要一只使用「捕光球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100285
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 17,
     "id": 46,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_水＆翼",
     "submit_desc": "需要一只使用「网兜球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100272
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 17,
     "id": 47,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_电＆毒",
     "submit_desc": "需要一只使用「绝缘球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100275
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 17,
     "id": 48,
     "editor_name": "A2_骑士拾遗2.0_水系_锻造_幻＆机械",
     "submit_desc": "需要一只使用「变幻球」捕捉的精灵",
-    "attr_cond": []
+    "attr_cond": [
+      {
+        "attr_cond_type": 7,
+        "attr_cond_param": [
+          100284
+        ]
+      }
+    ]
   }
 ]

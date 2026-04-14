@@ -1,61 +1,68 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 22,
     "id": 1,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_duizhan.img_duizhan'",
     "icon_name": "魔法师手册",
     "icon_name_roco": "magicmanual",
-    "chinese_pinyin": "1"
+    "chinese_pinyin": [
+      "mo",
+      "fa",
+      "shi",
+      "shou",
+      "ce"
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 22,
     "id": 2,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_renwu.img_renwu'",
     "icon_name": "任务",
     "icon_name_roco": "task",
-    "chinese_pinyin": "6"
+    "chinese_pinyin": [
+      "ren",
+      "wu"
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 22,
     "id": 3,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_ditu.img_ditu'",
     "icon_name": "地图",
     "icon_name_roco": "map",
-    "chinese_pinyin": "8"
+    "chinese_pinyin": [
+      "di",
+      "tu"
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 22,
     "id": 4,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_tujian.img_tujian'",
     "icon_name": "图鉴",
     "icon_name_roco": "handbook",
-    "chinese_pinyin": "9"
+    "chinese_pinyin": [
+      "tu",
+      "jian"
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 22,
     "id": 5,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_jingling.img_jingling'",
     "icon_name": "精灵",
     "icon_name_roco": "pet",
-    "chinese_pinyin": ";"
+    "chinese_pinyin": [
+      "jing",
+      "ling"
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 22,
     "id": 6,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_beibao.img_beibao'",
     "icon_name": "背包",
     "icon_name_roco": "bag",
-    "chinese_pinyin": "="
+    "chinese_pinyin": [
+      "bei",
+      "bao"
+    ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 22,
     "id": 7,
     "icon_material_name": "Shangchang_Hint",
     "icon_name": "商城",
@@ -63,8 +70,6 @@
     "icon_initialize": 1
   },
   {
-    "_row_key": 8,
-    "_row_size": 22,
     "id": 8,
     "icon_material_name": "PikaMonthly_Hint",
     "icon_name": "皮卡时装",
@@ -72,8 +77,6 @@
     "icon_initialize": 2
   },
   {
-    "_row_key": 9,
-    "_row_size": 22,
     "id": 9,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_huodong_png.img_luopan_huodong_png'",
     "icon_name": "活动",
@@ -81,16 +84,12 @@
     "icon_initialize": 4
   },
   {
-    "_row_key": 10,
-    "_row_size": 18,
     "id": 10,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_BPrukou_png.img_luopan_BPrukou_png'",
     "icon_name": "拾光通行证",
     "icon_initialize": 3
   },
   {
-    "_row_key": 11,
-    "_row_size": 22,
     "id": 11,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_mingpian_png.img_luopan_mingpian_png'",
     "icon_name": "名片",
@@ -98,8 +97,6 @@
     "icon_initialize": 6
   },
   {
-    "_row_key": 12,
-    "_row_size": 22,
     "id": 12,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_haoyou_png.img_luopan_haoyou_png'",
     "icon_name": "好友",
@@ -107,8 +104,6 @@
     "icon_initialize": 5
   },
   {
-    "_row_key": 13,
-    "_row_size": 22,
     "id": 13,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_youjian_png.img_luopan_youjian_png'",
     "icon_name": "邮箱",
@@ -116,8 +111,6 @@
     "icon_initialize": 9
   },
   {
-    "_row_key": 14,
-    "_row_size": 22,
     "id": 14,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_music_png.img_luopan_music_png'",
     "icon_name": "音乐",
@@ -125,8 +118,6 @@
     "icon_initialize": 7
   },
   {
-    "_row_key": 15,
-    "_row_size": 22,
     "id": 15,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_jiaoxue_png.img_luopan_jiaoxue_png'",
     "icon_name": "教学",
@@ -134,22 +125,16 @@
     "icon_initialize": 8
   },
   {
-    "_row_key": 16,
-    "_row_size": 14,
     "id": 16,
     "icon_name": "特权",
     "icon_initialize": 12
   },
   {
-    "_row_key": 17,
-    "_row_size": 14,
     "id": 17,
     "icon_name": "设置",
     "icon_initialize": 10
   },
   {
-    "_row_key": 18,
-    "_row_size": 22,
     "id": 18,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_anyeshiguang_png.img_luopan_anyeshiguang_png'",
     "icon_name": "委托函",
@@ -157,8 +142,6 @@
     "icon_initialize": 13
   },
   {
-    "_row_key": 19,
-    "_row_size": 22,
     "id": 19,
     "icon_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_zhoubianshangcheng_png.img_luopan_zhoubianshangcheng_png'",
     "icon_name": "周边商城",

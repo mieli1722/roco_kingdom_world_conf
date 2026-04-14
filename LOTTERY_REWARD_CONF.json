@@ -1,20 +1,36 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 21,
     "id": 1001,
     "lottery_name": "阿布徽章",
     "appear_time": "2025-06-20 00:00:00",
     "disappear_time": "2026-07-19 23:59:59",
-    "condition_group": []
+    "condition_group": [
+      {
+        "initial_probability": 5,
+        "global_max_quantity": 4000,
+        "result_page": 10001
+      },
+      {
+        "initial_probability": 95,
+        "result_page": 10002
+      }
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 21,
     "id": 1002,
     "lottery_name": "阿布徽章",
     "appear_time": "2025-06-20 00:00:00",
     "disappear_time": "2026-07-19 23:59:59",
-    "condition_group": []
+    "condition_group": [
+      {
+        "initial_probability": 5,
+        "global_max_quantity": 500,
+        "result_page": 10001
+      },
+      {
+        "initial_probability": 95,
+        "result_page": 10002
+      }
+    ]
   }
 ]

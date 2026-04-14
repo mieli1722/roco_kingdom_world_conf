@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 80,
     "id": 1,
     "part_id": [
       101,
@@ -37,6 +35,23 @@
       60124,
       60125
     ],
-    "focus_group": []
+    "focus_group": [
+      {
+        "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_longxipaer.img_pailian_longxipaer'",
+        "option_name": "下一页",
+        "option_skip_type": 1
+      },
+      {
+        "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_emengjiasuo.img_pailian_emengjiasuo'",
+        "option_name": "下一页",
+        "option_skip_type": 1
+      },
+      {
+        "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_tongxingzheng.img_pailian_tongxingzheng'",
+        "option_name": "前往选择",
+        "option_skip_type": 2,
+        "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity"
+      }
+    ]
   }
 ]

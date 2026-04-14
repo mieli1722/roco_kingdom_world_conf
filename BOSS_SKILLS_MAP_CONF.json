@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 25,
     "id": 1000729,
     "refresh_id": 1000729,
     "npc_id": 53030,
@@ -11,11 +9,13 @@
       126,
       128
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 25,
     "id": 1000730,
     "refresh_id": 1000730,
     "npc_id": 53027,
@@ -25,20 +25,34 @@
       16,
       17
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 21,
     "id": 1000733,
     "refresh_id": 1000733,
     "npc_id": 53028,
     "preload_distance": 5000,
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 25,
     "id": 1000734,
     "refresh_id": 1000734,
     "npc_id": 53029,
@@ -48,11 +62,13 @@
       122,
       124
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 25,
     "id": 1001080,
     "refresh_id": 1001080,
     "npc_id": 53034,
@@ -62,11 +78,19 @@
       92,
       93
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 25,
     "id": 1001081,
     "refresh_id": 1001081,
     "npc_id": 53035,
@@ -77,11 +101,17 @@
       21,
       22
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Fear",
+      "Happy",
+      "Relax",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 25,
     "id": 1001082,
     "refresh_id": 1001082,
     "npc_id": 53036,
@@ -92,11 +122,16 @@
       110,
       116
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Shock",
+      "Show",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 25,
     "id": 1001083,
     "refresh_id": 1001083,
     "npc_id": 53037,
@@ -106,11 +141,18 @@
       12,
       13
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Sad",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1"
+    ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 25,
     "id": 1001084,
     "refresh_id": 1001084,
     "npc_id": 53038,
@@ -121,11 +163,17 @@
       120,
       141
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Fear",
+      "Happy",
+      "Relax",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 25,
     "id": 1001085,
     "refresh_id": 1001085,
     "npc_id": 53039,
@@ -138,11 +186,25 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "show"
+    ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 25,
     "id": 1001086,
     "refresh_id": 1001086,
     "npc_id": 53040,
@@ -153,11 +215,17 @@
       97,
       98
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Sad",
+      "Shock",
+      "Show",
+      "Stun"
+    ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 25,
     "id": 1001087,
     "refresh_id": 1001087,
     "npc_id": 53041,
@@ -170,11 +238,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "MoveL",
+      "MoveR",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Loop2",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 25,
     "id": 1001088,
     "refresh_id": 1001088,
     "npc_id": 53042,
@@ -187,11 +266,17 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Show",
+      "Skill2Loop1",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 25,
     "id": 1001089,
     "refresh_id": 1001089,
     "npc_id": 53043,
@@ -200,11 +285,19 @@
       63,
       66
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "FlyStart",
+      "Happy",
+      "Relax",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start"
+    ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 25,
     "id": 1001584,
     "refresh_id": 1001584,
     "npc_id": 53044,
@@ -214,11 +307,13 @@
       126,
       128
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 16,
-    "_row_size": 25,
     "id": 1001585,
     "refresh_id": 1001585,
     "npc_id": 53045,
@@ -228,11 +323,13 @@
       126,
       128
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 17,
-    "_row_size": 25,
     "id": 1001593,
     "refresh_id": 1001593,
     "npc_id": 53046,
@@ -242,11 +339,13 @@
       122,
       124
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 18,
-    "_row_size": 25,
     "id": 1001594,
     "refresh_id": 1001594,
     "npc_id": 53047,
@@ -256,11 +355,13 @@
       122,
       124
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 25,
     "id": 1001600,
     "refresh_id": 1001600,
     "npc_id": 53048,
@@ -270,11 +371,14 @@
       16,
       17
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 25,
     "id": 1001601,
     "refresh_id": 1001601,
     "npc_id": 53049,
@@ -284,11 +388,14 @@
       16,
       17
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 25,
     "id": 1001612,
     "refresh_id": 1001612,
     "npc_id": 53053,
@@ -299,11 +406,15 @@
       69,
       70
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1Loop",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 25,
     "id": 1001613,
     "refresh_id": 1001613,
     "npc_id": 53054,
@@ -314,11 +425,15 @@
       69,
       70
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1Loop",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 25,
     "id": 1001614,
     "refresh_id": 1001614,
     "npc_id": 53055,
@@ -329,11 +444,15 @@
       69,
       70
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1Loop",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 25,
     "id": 1001623,
     "refresh_id": 1001623,
     "npc_id": 53056,
@@ -345,11 +464,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 25,
     "id": 1001624,
     "refresh_id": 1001624,
     "npc_id": 53057,
@@ -361,11 +482,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 25,
     "id": 1001625,
     "refresh_id": 1001625,
     "npc_id": 53058,
@@ -377,11 +500,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 25,
     "id": 1001634,
     "refresh_id": 1001634,
     "npc_id": 53059,
@@ -394,11 +519,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 25,
     "id": 1001635,
     "refresh_id": 1001635,
     "npc_id": 53060,
@@ -411,11 +538,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 25,
     "id": 1001636,
     "refresh_id": 1001636,
     "npc_id": 53061,
@@ -428,11 +557,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 25,
     "id": 1001645,
     "refresh_id": 1001645,
     "npc_id": 53062,
@@ -444,11 +575,15 @@
       133,
       134
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill2Loop1",
+      "Skill2Loop2"
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 25,
     "id": 1001646,
     "refresh_id": 1001646,
     "npc_id": 53063,
@@ -460,11 +595,15 @@
       133,
       134
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill2Loop1",
+      "Skill2Loop2"
+    ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 25,
     "id": 1001647,
     "refresh_id": 1001647,
     "npc_id": 53064,
@@ -476,11 +615,15 @@
       133,
       134
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill2Loop1",
+      "Skill2Loop2"
+    ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 25,
     "id": 1001656,
     "refresh_id": 1001656,
     "npc_id": 53050,
@@ -492,11 +635,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 25,
     "id": 1001657,
     "refresh_id": 1001657,
     "npc_id": 53051,
@@ -508,11 +653,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 25,
     "id": 1001658,
     "refresh_id": 1001658,
     "npc_id": 53052,
@@ -524,11 +671,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 25,
     "id": 1001667,
     "refresh_id": 1001667,
     "npc_id": 53065,
@@ -543,11 +692,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 25,
     "id": 1001668,
     "refresh_id": 1001668,
     "npc_id": 53066,
@@ -562,11 +713,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 25,
     "id": 1001669,
     "refresh_id": 1001669,
     "npc_id": 53067,
@@ -581,11 +734,13 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 25,
     "id": 1001686,
     "refresh_id": 1001686,
     "npc_id": 120015,
@@ -598,11 +753,15 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Show"
+    ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 25,
     "id": 1002626,
     "refresh_id": 1002626,
     "npc_id": 65596,
@@ -614,11 +773,23 @@
       160,
       161
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "CallOut",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "Stun"
+    ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 25,
     "id": 1002627,
     "refresh_id": 1002627,
     "npc_id": 65597,
@@ -630,11 +801,24 @@
       165,
       172
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "CallOut",
+      "Happy",
+      "Hit1",
+      "Sad",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "Stun"
+    ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 25,
     "id": 1002628,
     "refresh_id": 1002628,
     "npc_id": 65598,
@@ -647,11 +831,23 @@
       170,
       173
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "CallOut",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "Stun"
+    ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 25,
     "id": 1200805,
     "refresh_id": 1200805,
     "npc_id": 65517,
@@ -662,11 +858,17 @@
       9,
       18
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Relax",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start"
+    ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 25,
     "id": 1200806,
     "refresh_id": 1200806,
     "npc_id": 65518,
@@ -676,11 +878,17 @@
       2,
       3
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "CallOut",
+      "Happy",
+      "Relax",
+      "Show",
+      "show"
+    ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 25,
     "id": 1200807,
     "refresh_id": 1200807,
     "npc_id": 65514,
@@ -690,11 +898,15 @@
       60,
       62
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Show"
+    ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 25,
     "id": 1200808,
     "refresh_id": 1200808,
     "npc_id": 65515,
@@ -706,11 +918,15 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Show"
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 25,
     "id": 1200809,
     "refresh_id": 1200809,
     "npc_id": 65516,
@@ -721,11 +937,23 @@
       29,
       30
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 25,
     "id": 1200811,
     "refresh_id": 1200811,
     "npc_id": 120017,
@@ -738,11 +966,24 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "MoveL",
+      "MoveR",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 25,
     "id": 1200820,
     "refresh_id": 1200820,
     "npc_id": 120012,
@@ -755,11 +996,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 21,
     "id": 1200848,
     "refresh_id": 1200848,
     "npc_id": 65479,
@@ -769,8 +1021,6 @@
     ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 21,
     "id": 1200849,
     "refresh_id": 1200849,
     "npc_id": 65479,
@@ -780,8 +1030,6 @@
     ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 21,
     "id": 1200850,
     "refresh_id": 1200850,
     "npc_id": 65479,
@@ -791,8 +1039,6 @@
     ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 21,
     "id": 1200851,
     "refresh_id": 1200851,
     "npc_id": 65479,
@@ -802,8 +1048,6 @@
     ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 21,
     "id": 1200852,
     "refresh_id": 1200852,
     "npc_id": 65479,
@@ -813,8 +1057,6 @@
     ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 21,
     "id": 1200853,
     "refresh_id": 1200853,
     "npc_id": 65479,
@@ -824,8 +1066,6 @@
     ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 21,
     "id": 1200854,
     "refresh_id": 1200854,
     "npc_id": 65479,
@@ -835,8 +1075,6 @@
     ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 21,
     "id": 1200855,
     "refresh_id": 1200855,
     "npc_id": 65479,
@@ -846,8 +1084,6 @@
     ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 21,
     "id": 1200856,
     "refresh_id": 1200856,
     "npc_id": 65479,
@@ -857,8 +1093,6 @@
     ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 21,
     "id": 1200857,
     "refresh_id": 1200857,
     "npc_id": 65479,
@@ -868,8 +1102,6 @@
     ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 21,
     "id": 1200858,
     "refresh_id": 1200858,
     "npc_id": 65479,
@@ -879,8 +1111,6 @@
     ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 21,
     "id": 1200859,
     "refresh_id": 1200859,
     "npc_id": 65479,
@@ -890,8 +1120,6 @@
     ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 25,
     "id": 1200860,
     "refresh_id": 1200860,
     "npc_id": 53023,
@@ -903,20 +1131,33 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 63,
-    "_row_size": 21,
     "id": 1200861,
     "refresh_id": 1200861,
     "npc_id": 53026,
     "preload_distance": 5000,
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 21,
     "id": 1200908,
     "refresh_id": 1200908,
     "npc_id": 65535,
@@ -926,8 +1167,6 @@
     ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 25,
     "id": 1600251,
     "refresh_id": 1600251,
     "npc_id": 65516,
@@ -938,11 +1177,23 @@
       29,
       30
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 66,
-    "_row_size": 25,
     "id": 2400540,
     "refresh_id": 2400540,
     "npc_id": 670001,
@@ -955,11 +1206,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "MoveL",
+      "MoveR",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Loop2",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 67,
-    "_row_size": 25,
     "id": 2400563,
     "refresh_id": 2400563,
     "npc_id": 670002,
@@ -972,11 +1234,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "MoveL",
+      "MoveR",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Loop2",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 68,
-    "_row_size": 25,
     "id": 2400564,
     "refresh_id": 2400564,
     "npc_id": 670003,
@@ -989,11 +1262,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "MoveL",
+      "MoveR",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Loop2",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 69,
-    "_row_size": 25,
     "id": 2400565,
     "refresh_id": 2400565,
     "npc_id": 670004,
@@ -1006,11 +1290,22 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "MoveL",
+      "MoveR",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Loop2",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 70,
-    "_row_size": 25,
     "id": 2400570,
     "refresh_id": 2400570,
     "npc_id": 670005,
@@ -1023,11 +1318,25 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "show"
+    ]
   },
   {
-    "_row_key": 71,
-    "_row_size": 25,
     "id": 2400571,
     "refresh_id": 2400571,
     "npc_id": 670006,
@@ -1040,11 +1349,25 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "show"
+    ]
   },
   {
-    "_row_key": 72,
-    "_row_size": 25,
     "id": 2400572,
     "refresh_id": 2400572,
     "npc_id": 670007,
@@ -1057,11 +1380,25 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "show"
+    ]
   },
   {
-    "_row_key": 73,
-    "_row_size": 25,
     "id": 2400573,
     "refresh_id": 2400573,
     "npc_id": 670008,
@@ -1074,11 +1411,25 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Hit1",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "show"
+    ]
   },
   {
-    "_row_key": 74,
-    "_row_size": 25,
     "id": 4300072,
     "refresh_id": 4300072,
     "npc_id": 20605,
@@ -1090,11 +1441,23 @@
       153,
       154
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Relax",
+      "Show",
+      "Skill1End",
+      "Skill1Loop",
+      "Skill1Start",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
   },
   {
-    "_row_key": 75,
-    "_row_size": 21,
     "id": 29000007,
     "refresh_id": 29000007,
     "npc_id": 190007,
@@ -1105,8 +1468,6 @@
     ]
   },
   {
-    "_row_key": 76,
-    "_row_size": 21,
     "id": 29000008,
     "refresh_id": 29000008,
     "npc_id": 190008,
@@ -1116,8 +1477,6 @@
     ]
   },
   {
-    "_row_key": 77,
-    "_row_size": 21,
     "id": 29000009,
     "refresh_id": 29000009,
     "npc_id": 190009,
@@ -1128,8 +1487,6 @@
     ]
   },
   {
-    "_row_key": 78,
-    "_row_size": 21,
     "id": 29000010,
     "refresh_id": 29000010,
     "npc_id": 190010,
@@ -1140,8 +1497,6 @@
     ]
   },
   {
-    "_row_key": 79,
-    "_row_size": 21,
     "id": 29000017,
     "refresh_id": 29000017,
     "npc_id": 190017,
@@ -1152,8 +1507,6 @@
     ]
   },
   {
-    "_row_key": 80,
-    "_row_size": 21,
     "id": 29000018,
     "refresh_id": 29000018,
     "npc_id": 190018,
@@ -1164,8 +1517,6 @@
     ]
   },
   {
-    "_row_key": 81,
-    "_row_size": 25,
     "id": 29000101,
     "refresh_id": 29000101,
     "npc_id": 190101,
@@ -1175,11 +1526,19 @@
       92,
       93
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Relax",
+      "Shock",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start"
+    ]
   },
   {
-    "_row_key": 82,
-    "_row_size": 21,
     "id": 30300201,
     "refresh_id": 30300201,
     "npc_id": 65479,
@@ -1189,8 +1548,6 @@
     ]
   },
   {
-    "_row_key": 83,
-    "_row_size": 21,
     "id": 30300301,
     "refresh_id": 30300301,
     "npc_id": 65520,
@@ -1200,8 +1557,6 @@
     ]
   },
   {
-    "_row_key": 84,
-    "_row_size": 21,
     "id": 30300401,
     "refresh_id": 30300401,
     "npc_id": 65521,
@@ -1211,8 +1566,6 @@
     ]
   },
   {
-    "_row_key": 85,
-    "_row_size": 21,
     "id": 30300601,
     "refresh_id": 30300601,
     "npc_id": 65523,
@@ -1222,8 +1575,6 @@
     ]
   },
   {
-    "_row_key": 86,
-    "_row_size": 21,
     "id": 30300701,
     "refresh_id": 30300701,
     "npc_id": 65524,
@@ -1233,8 +1584,6 @@
     ]
   },
   {
-    "_row_key": 87,
-    "_row_size": 21,
     "id": 30300801,
     "refresh_id": 30300801,
     "npc_id": 65525,
@@ -1244,8 +1593,6 @@
     ]
   },
   {
-    "_row_key": 88,
-    "_row_size": 21,
     "id": 30300901,
     "refresh_id": 30300901,
     "npc_id": 65527,
@@ -1255,8 +1602,6 @@
     ]
   },
   {
-    "_row_key": 89,
-    "_row_size": 21,
     "id": 30301001,
     "refresh_id": 30301001,
     "npc_id": 65535,
@@ -1266,8 +1611,6 @@
     ]
   },
   {
-    "_row_key": 90,
-    "_row_size": 21,
     "id": 30301401,
     "refresh_id": 30301401,
     "npc_id": 53008,
@@ -1277,8 +1620,6 @@
     ]
   },
   {
-    "_row_key": 91,
-    "_row_size": 21,
     "id": 30302001,
     "refresh_id": 30302001,
     "npc_id": 53025,
@@ -1288,8 +1629,6 @@
     ]
   },
   {
-    "_row_key": 92,
-    "_row_size": 21,
     "id": 30302007,
     "refresh_id": 30302007,
     "npc_id": 120001,
@@ -1299,8 +1638,6 @@
     ]
   },
   {
-    "_row_key": 93,
-    "_row_size": 21,
     "id": 30302008,
     "refresh_id": 30302008,
     "npc_id": 120002,
@@ -1310,8 +1647,6 @@
     ]
   },
   {
-    "_row_key": 94,
-    "_row_size": 21,
     "id": 30302009,
     "refresh_id": 30302009,
     "npc_id": 120003,
@@ -1321,8 +1656,6 @@
     ]
   },
   {
-    "_row_key": 95,
-    "_row_size": 21,
     "id": 30302011,
     "refresh_id": 30302011,
     "npc_id": 120005,
@@ -1332,8 +1665,6 @@
     ]
   },
   {
-    "_row_key": 96,
-    "_row_size": 25,
     "id": 31000001,
     "refresh_id": 31000001,
     "npc_id": 65542,
@@ -1341,11 +1672,13 @@
     "skill_ids": [
       7
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 97,
-    "_row_size": 25,
     "id": 31000002,
     "refresh_id": 31000002,
     "npc_id": 65542,
@@ -1353,11 +1686,13 @@
     "skill_ids": [
       7
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 98,
-    "_row_size": 25,
     "id": 31000003,
     "refresh_id": 31000003,
     "npc_id": 65542,
@@ -1365,11 +1700,13 @@
     "skill_ids": [
       7
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 99,
-    "_row_size": 25,
     "id": 31000004,
     "refresh_id": 31000004,
     "npc_id": 65536,
@@ -1377,11 +1714,12 @@
     "skill_ids": [
       10
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 100,
-    "_row_size": 25,
     "id": 31000005,
     "refresh_id": 31000005,
     "npc_id": 65537,
@@ -1389,11 +1727,12 @@
     "skill_ids": [
       10
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 101,
-    "_row_size": 25,
     "id": 31000006,
     "refresh_id": 31000006,
     "npc_id": 65538,
@@ -1401,11 +1740,12 @@
     "skill_ids": [
       14
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 102,
-    "_row_size": 25,
     "id": 31000007,
     "refresh_id": 31000007,
     "npc_id": 65539,
@@ -1413,11 +1753,12 @@
     "skill_ids": [
       24
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 103,
-    "_row_size": 25,
     "id": 31000008,
     "refresh_id": 31000008,
     "npc_id": 65540,
@@ -1425,11 +1766,12 @@
     "skill_ids": [
       24
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 104,
-    "_row_size": 25,
     "id": 31000012,
     "refresh_id": 31000012,
     "npc_id": 65545,
@@ -1437,11 +1779,12 @@
     "skill_ids": [
       4
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 105,
-    "_row_size": 25,
     "id": 31000013,
     "refresh_id": 31000013,
     "npc_id": 65546,
@@ -1449,20 +1792,24 @@
     "skill_ids": [
       35
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 106,
-    "_row_size": 21,
     "id": 31000020,
     "refresh_id": 31000020,
     "npc_id": 65553,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Skill2Loop2",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 107,
-    "_row_size": 25,
     "id": 31000021,
     "refresh_id": 31000021,
     "npc_id": 65554,
@@ -1470,11 +1817,12 @@
     "skill_ids": [
       45
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 108,
-    "_row_size": 25,
     "id": 31000022,
     "refresh_id": 31000022,
     "npc_id": 65555,
@@ -1482,11 +1830,14 @@
     "skill_ids": [
       61
     ],
-    "anim_names": "n"
+    "anim_names": [
+      "Anger",
+      "Fear",
+      "Hit1",
+      "Show"
+    ]
   },
   {
-    "_row_key": 109,
-    "_row_size": 25,
     "id": 31000023,
     "refresh_id": 31000023,
     "npc_id": 65557,
@@ -1494,11 +1845,12 @@
     "skill_ids": [
       54
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 110,
-    "_row_size": 25,
     "id": 31000024,
     "refresh_id": 31000024,
     "npc_id": 65558,
@@ -1506,11 +1858,12 @@
     "skill_ids": [
       54
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 111,
-    "_row_size": 25,
     "id": 31000025,
     "refresh_id": 31000025,
     "npc_id": 65559,
@@ -1518,11 +1871,12 @@
     "skill_ids": [
       75
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 112,
-    "_row_size": 25,
     "id": 31000026,
     "refresh_id": 31000026,
     "npc_id": 65571,
@@ -1530,11 +1884,14 @@
     "skill_ids": [
       55
     ],
-    "anim_names": "n"
+    "anim_names": [
+      "Anger",
+      "Fear",
+      "Happy",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 113,
-    "_row_size": 25,
     "id": 31000027,
     "refresh_id": 31000027,
     "npc_id": 65571,
@@ -1542,11 +1899,14 @@
     "skill_ids": [
       55
     ],
-    "anim_names": "n"
+    "anim_names": [
+      "Anger",
+      "Fear",
+      "Happy",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 114,
-    "_row_size": 25,
     "id": 31000028,
     "refresh_id": 31000028,
     "npc_id": 65571,
@@ -1554,11 +1914,14 @@
     "skill_ids": [
       55
     ],
-    "anim_names": "n"
+    "anim_names": [
+      "Anger",
+      "Fear",
+      "Happy",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 115,
-    "_row_size": 25,
     "id": 31000029,
     "refresh_id": 31000029,
     "npc_id": 65572,
@@ -1568,11 +1931,12 @@
       65,
       77
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 116,
-    "_row_size": 25,
     "id": 31000031,
     "refresh_id": 31000031,
     "npc_id": 65574,
@@ -1580,11 +1944,12 @@
     "skill_ids": [
       156
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 117,
-    "_row_size": 25,
     "id": 31000032,
     "refresh_id": 31000032,
     "npc_id": 65574,
@@ -1592,20 +1957,23 @@
     "skill_ids": [
       156
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 118,
-    "_row_size": 21,
     "id": 31000039,
     "refresh_id": 31000039,
     "npc_id": 65578,
     "preload_distance": 5000,
-    "anim_names": null
+    "anim_names": [
+      "CallOut",
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 119,
-    "_row_size": 25,
     "id": 31000040,
     "refresh_id": 31000040,
     "npc_id": 65579,
@@ -1613,11 +1981,15 @@
     "skill_ids": [
       111
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 120,
-    "_row_size": 25,
     "id": 31000041,
     "refresh_id": 31000041,
     "npc_id": 65580,
@@ -1626,11 +1998,15 @@
       111,
       139
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 121,
-    "_row_size": 25,
     "id": 31000042,
     "refresh_id": 31000042,
     "npc_id": 65581,
@@ -1638,11 +2014,15 @@
     "skill_ids": [
       113
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Happy",
+      "Hit1",
+      "Show",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 122,
-    "_row_size": 25,
     "id": 31000043,
     "refresh_id": 31000043,
     "npc_id": 65582,
@@ -1651,11 +2031,15 @@
       111,
       112
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 123,
-    "_row_size": 25,
     "id": 31000044,
     "refresh_id": 31000044,
     "npc_id": 65583,
@@ -1663,11 +2047,15 @@
     "skill_ids": [
       114
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Happy",
+      "Hit1",
+      "Show",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 124,
-    "_row_size": 25,
     "id": 31000045,
     "refresh_id": 31000045,
     "npc_id": 65584,
@@ -1675,11 +2063,15 @@
     "skill_ids": [
       111
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 125,
-    "_row_size": 25,
     "id": 31000046,
     "refresh_id": 31000046,
     "npc_id": 65585,
@@ -1688,11 +2080,15 @@
       111,
       139
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 126,
-    "_row_size": 25,
     "id": 31000047,
     "refresh_id": 31000047,
     "npc_id": 65586,
@@ -1700,11 +2096,15 @@
     "skill_ids": [
       113
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Happy",
+      "Hit1",
+      "Show",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 127,
-    "_row_size": 25,
     "id": 31000048,
     "refresh_id": 31000048,
     "npc_id": 65587,
@@ -1713,11 +2113,15 @@
       111,
       112
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Sad",
+      "Shock",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 128,
-    "_row_size": 25,
     "id": 31000049,
     "refresh_id": 31000049,
     "npc_id": 65588,
@@ -1725,20 +2129,25 @@
     "skill_ids": [
       114
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Happy",
+      "Hit1",
+      "Show",
+      "SleepStand"
+    ]
   },
   {
-    "_row_key": 129,
-    "_row_size": 21,
     "id": 31000050,
     "refresh_id": 31000050,
     "npc_id": 65589,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 130,
-    "_row_size": 25,
     "id": 31000051,
     "refresh_id": 31000051,
     "npc_id": 120043,
@@ -1750,11 +2159,13 @@
       133,
       134
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
   },
   {
-    "_row_key": 131,
-    "_row_size": 25,
     "id": 31000052,
     "refresh_id": 31000052,
     "npc_id": 120044,
@@ -1764,11 +2175,14 @@
       122,
       124
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Sad",
+      "Show"
+    ]
   },
   {
-    "_row_key": 132,
-    "_row_size": 25,
     "id": 31000053,
     "refresh_id": 31000053,
     "npc_id": 120045,
@@ -1779,11 +2193,15 @@
       69,
       70
     ],
-    "anim_names": "m"
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill1Loop",
+      "Skill3Loop"
+    ]
   },
   {
-    "_row_key": 133,
-    "_row_size": 25,
     "id": 31000054,
     "refresh_id": 31000054,
     "npc_id": 67000,
@@ -1791,11 +2209,12 @@
     "skill_ids": [
       4
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 134,
-    "_row_size": 25,
     "id": 31000056,
     "refresh_id": 31000056,
     "npc_id": 67002,
@@ -1803,11 +2222,13 @@
     "skill_ids": [
       7
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 135,
-    "_row_size": 25,
     "id": 31000058,
     "refresh_id": 31000058,
     "npc_id": 67004,
@@ -1815,11 +2236,12 @@
     "skill_ids": [
       10
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 136,
-    "_row_size": 25,
     "id": 31000060,
     "refresh_id": 31000060,
     "npc_id": 67006,
@@ -1827,11 +2249,12 @@
     "skill_ids": [
       14
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 137,
-    "_row_size": 25,
     "id": 31000061,
     "refresh_id": 31000061,
     "npc_id": 67007,
@@ -1839,29 +2262,34 @@
     "skill_ids": [
       24
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 138,
-    "_row_size": 21,
     "id": 31000063,
     "refresh_id": 31000063,
     "npc_id": 67009,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 139,
-    "_row_size": 21,
     "id": 31000064,
     "refresh_id": 31000064,
     "npc_id": 67010,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 140,
-    "_row_size": 25,
     "id": 31000065,
     "refresh_id": 31000065,
     "npc_id": 67011,
@@ -1869,11 +2297,12 @@
     "skill_ids": [
       40
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 141,
-    "_row_size": 25,
     "id": 31000067,
     "refresh_id": 31000067,
     "npc_id": 67013,
@@ -1881,11 +2310,12 @@
     "skill_ids": [
       45
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 142,
-    "_row_size": 25,
     "id": 31000072,
     "refresh_id": 31000072,
     "npc_id": 67018,
@@ -1893,11 +2323,12 @@
     "skill_ids": [
       71
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 143,
-    "_row_size": 25,
     "id": 31000074,
     "refresh_id": 31000074,
     "npc_id": 67020,
@@ -1905,11 +2336,12 @@
     "skill_ids": [
       75
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 144,
-    "_row_size": 25,
     "id": 31000075,
     "refresh_id": 31000075,
     "npc_id": 67021,
@@ -1917,11 +2349,13 @@
     "skill_ids": [
       76
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 145,
-    "_row_size": 25,
     "id": 31000076,
     "refresh_id": 31000076,
     "npc_id": 67022,
@@ -1929,20 +2363,23 @@
     "skill_ids": [
       77
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 146,
-    "_row_size": 21,
     "id": 31000077,
     "refresh_id": 31000077,
     "npc_id": 67023,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 147,
-    "_row_size": 25,
     "id": 31000079,
     "refresh_id": 31000079,
     "npc_id": 67025,
@@ -1950,11 +2387,13 @@
     "skill_ids": [
       83
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 148,
-    "_row_size": 25,
     "id": 31000081,
     "refresh_id": 31000081,
     "npc_id": 67027,
@@ -1962,11 +2401,13 @@
     "skill_ids": [
       94
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 149,
-    "_row_size": 25,
     "id": 31000082,
     "refresh_id": 31000082,
     "npc_id": 67028,
@@ -1974,11 +2415,13 @@
     "skill_ids": [
       91
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 150,
-    "_row_size": 25,
     "id": 31000084,
     "refresh_id": 31000084,
     "npc_id": 67030,
@@ -1986,11 +2429,13 @@
     "skill_ids": [
       136
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 151,
-    "_row_size": 25,
     "id": 31000085,
     "refresh_id": 31000085,
     "npc_id": 67031,
@@ -2000,11 +2445,15 @@
       104,
       152
     ],
-    "anim_names": "n"
+    "anim_names": [
+      "Anger",
+      "Fear",
+      "Happy",
+      "Hit1",
+      "Show"
+    ]
   },
   {
-    "_row_key": 152,
-    "_row_size": 25,
     "id": 31000086,
     "refresh_id": 31000086,
     "npc_id": 67032,
@@ -2012,11 +2461,13 @@
     "skill_ids": [
       115
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 153,
-    "_row_size": 25,
     "id": 31000087,
     "refresh_id": 31000087,
     "npc_id": 67033,
@@ -2024,11 +2475,13 @@
     "skill_ids": [
       140
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 154,
-    "_row_size": 25,
     "id": 31000088,
     "refresh_id": 31000088,
     "npc_id": 67034,
@@ -2036,11 +2489,13 @@
     "skill_ids": [
       123
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 155,
-    "_row_size": 25,
     "id": 31000089,
     "refresh_id": 31000089,
     "npc_id": 67035,
@@ -2048,11 +2503,13 @@
     "skill_ids": [
       119
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 156,
-    "_row_size": 25,
     "id": 31000090,
     "refresh_id": 31000090,
     "npc_id": 67036,
@@ -2060,11 +2517,12 @@
     "skill_ids": [
       127
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 157,
-    "_row_size": 25,
     "id": 31000091,
     "refresh_id": 31000091,
     "npc_id": 67037,
@@ -2072,11 +2530,12 @@
     "skill_ids": [
       132
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 158,
-    "_row_size": 25,
     "id": 31000094,
     "refresh_id": 31000094,
     "npc_id": 67037,
@@ -2084,11 +2543,12 @@
     "skill_ids": [
       132
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 159,
-    "_row_size": 25,
     "id": 31000095,
     "refresh_id": 31000095,
     "npc_id": 67037,
@@ -2096,11 +2556,12 @@
     "skill_ids": [
       132
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
   },
   {
-    "_row_key": 160,
-    "_row_size": 25,
     "id": 31000096,
     "refresh_id": 31000096,
     "npc_id": 67035,
@@ -2108,11 +2569,13 @@
     "skill_ids": [
       119
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 161,
-    "_row_size": 25,
     "id": 31000097,
     "refresh_id": 31000097,
     "npc_id": 67010,
@@ -2120,15 +2583,21 @@
     "skill_ids": [
       39
     ],
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   },
   {
-    "_row_key": 162,
-    "_row_size": 21,
     "id": 31000098,
     "refresh_id": 31000098,
     "npc_id": 67009,
     "preload_distance": 5000,
-    "anim_names": "}"
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
   }
 ]

@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 71,
     "id": 4300001,
     "part_name": "【祝福条件】",
     "part_desc": "4月24日 4:00活动开启",
@@ -18,11 +16,20 @@
     "start_time": "2026-03-26 04:00:00",
     "medal_id": 300018,
     "medal_num": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 300018,
+        "goods_count": 1
+      },
+      {
+        "goods_type": 1,
+        "goods_id": 99000177,
+        "goods_count": 1
+      }
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 71,
     "id": 4300002,
     "part_name": "【祝福条件】",
     "part_desc": "4月24日 4:00活动开启",
@@ -39,6 +46,17 @@
     "start_time": "2026-03-26 04:00:00",
     "medal_id": 300018,
     "medal_num": 1,
-    "reward_group": []
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 300018,
+        "goods_count": 1
+      },
+      {
+        "goods_type": 1,
+        "goods_id": 99000177,
+        "goods_count": 1
+      }
+    ]
   }
 ]

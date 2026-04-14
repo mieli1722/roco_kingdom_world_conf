@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 13,
     "id": 170,
     "mid_position": [
       422979,
@@ -11,8 +9,6 @@
     "belong_camp": 1200492
   },
   {
-    "_row_key": 2,
-    "_row_size": 25,
     "id": 194,
     "mid_position": [
       459714,
@@ -25,11 +21,18 @@
       15
     ],
     "common_role_type": 1004,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 322,
+        "distance": 821,
+        "relation": [
+          5,
+          4
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 25,
     "id": 301,
     "mid_position": [
       454778,
@@ -42,11 +45,18 @@
       15
     ],
     "common_role_type": 1004,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10023,
+        "distance": 2350
+      },
+      {
+        "other_habitat_id": 10024,
+        "distance": 2350
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 25,
     "id": 322,
     "mid_position": [
       459771,
@@ -59,11 +69,18 @@
       15
     ],
     "common_role_type": 1004,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 194,
+        "distance": 821,
+        "relation": [
+          5,
+          4
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 17,
     "id": 10003,
     "mid_position": [
       429285,
@@ -71,11 +88,13 @@
       11134
     ],
     "belong_camp": 140150,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10004
+      }
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 17,
     "id": 10004,
     "mid_position": [
       429285,
@@ -83,11 +102,13 @@
       11134
     ],
     "belong_camp": 140150,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10003
+      }
+    ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 17,
     "id": 10005,
     "mid_position": [
       435642,
@@ -95,11 +116,13 @@
       861
     ],
     "belong_camp": 130310,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10006
+      }
+    ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 17,
     "id": 10006,
     "mid_position": [
       435642,
@@ -107,11 +130,13 @@
       861
     ],
     "belong_camp": 130310,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10005
+      }
+    ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 17,
     "id": 10007,
     "mid_position": [
       412896,
@@ -119,11 +144,13 @@
       34645
     ],
     "belong_camp": 1200492,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10008
+      }
+    ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 17,
     "id": 10008,
     "mid_position": [
       412896,
@@ -131,11 +158,13 @@
       34645
     ],
     "belong_camp": 1200492,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10007
+      }
+    ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 17,
     "id": 10009,
     "mid_position": [
       444953,
@@ -143,11 +172,13 @@
       1712
     ],
     "belong_camp": 130309,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10010
+      }
+    ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 17,
     "id": 10010,
     "mid_position": [
       444953,
@@ -155,11 +186,13 @@
       1712
     ],
     "belong_camp": 130309,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10009
+      }
+    ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 17,
     "id": 10011,
     "mid_position": [
       376566,
@@ -167,11 +200,13 @@
       24294
     ],
     "belong_camp": 140147,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10012
+      }
+    ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 17,
     "id": 10012,
     "mid_position": [
       376566,
@@ -179,11 +214,13 @@
       24294
     ],
     "belong_camp": 140147,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10011
+      }
+    ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 17,
     "id": 10013,
     "mid_position": [
       457402,
@@ -191,11 +228,13 @@
       9780
     ],
     "belong_camp": 130312,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10014
+      }
+    ]
   },
   {
-    "_row_key": 16,
-    "_row_size": 17,
     "id": 10014,
     "mid_position": [
       457402,
@@ -203,11 +242,13 @@
       9780
     ],
     "belong_camp": 130312,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10013
+      }
+    ]
   },
   {
-    "_row_key": 17,
-    "_row_size": 17,
     "id": 10015,
     "mid_position": [
       360284,
@@ -215,11 +256,13 @@
       31496
     ],
     "belong_camp": 140143,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10016
+      }
+    ]
   },
   {
-    "_row_key": 18,
-    "_row_size": 17,
     "id": 10016,
     "mid_position": [
       360284,
@@ -227,11 +270,13 @@
       31496
     ],
     "belong_camp": 140143,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10015
+      }
+    ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 17,
     "id": 10017,
     "mid_position": [
       460062,
@@ -239,11 +284,13 @@
       21801
     ],
     "belong_camp": 140145,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10018
+      }
+    ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 17,
     "id": 10018,
     "mid_position": [
       460062,
@@ -251,11 +298,13 @@
       21801
     ],
     "belong_camp": 140145,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10017
+      }
+    ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 13,
     "id": 10019,
     "mid_position": [
       453155,
@@ -265,8 +314,6 @@
     "belong_camp": 130310
   },
   {
-    "_row_key": 22,
-    "_row_size": 17,
     "id": 10020,
     "mid_position": [
       416165,
@@ -274,11 +321,13 @@
       987
     ],
     "belong_camp": 130308,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10021
+      }
+    ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 17,
     "id": 10021,
     "mid_position": [
       416165,
@@ -286,11 +335,13 @@
       987
     ],
     "belong_camp": 130308,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10020
+      }
+    ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 13,
     "id": 10022,
     "mid_position": [
       402265,
@@ -300,8 +351,6 @@
     "belong_camp": 130310
   },
   {
-    "_row_key": 25,
-    "_row_size": 17,
     "id": 10023,
     "mid_position": [
       452883,
@@ -309,11 +358,17 @@
       3291
     ],
     "belong_camp": 130311,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10024
+      },
+      {
+        "other_habitat_id": 301,
+        "distance": 2350
+      }
+    ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 17,
     "id": 10024,
     "mid_position": [
       452883,
@@ -321,11 +376,17 @@
       3291
     ],
     "belong_camp": 130311,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10023
+      },
+      {
+        "other_habitat_id": 301,
+        "distance": 2350
+      }
+    ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 17,
     "id": 10025,
     "mid_position": [
       402721,
@@ -333,11 +394,13 @@
       7643
     ],
     "belong_camp": 140149,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10026
+      }
+    ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 17,
     "id": 10026,
     "mid_position": [
       402721,
@@ -345,11 +408,13 @@
       7643
     ],
     "belong_camp": 140149,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10025
+      }
+    ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 17,
     "id": 10027,
     "mid_position": [
       401276,
@@ -357,11 +422,13 @@
       18028
     ],
     "belong_camp": 140146,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10028
+      }
+    ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 17,
     "id": 10028,
     "mid_position": [
       401276,
@@ -369,11 +436,13 @@
       18028
     ],
     "belong_camp": 140146,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10027
+      }
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 13,
     "id": 10029,
     "mid_position": [
       396998,
@@ -383,8 +452,6 @@
     "belong_camp": 140146
   },
   {
-    "_row_key": 32,
-    "_row_size": 17,
     "id": 10030,
     "mid_position": [
       454827,
@@ -392,11 +459,13 @@
       17490
     ],
     "belong_camp": 140145,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10031
+      }
+    ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 17,
     "id": 10031,
     "mid_position": [
       454827,
@@ -404,11 +473,13 @@
       17490
     ],
     "belong_camp": 140145,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10030
+      }
+    ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 13,
     "id": 10032,
     "mid_position": [
       449121,
@@ -418,8 +489,6 @@
     "belong_camp": 130312
   },
   {
-    "_row_key": 35,
-    "_row_size": 17,
     "id": 10033,
     "mid_position": [
       487390,
@@ -427,11 +496,13 @@
       3841
     ],
     "belong_camp": 130157,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10034
+      }
+    ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 17,
     "id": 10034,
     "mid_position": [
       487390,
@@ -439,11 +510,13 @@
       3841
     ],
     "belong_camp": 130157,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10033
+      }
+    ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 17,
     "id": 10035,
     "mid_position": [
       478310,
@@ -451,11 +524,13 @@
       6168
     ],
     "belong_camp": 130158,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10036
+      }
+    ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 17,
     "id": 10036,
     "mid_position": [
       478310,
@@ -463,11 +538,13 @@
       6168
     ],
     "belong_camp": 130158,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10035
+      }
+    ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 13,
     "id": 10037,
     "mid_position": [
       501778,
@@ -477,8 +554,6 @@
     "belong_camp": 130160
   },
   {
-    "_row_key": 40,
-    "_row_size": 13,
     "id": 10038,
     "mid_position": [
       520499,
@@ -488,8 +563,6 @@
     "belong_camp": 130160
   },
   {
-    "_row_key": 41,
-    "_row_size": 17,
     "id": 10039,
     "mid_position": [
       528462,
@@ -497,11 +570,13 @@
       1931
     ],
     "belong_camp": 130163,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10040
+      }
+    ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 17,
     "id": 10040,
     "mid_position": [
       528462,
@@ -509,11 +584,13 @@
       1931
     ],
     "belong_camp": 130163,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10039
+      }
+    ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 13,
     "id": 10041,
     "mid_position": [
       530423,
@@ -523,8 +600,6 @@
     "belong_camp": 130159
   },
   {
-    "_row_key": 44,
-    "_row_size": 13,
     "id": 10042,
     "mid_position": [
       480770,
@@ -534,8 +609,6 @@
     "belong_camp": 130161
   },
   {
-    "_row_key": 45,
-    "_row_size": 17,
     "id": 10043,
     "mid_position": [
       502836,
@@ -543,11 +616,13 @@
       2380
     ],
     "belong_camp": 130161,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10044
+      }
+    ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 17,
     "id": 10044,
     "mid_position": [
       502836,
@@ -555,11 +630,13 @@
       2380
     ],
     "belong_camp": 130161,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10043
+      }
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 17,
     "id": 10045,
     "mid_position": [
       508635,
@@ -567,11 +644,13 @@
       292
     ],
     "belong_camp": 130155,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10046
+      }
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 17,
     "id": 10046,
     "mid_position": [
       508635,
@@ -579,11 +658,13 @@
       292
     ],
     "belong_camp": 130155,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10045
+      }
+    ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 17,
     "id": 10047,
     "mid_position": [
       517810,
@@ -591,11 +672,13 @@
       930
     ],
     "belong_camp": 130156,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10048
+      }
+    ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 17,
     "id": 10048,
     "mid_position": [
       517810,
@@ -603,11 +686,13 @@
       930
     ],
     "belong_camp": 130156,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10047
+      }
+    ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 17,
     "id": 10049,
     "mid_position": [
       547634,
@@ -615,11 +700,13 @@
       999
     ],
     "belong_camp": 130169,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10050
+      }
+    ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 17,
     "id": 10050,
     "mid_position": [
       547634,
@@ -627,11 +714,13 @@
       999
     ],
     "belong_camp": 130169,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10049
+      }
+    ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 17,
     "id": 10051,
     "mid_position": [
       510886,
@@ -639,11 +728,13 @@
       7978
     ],
     "belong_camp": 130172,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10052
+      }
+    ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 17,
     "id": 10052,
     "mid_position": [
       510886,
@@ -651,11 +742,13 @@
       7978
     ],
     "belong_camp": 130172,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10051
+      }
+    ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 17,
     "id": 10053,
     "mid_position": [
       510893,
@@ -663,11 +756,13 @@
       10081
     ],
     "belong_camp": 130173,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10054
+      }
+    ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 17,
     "id": 10054,
     "mid_position": [
       510893,
@@ -675,11 +770,13 @@
       10081
     ],
     "belong_camp": 130173,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10053
+      }
+    ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 17,
     "id": 10055,
     "mid_position": [
       543704,
@@ -687,11 +784,13 @@
       1058
     ],
     "belong_camp": 130164,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10056
+      }
+    ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 17,
     "id": 10056,
     "mid_position": [
       543704,
@@ -699,11 +798,13 @@
       1058
     ],
     "belong_camp": 130164,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10055
+      }
+    ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 17,
     "id": 10057,
     "mid_position": [
       597069,
@@ -711,11 +812,13 @@
       1019
     ],
     "belong_camp": 130165,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10058
+      }
+    ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 17,
     "id": 10058,
     "mid_position": [
       597069,
@@ -723,11 +826,13 @@
       1019
     ],
     "belong_camp": 130165,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10057
+      }
+    ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 17,
     "id": 10059,
     "mid_position": [
       561767,
@@ -735,11 +840,13 @@
       9427
     ],
     "belong_camp": 130170,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10060
+      }
+    ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 17,
     "id": 10060,
     "mid_position": [
       561767,
@@ -747,11 +854,13 @@
       9427
     ],
     "belong_camp": 130170,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10059
+      }
+    ]
   },
   {
-    "_row_key": 63,
-    "_row_size": 17,
     "id": 10061,
     "mid_position": [
       579229,
@@ -759,11 +868,13 @@
       482
     ],
     "belong_camp": 130171,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10062
+      }
+    ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 17,
     "id": 10062,
     "mid_position": [
       579229,
@@ -771,11 +882,13 @@
       482
     ],
     "belong_camp": 130171,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10061
+      }
+    ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 13,
     "id": 10063,
     "mid_position": [
       585280,
@@ -785,8 +898,6 @@
     "belong_camp": 130175
   },
   {
-    "_row_key": 66,
-    "_row_size": 13,
     "id": 10064,
     "mid_position": [
       610077,
@@ -796,8 +907,6 @@
     "belong_camp": 130176
   },
   {
-    "_row_key": 67,
-    "_row_size": 17,
     "id": 10065,
     "mid_position": [
       594211,
@@ -805,11 +914,13 @@
       8931
     ],
     "belong_camp": 130176,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10066
+      }
+    ]
   },
   {
-    "_row_key": 68,
-    "_row_size": 17,
     "id": 10066,
     "mid_position": [
       594211,
@@ -817,11 +928,13 @@
       8931
     ],
     "belong_camp": 130176,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10065
+      }
+    ]
   },
   {
-    "_row_key": 69,
-    "_row_size": 17,
     "id": 10067,
     "mid_position": [
       626256,
@@ -829,11 +942,13 @@
       9609
     ],
     "belong_camp": 130167,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10068
+      }
+    ]
   },
   {
-    "_row_key": 70,
-    "_row_size": 17,
     "id": 10068,
     "mid_position": [
       626256,
@@ -841,11 +956,13 @@
       9609
     ],
     "belong_camp": 130167,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10067
+      }
+    ]
   },
   {
-    "_row_key": 71,
-    "_row_size": 17,
     "id": 10069,
     "mid_position": [
       642860,
@@ -853,11 +970,13 @@
       398
     ],
     "belong_camp": 130168,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10070
+      }
+    ]
   },
   {
-    "_row_key": 72,
-    "_row_size": 17,
     "id": 10070,
     "mid_position": [
       642860,
@@ -865,11 +984,13 @@
       398
     ],
     "belong_camp": 130168,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10069
+      }
+    ]
   },
   {
-    "_row_key": 73,
-    "_row_size": 17,
     "id": 10071,
     "mid_position": [
       585631,
@@ -877,11 +998,13 @@
       3805
     ],
     "belong_camp": 130177,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10072
+      }
+    ]
   },
   {
-    "_row_key": 74,
-    "_row_size": 17,
     "id": 10072,
     "mid_position": [
       585631,
@@ -889,11 +1012,13 @@
       3805
     ],
     "belong_camp": 130177,
-    "relevance": []
+    "relevance": [
+      {
+        "other_habitat_id": 10071
+      }
+    ]
   },
   {
-    "_row_key": 75,
-    "_row_size": 13,
     "id": 10073,
     "mid_position": [
       512093,
@@ -903,8 +1028,6 @@
     "belong_camp": 130159
   },
   {
-    "_row_key": 76,
-    "_row_size": 13,
     "id": 10074,
     "mid_position": [
       518276,

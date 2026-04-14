@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 4200001,
     "topic": "领地试炼",
     "start_time": "2026-01-01 04:00:00",
@@ -14,15 +12,33 @@
     "pet_id": 3117,
     "point_reward": [
       {
-        "point_required": 9,
-        "reward": 10,
-        "reward_text": null
+        "point_required": 500,
+        "reward": 88000201,
+        "reward_text": "认可度达到500"
+      },
+      {
+        "point_required": 1000,
+        "reward": 88000202,
+        "reward_text": "认可度达到1000"
+      },
+      {
+        "point_required": 1500,
+        "reward": 88000203,
+        "reward_text": "认可度达到1500"
+      },
+      {
+        "point_required": 2000,
+        "reward": 88000204,
+        "reward_text": "认可度达到2000"
+      },
+      {
+        "point_required": 2500,
+        "reward": 88000205,
+        "reward_text": "认可度达到2500"
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 38,
     "id": 4200002,
     "topic": "领地试炼",
     "start_time": "2026-01-01 04:00:00",
@@ -35,9 +51,29 @@
     "pet_id": 3012,
     "point_reward": [
       {
-        "point_required": 14,
-        "reward": 10,
-        "reward_text": null
+        "point_required": 500,
+        "reward": 88000206,
+        "reward_text": "认可度达到500"
+      },
+      {
+        "point_required": 1000,
+        "reward": 88000202,
+        "reward_text": "认可度达到1000"
+      },
+      {
+        "point_required": 1500,
+        "reward": 88000203,
+        "reward_text": "认可度达到1500"
+      },
+      {
+        "point_required": 2000,
+        "reward": 88000204,
+        "reward_text": "认可度达到2000"
+      },
+      {
+        "point_required": 2500,
+        "reward": 88000205,
+        "reward_text": "认可度达到2500"
       }
     ]
   }

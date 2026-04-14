@@ -1,22 +1,20 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 19,
     "id": 1001,
     "native_class": "AnimLoopSequence",
-    "str_param": null,
+    "str_param": [
+      "SleepStart",
+      "SleepLoop",
+      "SleepEnd"
+    ],
     "editor_name": "睡觉"
   },
   {
-    "_row_key": 2,
-    "_row_size": 15,
     "id": 1002,
     "native_class": "Skill",
     "editor_name": "技能1"
   },
   {
-    "_row_key": 3,
-    "_row_size": 35,
     "id": 2002,
     "native_class": "LuaBased",
     "script_path": "AIStateStun",

@@ -1,16 +1,18 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 50,
     "id": 10001,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_HandBook"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenHandbookUI>键或点击此处打开<span color=\"#FFA500\">精灵图鉴</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击打开<span color=\"#FFA500\">精灵图鉴</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "精灵图鉴",
     "ignore_anims": [
@@ -19,16 +21,17 @@
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 46,
     "id": 10002,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Handbook1",
+      "UMG_Cover_Item_1"
+    ],
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "选择<span color=\"#FFA500\">新增的精灵</>图鉴",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "选择<span color=\"#FFA500\">新增的精灵</>图鉴",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "精灵图鉴",
     "ignore_anims": [
@@ -36,17 +39,18 @@
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 50,
     "id": 10003,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Handbook",
+      "HandbookContent"
+    ],
     "ui_button_name": "BtnTrophy",
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "查看详细的<span color=\"#FFA500\">图鉴课题</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "查看详细的<span color=\"#FFA500\">图鉴课题</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵图鉴",
     "ignore_anims": [
@@ -54,34 +58,38 @@
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 42,
     "id": 10004,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Handbook_Subject",
+      "SubjectList[1]",
+      "Btn6"
+    ],
     "rectangle_data": [
       40,
       -20
     ],
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵图鉴"
   },
   {
-    "_row_key": 5,
-    "_row_size": 50,
     "id": 10005,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Handbook",
+      "HandbookContent",
+      "ViewPet"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击查阅<span color=\"#FFA500\">精灵种族</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击查阅<span color=\"#FFA500\">精灵种族属性</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵种族属性",
     "ignore_anims": [
@@ -89,14 +97,16 @@
     ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 34,
     "id": 10600,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Throw"
+    ],
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "点击<span color=\"#FFA500\">投掷精灵</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "ignore_anims": [
       10010101,
@@ -104,14 +114,16 @@
     ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 34,
     "id": 10601,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Throw"
+    ],
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "投掷精灵<span color=\"#FFA500\">采集矿石</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "ignore_anims": [
       10010101,
@@ -119,15 +131,18 @@
     ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 38,
     "id": 10602,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Throw",
+      "UMG_Ability_Slot_Throw"
+    ],
     "ui_button_name": "Image_Bg_di",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "点击<key=IA_AimStart><span color=\"#FFA500\">投掷精灵</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "ignore_anims": [
       10010101,
@@ -135,15 +150,18 @@
     ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 38,
     "id": 10603,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Throw",
+      "UMG_Ability_Slot_Throw"
+    ],
     "ui_button_name": "Image_Bg_di",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "点击<key=IA_AimStart>投掷精灵<span color=\"#FFA500\">采集矿石</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "ignore_anims": [
       10010101,
@@ -151,17 +169,19 @@
     ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 50,
     "id": 200101,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_Pet"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenPetUI>键或点击打开<span color=\"#FFA500\">精灵系统</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击打开<span color=\"#FFA500\">精灵系统</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队",
     "ignore_anims": [
@@ -170,17 +190,18 @@
     ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 50,
     "id": 200102,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetInfoMain",
+      "petLeftPanel"
+    ],
     "ui_button_name": "PetBagBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "打开<span color=\"#FFA500\">精灵盒子</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "打开<span color=\"#FFA500\">精灵盒子</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队",
     "ignore_anims": [
@@ -189,121 +210,130 @@
     ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 42,
     "id": 200103,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "BattlePetList<2>"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "<span color=\"#FFA500\">长按精灵</>进入拖拽模式",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "<span color=\"#FFA500\">长按精灵</>进入拖拽模式",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队"
   },
   {
-    "_row_key": 13,
-    "_row_size": 42,
     "id": 200104,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "BagPetList[1]"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "<span color=\"#FFA500\">拖拽</>精灵进入或离开队伍，调整编队",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "<span color=\"#FFA500\">拖拽</>精灵进入或离开队伍，调整编队",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队"
   },
   {
-    "_row_key": 14,
-    "_row_size": 42,
     "id": 200106,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "BattlePetList"
+    ],
     "rectangle_data": [
       60,
       90
     ],
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "鼠标滚轮<key=IA_PgWheelDown>下滑<span color=\"#FFA500\">切换队伍</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "此处上划<span color=\"#FFA500\">切换队伍</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队-切换队伍"
   },
   {
-    "_row_key": 15,
-    "_row_size": 42,
     "id": 200107,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "EditBoxButton"
+    ],
     "rectangle_data": [
       60,
       60
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击打开<span color=\"#FFA500\">盒子</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击打开<span color=\"#FFA500\">盒子</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队"
   },
   {
-    "_row_key": 16,
-    "_row_size": 46,
     "id": 200108,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetWarehouseOrganization",
+      "ItemList[1]",
+      "ModifyBtn"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">编辑盒子属性</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击<span color=\"#FFA500\">编辑盒子属性</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍编队"
   },
   {
-    "_row_key": 17,
-    "_row_size": 42,
     "id": 200109,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "BagPetList[1]"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "长按<span color=\"#FFA500\">盒子</>的精灵",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "长按<span color=\"#FFA500\">盒子</>的精灵",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍-选择仓库精灵1"
   },
   {
-    "_row_key": 18,
-    "_row_size": 42,
     "id": 200110,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetPortableBag",
+      "BattlePetList<1>"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "将盒子的精灵<span color=\"#FFA500\">拖拽</>编入队伍",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "将盒子的精灵<span color=\"#FFA500\">拖拽</>编入队伍",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵队伍-长按至空队伍1号位"
   },
   {
-    "_row_key": 19,
-    "_row_size": 46,
     "id": 200202,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_RolePlayMainPanel",
+      "ItemList[1]"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "按下<key=1>键使用<span color=\"#FFA500\">动作</>",
+    "pc_text": "",
     "pc_edior_pos": 10,
-    "mobile_text": "选择使用的<span color=\"#FFA500\">动作</>",
+    "mobile_text": "",
     "mobile_edior_pos": 10,
     "editor_name": "动作系统教学",
     "ignore_anims": [
@@ -311,16 +341,17 @@
     ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 46,
     "id": 200301,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_Compass"
+    ],
     "ui_button_name": "NpcLayer",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenMapUI>键或点击此处便捷打开<span color=\"#FFA500\">大地图</>",
+    "pc_text": "",
     "pc_edior_pos": 5,
-    "mobile_text": "点击此处便捷打开<span color=\"#FFA500\">大地图</>",
+    "mobile_text": "",
     "mobile_edior_pos": 5,
     "editor_name": "便捷地图（指南针）",
     "ignore_anims": [
@@ -329,16 +360,18 @@
     ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 46,
     "id": 200302,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "UMG_Minimap"
+    ],
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenMapUI>键或点击此处便捷打开<span color=\"#FFA500\">大地图</>",
+    "pc_text": "",
     "pc_edior_pos": 50,
-    "mobile_text": "点击此处便捷打开<span color=\"#FFA500\">大地图</>",
+    "mobile_text": "",
     "mobile_edior_pos": 20,
     "editor_name": "便捷地图（小地图）",
     "ignore_anims": [
@@ -347,17 +380,19 @@
     ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 50,
     "id": 200401,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_Compassicon",
+      "Btn_MagicManua"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenMagicManualUI>键或点击此处打开<span color=\"#FFA500\">魔法师手册</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击打开<span color=\"#FFA500\">魔法师手册</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "魔法师手册",
     "ignore_anims": [
@@ -366,44 +401,48 @@
     ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 46,
     "id": 200402,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_MagicManual_Main",
+      "List[1]"
+    ],
     "ui_button_name": "Bg_Special1",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "切换到<span color=\"#FFA500\">学院作业</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "切换到<span color=\"#FFA500\">学院作业</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "魔法师手册"
   },
   {
-    "_row_key": 24,
-    "_row_size": 46,
     "id": 200403,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_MagicManual_Main",
+      "List[4]"
+    ],
     "ui_button_name": "Bg_Special1",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "切换到<span color=\"#FFA500\">战斗教学</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "切换到<span color=\"#FFA500\">战斗教学</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "魔法师手册"
   },
   {
-    "_row_key": 25,
-    "_row_size": 38,
     "id": 200501,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Throw"
+    ],
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "点击使用<span color=\"#FFA500\">星星魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "星星魔法",
     "ignore_anims": [
@@ -412,15 +451,18 @@
     ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 42,
     "id": 200502,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Throw",
+      "UMG_Ability_Slot_Throw"
+    ],
     "ui_button_name": "Image_Bg_di",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "点击<key=IA_AimStart>使用<span color=\"#FFA500\">星星魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "星星魔法-PC",
     "ignore_anims": [
@@ -429,17 +471,18 @@
     ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 50,
     "id": 200601,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon"
+    ],
     "ui_button_name": "ProgressBar1",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">罗盘</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击<span color=\"#FFA500\">罗盘</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "切换地图",
     "ignore_anims": [
@@ -448,44 +491,48 @@
     ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 46,
     "id": 200602,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMainInner",
+      "MapIcon"
+    ],
     "ui_button_name": "IconButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "打开<span color=\"#FFA500\">大地图</>",
+    "pc_text": "",
     "pc_edior_pos": 20,
-    "mobile_text": "打开<span color=\"#FFA500\">大地图</>",
+    "mobile_text": "",
     "mobile_edior_pos": 20,
     "editor_name": "切换地图"
   },
   {
-    "_row_key": 29,
-    "_row_size": 42,
     "id": 200603,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_MainMap",
+      "ComboBox"
+    ],
     "ui_button_name": "Btn_ComboBox",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "此处<span color=\"#FFA500\">切换地图</>",
+    "pc_text": "",
     "pc_edior_pos": 20,
-    "mobile_text": "此处<span color=\"#FFA500\">切换地图</>",
+    "mobile_text": "",
     "mobile_edior_pos": 20,
     "editor_name": "切换地图"
   },
   {
-    "_row_key": 30,
-    "_row_size": 42,
     "id": 200701,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "HUDMagic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "长按此处<span color=\"#FFA500\">切换魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "切换魔法",
     "ignore_anims": [
@@ -494,15 +541,18 @@
     ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 42,
     "id": 200702,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "HUDMagic",
+      "UMG_Magic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "长按<key=IA_MagicSelectEnd>键<span color=\"#FFA500\">切换魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "切换魔法-PC",
     "ignore_anims": [
@@ -511,16 +561,17 @@
     ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 46,
     "id": 200703,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_SimpleUseList",
+      "List<100701>"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击选择<span color=\"#FFA500\">星星魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击此处选择<span color=\"#FFA500\">星星魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "选中星星魔法",
     "ignore_anims": [
@@ -528,14 +579,16 @@
     ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 38,
     "id": 200801,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Throw"
+    ],
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "长按可以蓄力使用<span color=\"#FFA500\">星星魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "星星魔法",
     "ignore_anims": [
@@ -544,15 +597,18 @@
     ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 42,
     "id": 200802,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Throw",
+      "UMG_Ability_Slot_Throw"
+    ],
     "ui_button_name": "Image_Bg_di",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "长按<key=IA_AimStart>可以蓄力使用<span color=\"#FFA500\">星星魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "星星魔法-PC",
     "ignore_anims": [
@@ -561,15 +617,17 @@
     ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 42,
     "id": 200901,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "EquipItem"
+    ],
     "ui_button_name": "BallBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "长按此处<span color=\"#FFA500\">切换咕噜球</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "切换咕噜球",
     "ignore_anims": [
@@ -578,15 +636,18 @@
     ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 38,
     "id": 200902,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "EquipItem",
+      "UMG_EquipItem"
+    ],
     "ui_button_name": "BallBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "长按<key=IA_BallSelectEnd>键<span color=\"#FFA500\">切换咕噜球</>",
+    "pc_text": "",
     "editor_name": "切换咕噜球PC",
     "ignore_anims": [
       10010101,
@@ -594,55 +655,62 @@
     ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 42,
     "id": 200903,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_SimpleUseList",
+      "List<100003>"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击选择<span color=\"#FFA500\">高级咕噜球</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击此处选择<span color=\"#FFA500\">高级咕噜球</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "选中高级咕噜球"
   },
   {
-    "_row_key": 38,
-    "_row_size": 38,
     "id": 200904,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Throw"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "使用<span color=\"#FFA500\">高级咕噜球</>，可以不进入战斗进行捕捉",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "高级咕噜球简介"
   },
   {
-    "_row_key": 39,
-    "_row_size": 38,
     "id": 200905,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Throw",
+      "UMG_Ability_Slot_Throw"
+    ],
     "ui_button_name": "Image_Bg_di",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "使用<span color=\"#FFA500\">高级咕噜球</>，可以不进入战斗进行捕捉",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "高级咕噜球简介-PC"
   },
   {
-    "_row_key": 40,
-    "_row_size": 42,
     "id": 200907,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon"
+    ],
     "ui_button_name": "NRCImage_56",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击或按下<key=IA_OpenMenu>键打开<span color=\"#FFA500\">星盘</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "凝结许愿星指引1-PC",
     "ignore_anims": [
@@ -651,15 +719,16 @@
     ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 42,
     "id": 200908,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon"
+    ],
     "ui_button_name": "NRCImage_56",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "mobile_text": "点击<span color=\"#FFA500\">星盘</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "凝结许愿星指引1",
     "ignore_anims": [
@@ -668,32 +737,34 @@
     ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 46,
     "id": 200909,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMainInner"
+    ],
     "ui_button_name": "AwardBtn",
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击凝结<span color=\"#FFA500\">许愿星</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击凝结<span color=\"#FFA500\">许愿星</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "凝结许愿星指引2"
   },
   {
-    "_row_key": 43,
-    "_row_size": 50,
     "id": 200910,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_Pet"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_OpenPetUI>键或点击打开<span color=\"#FFA500\">精灵系统</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击打开<span color=\"#FFA500\">精灵系统</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵成长指引",
     "ignore_anims": [
@@ -702,17 +773,19 @@
     ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 50,
     "id": 200911,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetInfoMain",
+      "petLeftPanel",
+      "Attribute"
+    ],
     "ui_button_name": "ButtonSwitch",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "打开<span color=\"#FFA500\">属性面板</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "打开<span color=\"#FFA500\">属性面板</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵成长指引2",
     "ignore_anims": [
@@ -721,10 +794,12 @@
     ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 46,
     "id": 200912,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetRightPanel",
+      "petBaseInfo",
+      "Btn_Details"
+    ],
     "ui_button_name": "btnLevelUp",
     "rectangle_data": [
       30,
@@ -732,17 +807,19 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">精灵成长</>按钮",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击<span color=\"#FFA500\">精灵成长</>按钮",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵成长指引3"
   },
   {
-    "_row_key": 46,
-    "_row_size": 46,
     "id": 200913,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetRightPanel",
+      "PetGrowUp",
+      "UMG_Btn"
+    ],
     "ui_button_name": "btnLevelUp",
     "rectangle_data": [
       40,
@@ -750,60 +827,64 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">确认成长</>按钮",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击<span color=\"#FFA500\">确认成长</>按钮",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵成长指引4"
   },
   {
-    "_row_key": 47,
-    "_row_size": 46,
     "id": 200914,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMainInner"
+    ],
     "ui_button_name": "NRCImage_95",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "当出现红色数字标记时，点击即可凝结<span color=\"#FFA500\">许愿星</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "当出现红色数字标记时，点击即可凝结<span color=\"#FFA500\">许愿星</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "凝结许愿星指引2"
   },
   {
-    "_row_key": 48,
-    "_row_size": 38,
     "id": 200915,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "EquipItem"
+    ],
     "ui_button_name": "BallBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "按下<key=IA_BallSelectEnd>键<span color=\"#FFA500\">装备咕噜球</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "装备咕噜球PC"
   },
   {
-    "_row_key": 49,
-    "_row_size": 46,
     "id": 200920,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMainInner"
+    ],
     "ui_button_name": "headButton",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击此处打开<span color=\"#FFA500\">等级奖励界面</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击此处打开<span color=\"#FFA500\">等级奖励界面</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "等级奖励领取"
   },
   {
-    "_row_key": 50,
-    "_row_size": 46,
     "id": 200921,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LevelMain",
+      "UMG_LevelInformation",
+      "GetRewardsBtn"
+    ],
     "ui_button_name": "btnLevelUp",
     "rectangle_data": [
       40,
@@ -811,22 +892,24 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击此处查看等级奖励",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击此处查看等级奖励",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "等级奖励领取"
   },
   {
-    "_row_key": 51,
-    "_row_size": 42,
     "id": 201501,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "HUDMagic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "长按此处<span color=\"#FFA500\">切换魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "切换魔法",
     "ignore_anims": [
@@ -835,15 +918,18 @@
     ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 42,
     "id": 201502,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "HUDMagic",
+      "UMG_Magic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "长按<key=IA_MagicSelectEnd>键<span color=\"#FFA500\">切换魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "切换魔法-PC",
     "ignore_anims": [
@@ -852,16 +938,17 @@
     ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 46,
     "id": 201503,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_SimpleUseList",
+      "List<100728>"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击选择<span color=\"#FFA500\">液化魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击此处选择<span color=\"#FFA500\">液化魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "选中液化魔法",
     "ignore_anims": [
@@ -869,17 +956,19 @@
     ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 50,
     "id": 201601,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetInfoMain",
+      "petLeftPanel",
+      "Attribute"
+    ],
     "ui_button_name": "SwitchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击查看<span color=\"#FFA500\">精灵天分详情</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击查看<span color=\"#FFA500\">精灵天分详情</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵天分和资质-详情",
     "ignore_anims": [
@@ -888,10 +977,12 @@
     ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 50,
     "id": 201602,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetRightPanel",
+      "petBaseInfo",
+      "UMG_PetRate"
+    ],
     "ui_button_name": "Btn_Talent",
     "rectangle_data": [
       30,
@@ -899,9 +990,9 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击查看<span color=\"#FFA500\">精灵天分</>",
+    "pc_text": "",
     "pc_edior_pos": 20,
-    "mobile_text": "点击查看<span color=\"#FFA500\">精灵天分</>",
+    "mobile_text": "",
     "mobile_edior_pos": 20,
     "editor_name": "精灵天分和资质-天分标签",
     "ignore_anims": [
@@ -910,17 +1001,19 @@
     ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 50,
     "id": 201603,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetRightPanel",
+      "petBaseInfo",
+      "PetRadarInfo"
+    ],
     "ui_button_name": "detailedBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击查看<span color=\"#FFA500\">精灵资质</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击查看<span color=\"#FFA500\">精灵资质</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "精灵天分和资质-资质放大镜按钮",
     "ignore_anims": [
@@ -929,10 +1022,11 @@
     ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 46,
     "id": 201604,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetDetailedInfo",
+      "NRCGridViewBaseInfo[1]"
+    ],
     "ui_button_name": "Btn_QuestionMark",
     "rectangle_data": [
       15,
@@ -940,17 +1034,18 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击查看<span color=\"#FFA500\">属性详情</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击查看<span color=\"#FFA500\">属性详情</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "精灵天分和资质-属性详情"
   },
   {
-    "_row_key": 58,
-    "_row_size": 50,
     "id": 201605,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_PetRightPanel",
+      "petBaseInfo"
+    ],
     "ui_button_name": "NRCButton_43",
     "rectangle_data": [
       60,
@@ -958,9 +1053,9 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击查看<span color=\"#FFA500\">精灵性格</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击查看<span color=\"#FFA500\">精灵性格</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "精灵天分和资质-天分标签",
     "ignore_anims": [
@@ -969,16 +1064,17 @@
     ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 46,
     "id": 201802,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Handbook1",
+      "NRCImage_200"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "打开<span color=\"#FFA500\">精灵</>图鉴",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "打开<span color=\"#FFA500\">精灵</>图鉴",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "家园-精灵图鉴",
     "ignore_anims": [
@@ -986,16 +1082,17 @@
     ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 46,
     "id": 300103,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMainInner",
+      "BagIconLoader"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "打开<span color=\"#FFA500\">背包</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "打开<span color=\"#FFA500\">背包</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "剧情-翼王精元-序列2背包",
     "ignore_anims": [
@@ -1003,17 +1100,18 @@
     ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 50,
     "id": 300104,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Bag",
+      "Tab[5]"
+    ],
     "ui_button_name": "Bg",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "打开<span color=\"#FFA500\">任务栏</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "打开<span color=\"#FFA500\">任务栏</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "剧情-翼王精元-序列3任务背包",
     "ignore_anims": [
@@ -1021,10 +1119,11 @@
     ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 46,
     "id": 300105,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_Bag",
+      "ItemGainWay[1]"
+    ],
     "ui_button_name": "Btn_Skip",
     "rectangle_data": [
       50,
@@ -1032,24 +1131,26 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击查看<span color=\"#FFA500\">翼王的地图位置</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
-    "mobile_text": "点击查看<span color=\"#FFA500\">翼王的地图位置</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "剧情-翼王精元-序列4任务跳转地图"
   },
   {
-    "_row_key": 63,
-    "_row_size": 50,
     "id": 500101,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_FurnitureAtlas_1"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_FurnitureHandbook>键或点击打开<span color=\"#FFA500\">家具图鉴</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击打开<span color=\"#FFA500\">家具图鉴</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具图鉴-入口",
     "ignore_anims": [
@@ -1058,32 +1159,34 @@
     ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 46,
     "id": 500102,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_FurnitureAtlasPanel"
+    ],
     "ui_button_name": "AwardBtn",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "家园-家具图鉴-领奖"
   },
   {
-    "_row_key": 65,
-    "_row_size": 50,
     "id": 500201,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_Decoration_1"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击或按<key=IA_DecorateMode>键打开<span color=\"#FFA500\">家具摆放</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击打开<span color=\"#FFA500\">家具摆放</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-入口",
     "ignore_anims": [
@@ -1092,96 +1195,104 @@
     ]
   },
   {
-    "_row_key": 66,
-    "_row_size": 46,
     "id": 500202,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_HomeMain_New",
+      "UMG_Control_Joystick",
+      "Joystick"
+    ],
     "ui_button_name": "JoystickBg",
     "circle_data": "C3",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "滑动以调整<span color=\"#FFA500\">视角</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "滑动以调整<span color=\"#FFA500\">视角</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-滑动摇杆"
   },
   {
-    "_row_key": 67,
-    "_row_size": 42,
     "id": 500203,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_HomeMain_New",
+      "TypeTabList[6]"
+    ],
     "rectangle_data": [
       40,
       10
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "选择<span color=\"#FFA500\">特殊</>类型家具",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "选择<span color=\"#FFA500\">特殊</>类型家具",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-选择特殊"
   },
   {
-    "_row_key": 68,
-    "_row_size": 42,
     "id": 500204,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_HomeMain_New",
+      "Furniture[1]"
+    ],
     "rectangle_data": [
       40,
       -30
     ],
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击或向上拖拽<span color=\"#FFA500\">精灵小窝</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击或向上拖拽<span color=\"#FFA500\">精灵小窝</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-选择小窝"
   },
   {
-    "_row_key": 69,
-    "_row_size": 46,
     "id": 500205,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_HomeMain_New",
+      "Confirm"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "拖拽家具确认位置后<span color=\"#FFA500\">放置</>家具",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "拖拽家具确认位置后<span color=\"#FFA500\">放置</>家具",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-确认放置"
   },
   {
-    "_row_key": 70,
-    "_row_size": 46,
     "id": 500206,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_HomeMain_New",
+      "Btn_Publish"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">发布</>装修方案",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">发布</>装修方案",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具摆放-发布"
   },
   {
-    "_row_key": 71,
-    "_row_size": 50,
     "id": 500301,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "AbilitySlot_PetCare"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">装备食物</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">装备食物</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-精灵喂养-装食物",
     "ignore_anims": [
@@ -1190,17 +1301,20 @@
     ]
   },
   {
-    "_row_key": 72,
-    "_row_size": 50,
     "id": 500302,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_PetCare_1",
+      "UMG_Ability_Slot_PetCare1"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "点击或按<key=IA_AbilitySlotHomePetFood>键<span color=\"#FFA500\">装备食物</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">装备食物</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-精灵喂养-装食物-PC",
     "ignore_anims": [
@@ -1209,17 +1323,19 @@
     ]
   },
   {
-    "_row_key": 73,
-    "_row_size": 50,
     "id": 500401,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "UMG_Ability_Slot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">装备种子</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">装备种子</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-装种子",
     "ignore_anims": [
@@ -1228,17 +1344,20 @@
     ]
   },
   {
-    "_row_key": 74,
-    "_row_size": 50,
     "id": 500402,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Seed",
+      "UMG_Ability_Slot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "点击或按<key=IA_OpenSeedBag>键<span color=\"#FFA500\">装备种子</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">装备种子</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-装种子-PC",
     "ignore_anims": [
@@ -1247,133 +1366,151 @@
     ]
   },
   {
-    "_row_key": 75,
-    "_row_size": 46,
     "id": 500501,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "播种后再次点击进行<span color=\"#FFA500\">浇水</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "播种后再次点击进行<span color=\"#FFA500\">浇水</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-浇水"
   },
   {
-    "_row_key": 76,
-    "_row_size": 46,
     "id": 500502,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "播种后再次点击进行<span color=\"#FFA500\">浇水</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "播种后再次点击进行<span color=\"#FFA500\">浇水</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-浇水-PC"
   },
   {
-    "_row_key": 77,
-    "_row_size": 46,
     "id": 500503,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "浇水后点击可<span color=\"#FFA500\">施肥</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "浇水后点击可<span color=\"#FFA500\">施肥</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-施肥"
   },
   {
-    "_row_key": 78,
-    "_row_size": 46,
     "id": 500504,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "浇水后点击可<span color=\"#FFA500\">施肥</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "浇水后点击可<span color=\"#FFA500\">施肥</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-施肥-PC"
   },
   {
-    "_row_key": 79,
-    "_row_size": 46,
     "id": 500601,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "作物成熟后即可<span color=\"#FFA500\">收获</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "作物成熟后即可<span color=\"#FFA500\">收获</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-收获"
   },
   {
-    "_row_key": 80,
-    "_row_size": 46,
     "id": 500602,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_Seed"
+    ],
     "ui_button_name": "Btn_Slot",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "作物成熟后即可<span color=\"#FFA500\">收获</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "作物成熟后即可<span color=\"#FFA500\">收获</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-收获-PC"
   },
   {
-    "_row_key": 81,
-    "_row_size": 38,
     "id": 500701,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerInfoHUD",
+      "HUDMagic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "mobile_text": "长按此处<span color=\"#FFA500\">切换魔法</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "切换魔法"
   },
   {
-    "_row_key": 82,
-    "_row_size": 38,
     "id": 500702,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "HUDMagic"
+    ],
     "ui_button_name": "MagicBtn",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "left",
-    "pc_text": "长按<key=IA_MagicSelectEnd>键<span color=\"#FFA500\">切换魔法</>",
+    "pc_text": "",
     "pc_edior_pos": 30,
     "editor_name": "切换魔法-PC"
   },
   {
-    "_row_key": 83,
-    "_row_size": 50,
     "id": 501001,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_CompassIcon",
+      "Btn_FurnitureAtlas_1"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "按<key=IA_FurnitureHandbook>键点击打开<span color=\"#FFA500\">家具图鉴</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击打开<span color=\"#FFA500\">家具图鉴</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-家具图鉴-入口-2",
     "ignore_anims": [
@@ -1382,40 +1519,42 @@
     ]
   },
   {
-    "_row_key": 84,
-    "_row_size": 46,
     "id": 501002,
-    "ui_path": null,
+    "ui_path": [
+      "UMG_FurnitureAtlasPanel"
+    ],
     "ui_button_name": "AwardBtn",
     "circle_data": "C2",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">领取奖励</>",
+    "mobile_text": "",
     "mobile_edior_pos": 30,
     "editor_name": "家园-家具图鉴-领奖-2"
   },
   {
-    "_row_key": 85,
-    "_row_size": 46,
     "id": 501101,
-    "ui_path": "+",
+    "ui_path": [
+      "UMG_AlchemyPanel",
+      "TabList[5]"
+    ],
     "ui_button_name": "BgLight",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击切换至精灵食物制作",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击切换至精灵食物制作",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-种植园-食物制作-侧边栏"
   },
   {
-    "_row_key": 86,
-    "_row_size": 46,
     "id": 501102,
-    "ui_path": "+",
+    "ui_path": [
+      "UMG_AlchemyPanel",
+      "View_List[1]"
+    ],
     "ui_button_name": "Selected",
     "rectangle_data": [
       60,
@@ -1423,17 +1562,18 @@
     ],
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击选择要制作的精灵食物",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击选择要制作的精灵食物",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-种植园-食物制作-食物"
   },
   {
-    "_row_key": 87,
-    "_row_size": 46,
     "id": 501103,
-    "ui_path": "+",
+    "ui_path": [
+      "UMG_AlchemyPanel",
+      "UMG_CoinButton"
+    ],
     "ui_button_name": "btnLevelUp",
     "rectangle_data": [
       45,
@@ -1441,39 +1581,43 @@
     ],
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击制作精灵食物",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击制作精灵食物",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-种植园-食物制作-制作"
   },
   {
-    "_row_key": 88,
-    "_row_size": 46,
     "id": 501104,
-    "ui_path": "+",
+    "ui_path": [
+      "UMG_AlchemyPanel",
+      "SliderPanel",
+      "SubtractBtn_1"
+    ],
     "ui_button_name": "btnLevelUp",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击增加制作数量",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击增加制作数量",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "家园-种植园-食物制作-增加数量"
   },
   {
-    "_row_key": 89,
-    "_row_size": 50,
     "id": 700001,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能1",
     "ignore_anims": [
@@ -1482,17 +1626,19 @@
     ]
   },
   {
-    "_row_key": 90,
-    "_row_size": 50,
     "id": 700002,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "因能量不足，点击<span color=\"#FFA500\">精灵技能，将无法使用该技能</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "因能量不足，点击<span color=\"#FFA500\">精灵技能，将无法使用该技能</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】聚能",
     "ignore_anims": [
@@ -1501,17 +1647,19 @@
     ]
   },
   {
-    "_row_key": 91,
-    "_row_size": 50,
     "id": 700003,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "GlobalskillItemLoader"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "right",
-    "pc_text": "点击<span color=\"#FFA500\">聚能按钮，回复精灵能量</>",
+    "pc_text": "",
     "pc_edior_pos": 40,
-    "mobile_text": "点击<span color=\"#FFA500\">聚能按钮，回复精灵能量</>",
+    "mobile_text": "",
     "mobile_edior_pos": 40,
     "editor_name": "【战斗指引专用】使用技能2-强指引",
     "ignore_anims": [
@@ -1520,17 +1668,19 @@
     ]
   },
   {
-    "_row_key": 92,
-    "_row_size": 50,
     "id": 700004,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader_1"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">右上带有克制标记的技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">右上带有克制标记的技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能2-弱指引",
     "ignore_anims": [
@@ -1539,16 +1689,18 @@
     ]
   },
   {
-    "_row_key": 93,
-    "_row_size": 46,
     "id": 700005,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ChangePetToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】更换精灵按钮",
     "ignore_anims": [
@@ -1557,17 +1709,19 @@
     ]
   },
   {
-    "_row_key": 94,
-    "_row_size": 50,
     "id": 700006,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ChangePetPanelLoader",
+      "Item1"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "该精灵拥有<span color=\"#FFA500\">针对敌人的技能</>，点击换它出场",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "该精灵拥有<span color=\"#FFA500\">针对敌人的技能</>，点击换它出场",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用1号位精灵",
     "ignore_anims": [
@@ -1576,10 +1730,10 @@
     ]
   },
   {
-    "_row_key": 95,
-    "_row_size": 54,
     "id": 700007,
-    "ui_path": ":",
+    "ui_path": [
+      "TeamPetClickTip"
+    ],
     "ui_button_name": "ClickBtn",
     "circle_data": "C1",
     "rectangle_data": [
@@ -1588,9 +1742,9 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】点击自身精灵",
     "ignore_anims": [
@@ -1599,17 +1753,19 @@
     ]
   },
   {
-    "_row_key": 96,
-    "_row_size": 50,
     "id": 700008,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader_2"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">针对敌方精灵的技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">针对敌方精灵的技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能3",
     "ignore_anims": [
@@ -1618,16 +1774,18 @@
     ]
   },
   {
-    "_row_key": 97,
-    "_row_size": 46,
     "id": 700009,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ChangePetToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】更换精灵按钮-弱指引",
     "ignore_anims": [
@@ -1636,17 +1794,19 @@
     ]
   },
   {
-    "_row_key": 98,
-    "_row_size": 50,
     "id": 700010,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ChangePetPanelLoader",
+      "Item1"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "该<span color=\"#FFA500\">精灵充满了能量</>，点击换它出场",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "该<span color=\"#FFA500\">精灵充满了能量</>，点击换它出场",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用1号位精灵-弱指引",
     "ignore_anims": [
@@ -1655,10 +1815,10 @@
     ]
   },
   {
-    "_row_key": 99,
-    "_row_size": 54,
     "id": 700011,
-    "ui_path": ":",
+    "ui_path": [
+      "TeamPetClickTip"
+    ],
     "ui_button_name": "ClickBtn",
     "circle_data": "C1",
     "rectangle_data": [
@@ -1667,9 +1827,9 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】点击自身精灵-弱指引",
     "ignore_anims": [
@@ -1678,17 +1838,19 @@
     ]
   },
   {
-    "_row_key": 100,
-    "_row_size": 50,
     "id": 700012,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击使用<span color=\"#FFA500\">能耗大于1的精灵技能，攻击敌人</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击使用<span color=\"#FFA500\">能耗大于1的精灵技能，攻击敌人</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能1-精灵特性用",
     "ignore_anims": [
@@ -1697,16 +1859,18 @@
     ]
   },
   {
-    "_row_key": 101,
-    "_row_size": 46,
     "id": 700013,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ChangePetToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】更换精灵按钮-精灵特性用",
     "ignore_anims": [
@@ -1715,17 +1879,19 @@
     ]
   },
   {
-    "_row_key": 102,
-    "_row_size": 50,
     "id": 700014,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ChangePetPanelLoader",
+      "Item1"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "<span color=\"#FFA500\">石肤蜥的特性对战场局势有优势</>，点击换它出场",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "<span color=\"#FFA500\">石肤蜥的特性对战场局势有优势</>，点击换它出场",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用1号位精灵-精灵特性用",
     "ignore_anims": [
@@ -1734,10 +1900,10 @@
     ]
   },
   {
-    "_row_key": 103,
-    "_row_size": 54,
     "id": 700015,
-    "ui_path": ":",
+    "ui_path": [
+      "TeamPetClickTip"
+    ],
     "ui_button_name": "ClickBtn",
     "circle_data": "C1",
     "rectangle_data": [
@@ -1746,9 +1912,9 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】点击自身精灵-精灵特性用",
     "ignore_anims": [
@@ -1757,17 +1923,19 @@
     ]
   },
   {
-    "_row_key": 104,
-    "_row_size": 50,
     "id": 700016,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader_2"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击这个<span color=\"#FFA500\">会使得下次攻击威力提升的技能</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击这个<span color=\"#FFA500\">会使得下次攻击威力提升的技能</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能3-演示应对技能用",
     "ignore_anims": [
@@ -1776,16 +1944,18 @@
     ]
   },
   {
-    "_row_key": 105,
-    "_row_size": 46,
     "id": 700017,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ItemToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">背包按钮，使用魔法与道具</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">背包按钮，使用魔法与道具</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用背包 - 演示主角魔法用",
     "ignore_anims": [
@@ -1794,17 +1964,19 @@
     ]
   },
   {
-    "_row_key": 106,
-    "_row_size": 50,
     "id": 700018,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ItemOperationLoader",
+      "UMG_BattleItemEntry_0"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">共鸣魔法，释放愿力冲击</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">共鸣魔法，释放愿力冲击</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用背包1号位魔法 - 演示主角魔法用",
     "ignore_anims": [
@@ -1813,16 +1985,18 @@
     ]
   },
   {
-    "_row_key": 107,
-    "_row_size": 46,
     "id": 700019,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ItemToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">背包按钮，使用魔法与道具</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">背包按钮，使用魔法与道具</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用背包 - 演示主角魔法用",
     "ignore_anims": [
@@ -1831,17 +2005,19 @@
     ]
   },
   {
-    "_row_key": 108,
-    "_row_size": 50,
     "id": 700020,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ItemOperationLoader",
+      "UMG_BattleItemEntry_1"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">恢复瓶道具，恢复能量</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">恢复瓶道具，恢复能量</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用背包2号位道具 - 演示主角道具用",
     "ignore_anims": [
@@ -1850,17 +2026,18 @@
     ]
   },
   {
-    "_row_key": 109,
-    "_row_size": 50,
     "id": 700021,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "HPBar_Enemy_1_Loader"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">头像，查看精灵特性</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">头像，查看精灵特性</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】引导玩家点击敌方精灵头像",
     "ignore_anims": [
@@ -1869,10 +2046,10 @@
     ]
   },
   {
-    "_row_key": 110,
-    "_row_size": 54,
     "id": 700022,
-    "ui_path": ":",
+    "ui_path": [
+      "TeamPetClickTip"
+    ],
     "ui_button_name": "ClickBtn",
     "circle_data": "C1",
     "rectangle_data": [
@@ -1881,9 +2058,9 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">场上精灵进行技能释放</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">场上精灵进行技能释放</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】点击精灵 - 演示主角魔法用",
     "ignore_anims": [
@@ -1892,17 +2069,19 @@
     ]
   },
   {
-    "_row_key": 111,
-    "_row_size": 50,
     "id": 700023,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader_1"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能3-演示应对技能用",
     "ignore_anims": [
@@ -1911,17 +2090,18 @@
     ]
   },
   {
-    "_row_key": 112,
-    "_row_size": 50,
     "id": 700024,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "HPBar_Teammate_Loader"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">头像，查看精灵特性</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">头像，查看精灵特性</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】引导玩家点击敌方精灵头像",
     "ignore_anims": [
@@ -1930,17 +2110,19 @@
     ]
   },
   {
-    "_row_key": 113,
-    "_row_size": 50,
     "id": 700025,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader_2"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">精灵技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】引导玩家点击敌方精灵头像",
     "ignore_anims": [
@@ -1949,17 +2131,19 @@
     ]
   },
   {
-    "_row_key": 114,
-    "_row_size": 50,
     "id": 700026,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "SkillPanelLoader",
+      "SkillItemLoader"
+    ],
     "ui_button_name": "BtnSkill",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">右上带有克制标记的技能</>，攻击敌人",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">右上带有克制标记的技能</>，攻击敌人",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用技能1",
     "ignore_anims": [
@@ -1968,16 +2152,18 @@
     ]
   },
   {
-    "_row_key": 115,
-    "_row_size": 46,
     "id": 700027,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "UMG_Battle_Operate",
+      "ChangePetToggle"
+    ],
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "up",
-    "pc_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">更换精灵按钮，选择其他精灵</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】更换精灵按钮",
     "ignore_anims": [
@@ -1986,17 +2172,19 @@
     ]
   },
   {
-    "_row_key": 116,
-    "_row_size": 50,
     "id": 700028,
-    "ui_path": "1",
+    "ui_path": [
+      "UMG_BattleMainWindow",
+      "ChangePetPanelLoader",
+      "Item1"
+    ],
     "ui_button_name": "TouchButton",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "该精灵可以<span color=\"#FFA500\">抵抗对方系别的攻击</>，点击换它出场",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "该精灵可以<span color=\"#FFA500\">抵抗对方系别的攻击</>，点击换它出场",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】使用1号位精灵",
     "ignore_anims": [
@@ -2005,10 +2193,10 @@
     ]
   },
   {
-    "_row_key": 117,
-    "_row_size": 54,
     "id": 700029,
-    "ui_path": ":",
+    "ui_path": [
+      "TeamPetClickTip"
+    ],
     "ui_button_name": "ClickBtn",
     "circle_data": "C1",
     "rectangle_data": [
@@ -2017,9 +2205,9 @@
     ],
     "focus_type": 1,
     "text_pos": "down",
-    "pc_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "pc_text": "",
     "pc_edior_pos": 60,
-    "mobile_text": "点击<span color=\"#FFA500\">场上精灵进行更换</>",
+    "mobile_text": "",
     "mobile_edior_pos": 60,
     "editor_name": "【战斗指引专用】点击自身精灵",
     "ignore_anims": [

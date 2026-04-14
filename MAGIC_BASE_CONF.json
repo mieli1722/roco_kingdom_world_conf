@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 59,
     "id": 1,
     "name": "星星魔法",
     "localization_id": "umg_magic_learned_1",
@@ -27,12 +25,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300060,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 1
   },
   {
-    "_row_key": 2,
-    "_row_size": 59,
     "id": 2,
     "name": "星星魔法",
     "localization_id": "umg_magic_learned_1",
@@ -58,12 +58,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300060,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 1
   },
   {
-    "_row_key": 3,
-    "_row_size": 59,
     "id": 3,
     "name": "星星魔法",
     "localization_id": "umg_magic_learned_1",
@@ -89,12 +91,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300060,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 1
   },
   {
-    "_row_key": 4,
-    "_row_size": 55,
     "id": 21,
     "name": "浮风术",
     "localization_id": "umg_magic_learned_2",
@@ -118,12 +122,20 @@
       400
     ],
     "sceneability": 1300058,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 1,
+        "effect_params_1": [
+          30001
+        ]
+      },
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 5
   },
   {
-    "_row_key": 5,
-    "_row_size": 55,
     "id": 22,
     "name": "浮风术",
     "localization_id": "umg_magic_learned_2",
@@ -147,12 +159,20 @@
       400
     ],
     "sceneability": 1300058,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 1,
+        "effect_params_1": [
+          30012
+        ]
+      },
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 5
   },
   {
-    "_row_key": 6,
-    "_row_size": 55,
     "id": 23,
     "name": "浮风术",
     "localization_id": "umg_magic_learned_2",
@@ -176,12 +196,20 @@
       400
     ],
     "sceneability": 1300058,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 1,
+        "effect_params_1": [
+          30013
+        ]
+      },
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 5
   },
   {
-    "_row_key": 7,
-    "_row_size": 59,
     "id": 31,
     "name": "光系魔法",
     "localization_id": "umg_magic_learned_4",
@@ -211,12 +239,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300100,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 7
   },
   {
-    "_row_key": 8,
-    "_row_size": 59,
     "id": 32,
     "name": "光系魔法",
     "localization_id": "umg_magic_learned_4",
@@ -246,12 +276,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300100,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 7
   },
   {
-    "_row_key": 9,
-    "_row_size": 59,
     "id": 33,
     "name": "光系魔法",
     "localization_id": "umg_magic_learned_4",
@@ -281,12 +313,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300100,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 7
   },
   {
-    "_row_key": 10,
-    "_row_size": 59,
     "id": 98,
     "name": "老配置星星魔法",
     "localization_id": "umg_magic_learned_1",
@@ -307,12 +341,14 @@
     ],
     "maxcount": 10,
     "sceneability": 1300060,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 999
   },
   {
-    "_row_key": 11,
-    "_row_size": 47,
     "id": 99,
     "name": "老配置浮风术",
     "localization_id": "umg_magic_learned_2",
@@ -325,12 +361,20 @@
       1000
     ],
     "sceneability": 1300058,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 1,
+        "effect_params_1": [
+          30001
+        ]
+      },
+      {
+        "effect": 2
+      }
+    ],
     "magic_priority": 998
   },
   {
-    "_row_key": 12,
-    "_row_size": 43,
     "id": 101,
     "name": "液化术",
     "localization_id": "umg_magic_learned_3",
@@ -342,12 +386,17 @@
       1
     ],
     "sceneability": 1300090,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 3,
+        "effect_params_1": [
+          3118
+        ]
+      }
+    ],
     "magic_priority": 6
   },
   {
-    "_row_key": 13,
-    "_row_size": 43,
     "id": 201,
     "name": "创造魔法",
     "localization_id": "umg_magic_learned_5",
@@ -359,12 +408,17 @@
       1
     ],
     "sceneability": 1300080,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          801195
+        ]
+      }
+    ],
     "magic_priority": 4
   },
   {
-    "_row_key": 14,
-    "_row_size": 39,
     "id": 301,
     "name": "留言魔法",
     "localization_id": "umg_magic_learned_6",
@@ -372,12 +426,17 @@
     "magic_type": 6,
     "charge_type": 1,
     "sceneability": 1300120,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          1002005
+        ]
+      }
+    ],
     "magic_priority": 2
   },
   {
-    "_row_key": 15,
-    "_row_size": 43,
     "id": 401,
     "name": "留影魔法",
     "localization_id": "umg_magic_learned_7",
@@ -389,7 +448,14 @@
       1
     ],
     "sceneability": 1300129,
-    "effect_struct": [],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          1002653
+        ]
+      }
+    ],
     "magic_priority": 3
   }
 ]

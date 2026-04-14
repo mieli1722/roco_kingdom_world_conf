@@ -1,230 +1,296 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 13,
     "id": 1,
     "name": "帧率",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
       },
       {
-        "Level": 39,
-        "RequireUnifiedDeviceLevel": 40,
-        "SuggestUnifiedDeviceLevel": 41
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3,
+        "SuggestUnifiedDeviceLevel": 6
+      },
+      {
+        "Level": 4,
+        "RequireUnifiedDeviceLevel": 3,
+        "SuggestUnifiedDeviceLevel": 6
+      },
+      {
+        "Level": 5,
+        "RequireUnifiedDeviceLevel": 3,
+        "SuggestUnifiedDeviceLevel": 6
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 13,
     "id": 2,
     "name": "分辨率",
     "Qualities": [
       {
-        "Level": 42,
-        "RequireUnifiedDeviceLevel": 38,
-        "SuggestUnifiedDeviceLevel": 39
+        "Level": 5
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3,
+        "SuggestUnifiedDeviceLevel": 6
       }
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 13,
     "id": 3,
     "name": "画面品质",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 25,
     "id": 4,
     "name": "阴影质量",
     "annotation": "提高后可带来更加高精度的投影效果，以及更远的阴影渲染距离。",
     "is_effect_quality": 7,
     "groupName": "ShadowQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 21,
     "id": 5,
     "name": "后期效果",
     "is_effect_quality": 8,
     "groupName": "PostProcessQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 21,
     "id": 6,
     "name": "几何细节",
     "is_effect_quality": 1,
     "groupName": "SceneDetailQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 21,
     "id": 7,
     "name": "加载距离",
     "is_effect_quality": 2,
     "groupName": "ViewDistanceQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 21,
     "id": 8,
     "name": "材质精度",
     "is_effect_quality": 3,
     "groupName": "ShadingQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 25,
     "id": 9,
     "name": "光照质量",
     "annotation": "提升后可提高在夜间或者有发光物带来的照明效果精度。",
     "is_effect_quality": 4,
     "groupName": "LightQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 25,
     "id": 10,
     "name": "特效质量",
     "annotation": "提高角色与精灵释放技能时的特效质量。",
     "is_effect_quality": 9,
     "groupName": "EffectsQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 11,
-    "_row_size": 25,
     "id": 11,
     "name": "反射质量",
     "annotation": "影响水面与海面反射场景的效果。",
     "is_effect_quality": 6,
     "groupName": "ReflectionQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 17,
     "id": 12,
     "name": "人群密度",
     "is_effect_quality": 12,
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 25,
     "id": 13,
     "name": "泛光效果",
     "annotation": "影响发光的物体的光晕效果。",
     "is_effect_quality": 10,
     "groupName": "BloomQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 25,
     "id": 14,
     "name": "抗锯齿",
     "annotation": "开高后可以降低物体边缘的锯齿感。",
     "is_effect_quality": 11,
     "groupName": "AntiAliasingQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 21,
     "id": 15,
     "name": "垂直同步",
     "is_effect_quality": 5,
     "groupName": "VsyncQuality",
     "Qualities": [
+      {},
       {
-        "Level": 36,
-        "RequireUnifiedDeviceLevel": 37,
-        "SuggestUnifiedDeviceLevel": 38
+        "Level": 1
+      },
+      {
+        "Level": 2
+      },
+      {
+        "Level": 3,
+        "RequireUnifiedDeviceLevel": 3
       }
     ]
   }

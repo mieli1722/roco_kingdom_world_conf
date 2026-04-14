@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 87,
     "id": 1,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot1_png.img_cangbaot1_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
@@ -33,16 +31,28 @@
     ],
     "effect_group": [
       {
-        "dis2D_over": 43,
-        "dis2D_less": 44,
-        "play_G6": null,
+        "dis2D_over": 2500,
+        "dis2D_less": 3500,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_wenhao_LMH_C.NPC_wenhao_LMH_C_C'"
+      },
+      {
+        "dis2D_over": 1800,
+        "dis2D_less": 2500,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_sikao_Only_C.NPC_sikao_Only_C_C'"
+      },
+      {
+        "dis2D_over": 600,
+        "dis2D_less": 1800,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_nahan_Only_C.NPC_nahan_Only_C_C'"
+      },
+      {
+        "dis2D_less": 600,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 87,
     "id": 2,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot2_png.img_cangbaot2_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
@@ -75,16 +85,28 @@
     ],
     "effect_group": [
       {
-        "dis2D_over": 47,
-        "dis2D_less": 48,
-        "play_G6": null,
+        "dis2D_over": 3000,
+        "dis2D_less": 5000,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_wenhao_LMH_C.NPC_wenhao_LMH_C_C'"
+      },
+      {
+        "dis2D_over": 1800,
+        "dis2D_less": 3000,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_sikao_Only_C.NPC_sikao_Only_C_C'"
+      },
+      {
+        "dis2D_over": 600,
+        "dis2D_less": 1800,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_nahan_Only_C.NPC_nahan_Only_C_C'"
+      },
+      {
+        "dis2D_less": 600,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 87,
     "id": 3,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot4_png.img_cangbaot4_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
@@ -116,16 +138,28 @@
     ],
     "effect_group": [
       {
-        "dis2D_over": 49,
-        "dis2D_less": 50,
-        "play_G6": null,
+        "dis2D_over": 2800,
+        "dis2D_less": 5000,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_wenhao_LMH_C.NPC_wenhao_LMH_C_C'"
+      },
+      {
+        "dis2D_over": 1800,
+        "dis2D_less": 2800,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_sikao_Only_C.NPC_sikao_Only_C_C'"
+      },
+      {
+        "dis2D_over": 600,
+        "dis2D_less": 1800,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_nahan_Only_C.NPC_nahan_Only_C_C'"
+      },
+      {
+        "dis2D_less": 600,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
     ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 87,
     "id": 4,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot3_png.img_cangbaot3_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
@@ -156,16 +190,28 @@
     ],
     "effect_group": [
       {
-        "dis2D_over": 51,
-        "dis2D_less": 52,
-        "play_G6": null,
+        "dis2D_over": 2200,
+        "dis2D_less": 3500,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_wenhao_LMH_C.NPC_wenhao_LMH_C_C'"
+      },
+      {
+        "dis2D_over": 1500,
+        "dis2D_less": 2200,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_sikao_Only_C.NPC_sikao_Only_C_C'"
+      },
+      {
+        "dis2D_over": 600,
+        "dis2D_less": 1500,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_nahan_Only_C.NPC_nahan_Only_C_C'"
+      },
+      {
+        "dis2D_less": 600,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
     ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 87,
     "id": 5,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot5_png.img_cangbaot5_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
@@ -196,9 +242,23 @@
     ],
     "effect_group": [
       {
-        "dis2D_over": 54,
-        "dis2D_less": 44,
-        "play_G6": null,
+        "dis2D_over": 2500,
+        "dis2D_less": 5000,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_wenhao_LMH_C.NPC_wenhao_LMH_C_C'"
+      },
+      {
+        "dis2D_over": 1800,
+        "dis2D_less": 2500,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_sikao_Only_C.NPC_sikao_Only_C_C'"
+      },
+      {
+        "dis2D_over": 600,
+        "dis2D_less": 1800,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/NPC/NPC_nahan_Only_C.NPC_nahan_Only_C_C'"
+      },
+      {
+        "dis2D_less": 600,
+        "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
     ]

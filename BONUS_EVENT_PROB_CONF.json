@@ -1,84 +1,82 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 21,
     "id": 1,
     "event_id": [
       115001
     ],
     "var_type": 1,
-    "var_param": null,
+    "var_param": [
+      "1"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 2,
-    "_row_size": 21,
     "id": 2,
     "event_id": [
       115001
     ],
     "var_type": 1,
-    "var_param": null,
+    "var_param": [
+      "2"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 3,
-    "_row_size": 21,
     "id": 3,
     "event_id": [
       115001
     ],
     "var_type": 1,
-    "var_param": null,
+    "var_param": [
+      "3"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 4,
-    "_row_size": 21,
     "id": 4,
     "event_id": [
       115001
     ],
     "var_type": 1,
-    "var_param": null,
+    "var_param": [
+      "4"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 5,
-    "_row_size": 21,
     "id": 5,
     "event_id": [
       115001
     ],
     "var_type": 2,
-    "var_param": null,
+    "var_param": [
+      "3"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 6,
-    "_row_size": 21,
     "id": 6,
     "event_id": [
       115001
     ],
     "var_type": 2,
-    "var_param": null,
+    "var_param": [
+      "4"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 7,
-    "_row_size": 21,
     "id": 7,
     "event_id": [
       115001
     ],
     "var_type": 2,
-    "var_param": null,
+    "var_param": [
+      "5"
+    ],
     "belong_factor_type": 1
   },
   {
-    "_row_key": 8,
-    "_row_size": 17,
     "id": 8,
     "event_id": [
       115001
@@ -87,8 +85,6 @@
     "belong_factor_type": 2
   },
   {
-    "_row_key": 9,
-    "_row_size": 17,
     "id": 9,
     "event_id": [
       115001
@@ -97,144 +93,154 @@
     "belong_factor_type": 2
   },
   {
-    "_row_key": 10,
-    "_row_size": 29,
     "id": 10,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "16"
+    ],
     "factor_for_p1": 4000000,
     "factor_for_delta_p1": 4000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 11,
-    "_row_size": 29,
     "id": 11,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "20"
+    ],
     "factor_for_p1": 5000000,
     "factor_for_delta_p1": 5000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 12,
-    "_row_size": 29,
     "id": 12,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "24"
+    ],
     "factor_for_p1": 6000000,
     "factor_for_delta_p1": 6000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 13,
-    "_row_size": 29,
     "id": 13,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "28"
+    ],
     "factor_for_p1": 7000000,
     "factor_for_delta_p1": 7000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 14,
-    "_row_size": 29,
     "id": 14,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "32"
+    ],
     "factor_for_p1": 8000000,
     "factor_for_delta_p1": 8000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 15,
-    "_row_size": 29,
     "id": 15,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "40"
+    ],
     "factor_for_p1": 10000000,
     "factor_for_delta_p1": 10000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 16,
-    "_row_size": 29,
     "id": 16,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "42"
+    ],
     "factor_for_p1": 10500000,
     "factor_for_delta_p1": 10500000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 17,
-    "_row_size": 29,
     "id": 17,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "56"
+    ],
     "factor_for_p1": 14000000,
     "factor_for_delta_p1": 14000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 18,
-    "_row_size": 29,
     "id": 18,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "60"
+    ],
     "factor_for_p1": 15000000,
     "factor_for_delta_p1": 15000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 19,
-    "_row_size": 29,
     "id": 19,
     "event_id": [
       115001
     ],
     "var_type": 5,
-    "var_param": null,
+    "var_param": [
+      "wish_number",
+      "80"
+    ],
     "factor_for_p1": 20000000,
     "factor_for_delta_p1": 20000000,
     "belong_factor_type": 3
   },
   {
-    "_row_key": 20,
-    "_row_size": 21,
     "id": 20,
     "event_id": [
       115001
     ],
     "var_type": 6,
-    "var_param": "\"",
+    "var_param": [
+      "999"
+    ],
     "belong_factor_type": 4
   }
 ]

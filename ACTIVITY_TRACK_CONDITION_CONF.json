@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 3500001,
     "unopen_option_txt": "11月21号0点后开启抽奖",
     "option_open_time": "2025-11-21 00:00:00",
@@ -12,9 +10,13 @@
     ],
     "star_rewards": [
       {
-        "condition_reward_id": 6,
-        "reset_type": 7,
-        "dont_send_mail": true
+        "condition_reward_id": 1600042
+      },
+      {
+        "condition_reward_id": 1600043
+      },
+      {
+        "condition_reward_id": 1600044
       }
     ],
     "petbase_id": 3168,

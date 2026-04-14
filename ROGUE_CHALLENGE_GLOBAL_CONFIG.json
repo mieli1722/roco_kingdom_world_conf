@@ -1,79 +1,59 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 17,
     "id": 1,
     "key": "reroll_cost_base",
     "editor_name": "每回合重抽花费货币",
     "num": 30
   },
   {
-    "_row_key": 2,
-    "_row_size": 17,
     "id": 2,
     "key": "reroll_cost_add",
     "editor_name": "每回合每次重抽货币提升",
     "num": 10
   },
   {
-    "_row_key": 3,
-    "_row_size": 17,
     "id": 3,
     "key": "deck_num",
     "editor_name": "玩家手牌数量",
     "num": 4
   },
   {
-    "_row_key": 4,
-    "_row_size": 17,
     "id": 4,
     "key": "upgrade_show",
     "editor_name": "完成事件后展示强化数",
     "num": 4
   },
   {
-    "_row_key": 5,
-    "_row_size": 17,
     "id": 5,
     "key": "upgrade_select_1",
     "editor_name": "完成野生精灵一连事件可选择强化数",
     "num": 1
   },
   {
-    "_row_key": 6,
-    "_row_size": 17,
     "id": 6,
     "key": "upgrade_select_2",
     "editor_name": "完成野生精灵二连事件可选择强化数",
     "num": 2
   },
   {
-    "_row_key": 7,
-    "_row_size": 17,
     "id": 7,
     "key": "upgrade_select_3",
     "editor_name": "完成野生精灵三连事件可选择强化数",
     "num": 2
   },
   {
-    "_row_key": 8,
-    "_row_size": 17,
     "id": 8,
     "key": "upgrade_select_npc_1",
     "editor_name": "完成NPC对战一连事件可选择强化数",
     "num": 2
   },
   {
-    "_row_key": 9,
-    "_row_size": 17,
     "id": 9,
     "key": "upgrade_select_npc_2",
     "editor_name": "完成NPC对战二连事件可选择强化数",
     "num": 2
   },
   {
-    "_row_key": 10,
-    "_row_size": 13,
     "id": 10,
     "key": "energy_refresh",
     "editor_name": "事件之间是否继承精灵能量"

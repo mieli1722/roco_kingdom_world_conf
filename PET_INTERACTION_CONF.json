@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 10001,
     "editor_name": "火盆机关-火",
     "priority": 1,
@@ -9,8 +7,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 478,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_OFF"
+        ]
       }
     ],
     "action_type": 20003,
@@ -18,8 +24,6 @@
     "action_param2": "10014"
   },
   {
-    "_row_key": 2,
-    "_row_size": 38,
     "id": 10002,
     "editor_name": "火盆机关-水",
     "priority": 1,
@@ -27,8 +31,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 480,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20003,
@@ -36,919 +48,1458 @@
     "action_param2": "10014"
   },
   {
-    "_row_key": 3,
-    "_row_size": 14,
     "id": 10003,
     "editor_name": "荆棘宝箱-火",
-    "interact_cond_group": []
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 14,
     "id": 10004,
     "editor_name": "荆棘宝箱-斩击",
-    "interact_cond_group": []
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_SLASH"
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 26,
     "id": 10005,
     "editor_name": "精灵宝箱-头顶花",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_HEADFLOWER"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 6,
-    "_row_size": 26,
     "id": 10006,
     "editor_name": "精灵宝箱-大尾巴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_BIGTALE"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 7,
-    "_row_size": 26,
     "id": 10007,
     "editor_name": "精灵宝箱-大耳朵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_BIGEARS"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 8,
-    "_row_size": 26,
     "id": 10008,
     "editor_name": "精灵宝箱-独眼",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_ONEEYE"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 9,
-    "_row_size": 26,
     "id": 10009,
     "editor_name": "精灵宝箱-双手",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_TWOHANDS"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 10,
-    "_row_size": 22,
     "id": 10013,
     "editor_name": "1号奇妙豆苗-草",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 20012,
     "action_param1": "620001"
   },
   {
-    "_row_key": 11,
-    "_row_size": 22,
     "id": 10014,
     "editor_name": "1号奇妙豆苗-光",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 20012,
     "action_param1": "620001"
   },
   {
-    "_row_key": 12,
-    "_row_size": 22,
     "id": 10015,
     "editor_name": "1号奇妙豆苗-水",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20012,
     "action_param1": "620001"
   },
   {
-    "_row_key": 13,
-    "_row_size": 22,
     "id": 10061,
     "editor_name": "精灵展示-头顶花",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3530"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 14,
-    "_row_size": 22,
     "id": 10062,
     "editor_name": "精灵展示-气球猫",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3373"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 15,
-    "_row_size": 22,
     "id": 10063,
     "editor_name": "精灵展示-幽影树",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3064"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 16,
-    "_row_size": 22,
     "id": 10064,
     "editor_name": "精灵展示-健身教练",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3081"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 17,
-    "_row_size": 22,
     "id": 10065,
     "editor_name": "精灵展示-牵线木偶",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3430"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 18,
-    "_row_size": 22,
     "id": 10066,
     "editor_name": "精灵展示-白发懒人",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3049"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 19,
-    "_row_size": 22,
     "id": 10067,
     "editor_name": "精灵展示-公平鸽",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3013"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 20,
-    "_row_size": 22,
     "id": 10068,
     "editor_name": "精灵展示-魔法扫帚",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3016"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 21,
-    "_row_size": 22,
     "id": 10070,
     "editor_name": "精灵展示-幽影树反对",
     "cond_logic_type": 3,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3003"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 22,
-    "_row_size": 26,
     "id": 10150,
     "editor_name": "淘气宝箱-萌",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MOE"
+        ]
+      }
+    ],
     "action_type": 20013,
     "action_param1": "SALS_NAUTYCHEST_CHARM",
     "action_param2": "SALS_LOCKED"
   },
   {
-    "_row_key": 23,
-    "_row_size": 26,
     "id": 10151,
     "editor_name": "淘气宝箱-幻",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_PHANTOM"
+        ]
+      }
+    ],
     "action_type": 20013,
     "action_param1": "SALS_NAUTYCHEST_HIPNOSIS",
     "action_param2": "SALS_LOCKED"
   },
   {
-    "_row_key": 24,
-    "_row_size": 26,
     "id": 10152,
     "editor_name": "淘气宝箱-幽",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GHOST"
+        ]
+      }
+    ],
     "action_type": 20013,
     "action_param1": "SALS_NAUTYCHEST_FEAR",
     "action_param2": "SALS_LOCKED"
   },
   {
-    "_row_key": 25,
-    "_row_size": 26,
     "id": 10153,
     "editor_name": "淘气宝箱-龙",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DRAGON"
+        ]
+      }
+    ],
     "action_type": 20013,
     "action_param1": "SALS_NAUTYCHEST_FEAR",
     "action_param2": "SALS_LOCKED"
   },
   {
-    "_row_key": 26,
-    "_row_size": 26,
     "id": 10154,
     "editor_name": "淘气宝箱-恶",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DEMON"
+        ]
+      }
+    ],
     "action_type": 20013,
     "action_param1": "SALS_NAUTYCHEST_BLIND",
     "action_param2": "SALS_LOCKED"
   },
   {
-    "_row_key": 27,
-    "_row_size": 22,
     "id": 10155,
     "editor_name": "毒笼草-毒",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20015,
     "action_param1": "SALS_TRIGGER_ON"
   },
   {
-    "_row_key": 28,
-    "_row_size": 22,
     "id": 10156,
     "editor_name": "毒笼草-翼",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 20015,
     "action_param1": "SALS_TRIGGER_ON"
   },
   {
-    "_row_key": 29,
-    "_row_size": 22,
     "id": 10157,
     "editor_name": "火焰石-地",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20016,
     "action_param1": "SALS_TRIGGER_ON"
   },
   {
-    "_row_key": 30,
-    "_row_size": 22,
     "id": 10158,
     "editor_name": "火焰石-水",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20016,
     "action_param1": "SALS_TRIGGER_ON"
   },
   {
-    "_row_key": 31,
-    "_row_size": 22,
     "id": 10159,
     "editor_name": "力气测试仪1号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "1",
+          "20000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 32,
-    "_row_size": 22,
     "id": 10160,
     "editor_name": "力气测试仪2号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "20000",
+          "40000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 33,
-    "_row_size": 22,
     "id": 10161,
     "editor_name": "力气测试仪3号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "40000",
+          "60000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 34,
-    "_row_size": 22,
     "id": 10162,
     "editor_name": "力气测试仪4号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "60000",
+          "95000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 35,
-    "_row_size": 22,
     "id": 10163,
     "editor_name": "力气测试仪5号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "50000",
+          "70000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 36,
-    "_row_size": 22,
     "id": 10164,
     "editor_name": "力气测试仪6号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "10000",
+          "20000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 37,
-    "_row_size": 22,
     "id": 10165,
     "editor_name": "力气测试仪7号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "20000",
+          "30000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 38,
-    "_row_size": 22,
     "id": 10166,
     "editor_name": "力气测试仪8号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "40000",
+          "50000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 39,
-    "_row_size": 22,
     "id": 10167,
     "editor_name": "力气测试仪9号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "60000",
+          "70000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 40,
-    "_row_size": 22,
     "id": 10168,
     "editor_name": "力气测试仪10号",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 11,
+        "interact_cond_param": [
+          "80000",
+          "90000"
+        ]
+      }
+    ],
     "action_type": 20014,
     "action_param1": "601069"
   },
   {
-    "_row_key": 41,
-    "_row_size": 22,
     "id": 10184,
     "editor_name": "光系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_LIGHT"
   },
   {
-    "_row_key": 42,
-    "_row_size": 22,
     "id": 10185,
     "editor_name": "恶系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DEMON"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_DEMON"
   },
   {
-    "_row_key": 43,
-    "_row_size": 22,
     "id": 10186,
     "editor_name": "草系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_GRASS"
   },
   {
-    "_row_key": 44,
-    "_row_size": 22,
     "id": 10187,
     "editor_name": "火系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_FIRE"
   },
   {
-    "_row_key": 45,
-    "_row_size": 22,
     "id": 10188,
     "editor_name": "水系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_WATER"
   },
   {
-    "_row_key": 46,
-    "_row_size": 22,
     "id": 10189,
     "editor_name": "翼系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_WING"
   },
   {
-    "_row_key": 47,
-    "_row_size": 22,
     "id": 10190,
     "editor_name": "虫系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_INSECT"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_INSECT"
   },
   {
-    "_row_key": 48,
-    "_row_size": 22,
     "id": 10191,
     "editor_name": "冰系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_ICE"
   },
   {
-    "_row_key": 49,
-    "_row_size": 22,
     "id": 10192,
     "editor_name": "普通系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_COMMON"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_COMMON"
   },
   {
-    "_row_key": 50,
-    "_row_size": 22,
     "id": 10193,
     "editor_name": "地系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_STONE"
   },
   {
-    "_row_key": 51,
-    "_row_size": 22,
     "id": 10194,
     "editor_name": "龙系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DRAGON"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_DRAGON"
   },
   {
-    "_row_key": 52,
-    "_row_size": 22,
     "id": 10195,
     "editor_name": "电系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ELECTRIC"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_ELECTRIC"
   },
   {
-    "_row_key": 53,
-    "_row_size": 22,
     "id": 10196,
     "editor_name": "毒系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_TOXIC"
   },
   {
-    "_row_key": 54,
-    "_row_size": 22,
     "id": 10197,
     "editor_name": "武系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIGHT"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_FIGHT"
   },
   {
-    "_row_key": 55,
-    "_row_size": 22,
     "id": 10198,
     "editor_name": "萌系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MOE"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_MOE"
   },
   {
-    "_row_key": 56,
-    "_row_size": 22,
     "id": 10199,
     "editor_name": "幽系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GHOST"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_GHOST"
   },
   {
-    "_row_key": 57,
-    "_row_size": 22,
     "id": 10200,
     "editor_name": "机械系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MECHANIC"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_MECHANIC"
   },
   {
-    "_row_key": 58,
-    "_row_size": 22,
     "id": 10201,
     "editor_name": "幻系锁通用中级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_PHANTOM"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_PHANTOM"
   },
   {
-    "_row_key": 59,
-    "_row_size": 22,
     "id": 10202,
     "editor_name": "精灵冲撞黑晶琉璃-小",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610631"
   },
   {
-    "_row_key": 60,
-    "_row_size": 22,
     "id": 10203,
     "editor_name": "精灵冲撞黑晶琉璃-中",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610632"
   },
   {
-    "_row_key": 61,
-    "_row_size": 22,
     "id": 10204,
     "editor_name": "精灵冲撞黑晶琉璃-大",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610633"
   },
   {
-    "_row_key": 62,
-    "_row_size": 26,
     "id": 10205,
     "editor_name": "精灵冲撞可可果树",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601024",
     "action_param2": "601024"
   },
   {
-    "_row_key": 63,
-    "_row_size": 26,
     "id": 10206,
     "editor_name": "精灵冲撞无花果树",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601025",
     "action_param2": "601025"
   },
   {
-    "_row_key": 64,
-    "_row_size": 26,
     "id": 10207,
     "editor_name": "精灵冲撞魔力果树",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601026",
     "action_param2": "601026"
   },
   {
-    "_row_key": 65,
-    "_row_size": 22,
     "id": 10208,
     "editor_name": "精灵冲撞木箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10078,
     "action_param1": "611170"
   },
   {
-    "_row_key": 66,
-    "_row_size": 22,
     "id": 10209,
     "editor_name": "精灵冲撞黄石榴石-小",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610738"
   },
   {
-    "_row_key": 67,
-    "_row_size": 22,
     "id": 10210,
     "editor_name": "精灵冲撞黄石榴石-中",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610739"
   },
   {
-    "_row_key": 68,
-    "_row_size": 22,
     "id": 10211,
     "editor_name": "精灵冲撞黄石榴石-大",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610740"
   },
   {
-    "_row_key": 69,
-    "_row_size": 22,
     "id": 10212,
     "editor_name": "精灵冲撞蓝晶碧玺-小",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610748"
   },
   {
-    "_row_key": 70,
-    "_row_size": 22,
     "id": 10213,
     "editor_name": "精灵冲撞蓝晶碧玺-中",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610749"
   },
   {
-    "_row_key": 71,
-    "_row_size": 22,
     "id": 10214,
     "editor_name": "精灵冲撞蓝晶碧玺-大",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610750"
   },
   {
-    "_row_key": 72,
-    "_row_size": 22,
     "id": 10215,
     "editor_name": "精灵冲撞紫莲刚玉-小",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610758"
   },
   {
-    "_row_key": 73,
-    "_row_size": 22,
     "id": 10216,
     "editor_name": "精灵冲撞紫莲刚玉-中",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610759"
   },
   {
-    "_row_key": 74,
-    "_row_size": 22,
     "id": 10217,
     "editor_name": "精灵冲撞紫莲刚玉-大",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610760"
   },
   {
-    "_row_key": 75,
-    "_row_size": 22,
     "id": 10218,
     "editor_name": "精灵冲撞冰晶锥矿-小",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610768"
   },
   {
-    "_row_key": 76,
-    "_row_size": 22,
     "id": 10219,
     "editor_name": "精灵冲撞冰晶锥矿-中",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610769"
   },
   {
-    "_row_key": 77,
-    "_row_size": 22,
     "id": 10220,
     "editor_name": "精灵冲撞冰晶锥矿-大",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "610770"
   },
   {
-    "_row_key": 78,
-    "_row_size": 18,
     "id": 10501,
     "editor_name": "幽系魔法禁制",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GHOST"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 79,
-    "_row_size": 22,
     "id": 10502,
     "editor_name": "系别石柱-火",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 20004,
     "action_param1": "SDT_FIRE"
   },
   {
-    "_row_key": 80,
-    "_row_size": 22,
     "id": 10503,
     "editor_name": "系别石柱-草",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 20004,
     "action_param1": "SDT_GRASS"
   },
   {
-    "_row_key": 81,
-    "_row_size": 22,
     "id": 10504,
     "editor_name": "系别石柱-水",
-    "interact_cond_group": [],
-    "action_type": 20004,
-    "action_param1": "SDT_WATER"
-  },
-  {
-    "_row_key": 82,
-    "_row_size": 18,
-    "id": 10505,
-    "editor_name": "副本大破碎墙",
-    "interact_cond_group": [],
-    "action_type": 10016
-  },
-  {
-    "_row_key": 83,
-    "_row_size": 18,
-    "id": 10510,
-    "editor_name": "A2主线——庆典的贵族1",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 84,
-    "_row_size": 18,
-    "id": 10511,
-    "editor_name": "A2主线——庆典的贵族2",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 85,
-    "_row_size": 18,
-    "id": 10512,
-    "editor_name": "A2主线——庆典的贵族3",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 86,
-    "_row_size": 18,
-    "id": 10513,
-    "editor_name": "A2主线——庆典的贵族4",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 87,
-    "_row_size": 18,
-    "id": 10514,
-    "editor_name": "A2主线——庆典的贵族5",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 88,
-    "_row_size": 18,
-    "id": 10515,
-    "editor_name": "A2主线——庆典的贵族6",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 89,
-    "_row_size": 18,
-    "id": 10516,
-    "editor_name": "A2主线——庆典的贵族7",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 90,
-    "_row_size": 18,
-    "id": 10517,
-    "editor_name": "A2主线——庆典的贵族8",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 91,
-    "_row_size": 18,
-    "id": 10518,
-    "editor_name": "A2主线——庆典的贵族9",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 92,
-    "_row_size": 18,
-    "id": 10519,
-    "editor_name": "A2主线——庆典的贵族10",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 93,
-    "_row_size": 18,
-    "id": 10520,
-    "editor_name": "A2主线——买醉的商人1",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 94,
-    "_row_size": 18,
-    "id": 10521,
-    "editor_name": "A2主线——买醉的商人2",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 95,
-    "_row_size": 18,
-    "id": 10522,
-    "editor_name": "A2主线——买醉的商人3",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 96,
-    "_row_size": 18,
-    "id": 10523,
-    "editor_name": "A2_主线_顺顺特调用",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 97,
-    "_row_size": 18,
-    "id": 10524,
-    "editor_name": "A2_主线_潜入者（备用）",
-    "interact_cond_group": [],
-    "action_type": 10135
-  },
-  {
-    "_row_key": 98,
-    "_row_size": 22,
-    "id": 10525,
-    "editor_name": "A1-源流副本-板板壳",
     "interact_cond_group": [
       {
-        "interact_cond": 480,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
       }
     ],
     "action_type": 20004,
     "action_param1": "SDT_WATER"
   },
   {
-    "_row_key": 99,
-    "_row_size": 22,
+    "id": 10505,
+    "editor_name": "副本大破碎墙",
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
+    "action_type": 10016
+  },
+  {
+    "id": 10510,
+    "editor_name": "A2主线——庆典的贵族1",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10511,
+    "editor_name": "A2主线——庆典的贵族2",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10512,
+    "editor_name": "A2主线——庆典的贵族3",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10513,
+    "editor_name": "A2主线——庆典的贵族4",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10514,
+    "editor_name": "A2主线——庆典的贵族5",
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10515,
+    "editor_name": "A2主线——庆典的贵族6",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10516,
+    "editor_name": "A2主线——庆典的贵族7",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10517,
+    "editor_name": "A2主线——庆典的贵族8",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10518,
+    "editor_name": "A2主线——庆典的贵族9",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10519,
+    "editor_name": "A2主线——庆典的贵族10",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10520,
+    "editor_name": "A2主线——买醉的商人1",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10521,
+    "editor_name": "A2主线——买醉的商人2",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10522,
+    "editor_name": "A2主线——买醉的商人3",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10523,
+    "editor_name": "A2_主线_顺顺特调用",
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10524,
+    "editor_name": "A2_主线_潜入者（备用）",
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3127",
+          "3128",
+          "3129"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 10525,
+    "editor_name": "A1-源流副本-板板壳",
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      },
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3055",
+          "3516"
+        ]
+      }
+    ],
+    "action_type": 20004,
+    "action_param1": "SDT_WATER"
+  },
+  {
     "id": 10526,
     "editor_name": "A1-源流副本-一窝蜂",
     "interact_cond_group": [
       {
-        "interact_cond": 505,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      },
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3058"
+        ]
       }
     ],
     "action_type": 20004,
     "action_param1": "SDT_WING"
   },
   {
-    "_row_key": 100,
-    "_row_size": 22,
     "id": 10527,
     "editor_name": "A1-源流副本-绿耳松鼠",
     "interact_cond_group": [
       {
-        "interact_cond": 519,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_COMMON"
+        ]
+      },
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3098"
+        ]
       }
     ],
     "action_type": 20004,
     "action_param1": "SDT_COMMON"
   },
   {
-    "_row_key": 101,
-    "_row_size": 18,
     "id": 10528,
     "editor_name": "A2主线——错误的目标",
     "interact_cond_group": [
       {
-        "interact_cond": 489,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      },
+      {
+        "interact_cond": 4,
+        "interact_cond_param": [
+          "100001"
+        ]
       }
     ],
     "action_type": 10135
   },
   {
-    "_row_key": 102,
-    "_row_size": 22,
     "id": 10601,
     "editor_name": "水系锁的中级宝箱【A2】",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20007,
     "action_param1": "SDT_WATER"
   },
   {
-    "_row_key": 103,
-    "_row_size": 38,
     "id": 10701,
     "editor_name": "测试_元素交互物-类型1-开",
     "priority": 1,
@@ -956,8 +1507,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 518,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_OFF"
+        ]
       }
     ],
     "action_type": 20017,
@@ -965,8 +1524,6 @@
     "action_param4": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Interact/G6_Fir_Interact_General.G6_Fir_Interact_General'"
   },
   {
-    "_row_key": 104,
-    "_row_size": 34,
     "id": 10702,
     "editor_name": "测试_元素交互物-类型1-关",
     "priority": 1,
@@ -974,16 +1531,22 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 505,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20017,
     "action_param3": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 105,
-    "_row_size": 42,
     "id": 10711,
     "editor_name": "测试_元素交互物-类型2-开",
     "priority": 1,
@@ -991,8 +1554,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 478,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_OFF"
+        ]
       }
     ],
     "action_type": 20017,
@@ -1001,8 +1572,6 @@
     "action_param4": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Interact/G6_Fir_Interact_General.G6_Fir_Interact_General'"
   },
   {
-    "_row_key": 106,
-    "_row_size": 34,
     "id": 10712,
     "editor_name": "测试_元素交互物-类型2-关",
     "priority": 1,
@@ -1010,16 +1579,22 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 480,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20017,
     "action_param3": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 107,
-    "_row_size": 38,
     "id": 10721,
     "editor_name": "测试_元素交互物-类型3-destroy",
     "priority": 1,
@@ -1027,8 +1602,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 506,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20018,
@@ -1036,8 +1619,6 @@
     "action_param4": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Interact/G6_Test_Baoxiang_open.G6_Test_Baoxiang_open'"
   },
   {
-    "_row_key": 108,
-    "_row_size": 38,
     "id": 10731,
     "editor_name": "测试_元素交互物-类型4-开声音",
     "priority": 1,
@@ -1045,8 +1626,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 478,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_OFF"
+        ]
       }
     ],
     "action_type": 20017,
@@ -1054,8 +1643,6 @@
     "action_param4": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Interact/G6_Wat_Interact_General.G6_Wat_Interact_General'"
   },
   {
-    "_row_key": 109,
-    "_row_size": 34,
     "id": 10732,
     "editor_name": "测试_元素交互物-类型4-关声音",
     "priority": 1,
@@ -1063,16 +1650,22 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 480,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20017,
     "action_param3": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 110,
-    "_row_size": 38,
     "id": 10740,
     "editor_name": "xinyue火焰_测试_元素交互物-类型2-关+destroy",
     "priority": 1,
@@ -1080,8 +1673,16 @@
     "cond_logic_type": 1,
     "interact_cond_group": [
       {
-        "interact_cond": 480,
-        "interact_cond_param": null
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_ON"
+        ]
       }
     ],
     "action_type": 20018,
@@ -1089,2033 +1690,3095 @@
     "action_param4": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Interact/G6_Wat_Interact_FireDisappear_General.G6_Wat_Interact_FireDisappear_General'"
   },
   {
-    "_row_key": 111,
-    "_row_size": 26,
     "id": 10741,
     "editor_name": "B1-JQ09-广场晚会-大星星-光系投掷交互",
     "priority": 1,
     "weight": 100,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 112,
-    "_row_size": 26,
     "id": 10742,
     "editor_name": "B1-JQ09-广场晚会-大星星-翼系投掷交互",
     "priority": 1,
     "weight": 100,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 113,
-    "_row_size": 26,
     "id": 10744,
     "editor_name": "B1-JQ09-广场晚会-大星星-萌系投掷交互",
     "priority": 1,
     "weight": 100,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MOE"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 114,
-    "_row_size": 18,
     "id": 10901,
     "editor_name": "全系别锁通用石柱/宝箱（测试版）",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 6,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20019
   },
   {
-    "_row_key": 115,
-    "_row_size": 22,
     "id": 10902,
     "editor_name": "翼系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_WING"
   },
   {
-    "_row_key": 116,
-    "_row_size": 22,
     "id": 10903,
     "editor_name": "幽系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GHOST"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_GHOST"
   },
   {
-    "_row_key": 117,
-    "_row_size": 22,
     "id": 10904,
     "editor_name": "普系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_COMMON"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_COMMON"
   },
   {
-    "_row_key": 118,
-    "_row_size": 18,
     "id": 10905,
     "editor_name": "luluu-环境叙事-彼得大道商业区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 119,
-    "_row_size": 18,
     "id": 10906,
     "editor_name": "luluu-环境叙事-彼得大道旅馆区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 120,
-    "_row_size": 18,
     "id": 10907,
     "editor_name": "luluu-环境叙事-彼得大道入口区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 121,
-    "_row_size": 18,
     "id": 10908,
     "editor_name": "luluu-环境叙事-彼得大道下沉区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 122,
-    "_row_size": 18,
     "id": 10909,
     "editor_name": "luluu-环境叙事-彼得大道艾普鲁区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 123,
-    "_row_size": 18,
     "id": 10910,
     "editor_name": "luluu-环境叙事-彼得大道艾普鲁区邮件",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3200"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 124,
-    "_row_size": 22,
     "id": 10911,
     "editor_name": "武系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIGHT"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_FIGHT"
   },
   {
-    "_row_key": 125,
-    "_row_size": 22,
     "id": 10912,
     "editor_name": "火系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_FIRE"
   },
   {
-    "_row_key": 126,
-    "_row_size": 22,
     "id": 10913,
     "editor_name": "光系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_LIGHT"
   },
   {
-    "_row_key": 127,
-    "_row_size": 22,
     "id": 10914,
     "editor_name": "草系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_GRASS"
   },
   {
-    "_row_key": 128,
-    "_row_size": 22,
     "id": 10915,
     "editor_name": "水系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_WATER"
   },
   {
-    "_row_key": 129,
-    "_row_size": 22,
     "id": 10916,
     "editor_name": "电系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ELECTRIC"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_ELECTRIC"
   },
   {
-    "_row_key": 130,
-    "_row_size": 22,
     "id": 10917,
     "editor_name": "冰系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_ICE"
   },
   {
-    "_row_key": 131,
-    "_row_size": 22,
     "id": 10918,
     "editor_name": "幻系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_PHANTOM"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_PHANTOM"
   },
   {
-    "_row_key": 132,
-    "_row_size": 22,
     "id": 10919,
     "editor_name": "龙系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DRAGON"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_DRAGON"
   },
   {
-    "_row_key": 133,
-    "_row_size": 22,
     "id": 10920,
     "editor_name": "地系锁通用石柱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20019,
     "action_param1": "SDT_STONE"
   },
   {
-    "_row_key": 134,
-    "_row_size": 26,
     "id": 11181,
     "editor_name": "0号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010000",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 135,
-    "_row_size": 26,
     "id": 11182,
     "editor_name": "0号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010000",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 136,
-    "_row_size": 26,
     "id": 11183,
     "editor_name": "0号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010000",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 137,
-    "_row_size": 26,
     "id": 11184,
     "editor_name": "0号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010000",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 138,
-    "_row_size": 18,
     "id": 12000,
     "editor_name": "ambrezhang-圣剑X",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ELECTRIC"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 139,
-    "_row_size": 18,
     "id": 12001,
     "editor_name": "ambrezhang_情感环境叙事_丝柯洛_打捞曲谱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 140,
-    "_row_size": 26,
     "id": 20001,
     "editor_name": "精灵投掷实验1",
     "priority": 1,
     "weight": 10,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 10084
   },
   {
-    "_row_key": 141,
-    "_row_size": 26,
     "id": 20002,
     "editor_name": "精灵投掷实验2",
     "priority": 2,
     "weight": 30,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 10081
   },
   {
-    "_row_key": 142,
-    "_row_size": 26,
     "id": 20003,
     "editor_name": "精灵投掷实验3",
     "priority": 2,
     "weight": 70,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 10082
   },
   {
-    "_row_key": 143,
-    "_row_size": 18,
     "id": 20004,
     "editor_name": "精灵投掷实验4",
     "priority": 2,
     "weight": 10
   },
   {
-    "_row_key": 144,
-    "_row_size": 18,
     "id": 20005,
     "editor_name": "精灵投掷实验5",
     "priority": 2,
     "weight": 20
   },
   {
-    "_row_key": 145,
-    "_row_size": 26,
     "id": 20006,
     "editor_name": "精灵投掷实验6",
     "priority": 2,
     "weight": 30,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 10083
   },
   {
-    "_row_key": 146,
-    "_row_size": 26,
     "id": 20007,
     "editor_name": "精灵投掷实验7",
     "priority": 2,
     "weight": 40,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 10084
   },
   {
-    "_row_key": 147,
-    "_row_size": 26,
     "id": 20008,
     "editor_name": "精灵投掷实验8",
     "priority": 2,
     "weight": 50,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_WATER"
+        ]
+      }
+    ],
     "action_type": 10084
   },
   {
-    "_row_key": 148,
-    "_row_size": 26,
     "id": 20009,
     "editor_name": "精灵投掷实验9",
     "priority": 2,
     "weight": 60,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_FLY"
+        ]
+      }
+    ],
     "action_type": 10084
   },
   {
-    "_row_key": 149,
-    "_row_size": 26,
     "id": 30001,
     "editor_name": "可可果树采集",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601024",
     "action_param2": "601024"
   },
   {
-    "_row_key": 150,
-    "_row_size": 26,
     "id": 30002,
     "editor_name": "无花果树采集",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "20000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601025",
     "action_param2": "601025"
   },
   {
-    "_row_key": 151,
-    "_row_size": 26,
     "id": 30003,
     "editor_name": "魔力果树采集",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "60000"
+        ]
+      }
+    ],
     "action_type": 10015,
     "action_param1": "601026",
     "action_param2": "601026"
   },
   {
-    "_row_key": 152,
-    "_row_size": 18,
     "id": 30004,
     "editor_name": "投掷精灵测试-ono",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "-1"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 153,
-    "_row_size": 18,
     "id": 38001,
     "editor_name": "贝古斯激活交互",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 10002
   },
   {
-    "_row_key": 154,
-    "_row_size": 26,
     "id": 55302,
     "editor_name": "精灵宝箱-无模型-石头",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 155,
-    "_row_size": 26,
     "id": 55305,
     "editor_name": "精灵宝箱-无模型-头顶花",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_HEADFLOWER"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 156,
-    "_row_size": 26,
     "id": 55325,
     "editor_name": "精灵宝箱-无模型-翼",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 157,
-    "_row_size": 22,
     "id": 55504,
     "editor_name": "挖低级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 10048,
     "action_param1": "800061"
   },
   {
-    "_row_key": 158,
-    "_row_size": 22,
     "id": 55505,
     "editor_name": "挖高级宝箱",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 10048,
     "action_param1": "800062"
   },
   {
-    "_row_key": 159,
-    "_row_size": 22,
     "id": 58308,
     "editor_name": "眠枭石像刷眠枭之星 - A1",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 10040,
     "action_param1": "611178"
   },
   {
-    "_row_key": 160,
-    "_row_size": 22,
     "id": 58318,
     "editor_name": "眠枭石像刷眠枭之星 - A2",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 10040,
     "action_param1": "611182"
   },
   {
-    "_row_key": 161,
-    "_row_size": 30,
     "id": 60280,
     "editor_name": "魔力之源投掷精灵解锁",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 162,
-    "_row_size": 22,
     "id": 100001,
     "editor_name": "检查精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3012",
+          "3036"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "618021"
   },
   {
-    "_row_key": 163,
-    "_row_size": 22,
     "id": 200001,
     "editor_name": "寻宝活动区域精灵1",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3184",
+          "3185"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "200000087"
   },
   {
-    "_row_key": 164,
-    "_row_size": 22,
     "id": 200002,
     "editor_name": "寻宝活动区域精灵2",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3409"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "200000087"
   },
   {
-    "_row_key": 165,
-    "_row_size": 22,
     "id": 200003,
     "editor_name": "寻宝活动区域精灵3",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3316",
+          "3317"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "200000087"
   },
   {
-    "_row_key": 166,
-    "_row_size": 22,
     "id": 200004,
     "editor_name": "寻宝活动区域精灵4",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3173",
+          "3174"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "200000087"
   },
   {
-    "_row_key": 167,
-    "_row_size": 22,
     "id": 200005,
     "editor_name": "寻宝活动区域精灵5",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3430",
+          "3431",
+          "3432",
+          "3433"
+        ]
+      }
+    ],
     "action_type": 10021,
     "action_param1": "200000087"
   },
   {
-    "_row_key": 168,
-    "_row_size": 18,
     "id": 520001,
     "editor_name": "A2_月兔酒馆_泡沫皮带_加料_投掷精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3119",
+          "3120"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 169,
-    "_row_size": 18,
     "id": 520002,
     "editor_name": "A2_月兔酒馆_魔芋愿骸_加料_投掷精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3072",
+          "3073",
+          "3074"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 170,
-    "_row_size": 18,
     "id": 520003,
     "editor_name": "A2_月兔酒馆_萌系汽水_加料_投掷精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3373",
+          "3374",
+          "3375"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 171,
-    "_row_size": 18,
     "id": 520004,
     "editor_name": "A2_月兔酒馆_海盐甜筒_加料_投掷精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3508",
+          "3509",
+          "3510",
+          "3511",
+          "3512",
+          "3513"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 172,
-    "_row_size": 18,
     "id": 520005,
     "editor_name": "A2_拾遗_骑士团冰系_斯维托维德_投掷1",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3081"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 173,
-    "_row_size": 18,
     "id": 520006,
     "editor_name": "A2_拾遗_骑士团冰系_斯维托维德_投掷2",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3332",
+          "3477",
+          "13000156"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 174,
-    "_row_size": 18,
     "id": 520007,
     "editor_name": "A2_拾遗_骑士团冰系_白银骑士18_投掷",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3610"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 175,
-    "_row_size": 18,
     "id": 530001,
     "editor_name": "B1-系别课程-精灵学-投掷精灵治愈奔波鼠",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MOE"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 176,
-    "_row_size": 26,
     "id": 1340801,
     "editor_name": "祈雨器副本-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "600017",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 177,
-    "_row_size": 26,
     "id": 1340802,
     "editor_name": "祈雨器副-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "600017",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 178,
-    "_row_size": 26,
     "id": 1340803,
     "editor_name": "祈雨器副-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "600017",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 179,
-    "_row_size": 26,
     "id": 1340804,
     "editor_name": "祈雨器副-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "600017",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 180,
-    "_row_size": 26,
     "id": 5510901,
     "editor_name": "1号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "700101",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 181,
-    "_row_size": 26,
     "id": 5510902,
     "editor_name": "1号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "700101",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 182,
-    "_row_size": 26,
     "id": 5510903,
     "editor_name": "1号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "700101",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 183,
-    "_row_size": 26,
     "id": 5510904,
     "editor_name": "1号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "700101",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 184,
-    "_row_size": 34,
     "id": 5512601,
     "editor_name": "2号祈雨器-雨",
     "priority": 90,
     "weight": 1,
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010001",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 185,
-    "_row_size": 26,
     "id": 5512602,
     "editor_name": "2号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010001",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 186,
-    "_row_size": 26,
     "id": 5512603,
     "editor_name": "2号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010001",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 187,
-    "_row_size": 26,
     "id": 5512604,
     "editor_name": "2号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010001",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 188,
-    "_row_size": 26,
     "id": 5512701,
     "editor_name": "3号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010002",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 189,
-    "_row_size": 26,
     "id": 5512702,
     "editor_name": "3号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010002",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 190,
-    "_row_size": 26,
     "id": 5512703,
     "editor_name": "3号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010002",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 191,
-    "_row_size": 26,
     "id": 5512704,
     "editor_name": "3号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010002",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 192,
-    "_row_size": 26,
     "id": 5512801,
     "editor_name": "4号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010003",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 193,
-    "_row_size": 26,
     "id": 5512802,
     "editor_name": "4号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010003",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 194,
-    "_row_size": 26,
     "id": 5512803,
     "editor_name": "4号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010003",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 195,
-    "_row_size": 26,
     "id": 5512804,
     "editor_name": "4号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010003",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 196,
-    "_row_size": 26,
     "id": 5526101,
     "editor_name": "5号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010004",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 197,
-    "_row_size": 26,
     "id": 5526102,
     "editor_name": "5号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010004",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 198,
-    "_row_size": 26,
     "id": 5526103,
     "editor_name": "5号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010004",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 199,
-    "_row_size": 26,
     "id": 5526104,
     "editor_name": "5号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010004",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 200,
-    "_row_size": 26,
     "id": 5526201,
     "editor_name": "6号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010005",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 201,
-    "_row_size": 26,
     "id": 5526202,
     "editor_name": "6号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010005",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 202,
-    "_row_size": 26,
     "id": 5526203,
     "editor_name": "6号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010005",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 203,
-    "_row_size": 26,
     "id": 5526204,
     "editor_name": "6号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010005",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 204,
-    "_row_size": 26,
     "id": 5526301,
     "editor_name": "7号祈雨器-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010006",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 205,
-    "_row_size": 26,
     "id": 5526302,
     "editor_name": "7号祈雨器-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010006",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 206,
-    "_row_size": 26,
     "id": 5526303,
     "editor_name": "7号祈雨器-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010006",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 207,
-    "_row_size": 26,
     "id": 5526304,
     "editor_name": "7号祈雨器-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "1010006",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 208,
-    "_row_size": 26,
     "id": 5537501,
     "editor_name": "精灵展示-头顶花",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 2,
+        "interact_cond_param": [
+          "ECO_HEADFLOWER"
+        ]
+      }
+    ],
     "action_type": 10019,
     "action_param1": "SALS_TRIGGER_ON",
     "action_param2": "SALS_TRIGGER_OFF"
   },
   {
-    "_row_key": 209,
-    "_row_size": 18,
     "id": 5556001,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_COMMON"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 210,
-    "_row_size": 18,
     "id": 5556002,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 211,
-    "_row_size": 18,
     "id": 5556003,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 212,
-    "_row_size": 18,
     "id": 5556004,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 213,
-    "_row_size": 18,
     "id": 5556005,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_LIGHT"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 214,
-    "_row_size": 18,
     "id": 5556006,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 215,
-    "_row_size": 18,
     "id": 5556007,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 216,
-    "_row_size": 18,
     "id": 5556008,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DRAGON"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 217,
-    "_row_size": 18,
     "id": 5556009,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ELECTRIC"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 218,
-    "_row_size": 18,
     "id": 5556010,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 219,
-    "_row_size": 18,
     "id": 5556011,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_INSECT"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 220,
-    "_row_size": 18,
     "id": 5556012,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIGHT"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 221,
-    "_row_size": 18,
     "id": 5556013,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WING"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 222,
-    "_row_size": 18,
     "id": 5556014,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MOE"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 223,
-    "_row_size": 18,
     "id": 5556015,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GHOST"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 224,
-    "_row_size": 18,
     "id": 5556016,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_DEMON"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 225,
-    "_row_size": 18,
     "id": 5556017,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_MECHANIC"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 226,
-    "_row_size": 18,
     "id": 5556018,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_PHANTOM"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 227,
-    "_row_size": 18,
     "id": 5556019,
     "editor_name": "系别石柱测试_全系别解锁",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 228,
-    "_row_size": 18,
     "id": 5556099,
     "editor_name": "系别石柱测试",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20004
   },
   {
-    "_row_key": 229,
-    "_row_size": 30,
     "id": 6028000,
     "editor_name": "通用魔力之源解锁",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 230,
-    "_row_size": 30,
     "id": 6028001,
     "editor_name": "咸水湾魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 231,
-    "_row_size": 30,
     "id": 6028002,
     "editor_name": "沉船漩涡魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 232,
-    "_row_size": 30,
     "id": 6028003,
     "editor_name": "圣所前哨魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 233,
-    "_row_size": 30,
     "id": 6028004,
     "editor_name": "回填山涧魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 234,
-    "_row_size": 30,
     "id": 6028005,
     "editor_name": "采邑地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 235,
-    "_row_size": 30,
     "id": 6028006,
     "editor_name": "独角兽领地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 236,
-    "_row_size": 30,
     "id": 6028007,
     "editor_name": "恶水沼泽魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 237,
-    "_row_size": 30,
     "id": 6028008,
     "editor_name": "黑水峡魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 238,
-    "_row_size": 30,
     "id": 6028009,
     "editor_name": "甜水农庄魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 239,
-    "_row_size": 30,
     "id": 6028010,
     "editor_name": "咕嘟咕嘟浅滩魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 240,
-    "_row_size": 30,
     "id": 6028011,
     "editor_name": "银蛇河口魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 241,
-    "_row_size": 30,
     "id": 6028012,
     "editor_name": "王国城堡魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 242,
-    "_row_size": 30,
     "id": 6028013,
     "editor_name": "港口驻地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 243,
-    "_row_size": 30,
     "id": 6028014,
     "editor_name": "向日葵海岸魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 244,
-    "_row_size": 30,
     "id": 6028015,
     "editor_name": "彼得大道魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 245,
-    "_row_size": 30,
     "id": 6028016,
     "editor_name": "二叠山丘魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 246,
-    "_row_size": 30,
     "id": 6028017,
     "editor_name": "监管区魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 247,
-    "_row_size": 30,
     "id": 6028018,
     "editor_name": "拾荒港口魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 248,
-    "_row_size": 30,
     "id": 6028019,
     "editor_name": "晨曦山魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 249,
-    "_row_size": 30,
     "id": 6028020,
     "editor_name": "信仰者村落魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 250,
-    "_row_size": 30,
     "id": 6028021,
     "editor_name": "月兔暗港魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 251,
-    "_row_size": 30,
     "id": 6028022,
     "editor_name": "望风半岛魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 252,
-    "_row_size": 30,
     "id": 6028023,
     "editor_name": "金叶原魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 253,
-    "_row_size": 30,
     "id": 6028024,
     "editor_name": "奥贝斯坦湖魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 254,
-    "_row_size": 30,
     "id": 6028025,
     "editor_name": "月牙湖岸魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 255,
-    "_row_size": 30,
     "id": 6028026,
     "editor_name": "商店街周边魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 256,
-    "_row_size": 30,
     "id": 6028027,
     "editor_name": "聆风塔地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 257,
-    "_row_size": 30,
     "id": 6028028,
     "editor_name": "风息山口魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 258,
-    "_row_size": 30,
     "id": 6028029,
     "editor_name": "魔法学院魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 259,
-    "_row_size": 30,
     "id": 6028030,
     "editor_name": "岚语峰西侧魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 260,
-    "_row_size": 30,
     "id": 6028031,
     "editor_name": "圣羽祭台魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 261,
-    "_row_size": 30,
     "id": 6028032,
     "editor_name": "旧飞艇航道魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 262,
-    "_row_size": 30,
     "id": 6028033,
     "editor_name": "挽风屏障魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 263,
-    "_row_size": 30,
     "id": 6028034,
     "editor_name": "叽叽喳喳台地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 264,
-    "_row_size": 30,
     "id": 6028035,
     "editor_name": "轻风山魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 265,
-    "_row_size": 30,
     "id": 6028036,
     "editor_name": "风眠圣所魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 266,
-    "_row_size": 30,
     "id": 6028037,
     "editor_name": "星霜崖地魔力之源",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
     "action_type": 20001,
     "action_param1": "20001",
     "action_param2": "20002",
     "action_param3": "60280"
   },
   {
-    "_row_key": 267,
-    "_row_size": 26,
     "id": 14000101,
     "editor_name": "祈雨器_王国城堡_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10001",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 268,
-    "_row_size": 26,
     "id": 14000102,
     "editor_name": "祈雨器_王国城堡_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10001",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 269,
-    "_row_size": 26,
     "id": 14000103,
     "editor_name": "祈雨器_王国城堡_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10001",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 270,
-    "_row_size": 26,
     "id": 14000104,
     "editor_name": "祈雨器_王国城堡_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10001",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 271,
-    "_row_size": 26,
     "id": 14000201,
     "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10002",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 272,
-    "_row_size": 26,
     "id": 14000202,
     "editor_name": "祈雨器_咕嘟咕嘟浅滩_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10002",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 273,
-    "_row_size": 26,
     "id": 14000203,
     "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10002",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 274,
-    "_row_size": 26,
     "id": 14000204,
     "editor_name": "祈雨器_咕嘟咕嘟浅滩_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10002",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 275,
-    "_row_size": 26,
     "id": 14000301,
     "editor_name": "祈雨器_晨曦山_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10003",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 276,
-    "_row_size": 26,
     "id": 14000302,
     "editor_name": "祈雨器_晨曦山_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10003",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 277,
-    "_row_size": 26,
     "id": 14000303,
     "editor_name": "祈雨器_晨曦山_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10003",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 278,
-    "_row_size": 26,
     "id": 14000304,
     "editor_name": "祈雨器_晨曦山_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10003",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 279,
-    "_row_size": 26,
     "id": 14000401,
     "editor_name": "祈雨器_向日葵海岸_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10004",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 280,
-    "_row_size": 26,
     "id": 14000402,
     "editor_name": "祈雨器_向日葵海岸_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10004",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 281,
-    "_row_size": 26,
     "id": 14000403,
     "editor_name": "祈雨器_向日葵海岸_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10004",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 282,
-    "_row_size": 26,
     "id": 14000404,
     "editor_name": "祈雨器_向日葵海岸_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10004",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 283,
-    "_row_size": 26,
     "id": 14000501,
     "editor_name": "祈雨器_监管区_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10005",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 284,
-    "_row_size": 26,
     "id": 14000502,
     "editor_name": "祈雨器_监管区_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10005",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 285,
-    "_row_size": 26,
     "id": 14000503,
     "editor_name": "祈雨器_监管区_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10005",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 286,
-    "_row_size": 26,
     "id": 14000504,
     "editor_name": "祈雨器_监管区_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10005",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 287,
-    "_row_size": 26,
     "id": 14000601,
     "editor_name": "祈雨器_聆风塔地_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10006",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 288,
-    "_row_size": 26,
     "id": 14000602,
     "editor_name": "祈雨器_聆风塔地_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10006",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 289,
-    "_row_size": 26,
     "id": 14000603,
     "editor_name": "祈雨器_聆风塔地_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10006",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 290,
-    "_row_size": 26,
     "id": 14000604,
     "editor_name": "祈雨器_聆风塔地_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10006",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 291,
-    "_row_size": 26,
     "id": 14000701,
     "editor_name": "祈雨器_月牙湖岸_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10007",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 292,
-    "_row_size": 26,
     "id": 14000702,
     "editor_name": "祈雨器_月牙湖岸_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10007",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 293,
-    "_row_size": 26,
     "id": 14000703,
     "editor_name": "祈雨器_月牙湖岸_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10007",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 294,
-    "_row_size": 26,
     "id": 14000704,
     "editor_name": "祈雨器_月牙湖岸_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10007",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 295,
-    "_row_size": 26,
     "id": 14000801,
     "editor_name": "祈雨器_旧飞艇航道_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10008",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 296,
-    "_row_size": 26,
     "id": 14000802,
     "editor_name": "祈雨器_旧飞艇航道_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10008",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 297,
-    "_row_size": 26,
     "id": 14000803,
     "editor_name": "祈雨器_旧飞艇航道_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10008",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 298,
-    "_row_size": 26,
     "id": 14000804,
     "editor_name": "祈雨器_旧飞艇航道_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10008",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 299,
-    "_row_size": 26,
     "id": 14000901,
     "editor_name": "祈雨器_风眠圣所_-雨",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10009",
     "action_param2": "WT_HEAVYRAIN"
   },
   {
-    "_row_key": 300,
-    "_row_size": 26,
     "id": 14000902,
     "editor_name": "祈雨器_风眠圣所_-沙尘暴",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_STONE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10009",
     "action_param2": "WT_SANDSTORM"
   },
   {
-    "_row_key": 301,
-    "_row_size": 26,
     "id": 14000903,
     "editor_name": "祈雨器_风眠圣所_-雾",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_TOXIC"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10009",
     "action_param2": "WT_FOGGY"
   },
   {
-    "_row_key": 302,
-    "_row_size": 26,
     "id": 14000904,
     "editor_name": "祈雨器_风眠圣所_-雪",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_ICE"
+        ]
+      }
+    ],
     "action_type": 20011,
     "action_param1": "10009",
     "action_param2": "WT_SNOW"
   },
   {
-    "_row_key": 303,
-    "_row_size": 18,
     "id": 80124301,
     "editor_name": "检查火系",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      }
+    ],
     "action_type": 10019
   },
   {
-    "_row_key": 304,
-    "_row_size": 18,
     "id": 80124302,
     "editor_name": "检查草系",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_GRASS"
+        ]
+      }
+    ],
     "action_type": 10019
   },
   {
-    "_row_key": 305,
-    "_row_size": 18,
     "id": 80124303,
     "editor_name": "检查水系",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 10019
   },
   {
-    "_row_key": 306,
-    "_row_size": 18,
     "id": 540000001,
     "editor_name": "天气预告-水",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_WATER"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 307,
-    "_row_size": 18,
     "id": 540000002,
     "editor_name": "精灵展示-雪绒鸟",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3281"
+        ]
+      }
+    ],
     "action_type": 10135
   },
   {
-    "_row_key": 308,
-    "_row_size": 22,
     "id": 540000003,
     "editor_name": "精灵展示-小夜",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3142"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 309,
-    "_row_size": 22,
     "id": 540000004,
     "editor_name": "精灵展示-异色乌拉塔",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3541"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 310,
-    "_row_size": 22,
     "id": 540000005,
     "editor_name": "精灵展示-幽冥眼睁开眼睛",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3405"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 311,
-    "_row_size": 22,
     "id": 540000006,
     "editor_name": "精灵展示-脆筒甜甜",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3124"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 312,
-    "_row_size": 22,
     "id": 540000007,
     "editor_name": "精灵展示-绿草精灵",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3026"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 313,
-    "_row_size": 22,
     "id": 540000008,
     "editor_name": "精灵展示-帅帅魔偶",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3430"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 314,
-    "_row_size": 22,
     "id": 540000009,
     "editor_name": "精灵展示-流浪鼠",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3256"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 315,
-    "_row_size": 22,
     "id": 540000010,
     "editor_name": "精灵展示-尖嘴狐仙",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3077"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 316,
-    "_row_size": 22,
     "id": 540000011,
     "editor_name": "精灵展示-鳗尾兽",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3507"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 317,
-    "_row_size": 22,
     "id": 540000012,
     "editor_name": "精灵展示-水泡壳",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3057"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 318,
-    "_row_size": 22,
     "id": 540000013,
     "editor_name": "精灵展示-爵士鹿",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3359"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 319,
-    "_row_size": 22,
     "id": 540000014,
     "editor_name": "精灵展示-花衣蝶",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3141"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 320,
-    "_row_size": 22,
     "id": 540000015,
     "editor_name": "精灵展示-荆棘电环",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3197"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 321,
-    "_row_size": 22,
     "id": 540000016,
     "editor_name": "精灵展示-书魔虫",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 7,
+        "interact_cond_param": [
+          "3215"
+        ]
+      }
+    ],
     "action_type": 10135,
     "action_param1": "1"
   },
   {
-    "_row_key": 322,
-    "_row_size": 22,
     "id": 550000001,
     "editor_name": "精灵冲撞巨大黄石榴石",
-    "interact_cond_group": [],
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "180000"
+        ]
+      }
+    ],
     "action_type": 10016,
     "action_param1": "550000002"
   }

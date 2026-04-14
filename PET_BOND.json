@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 55,
     "id": 101,
     "period_weight": [
       30,
@@ -31,26 +29,126 @@
     ],
     "bond_random": [
       {
-        "type": 23,
+        "type": 2,
         "weight": [
-          1008,
-          15104,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 10000
   },
   {
-    "_row_key": 2,
-    "_row_size": 55,
     "id": 102,
     "period_weight": [
       30,
@@ -80,26 +178,126 @@
     ],
     "bond_random": [
       {
-        "type": 23,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "required_interact_count": [
-          1264,
-          15104,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 10000
   },
   {
-    "_row_key": 3,
-    "_row_size": 55,
     "id": 201,
     "period_weight": [
       30,
@@ -129,26 +327,126 @@
     ],
     "bond_random": [
       {
-        "type": 23,
+        "type": 2,
         "weight": [
-          1008,
-          15104,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 10000
   },
   {
-    "_row_key": 4,
-    "_row_size": 55,
     "id": 202,
     "period_weight": [
       30,
@@ -178,26 +476,126 @@
     ],
     "bond_random": [
       {
-        "type": 23,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
         "required_interact_count": [
-          1264,
-          15104,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 10000
   },
   {
-    "_row_key": 5,
-    "_row_size": 55,
     "id": 301,
     "period_weight": [
       10,
@@ -229,26 +627,126 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          17408,
-          17664
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          17920,
-          18176
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 1300
   },
   {
-    "_row_key": 6,
-    "_row_size": 55,
     "id": 302,
     "period_weight": [
       10,
@@ -280,26 +778,126 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          17920,
-          17664
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          17408,
-          18176
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          2,
+          2,
+          2,
+          2,
+          2,
+          2
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 1300
   },
   {
-    "_row_key": 7,
-    "_row_size": 55,
     "id": 401,
     "period_weight": [
       10,
@@ -331,26 +929,126 @@
     ],
     "bond_random": [
       {
-        "type": 41,
+        "type": 2,
         "weight": [
-          1008,
-          18432,
-          14848
+          30,
+          30,
+          30,
+          30,
+          30,
+          30
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 6200
   },
   {
-    "_row_key": 8,
-    "_row_size": 55,
     "id": 402,
     "period_weight": [
       10,
@@ -382,26 +1080,126 @@
     ],
     "bond_random": [
       {
-        "type": 41,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          30,
+          30,
+          30,
+          30,
+          30,
+          30
         ],
         "required_interact_count": [
-          1264,
-          18432,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 6200
   },
   {
-    "_row_key": 9,
-    "_row_size": 55,
     "id": 501,
     "period_weight": [
       10,
@@ -433,26 +1231,126 @@
     ],
     "bond_random": [
       {
-        "type": 45,
+        "type": 2,
         "weight": [
-          1008,
-          19200,
-          14848
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 6200
   },
   {
-    "_row_key": 10,
-    "_row_size": 55,
     "id": 502,
     "period_weight": [
       10,
@@ -484,26 +1382,126 @@
     ],
     "bond_random": [
       {
-        "type": 45,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
         ],
         "required_interact_count": [
-          1264,
-          19200,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          30,
+          30,
+          30,
+          30,
+          30,
+          30
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 6200
   },
   {
-    "_row_key": 11,
-    "_row_size": 55,
     "id": 601,
     "period_weight": [
       10,
@@ -535,26 +1533,126 @@
     ],
     "bond_random": [
       {
-        "type": 50,
+        "type": 2,
         "weight": [
-          1008,
-          15616,
-          14848
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 3600
   },
   {
-    "_row_key": 12,
-    "_row_size": 55,
     "id": 602,
     "period_weight": [
       10,
@@ -586,26 +1684,126 @@
     ],
     "bond_random": [
       {
-        "type": 50,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
         ],
         "required_interact_count": [
-          1264,
-          15616,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 3600
   },
   {
-    "_row_key": 13,
-    "_row_size": 55,
     "id": 603,
     "period_weight": [
       10,
@@ -637,26 +1835,126 @@
     ],
     "bond_random": [
       {
-        "type": 50,
+        "type": 2,
         "weight": [
-          1008,
-          15616,
-          14848
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
         ],
         "required_interact_count": [
-          1264,
-          15616,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 3600
   },
   {
-    "_row_key": 14,
-    "_row_size": 55,
     "id": 701,
     "period_weight": [
       10,
@@ -688,26 +1986,126 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          15616,
-          14848
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          15360,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 3600
   },
   {
-    "_row_key": 15,
-    "_row_size": 55,
     "id": 702,
     "period_weight": [
       10,
@@ -739,26 +2137,126 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          15360,
-          14848
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          15616,
-          14848
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          40,
+          40,
+          40,
+          40,
+          40,
+          40
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          10,
+          10,
+          10,
+          10,
+          10
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 3600
   },
   {
-    "_row_key": 16,
-    "_row_size": 55,
     "id": 801,
     "period_weight": [
       10,
@@ -790,26 +2288,126 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          17408,
-          17664
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          17920,
-          20224
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 1300
   },
   {
-    "_row_key": 17,
-    "_row_size": 55,
     "id": 802,
     "period_weight": [
       10,
@@ -841,20 +2439,122 @@
     ],
     "bond_random": [
       {
-        "type": 33,
+        "type": 2,
         "weight": [
-          1008,
-          17920,
-          17664
+          50,
+          50,
+          50,
+          50,
+          50,
+          50
         ],
         "required_interact_count": [
-          1264,
-          17408,
-          20224
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "type": 3,
+        "weight": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          10,
+          10,
+          10,
+          10,
+          10,
+          10
+        ]
+      },
+      {
+        "type": 4,
+        "weight": [
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "required_interact_count": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      {
+        "type": 5,
+        "weight": [
+          20,
+          20,
+          20,
+          20,
+          20,
+          20
+        ],
+        "required_interact_count": [
+          5,
+          5,
+          5,
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "type": 9,
+        "weight": [
+          0,
+          5,
+          5,
+          5,
+          5,
+          5
+        ],
+        "required_interact_count": [
+          0,
+          3,
+          0,
+          0,
+          0,
+          0
         ]
       }
     ],
-    "find_random": [],
+    "find_random": [
+      {
+        "find_type": 18,
+        "find_weight": [
+          100,
+          100,
+          100,
+          100,
+          100,
+          100
+        ],
+        "required_interact_count": [
+          3,
+          3,
+          3,
+          3,
+          3,
+          3
+        ]
+      }
+    ],
     "base_friendly_param_value": 55,
     "close_exp_retio": 1300
   }

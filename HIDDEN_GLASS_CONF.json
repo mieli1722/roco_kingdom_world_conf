@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 149,
     "id": 1,
     "name": "<span color=\"#eebf31\">暗夜拾光</>",
     "type": 2,
@@ -10,45 +8,45 @@
     "season_pet": 3182,
     "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'",
     "glass_color_1": [
-      0.07000000029802322,
-      0.029999999329447746,
-      0.15000000596046448,
+      0.07,
+      0.03,
+      0.15,
       1.0
     ],
     "glass_color_2": [
-      0.8999999761581421,
-      0.8199999928474426,
-      0.30000001192092896,
+      0.9,
+      0.82,
+      0.3,
       1.0
     ],
     "Effect_Amount": 0.5,
     "star_intensity": 1,
     "global_refraction": 2.0,
-    "tex_flow_speed_x": 0.10000000149011612,
-    "tex_flow_speed_y": 0.10000000149011612,
+    "tex_flow_speed_x": 0.1,
+    "tex_flow_speed_y": 0.1,
     "particle": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStarS1_001.Tex_PetGlassyStarS1_001'",
     "particle_color_1": [
       1.0,
       0.0,
-      0.699999988079071,
+      0.7,
       1.0
     ],
     "particle_color_2": [
-      0.4000000059604645,
+      0.4,
       0.0,
       1.0,
       1.0
     ],
     "particle_color_3": [
-      0.4000000059604645,
-      0.41999998688697815,
+      0.4,
+      0.42,
       1.0,
       1.0
     ],
     "particle_color_4": [
       1.0,
-      0.949999988079071,
-      0.44999998807907104,
+      0.95,
+      0.45,
       1.0
     ],
     "ball_fx": "S1",
@@ -70,27 +68,25 @@
     "global_depth": 100
   },
   {
-    "_row_key": 2,
-    "_row_size": 125,
     "id": 1000,
     "name": "<span color=\"#f4eee1\">黑白</>",
     "type": 1,
     "weight": 100,
     "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseHB_003.T_PetGlassyNoiseHB_003'",
     "glass_color_1": [
-      0.6000000238418579,
-      0.6000000238418579,
-      0.6000000238418579,
+      0.6,
+      0.6,
+      0.6,
       1.0
     ],
     "glass_color_2": [
-      0.014999999664723873,
-      0.014999999664723873,
-      0.014999999664723873,
+      0.015,
+      0.015,
+      0.015,
       1.0
     ],
-    "global_refraction": 1.100000023841858,
-    "tex_flow_speed_y": 0.10000000149011612,
+    "global_refraction": 1.1,
+    "tex_flow_speed_y": 0.1,
     "particle": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStar_005.Tex_PetGlassyStar_005'",
     "particle_color_2": [
       1.0,
@@ -105,9 +101,9 @@
       1.0
     ],
     "particle_color_4": [
-      0.009999999776482582,
-      0.009999999776482582,
-      0.009999999776482582,
+      0.01,
+      0.01,
+      0.01,
       1.0
     ],
     "ball_fx": "BW",

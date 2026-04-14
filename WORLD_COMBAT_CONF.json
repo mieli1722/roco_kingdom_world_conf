@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 44,
     "id": 1,
     "npc_id": 53005,
     "refresh_content_id": 30300501,
@@ -13,22 +11,20 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 52,
     "id": 2,
     "npc_id": 65497,
     "refresh_content_id": 1200899,
@@ -41,14 +37,12 @@
     "finish_type": 1,
     "option": [
       {
-        "stage_shield": 144
+        "stage_shield": 30012
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Common"
   },
   {
-    "_row_key": 3,
-    "_row_size": 60,
     "id": 3,
     "npc_id": 65132,
     "refresh_content_id": 2301029,
@@ -62,24 +56,27 @@
     "min_battle_distance": 14,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Common",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 84,
     "id": 4,
     "npc_id": 65517,
     "refresh_content_id": 1200805,
@@ -97,16 +94,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "reward_refresh_content_id": 30302034,
@@ -116,11 +113,14 @@
       67003,
       67004
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 84,
     "id": 5,
     "npc_id": 65518,
     "refresh_content_id": 1200806,
@@ -138,16 +138,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "reward_refresh_content_id": 30302038,
@@ -156,11 +156,14 @@
       67000,
       67001
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 6,
-    "_row_size": 88,
     "id": 6,
     "npc_id": 65514,
     "refresh_content_id": 1200807,
@@ -178,16 +181,16 @@
     "min_battle_distance": 10,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "reward_refresh_content_id": 30302039,
@@ -197,11 +200,14 @@
       65555
     ],
     "prompt_banner": "worldcombat_tips_huakuifenghou",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 7,
-    "_row_size": 84,
     "id": 7,
     "npc_id": 65515,
     "refresh_content_id": 1200808,
@@ -219,16 +225,16 @@
     "min_battle_distance": 9,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "reward_refresh_content_id": 30302030,
@@ -237,11 +243,14 @@
       65557,
       65558
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone38)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 8,
-    "_row_size": 84,
     "id": 8,
     "npc_id": 65516,
     "refresh_content_id": 1200809,
@@ -259,16 +268,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "reward_refresh_content_id": 30302036,
@@ -276,11 +285,14 @@
     "preloading_npc": [
       67008
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_KaiJia01",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 9,
-    "_row_size": 88,
     "id": 9,
     "npc_id": 120017,
     "refresh_content_id": 1200811,
@@ -298,16 +310,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 150
+        "stage_shield": 50064
       },
       {
-        "stage_shield": 150
+        "stage_shield": 50064
       },
       {
-        "stage_shield": 150
+        "stage_shield": 50064
       },
       {
-        "stage_shield": 150
+        "stage_shield": 50064
       }
     ],
     "reward_refresh_content_id": 30302041,
@@ -315,12 +327,15 @@
     "preloading_npc": [
       120018
     ],
-    "boss_weakness_group": [],
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ],
     "hit_anim_alpha": 10
   },
   {
-    "_row_key": 10,
-    "_row_size": 52,
     "id": 10,
     "npc_id": 53005,
     "refresh_content_id": 1200819,
@@ -333,23 +348,21 @@
     "min_battle_distance": 30,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;YiLiSi"
   },
   {
-    "_row_key": 11,
-    "_row_size": 88,
     "id": 11,
     "npc_id": 120012,
     "refresh_content_id": 1200820,
@@ -367,16 +380,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "reward_refresh_content_id": 30302037,
@@ -385,11 +398,14 @@
       120021
     ],
     "prompt_banner": "worldcombat_tips_xueyingwawa",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Head)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 72,
     "id": 12,
     "npc_id": 65516,
     "refresh_content_id": 1600251,
@@ -406,16 +422,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Common",
@@ -424,8 +440,6 @@
     ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 61,
     "id": 13,
     "npc_id": 53023,
     "refresh_content_id": 1200860,
@@ -439,16 +453,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -459,11 +473,14 @@
       67010,
       67011
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 14,
-    "_row_size": 61,
     "id": 14,
     "npc_id": 53026,
     "refresh_content_id": 1200861,
@@ -478,24 +495,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 15,
-    "_row_size": 57,
     "id": 15,
     "npc_id": 53027,
     "refresh_content_id": 1000730,
@@ -509,24 +529,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 16,
-    "_row_size": 57,
     "id": 16,
     "npc_id": 53028,
     "refresh_content_id": 1000733,
@@ -540,24 +563,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 17,
-    "_row_size": 65,
     "id": 17,
     "npc_id": 53029,
     "refresh_content_id": 1000734,
@@ -572,16 +598,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -589,11 +615,14 @@
       67033,
       67034
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone38)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 18,
-    "_row_size": 61,
     "id": 18,
     "npc_id": 53030,
     "refresh_content_id": 1000729,
@@ -607,27 +636,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Head)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 84,
     "id": 19,
     "npc_id": 53034,
     "refresh_content_id": 1001080,
@@ -645,16 +677,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "reward_refresh_content_id": 30302045,
@@ -664,11 +696,14 @@
       67028,
       67029
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_Head_001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 80,
     "id": 20,
     "npc_id": 53035,
     "refresh_content_id": 1001081,
@@ -686,25 +721,28 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "reward_refresh_content_id": 30302043,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 21,
-    "_row_size": 88,
     "id": 21,
     "npc_id": 53036,
     "refresh_content_id": 1001082,
@@ -722,16 +760,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 154
+        "stage_shield": 50061
       },
       {
-        "stage_shield": 154
+        "stage_shield": 50061
       },
       {
-        "stage_shield": 154
+        "stage_shield": 50061
       },
       {
-        "stage_shield": 154
+        "stage_shield": 50061
       }
     ],
     "reward_refresh_content_id": 30302046,
@@ -750,11 +788,14 @@
       120022
     ],
     "prompt_banner": "worldcombat_tips_qiqibixia",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone_M_Head01)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 84,
     "id": 22,
     "npc_id": 53037,
     "refresh_content_id": 1001083,
@@ -772,16 +813,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "reward_refresh_content_id": 30302029,
@@ -790,11 +831,14 @@
       67005,
       67006
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 88,
     "id": 23,
     "npc_id": 53038,
     "refresh_content_id": 1001084,
@@ -813,16 +857,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "reward_refresh_content_id": 30302031,
@@ -830,11 +874,14 @@
     "preloading_npc": [
       67035
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 84,
     "id": 24,
     "npc_id": 53039,
     "refresh_content_id": 1001085,
@@ -852,16 +899,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "reward_refresh_content_id": 30302044,
@@ -869,11 +916,14 @@
     "preloading_npc": [
       120006
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 88,
     "id": 25,
     "npc_id": 53040,
     "refresh_content_id": 1001086,
@@ -891,16 +941,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "reward_refresh_content_id": 30302042,
@@ -910,11 +960,14 @@
       65574
     ],
     "prompt_banner": "worldcombat_tips_youyingshu",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 88,
     "id": 26,
     "npc_id": 53041,
     "refresh_content_id": 1001087,
@@ -932,16 +985,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "reward_refresh_content_id": 30302040,
@@ -950,11 +1003,14 @@
       65571
     ],
     "prompt_banner": "worldcombat_tips_emolang",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 88,
     "id": 27,
     "npc_id": 53042,
     "refresh_content_id": 1001088,
@@ -973,16 +1029,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "reward_refresh_content_id": 30302035,
@@ -990,11 +1046,14 @@
     "preloading_npc": [
       120011
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_PengZhuang",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 88,
     "id": 28,
     "npc_id": 53043,
     "refresh_content_id": 1001089,
@@ -1012,16 +1071,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "reward_refresh_content_id": 30302032,
@@ -1031,11 +1090,14 @@
       65572
     ],
     "prompt_banner": "worldcombat_tips_qimengmi",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 61,
     "id": 29,
     "npc_id": 53044,
     "refresh_content_id": 1001584,
@@ -1049,27 +1111,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Head)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 61,
     "id": 30,
     "npc_id": 53045,
     "refresh_content_id": 1001585,
@@ -1083,27 +1148,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       },
       {
-        "stage_shield": 147
+        "stage_shield": 50057
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Head)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 61,
     "id": 31,
     "npc_id": 53046,
     "refresh_content_id": 1001593,
@@ -1117,16 +1185,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1134,11 +1202,14 @@
       67033,
       67034
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone38)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 61,
     "id": 32,
     "npc_id": 53047,
     "refresh_content_id": 1001594,
@@ -1152,16 +1223,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1169,11 +1240,14 @@
       67033,
       67034
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone38)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 33,
-    "_row_size": 57,
     "id": 33,
     "npc_id": 53048,
     "refresh_content_id": 1001600,
@@ -1187,24 +1261,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 34,
-    "_row_size": 57,
     "id": 34,
     "npc_id": 53049,
     "refresh_content_id": 1001601,
@@ -1218,24 +1295,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 61,
     "id": 35,
     "npc_id": 53053,
     "refresh_content_id": 1001612,
@@ -1249,16 +1329,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1266,11 +1346,14 @@
       67018,
       67020
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_KaiJia01",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 61,
     "id": 36,
     "npc_id": 53054,
     "refresh_content_id": 1001613,
@@ -1284,16 +1367,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1301,11 +1384,14 @@
       67018,
       67020
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_KaiJia01",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 61,
     "id": 37,
     "npc_id": 53055,
     "refresh_content_id": 1001614,
@@ -1319,16 +1405,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1336,11 +1422,14 @@
       67018,
       67020
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_KaiJia01",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 57,
     "id": 38,
     "npc_id": 53056,
     "refresh_content_id": 1001623,
@@ -1354,24 +1443,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 39,
-    "_row_size": 57,
     "id": 39,
     "npc_id": 53057,
     "refresh_content_id": 1001624,
@@ -1385,24 +1477,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 57,
     "id": 40,
     "npc_id": 53058,
     "refresh_content_id": 1001625,
@@ -1416,24 +1511,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone001",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 41,
-    "_row_size": 61,
     "id": 41,
     "npc_id": 53059,
     "refresh_content_id": 1001634,
@@ -1447,16 +1545,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1466,11 +1564,14 @@
       67025,
       67026
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 42,
-    "_row_size": 61,
     "id": 42,
     "npc_id": 53060,
     "refresh_content_id": 1001635,
@@ -1484,16 +1585,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1503,11 +1604,14 @@
       67025,
       67026
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 43,
-    "_row_size": 61,
     "id": 43,
     "npc_id": 53061,
     "refresh_content_id": 1001636,
@@ -1521,16 +1625,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1540,11 +1644,14 @@
       67025,
       67026
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 44,
-    "_row_size": 61,
     "id": 44,
     "npc_id": 53062,
     "refresh_content_id": 1001645,
@@ -1558,27 +1665,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 61,
     "id": 45,
     "npc_id": 53063,
     "refresh_content_id": 1001646,
@@ -1592,27 +1702,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 61,
     "id": 46,
     "npc_id": 53064,
     "refresh_content_id": 1001647,
@@ -1626,27 +1739,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 61,
     "id": 47,
     "npc_id": 53050,
     "refresh_content_id": 1001656,
@@ -1660,16 +1776,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1677,11 +1793,14 @@
       67010,
       67011
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 61,
     "id": 48,
     "npc_id": 53051,
     "refresh_content_id": 1001657,
@@ -1695,16 +1814,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1712,11 +1831,14 @@
       67010,
       67011
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 61,
     "id": 49,
     "npc_id": 53052,
     "refresh_content_id": 1001658,
@@ -1730,16 +1852,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1747,11 +1869,14 @@
       67010,
       67011
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 57,
     "id": 50,
     "npc_id": 53065,
     "refresh_content_id": 1001667,
@@ -1765,24 +1890,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 57,
     "id": 51,
     "npc_id": 53066,
     "refresh_content_id": 1001668,
@@ -1796,24 +1924,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 57,
     "id": 52,
     "npc_id": 53067,
     "refresh_content_id": 1001669,
@@ -1827,24 +1958,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 53,
-    "_row_size": 84,
     "id": 53,
     "npc_id": 120015,
     "refresh_content_id": 1001686,
@@ -1862,16 +1996,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "reward_refresh_content_id": 30302033,
@@ -1880,11 +2014,14 @@
       67016,
       67017
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 73,
     "id": 54,
     "npc_id": 20605,
     "refresh_content_id": 4300072,
@@ -1901,27 +2038,30 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;QiuKa",
     "preloading_npc": [
       120020
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 77,
     "id": 59,
     "npc_id": 120043,
     "refresh_content_id": 31000051,
@@ -1938,16 +2078,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1955,11 +2095,14 @@
       67037
     ],
     "prompt_banner": "worldcombat_tips_huakuifenghou",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 56,
-    "_row_size": 73,
     "id": 60,
     "npc_id": 120044,
     "refresh_content_id": 31000052,
@@ -1976,16 +2119,16 @@
     "min_battle_distance": 9,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -1993,11 +2136,14 @@
       67033,
       67034
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bone38)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 73,
     "id": 61,
     "npc_id": 120045,
     "refresh_content_id": 31000053,
@@ -2014,16 +2160,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
@@ -2031,11 +2177,14 @@
       67018,
       67020
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_M_KaiJia01",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 64,
     "id": 62,
     "npc_id": 65596,
     "refresh_content_id": 1002626,
@@ -2050,24 +2199,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 59,
-    "_row_size": 64,
     "id": 63,
     "npc_id": 65597,
     "refresh_content_id": 1002627,
@@ -2082,24 +2234,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone008",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 64,
     "id": 64,
     "npc_id": 65598,
     "refresh_content_id": 1002628,
@@ -2114,24 +2269,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       },
       {
-        "stage_shield": 146
+        "stage_shield": 50059
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 56,
     "id": 800,
     "npc_id": 670001,
     "refresh_content_id": 2400540,
@@ -2144,24 +2302,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 62,
-    "_row_size": 56,
     "id": 801,
     "npc_id": 670002,
     "refresh_content_id": 2400563,
@@ -2174,24 +2335,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 63,
-    "_row_size": 56,
     "id": 802,
     "npc_id": 670003,
     "refresh_content_id": 2400564,
@@ -2204,24 +2368,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 64,
-    "_row_size": 56,
     "id": 803,
     "npc_id": 670004,
     "refresh_content_id": 2400565,
@@ -2234,24 +2401,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bip001-Head",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 56,
     "id": 804,
     "npc_id": 670005,
     "refresh_content_id": 2400570,
@@ -2264,24 +2434,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 66,
-    "_row_size": 56,
     "id": 805,
     "npc_id": 670006,
     "refresh_content_id": 2400571,
@@ -2294,24 +2467,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 67,
-    "_row_size": 56,
     "id": 806,
     "npc_id": 670007,
     "refresh_content_id": 2400572,
@@ -2324,24 +2500,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 68,
-    "_row_size": 56,
     "id": 807,
     "npc_id": 670008,
     "refresh_content_id": 2400573,
@@ -2354,24 +2533,27 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       },
       {
-        "stage_shield": 156
+        "stage_shield": 50060
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "(Bip001-Spine)",
+        "weakness_ratio": 200
+      }
+    ]
   },
   {
-    "_row_key": 69,
-    "_row_size": 56,
     "id": 8000,
     "npc_id": 190101,
     "refresh_content_id": 29000101,
@@ -2383,16 +2565,16 @@
     "min_battle_distance": 20,
     "option": [
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       },
       {
-        "stage_shield": 143
+        "stage_shield": 50058
       }
     ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
@@ -2401,6 +2583,11 @@
       67028,
       67029
     ],
-    "boss_weakness_group": []
+    "boss_weakness_group": [
+      {
+        "boss_weakness": "Bone_Head_01",
+        "weakness_ratio": 200
+      }
+    ]
   }
 ]

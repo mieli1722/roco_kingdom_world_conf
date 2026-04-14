@@ -1,55 +1,41 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 17,
     "id": 1,
     "key": "bp_buy_level_goods_shop_id",
     "editor_name": "BP中购买等级所对应的商品 id",
     "num": 900001
   },
   {
-    "_row_key": 2,
-    "_row_size": 17,
     "id": 2,
     "key": "bp_quick_buy_level_unit",
     "editor_name": "BP快捷购买等级的单位",
     "num": 5
   },
   {
-    "_row_key": 3,
-    "_row_size": 17,
     "id": 3,
     "key": "max_bp_exp_per_week",
     "editor_name": "BP每周可获取经验上限",
     "num": 20000
   },
   {
-    "_row_key": 4,
-    "_row_size": 17,
     "id": 4,
     "key": "BP_close_protect",
     "editor_name": "BP礼包购买渠道关闭时间，单位为小时，意为距离BP结束前X小时关闭礼包购买。",
     "num": 48
   },
   {
-    "_row_key": 5,
-    "_row_size": 17,
     "id": 5,
     "key": "BP_max_level_protect",
     "editor_name": "BP等级保护上限",
     "num": 100
   },
   {
-    "_row_key": 6,
-    "_row_size": 17,
     "id": 6,
     "key": "EUT_DIAMOND_USE_COUPON",
     "editor_name": "洛克钻兑换愿望果核",
     "num": 90000000
   },
   {
-    "_row_key": 7,
-    "_row_size": 17,
     "id": 7,
     "key": "buy_num_limit",
     "editor_name": "统一购买数量上限（防止乘以单价后总价溢出21e），超高单价商品通过限购数量控制",

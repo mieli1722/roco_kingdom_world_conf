@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 38,
     "id": 1,
     "sort_id": 1000001,
     "displayName": "洛克贝",
@@ -10,11 +8,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/1_min.1_min'",
     "item_quality": 3,
     "type_desc": "通用货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "探险回顾获得"
+      }
+    ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 34,
     "id": 2,
     "sort_id": 3,
     "displayName": "洛克钻",
@@ -25,8 +25,6 @@
     "type_desc": "珍稀货币"
   },
   {
-    "_row_key": 3,
-    "_row_size": 38,
     "id": 3,
     "sort_id": 2,
     "displayName": "许愿星",
@@ -35,11 +33,19 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100870.100870'",
     "item_quality": 5,
     "type_desc": "珍稀货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "捕捉精灵并凝取星光"
+      },
+      {
+        "acquire_way_text": "世界精灵图鉴成就奖励"
+      },
+      {
+        "acquire_way_text": "收集眠枭之星获得"
+      }
+    ]
   },
   {
-    "_row_key": 4,
-    "_row_size": 38,
     "id": 40,
     "sort_id": 4,
     "displayName": "积分卡",
@@ -48,11 +54,15 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
     "item_quality": 5,
     "type_desc": "珍稀货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "珍稀道具城购买",
+        "text": "ShopModuleCmd.OpenMainPanel",
+        "param3": "MT_CREDIT"
+      }
+    ]
   },
   {
-    "_row_key": 5,
-    "_row_size": 23,
     "id": 4,
     "displayName": "体力",
     "discription": "战斗需要消耗的体力值。",
@@ -61,24 +71,18 @@
     "is_hidetips": true
   },
   {
-    "_row_key": 6,
-    "_row_size": 15,
     "id": 13,
     "displayName": "魔力",
     "discription": "魔力",
     "is_hidetips": true
   },
   {
-    "_row_key": 7,
-    "_row_size": 15,
     "id": 15,
     "displayName": "恢复瓶使用次数",
     "discription": "恢复瓶使用次数。",
     "is_hidetips": true
   },
   {
-    "_row_key": 8,
-    "_row_size": 34,
     "id": 7,
     "sort_id": 1,
     "displayName": "魔法经验",
@@ -89,8 +93,6 @@
     "type_desc": "魔法经验"
   },
   {
-    "_row_key": 9,
-    "_row_size": 38,
     "id": 70,
     "sort_id": 1000101,
     "displayName": "独角银币",
@@ -99,11 +101,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100051.100051'",
     "item_quality": 4,
     "type_desc": "地区货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "风眠省探索获得"
+      }
+    ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 34,
     "id": 16,
     "sort_id": 1000201,
     "displayName": "契约印记",
@@ -114,8 +118,6 @@
     "type_desc": "消耗品"
   },
   {
-    "_row_key": 11,
-    "_row_size": 38,
     "id": 18,
     "sort_id": 1000301,
     "displayName": "拾光代币",
@@ -124,27 +126,31 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100878.100878'",
     "item_quality": 4,
     "type_desc": "赛季货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季露天对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
   },
   {
-    "_row_key": 12,
-    "_row_size": 18,
     "id": 21,
     "displayName": "法定货币",
     "bigIcon": "PaperSprite'/Game/NewRoco/Modules/System/Shop/ShopStatic/Frames/img_RMB_png.img_RMB_png'",
     "iconPath": "PaperSprite'/Game/NewRoco/Modules/System/Shop/ShopStatic/Frames/img_Price_png.img_Price_png"
   },
   {
-    "_row_key": 13,
-    "_row_size": 18,
     "id": 22,
     "displayName": "学院月度补助",
     "discription": "魔法学院提供给小洛克的补助，按天发放。",
     "type_desc": "月卡"
   },
   {
-    "_row_key": 14,
-    "_row_size": 30,
     "id": 23,
     "sort_id": 1000501,
     "displayName": "热力勋印",
@@ -154,8 +160,6 @@
     "item_quality": 4
   },
   {
-    "_row_key": 15,
-    "_row_size": 30,
     "id": 25,
     "sort_id": 1000502,
     "displayName": "热力勋印",
@@ -165,56 +169,42 @@
     "item_quality": 4
   },
   {
-    "_row_key": 16,
-    "_row_size": 18,
     "id": 26,
     "displayName": "生命奋斗经验",
     "item_quality": 4,
     "type_desc": "生命奋斗经验"
   },
   {
-    "_row_key": 17,
-    "_row_size": 18,
     "id": 27,
     "displayName": "物攻奋斗经验",
     "item_quality": 4,
     "type_desc": "物攻奋斗经验"
   },
   {
-    "_row_key": 18,
-    "_row_size": 18,
     "id": 28,
     "displayName": "魔攻奋斗经验",
     "item_quality": 4,
     "type_desc": "魔攻奋斗经验"
   },
   {
-    "_row_key": 19,
-    "_row_size": 18,
     "id": 29,
     "displayName": "物防奋斗经验",
     "item_quality": 4,
     "type_desc": "物防奋斗经验"
   },
   {
-    "_row_key": 20,
-    "_row_size": 18,
     "id": 30,
     "displayName": "魔防奋斗经验",
     "item_quality": 4,
     "type_desc": "魔防奋斗经验"
   },
   {
-    "_row_key": 21,
-    "_row_size": 18,
     "id": 31,
     "displayName": "速度奋斗经验",
     "item_quality": 4,
     "type_desc": "速度奋斗经验"
   },
   {
-    "_row_key": 22,
-    "_row_size": 22,
     "id": 32,
     "displayName": "调查线索",
     "discription": "调查任务奖励。",
@@ -222,8 +212,6 @@
     "type_desc": "调查任务奖励"
   },
   {
-    "_row_key": 23,
-    "_row_size": 38,
     "id": 33,
     "sort_id": 1000302,
     "displayName": "异核余辉",
@@ -232,11 +220,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100009.100009'",
     "item_quality": 5,
     "type_desc": "商城货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "传说精灵挑战获得"
+      }
+    ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 38,
     "id": 35,
     "sort_id": 1000303,
     "displayName": "凝练印记",
@@ -245,11 +235,14 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/17.17'",
     "item_quality": 5,
     "type_desc": "消耗品",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "炼金造物获得",
+        "text": "BigMapModuleCmd.OnTraceNearUnLockAlchemyNpc"
+      }
+    ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 38,
     "id": 71,
     "sort_id": 1000102,
     "displayName": "王国徽记",
@@ -258,11 +251,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100811.100811'",
     "item_quality": 4,
     "type_desc": "地区货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "洛克里安探索获得"
+      }
+    ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 38,
     "id": 41,
     "sort_id": 1000103,
     "displayName": "绩点",
@@ -271,11 +266,16 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100842.100842'",
     "item_quality": 4,
     "type_desc": "地区货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成魔法学院主线、拾遗任务获得"
+      },
+      {
+        "acquire_way_text": "完成绩点大赛活动获得"
+      }
+    ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 34,
     "id": 72,
     "sort_id": 1000104,
     "displayName": "魔法羽毛",
@@ -283,11 +283,13 @@
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100810.100810'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100810.100810'",
     "type_desc": "地区货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "魔法学院探索获得"
+      }
+    ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 34,
     "id": 43,
     "displayName": "闪闪翎羽",
     "discription": "在洛克里安魔力同盟之间流通的货币。\n可以在白银骑士团、月兔酒馆、工匠协会以及福尔摩卡侦探社的阵营商店中消费。\n据说，以猫头鹰们换下的羽毛作为货币，这一传统承袭自魔法学院。",
@@ -295,11 +297,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100810.100810'",
     "item_quality": 4,
     "type_desc": "阵营货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "阵营任务获得"
+      }
+    ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 38,
     "id": 44,
     "sort_id": 1000401,
     "displayName": "打造灵感",
@@ -308,11 +312,16 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100836.100836'",
     "item_quality": 5,
     "type_desc": "打造家具",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "喂养精灵获得"
+      },
+      {
+        "acquire_way_text": "家具分解获得"
+      }
+    ]
   },
   {
-    "_row_key": 30,
-    "_row_size": 38,
     "id": 45,
     "sort_id": 1000402,
     "displayName": "家园经验",
@@ -321,11 +330,16 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100837.100837'",
     "item_quality": 5,
     "type_desc": "家园等级",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "种植获得"
+      },
+      {
+        "acquire_way_text": "喂养精灵获得"
+      }
+    ]
   },
   {
-    "_row_key": 31,
-    "_row_size": 38,
     "id": 49,
     "sort_id": 1000402,
     "displayName": "家园经验",
@@ -334,11 +348,16 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100837.100837'",
     "item_quality": 5,
     "type_desc": "家园等级",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "种植获得"
+      },
+      {
+        "acquire_way_text": "喂养精灵获得"
+      }
+    ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 22,
     "id": 46,
     "sort_id": 1000403,
     "displayName": "家园等级",
@@ -346,8 +365,6 @@
     "type_desc": "家园等级"
   },
   {
-    "_row_key": 33,
-    "_row_size": 22,
     "id": 47,
     "sort_id": 1000404,
     "displayName": "房屋扩建等级",
@@ -355,8 +372,6 @@
     "type_desc": "房屋扩建等级"
   },
   {
-    "_row_key": 34,
-    "_row_size": 34,
     "id": 73,
     "displayName": "招财鸭",
     "discription": "丰裕谷的鸭吉吉们使用的「通用货币」。\n鸭吉吉们用这种货币在丰裕谷买卖商品。\n据说鸭吉吉们喜欢将它埋藏在地里。",
@@ -364,11 +379,13 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100704.100704'",
     "item_quality": 4,
     "type_desc": "地区货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "旧飞艇航道探索获得"
+      }
+    ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 22,
     "id": 48,
     "displayName": "肉鸽货币",
     "discription": "刷新事件牌。",
@@ -376,8 +393,6 @@
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100009.100009'"
   },
   {
-    "_row_key": 36,
-    "_row_size": 22,
     "id": 5,
     "displayName": "付费积分",
     "discription": "购买洛克钻后的支付证明。",
@@ -385,23 +400,17 @@
     "type_desc": "珍稀货币"
   },
   {
-    "_row_key": 37,
-    "_row_size": 18,
     "id": 10,
     "displayName": "角色等级",
     "item_quality": 5,
     "is_no_display_in_main": 1
   },
   {
-    "_row_key": 38,
-    "_row_size": 14,
     "id": 61,
     "displayName": "精灵问答积分",
     "is_no_display_in_main": 1
   },
   {
-    "_row_key": 39,
-    "_row_size": 38,
     "id": 63,
     "displayName": "​​晶灵花瓣",
     "discription": "可兑换错过的异色精灵蛋。\n很难保存，至多存放3瓣。",
@@ -410,11 +419,13 @@
     "item_quality": 5,
     "is_no_display_in_main": 1,
     "type_desc": "活动道具",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "周末活动日挑战异色花种后获得"
+      }
+    ]
   },
   {
-    "_row_key": 40,
-    "_row_size": 34,
     "id": 64,
     "sort_id": 5,
     "displayName": "祝福项坠",
@@ -425,8 +436,6 @@
     "type_desc": "珍稀货币"
   },
   {
-    "_row_key": 41,
-    "_row_size": 27,
     "id": 24,
     "displayName": "通行证等级",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_BPjiangli.img_BPjiangli'",
@@ -436,24 +445,18 @@
     "is_hidetips": true
   },
   {
-    "_row_key": 42,
-    "_row_size": 15,
     "id": 66,
     "displayName": "露天对战积分A1（隐藏任务统计进度用）",
     "is_no_display_in_main": 1,
     "is_hidetips": true
   },
   {
-    "_row_key": 43,
-    "_row_size": 15,
     "id": 67,
     "displayName": "露天对战积分A2（隐藏任务统计进度用）",
     "is_no_display_in_main": 1,
     "is_hidetips": true
   },
   {
-    "_row_key": 44,
-    "_row_size": 38,
     "id": 65,
     "displayName": "灵感颜料",
     "discription": "可兑换错过的活动精灵蛋。\n灵感易逝，至多存放1个。",
@@ -462,11 +465,13 @@
     "item_quality": 5,
     "is_no_display_in_main": 1,
     "type_desc": "活动道具",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "参与洛克筑梦师活动获得"
+      }
+    ]
   },
   {
-    "_row_key": 45,
-    "_row_size": 30,
     "id": 6,
     "displayName": "星光",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100893.100893'",
@@ -476,8 +481,6 @@
     "type_desc": "珍稀货币"
   },
   {
-    "_row_key": 46,
-    "_row_size": 38,
     "id": 42,
     "displayName": "花瓣",
     "discription": "可在可可果活动商店兑换奖励。",
@@ -486,11 +489,13 @@
     "item_quality": 4,
     "is_no_display_in_main": 1,
     "type_desc": "活动货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "可可果节活动获得"
+      }
+    ]
   },
   {
-    "_row_key": 47,
-    "_row_size": 38,
     "id": 68,
     "displayName": "大赛活跃度",
     "discription": "可用来兑换绩点和分院服奖励。",
@@ -499,11 +504,13 @@
     "item_quality": 4,
     "is_no_display_in_main": 1,
     "type_desc": "活动道具",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「绩点大赛」活动获得"
+      }
+    ]
   },
   {
-    "_row_key": 48,
-    "_row_size": 38,
     "id": 69,
     "displayName": "学分币（暂未用到）",
     "discription": "暂未使用",
@@ -512,22 +519,26 @@
     "item_quality": 5,
     "is_no_display_in_main": 1,
     "type_desc": "活动货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "暂未使用"
+      }
+    ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 30,
     "id": 12,
     "displayName": "庆典热度",
     "discription": "用来在「火马迎新」活动中兑换奖励。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100896.100896'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100896.100896'",
     "type_desc": "活动货币",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "捕捉精灵、采集获得"
+      }
+    ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 38,
     "id": 17,
     "displayName": "课题研究点",
     "discription": "达成图鉴课题后获得的纪念点数。",
@@ -536,6 +547,10 @@
     "item_quality": 4,
     "is_no_display_in_main": 1,
     "type_desc": "研究点",
-    "acquire_struct": []
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成图鉴课题获得"
+      }
+    ]
   }
 ]

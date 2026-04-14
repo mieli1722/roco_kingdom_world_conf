@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 35,
     "id": 120107,
     "name": "室内-月牙镇小屋（废弃）",
     "region_name": "独立室内",
@@ -12,8 +10,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 2,
-    "_row_size": 53,
     "id": 120108,
     "name": "风眠圣所",
     "sub_name": "探寻翼王的秘密",
@@ -25,23 +21,47 @@
     "hide_tag": 3,
     "main_exit": true,
     "has_enter_ui": true,
-    "show_reward": [],
+    "show_reward": [
+      {
+        "reward_type": 2,
+        "reward_id": 7
+      }
+    ],
     "finish_stage": [
       12010807
     ],
     "collection": [
       {
-        "collect_type": 258,
+        "collect_type": 1,
         "collect_content_id": [
-          992,
-          98560
+          2901205,
+          2901183,
+          2901349
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901541
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5100370,
+          5100369,
+          5100368,
+          5100367,
+          5100366,
+          5100365,
+          2901593,
+          2901592,
+          2901589
         ]
       }
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 35,
     "id": 120109,
     "name": "A2侦探社拾遗-旅店",
     "region_name": "独立室内",
@@ -52,8 +72,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 4,
-    "_row_size": 35,
     "id": 120202,
     "name": "白树空间",
     "sub_name": "神迹之所！",
@@ -64,8 +82,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 5,
-    "_row_size": 35,
     "id": 120203,
     "name": "空中飞艇",
     "sub_name": "空中飞艇",
@@ -76,8 +92,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 6,
-    "_row_size": 35,
     "id": 120204,
     "name": "密道",
     "sub_name": "觐见之路",
@@ -88,8 +102,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 7,
-    "_row_size": 39,
     "id": 120205,
     "name": "黑暗灵魂之河",
     "sub_name": "黑暗灵魂之河",
@@ -101,8 +113,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 8,
-    "_row_size": 35,
     "id": 120305,
     "name": "魔法学院噩梦广场",
     "sub_name": "魔法学院噩梦广场",
@@ -113,8 +123,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 9,
-    "_row_size": 40,
     "id": 120306,
     "name": "裘卡的幻境",
     "sub_name": "迷幻之境",
@@ -129,8 +137,6 @@
     ]
   },
   {
-    "_row_key": 10,
-    "_row_size": 35,
     "id": 120307,
     "name": "魔法学院正反广场",
     "sub_name": "魔法学院正反广场",
@@ -141,8 +147,6 @@
     "hide_tag": 3
   },
   {
-    "_row_key": 11,
-    "_row_size": 36,
     "id": 120308,
     "name": "噩梦危机魔法学院",
     "sub_name": "噩梦危机魔法学院",
@@ -154,8 +158,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 12,
-    "_row_size": 36,
     "id": 120309,
     "name": "灵镜世界",
     "sub_name": "灵镜世界",
@@ -167,8 +169,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 13,
-    "_row_size": 32,
     "id": 150001,
     "name": "记忆中的黑巫团基地",
     "sub_name": "邪恶的秘密研究所",
@@ -179,8 +179,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 14,
-    "_row_size": 28,
     "id": 150002,
     "name": "记忆中的魔力果之森",
     "region_name": "A1",
@@ -190,8 +188,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 15,
-    "_row_size": 28,
     "id": 150003,
     "name": "记忆中的精灵农场",
     "region_name": "A1",
@@ -201,8 +197,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 16,
-    "_row_size": 28,
     "id": 150004,
     "name": "记忆中的魔力果之森",
     "region_name": "A1",
@@ -212,8 +206,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 17,
-    "_row_size": 28,
     "id": 150005,
     "name": "噩梦龙息帕尔领地",
     "region_name": "A1",
@@ -223,8 +215,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 18,
-    "_row_size": 50,
     "id": 210101,
     "name": "九幽菇的守护地",
     "sub_name": "对抗额外的能量",
@@ -237,9 +227,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 261,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150087
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102002,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -248,17 +257,60 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 266,
+        "collect_type": 1,
         "collect_content_id": [
-          992,
-          99328
+          1300341
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          1301196
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500280,
+          5500282,
+          5500729,
+          5500730,
+          5500731,
+          5500732,
+          5500733,
+          5500734,
+          5500741,
+          5500742,
+          5500744,
+          5500745,
+          5500746,
+          5500747,
+          5500749,
+          5500750,
+          5500752,
+          5500753,
+          5500755,
+          5500756,
+          5500758,
+          5500765,
+          5500767,
+          5500768,
+          5500770,
+          5500807,
+          5500808,
+          5501540,
+          5501541,
+          5501542,
+          5501543,
+          5501548,
+          5501549,
+          5501550,
+          5501551
         ]
       }
     ]
   },
   {
-    "_row_key": 19,
-    "_row_size": 54,
     "id": 210102,
     "name": "皇家狮鹫的守护地",
     "sub_name": "抵御附加的连击",
@@ -271,9 +323,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 269,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150073
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102013,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 3,
@@ -283,17 +354,45 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 272,
+        "collect_type": 1,
         "collect_content_id": [
-          1248,
-          100096
+          1300342
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901505
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500667,
+          5500668,
+          5500670,
+          5500671,
+          5500681,
+          5500683,
+          5500685,
+          5500707,
+          5500708,
+          5500709,
+          5500710,
+          5500711,
+          5500712,
+          5501565,
+          5501566,
+          5501567,
+          5501572,
+          5501573,
+          5501574,
+          5501575
         ]
       }
     ]
   },
   {
-    "_row_key": 20,
-    "_row_size": 34,
     "id": 210103,
     "name": "海岛绿网",
     "sub_name": "抓住绿色的织网",
@@ -308,8 +407,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 21,
-    "_row_size": 50,
     "id": 210104,
     "name": "尖嘴狐仙的守护地",
     "sub_name": "寻火之旅",
@@ -322,9 +419,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 275,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150065
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102003,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -333,24 +449,43 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 279,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          100864
+          5500019
         ]
       },
       {
-        "collect_type": 281,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          101376
+          5500364
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901512
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500472,
+          5500473,
+          5500474,
+          5500475,
+          5500476,
+          5500477,
+          5501399,
+          5501400,
+          5501401,
+          5501402,
+          5501403,
+          5501404
         ]
       }
     ]
   },
   {
-    "_row_key": 22,
-    "_row_size": 50,
     "id": 210105,
     "name": "海枝枝的守护地",
     "sub_name": "遭受流失的能量",
@@ -363,9 +498,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 283,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150078
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102015,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -374,17 +528,55 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 285,
+        "collect_type": 1,
         "collect_content_id": [
-          992,
-          101888
+          1300459
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901506
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500516,
+          5500517,
+          5500519,
+          5500521,
+          5500568,
+          5500570,
+          5500574,
+          5500576,
+          5500586,
+          5500587,
+          5500589,
+          5500590,
+          5500596,
+          5500597,
+          5500602,
+          5500603,
+          5500613,
+          5501537,
+          5501538,
+          5501539,
+          5501552,
+          5501553,
+          5501554,
+          5501555,
+          5500498,
+          5500499,
+          5500500,
+          5500501,
+          5500502,
+          5500503
         ]
       }
     ]
   },
   {
-    "_row_key": 23,
-    "_row_size": 54,
     "id": 210106,
     "name": "鳗尾兽的守护地",
     "sub_name": "弱化的进攻之力",
@@ -397,9 +589,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 288,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150081
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102002,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 2,
@@ -409,17 +620,47 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 289,
+        "collect_type": 2,
         "collect_content_id": [
-          992,
-          102656
+          1300477
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901507
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901549,
+          2901551,
+          2901841,
+          2901843,
+          5500893,
+          5500894,
+          5500896,
+          5500897,
+          5500913,
+          5500915,
+          5500919,
+          5500920,
+          5500921,
+          5500928,
+          5500929,
+          5500930,
+          5500931,
+          5500932,
+          5500933,
+          5500934,
+          5501860,
+          5501861
         ]
       }
     ]
   },
   {
-    "_row_key": 24,
-    "_row_size": 54,
     "id": 210107,
     "name": "雪灵的守护地",
     "sub_name": "面对凛冽的寒风",
@@ -432,9 +673,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 292,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150088
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102007,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 2,
@@ -444,17 +704,45 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 294,
+        "collect_type": 2,
         "collect_content_id": [
-          992,
-          103424
+          2901236
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901508
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500286,
+          5500287,
+          5500288,
+          5500853,
+          5500854,
+          5500855,
+          5500856,
+          5500857,
+          5500858,
+          5500860,
+          5500861,
+          5500862,
+          5500863,
+          5500864,
+          5500865,
+          5500883,
+          5500885,
+          5500889,
+          5500890,
+          5500891
         ]
       }
     ]
   },
   {
-    "_row_key": 25,
-    "_row_size": 58,
     "id": 210108,
     "name": "怖哭菇的守护地",
     "sub_name": "背负永恒的印记",
@@ -467,9 +755,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 297,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150089
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102018,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 5,
@@ -482,17 +789,50 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 299,
+        "collect_type": 2,
         "collect_content_id": [
-          1248,
-          104192
+          5500220
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100309
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500222,
+          5500224,
+          5500225,
+          5500227,
+          5500617,
+          5500618,
+          5500620,
+          5500621,
+          5500623,
+          5500625,
+          5500626,
+          5500627,
+          5500628,
+          5500629,
+          5500630,
+          5500647,
+          5500648,
+          5500649,
+          5500650,
+          5500651,
+          5500652,
+          5501576,
+          5501577,
+          5501578,
+          5501579
         ]
       }
     ]
   },
   {
-    "_row_key": 26,
-    "_row_size": 50,
     "id": 210109,
     "name": "圆号鱼的守护地",
     "sub_name": "欢迎光临",
@@ -505,9 +845,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 302,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150071
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102004,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -516,17 +875,45 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 304,
+        "collect_type": 2,
         "collect_content_id": [
-          1248,
-          104960
+          1300545
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901503
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5501317,
+          5501318,
+          5501319,
+          5501320,
+          5501325,
+          5501326,
+          5501327,
+          5501328,
+          5501333,
+          5501334,
+          5501335,
+          5501336,
+          5501341,
+          5501342,
+          5501343,
+          5501344,
+          5501349,
+          5501350,
+          5501351,
+          5501352
         ]
       }
     ]
   },
   {
-    "_row_key": 27,
-    "_row_size": 49,
     "id": 210110,
     "name": "麦克达克的守护地",
     "sub_name": "鸭之祝福",
@@ -537,23 +924,42 @@
     "type_name": "旧飞艇航道下藏匿的精灵守护地。深入其中，破解鸭吉吉之奥秘，获取守护物吧。",
     "main_exit": true,
     "has_enter_ui": true,
-    "show_reward": [],
+    "show_reward": [
+      {
+        "reward_type": 2,
+        "reward_id": 7
+      }
+    ],
     "finish_stage": [
       21011003
     ],
     "collection": [
       {
-        "collect_type": 307,
+        "collect_type": 1,
         "collect_content_id": [
-          992,
-          105728
+          2901328
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901510
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5100363,
+          5100362,
+          5100359,
+          2901563,
+          2901564,
+          2901565
         ]
       }
     ]
   },
   {
-    "_row_key": 28,
-    "_row_size": 49,
     "id": 210111,
     "name": "法瑞莎莎的守护地",
     "sub_name": "踏波而下",
@@ -564,30 +970,51 @@
     "type_name": "深潭的谷底传来了秘密的回响。带上足够数量的伙伴深入守护地，寻找答案吧。",
     "main_exit": true,
     "has_enter_ui": true,
-    "show_reward": [],
+    "show_reward": [
+      {
+        "reward_type": 2,
+        "reward_id": 7
+      }
+    ],
     "finish_stage": [
       21011103
     ],
     "collection": [
       {
-        "collect_type": 310,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          106496
+          5500140
         ]
       },
       {
-        "collect_type": 312,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          107008
+          2900246,
+          2900265
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901515
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500127,
+          5500128,
+          5500129,
+          5500130,
+          5500131,
+          5500132,
+          5500133,
+          5500134
         ]
       }
     ]
   },
   {
-    "_row_key": 29,
-    "_row_size": 34,
     "id": 210112,
     "name": "破风山谷",
     "sub_name": "迎风而上",
@@ -602,8 +1029,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 30,
-    "_row_size": 34,
     "id": 210113,
     "name": "传送魔镜",
     "sub_name": "镜中漫游",
@@ -618,8 +1043,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 31,
-    "_row_size": 46,
     "id": 210114,
     "name": "迷迷箱怪的守护地",
     "region_name": "A1",
@@ -631,9 +1054,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 314,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150083
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -642,17 +1084,59 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 316,
+        "collect_type": 2,
         "collect_content_id": [
-          992,
-          107520
+          2900195,
+          2900196,
+          5500434,
+          5500382,
+          5500386,
+          5500437,
+          5500436,
+          5500385,
+          5500384,
+          5501832
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901513
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500428,
+          5500429,
+          5500430,
+          5500431,
+          5500432,
+          5500433,
+          5501662,
+          5501663,
+          5501664,
+          5501665,
+          5501666,
+          5501667,
+          5501668,
+          5501669,
+          5501670,
+          5501671,
+          5501672,
+          5501673,
+          5501674,
+          5501675,
+          5501676,
+          5501677,
+          5501681,
+          5501682,
+          5501683
         ]
       }
     ]
   },
   {
-    "_row_key": 32,
-    "_row_size": 34,
     "id": 210115,
     "name": "风起的星火",
     "sub_name": "燃起空中的火炬",
@@ -667,8 +1151,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 33,
-    "_row_size": 38,
     "id": 210118,
     "name": "万千奇境",
     "sub_name": "变幻莫测的气象",
@@ -684,8 +1166,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 34,
-    "_row_size": 54,
     "id": 210119,
     "name": "琉璃水母的守护地",
     "sub_name": "直面毒雾的笼罩",
@@ -698,9 +1178,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 319,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150070
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102010,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 3,
@@ -710,24 +1209,64 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 321,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          108288
+          2901779
         ]
       },
       {
-        "collect_type": 323,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          108800
+          2901775
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901527
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901781,
+          2901782,
+          2901783,
+          2901784,
+          2901785,
+          2901786,
+          5501608,
+          5501609,
+          5501610,
+          5501611,
+          5501612,
+          5501613,
+          5501619,
+          5501620,
+          5501621,
+          5501622,
+          5501624,
+          5501625,
+          5501626,
+          5501627,
+          5501628,
+          5501629,
+          5501630,
+          5501631,
+          5501634,
+          5501635,
+          5501636,
+          5501637,
+          5501638,
+          5501639,
+          5501640,
+          5501641,
+          5501642
         ]
       }
     ]
   },
   {
-    "_row_key": 35,
-    "_row_size": 50,
     "id": 210120,
     "name": "镜中世界",
     "sub_name": "探寻镜中影",
@@ -740,9 +1279,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 325,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150075
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102006,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -751,24 +1309,47 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 327,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          109312
+          1300926
         ]
       },
       {
-        "collect_type": 329,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          109824
+          2901411
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901524
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901594,
+          2901595,
+          2901596,
+          2901905,
+          2901906,
+          2901907,
+          5501643,
+          5501644,
+          5501645,
+          5501646,
+          5501647,
+          5501648,
+          5501658,
+          5501659,
+          5501660,
+          5501661
         ]
       }
     ]
   },
   {
-    "_row_key": 36,
-    "_row_size": 50,
     "id": 210121,
     "name": "石冠王蜥的守护地",
     "sub_name": "寻找不同的石冠王蜥",
@@ -781,9 +1362,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 331,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150066
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102006,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -792,24 +1392,55 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 332,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          110336
+          1300938
         ]
       },
       {
-        "collect_type": 334,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          110848
+          2901909
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901525
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901597,
+          2901598,
+          2901599,
+          2901902,
+          2901903,
+          2901904,
+          5501580,
+          5501581,
+          5501582,
+          5501583,
+          5501584,
+          5501585,
+          5501586,
+          5501587,
+          5501588,
+          5501589,
+          5501590,
+          5501591,
+          5501602,
+          5501603,
+          5501604,
+          5501605,
+          5501606,
+          5501607
         ]
       }
     ]
   },
   {
-    "_row_key": 37,
-    "_row_size": 46,
     "id": 210123,
     "name": "古啦多的守护地",
     "region_name": "A2",
@@ -821,9 +1452,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 336,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150086
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102010,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -832,24 +1482,34 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 337,
+        "collect_type": 2,
         "collect_content_id": [
-          480,
-          111360
+          5100082
         ]
       },
       {
-        "collect_type": 339,
+        "collect_type": 1,
         "collect_content_id": [
-          1504,
-          111872
+          2901822
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100254
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5100334,
+          5100333,
+          5100335
         ]
       }
     ]
   },
   {
-    "_row_key": 38,
-    "_row_size": 34,
     "id": 210124,
     "name": "花中之巫",
     "sub_name": "花朵的秘密",
@@ -864,8 +1524,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 39,
-    "_row_size": 33,
     "id": 210125,
     "name": "高塔之秘",
     "sub_name": "塔迹遗踪",
@@ -877,8 +1535,6 @@
     "has_enter_ui": true
   },
   {
-    "_row_key": 40,
-    "_row_size": 38,
     "id": 210126,
     "name": "水之道",
     "sub_name": "探寻地下水道的秘密",
@@ -894,8 +1550,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 41,
-    "_row_size": 33,
     "id": 210127,
     "name": "星落遗船",
     "sub_name": "漫游沉船遗迹",
@@ -907,8 +1561,6 @@
     "has_enter_ui": true
   },
   {
-    "_row_key": 42,
-    "_row_size": 38,
     "id": 210128,
     "name": "觅踪花园",
     "sub_name": "找到藏在花园里的精灵",
@@ -924,8 +1576,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 43,
-    "_row_size": 38,
     "id": 210129,
     "name": "精灵迷阵",
     "sub_name": "让精灵归位吧",
@@ -941,8 +1591,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 44,
-    "_row_size": 38,
     "id": 210130,
     "name": "真实之门",
     "sub_name": "穿过虚幻的门扉",
@@ -958,8 +1606,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 45,
-    "_row_size": 54,
     "id": 210131,
     "name": "叮叮恶魔的守护地",
     "sub_name": "对抗强化的力量",
@@ -972,9 +1618,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 341,
-        "reward_id": 262,
-        "reward_count": 263
+        "reward_type": 1,
+        "reward_id": 150062
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102016,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "battle_starlevel": 3,
@@ -984,17 +1649,33 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 343,
+        "collect_type": 2,
         "collect_content_id": [
-          1248,
-          112384
+          5100057
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5500042
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500461,
+          5500463,
+          5500464,
+          5500466,
+          5500485,
+          5500487,
+          5500488,
+          5500490
         ]
       }
     ]
   },
   {
-    "_row_key": 46,
-    "_row_size": 38,
     "id": 210132,
     "name": "石柱阵",
     "sub_name": "石柱方阵之谜",
@@ -1010,8 +1691,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 47,
-    "_row_size": 38,
     "id": 210133,
     "name": "雪山暖屋",
     "sub_name": "雪峰上的小屋",
@@ -1027,8 +1706,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 48,
-    "_row_size": 46,
     "id": 210134,
     "name": "大隐于市",
     "region_name": "A2",
@@ -1040,9 +1717,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 346,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150101
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102018,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1051,17 +1747,28 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 347,
+        "collect_type": 2,
         "collect_content_id": [
-          1232,
-          113152
+          1301283
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901532
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901685,
+          2901686,
+          2901687
         ]
       }
     ]
   },
   {
-    "_row_key": 49,
-    "_row_size": 46,
     "id": 210135,
     "name": "水晶屋",
     "region_name": "A2",
@@ -1073,9 +1780,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 350,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150063
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102006,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1084,17 +1810,28 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 351,
+        "collect_type": 2,
         "collect_content_id": [
-          1232,
-          113920
+          2901458
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901531
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901610,
+          2901609,
+          2901608
         ]
       }
     ]
   },
   {
-    "_row_key": 50,
-    "_row_size": 46,
     "id": 210136,
     "name": "晶石蜗的守护地",
     "region_name": "A2",
@@ -1106,9 +1843,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 354,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150077
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102005,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1117,24 +1873,52 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 356,
+        "collect_type": 2,
         "collect_content_id": [
-          464,
-          114688
+          5500049
         ]
       },
       {
-        "collect_type": 358,
+        "collect_type": 1,
         "collect_content_id": [
-          1488,
-          115200
+          5100074
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100321
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500076,
+          5500077,
+          5500078,
+          5500079,
+          5500080,
+          5500081,
+          5501684,
+          5501685,
+          5501686,
+          5501688,
+          5501689,
+          5501690,
+          5501691,
+          5501692,
+          5501693,
+          5501694,
+          5501695,
+          5501696,
+          5501697,
+          5501698,
+          5501699
         ]
       }
     ]
   },
   {
-    "_row_key": 51,
-    "_row_size": 46,
     "id": 210137,
     "name": "地下管道",
     "region_name": "A2",
@@ -1146,9 +1930,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 360,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150067
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102003,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1157,17 +1960,28 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 361,
+        "collect_type": 2,
         "collect_content_id": [
-          1232,
-          115712
+          5100150
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100259
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5100345,
+          5100344,
+          5100346
         ]
       }
     ]
   },
   {
-    "_row_key": 52,
-    "_row_size": 33,
     "id": 210138,
     "name": "眠星风阵",
     "sub_name": "飞越地穴高谷",
@@ -1179,8 +1993,6 @@
     "has_enter_ui": true
   },
   {
-    "_row_key": 53,
-    "_row_size": 50,
     "id": 210139,
     "name": "幻影屋",
     "sub_name": "识破暗夜的把戏",
@@ -1193,9 +2005,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 364,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150072
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102016,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 70,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1204,17 +2035,28 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 365,
+        "collect_type": 2,
         "collect_content_id": [
-          976,
-          116480
+          2901468
+        ]
+      },
+      {
+        "collect_type": 3,
+        "collect_content_id": [
+          2901529
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901605,
+          2901606,
+          2901607
         ]
       }
     ]
   },
   {
-    "_row_key": 54,
-    "_row_size": 50,
     "id": 210140,
     "name": "上升管道",
     "sub_name": "通往峰顶的密径",
@@ -1227,9 +2069,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 368,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150079
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1238,17 +2099,57 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 369,
+        "collect_type": 1,
         "collect_content_id": [
-          1232,
-          117248
+          2900868
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          2901530
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5501700,
+          5501701,
+          5501706,
+          5501707,
+          5501708,
+          5501711,
+          5501712,
+          5501714,
+          5501715,
+          5501720,
+          5501721,
+          5501722,
+          5501726,
+          5501727,
+          5501756,
+          5501757,
+          5501758,
+          5501759,
+          5501760,
+          5501761,
+          5501762,
+          5501763,
+          5501764,
+          5501765,
+          5501766,
+          5501767,
+          5501769,
+          5501770,
+          5501771,
+          5501772,
+          5501773,
+          5501774
         ]
       }
     ]
   },
   {
-    "_row_key": 55,
-    "_row_size": 33,
     "id": 210141,
     "name": "沙漠之星",
     "sub_name": "用罗盘寻找隐匿之星",
@@ -1260,8 +2161,6 @@
     "has_enter_ui": true
   },
   {
-    "_row_key": 56,
-    "_row_size": 46,
     "id": 210142,
     "name": "斑枭的守护地",
     "region_name": "A2",
@@ -1273,9 +2172,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 372,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150082
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102013,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1284,17 +2202,31 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 373,
+        "collect_type": 4,
         "collect_content_id": [
-          1488,
-          118016
+          2901854
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          2901851,
+          2901852,
+          2901853,
+          5100347,
+          5100348,
+          5100349,
+          5501520,
+          5501521,
+          5501522,
+          5501523,
+          5501524,
+          5501525
         ]
       }
     ]
   },
   {
-    "_row_key": 57,
-    "_row_size": 49,
     "id": 210143,
     "name": "恩佐的临时实验室",
     "sub_name": "研究与休憩之地",
@@ -1305,15 +2237,25 @@
     "type_name": "学院驻地的旁边居然有个神秘的守护地？恩佐提到这里是「他的实验室」，可是他才来驻地不久……究竟是怎么一回事？",
     "main_exit": true,
     "has_enter_ui": true,
-    "show_reward": [],
+    "show_reward": [
+      {
+        "reward_type": 2,
+        "reward_id": 7
+      }
+    ],
     "finish_stage": [
       21014301
     ],
-    "collection": []
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          2901626
+        ]
+      }
+    ]
   },
   {
-    "_row_key": 58,
-    "_row_size": 38,
     "id": 210144,
     "name": "地下花园",
     "sub_name": "寻找指示牌的秘密",
@@ -1329,8 +2271,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 59,
-    "_row_size": 46,
     "id": 210148,
     "name": "彼得大道码头下水道",
     "region_name": "A2",
@@ -1342,9 +2282,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 376,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150068
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102002,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1353,17 +2312,37 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 377,
+        "collect_type": 2,
         "collect_content_id": [
-          1232,
-          118784
+          5500093
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100421
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500155,
+          5500156,
+          5500157,
+          5500158,
+          5500159,
+          5500160,
+          5501006,
+          5501007,
+          5501008,
+          5501009,
+          5501010,
+          5501011
         ]
       }
     ]
   },
   {
-    "_row_key": 60,
-    "_row_size": 46,
     "id": 210149,
     "name": "彼得大道广场下水道",
     "region_name": "A2",
@@ -1375,9 +2354,28 @@
     "has_enter_ui": true,
     "show_reward": [
       {
-        "reward_type": 380,
-        "reward_id": 276,
-        "reward_count": 277
+        "reward_type": 1,
+        "reward_id": 150069
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102007,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 71,
+        "reward_count": 150
       }
     ],
     "finish_stage": [
@@ -1386,17 +2384,44 @@
     "has_finish_ui": true,
     "collection": [
       {
-        "collect_type": 381,
+        "collect_type": 2,
         "collect_content_id": [
-          1232,
-          119552
+          5500090
+        ]
+      },
+      {
+        "collect_type": 4,
+        "collect_content_id": [
+          5100425
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5500161,
+          5500162,
+          5500163,
+          5500164,
+          5500165,
+          5500166,
+          5500974,
+          5500975,
+          5500976,
+          5500977,
+          5500978,
+          5500979,
+          5500981,
+          5500982,
+          5500983,
+          5500984,
+          5500985,
+          5500986,
+          5500987
         ]
       }
     ]
   },
   {
-    "_row_key": 61,
-    "_row_size": 34,
     "id": 210150,
     "name": "豆丁双子（白盒）",
     "region_name": "关卡白盒",
@@ -1409,8 +2434,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 62,
-    "_row_size": 34,
     "id": 210151,
     "name": "夜游魔守护地（白盒）",
     "region_name": "关卡白盒",
@@ -1423,8 +2446,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 63,
-    "_row_size": 34,
     "id": 210152,
     "name": "星云旅者守护地（白盒）",
     "region_name": "关卡白盒",
@@ -1437,8 +2458,6 @@
     "has_finish_ui": true
   },
   {
-    "_row_key": 64,
-    "_row_size": 29,
     "id": 210153,
     "name": "黑巫师之影",
     "scene_id": 249,
@@ -1446,11 +2465,14 @@
     "type": 1,
     "main_exit": true,
     "has_enter_ui": true,
-    "show_reward": []
+    "show_reward": [
+      {
+        "reward_type": 2,
+        "reward_id": 7
+      }
+    ]
   },
   {
-    "_row_key": 65,
-    "_row_size": 29,
     "id": 410101,
     "name": "活动-首领角斗场",
     "sub_name": "活动-首领角斗场",
@@ -1461,8 +2483,6 @@
     "has_enter_ui": true
   },
   {
-    "_row_key": 66,
-    "_row_size": 20,
     "id": 800001,
     "name": "特效专用场景",
     "scene_id": 801,
@@ -1470,8 +2490,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 67,
-    "_row_size": 24,
     "id": 900001,
     "name": "性能测试副本",
     "sub_name": "回合战斗自动化",
@@ -1480,8 +2498,6 @@
     "main_exit": true
   },
   {
-    "_row_key": 68,
-    "_row_size": 28,
     "id": 900002,
     "name": "AI测试副本",
     "sub_name": "AI寻路测试",

@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 47,
     "id": 1,
     "name": "save",
     "login_required": 3,
@@ -31,8 +29,6 @@
     ]
   },
   {
-    "_row_key": 2,
-    "_row_size": 47,
     "id": 2,
     "name": "save",
     "login_required": 3,
@@ -61,8 +57,6 @@
     ]
   },
   {
-    "_row_key": 3,
-    "_row_size": 63,
     "id": 3,
     "name": "WeChatFriend",
     "login_required": 2,
@@ -92,12 +86,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Wechat_png.img_Share_Wechat_png'",
     "unsuccess_tip": "请安装微信或更新微信后重试",
     "package_name_android": "com.tencent.mm",
-    "package_name_ios": "<",
+    "package_name_ios": [
+      "weixin",
+      "wechat",
+      "wechat"
+    ],
     "package_name_harmony": "weixin://home"
   },
   {
-    "_row_key": 4,
-    "_row_size": 59,
     "id": 4,
     "name": "WeChatMoments",
     "login_required": 2,
@@ -125,12 +121,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_CircleFriends_png.img_Share_CircleFriends_png'",
     "unsuccess_tip": "请安装微信或更新微信后重试",
     "package_name_android": "com.tencent.mm",
-    "package_name_ios": "<",
+    "package_name_ios": [
+      "weixin",
+      "wechat",
+      "wechat"
+    ],
     "package_name_harmony": "weixin://home"
   },
   {
-    "_row_key": 5,
-    "_row_size": 63,
     "id": 5,
     "name": "QQFriend",
     "login_required": 1,
@@ -160,12 +158,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_QQ_png.img_Share_QQ_png'",
     "unsuccess_tip": "请安装QQ或更新QQ后重试",
     "package_name_android": "com.tencent.mobileqq",
-    "package_name_ios": ">",
+    "package_name_ios": [
+      "mqq",
+      "mqqapi",
+      "mqqwpa"
+    ],
     "package_name_harmony": "mqqapi://home"
   },
   {
-    "_row_key": 6,
-    "_row_size": 63,
     "id": 6,
     "name": "Qzone",
     "login_required": 1,
@@ -194,12 +194,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Qzone_png.img_Share_Qzone_png'",
     "unsuccess_tip": "请安装QQ或更新QQ后重试",
     "package_name_android": "com.tencent.mobileqq",
-    "package_name_ios": ">",
+    "package_name_ios": [
+      "mqq",
+      "mqqapi",
+      "mqqwpa"
+    ],
     "package_name_harmony": "mqqapi://home"
   },
   {
-    "_row_key": 7,
-    "_row_size": 63,
     "id": 7,
     "name": "Tiktok",
     "login_required": 3,
@@ -230,12 +232,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Tiktok_png.img_Share_Tiktok_png'",
     "unsuccess_tip": "请安装抖音或更新抖音后重试",
     "package_name_android": "com.ss.android.ugc.aweme",
-    "package_name_ios": "A",
+    "package_name_ios": [
+      "douyinopensdk",
+      "douyinliteopensdk",
+      "douyinsharesdk"
+    ],
     "package_name_harmony": "snssdk1128://home"
   },
   {
-    "_row_key": 8,
-    "_row_size": 63,
     "id": 8,
     "name": "TiktokFriend",
     "login_required": 3,
@@ -265,12 +269,14 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_TiktokFriends_png.img_Share_TiktokFriends_png'",
     "unsuccess_tip": "请安装抖音或更新抖音后重试",
     "package_name_android": "com.ss.android.ugc.aweme",
-    "package_name_ios": "A",
+    "package_name_ios": [
+      "douyinopensdk",
+      "douyinliteopensdk",
+      "douyinsharesdk"
+    ],
     "package_name_harmony": "snssdk1128://home"
   },
   {
-    "_row_key": 9,
-    "_row_size": 31,
     "id": 9,
     "name": "Weibo",
     "login_required": 3,
@@ -282,8 +288,6 @@
     "unsuccess_tip": "请安装微博或更新微博后重试"
   },
   {
-    "_row_key": 10,
-    "_row_size": 31,
     "id": 10,
     "name": "Xiaohongshu",
     "login_required": 3,
@@ -295,8 +299,6 @@
     "unsuccess_tip": "请安装小红书或更新小红书后重试"
   },
   {
-    "_row_key": 11,
-    "_row_size": 31,
     "id": 11,
     "name": "Kuaishou",
     "login_required": 3,
@@ -308,8 +310,6 @@
     "unsuccess_tip": "请安装快手或更新快手后重试"
   },
   {
-    "_row_key": 12,
-    "_row_size": 31,
     "id": 1001,
     "name": "copy",
     "login_required": 3,
@@ -326,8 +326,6 @@
     ]
   },
   {
-    "_row_key": 13,
-    "_row_size": 27,
     "id": 1002,
     "name": "more",
     "login_required": 3,
@@ -341,8 +339,6 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_MoreIcon_png.img_MoreIcon_png'"
   },
   {
-    "_row_key": 14,
-    "_row_size": 35,
     "id": 1003,
     "name": "Qrcode",
     "login_required": 3,
@@ -360,8 +356,6 @@
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/ShareUI/Raw/Frames/img_Share_QRCode_png.img_Share_QRCode_png'"
   },
   {
-    "_row_key": 15,
-    "_row_size": 19,
     "id": 1004,
     "name": "imageQRcode",
     "login_required": 3,

@@ -1,7 +1,5 @@
 [
   {
-    "_row_key": 1,
-    "_row_size": 64,
     "id": 115001,
     "editor_name": "通用连续捕捉事件",
     "event_type": 1,
@@ -9,7 +7,12 @@
     "bonus_type": 2,
     "bonus_id": 115001,
     "is_repeat_bonus": 1,
-    "probability": [],
+    "probability": [
+      {
+        "event_count_value": 100,
+        "bonus_prob": 1
+      }
+    ],
     "prob_type": 2,
     "prob_param1": [
       520
