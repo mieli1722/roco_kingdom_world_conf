@@ -1,0 +1,309 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 1,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Compass/G6_Scene_MoFaXingJie_Show.G6_Scene_MoFaXingJie_Show",
+    "performer": [],
+    "commands": []
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 17,
+    "id": 2,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Compass/G6_Scene_MoFaXingJie_Idle.G6_Scene_MoFaXingJie_Idle",
+    "performer": [],
+    "commands": []
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 17,
+    "id": 3,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Compass/G6_Scene_MoFaXingJie_Back.G6_Scene_MoFaXingJie_Back",
+    "performer": [],
+    "commands": []
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 13,
+    "id": 101,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/EnterAlchemy.EnterAlchemy",
+    "out_value": []
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 102,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyIdle.AlchemyIdle",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": []
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 21,
+    "id": 103,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/BeginAlchemy.BeginAlchemy",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 21,
+    "id": 104,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddMaterial_1.AlchemyAddMaterial_1",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 21,
+    "id": 105,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddMaterial_2.AlchemyAddMaterial_2",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": [
+      {
+        "event": null,
+        "cmd_id": null,
+        "params": [
+          {
+            "param_type": 22208,
+            "param": 22272
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 21,
+    "id": 106,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddMaterial_3.AlchemyAddMaterial_3",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": [
+      {
+        "event": null,
+        "cmd_id": null,
+        "params": [
+          {
+            "param_type": 22208,
+            "param": 22272
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 21,
+    "id": 107,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddMaterial_4.AlchemyAddMaterial_4",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": [
+      {
+        "event": null,
+        "cmd_id": null,
+        "params": [
+          {
+            "param_type": 22208,
+            "param": 22272
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 21,
+    "id": 108,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddShow_1.AlchemyAddShow_1",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [
+      {
+        "key": null,
+        "release_value": true,
+        "delete_value": false
+      }
+    ],
+    "commands": []
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 21,
+    "id": 109,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddShow_2.AlchemyAddShow_2",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [
+      {
+        "key": null,
+        "release_value": true,
+        "delete_value": false
+      }
+    ],
+    "commands": []
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 21,
+    "id": 110,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyAddShow_3.AlchemyAddShow_3",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [
+      {
+        "key": null,
+        "release_value": true,
+        "delete_value": false
+      }
+    ],
+    "commands": []
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 21,
+    "id": 111,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/AlchemyFinish.AlchemyFinish",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 21,
+    "id": 112,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/EndAlchemy.EndAlchemy",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 21,
+    "id": 113,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/ExitAlchemy.ExitAlchemy",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 21,
+    "id": 114,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/EndAlchemyFX.EndAlchemyFX",
+    "skill_blackboard_value": [
+      {
+        "key": null,
+        "delete_model": true
+      }
+    ],
+    "out_value": [],
+    "commands": []
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 13,
+    "id": 201,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_RockCave_Idle.G6_RockCave_Idle",
+    "skill_blackboard_value": []
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 13,
+    "id": 202,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_RockCave.G6_RockCave",
+    "skill_blackboard_value": []
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 9,
+    "id": 203,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_RockCave_Loop.G6_RockCave_Loop"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 9,
+    "id": 204,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Nor_GJZX_700021"
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 9,
+    "id": 301,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/CG/TQ05_BLACKMAN_LEAVE.TQ05_BLACKMAN_LEAVE"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 9,
+    "id": 302,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Evolution/EvolutionAnimWorld_Start.EvolutionAnimWorld_Start"
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 9,
+    "id": 303,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Pet/Ecology/G6_Scene_Ecology_Lpurple_star.G6_Scene_Ecology_Lpurple_star"
+  }
+]

@@ -1,0 +1,1231 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 26,
+    "id": 12010801,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 1/7 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 54272
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 54528
+    },
+    "revive_point": 52
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 26,
+    "id": 12010802,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 2/7 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 54784
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 55040
+    },
+    "revive_point": 53
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 26,
+    "id": 12010803,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 3/7 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 55296
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 55552
+    },
+    "revive_point": 54
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 26,
+    "id": 12010804,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 4/7 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 55808
+    },
+    "finish_condition": {
+      "type": 1472,
+      "data1": 56064
+    },
+    "revive_point": 51
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 26,
+    "id": 12010805,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 5/7 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 56320
+    },
+    "finish_condition": {
+      "type": 1472,
+      "data1": 56576
+    },
+    "revive_point": 174
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 30,
+    "id": 12010806,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已探索 6/7 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 56832
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 57088
+    },
+    "revive_point": 350,
+    "version": 1
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 30,
+    "id": 12010807,
+    "dungeon_id": 120108,
+    "stage_name": "- 风眠圣所已完成 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 57344
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 57600
+    },
+    "revive_point": 363,
+    "version": 1
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 26,
+    "id": 12030601,
+    "dungeon_id": 120306,
+    "stage_name": "- 迷幻之境已探索 1/4-",
+    "start_condition": {
+      "type": 704,
+      "data1": 57856
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 58112
+    },
+    "revive_point": 503
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 26,
+    "id": 12030602,
+    "dungeon_id": 120306,
+    "stage_name": "- 迷幻之境已探索 2/4-",
+    "start_condition": {
+      "type": 704,
+      "data1": 58368
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 58624
+    },
+    "revive_point": 504
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 26,
+    "id": 12030603,
+    "dungeon_id": 120306,
+    "stage_name": "- 迷幻之境已探索 3/4-",
+    "start_condition": {
+      "type": 704,
+      "data1": 58880
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 59136
+    },
+    "revive_point": 505
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 26,
+    "id": 12030604,
+    "dungeon_id": 120306,
+    "stage_name": "- 迷幻之境已探索 4/4-",
+    "start_condition": {
+      "type": 704,
+      "data1": 59392
+    },
+    "finish_condition": {
+      "type": 448,
+      "data1": 59648
+    },
+    "revive_point": 506
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 31,
+    "id": 21010101,
+    "dungeon_id": 210101,
+    "stage_name": "- 九幽菇的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 59904
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 60160
+    },
+    "reset_type": 16,
+    "revive_point": 74
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 31,
+    "id": 21010201,
+    "dungeon_id": 210102,
+    "stage_name": "- 皇家狮鹫的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 60416
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 60672
+    },
+    "reset_type": 16,
+    "revive_point": 75
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 31,
+    "id": 21010301,
+    "dungeon_id": 210103,
+    "stage_name": "- 海岛绿网已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 60928
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 61184
+    },
+    "reset_type": 16,
+    "revive_point": 77
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 31,
+    "id": 21010302,
+    "dungeon_id": 210103,
+    "stage_name": "- 海岛绿网已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 61440
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 61696
+    },
+    "reset_type": 16,
+    "revive_point": 78
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 31,
+    "id": 21010401,
+    "dungeon_id": 210104,
+    "stage_name": "- 尖嘴狐仙的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 61952
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 62208
+    },
+    "reset_type": 16,
+    "revive_point": 81
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 31,
+    "id": 21010501,
+    "dungeon_id": 210105,
+    "stage_name": "- 海枝枝的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 62464
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 62720
+    },
+    "reset_type": 16,
+    "revive_point": 88
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 31,
+    "id": 21010601,
+    "dungeon_id": 210106,
+    "stage_name": "- 鳗尾兽的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 62976
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 63232
+    },
+    "reset_type": 16,
+    "revive_point": 89
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 26,
+    "id": 21010602,
+    "dungeon_id": 210106,
+    "stage_name": "- 鳗尾兽守护地宝箱支线 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 62976
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 63488
+    },
+    "revive_point": 89
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 31,
+    "id": 21010701,
+    "dungeon_id": 210107,
+    "stage_name": "- 雪灵的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 63744
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 64000
+    },
+    "reset_type": 16,
+    "revive_point": 90
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 31,
+    "id": 21010801,
+    "dungeon_id": 210108,
+    "stage_name": "- 怖哭菇的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 64256
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 64512
+    },
+    "reset_type": 16,
+    "revive_point": 91
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 31,
+    "id": 21010902,
+    "dungeon_id": 210109,
+    "stage_name": "- 圆号鱼的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 64768
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 65024
+    },
+    "reset_type": 16,
+    "revive_point": 93
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 30,
+    "id": 21011001,
+    "dungeon_id": 210110,
+    "stage_name": "- 麦克达克的守护地已探索 1/3 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 65280
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 65536
+    },
+    "reset_type": 16,
+    "revive_point": 106
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 30,
+    "id": 21011002,
+    "dungeon_id": 210110,
+    "stage_name": "- 麦克达克的守护地已探索 2/3 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 65792
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 66048
+    },
+    "reset_type": 16,
+    "revive_point": 107
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 30,
+    "id": 21011003,
+    "dungeon_id": 210110,
+    "stage_name": "- 麦克达克的守护地已探索 3/3 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 66304
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 66560
+    },
+    "reset_type": 16,
+    "revive_point": 107
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 30,
+    "id": 21011101,
+    "dungeon_id": 210111,
+    "stage_name": "- 法瑞莎莎的守护地已探索 1/3 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 66816
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 67072
+    },
+    "reset_type": 16,
+    "revive_point": 95
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 30,
+    "id": 21011102,
+    "dungeon_id": 210111,
+    "stage_name": "- 法瑞莎莎的守护地已探索 2/3 -",
+    "start_condition": {
+      "type": 1728,
+      "data1": 67328
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 67584
+    },
+    "reset_type": 16,
+    "revive_point": 96
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 26,
+    "id": 21011103,
+    "dungeon_id": 210111,
+    "stage_name": "- 法瑞莎莎的守护地已探索 3/3 -",
+    "start_condition": {
+      "type": 704,
+      "data1": 67840
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 68096
+    },
+    "revive_point": 96
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 31,
+    "id": 21011201,
+    "dungeon_id": 210112,
+    "stage_name": "- 破风山谷已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 68352
+    },
+    "finish_condition": {
+      "type": 1472,
+      "data1": 68608
+    },
+    "reset_type": 16,
+    "revive_point": 97
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 31,
+    "id": 21011202,
+    "dungeon_id": 210112,
+    "stage_name": "- 破风山谷已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 68864
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 69120
+    },
+    "reset_type": 16,
+    "revive_point": 98
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 43,
+    "id": 21011301,
+    "dungeon_id": 210113,
+    "stage_name": "- 传送魔镜已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 69376
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 69632
+    },
+    "stage_content": [
+      2900988,
+      1300736,
+      2900987,
+      2901383,
+      2901385,
+      2901406,
+      2901384,
+      2901416
+    ],
+    "stage_combination": [
+      60263,
+      60264,
+      60294,
+      60295
+    ],
+    "reset_type": 16,
+    "revive_point": 104,
+    "version": 1
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 27,
+    "id": 21011401,
+    "dungeon_id": 210114,
+    "stage_name": "- 迷迷箱怪的守护地结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 69888
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 70144
+    },
+    "revive_point": 133
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 26,
+    "id": 21011402,
+    "dungeon_id": 210114,
+    "stage_name": "- 迷迷箱怪守护地宝箱支线 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 69888
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 70400
+    },
+    "revive_point": 133
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 31,
+    "id": 21011501,
+    "dungeon_id": 210115,
+    "stage_name": "- 风起的星火已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 70656
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 70912
+    },
+    "reset_type": 16,
+    "revive_point": 134
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 35,
+    "id": 21011502,
+    "dungeon_id": 210115,
+    "stage_name": "- 风起的星火已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1728,
+      "data1": 71168
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 71424
+    },
+    "stage_content": [
+      2900676
+    ],
+    "reset_type": 16,
+    "revive_point": 135
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 31,
+    "id": 21011801,
+    "dungeon_id": 210118,
+    "stage_name": "- 万千奇境已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 71680
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 71936
+    },
+    "reset_type": 16,
+    "revive_point": 178
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 31,
+    "id": 21011901,
+    "dungeon_id": 210119,
+    "stage_name": "- 琉璃水母的守护地已探索1/1 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 72192
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 72448
+    },
+    "reset_type": 16,
+    "revive_point": 179
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 31,
+    "id": 21012001,
+    "dungeon_id": 210120,
+    "stage_name": "- 镜中世界已探索1/1 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 72704
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 72960
+    },
+    "reset_type": 16,
+    "revive_point": 181
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 31,
+    "id": 21012101,
+    "dungeon_id": 210121,
+    "stage_name": "- 石冠王蜥的守护地已探索1/1 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 73216
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 73472
+    },
+    "reset_type": 16,
+    "revive_point": 182
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 27,
+    "id": 21012301,
+    "dungeon_id": 210123,
+    "stage_name": "- 古啦多的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 73728
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 73984
+    },
+    "revive_point": 364
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 31,
+    "id": 21012401,
+    "dungeon_id": 210124,
+    "stage_name": "- 花中之巫已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 74240
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 74496
+    },
+    "reset_type": 16,
+    "revive_point": 357
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 23,
+    "id": 21012501,
+    "dungeon_id": 210125,
+    "stage_name": "- 塔迹遗踪结束 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 74752
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 75008
+    }
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 31,
+    "id": 21012601,
+    "dungeon_id": 210126,
+    "stage_name": "- 水之道已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 75264
+    },
+    "finish_condition": {
+      "type": 1472,
+      "data1": 75520
+    },
+    "reset_type": 16,
+    "revive_point": 188
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 31,
+    "id": 21012602,
+    "dungeon_id": 210126,
+    "stage_name": "- 水之道已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 75776
+    },
+    "finish_condition": {
+      "type": 1472,
+      "data1": 76032
+    },
+    "reset_type": 16,
+    "revive_point": 189
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 31,
+    "id": 21012603,
+    "dungeon_id": 210126,
+    "stage_name": "- 水之道已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 76288
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 76544
+    },
+    "reset_type": 16,
+    "revive_point": 189
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 23,
+    "id": 21012801,
+    "dungeon_id": 210128,
+    "stage_name": "- 觅踪花园已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 76800
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 77056
+    }
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 23,
+    "id": 21012802,
+    "dungeon_id": 210128,
+    "stage_name": "- 觅踪花园已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 77312
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 77568
+    }
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 23,
+    "id": 21012803,
+    "dungeon_id": 210128,
+    "stage_name": "- 觅踪花园已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 77824
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 78080
+    }
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 31,
+    "id": 21013001,
+    "dungeon_id": 210130,
+    "stage_name": "- 真实之门已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 78336
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 78592
+    },
+    "reset_type": 16,
+    "revive_point": 371
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 31,
+    "id": 21013101,
+    "dungeon_id": 210131,
+    "stage_name": "- 叮叮恶魔的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 78848
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 79104
+    },
+    "reset_type": 16,
+    "revive_point": 361
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 35,
+    "id": 21013201,
+    "dungeon_id": 210132,
+    "stage_name": "- 石柱阵已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 79360
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 79616
+    },
+    "stage_content": [
+      2900625,
+      2900626,
+      2900627,
+      2900628,
+      2900629,
+      2900630,
+      2900631,
+      2900632,
+      2900639,
+      2900637
+    ],
+    "stage_combination": [
+      60226
+    ],
+    "revive_point": 348
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 35,
+    "id": 21013202,
+    "dungeon_id": 210132,
+    "stage_name": "- 石柱阵已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1728,
+      "data1": 79872
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 80128
+    },
+    "stage_content": [
+      2900641,
+      2900642,
+      2900643,
+      2900644,
+      2900633,
+      2900636,
+      2900640,
+      2900634,
+      2900635,
+      2900638
+    ],
+    "stage_combination": [
+      60227
+    ],
+    "revive_point": 349
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 31,
+    "id": 21013301,
+    "dungeon_id": 210133,
+    "stage_name": "- 雪山暖屋已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 80384
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 80640
+    },
+    "reset_type": 16,
+    "revive_point": 205
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 27,
+    "id": 21013401,
+    "dungeon_id": 210134,
+    "stage_name": "- 大隐于市已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 80896
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 81152
+    },
+    "revive_point": 369
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 27,
+    "id": 21013501,
+    "dungeon_id": 210135,
+    "stage_name": "- 水晶屋已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 81408
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 81664
+    },
+    "revive_point": 370
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 27,
+    "id": 21013601,
+    "dungeon_id": 210136,
+    "stage_name": "- 晶石蜗的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 81920
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 82176
+    },
+    "revive_point": 365
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 27,
+    "id": 21013701,
+    "dungeon_id": 210137,
+    "stage_name": "- 地下管道已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 82432
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 82688
+    },
+    "revive_point": 366
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 31,
+    "id": 21013901,
+    "dungeon_id": 210139,
+    "stage_name": "- 幻影屋已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 82944
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 83200
+    },
+    "reset_type": 16,
+    "revive_point": 360
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 31,
+    "id": 21014001,
+    "dungeon_id": 210140,
+    "stage_name": "- 上升管道已完成-",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 83456
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 83712
+    },
+    "reset_type": 16,
+    "revive_point": 368
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 23,
+    "id": 21014101,
+    "dungeon_id": 210141,
+    "stage_name": "- 沙漠之星已探索 1/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 704,
+      "data1": 83968
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 84224
+    }
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 23,
+    "id": 21014102,
+    "dungeon_id": 210141,
+    "stage_name": "- 沙漠之星已探索 2/2 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1728,
+      "data1": 84480
+    },
+    "finish_condition": {
+      "type": 1728,
+      "data1": 84736
+    }
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 23,
+    "id": 21014103,
+    "dungeon_id": 210141,
+    "stage_name": "- 沙漠之星已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1728,
+      "data1": 84992
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 85248
+    }
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 27,
+    "id": 21014201,
+    "dungeon_id": 210142,
+    "stage_name": "- 斑枭的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 85504
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 85760
+    },
+    "revive_point": 359
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 26,
+    "id": 21014301,
+    "dungeon_id": 210143,
+    "stage_name": "- 恩佐的临时实验室已完成 -",
+    "start_condition": {
+      "type": 1472,
+      "data1": 86016
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 86272
+    },
+    "revive_point": 372
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 27,
+    "id": 21014401,
+    "dungeon_id": 210144,
+    "stage_name": "- 地下花园已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 86528
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 86784
+    },
+    "revive_point": 185
+  },
+  {
+    "_row_key": 66,
+    "_row_size": 27,
+    "id": 21014801,
+    "dungeon_id": 210148,
+    "stage_name": "- 彼得大道码头下水道已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 87040
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 87296
+    },
+    "revive_point": 388
+  },
+  {
+    "_row_key": 67,
+    "_row_size": 30,
+    "id": 21014802,
+    "dungeon_id": 210148,
+    "stage_name": "下水道1-重置测试",
+    "start_condition": {
+      "type": 1472,
+      "data1": 87040
+    },
+    "finish_condition": {},
+    "stage_content": [
+      5500014
+    ],
+    "revive_point": 388
+  },
+  {
+    "_row_key": 68,
+    "_row_size": 27,
+    "id": 21014901,
+    "dungeon_id": 210149,
+    "stage_name": "- 彼得大道广场下水道已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 1472,
+      "data1": 87552
+    },
+    "finish_condition": {
+      "type": 704,
+      "data1": 87808
+    },
+    "revive_point": 389
+  },
+  {
+    "_row_key": 69,
+    "_row_size": 30,
+    "id": 21014902,
+    "dungeon_id": 210149,
+    "stage_name": "下水道2-重置测试",
+    "start_condition": {
+      "type": 1472,
+      "data1": 87552
+    },
+    "finish_condition": {},
+    "stage_content": [
+      5500015
+    ],
+    "revive_point": 389
+  }
+]

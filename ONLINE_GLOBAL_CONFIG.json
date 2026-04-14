@@ -1,0 +1,364 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 1,
+    "key": "online_unlock_role_level",
+    "editor_name": "位面互访功能的开启魔法等级限制",
+    "num": 5
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 17,
+    "id": 2,
+    "key": "online_member_max",
+    "editor_name": "互访人数限制（被访问者+访问者）",
+    "num": 4
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 17,
+    "id": 3,
+    "key": "friendlist_apply_online_show_time",
+    "editor_name": "好友列表界面 申请访问 刷新倒计时",
+    "num": 15
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 17,
+    "id": 4,
+    "key": "online_apply_message_handle_time",
+    "editor_name": "发出访问申请，房主处理申请时间,时间到，默认拒绝访问（单位：秒）",
+    "num": 15
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 5,
+    "key": "online_apply_message_max",
+    "editor_name": "互访列表消息上限",
+    "num": 15
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 6,
+    "key": "online_visitor_bornpoint_location_radius",
+    "editor_name": "半径X厘米范围内随机选取访问者出生点",
+    "numList": [
+      70,
+      300
+    ]
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 7,
+    "key": "auto_offline_CD_time",
+    "editor_name": "断线多久会当做离线处理（单位：秒） ；互访状态是该值-30s",
+    "num": 180
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 17,
+    "id": 8,
+    "key": "online_member_wifi_CD",
+    "editor_name": "每隔多久刷新大地图上玩家位置（单位：秒） 互访tick时间",
+    "num": 1
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 17,
+    "id": 9,
+    "key": "wifi_sign_strength",
+    "editor_name": "主界面列表wifi信号强弱分档(绿、黄、红) (单位 ms)",
+    "numList": [
+      280,
+      300
+    ]
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 17,
+    "id": 10,
+    "key": "online_apply_message_min_time",
+    "editor_name": "处理当前消息时，若下一条待处理消息小于该时间则执行拒绝操作（单位：秒）",
+    "num": 2
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 17,
+    "id": 11,
+    "key": "uninterruptible_option_id",
+    "editor_name": "联机状态下不能被打断的交互NPC",
+    "numList": [
+      60280,
+      65324
+    ]
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 17,
+    "id": 12,
+    "key": "online_rider_bornpoint_location_radius",
+    "editor_name": "骑乘状态下，半径X厘米范围内随机选取访问者出生点",
+    "numList": [
+      200,
+      800
+    ]
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 13,
+    "key": "invite_online_show_time",
+    "editor_name": "访问邀请处理时间，超时默认拒绝（单位：秒）",
+    "num": 15
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 17,
+    "id": 14,
+    "key": "invite_spar_show_time",
+    "editor_name": "切磋邀请处理时间，超时默认拒绝（单位：秒）",
+    "num": 15
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 17,
+    "id": 15,
+    "key": "invite_petegg_trade_show_time",
+    "editor_name": "交换精灵蛋邀请处理时间，超时默认拒绝（单位：秒）",
+    "num": 15
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 17,
+    "id": 16,
+    "key": "online_battle_in_effect_out",
+    "editor_name": "互访时战斗内天气效果改变是否影响战斗外（1为影响；2为不影响）",
+    "num": 2
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 17,
+    "id": 17,
+    "key": "online_battle_out_effect_in",
+    "editor_name": "互访时战斗外效果改变是否影响战斗内（1为影响；2为不影响）（天气势能等）",
+    "num": 1
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 17,
+    "id": 18,
+    "key": "online_battle_worldtime_effect",
+    "editor_name": "互访时，房主进入战斗时间暂停是否影响大世界时间（1为影响；2为不影响）",
+    "num": 2
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 17,
+    "id": 19,
+    "key": "online_visitor_creat_fail_CD",
+    "editor_name": "互访时，访客登录时，访客创建房间失败，重试倒计时（单位：s）",
+    "num": 30
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 13,
+    "id": 20,
+    "key": "online_forbid_visitor_create_owner",
+    "editor_name": "互访登录时房主不在，访客先于房主登录，禁止创建房主(方便测试)"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 17,
+    "id": 21,
+    "key": "double_riding_show_time",
+    "editor_name": "双人骑乘邀请处理时间，超时默认拒绝（单位：秒）",
+    "num": 15
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 17,
+    "id": 22,
+    "key": "online_map_auto_track",
+    "editor_name": "互访后是否自动追踪其他成员（1为默认追踪；2为不默认自动追踪）",
+    "num": 1
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 17,
+    "id": 23,
+    "key": "double_ride_visible_zone_notice_range",
+    "editor_name": "双人骑乘互见区提示范围（百分比）",
+    "num": 60
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 17,
+    "id": 24,
+    "key": "online_limit_order",
+    "editor_name": "互访权限设置列表的顺序",
+    "str": "online_limit_refuse;online_limit_approval;online_limit_agree"
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 17,
+    "id": 25,
+    "key": "area_visible_offline_protect_time",
+    "editor_name": "可见池内离线保护时间（单位：秒）（废弃字段，跟开发确认后可删除）",
+    "num": 15
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 17,
+    "id": 26,
+    "key": "area_visible_leave_protect_time",
+    "editor_name": "离开互见池保护时间（单位：秒）（废弃字段，跟开发确认后可删除）",
+    "num": 3
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 13,
+    "id": 27,
+    "key": "area_visible_role_battle",
+    "editor_name": "剔除互见池战斗id"
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 17,
+    "id": 28,
+    "key": "city_visible_leave_protect_time",
+    "editor_name": "城镇类型--离开又回到原互见池保护时间（单位：秒）",
+    "num": 5
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 17,
+    "id": 29,
+    "key": "field_visible_leave_protect_time",
+    "editor_name": "野外类型--离开又回到原互见池保护时间（单位：秒）",
+    "num": 8
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 17,
+    "id": 30,
+    "key": "city_visible_same_cell_protect_time",
+    "editor_name": "城镇类型--同cell分配保护时间（单位：秒）",
+    "num": 30
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 17,
+    "id": 31,
+    "key": "field_visible_same_cell_protect_time",
+    "editor_name": "野外类型--同cell分配保护时间（单位：秒）",
+    "num": 300
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 17,
+    "id": 32,
+    "key": "city_visible_offline_protect_time",
+    "editor_name": "城镇类型--可见池离线保护时间（单位：秒）",
+    "num": 8
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 17,
+    "id": 33,
+    "key": "field_visible_offline_protect_time",
+    "editor_name": "野外类型--可见池离线保护时间（单位：秒）",
+    "num": 8
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 17,
+    "id": 34,
+    "key": "visible_circle_max",
+    "editor_name": "每个私人可见列表人数上限",
+    "num": 6
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 17,
+    "id": 35,
+    "key": "visible_circle_move_add_max",
+    "editor_name": "私人可见列表移动可扩容人数上限",
+    "num": 3
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 17,
+    "id": 36,
+    "key": "visible_circle_leave_protect_time_max",
+    "editor_name": "角色离开私人可见列表的保护时间（单位:s）",
+    "num": 10
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 17,
+    "id": 37,
+    "key": "visible_circle_max_length",
+    "editor_name": "角色移动可见列表扩容的检测距离y（单位:cm）",
+    "num": 2000
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 17,
+    "id": 38,
+    "key": "visible_circle_list_btn_CD",
+    "editor_name": "点击【传送附近】按钮的冷却时间（单位:s）",
+    "num": 2
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 17,
+    "id": 39,
+    "key": "visible_circle_teleport_rules_id",
+    "editor_name": "传送陌生人用的teleport_rule_id，用于获取采样范围id",
+    "num": 7
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 17,
+    "id": 40,
+    "key": "online_number_wish_share_distance",
+    "editor_name": "联机下星光可分享的距离检测（单位:cm）",
+    "num": 2500
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 17,
+    "id": 41,
+    "key": "online_number_HUD_show_distance",
+    "editor_name": "联机队员的编号显示在主界面HUD上的距离（单位：cm）",
+    "num": 2500
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 17,
+    "id": 42,
+    "key": "online_number_name_show_distance",
+    "editor_name": "联机角色头顶的编号和名字显示的距离（单位：cm）",
+    "num": 2500
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 17,
+    "id": 43,
+    "key": "visible_circle_place_hold_timeout_secs",
+    "editor_name": "传送到角色附近预占位名额，超时x秒后未加入的占位时间（单位：s）",
+    "num": 10
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 17,
+    "id": 44,
+    "key": "enter_online_protect_time",
+    "editor_name": "进互访的流程中，房主会先进，在访客尚未进入互访的时候，可能触发自动解散互访的功能导致房间解散，加保护时间，暂时定为15秒",
+    "num": 15
+  }
+]

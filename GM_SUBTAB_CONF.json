@@ -1,0 +1,682 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 101,
+    "subtab_name": "角色基础",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayer"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 17,
+    "id": 102,
+    "subtab_name": "录制跑图",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayerMoveRecord"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 17,
+    "id": 103,
+    "subtab_name": "体力生命温度",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayerVitalityHP"
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 17,
+    "id": 104,
+    "subtab_name": "TOD",
+    "maintab_id": 5,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightTOD"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 105,
+    "subtab_name": "灯光",
+    "maintab_id": 5,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabLightLightEffect"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 106,
+    "subtab_name": "NPC基础",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPC"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 107,
+    "subtab_name": "根据类型销毁",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPCDestroy"
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 17,
+    "id": 108,
+    "subtab_name": "NPC效果",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPCEffect"
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 17,
+    "id": 109,
+    "subtab_name": "性能与内存检查",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPCCheck"
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 17,
+    "id": 110,
+    "subtab_name": "生成NPC",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPCCreate"
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 17,
+    "id": 111,
+    "subtab_name": "NPC压测",
+    "maintab_id": 6,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNPCPressure"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 17,
+    "id": 112,
+    "subtab_name": "战斗调试",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattle"
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 113,
+    "subtab_name": "战斗模拟",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTest"
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 17,
+    "id": 114,
+    "subtab_name": "临时测试接口",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp"
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 17,
+    "id": 115,
+    "subtab_name": "战斗区域",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleField"
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 17,
+    "id": 116,
+    "subtab_name": "战斗测试",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleDebug"
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 17,
+    "id": 117,
+    "subtab_name": "战斗非站桩",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleDynamicBF"
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 17,
+    "id": 118,
+    "subtab_name": "战斗性能",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleMem"
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 17,
+    "id": 119,
+    "subtab_name": "天空战斗",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleSky"
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 17,
+    "id": 120,
+    "subtab_name": "调试",
+    "maintab_id": 13,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabAIDebug"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 17,
+    "id": 121,
+    "subtab_name": "通用",
+    "maintab_id": 13,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabAI"
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 17,
+    "id": 122,
+    "subtab_name": "触发行为",
+    "maintab_id": 13,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabAIAction"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 17,
+    "id": 123,
+    "subtab_name": "通用",
+    "maintab_id": 14,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabTUI"
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 17,
+    "id": 124,
+    "subtab_name": "Tips",
+    "maintab_id": 14,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabTips"
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 17,
+    "id": 125,
+    "subtab_name": "临时",
+    "maintab_id": 14,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabRec"
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 17,
+    "id": 126,
+    "subtab_name": "UI测试打开",
+    "maintab_id": 14,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabOpenUI"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 17,
+    "id": 127,
+    "subtab_name": "手动播放",
+    "maintab_id": 19,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabCinematic"
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 17,
+    "id": 128,
+    "subtab_name": "播片性能",
+    "maintab_id": 19,
+    "lua_filename": "NewRoco.Modules.System.Debug.Cinematic.DebugTabCinematicProfiler"
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 17,
+    "id": 129,
+    "subtab_name": "通用",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabScenePublic"
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 17,
+    "id": 130,
+    "subtab_name": "大世界",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneBigWorld"
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 17,
+    "id": 131,
+    "subtab_name": "独立室内",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneIndoor"
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 17,
+    "id": 132,
+    "subtab_name": "A1副本",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneDungeonA1"
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 17,
+    "id": 133,
+    "subtab_name": "A2副本",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneDungeonA2"
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 17,
+    "id": 134,
+    "subtab_name": "其他副本",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneDungeonOther"
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 17,
+    "id": 135,
+    "subtab_name": "清除进度",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneDungeonClear"
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 17,
+    "id": 136,
+    "subtab_name": "其他",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabScene"
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 17,
+    "id": 137,
+    "subtab_name": "未分类",
+    "maintab_id": 25,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPerformance"
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 17,
+    "id": 138,
+    "subtab_name": "传送",
+    "maintab_id": 25,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabTeleporting"
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 17,
+    "id": 139,
+    "subtab_name": "内存",
+    "maintab_id": 25,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabMemory"
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 17,
+    "id": 140,
+    "subtab_name": "信息细节",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabDetail"
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 17,
+    "id": 141,
+    "subtab_name": "画质总质量",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabImageQuality"
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 17,
+    "id": 142,
+    "subtab_name": "帧数",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabFrame"
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 17,
+    "id": 143,
+    "subtab_name": "分辨率",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabResolution"
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 17,
+    "id": 144,
+    "subtab_name": "Utility",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabUtility"
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 17,
+    "id": 145,
+    "subtab_name": "阴影",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabShadow"
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 17,
+    "id": 146,
+    "subtab_name": "着色",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabShading"
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 17,
+    "id": 147,
+    "subtab_name": "植被",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabFoliage"
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 17,
+    "id": 148,
+    "subtab_name": "视距",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabViewDistance"
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 17,
+    "id": 149,
+    "subtab_name": "几何细节",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabGeometryDetail"
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 17,
+    "id": 150,
+    "subtab_name": "贴图",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabTexture"
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 17,
+    "id": 151,
+    "subtab_name": "抗锯齿",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabAntiAliasing"
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 17,
+    "id": 152,
+    "subtab_name": "反射效果",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabReflection"
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 17,
+    "id": 153,
+    "subtab_name": "后处理",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabPostProcess"
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 17,
+    "id": 154,
+    "subtab_name": "特效",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabEffects"
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 17,
+    "id": 155,
+    "subtab_name": "内存",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabMemory"
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 17,
+    "id": 156,
+    "subtab_name": "查看",
+    "maintab_id": 27,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabAura"
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 17,
+    "id": 157,
+    "subtab_name": "精灵",
+    "maintab_id": 28,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPet"
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 17,
+    "id": 158,
+    "subtab_name": "亲昵互动",
+    "maintab_id": 28,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPetInteract"
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 17,
+    "id": 159,
+    "subtab_name": "场景细节",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabSceneDetail"
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 17,
+    "id": 160,
+    "subtab_name": "角色细节",
+    "maintab_id": 26,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.PerformanceSwitch.DebugTabCharacterDetail"
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 17,
+    "id": 161,
+    "subtab_name": "叙事常用",
+    "maintab_id": 42,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabNarrative"
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 17,
+    "id": 162,
+    "subtab_name": "环境事件",
+    "maintab_id": 42,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabEnvQuest"
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 17,
+    "id": 163,
+    "subtab_name": "TOD性能",
+    "maintab_id": 5,
+    "lua_filename": "NewRoco.Modules.System.Debug.EnvSystem.DebugTabEnvSystemLookDev"
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 17,
+    "id": 164,
+    "subtab_name": "服务器技能",
+    "maintab_id": 13,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabAIDotsSkill"
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 17,
+    "id": 165,
+    "subtab_name": "移动问诊",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayerMove"
+  },
+  {
+    "_row_key": 66,
+    "_row_size": 17,
+    "id": 166,
+    "subtab_name": "主角镜头",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayerCamera"
+  },
+  {
+    "_row_key": 67,
+    "_row_size": 17,
+    "id": 167,
+    "subtab_name": "精灵模型",
+    "maintab_id": 28,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPetModel"
+  },
+  {
+    "_row_key": 68,
+    "_row_size": 17,
+    "id": 168,
+    "subtab_name": "旅途主线",
+    "maintab_id": 42,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabJourneyQuest"
+  },
+  {
+    "_row_key": 69,
+    "_row_size": 17,
+    "id": 169,
+    "subtab_name": "性能测试",
+    "maintab_id": 25,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPerformanceTest"
+  },
+  {
+    "_row_key": 70,
+    "_row_size": 17,
+    "id": 170,
+    "subtab_name": "换装",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabChangeCloset"
+  },
+  {
+    "_row_key": 71,
+    "_row_size": 17,
+    "id": 171,
+    "subtab_name": "PSO Collection",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPSOCollection"
+  },
+  {
+    "_row_key": 72,
+    "_row_size": 17,
+    "id": 172,
+    "subtab_name": "合批相关",
+    "maintab_id": 25,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPerfInstancing"
+  },
+  {
+    "_row_key": 73,
+    "_row_size": 17,
+    "id": 173,
+    "subtab_name": "开启挑战",
+    "maintab_id": 48,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleRogue"
+  },
+  {
+    "_row_key": 74,
+    "_row_size": 17,
+    "id": 174,
+    "subtab_name": "通用",
+    "maintab_id": 43,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabHome"
+  },
+  {
+    "_row_key": 75,
+    "_row_size": 17,
+    "id": 175,
+    "subtab_name": "局外表演",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleSpectator"
+  },
+  {
+    "_row_key": 76,
+    "_row_size": 17,
+    "id": 176,
+    "subtab_name": "临时测试接口2",
+    "maintab_id": 11,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleTemp2"
+  },
+  {
+    "_row_key": 77,
+    "_row_size": 17,
+    "id": 177,
+    "subtab_name": "种植园",
+    "maintab_id": 43,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabFarm"
+  },
+  {
+    "_row_key": 78,
+    "_row_size": 17,
+    "id": 178,
+    "subtab_name": "通用",
+    "maintab_id": 50,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabEffectsTest"
+  },
+  {
+    "_row_key": 79,
+    "_row_size": 17,
+    "id": 179,
+    "subtab_name": "法杖",
+    "maintab_id": 50,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabEffectsTestWand"
+  },
+  {
+    "_row_key": 80,
+    "_row_size": 17,
+    "id": 180,
+    "subtab_name": "魔法",
+    "maintab_id": 50,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabEffectsTestMagic"
+  },
+  {
+    "_row_key": 81,
+    "_row_size": 17,
+    "id": 181,
+    "subtab_name": "首领战",
+    "maintab_id": 50,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabEffectsTestWorldCombat"
+  },
+  {
+    "_row_key": 82,
+    "_row_size": 17,
+    "id": 182,
+    "subtab_name": "B1副本",
+    "maintab_id": 24,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabSceneDungeonB1"
+  },
+  {
+    "_row_key": 83,
+    "_row_size": 17,
+    "id": 183,
+    "subtab_name": "精灵上报",
+    "maintab_id": 48,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabBattleRoguePetSend"
+  },
+  {
+    "_row_key": 84,
+    "_row_size": 17,
+    "id": 184,
+    "subtab_name": "运营相关UI",
+    "maintab_id": 14,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabOperationUI"
+  },
+  {
+    "_row_key": 85,
+    "_row_size": 17,
+    "id": 185,
+    "subtab_name": "头顶信息",
+    "maintab_id": 3,
+    "lua_filename": "NewRoco.Modules.System.Debug.Tabs.DebugTabPlayerInfo"
+  }
+]

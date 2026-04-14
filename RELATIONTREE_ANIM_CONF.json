@@ -1,0 +1,311 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 18,
+    "id": 1,
+    "interact_type": 3,
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Start.G6_Rltt_Give_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_End.G6_Rltt_Give_End'"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 34,
+    "id": 2,
+    "interact_type": 1,
+    "option_key": 140016,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "InviteTogether",
+    "invite_tip": "已发送同行邀请",
+    "receive_invite_tip": "收到了来自%s的同行邀请",
+    "cancel_tip": "同行邀请中断"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 34,
+    "id": 3,
+    "interact_type": 2,
+    "option_key": 140017,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "RequestTogether",
+    "invite_tip": "已发送同行申请",
+    "receive_invite_tip": "收到了来自%s的同行申请",
+    "cancel_tip": "同行申请中断"
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 38,
+    "id": 4,
+    "interact_type": 9,
+    "option_key": 140018,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Visit_Start.G6_Rltt_Visit_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Visit_End.G6_Rltt_Visit_End'",
+    "invite_tip": "已发送访问申请",
+    "receive_invite_tip": "收到了来自%s的访问申请",
+    "cancel_tip": "访问申请中断"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 18,
+    "id": 5,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_Start.G6_Interact_Fist_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_End.G6_Interact_Fist_End'"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 38,
+    "id": 6,
+    "interact_type": 8,
+    "option_key": 140019,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_PVP_Start.G6_Rltt_PVP_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_PVP_End.G6_Rltt_PVP_End'",
+    "invite_tip": "已发送切磋申请",
+    "receive_invite_tip": "收到了来自%s的切磋申请",
+    "cancel_tip": "切磋申请中断"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 10,
+    "id": 7,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 42,
+    "id": 8,
+    "interact_type": 4,
+    "option_key": 140015,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Apply_Start.G6_Rltt_Apply_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Egg.G6_Rltt_Give_Egg'",
+    "failed_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Lose.G6_Rltt_Give_Lose'",
+    "invite_tip": "已发送赠送精灵蛋邀请",
+    "receive_invite_tip": "收到了来自%s赠送的精灵蛋",
+    "cancel_tip": "赠送精灵蛋申请中断"
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 10,
+    "id": 9,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 10,
+    "id": 10,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 42,
+    "id": 11,
+    "interact_type": 6,
+    "option_key": 140012,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_Start.G6_Interact_Fist_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_End.G6_Interact_Fist_End'",
+    "failed_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_Lose.G6_Interact_Fist_Lose'",
+    "invite_tip": "已发送碰拳申请",
+    "receive_invite_tip": "收到了来自%s的碰拳申请",
+    "cancel_tip": "碰拳申请中断"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 42,
+    "id": 12,
+    "interact_type": 7,
+    "option_key": 140013,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Hug_Start.G6_Interact_Hug_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Hug_End.G6_Interact_Hug_End'",
+    "failed_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Hug_Lose.G6_Interact_Hug_Lose'",
+    "invite_tip": "已发送拥抱申请",
+    "receive_invite_tip": "收到了来自%s的拥抱申请",
+    "cancel_tip": "拥抱申请中断"
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 10,
+    "id": 13,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 10,
+    "id": 14,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 10,
+    "id": 15,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 18,
+    "id": 16,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "Ѐ"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Apply_Start.G6_Rltt_Apply_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interactiontree_CiFu.G6_Interactiontree_CiFu'"
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 10,
+    "id": 17,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "Ѓ"
+      }
+    ]
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 38,
+    "id": 18,
+    "interact_type": 5,
+    "option_key": 150002,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "І"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Apply_Start.G6_Rltt_Apply_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interactiontree_CiFu.G6_Interactiontree_CiFu'",
+    "invite_tip": "已发送赐福申请",
+    "receive_invite_tip": "收到了来自%s的赐福申请",
+    "cancel_tip": "赐福申请中断"
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 10,
+    "id": 19,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": null
+      }
+    ]
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 18,
+    "id": 20,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "Ј"
+      }
+    ],
+    "param1": "200001;200002;200003;200004",
+    "param2": "200005;200006;200007;200008"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 10,
+    "id": 21,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "Њ"
+      }
+    ]
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 38,
+    "id": 22,
+    "interact_type": 10,
+    "option_key": 140020,
+    "name_icon_struct": [
+      {
+        "name": null,
+        "icon": "Ќ"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_GJDB_Start.G6_Interact_GJDB_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_GJDB_End.G6_Interact_GJDB_End'",
+    "invite_tip": "已发送勾肩搭背申请",
+    "receive_invite_tip": "收到了来自%s的勾肩搭背申请",
+    "cancel_tip": "勾肩搭背申请中断"
+  }
+]

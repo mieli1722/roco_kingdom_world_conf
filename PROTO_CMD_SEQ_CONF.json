@@ -1,0 +1,368 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 9,
+    "id": 337,
+    "prompt_text": "ZONE_ENTER_SCENE_REQ"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 9,
+    "id": 349,
+    "prompt_text": "ZONE_SCENE_PRE_TELEPORT_NOTIFY"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 9,
+    "id": 355,
+    "prompt_text": "ZONE_USE_BAG_ITEM_REQ"
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 9,
+    "id": 442,
+    "prompt_text": "ZONE_SCENE_CREATE_BATTLE_REQ"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 9,
+    "id": 447,
+    "prompt_text": "ZONE_TASK_STATE_REQ"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 9,
+    "id": 450,
+    "prompt_text": "ZONE_CONFIRM_REVIVE_REQ"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 9,
+    "id": 471,
+    "prompt_text": "ZONE_SCENE_WORLD_MAP_TELEPORT_REQ"
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 9,
+    "id": 473,
+    "prompt_text": "ZONE_SCENE_WORLD_MAP_TELEPORT_TO_NPC_REQ"
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 9,
+    "id": 505,
+    "prompt_text": "ZONE_SCENE_MATCH_START_REQ"
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 9,
+    "id": 547,
+    "prompt_text": "ZONE_VISUAL_ITEM_UPGRADE_REQ"
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 9,
+    "id": 573,
+    "prompt_text": "ZONE_CAMP_LEVEL_UP_REQ"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 9,
+    "id": 609,
+    "prompt_text": "ZONE_SHOP_BUY_ITEM_REQ"
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 9,
+    "id": 628,
+    "prompt_text": "ZONE_SCENE_RECEIVE_OWL_REFUGE_REWARD_REQ"
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 9,
+    "id": 650,
+    "prompt_text": "ZONE_GET_HANDBOOK_TOPIC_AWARD_REQ"
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 9,
+    "id": 724,
+    "prompt_text": "ZONE_MAIL_GET_ATTACHMENT_REQ"
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 9,
+    "id": 751,
+    "prompt_text": "ZONE_RECEIVE_BATTLE_PASS_REWARD_REQ"
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 9,
+    "id": 757,
+    "prompt_text": "ZONE_SCENE_CREATE_SCENE_PET_REQ"
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 9,
+    "id": 759,
+    "prompt_text": "ZONE_REWARD_ADVENTURE_CHAPTER_REQ"
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 9,
+    "id": 769,
+    "prompt_text": "ZONE_SET_PLAYER_NAME_REQ"
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 9,
+    "id": 805,
+    "prompt_text": "ZONE_START_PET_TRAVEL_REQ"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 9,
+    "id": 807,
+    "prompt_text": "ZONE_COMPLETE_PET_TRAVEL_REQ"
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 9,
+    "id": 918,
+    "prompt_text": "ZONE_SCENE_BEAST_START_MATCH_REQ"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 9,
+    "id": 920,
+    "prompt_text": "ZONE_SCENE_BEAST_JOIN_VISIT_REQ"
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 9,
+    "id": 1114,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_PET_CATCH_REWARD_REQ"
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 9,
+    "id": 1116,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_DISPOSABLE_REWARD_REQ"
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 9,
+    "id": 1126,
+    "prompt_text": "ZONE_GET_PVP_RANK_WEEK_TASK_REWARD_REQ"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 9,
+    "id": 1128,
+    "prompt_text": "ZONE_GET_PVP_RANK_SEASON_REWARD_REQ"
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 9,
+    "id": 1141,
+    "prompt_text": "ZONE_RECEIVE_GP_CONTEST_REWARD_REQ"
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 9,
+    "id": 1149,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_CONDITION_REWARD_REQ"
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 9,
+    "id": 5193,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_SHINY_PET_DAY_PETAL_REQ"
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 9,
+    "id": 5195,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_SHINY_PET_DAY_REWARD_REQ"
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 9,
+    "id": 5245,
+    "prompt_text": "ZONE_RECEIVE_PLAYER_ACTIVITY_TREASURE_HUNT_REWARD_REQ"
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 9,
+    "id": 5251,
+    "prompt_text": "ZONE_CHALLENGE_STAR_REWARD_REQ"
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 9,
+    "id": 5408,
+    "prompt_text": "ZONE_SCENE_HOME_SAVE_ROOM_LAYOUT_REQ"
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 9,
+    "id": 5412,
+    "prompt_text": "ZONE_SCENE_HOME_ENTER_EDIT_REQ"
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 9,
+    "id": 5414,
+    "prompt_text": "ZONE_SCENE_HOME_ENTER_REQ"
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 9,
+    "id": 5416,
+    "prompt_text": "ZONE_SCENE_HOME_LEAVE_REQ"
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 9,
+    "id": 5418,
+    "prompt_text": "ZONE_SCENE_HOME_START_EXPAND_ROOM_REQ"
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 9,
+    "id": 5420,
+    "prompt_text": "ZONE_SCENE_HOME_FINISH_EXPAND_ROOM_REQ"
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 9,
+    "id": 5422,
+    "prompt_text": "ZONE_SCENE_HOME_RENAME_ROOM_REQ"
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 9,
+    "id": 5424,
+    "prompt_text": "ZONE_HOME_PLANT_SEED_COMPOUND_REQ"
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 9,
+    "id": 5426,
+    "prompt_text": "ZONE_HOME_PLANT_SEED_EQUIP_REQ"
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 9,
+    "id": 5428,
+    "prompt_text": "ZONE_SCENE_HOME_PLANT_CROP_REQ"
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 9,
+    "id": 5474,
+    "prompt_text": "ZONE_HOME_WAREHOUSE_DECOMPOSITION_REQ"
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 9,
+    "id": 5478,
+    "prompt_text": "ZONE_HOME_WAREHOUSE_BUILD_REQ"
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 9,
+    "id": 33025,
+    "prompt_text": "ZONE_HOME_QUERY_LEVEL_REWARD_REQ"
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 9,
+    "id": 33027,
+    "prompt_text": "ZONE_HOME_CLAIM_LEVEL_REWARD_REQ"
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 9,
+    "id": 33029,
+    "prompt_text": "ZONE_HOME_QUERY_FRIEND_HOME_INFO_REQ"
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 9,
+    "id": 33031,
+    "prompt_text": "ZONE_SCENE_HOME_GET_VIST_HISTORY_REQ"
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 9,
+    "id": 33033,
+    "prompt_text": "ZONE_SCENE_HOME_GET_VISITOR_INFO_REQ"
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 9,
+    "id": 33281,
+    "prompt_text": "ZONE_HOME_PET_PLACE_REQ"
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 9,
+    "id": 33283,
+    "prompt_text": "ZONE_HOME_PET_UNPLACE_REQ"
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 9,
+    "id": 33285,
+    "prompt_text": "ZONE_HOME_PET_FEED_REQ"
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 9,
+    "id": 33287,
+    "prompt_text": "ZONE_HOME_PET_FEED_CANCEL_REQ"
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 9,
+    "id": 33289,
+    "prompt_text": "ZONE_HOME_PET_STEAL_REQ"
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 9,
+    "id": 33291,
+    "prompt_text": "ZONE_HOME_PET_FETCH_AWARD_REQ"
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 9,
+    "id": 33293,
+    "prompt_text": "ZONE_HOME_PET_LOAD_FOOD_REQ"
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 9,
+    "id": 33295,
+    "prompt_text": "ZONE_HOME_PET_REPLACE_FOOD_REQ"
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 9,
+    "id": 33297,
+    "prompt_text": "ZONE_HOME_PET_UNLOAD_FOOD_REQ"
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 9,
+    "id": 33301,
+    "prompt_text": "ZONE_HOME_PET_GUARD_REQ"
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 9,
+    "id": 33303,
+    "prompt_text": "ZONE_HOME_PET_FOOD_COMPOUND_REQ"
+  }
+]

@@ -1,0 +1,1493 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 35,
+    "id": 120107,
+    "name": "室内-月牙镇小屋（废弃）",
+    "region_name": "独立室内",
+    "scene_id": 238,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "月牙镇温暖的家",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 53,
+    "id": 120108,
+    "name": "风眠圣所",
+    "sub_name": "探寻翼王的秘密",
+    "region_name": "A1",
+    "scene_id": 113,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "翼王的居所，相传其星之结便保存于圣所的深处。然而如今，翼王已化身「紫黑魔兽」，不知圣所之中会是何等景象……",
+    "hide_tag": 3,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [],
+    "finish_stage": [
+      12010807
+    ],
+    "collection": [
+      {
+        "collect_type": 258,
+        "collect_content_id": [
+          992,
+          98560
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 35,
+    "id": 120109,
+    "name": "A2侦探社拾遗-旅店",
+    "region_name": "独立室内",
+    "scene_id": 140,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "交汇镇旅店，喜欢您再来！",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 35,
+    "id": 120202,
+    "name": "白树空间",
+    "sub_name": "神迹之所！",
+    "region_name": "独立室内",
+    "scene_id": 121,
+    "type": 1,
+    "type_name": "神迹生长之地，白树栖息之所。",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 35,
+    "id": 120203,
+    "name": "空中飞艇",
+    "sub_name": "空中飞艇",
+    "region_name": "独立室内",
+    "scene_id": 124,
+    "type": 1,
+    "type_name": "匠心打造的空中移动交通工具，值得信赖，出行优选！",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 35,
+    "id": 120204,
+    "name": "密道",
+    "sub_name": "觐见之路",
+    "region_name": "独立室内",
+    "scene_id": 125,
+    "type": 1,
+    "type_name": "一条似乎被时光遗忘，但一直在等待命定之人再次踏上的，觐见神迹的古路。",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 39,
+    "id": 120205,
+    "name": "黑暗灵魂之河",
+    "sub_name": "黑暗灵魂之河",
+    "region_name": "任务",
+    "scene_id": 130,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "被噩梦的力量污染的灵魂之河。",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 35,
+    "id": 120305,
+    "name": "魔法学院噩梦广场",
+    "sub_name": "魔法学院噩梦广场",
+    "region_name": "B1",
+    "scene_id": 129,
+    "type": 1,
+    "type_name": "魔法学院噩梦广场",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 40,
+    "id": 120306,
+    "name": "裘卡的幻境",
+    "sub_name": "迷幻之境",
+    "region_name": "B1",
+    "scene_id": 131,
+    "type": 1,
+    "type_name": "魔法学院幻境4层",
+    "hide_tag": 3,
+    "main_exit": true,
+    "finish_stage": [
+      12030604
+    ]
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 35,
+    "id": 120307,
+    "name": "魔法学院正反广场",
+    "sub_name": "魔法学院正反广场",
+    "region_name": "B1",
+    "scene_id": 132,
+    "type": 1,
+    "type_name": "天地正反颠倒的广场",
+    "hide_tag": 3
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 36,
+    "id": 120308,
+    "name": "噩梦危机魔法学院",
+    "sub_name": "噩梦危机魔法学院",
+    "region_name": "B1",
+    "scene_id": 133,
+    "type": 1,
+    "type_name": "噩梦危机笼罩魔法学院",
+    "hide_tag": 3,
+    "main_exit": true
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 36,
+    "id": 120309,
+    "name": "灵镜世界",
+    "sub_name": "灵镜世界",
+    "region_name": "B1",
+    "scene_id": 131,
+    "type": 1,
+    "type_name": "一次仪典学课堂上的意外，误入了这个神秘的空间。",
+    "hide_tag": 3,
+    "main_exit": true
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 32,
+    "id": 150001,
+    "name": "记忆中的黑巫团基地",
+    "sub_name": "邪恶的秘密研究所",
+    "region_name": "A1",
+    "scene_id": 501,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 28,
+    "id": 150002,
+    "name": "记忆中的魔力果之森",
+    "region_name": "A1",
+    "scene_id": 502,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 28,
+    "id": 150003,
+    "name": "记忆中的精灵农场",
+    "region_name": "A1",
+    "scene_id": 503,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 28,
+    "id": 150004,
+    "name": "记忆中的魔力果之森",
+    "region_name": "A1",
+    "scene_id": 504,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 28,
+    "id": 150005,
+    "name": "噩梦龙息帕尔领地",
+    "region_name": "A1",
+    "scene_id": 505,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 50,
+    "id": 210101,
+    "name": "九幽菇的守护地",
+    "sub_name": "对抗额外的能量",
+    "region_name": "A1",
+    "scene_id": 201,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n准备好对抗额外的能量了吗？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 261,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "finish_stage": [
+      21010101
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 266,
+        "collect_content_id": [
+          992,
+          99328
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 54,
+    "id": 210102,
+    "name": "皇家狮鹫的守护地",
+    "sub_name": "抵御附加的连击",
+    "region_name": "A2",
+    "scene_id": 202,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n整装齐备，抵挡强劲的连击吧！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 269,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 3,
+    "finish_stage": [
+      21010201
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 272,
+        "collect_content_id": [
+          1248,
+          100096
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 34,
+    "id": 210103,
+    "name": "海岛绿网",
+    "sub_name": "抓住绿色的织网",
+    "scene_id": 203,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21010302
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 50,
+    "id": 210104,
+    "name": "尖嘴狐仙的守护地",
+    "sub_name": "寻火之旅",
+    "region_name": "A1",
+    "scene_id": 204,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "坐落于岚语峰边秘洞中，雪封的精灵守护地。深入其中抵御严寒，探寻宝物吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 275,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21010401
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 279,
+        "collect_content_id": [
+          480,
+          100864
+        ]
+      },
+      {
+        "collect_type": 281,
+        "collect_content_id": [
+          1504,
+          101376
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 50,
+    "id": 210105,
+    "name": "海枝枝的守护地",
+    "sub_name": "遭受流失的能量",
+    "region_name": "A1",
+    "scene_id": 205,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n似乎感觉到队伍的能量正持续地流失……",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 283,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "finish_stage": [
+      21010501
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 285,
+        "collect_content_id": [
+          992,
+          101888
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 54,
+    "id": 210106,
+    "name": "鳗尾兽的守护地",
+    "sub_name": "弱化的进攻之力",
+    "region_name": "A1",
+    "scene_id": 206,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n似乎感受到，队伍战斗的力量弱了些......",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 288,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 2,
+    "finish_stage": [
+      21010601
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 289,
+        "collect_content_id": [
+          992,
+          102656
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 54,
+    "id": 210107,
+    "name": "雪灵的守护地",
+    "sub_name": "面对凛冽的寒风",
+    "region_name": "A1",
+    "scene_id": 207,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n准备好面对凛冽的寒风了吗？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 292,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 2,
+    "finish_stage": [
+      21010701
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 294,
+        "collect_content_id": [
+          992,
+          103424
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 58,
+    "id": 210108,
+    "name": "怖哭菇的守护地",
+    "sub_name": "背负永恒的印记",
+    "region_name": "A2",
+    "scene_id": 208,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n准备好背负永恒的印记了吗？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 297,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 5,
+    "reward_bagitem_id": [
+      0
+    ],
+    "finish_stage": [
+      21010801
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 299,
+        "collect_content_id": [
+          1248,
+          104192
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 50,
+    "id": 210109,
+    "name": "圆号鱼的守护地",
+    "sub_name": "欢迎光临",
+    "region_name": "A2",
+    "scene_id": 209,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "深埋于王国监狱下的精灵守护地，尘封着久远的遗藏......",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 302,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21010902
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 304,
+        "collect_content_id": [
+          1248,
+          104960
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 49,
+    "id": 210110,
+    "name": "麦克达克的守护地",
+    "sub_name": "鸭之祝福",
+    "region_name": "A1",
+    "scene_id": 210,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "旧飞艇航道下藏匿的精灵守护地。深入其中，破解鸭吉吉之奥秘，获取守护物吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [],
+    "finish_stage": [
+      21011003
+    ],
+    "collection": [
+      {
+        "collect_type": 307,
+        "collect_content_id": [
+          992,
+          105728
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 49,
+    "id": 210111,
+    "name": "法瑞莎莎的守护地",
+    "sub_name": "踏波而下",
+    "region_name": "A1",
+    "scene_id": 211,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "深潭的谷底传来了秘密的回响。带上足够数量的伙伴深入守护地，寻找答案吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [],
+    "finish_stage": [
+      21011103
+    ],
+    "collection": [
+      {
+        "collect_type": 310,
+        "collect_content_id": [
+          480,
+          106496
+        ]
+      },
+      {
+        "collect_type": 312,
+        "collect_content_id": [
+          1504,
+          107008
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 34,
+    "id": 210112,
+    "name": "破风山谷",
+    "sub_name": "迎风而上",
+    "scene_id": 212,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21011202
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 34,
+    "id": 210113,
+    "name": "传送魔镜",
+    "sub_name": "镜中漫游",
+    "scene_id": 213,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21011301
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 46,
+    "id": 210114,
+    "name": "迷迷箱怪的守护地",
+    "region_name": "A1",
+    "scene_id": 214,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "藏匿于挽风屏障山涧的精灵守护地。深入其中探寻秘宝吧！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 314,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21011401
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 316,
+        "collect_content_id": [
+          992,
+          107520
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 34,
+    "id": 210115,
+    "name": "风起的星火",
+    "sub_name": "燃起空中的火炬",
+    "scene_id": 215,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21011502
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 38,
+    "id": 210118,
+    "name": "万千奇境",
+    "sub_name": "变幻莫测的气象",
+    "scene_id": 218,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "battle_starlevel": 5,
+    "finish_stage": [
+      21011801
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 54,
+    "id": 210119,
+    "name": "琉璃水母的守护地",
+    "sub_name": "直面毒雾的笼罩",
+    "region_name": "A2",
+    "scene_id": 219,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n整装齐备，直面浓浓的毒雾吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 319,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 3,
+    "finish_stage": [
+      21011901
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 321,
+        "collect_content_id": [
+          480,
+          108288
+        ]
+      },
+      {
+        "collect_type": 323,
+        "collect_content_id": [
+          1504,
+          108800
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 50,
+    "id": 210120,
+    "name": "镜中世界",
+    "sub_name": "探寻镜中影",
+    "region_name": "A2",
+    "scene_id": 220,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "藏于甜水农庄树林间的精灵守护地。一位研究员正在其中进行某项神奇的研究......",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 325,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "finish_stage": [
+      21012001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 327,
+        "collect_content_id": [
+          480,
+          109312
+        ]
+      },
+      {
+        "collect_type": 329,
+        "collect_content_id": [
+          1504,
+          109824
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 50,
+    "id": 210121,
+    "name": "石冠王蜥的守护地",
+    "sub_name": "寻找不同的石冠王蜥",
+    "region_name": "A2",
+    "scene_id": 221,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "坐落于咕嘟咕嘟浅滩的精灵守护地。一位老学者正在其中兴奋地观察某种精灵……",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 331,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "finish_stage": [
+      21012101
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 332,
+        "collect_content_id": [
+          480,
+          110336
+        ]
+      },
+      {
+        "collect_type": 334,
+        "collect_content_id": [
+          1504,
+          110848
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 46,
+    "id": 210123,
+    "name": "古啦多的守护地",
+    "region_name": "A2",
+    "scene_id": 223,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "矿窟的深处藏匿着古啦多的守护地。深入其中探寻秘宝吧！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 336,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21012301
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 337,
+        "collect_content_id": [
+          480,
+          111360
+        ]
+      },
+      {
+        "collect_type": 339,
+        "collect_content_id": [
+          1504,
+          111872
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 34,
+    "id": 210124,
+    "name": "花中之巫",
+    "sub_name": "花朵的秘密",
+    "scene_id": 224,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21012401
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 33,
+    "id": 210125,
+    "name": "高塔之秘",
+    "sub_name": "塔迹遗踪",
+    "scene_id": 225,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "遗留的珍藏之宝安静地伫立在废弃的塔笼之中……怎样才能得到宝物呢？",
+    "main_exit": true,
+    "has_enter_ui": true
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 38,
+    "id": 210126,
+    "name": "水之道",
+    "sub_name": "探寻地下水道的秘密",
+    "scene_id": 226,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "静静流淌的地下长河边闪烁着点点火光……怎样才能解锁水之道的秘密呢？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21012603
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 33,
+    "id": 210127,
+    "name": "星落遗船",
+    "sub_name": "漫游沉船遗迹",
+    "scene_id": 227,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "在沉寂的船骸深处漫游吧，触碰水中点缀的星光，寻找失落的遗船宝藏……",
+    "main_exit": true,
+    "has_enter_ui": true
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 38,
+    "id": 210128,
+    "name": "觅踪花园",
+    "sub_name": "找到藏在花园里的精灵",
+    "scene_id": 228,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "喜欢躲在土里的精灵们，一定能把你们都找出来！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21012803
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 38,
+    "id": 210129,
+    "name": "精灵迷阵",
+    "sub_name": "让精灵归位吧",
+    "scene_id": 229,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "利用上下移动的石板，帮助精灵们找到属于自己的位置吧！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21012603
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 38,
+    "id": 210130,
+    "name": "真实之门",
+    "sub_name": "穿过虚幻的门扉",
+    "scene_id": 230,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "终于找到了……真正的传送门？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21013001
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 54,
+    "id": 210131,
+    "name": "叮叮恶魔的守护地",
+    "sub_name": "对抗强化的力量",
+    "region_name": "A2",
+    "scene_id": 231,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "散发着黑魔法气息的精灵守护地。\n准备好对抗强化的力量了吗？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 341,
+        "reward_id": 262,
+        "reward_count": 263
+      }
+    ],
+    "battle_starlevel": 3,
+    "finish_stage": [
+      21013101
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 343,
+        "collect_content_id": [
+          1248,
+          112384
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 38,
+    "id": 210132,
+    "name": "石柱阵",
+    "sub_name": "石柱方阵之谜",
+    "scene_id": 232,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "赋予石柱归属之力，解开阵列谜题的秘密吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21013202
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 38,
+    "id": 210133,
+    "name": "雪山暖屋",
+    "sub_name": "雪峰上的小屋",
+    "scene_id": 233,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "风雪崖壁之上，有一座孤零零的雪屋，雪屋中有一位孤零零的……",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21013301
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 46,
+    "id": 210134,
+    "name": "大隐于市",
+    "region_name": "A2",
+    "scene_id": 234,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "竟然在王国城堡的酒馆里发现了被黑巫师埋藏的精灵守护地……全凭实力。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 346,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21013401
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 347,
+        "collect_content_id": [
+          1232,
+          113152
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 46,
+    "id": 210135,
+    "name": "水晶屋",
+    "region_name": "A2",
+    "scene_id": 235,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "在彼得大道上空发现的精灵守护地入口。似乎和水晶球有什么关联……",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 350,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21013501
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 351,
+        "collect_content_id": [
+          1232,
+          113920
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 46,
+    "id": 210136,
+    "name": "晶石蜗的守护地",
+    "region_name": "A2",
+    "scene_id": 236,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "坐落于晨曦山的精灵守护地，残留着秘宝的痕迹。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 354,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21013601
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 356,
+        "collect_content_id": [
+          464,
+          114688
+        ]
+      },
+      {
+        "collect_type": 358,
+        "collect_content_id": [
+          1488,
+          115200
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 46,
+    "id": 210137,
+    "name": "地下管道",
+    "region_name": "A2",
+    "scene_id": 237,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "彼得大道地下铁轨尽头的精灵守护地，连接着藏匿秘宝的某处下水道。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 360,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21013701
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 361,
+        "collect_content_id": [
+          1232,
+          115712
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 33,
+    "id": 210138,
+    "name": "眠星风阵",
+    "sub_name": "飞越地穴高谷",
+    "scene_id": 238,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "借助无穷的风之力量，穿越洞窟飞上顶峰吧！",
+    "main_exit": true,
+    "has_enter_ui": true
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 50,
+    "id": 210139,
+    "name": "幻影屋",
+    "sub_name": "识破暗夜的把戏",
+    "region_name": "A1",
+    "scene_id": 239,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "暗夜幽谧的精灵守护地，却来往着熙熙攘攘的人群……而且面貌竟然一模一样？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 364,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21013901
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 365,
+        "collect_content_id": [
+          976,
+          116480
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 50,
+    "id": 210140,
+    "name": "上升管道",
+    "sub_name": "通往峰顶的密径",
+    "region_name": "A2",
+    "scene_id": 240,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "埋藏于深窟的管道，能通往望风半岛山顶的精灵守护地。跟随着风前往吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 368,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21014001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 369,
+        "collect_content_id": [
+          1232,
+          117248
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 33,
+    "id": 210141,
+    "name": "沙漠之星",
+    "sub_name": "用罗盘寻找隐匿之星",
+    "scene_id": 241,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "跟随罗盘的指引寻找藏匿在沙岛上的星星吧！",
+    "main_exit": true,
+    "has_enter_ui": true
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 46,
+    "id": 210142,
+    "name": "斑枭的守护地",
+    "region_name": "A2",
+    "scene_id": 242,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "藏匿在王国瀑布崖壁间的精灵守护地。深入其中探寻精灵的宝物吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 372,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21014201
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 373,
+        "collect_content_id": [
+          1488,
+          118016
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 49,
+    "id": 210143,
+    "name": "恩佐的临时实验室",
+    "sub_name": "研究与休憩之地",
+    "region_name": "A1",
+    "scene_id": 243,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "学院驻地的旁边居然有个神秘的守护地？恩佐提到这里是「他的实验室」，可是他才来驻地不久……究竟是怎么一回事？",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [],
+    "finish_stage": [
+      21014301
+    ],
+    "collection": []
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 38,
+    "id": 210144,
+    "name": "地下花园",
+    "sub_name": "寻找指示牌的秘密",
+    "scene_id": 222,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "木牌上刻下的古老文字或许可以指引我们找到远古遗留的宝藏！",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "finish_stage": [
+      21014401
+    ],
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 46,
+    "id": 210148,
+    "name": "彼得大道码头下水道",
+    "region_name": "A2",
+    "scene_id": 244,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "学以致用的时刻！化身果冻穿过狭缝，寻得下水道深处守护地中的秘宝。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 376,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21014801
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 377,
+        "collect_content_id": [
+          1232,
+          118784
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 46,
+    "id": 210149,
+    "name": "彼得大道广场下水道",
+    "region_name": "A2",
+    "scene_id": 245,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "彼得大道的地下水道，精灵守护地的入口，只有滑溜溜的果冻才能到达秘宝所在。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 380,
+        "reward_id": 276,
+        "reward_count": 277
+      }
+    ],
+    "finish_stage": [
+      21014901
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 381,
+        "collect_content_id": [
+          1232,
+          119552
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 34,
+    "id": 210150,
+    "name": "豆丁双子（白盒）",
+    "region_name": "关卡白盒",
+    "scene_id": 250,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "测试白盒",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 34,
+    "id": 210151,
+    "name": "夜游魔守护地（白盒）",
+    "region_name": "关卡白盒",
+    "scene_id": 251,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "测试白盒",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 34,
+    "id": 210152,
+    "name": "星云旅者守护地（白盒）",
+    "region_name": "关卡白盒",
+    "scene_id": 252,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "测试白盒",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "has_finish_ui": true
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 29,
+    "id": 210153,
+    "name": "黑巫师之影",
+    "scene_id": 249,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": []
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 29,
+    "id": 410101,
+    "name": "活动-首领角斗场",
+    "sub_name": "活动-首领角斗场",
+    "scene_id": 401,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true
+  },
+  {
+    "_row_key": 66,
+    "_row_size": 20,
+    "id": 800001,
+    "name": "特效专用场景",
+    "scene_id": 801,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 67,
+    "_row_size": 24,
+    "id": 900001,
+    "name": "性能测试副本",
+    "sub_name": "回合战斗自动化",
+    "scene_id": 901,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "_row_key": 68,
+    "_row_size": 28,
+    "id": 900002,
+    "name": "AI测试副本",
+    "sub_name": "AI寻路测试",
+    "region_name": "AI测试场景",
+    "scene_id": 116,
+    "type": 1,
+    "main_exit": true
+  }
+]

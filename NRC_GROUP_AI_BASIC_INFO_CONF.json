@@ -1,0 +1,1847 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 13,
+    "id": 10001,
+    "editor_name": "【种内1】小鸭吉吉鸭吉吉",
+    "event_array": []
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 13,
+    "id": 10002,
+    "editor_name": "噜噜-鸭吉吉",
+    "event_array": []
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 13,
+    "id": 10005,
+    "editor_name": "--种间1--敌对-互殴组",
+    "event_array": [
+      {
+        "event_id": 327,
+        "abort_type": 328,
+        "group_behavior_id": 329,
+        "group_station_id": 330,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 13,
+    "id": 10006,
+    "editor_name": "--种间2--区域-唱歌组",
+    "event_array": []
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 13,
+    "id": 10007,
+    "editor_name": "黑衣人双兄弟",
+    "event_array": []
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 13,
+    "id": 10012,
+    "editor_name": "--种间3--敌对-追逃组",
+    "event_array": []
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 13,
+    "id": 10013,
+    "editor_name": "【种内2】一窝蜂&黄蜂后/花魁蜂后",
+    "event_array": []
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 13,
+    "id": 10014,
+    "editor_name": "--种间4--亲友-日常伴行",
+    "event_array": []
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 13,
+    "id": 10015,
+    "editor_name": "【种内3】伏地兽&贪食鼹/巨噬针鼹",
+    "event_array": []
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 13,
+    "id": 100001,
+    "editor_name": "世界群组",
+    "event_array": [
+      {
+        "event_id": 345,
+        "abort_type": 346,
+        "group_behavior_id": 347,
+        "group_station_id": 348,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 22937600,
+        "abort_type": 23003136,
+        "group_behavior_id": 23068672,
+        "group_station_id": 23134208,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 354,
+        "abort_type": 355,
+        "group_behavior_id": 356,
+        "group_station_id": 357,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 23527424,
+        "abort_type": 23592960,
+        "group_behavior_id": 23658496,
+        "group_station_id": 23724032,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 363,
+        "abort_type": 364,
+        "group_behavior_id": 365,
+        "group_station_id": 366,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 24117248,
+        "abort_type": 24182784,
+        "group_behavior_id": 24248320,
+        "group_station_id": 24313856,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 372,
+        "abort_type": 373,
+        "group_behavior_id": 374,
+        "group_station_id": 375,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 24707072,
+        "abort_type": 24772608,
+        "group_behavior_id": 24838144,
+        "group_station_id": 24903680,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 381,
+        "abort_type": 382,
+        "group_behavior_id": 383,
+        "group_station_id": 384,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 25296896,
+        "abort_type": 25362432,
+        "group_behavior_id": 25427968,
+        "group_station_id": 25493504,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 390,
+        "abort_type": 391,
+        "group_behavior_id": 392,
+        "group_station_id": 393,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 25886720,
+        "abort_type": 25952256,
+        "group_behavior_id": 26017792,
+        "group_station_id": 26083328,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 399,
+        "abort_type": 400,
+        "group_behavior_id": 401,
+        "group_station_id": 402,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 26476544,
+        "abort_type": 26542080,
+        "group_behavior_id": 26607616,
+        "group_station_id": 26673152,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 408,
+        "abort_type": 409,
+        "group_behavior_id": 410,
+        "group_station_id": 411,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 27066368,
+        "abort_type": 27131904,
+        "group_behavior_id": 27197440,
+        "group_station_id": 27262976,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 416,
+        "abort_type": 416,
+        "group_behavior_id": 416,
+        "group_station_id": 416,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 13,
+    "id": 220000,
+    "editor_name": "精灵跟随NPC",
+    "event_array": []
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 13,
+    "id": 230000,
+    "editor_name": "【种内4】煤球憨憨&害羞球球/蓝衣夜灵",
+    "event_array": []
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 13,
+    "id": 230001,
+    "editor_name": "【种内5】黑炎宝宝/黑炎",
+    "event_array": []
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 13,
+    "id": 230002,
+    "editor_name": "【种内6】矮脚爬爬/恶毒红钻",
+    "event_array": []
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 13,
+    "id": 230003,
+    "editor_name": "【种内7】小怂猫&怒目怂猫",
+    "event_array": []
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 13,
+    "id": 230004,
+    "editor_name": "一拥而上一窝蜂_1",
+    "event_array": []
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 13,
+    "id": 230005,
+    "editor_name": "【种内8】电动长颈鹿&奔乐鹿",
+    "event_array": []
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 13,
+    "id": 230006,
+    "editor_name": "听课-追逐",
+    "event_array": []
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 13,
+    "id": 230007,
+    "editor_name": "恋爱",
+    "event_array": []
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 13,
+    "id": 230008,
+    "editor_name": "虚假车轮一窝蜂_1",
+    "event_array": []
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 13,
+    "id": 230009,
+    "editor_name": "打架噜噜与围观群众",
+    "event_array": []
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 13,
+    "id": 230010,
+    "editor_name": "【种内9】春兔-春团",
+    "event_array": []
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 13,
+    "id": 230011,
+    "editor_name": "【种内10】乖乖鹄-蓝珠天鹅",
+    "event_array": []
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 13,
+    "id": 230012,
+    "editor_name": "【种内11】蒲公英分裂",
+    "event_array": []
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 13,
+    "id": 230013,
+    "editor_name": "五个箱子阿米樱",
+    "event_array": []
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 13,
+    "id": 230015,
+    "editor_name": "人型与精灵交互-被拉特围攻的洛克",
+    "event_array": []
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 13,
+    "id": 230016,
+    "editor_name": "【种内11-2】蒲公英合体",
+    "event_array": []
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 13,
+    "id": 230017,
+    "editor_name": "【种内12】蹦蹦进化链",
+    "event_array": []
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 13,
+    "id": 230018,
+    "editor_name": "【种内13】雪豆丁进化链",
+    "event_array": []
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 13,
+    "id": 230019,
+    "editor_name": "【种内14】权杖进化链",
+    "event_array": [
+      {
+        "event_id": 444,
+        "abort_type": 326,
+        "group_behavior_id": 445,
+        "group_station_id": 446,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 13,
+    "id": 230020,
+    "editor_name": "护主犬小孩哥",
+    "event_array": []
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 13,
+    "id": 230021,
+    "editor_name": "【种内15】锥尾羊-铃兰羊-花影羚羊",
+    "event_array": []
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 13,
+    "id": 230022,
+    "editor_name": "--种间5--恶魔狼威慑",
+    "event_array": []
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 13,
+    "id": 230023,
+    "editor_name": "--种间6--多多菌子",
+    "event_array": []
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 13,
+    "id": 230024,
+    "editor_name": "【种内16】咩咩进化链",
+    "event_array": []
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 13,
+    "id": 230025,
+    "editor_name": "万事通游走群组",
+    "event_array": []
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 13,
+    "id": 230026,
+    "editor_name": "心虚三人组和望风精灵",
+    "event_array": []
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 13,
+    "id": 230027,
+    "editor_name": "开心钓鱼佬和他的精灵",
+    "event_array": []
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 13,
+    "id": 230028,
+    "editor_name": "商会成员与商贩",
+    "event_array": []
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 13,
+    "id": 230029,
+    "editor_name": "巡查官与居民",
+    "event_array": []
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 13,
+    "id": 230030,
+    "editor_name": "经理与工人",
+    "event_array": []
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 13,
+    "id": 230032,
+    "editor_name": "--种间7--互殴组_雪豆丁vs呼呼猪",
+    "event_array": [
+      {
+        "event_id": 327,
+        "abort_type": 328,
+        "group_behavior_id": 329,
+        "group_station_id": 330,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 13,
+    "id": 230033,
+    "editor_name": "--种间8--互殴组_蜘蛛恶魔叮VS鸭吉吉丢丢",
+    "event_array": [
+      {
+        "event_id": 465,
+        "abort_type": 327,
+        "group_behavior_id": 328,
+        "group_station_id": 329,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 13,
+    "id": 230034,
+    "editor_name": "--种间9--追逃组_鸭吉吉丢丢VS小草虫",
+    "event_array": []
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 13,
+    "id": 230035,
+    "editor_name": "--种间10--亲友-日常伴行_雪娃娃VS雪丢丢护主犬",
+    "event_array": []
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 13,
+    "id": 230036,
+    "editor_name": "--种间11--互殴组_忽悠狸VS小独角兽冬羽雀恶魔叮",
+    "event_array": [
+      {
+        "event_id": 327,
+        "abort_type": 328,
+        "group_behavior_id": 329,
+        "group_station_id": 330,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 13,
+    "id": 230037,
+    "editor_name": "--种间12--追逃组_星光狮VS电咩咩石肤蜥",
+    "event_array": []
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 13,
+    "id": 230038,
+    "editor_name": "【种内17】石肤蜥",
+    "event_array": [
+      {
+        "event_id": 467,
+        "abort_type": 419,
+        "group_behavior_id": 468,
+        "group_station_id": 469,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 13,
+    "id": 230039,
+    "editor_name": "--种间13--亲友-日常伴行_护主犬A小鼠獭治愈兔B",
+    "event_array": []
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 13,
+    "id": 230040,
+    "editor_name": "--种间14--追逃组_恶魔叮VS伊贝尔板板殻",
+    "event_array": []
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 13,
+    "id": 230041,
+    "editor_name": "吸附示例-小鹬吸附咔咔壳水泡壳_copy",
+    "event_array": []
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 13,
+    "id": 230042,
+    "editor_name": "--种间16--亲友-日常伴行_板板殻VS伊贝尔",
+    "event_array": []
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 13,
+    "id": 230043,
+    "editor_name": "吸附示例2-鄙目鹬高脚鹬捕豆丁鱼快鳍鱼",
+    "event_array": []
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 13,
+    "id": 230044,
+    "editor_name": "【BOSS】岚鸟风洞",
+    "event_array": []
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 13,
+    "id": 230045,
+    "editor_name": "【BOSS】蜂后一族",
+    "event_array": []
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 13,
+    "id": 230046,
+    "editor_name": "【BOSS】奇丽花群",
+    "event_array": []
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 13,
+    "id": 230047,
+    "editor_name": "【BOSS】幽影树幽影树",
+    "event_array": []
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 13,
+    "id": 230048,
+    "editor_name": "【BOSS】棋棋军团",
+    "event_array": [
+      {
+        "event_id": 481,
+        "abort_type": 482,
+        "group_behavior_id": 483,
+        "group_station_id": 484,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 13,
+    "id": 230049,
+    "editor_name": "【BOSS】奇梦咪家族",
+    "event_array": []
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 13,
+    "id": 230050,
+    "editor_name": "【BOSS】圣剑X组装",
+    "event_array": []
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 13,
+    "id": 230051,
+    "editor_name": "【BOSS】噩梦蜂后一族",
+    "event_array": []
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 13,
+    "id": 230052,
+    "editor_name": "【BOSS】噩梦蜂后一族2",
+    "event_array": []
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 13,
+    "id": 230053,
+    "editor_name": "暮星辰群组",
+    "event_array": []
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 13,
+    "id": 260000,
+    "editor_name": "勇猛兄弟和一窝蜂",
+    "event_array": []
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 13,
+    "id": 280000,
+    "editor_name": "【火羽】跳舞行为",
+    "event_array": [
+      {
+        "event_id": 498,
+        "abort_type": 499,
+        "group_behavior_id": 500,
+        "group_station_id": 501,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 66,
+    "_row_size": 13,
+    "id": 280001,
+    "editor_name": "【海豹船长】集体打劫",
+    "event_array": []
+  },
+  {
+    "_row_key": 67,
+    "_row_size": 13,
+    "id": 280002,
+    "editor_name": "【呆小路】陀螺对对碰",
+    "event_array": []
+  },
+  {
+    "_row_key": 68,
+    "_row_size": 13,
+    "id": 280003,
+    "editor_name": "【双灯鱼】超级惊吓",
+    "event_array": []
+  },
+  {
+    "_row_key": 69,
+    "_row_size": 13,
+    "id": 280004,
+    "editor_name": "【new海豹船长-战士】驱赶入侵者",
+    "event_array": []
+  },
+  {
+    "_row_key": 70,
+    "_row_size": 13,
+    "id": 280005,
+    "editor_name": "【利灯鱼new】潜水惊吓",
+    "event_array": []
+  },
+  {
+    "_row_key": 71,
+    "_row_size": 13,
+    "id": 280006,
+    "editor_name": "【翠顶夫人】贵妇和她的追随者",
+    "event_array": [
+      {
+        "event_id": 515,
+        "abort_type": 516,
+        "group_behavior_id": 517,
+        "group_station_id": 518,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 72,
+    "_row_size": 13,
+    "id": 280007,
+    "editor_name": "【哭哭菇】奇怪的伤悲",
+    "event_array": []
+  },
+  {
+    "_row_key": 73,
+    "_row_size": 13,
+    "id": 280008,
+    "editor_name": "【闪电环】互相充电",
+    "event_array": []
+  },
+  {
+    "_row_key": 74,
+    "_row_size": 13,
+    "id": 280009,
+    "editor_name": "【机械系精灵】等待充电",
+    "event_array": []
+  },
+  {
+    "_row_key": 75,
+    "_row_size": 13,
+    "id": 280010,
+    "editor_name": "【九幽菇】有丝分裂",
+    "event_array": []
+  },
+  {
+    "_row_key": 76,
+    "_row_size": 13,
+    "id": 280011,
+    "editor_name": "【多菇丁】二重分裂",
+    "event_array": []
+  },
+  {
+    "_row_key": 77,
+    "_row_size": 13,
+    "id": 280012,
+    "editor_name": "【晶石蜗】蓄能爆炸",
+    "event_array": []
+  },
+  {
+    "_row_key": 78,
+    "_row_size": 13,
+    "id": 280013,
+    "editor_name": "【乌达异地】制造冰山",
+    "event_array": []
+  },
+  {
+    "_row_key": 79,
+    "_row_size": 13,
+    "id": 280014,
+    "editor_name": "【瑰眼仔】旋转绕圈",
+    "event_array": []
+  },
+  {
+    "_row_key": 80,
+    "_row_size": 13,
+    "id": 280015,
+    "editor_name": "【耳翎瑰魅】丢出去",
+    "event_array": []
+  },
+  {
+    "_row_key": 81,
+    "_row_size": 13,
+    "id": 280016,
+    "editor_name": "【寒音蛇】粉粉星训蛇",
+    "event_array": []
+  },
+  {
+    "_row_key": 82,
+    "_row_size": 13,
+    "id": 280017,
+    "editor_name": "【音乐精灵合集】卡瓦重，吸泥鸥，号儿鱼，里拉瑶",
+    "event_array": [
+      {
+        "event_id": 537,
+        "abort_type": 538,
+        "group_behavior_id": 539,
+        "group_station_id": 540,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 83,
+    "_row_size": 13,
+    "id": 280018,
+    "editor_name": "【卡洛儿】安眠曲",
+    "event_array": []
+  },
+  {
+    "_row_key": 84,
+    "_row_size": 13,
+    "id": 280019,
+    "editor_name": "【双灯鱼】趋光性",
+    "event_array": []
+  },
+  {
+    "_row_key": 85,
+    "_row_size": 13,
+    "id": 280020,
+    "editor_name": "【家园】【矿晶虫群组测试】",
+    "event_array": []
+  },
+  {
+    "_row_key": 86,
+    "_row_size": 13,
+    "id": 280021,
+    "editor_name": "【家园】世界群组",
+    "event_array": [
+      {
+        "event_id": 553,
+        "abort_type": 554,
+        "group_behavior_id": 555,
+        "group_station_id": 556,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 36569088,
+        "abort_type": 36634624,
+        "group_behavior_id": 36700160,
+        "group_station_id": 36765696,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 562,
+        "abort_type": 563,
+        "group_behavior_id": 564,
+        "group_station_id": 565,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 37158912,
+        "abort_type": 37224448,
+        "group_behavior_id": 37289984,
+        "group_station_id": 37355520,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 571,
+        "abort_type": 572,
+        "group_behavior_id": 573,
+        "group_station_id": 574,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 37748736,
+        "abort_type": 37814272,
+        "group_behavior_id": 37879808,
+        "group_station_id": 37945344,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 580,
+        "abort_type": 581,
+        "group_behavior_id": 582,
+        "group_station_id": 583,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 38338560,
+        "abort_type": 38404096,
+        "group_behavior_id": 38469632,
+        "group_station_id": 38535168,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 589,
+        "abort_type": 590,
+        "group_behavior_id": 591,
+        "group_station_id": 592,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 38928384,
+        "abort_type": 38993920,
+        "group_behavior_id": 39059456,
+        "group_station_id": 39124992,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 598,
+        "abort_type": 599,
+        "group_behavior_id": 600,
+        "group_station_id": 601,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 39518208,
+        "abort_type": 39583744,
+        "group_behavior_id": 39649280,
+        "group_station_id": 39714816,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 607,
+        "abort_type": 608,
+        "group_behavior_id": 609,
+        "group_station_id": 610,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 40108032,
+        "abort_type": 40173568,
+        "group_behavior_id": 40239104,
+        "group_station_id": 40304640,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 616,
+        "abort_type": 617,
+        "group_behavior_id": 618,
+        "group_station_id": 619,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 40697856,
+        "abort_type": 40763392,
+        "group_behavior_id": 40828928,
+        "group_station_id": 40894464,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 625,
+        "abort_type": 626,
+        "group_behavior_id": 627,
+        "group_station_id": 628,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 41287680,
+        "abort_type": 41353216,
+        "group_behavior_id": 41418752,
+        "group_station_id": 41484288,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 634,
+        "abort_type": 635,
+        "group_behavior_id": 636,
+        "group_station_id": 637,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 41877504,
+        "abort_type": 41943040,
+        "group_behavior_id": 42008576,
+        "group_station_id": 42074112,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 643,
+        "abort_type": 644,
+        "group_behavior_id": 645,
+        "group_station_id": 646,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 42467328,
+        "abort_type": 42532864,
+        "group_behavior_id": 42598400,
+        "group_station_id": 42663936,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 652,
+        "abort_type": 653,
+        "group_behavior_id": 654,
+        "group_station_id": 655,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 43057152,
+        "abort_type": 43122688,
+        "group_behavior_id": 43188224,
+        "group_station_id": 43253760,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 661,
+        "abort_type": 662,
+        "group_behavior_id": 663,
+        "group_station_id": 664,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 43646976,
+        "abort_type": 43712512,
+        "group_behavior_id": 43778048,
+        "group_station_id": 43843584,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 670,
+        "abort_type": 671,
+        "group_behavior_id": 672,
+        "group_station_id": 673,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 44236800,
+        "abort_type": 44302336,
+        "group_behavior_id": 44367872,
+        "group_station_id": 44433408,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 679,
+        "abort_type": 680,
+        "group_behavior_id": 681,
+        "group_station_id": 682,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 44826624,
+        "abort_type": 44892160,
+        "group_behavior_id": 44957696,
+        "group_station_id": 45023232,
+        "auto_destroy": false,
+        "lock_fsm": false
+      }
+    ]
+  },
+  {
+    "_row_key": 87,
+    "_row_size": 13,
+    "id": 300000,
+    "editor_name": "【种内18】草头鸭进化链",
+    "event_array": []
+  },
+  {
+    "_row_key": 88,
+    "_row_size": 13,
+    "id": 300001,
+    "editor_name": "【种内19】小鼠獭进化链",
+    "event_array": [
+      {
+        "event_id": 692,
+        "abort_type": 693,
+        "group_behavior_id": 694,
+        "group_station_id": 695,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 89,
+    "_row_size": 13,
+    "id": 300002,
+    "editor_name": "【白发路路】杂技表演（影响：格兰种子 卡瓦重 公平鸽）",
+    "event_array": []
+  },
+  {
+    "_row_key": 90,
+    "_row_size": 13,
+    "id": 300003,
+    "editor_name": "【夜枭】影分身消失",
+    "event_array": []
+  },
+  {
+    "_row_key": 91,
+    "_row_size": 13,
+    "id": 300004,
+    "editor_name": "【可立鸡】列队敬礼",
+    "event_array": []
+  },
+  {
+    "_row_key": 92,
+    "_row_size": 13,
+    "id": 300005,
+    "editor_name": "【绅士鸡】鸡鸣朗诵团",
+    "event_array": []
+  },
+  {
+    "_row_key": 93,
+    "_row_size": 13,
+    "id": 300006,
+    "editor_name": "【健猫教练】减肥燃脂体操",
+    "event_array": []
+  },
+  {
+    "_row_key": 94,
+    "_row_size": 13,
+    "id": 300007,
+    "editor_name": "【增肌猫懒惰版】变回呼拉猫",
+    "event_array": []
+  },
+  {
+    "_row_key": 95,
+    "_row_size": 13,
+    "id": 300008,
+    "editor_name": "【波波螺】叠积木",
+    "event_array": []
+  },
+  {
+    "_row_key": 96,
+    "_row_size": 13,
+    "id": 300009,
+    "editor_name": "【嗜波螺】呼唤一起缩壳",
+    "event_array": [
+      {
+        "event_id": 718,
+        "abort_type": 719,
+        "group_behavior_id": 720,
+        "group_station_id": 721,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 97,
+    "_row_size": 13,
+    "id": 300010,
+    "editor_name": "叙事相关--敌对互殴",
+    "event_array": [
+      {
+        "event_id": 725,
+        "abort_type": 726,
+        "group_behavior_id": 727,
+        "group_station_id": 728,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 98,
+    "_row_size": 13,
+    "id": 300011,
+    "editor_name": "旋叶虫惊吓奥克",
+    "event_array": []
+  },
+  {
+    "_row_key": 99,
+    "_row_size": 13,
+    "id": 300012,
+    "editor_name": "叙事相关--你逃我追",
+    "event_array": []
+  },
+  {
+    "_row_key": 100,
+    "_row_size": 13,
+    "id": 300013,
+    "editor_name": "叙事相关--指挥机械精灵和搬东西洛克精灵",
+    "event_array": []
+  },
+  {
+    "_row_key": 101,
+    "_row_size": 13,
+    "id": 300014,
+    "editor_name": "叙事相关--杂货铺店员地鼠",
+    "event_array": []
+  },
+  {
+    "_row_key": 102,
+    "_row_size": 13,
+    "id": 300015,
+    "editor_name": "叙事相关--捉迷藏模板",
+    "event_array": []
+  },
+  {
+    "_row_key": 103,
+    "_row_size": 13,
+    "id": 300016,
+    "editor_name": "叙事相关--绿草精灵施法",
+    "event_array": []
+  },
+  {
+    "_row_key": 104,
+    "_row_size": 13,
+    "id": 300017,
+    "editor_name": "叙事相关--小独角兽撞树",
+    "event_array": []
+  },
+  {
+    "_row_key": 105,
+    "_row_size": 13,
+    "id": 300018,
+    "editor_name": "叙事相关--岚鸟与翠顶夫人",
+    "event_array": []
+  },
+  {
+    "_row_key": 106,
+    "_row_size": 13,
+    "id": 300019,
+    "editor_name": "【消波螺】挤在一起",
+    "event_array": []
+  },
+  {
+    "_row_key": 107,
+    "_row_size": 13,
+    "id": 300020,
+    "editor_name": "散步",
+    "event_array": []
+  },
+  {
+    "_row_key": 108,
+    "_row_size": 13,
+    "id": 300021,
+    "editor_name": "蒲公英检测蒲公英娃娃",
+    "event_array": []
+  },
+  {
+    "_row_key": 109,
+    "_row_size": 13,
+    "id": 300022,
+    "editor_name": "羊群追随",
+    "event_array": []
+  },
+  {
+    "_row_key": 110,
+    "_row_size": 13,
+    "id": 300023,
+    "editor_name": "星光狮响应星光狮套装",
+    "event_array": []
+  },
+  {
+    "_row_key": 111,
+    "_row_size": 13,
+    "id": 300024,
+    "editor_name": "皇家狮鹫响应套装",
+    "event_array": []
+  },
+  {
+    "_row_key": 112,
+    "_row_size": 13,
+    "id": 300025,
+    "editor_name": "烈火守护进化链响应时装",
+    "event_array": []
+  },
+  {
+    "_row_key": 113,
+    "_row_size": 13,
+    "id": 300026,
+    "editor_name": "音速犬进化链响应时装",
+    "event_array": []
+  },
+  {
+    "_row_key": 114,
+    "_row_size": 13,
+    "id": 300027,
+    "editor_name": "轻风山老大咆哮",
+    "event_array": []
+  },
+  {
+    "_row_key": 115,
+    "_row_size": 13,
+    "id": 300028,
+    "editor_name": "岚鸟响应套装",
+    "event_array": []
+  },
+  {
+    "_row_key": 116,
+    "_row_size": 13,
+    "id": 300029,
+    "editor_name": "天鹅进化链响应时装",
+    "event_array": []
+  },
+  {
+    "_row_key": 117,
+    "_row_size": 13,
+    "id": 300030,
+    "editor_name": "跟随精灵-小鼠獭和卷胡巨獭",
+    "event_array": []
+  },
+  {
+    "_row_key": 118,
+    "_row_size": 13,
+    "id": 300031,
+    "editor_name": "管乐团群组演奏",
+    "event_array": []
+  },
+  {
+    "_row_key": 119,
+    "_row_size": 13,
+    "id": 300032,
+    "editor_name": "海豹战士呼唤海豹船长",
+    "event_array": []
+  },
+  {
+    "_row_key": 120,
+    "_row_size": 13,
+    "id": 300033,
+    "editor_name": "白金独角兽呼唤小独角兽紧密跟随",
+    "event_array": []
+  },
+  {
+    "_row_key": 121,
+    "_row_size": 13,
+    "id": 300034,
+    "editor_name": "花衣蝶响应时装呼唤草衣虫",
+    "event_array": []
+  },
+  {
+    "_row_key": 122,
+    "_row_size": 13,
+    "id": 380000,
+    "editor_name": "【梦游】催眠精灵-等级1（影响：草头鸭）",
+    "event_array": []
+  },
+  {
+    "_row_key": 123,
+    "_row_size": 13,
+    "id": 380001,
+    "editor_name": "【布克棱岩】地震（世界事件）",
+    "event_array": []
+  },
+  {
+    "_row_key": 124,
+    "_row_size": 13,
+    "id": 380002,
+    "editor_name": "【水栖群落移动】阶间群组迅游-可变阵列",
+    "event_array": []
+  },
+  {
+    "_row_key": 125,
+    "_row_size": 13,
+    "id": 380003,
+    "editor_name": "【风铃鲨-蓝蝶鲨-彩蝶鲨】舞蹈进化链",
+    "event_array": [
+      {
+        "event_id": 787,
+        "abort_type": 788,
+        "group_behavior_id": 789,
+        "group_station_id": 790,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 51904512,
+        "abort_type": 51970048,
+        "group_behavior_id": 52035584,
+        "group_station_id": 52101120,
+        "auto_destroy": false,
+        "lock_fsm": false
+      },
+      {
+        "event_id": 796,
+        "abort_type": 797,
+        "group_behavior_id": 798,
+        "group_station_id": 799,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 52494336,
+        "abort_type": 52559872,
+        "group_behavior_id": 52625408,
+        "group_station_id": 52690944,
+        "auto_destroy": false,
+        "lock_fsm": false
+      }
+    ]
+  },
+  {
+    "_row_key": 126,
+    "_row_size": 13,
+    "id": 380004,
+    "editor_name": "【多多幻影】多多和它生成的幻影",
+    "event_array": []
+  },
+  {
+    "_row_key": 127,
+    "_row_size": 13,
+    "id": 380005,
+    "editor_name": "【机甲-齿轮小子】分裂",
+    "event_array": []
+  },
+  {
+    "_row_key": 128,
+    "_row_size": 13,
+    "id": 380006,
+    "editor_name": "【海豹战士-船长】",
+    "event_array": []
+  },
+  {
+    "_row_key": 129,
+    "_row_size": 13,
+    "id": 380007,
+    "editor_name": "【机甲-齿轮小子】组合",
+    "event_array": []
+  },
+  {
+    "_row_key": 130,
+    "_row_size": 13,
+    "id": 380008,
+    "editor_name": "【海象家族】巡游群落",
+    "event_array": []
+  },
+  {
+    "_row_key": 131,
+    "_row_size": 13,
+    "id": 380009,
+    "editor_name": "【芽眼魔】神秘仪式（生成：夜枭、恶魔狼、恶魔红钻）",
+    "event_array": [
+      {
+        "event_id": 820,
+        "abort_type": 821,
+        "group_behavior_id": 822,
+        "group_station_id": 823,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 132,
+    "_row_size": 13,
+    "id": 380010,
+    "editor_name": "【通用】野生精灵玩家亲昵互斥系统",
+    "event_array": []
+  },
+  {
+    "_row_key": 133,
+    "_row_size": 13,
+    "id": 380011,
+    "editor_name": "【空空颅】吓唬野外精灵 （影响草头鸭、绿耳松鼠）",
+    "event_array": []
+  },
+  {
+    "_row_key": 134,
+    "_row_size": 13,
+    "id": 380012,
+    "editor_name": "【投掷精灵】适用于投掷精灵的覆写群落",
+    "event_array": []
+  },
+  {
+    "_row_key": 135,
+    "_row_size": 13,
+    "id": 380013,
+    "editor_name": "【小螂&兵螂&飞天刀螂】种内斗争",
+    "event_array": [
+      {
+        "event_id": 825,
+        "abort_type": 831,
+        "group_behavior_id": 832,
+        "group_station_id": 833,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 136,
+    "_row_size": 13,
+    "id": 380014,
+    "editor_name": "【转圈跳舞】一对一亲昵互动模板（影响：菊花梨、古钟蛇）",
+    "event_array": [
+      {
+        "event_id": 835,
+        "abort_type": 836,
+        "group_behavior_id": 837,
+        "group_station_id": 838,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 137,
+    "_row_size": 13,
+    "id": 380015,
+    "editor_name": "【卡洛儿】摇篮曲（影响：小狮鹫、白发懒人、呼拉猫）",
+    "event_array": []
+  },
+  {
+    "_row_key": 138,
+    "_row_size": 13,
+    "id": 380016,
+    "editor_name": "【螺旋帕帕】机械系保养服务（影响：贝瑟、方块人、多西）",
+    "event_array": [
+      {
+        "event_id": 842,
+        "abort_type": 843,
+        "group_behavior_id": 844,
+        "group_station_id": 845,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 139,
+    "_row_size": 13,
+    "id": 380017,
+    "editor_name": "【吸泥鸥】哨兵警戒",
+    "event_array": []
+  },
+  {
+    "_row_key": 140,
+    "_row_size": 13,
+    "id": 380018,
+    "editor_name": "【棋棋】棋棋棋",
+    "event_array": []
+  },
+  {
+    "_row_key": 141,
+    "_row_size": 13,
+    "id": 380019,
+    "editor_name": "【绿洲象】超强吸力（影响：裘洛）",
+    "event_array": []
+  },
+  {
+    "_row_key": 142,
+    "_row_size": 13,
+    "id": 380020,
+    "editor_name": "【群落睡眠】背靠背睡大觉",
+    "event_array": []
+  },
+  {
+    "_row_key": 143,
+    "_row_size": 13,
+    "id": 380021,
+    "editor_name": "【狮鹫】着陆覆写",
+    "event_array": []
+  },
+  {
+    "_row_key": 144,
+    "_row_size": 13,
+    "id": 380022,
+    "editor_name": "【呼拉猫】群落跳绳移动",
+    "event_array": []
+  },
+  {
+    "_row_key": 145,
+    "_row_size": 13,
+    "id": 380023,
+    "editor_name": "【斑枭威慑】（影响：地鼠、可立鸡）",
+    "event_array": []
+  },
+  {
+    "_row_key": 146,
+    "_row_size": 13,
+    "id": 380024,
+    "editor_name": "【守护精灵】守护玩家（影响：贝古斯、恶魔叮）",
+    "event_array": []
+  },
+  {
+    "_row_key": 147,
+    "_row_size": 13,
+    "id": 380025,
+    "editor_name": "【贝古斯】投掷精灵群落（影响：贝古斯、火花、立方人）",
+    "event_array": []
+  },
+  {
+    "_row_key": 148,
+    "_row_size": 13,
+    "id": 380026,
+    "editor_name": "【翼龙】飞行群落（影响：冬羽雀、鄙目鹬、可立鸡）",
+    "event_array": []
+  },
+  {
+    "_row_key": 149,
+    "_row_size": 13,
+    "id": 380027,
+    "editor_name": "【丢丢】互相舔（种内同阶）",
+    "event_array": []
+  },
+  {
+    "_row_key": 150,
+    "_row_size": 13,
+    "id": 380028,
+    "editor_name": "【瑰眼仔】相互跳跃（种内同阶）",
+    "event_array": []
+  },
+  {
+    "_row_key": 151,
+    "_row_size": 13,
+    "id": 380029,
+    "editor_name": "【卡波】群落睡眠移动（种内同阶）",
+    "event_array": []
+  },
+  {
+    "_row_key": 152,
+    "_row_size": 13,
+    "id": 380030,
+    "editor_name": "【乌咩】对撞群落 （种内同阶）",
+    "event_array": [
+      {
+        "event_id": 876,
+        "abort_type": 877,
+        "group_behavior_id": 878,
+        "group_station_id": 879,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 153,
+    "_row_size": 13,
+    "id": 380031,
+    "editor_name": "【星尘虫】野生咕噜球（影响：石肤蜥、阿米亚特）",
+    "event_array": [
+      {
+        "event_id": 881,
+        "abort_type": 882,
+        "group_behavior_id": 883,
+        "group_station_id": 884,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 154,
+    "_row_size": 13,
+    "id": 380032,
+    "editor_name": "【豆丁鱼】被鹬捞起（被附近的鄙目鹬&高脚鹬捞起）",
+    "event_array": [
+      {
+        "event_id": 887,
+        "abort_type": 888,
+        "group_behavior_id": 889,
+        "group_station_id": 890,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 155,
+    "_row_size": 13,
+    "id": 380033,
+    "editor_name": "【雪绒鸟】吸附在大型精灵身上（影响石冠王蜥、布克棱岩、波多西、贝多西、圣剑、圣剑X）",
+    "event_array": [
+      {
+        "event_id": 894,
+        "abort_type": 895,
+        "group_behavior_id": 896,
+        "group_station_id": 897,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 58916864,
+        "abort_type": 58982400,
+        "group_behavior_id": 59047936,
+        "group_station_id": 59113472,
+        "auto_destroy": false,
+        "lock_fsm": false
+      }
+    ]
+  },
+  {
+    "_row_key": 156,
+    "_row_size": 13,
+    "id": 380034,
+    "editor_name": "【菊花梨】呼叫空中救援",
+    "event_array": [
+      {
+        "event_id": 905,
+        "abort_type": 906,
+        "group_behavior_id": 907,
+        "group_station_id": 908,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 157,
+    "_row_size": 13,
+    "id": 380035,
+    "editor_name": "【魔翼鸟】萌系航空",
+    "event_array": [
+      {
+        "event_id": 825,
+        "abort_type": 910,
+        "group_behavior_id": 911,
+        "group_station_id": 912,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 158,
+    "_row_size": 13,
+    "id": 380036,
+    "editor_name": "【铠甲虫】甲虫快打",
+    "event_array": [
+      {
+        "event_id": 825,
+        "abort_type": 825,
+        "group_behavior_id": 825,
+        "group_station_id": 825,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 159,
+    "_row_size": 13,
+    "id": 380037,
+    "editor_name": "【尖角蜘蛛】虫网捕捉",
+    "event_array": []
+  },
+  {
+    "_row_key": 160,
+    "_row_size": 13,
+    "id": 380038,
+    "editor_name": "【幽冥眼】惊吓",
+    "event_array": []
+  },
+  {
+    "_row_key": 161,
+    "_row_size": 13,
+    "id": 380039,
+    "editor_name": "【机甲小子】分裂成齿轮小子",
+    "event_array": []
+  },
+  {
+    "_row_key": 162,
+    "_row_size": 13,
+    "id": 380040,
+    "editor_name": "【齿轮小子】组合成机甲小子",
+    "event_array": [
+      {
+        "event_id": 922,
+        "abort_type": 926,
+        "group_behavior_id": 927,
+        "group_station_id": 928,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 163,
+    "_row_size": 13,
+    "id": 530000,
+    "editor_name": "【帕帕斯卡】机械系保养服务",
+    "event_array": [
+      {
+        "event_id": 930,
+        "abort_type": 931,
+        "group_behavior_id": 932,
+        "group_station_id": 933,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 164,
+    "_row_size": 13,
+    "id": 530001,
+    "editor_name": "【晕晕鸡】两只晕晕鸡对练",
+    "event_array": [
+      {
+        "event_id": 935,
+        "abort_type": 936,
+        "group_behavior_id": 937,
+        "group_station_id": 938,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "_row_key": 165,
+    "_row_size": 13,
+    "id": 530002,
+    "editor_name": "【幻灵菇】幻影小灵菇群组仪式",
+    "event_array": []
+  },
+  {
+    "_row_key": 166,
+    "_row_size": 13,
+    "id": 530003,
+    "editor_name": "【幻影灵菇】幻影小灵菇和幻灵菇群组仪式",
+    "event_array": []
+  },
+  {
+    "_row_key": 167,
+    "_row_size": 13,
+    "id": 530004,
+    "editor_name": "【棋绮后】施法召集群组冲撞",
+    "event_array": []
+  },
+  {
+    "_row_key": 168,
+    "_row_size": 13,
+    "id": 530005,
+    "editor_name": "【BOSS】噩梦千棘盔家族",
+    "event_array": []
+  },
+  {
+    "_row_key": 169,
+    "_row_size": 13,
+    "id": 530006,
+    "editor_name": "【BOSS】噩梦布克棱岩家族",
+    "event_array": []
+  }
+]

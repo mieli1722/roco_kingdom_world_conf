@@ -1,0 +1,555 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 25,
+    "id": 1,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_COMMON",
+    "filter_desc": "普",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_02_png.ui_icon_species_02_png'"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 25,
+    "id": 2,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_GRASS",
+    "filter_desc": "草",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_03_png.ui_icon_species_03_png'"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 25,
+    "id": 3,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_FIRE",
+    "filter_desc": "火",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_04_png.ui_icon_species_04_png'"
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 25,
+    "id": 4,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_WATER",
+    "filter_desc": "水",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_05_png.ui_icon_species_05_png'"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 25,
+    "id": 5,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_LIGHT",
+    "filter_desc": "光",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_06_png.ui_icon_species_06_png'"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 25,
+    "id": 6,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_STONE",
+    "filter_desc": "地",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_08_png.ui_icon_species_08_png'"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 25,
+    "id": 7,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_ICE",
+    "filter_desc": "冰",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_09_png.ui_icon_species_09_png'"
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 25,
+    "id": 8,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_DRAGON",
+    "filter_desc": "龙",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_10_png.ui_icon_species_10_png'"
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 25,
+    "id": 9,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_ELECTRIC",
+    "filter_desc": "电",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_11_png.ui_icon_species_11_png'"
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 25,
+    "id": 10,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_TOXIC",
+    "filter_desc": "毒",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_12_png.ui_icon_species_12_png'"
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 25,
+    "id": 11,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_INSECT",
+    "filter_desc": "虫",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_13_png.ui_icon_species_13_png'"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 25,
+    "id": 12,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_FIGHT",
+    "filter_desc": "武",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_14_png.ui_icon_species_14_png'"
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 25,
+    "id": 13,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_WING",
+    "filter_desc": "翼",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_15_png.ui_icon_species_15_png'"
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 25,
+    "id": 14,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_MOE",
+    "filter_desc": "萌",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_16_png.ui_icon_species_16_png'"
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 25,
+    "id": 15,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_GHOST",
+    "filter_desc": "幽",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_17_png.ui_icon_species_17_png'"
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 25,
+    "id": 16,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_DEMON",
+    "filter_desc": "恶",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_18_png.ui_icon_species_18_png'"
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 25,
+    "id": 17,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_MECHANIC",
+    "filter_desc": "机械",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_19_png.ui_icon_species_19_png'"
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 25,
+    "id": 18,
+    "filter_type": 2,
+    "filter_enum_name": "SkillDamType",
+    "filter_enum_value": "SDT_PHANTOM",
+    "filter_desc": "幻",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/Species/Frames/ui_icon_species_20_png.ui_icon_species_20_png'"
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 21,
+    "id": 19,
+    "filter_type": 4,
+    "filter_enum_name": "PetTalentRate",
+    "filter_enum_value": "PTR_PERFECT",
+    "filter_desc": "了不起的天分"
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 21,
+    "id": 20,
+    "filter_type": 4,
+    "filter_enum_name": "PetTalentRate",
+    "filter_enum_value": "PTR_AMAZING",
+    "filter_desc": "相当好的天分"
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 21,
+    "id": 21,
+    "filter_type": 4,
+    "filter_enum_name": "PetTalentRate",
+    "filter_enum_value": "PTR_GOOD",
+    "filter_desc": "还不错的天分"
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 21,
+    "id": 22,
+    "filter_type": 4,
+    "filter_enum_name": "PetTalentRate",
+    "filter_enum_value": "PTR_NORMAL",
+    "filter_desc": "一般般的天分"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 25,
+    "id": 23,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_PHYATK_PERCENT",
+    "filter_desc": "物攻增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_02_png.ui_pet_attribute_02_png'"
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 25,
+    "id": 24,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_PHYDEF_PERCENT",
+    "filter_desc": "物防增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_03_png.ui_pet_attribute_03_png'"
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 25,
+    "id": 25,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEATK_PERCENT",
+    "filter_desc": "魔攻增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_04_png.ui_pet_attribute_04_png'"
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 25,
+    "id": 26,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEDEF_PERCENT",
+    "filter_desc": "魔防增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_05_png.ui_pet_attribute_05_png'"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 25,
+    "id": 27,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEED_PERCENT",
+    "filter_desc": "速度增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_06_png.ui_pet_attribute_06_png'"
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 25,
+    "id": 28,
+    "filter_type": 5,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_HPMAX_PERCENT",
+    "filter_desc": "生命增益类",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_attribute_01_png.ui_pet_attribute_01_png'"
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 25,
+    "id": 29,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_PHYATK",
+    "filter_desc": "物攻",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_02_png.ui_pet_attribute_02_png'"
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 25,
+    "id": 30,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_PHYDEF",
+    "filter_desc": "物防",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_03_png.ui_pet_attribute_03_png'"
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 25,
+    "id": 31,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEATK",
+    "filter_desc": "魔攻",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_04_png.ui_pet_attribute_04_png'"
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 25,
+    "id": 32,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEDEF",
+    "filter_desc": "魔防",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_05_png.ui_pet_attribute_05_png'"
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 25,
+    "id": 33,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_SPEED",
+    "filter_desc": "速度",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_06_png.ui_pet_attribute_06_png'"
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 25,
+    "id": 34,
+    "filter_type": 6,
+    "filter_enum_name": "AttributeType",
+    "filter_enum_value": "AT_HPMAX",
+    "filter_desc": "生命",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/ui_pet_attribute_01_png.ui_pet_attribute_01_png'"
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 25,
+    "id": 35,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_NONE",
+    "filter_desc": "无",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji_wu_png.img_biaoji_wu_png'"
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 25,
+    "id": 36,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_FRUIT",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji10_png.img_biaoji10_png'"
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 25,
+    "id": 37,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_RIDE",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji11_png.img_biaoji11_png'"
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 25,
+    "id": 38,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_HOMELAND",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji16_png.img_biaoji16_png'"
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 25,
+    "id": 39,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_HEALTHPOINT",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji13_png.img_biaoji13_png'"
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 25,
+    "id": 40,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_PHYATTACK",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji6_png.img_biaoji6_png'"
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 25,
+    "id": 41,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_SPEATTACK",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji15_png.img_biaoji15_png'"
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 25,
+    "id": 42,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_DEFENCE",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji1_png.img_biaoji1_png'"
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 25,
+    "id": 43,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_SPEDEFEND",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji12_png.img_biaoji12_png'"
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 25,
+    "id": 44,
+    "filter_type": 9,
+    "filter_enum_name": "PetPartnerMarkType",
+    "filter_enum_value": "PPMT_SPEED",
+    "filter_desc": "标记",
+    "filter_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_biaoji14_png.img_biaoji14_png'"
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 21,
+    "id": 45,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_1",
+    "filter_desc": "无"
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 21,
+    "id": 46,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_2",
+    "filter_desc": "奇袭"
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 21,
+    "id": 47,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_3",
+    "filter_desc": "亲密"
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 21,
+    "id": 48,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_4",
+    "filter_desc": "灵巧"
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 21,
+    "id": 49,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_5",
+    "filter_desc": "疾行"
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 21,
+    "id": 50,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_6",
+    "filter_desc": "同乘"
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 21,
+    "id": 51,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_7",
+    "filter_desc": "无畏"
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 21,
+    "id": 52,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_8",
+    "filter_desc": "爱分享"
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 21,
+    "id": 53,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_9",
+    "filter_desc": "家里蹲"
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 21,
+    "id": 54,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_10",
+    "filter_desc": "热心教"
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 21,
+    "id": 55,
+    "filter_type": 10,
+    "filter_enum_name": "PetTalentFilterName",
+    "filter_enum_value": "PTFN_TALENT_11",
+    "filter_desc": "慈悲为怀"
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 21,
+    "id": 56,
+    "filter_type": 12,
+    "filter_enum_name": "PetCatchTime",
+    "filter_enum_value": "PCT_TODAY",
+    "filter_desc": "本日内"
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 21,
+    "id": 57,
+    "filter_type": 12,
+    "filter_enum_name": "PetCatchTime",
+    "filter_enum_value": "PCT_THISWEEK",
+    "filter_desc": "本周内"
+  }
+]

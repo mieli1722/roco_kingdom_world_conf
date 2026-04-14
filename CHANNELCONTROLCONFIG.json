@@ -1,0 +1,78 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 13,
+    "id": 1,
+    "cli_login_channel": [
+      0
+    ],
+    "editor_name": "常规通用，全部显示。生效中，不要改。"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 13,
+    "id": 2,
+    "cli_login_channel": [
+      1
+    ],
+    "editor_name": "微信登录显示，QQ不显示。生效中，不要改。"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 13,
+    "id": 3,
+    "cli_login_channel": [
+      2
+    ],
+    "editor_name": "QQ登录显示，微信不显示。生效中，不要改。"
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 13,
+    "id": 4,
+    "cli_login_channel": [
+      -1
+    ],
+    "editor_name": "全部渠道都不显示，屏蔽(隐藏)这个功能。生效中，不要改。"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 5,
+    "cli_login_channel": [
+      1
+    ],
+    "pkg_channel_hidden_list": null,
+    "editor_name": "微信登录显示，QQ登录和特定的外发渠道不显示"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 6,
+    "cli_login_channel": [
+      2
+    ],
+    "pkg_channel_show_list": null,
+    "editor_name": "QQ登录显示，特定的外发渠道显示，微信登录和PC不显示"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 7,
+    "cli_login_channel": [
+      0
+    ],
+    "pkg_channel_hidden_list": null,
+    "editor_name": "QQ、微信、PC都显示，特定的外发渠道不显示"
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 17,
+    "id": 8,
+    "cli_login_channel": [
+      0
+    ],
+    "pkg_channel_hidden_list": "/",
+    "editor_name": "外发渠道屏蔽分享二维码"
+  }
+]

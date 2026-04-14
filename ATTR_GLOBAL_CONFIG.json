@@ -1,0 +1,516 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 4,
+    "key": "at_hp_maximum",
+    "editor_name": "宠物列表显示时，精力属性最大值（作为长度条的分母）",
+    "num": 500
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 17,
+    "id": 5,
+    "key": "at_attack_maximum",
+    "editor_name": "宠物列表显示时，攻击属性最大值（作为长度条的分母）",
+    "num": 300
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 17,
+    "id": 6,
+    "key": "at_special_attack_maximum",
+    "editor_name": "宠物列表显示时，特攻属性最大值（作为长度条的分母）",
+    "num": 300
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 17,
+    "id": 7,
+    "key": "at_defense_maximium",
+    "editor_name": "宠物列表显示时，防御属性最大值（作为长度条的分母）",
+    "num": 300
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 8,
+    "key": "at_special_defense_maximum",
+    "editor_name": "宠物列表显示时，特防属性最大值（作为长度条的分母）",
+    "num": 300
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 9,
+    "key": "at_speed_maximum",
+    "editor_name": "宠物列表显示时，速度属性最大值（作为长度条的分母）",
+    "num": 300
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 18,
+    "key": "hp_max_race_constant",
+    "editor_name": "HP种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 200
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 17,
+    "id": 19,
+    "key": "hp_max_talent_constant",
+    "editor_name": "HP个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 17,
+    "id": 20,
+    "key": "hp_max_base_point_constant",
+    "editor_name": "HP成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 17,
+    "id": 21,
+    "key": "hp_max_level_constant",
+    "editor_name": "HP等级成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 17,
+    "id": 22,
+    "key": "phy_attack_race_constant",
+    "editor_name": "物攻种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 17,
+    "id": 23,
+    "key": "phy_attack_talent_constant",
+    "editor_name": "物攻个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 50
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 24,
+    "key": "phy_attack_base_point_constant",
+    "editor_name": "物攻成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 13,
+    "id": 25,
+    "key": "phy_attack_level_constant",
+    "editor_name": "物攻等级成长常数（参与计算时会除以10000，不可配置小数）"
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 17,
+    "id": 26,
+    "key": "spe_attack_race_constant",
+    "editor_name": "特攻种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 17,
+    "id": 27,
+    "key": "spe_attack_talent_constant",
+    "editor_name": "特攻个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 50
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 17,
+    "id": 28,
+    "key": "spe_attack_base_point_constant",
+    "editor_name": "特攻成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 13,
+    "id": 29,
+    "key": "spe_attack_level_constant",
+    "editor_name": "特攻等级成长常数（参与计算时会除以10000，不可配置小数）"
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 17,
+    "id": 30,
+    "key": "phy_defence_race_constant",
+    "editor_name": "物防种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 17,
+    "id": 31,
+    "key": "phy_defence_talent_constant",
+    "editor_name": "物防个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 50
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 17,
+    "id": 32,
+    "key": "phy_defence_base_point_constant",
+    "editor_name": "物防成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 13,
+    "id": 33,
+    "key": "phy_defence_level_constant",
+    "editor_name": "物防等级成长常数（参与计算时会除以10000，不可配置小数）"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 17,
+    "id": 34,
+    "key": "spe_defence_race_constant",
+    "editor_name": "特防种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 17,
+    "id": 35,
+    "key": "spe_defence_talent_constant",
+    "editor_name": "特防个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 50
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 17,
+    "id": 36,
+    "key": "spe_defence_base_point_constant",
+    "editor_name": "特防成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 13,
+    "id": 37,
+    "key": "spe_defence_level_constant",
+    "editor_name": "特防等级成长常数（参与计算时会除以10000，不可配置小数）"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 17,
+    "id": 38,
+    "key": "speed_race_constant",
+    "editor_name": "速度种族成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 100
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 17,
+    "id": 39,
+    "key": "speed_talent_constant",
+    "editor_name": "速度个体成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 50
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 17,
+    "id": 40,
+    "key": "speed_base_point_constant",
+    "editor_name": "速度成长值成长常数（参与计算时会除以10000，不可配置小数）",
+    "num": 10000
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 13,
+    "id": 41,
+    "key": "speed_level_constant",
+    "editor_name": "速度等级成长常数（参与计算时会除以10000，不可配置小数）"
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 17,
+    "id": 50,
+    "key": "talent_random_minimum",
+    "editor_name": "天赋取值区间（最小值）",
+    "num": 1
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 17,
+    "id": 51,
+    "key": "talent_random_maximum",
+    "editor_name": "天赋取值区间（最大值）",
+    "num": 50
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 17,
+    "id": 105,
+    "key": "race_hp_maximum",
+    "editor_name": "宠物列表显示时，精力种族资质最大值（作为长度条的分母）",
+    "num": 255
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 17,
+    "id": 106,
+    "key": "race_attack_maximum",
+    "editor_name": "宠物列表显示时，攻击种族资质最大值（作为长度条的分母）",
+    "num": 200
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 17,
+    "id": 107,
+    "key": "race_special_attack_maximum",
+    "editor_name": "宠物列表显示时，特攻种族资质最大值（作为长度条的分母）",
+    "num": 200
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 17,
+    "id": 108,
+    "key": "race_defense_maximium",
+    "editor_name": "宠物列表显示时，防御种族资质最大值（作为长度条的分母）",
+    "num": 200
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 17,
+    "id": 109,
+    "key": "race_special_defense_maximum",
+    "editor_name": "宠物列表显示时，特防种族资质最大值（作为长度条的分母）",
+    "num": 200
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 17,
+    "id": 110,
+    "key": "race_speed_maximum",
+    "editor_name": "宠物列表显示时，速度种族资质最大值（作为长度条的分母）",
+    "num": 200
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 17,
+    "id": 111,
+    "key": "talent_hp_maximum",
+    "editor_name": "宠物列表显示时，精力个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 17,
+    "id": 112,
+    "key": "talent_attack_maximum",
+    "editor_name": "宠物列表显示时，攻击个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 17,
+    "id": 113,
+    "key": "talent_special_attack_maximum",
+    "editor_name": "宠物列表显示时，特攻个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 17,
+    "id": 114,
+    "key": "talent_defense_maximium",
+    "editor_name": "宠物列表显示时，防御个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 17,
+    "id": 115,
+    "key": "talent_special_defense_maximum",
+    "editor_name": "宠物列表显示时，特防个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 17,
+    "id": 116,
+    "key": "talent_speed_maximum",
+    "editor_name": "宠物列表显示时，速度个体资质最大值（作为长度条的分母）",
+    "num": 50
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 17,
+    "id": 163,
+    "key": "hp_max_race_add_level",
+    "editor_name": "HP初始值种族附加等级",
+    "num": 25
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 17,
+    "id": 164,
+    "key": "phy_attack_race_add_level",
+    "editor_name": "物理攻击初始值种族附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 17,
+    "id": 165,
+    "key": "spe_attack_race_add_level",
+    "editor_name": "特殊攻击初始值种族附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 17,
+    "id": 166,
+    "key": "phy_defence_race_add_level",
+    "editor_name": "物理防御初始值种族附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 17,
+    "id": 167,
+    "key": "spe_defence_race_add_level",
+    "editor_name": "特殊防御初始值种族附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 17,
+    "id": 168,
+    "key": "speed_race_add_level",
+    "editor_name": "速度初始值种族附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 17,
+    "id": 169,
+    "key": "hp_max_talent_add_level",
+    "editor_name": "HP初始值个体附加等级",
+    "num": 25
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 17,
+    "id": 170,
+    "key": "phy_attack_talent_add_level",
+    "editor_name": "物理攻击初始值个体附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 17,
+    "id": 171,
+    "key": "spe_attack_talent_add_level",
+    "editor_name": "特殊攻击初始值个体附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 17,
+    "id": 172,
+    "key": "phy_defence_talent_add_level",
+    "editor_name": "物理防御初始值个体附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 17,
+    "id": 173,
+    "key": "spe_defence_talent_add_level",
+    "editor_name": "特殊防御初始值个体附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 17,
+    "id": 174,
+    "key": "speed_talent_add_level",
+    "editor_name": "速度初始值个体附加等级",
+    "num": 50
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 17,
+    "id": 175,
+    "key": "phy_dam_param",
+    "editor_name": "物理伤害公式参数",
+    "num": 41
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 17,
+    "id": 176,
+    "key": "spe_dam_param",
+    "editor_name": "特殊伤害公式参数",
+    "num": 41
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 17,
+    "id": 177,
+    "key": "phy_dam_level_mag",
+    "editor_name": "物理伤害公式等级倍率参数",
+    "num": 45
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 17,
+    "id": 178,
+    "key": "spe_dam_level_mag",
+    "editor_name": "特殊伤害公式等级倍率参数",
+    "num": 45
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 17,
+    "id": 179,
+    "key": "phy_dam_level_add",
+    "editor_name": "物理伤害公式等级附加参数",
+    "num": 10
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 17,
+    "id": 180,
+    "key": "spe_dam_level_add",
+    "editor_name": "特殊伤害公式等级附加参数",
+    "num": 10
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 17,
+    "id": 181,
+    "key": "phy_dam_floor",
+    "editor_name": "物理伤害保底值",
+    "num": 2
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 17,
+    "id": 182,
+    "key": "spe_dam_floor",
+    "editor_name": "特殊伤害保底值",
+    "num": 2
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 13,
+    "id": 183,
+    "key": "dam_floor",
+    "editor_name": "伤害保底值"
+  }
+]

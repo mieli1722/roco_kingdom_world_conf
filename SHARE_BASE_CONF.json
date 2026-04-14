@@ -1,0 +1,147 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 30,
+    "id": 1,
+    "share_button_type": 1,
+    "share_name": "精灵分享",
+    "base_id": [
+      101,
+      102,
+      103
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53020000,
+      53020001,
+      53020002,
+      53020003
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 34,
+    "id": 2,
+    "share_button_type": 2,
+    "share_name": "拍照分享",
+    "base_id": [
+      201
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53030000
+    ],
+    "channel_limit": 1,
+    "QRcode_limit": 4
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 30,
+    "id": 3,
+    "share_button_type": 3,
+    "share_name": "截图分享",
+    "base_id": [
+      301
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53040000
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 30,
+    "id": 4,
+    "share_button_type": 4,
+    "share_name": "阵容分享",
+    "base_id": [
+      401
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53050000
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 34,
+    "id": 5,
+    "share_button_type": 5,
+    "share_name": "名片分享",
+    "base_id": [
+      501,
+      502
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53060000,
+      53060001,
+      53060002
+    ],
+    "channel_limit": 1,
+    "QRcode_limit": 4
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 30,
+    "id": 6,
+    "share_button_type": 6,
+    "share_name": "闪耀大赛分享",
+    "base_id": [
+      601
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53070000
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 26,
+    "id": 7,
+    "share_button_type": 7,
+    "share_name": "精灵上报分享",
+    "base_id": [
+      701
+    ],
+    "system_control_limit": [
+      53100000
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 30,
+    "id": 10,
+    "share_button_type": 10,
+    "share_name": "SIM卡分享",
+    "base_id": [
+      1001,
+      1003
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53080000
+    ],
+    "channel_limit": 1
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 30,
+    "id": 11,
+    "share_button_type": 11,
+    "share_name": "邀请好友活动",
+    "base_id": [
+      1002
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53090000
+    ],
+    "channel_limit": 1
+  }
+]

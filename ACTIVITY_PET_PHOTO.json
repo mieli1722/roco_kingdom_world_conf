@@ -1,0 +1,85 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 42,
+    "id": 4400001,
+    "part_name": "完成全部精灵拍照\n获得精灵合影",
+    "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+    "goods_type": 1,
+    "goods_id": 1002142,
+    "goods_count": 1,
+    "package_id1": 10501,
+    "package_id2": 10502,
+    "tips": "暂未完成",
+    "condition_group": []
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 46,
+    "id": 4400002,
+    "part_name": "完成全部精灵拍照\n获得精灵合影",
+    "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+    "goods_type": 1,
+    "goods_id": 1002145,
+    "goods_count": 1,
+    "package_id1": 10701,
+    "package_id2": 10702,
+    "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo2.img_FashionPetPhoto_Photo2'",
+    "tips": "暂未完成",
+    "condition_group": [
+      {
+        "condition_photo": null,
+        "base_id": 15,
+        "unfinish_photo": null,
+        "base_ids": [
+          11248,
+          871680,
+          11264,
+          11520
+        ]
+      }
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 46,
+    "id": 4400003,
+    "part_name": "完成全部精灵拍照\n获得精灵合影",
+    "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+    "goods_type": 1,
+    "goods_id": 1002146,
+    "goods_count": 1,
+    "package_id1": 10901,
+    "package_id2": 10902,
+    "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo3.img_FashionPetPhoto_Photo3'",
+    "tips": "暂未完成",
+    "condition_group": []
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 46,
+    "id": 4400004,
+    "part_name": "完成全部精灵拍照\n获得精灵合影",
+    "scpart_name": "完成全部精灵拍照即可领取奖励，当前进度：%s/%s",
+    "goods_type": 1,
+    "goods_id": 1002143,
+    "goods_count": 1,
+    "package_id1": 10601,
+    "package_id2": 10602,
+    "photo_res": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/FashionPetPhoto/img_FashionPetPhoto_Photo4.img_FashionPetPhoto_Photo4'",
+    "tips": "暂未完成",
+    "condition_group": [
+      {
+        "condition_photo": null,
+        "base_id": 22,
+        "unfinish_photo": null,
+        "base_ids": [
+          16624,
+          839168,
+          16640,
+          16896
+        ]
+      }
+    ]
+  }
+]

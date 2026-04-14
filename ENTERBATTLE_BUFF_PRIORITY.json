@@ -1,0 +1,230 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 1,
+    "ai_status": 1,
+    "editor_name": "攻击",
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 13,
+    "id": 2,
+    "ai_status": 2,
+    "editor_name": "亲近"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 25,
+    "id": 3,
+    "ai_status": 3,
+    "editor_name": "睡觉",
+    "ai_status_trans_buff_id": 20500010,
+    "buff_priority": 2,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 13,
+    "id": 4,
+    "ai_status": 4,
+    "editor_name": "胆小"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 13,
+    "id": 5,
+    "ai_status": 5,
+    "editor_name": "警惕"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 21,
+    "id": 6,
+    "ai_status": 6,
+    "editor_name": "匿踪埋地",
+    "ai_status_trans_buff_id": 20500030,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 21,
+    "id": 7,
+    "ai_status": 7,
+    "editor_name": "匿踪静止",
+    "ai_status_trans_buff_id": 20500040,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 21,
+    "id": 8,
+    "ai_status": 8,
+    "editor_name": "匿踪不可交互幻化",
+    "ai_status_trans_buff_id": 20500050,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 13,
+    "id": 9,
+    "ai_status": 9,
+    "editor_name": "匿踪躲藏"
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 13,
+    "id": 10,
+    "ai_status": 10,
+    "editor_name": "匿踪可交互幻化"
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 13,
+    "id": 11,
+    "ai_status": 11,
+    "editor_name": "通用击晕"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 21,
+    "id": 12,
+    "ai_status": 12,
+    "editor_name": "幽灵化",
+    "ai_status_trans_buff_id": 20500070,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 13,
+    "id": 13,
+    "ai_status": 13,
+    "editor_name": "闪电化"
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 21,
+    "id": 14,
+    "ai_status": 14,
+    "editor_name": "潜水",
+    "ai_status_trans_buff_id": 20500090,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 21,
+    "id": 15,
+    "ai_status": 15,
+    "editor_name": "鱼跃",
+    "ai_status_trans_buff_id": 20500090,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 21,
+    "id": 16,
+    "ai_status": 16,
+    "editor_name": "尾随",
+    "ai_status_trans_buff_id": 20500100,
+    "buff_priority": 3
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 13,
+    "id": 17,
+    "ai_status": 17,
+    "editor_name": "飞落"
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 25,
+    "id": 18,
+    "ai_status": 18,
+    "editor_name": "背袭",
+    "ai_status_trans_buff_id": 20330010,
+    "buff_priority": 1,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 25,
+    "id": 19,
+    "ai_status": 19,
+    "editor_name": "1阶魔法击晕",
+    "ai_status_trans_buff_id": 20500130,
+    "buff_priority": 4,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 25,
+    "id": 20,
+    "ai_status": 20,
+    "editor_name": "2阶魔法击晕",
+    "ai_status_trans_buff_id": 20500140,
+    "buff_priority": 4,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 25,
+    "id": 21,
+    "ai_status": 21,
+    "editor_name": "3阶魔法击晕",
+    "ai_status_trans_buff_id": 20500150,
+    "buff_priority": 4,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 25,
+    "id": 22,
+    "ai_status": 22,
+    "editor_name": "4阶魔法击晕",
+    "ai_status_trans_buff_id": 20500160,
+    "buff_priority": 4,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 13,
+    "id": 23,
+    "ai_status": 23,
+    "editor_name": "废弃"
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 25,
+    "id": 24,
+    "ai_status": 24,
+    "editor_name": "噩梦护盾",
+    "ai_status_trans_buff_id": 20960020,
+    "buff_priority": 5,
+    "buff_coexistence_group": 1
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 13,
+    "id": 25,
+    "ai_status": 25,
+    "editor_name": "完全埋地"
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 13,
+    "id": 26,
+    "ai_status": 26,
+    "editor_name": "悬挂"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 25,
+    "id": 27,
+    "ai_status": 27,
+    "editor_name": "攻击额外BUFF",
+    "ai_status_trans_buff_id": 20230010,
+    "buff_priority": 1,
+    "buff_coexistence_group": 1
+  }
+]

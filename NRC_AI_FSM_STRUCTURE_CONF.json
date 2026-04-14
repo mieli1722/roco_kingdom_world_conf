@@ -1,0 +1,383 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 1,
+    "annotation": "4相通用类外层",
+    "start_state_id": 1,
+    "state_id": [
+      1,
+      2,
+      56,
+      4
+    ]
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 17,
+    "id": 2,
+    "annotation": "4相通用类内层",
+    "start_state_id": 5,
+    "state_id": [
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 17,
+    "id": 22,
+    "annotation": "亲昵内层",
+    "start_state_id": 101,
+    "state_id": [
+      101,
+      102
+    ]
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 17,
+    "id": 23,
+    "annotation": "亲昵外层",
+    "start_state_id": 96,
+    "state_id": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      169
+    ]
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 17,
+    "id": 40,
+    "annotation": "1030代通用外层",
+    "start_state_id": 179,
+    "state_id": [
+      179,
+      180,
+      181,
+      182,
+      10,
+      75,
+      76
+    ]
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 41,
+    "annotation": "1030代通用内层",
+    "start_state_id": 183,
+    "state_id": [
+      183,
+      184,
+      185,
+      186,
+      187
+    ]
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 42,
+    "annotation": "【废弃】首领AI外层",
+    "start_state_id": 188,
+    "state_id": [
+      188,
+      189,
+      190,
+      191,
+      9
+    ]
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 17,
+    "id": 43,
+    "annotation": "【废弃】首领AI内层",
+    "start_state_id": 192,
+    "state_id": [
+      192,
+      193,
+      194,
+      195,
+      3,
+      60,
+      61,
+      43,
+      44
+    ]
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 17,
+    "id": 46,
+    "annotation": "【测试】行为差分内层",
+    "start_state_id": 12,
+    "state_id": [
+      13,
+      11,
+      15,
+      12
+    ]
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 17,
+    "id": 47,
+    "annotation": "【测试】差分行为外层",
+    "start_state_id": 31,
+    "state_id": [
+      31,
+      27,
+      36,
+      77,
+      78,
+      79,
+      80,
+      81
+    ]
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 17,
+    "id": 48,
+    "annotation": "【测试】默认内层",
+    "start_state_id": 22,
+    "state_id": [
+      25,
+      22,
+      24,
+      23,
+      26
+    ]
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 17,
+    "id": 49,
+    "annotation": "抵抗击晕内层",
+    "start_state_id": 20,
+    "state_id": [
+      20,
+      21
+    ]
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 53,
+    "annotation": "【测试】抵抗击晕内层",
+    "start_state_id": 14,
+    "state_id": [
+      14,
+      16
+    ]
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 17,
+    "id": 59,
+    "annotation": "关卡模板内层",
+    "start_state_id": 30,
+    "state_id": [
+      17,
+      18,
+      29,
+      30,
+      46
+    ]
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 17,
+    "id": 60,
+    "annotation": "关卡模板外层",
+    "start_state_id": 49,
+    "state_id": [
+      47,
+      52,
+      49,
+      50,
+      51
+    ]
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 17,
+    "id": 61,
+    "annotation": "【2.0首领战】外层",
+    "start_state_id": 28,
+    "state_id": [
+      48,
+      28,
+      32,
+      45
+    ]
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 17,
+    "id": 62,
+    "annotation": "【2.0首领战】单人内层",
+    "start_state_id": 39,
+    "state_id": [
+      39,
+      41,
+      40,
+      82,
+      83
+    ]
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 17,
+    "id": 63,
+    "annotation": "【2.0首领战】单联内层",
+    "start_state_id": 58,
+    "state_id": [
+      59,
+      53,
+      54,
+      58,
+      57,
+      19,
+      33
+    ]
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 17,
+    "id": 64,
+    "annotation": "【2.0首领战】互访内层",
+    "start_state_id": 65,
+    "state_id": [
+      68,
+      63,
+      64,
+      65,
+      66,
+      67,
+      34,
+      35,
+      84,
+      85
+    ]
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 17,
+    "id": 65,
+    "annotation": "【上线版本】跟随精灵",
+    "start_state_id": 37,
+    "state_id": [
+      37,
+      38,
+      42
+    ]
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 17,
+    "id": 66,
+    "annotation": "【上线版本】跟随日常内层",
+    "start_state_id": 55,
+    "state_id": [
+      55,
+      62,
+      72,
+      73
+    ]
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 17,
+    "id": 67,
+    "annotation": "【上线版本】亲昵互动内层",
+    "start_state_id": 69,
+    "state_id": [
+      69,
+      70,
+      71,
+      74
+    ]
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 17,
+    "id": 68,
+    "annotation": "【上线版本】家园精灵外层状态机",
+    "start_state_id": 86,
+    "state_id": [
+      86,
+      87,
+      88,
+      93,
+      116,
+      117,
+      118,
+      120
+    ]
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 17,
+    "id": 69,
+    "annotation": "【上线版本】家园精灵内层状态机",
+    "start_state_id": 89,
+    "state_id": [
+      94,
+      90,
+      91,
+      92,
+      89,
+      95
+    ]
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 17,
+    "id": 70,
+    "annotation": "【家园】拓扑关系梳理",
+    "start_state_id": 103,
+    "state_id": [
+      103,
+      104,
+      108,
+      106,
+      107,
+      105
+    ]
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 17,
+    "id": 71,
+    "annotation": "【家园】精灵驻守",
+    "start_state_id": 109,
+    "state_id": [
+      109,
+      110,
+      111,
+      113
+    ]
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 17,
+    "id": 72,
+    "annotation": "【家园】精灵驻守外层",
+    "start_state_id": 112,
+    "state_id": [
+      112,
+      114,
+      115,
+      119
+    ]
+  }
+]

@@ -1,0 +1,920 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 21,
+    "id": 10001,
+    "editor_name": "呼唤者背后小范围",
+    "station_param": [
+      200,
+      50,
+      135,
+      -135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 21,
+    "id": 10002,
+    "editor_name": "包围玩家",
+    "station_param": [
+      500,
+      0,
+      -150,
+      150
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 21,
+    "id": 10003,
+    "editor_name": "呼唤者身前小范围",
+    "station_param": [
+      200,
+      50,
+      -45,
+      45
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 21,
+    "id": 10004,
+    "editor_name": "呼唤者周围一圈",
+    "station_param": [
+      300,
+      50,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 21,
+    "id": 10005,
+    "editor_name": "呼唤者身前大范围",
+    "station_param": [
+      300,
+      150,
+      -120,
+      120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 17,
+    "id": 10006,
+    "editor_name": "呼唤者身前-对峙用",
+    "station_param": [
+      500,
+      100,
+      -45,
+      45
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 17,
+    "id": 10007,
+    "editor_name": "呼唤者身前-恋爱用",
+    "station_param": [
+      200,
+      50,
+      -45,
+      45
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 21,
+    "id": 10008,
+    "editor_name": "紧贴呼唤者",
+    "station_param": [
+      150,
+      0,
+      90,
+      90
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 25,
+    "id": 10009,
+    "editor_name": "排成一排",
+    "group_station_type": 1,
+    "station_param": [
+      125,
+      0,
+      165,
+      -165
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 25,
+    "id": 10010,
+    "editor_name": "重心外扩",
+    "station_param": [
+      800,
+      200,
+      -120,
+      120
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 25,
+    "id": 10011,
+    "editor_name": "重心聚集",
+    "station_param": [
+      100,
+      0,
+      -120,
+      120
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 17,
+    "id": 10012,
+    "editor_name": "呼唤者周围一圈_向内",
+    "station_param": [
+      300,
+      0,
+      -145,
+      145
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 10013,
+    "editor_name": "呼唤者周围一圈_更大的圈",
+    "station_param": [
+      1000,
+      200,
+      -145,
+      145
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 17,
+    "id": 10014,
+    "editor_name": "呼唤者背后大范围",
+    "station_param": [
+      500,
+      100,
+      135,
+      -135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 25,
+    "id": 10015,
+    "editor_name": "挤成一团",
+    "station_param": [
+      125,
+      25,
+      -165,
+      165
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 17,
+    "id": 10016,
+    "editor_name": "挤成一团_向内朝向",
+    "station_param": [
+      125,
+      25,
+      -165,
+      165
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 21,
+    "id": 10017,
+    "editor_name": "挤成一团_超密集",
+    "station_param": [
+      125,
+      25,
+      -165,
+      165
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 25,
+    "id": 10018,
+    "editor_name": "挤成一团_超密集_copy",
+    "station_param": [
+      125,
+      25,
+      -165,
+      165
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 21,
+    "id": 230000,
+    "editor_name": "鱼洞初设专用",
+    "station_param": [
+      800,
+      0,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 21,
+    "id": 230001,
+    "editor_name": "风场初设专用",
+    "station_param": [
+      1200,
+      0,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 21,
+    "id": 230002,
+    "editor_name": "棋棋指挥专用",
+    "station_param": [
+      150,
+      50,
+      -135,
+      135
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 25,
+    "id": 230003,
+    "editor_name": "幽影树站位",
+    "station_param": [
+      800,
+      200,
+      -120,
+      120
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 21,
+    "id": 230004,
+    "editor_name": "棋棋更大间距",
+    "station_param": [
+      400,
+      100,
+      -45,
+      135
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 21,
+    "id": 230005,
+    "editor_name": "噩梦蜂群位置",
+    "station_param": [
+      300,
+      100,
+      -135,
+      135
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 17,
+    "id": 230006,
+    "editor_name": "噩梦蜂群奉献",
+    "station_param": [
+      300,
+      0,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 21,
+    "id": 230007,
+    "editor_name": "圣剑X冲锋",
+    "station_param": [
+      300,
+      100,
+      -135,
+      135
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 21,
+    "id": 280000,
+    "editor_name": "圆形分布",
+    "station_param": [
+      400,
+      0,
+      -120,
+      120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 17,
+    "id": 280001,
+    "editor_name": "骑士包围玩家",
+    "station_param": [
+      350,
+      0,
+      -60,
+      60
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 21,
+    "id": 280002,
+    "editor_name": "九幽菇特殊站位",
+    "station_param": [
+      450,
+      0,
+      -120,
+      120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 21,
+    "id": 280003,
+    "editor_name": "多菇丁特殊站位",
+    "station_param": [
+      300,
+      0,
+      -90,
+      90
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 25,
+    "id": 280004,
+    "editor_name": "瑰眼仔绕圈站位",
+    "station_param": [
+      450,
+      0,
+      -150,
+      150
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 21,
+    "id": 280005,
+    "editor_name": "【瑰眼仔】排队站位",
+    "group_station_type": 1,
+    "station_param": [
+      200,
+      0,
+      -175,
+      175
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 25,
+    "id": 280006,
+    "editor_name": "【乌达异地】站位",
+    "station_param": [
+      450,
+      0,
+      -120,
+      120
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 21,
+    "id": 280007,
+    "editor_name": "【寒音蛇群组】特殊站位",
+    "station_param": [
+      500,
+      120,
+      -135,
+      135
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      60,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 17,
+    "id": 280008,
+    "editor_name": "【闪电环】站位",
+    "station_param": [
+      400,
+      0,
+      0,
+      0
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 17,
+    "id": 280009,
+    "editor_name": "【音乐合集】特殊站位",
+    "station_param": [
+      350,
+      0,
+      -120,
+      120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 17,
+    "id": 280010,
+    "editor_name": "【卡洛儿】群组站位",
+    "station_param": [
+      450,
+      150,
+      -150,
+      150
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 25,
+    "id": 280011,
+    "editor_name": "【家园】排队站位",
+    "group_station_type": 1,
+    "station_param": [
+      175,
+      0,
+      180,
+      180
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 17,
+    "id": 280012,
+    "editor_name": "【家园】照镜子附近站位",
+    "station_param": [
+      200,
+      0,
+      120,
+      -120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 25,
+    "id": 300000,
+    "editor_name": "排成一排_横排",
+    "group_station_type": 1,
+    "station_param": [
+      280,
+      0,
+      75,
+      105
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 25,
+    "id": 300001,
+    "editor_name": "排成一排_斜排",
+    "group_station_type": 1,
+    "station_param": [
+      280,
+      0,
+      30,
+      60
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 21,
+    "id": 300002,
+    "editor_name": "呼唤者身前小范围_偏远",
+    "station_param": [
+      400,
+      50,
+      -45,
+      45
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 25,
+    "id": 300003,
+    "editor_name": "排成一排_竖排",
+    "group_station_type": 1,
+    "station_param": [
+      280,
+      0,
+      165,
+      -165
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 21,
+    "id": 300004,
+    "editor_name": "紧贴呼唤者_超紧贴",
+    "station_param": [
+      100,
+      0,
+      90,
+      90
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 21,
+    "id": 300005,
+    "editor_name": "紧贴呼唤者_超紧贴_嗜波螺",
+    "station_param": [
+      130,
+      0,
+      90,
+      90
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 21,
+    "id": 300006,
+    "editor_name": "紧贴呼唤者_超紧贴_毛毛",
+    "station_param": [
+      150,
+      0,
+      90,
+      90
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 25,
+    "id": 300007,
+    "editor_name": "玩家身前大范围",
+    "station_param": [
+      300,
+      150,
+      -120,
+      120
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 1
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 17,
+    "id": 530000,
+    "editor_name": "【风铃鲨】群落站位",
+    "station_param": [
+      200,
+      0,
+      -120,
+      120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 21,
+    "id": 530001,
+    "editor_name": "【风铃鲨】围绕玩家的群落站位",
+    "station_param": [
+      200,
+      0,
+      -120,
+      120
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 21,
+    "id": 530002,
+    "editor_name": "【幻灵菇】幻影群落站位",
+    "station_param": [
+      270,
+      0,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 21,
+    "id": 530003,
+    "editor_name": "【幻影灵菇】幻影群落站位",
+    "station_param": [
+      270,
+      0,
+      -135,
+      135
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  }
+]

@@ -1,0 +1,144 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 26,
+    "id": 101,
+    "share_button_type": 101,
+    "share_part_name": "精灵分享-图片",
+    "tab_name": "图片",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_Photo.UMG_ShareUI_Photo_C'"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 26,
+    "id": 102,
+    "share_button_type": 102,
+    "share_part_name": "精灵分享-视频",
+    "tab_name": "视频",
+    "share_type": 2,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_Video.UMG_ShareUI_Video_C'"
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 30,
+    "id": 103,
+    "share_button_type": 103,
+    "share_part_name": "精灵分享-卡牌",
+    "tab_name": "卡牌",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_Card.UMG_ShareUI_Card_C'",
+    "share_pattern": [
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 22,
+    "id": 201,
+    "share_button_type": 2,
+    "share_part_name": "拍照分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_TakephotoShare.UMG_TakephotoShare_C'"
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 22,
+    "id": 301,
+    "share_button_type": 3,
+    "share_part_name": "截图分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUITakePhoto.UMG_ShareUITakePhoto_C'"
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 22,
+    "id": 401,
+    "share_button_type": 4,
+    "share_part_name": "阵容分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_LineupSharing.UMG_LineupSharing_C'"
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 26,
+    "id": 501,
+    "share_button_type": 501,
+    "share_part_name": "名片分享-精灵",
+    "tab_name": "精灵收藏",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_BusinessCardShare.UMG_BusinessCardShare_C'"
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 26,
+    "id": 502,
+    "share_button_type": 502,
+    "share_part_name": "名片分享-徽章",
+    "tab_name": "徽章收藏",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_BusinessCardShare.UMG_BusinessCardShare_C'"
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 26,
+    "id": 601,
+    "share_button_type": 6,
+    "share_part_name": "闪耀大赛分享",
+    "tab_name": "S1-闪耀杯",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_PVPShare.UMG_PVPShare_C'"
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 22,
+    "id": 701,
+    "share_button_type": 7,
+    "share_part_name": "精灵上报分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_PetReportShare.UMG_PetReportShare_C'"
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 42,
+    "id": 1001,
+    "share_button_type": 10,
+    "share_part_name": "SIM卡分享",
+    "share_type": 3,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "欢迎回到洛克王国",
+    "wechat_applet_des": "噜噜带着童年头像及童年皮肤回来了~",
+    "wechat_applet_img": "/pages/entry/entry?type=activity&url=%2Fsimpkg%2Fpages%2Findex&extraData=",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'",
+    "wechat_applet_QRCode_tips": "310004"
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 38,
+    "id": 1002,
+    "share_button_type": 11,
+    "share_part_name": "邀请好友活动",
+    "share_type": 3,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "出发！前往洛克王国！",
+    "wechat_applet_des": "魔法世界正式上线！%d邀请你一起前往魔法学院！",
+    "wechat_applet_img": "/pages/entry/entry?type=activity&url=%2Fsimpkg%2Fpages%2Findex&extraData=",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'"
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 42,
+    "id": 1003,
+    "share_button_type": 10,
+    "share_part_name": "SIM卡分享",
+    "share_type": 5,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "欢迎回到洛克王国",
+    "wechat_applet_des": "噜噜带着童年头像及童年皮肤回来了~",
+    "wechat_applet_img": "/pages/entry/entry?type=activity&url=%2Fsimpkg%2Fpages%2Findex&extraData=",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'",
+    "wechat_applet_QRCode_tips": "310004"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 39,
+    "id": 1,
+    "name": "大胆",
+    "is_player_pet_nature": true,
+    "positive_effect": 80,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 82,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 66,
+        "nature_desc": null,
+        "random_weight": 68
+      }
+    ]
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 39,
+    "id": 2,
+    "name": "固执",
+    "is_player_pet_nature": true,
+    "positive_effect": 80,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 81,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 71,
+        "nature_desc": null,
+        "random_weight": 73
+      }
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 39,
+    "id": 3,
+    "name": "调皮",
+    "is_player_pet_nature": true,
+    "positive_effect": 80,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 83,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 76,
+        "nature_desc": null,
+        "random_weight": 78
+      }
+    ]
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 39,
+    "id": 4,
+    "name": "勇敢",
+    "is_player_pet_nature": true,
+    "positive_effect": 80,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 84,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 81,
+        "nature_desc": null,
+        "random_weight": 83
+      }
+    ]
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 39,
+    "id": 5,
+    "name": "逞强",
+    "is_player_pet_nature": true,
+    "positive_effect": 80,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 86,
+        "nature_desc": null,
+        "random_weight": 88
+      }
+    ]
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 39,
+    "id": 6,
+    "name": "稳重",
+    "is_player_pet_nature": true,
+    "positive_effect": 82,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 80,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 91,
+        "nature_desc": null,
+        "random_weight": 93
+      }
+    ]
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 47,
+    "id": 7,
+    "name": "天真",
+    "is_player_pet_nature": true,
+    "positive_effect": 82,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 81,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 200,
+    "random_desc": [
+      {
+        "nature_id": 96,
+        "nature_desc": null,
+        "random_weight": 98
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 47,
+    "id": 8,
+    "name": "懒散",
+    "is_player_pet_nature": true,
+    "positive_effect": 82,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 83,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 500,
+    "random_desc": [
+      {
+        "nature_id": 102,
+        "nature_desc": null,
+        "random_weight": 104
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 47,
+    "id": 9,
+    "name": "悠闲",
+    "is_player_pet_nature": true,
+    "positive_effect": 82,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 84,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 500,
+    "random_desc": [
+      {
+        "nature_id": 108,
+        "nature_desc": null,
+        "random_weight": 110
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 39,
+    "id": 10,
+    "name": "坦率",
+    "is_player_pet_nature": true,
+    "positive_effect": 82,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 113,
+        "nature_desc": null,
+        "random_weight": 115
+      }
+    ]
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 39,
+    "id": 11,
+    "name": "聪明",
+    "is_player_pet_nature": true,
+    "positive_effect": 81,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 80,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 118,
+        "nature_desc": null,
+        "random_weight": 120
+      }
+    ]
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 39,
+    "id": 12,
+    "name": "专注",
+    "is_player_pet_nature": true,
+    "positive_effect": 81,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 82,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 123,
+        "nature_desc": null,
+        "random_weight": 125
+      }
+    ]
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 39,
+    "id": 13,
+    "name": "偏执",
+    "is_player_pet_nature": true,
+    "positive_effect": 81,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 83,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 128,
+        "nature_desc": null,
+        "random_weight": 130
+      }
+    ]
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 39,
+    "id": 14,
+    "name": "冷静",
+    "is_player_pet_nature": true,
+    "positive_effect": 81,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 84,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 133,
+        "nature_desc": null,
+        "random_weight": 135
+      }
+    ]
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 39,
+    "id": 15,
+    "name": "理性",
+    "is_player_pet_nature": true,
+    "positive_effect": 81,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 138,
+        "nature_desc": null,
+        "random_weight": 140
+      }
+    ]
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 39,
+    "id": 16,
+    "name": "警惕",
+    "is_player_pet_nature": true,
+    "positive_effect": 83,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 80,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 143,
+        "nature_desc": null,
+        "random_weight": 145
+      }
+    ]
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 39,
+    "id": 17,
+    "name": "温顺",
+    "is_player_pet_nature": true,
+    "positive_effect": 83,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 82,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 148,
+        "nature_desc": null,
+        "random_weight": 150
+      }
+    ]
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 39,
+    "id": 18,
+    "name": "害羞",
+    "is_player_pet_nature": true,
+    "positive_effect": 83,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 81,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 153,
+        "nature_desc": null,
+        "random_weight": 155
+      }
+    ]
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 39,
+    "id": 19,
+    "name": "慎重",
+    "is_player_pet_nature": true,
+    "positive_effect": 83,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 84,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 158,
+        "nature_desc": null,
+        "random_weight": 160
+      }
+    ]
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 39,
+    "id": 20,
+    "name": "焦虑",
+    "is_player_pet_nature": true,
+    "positive_effect": 83,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 163,
+        "nature_desc": null,
+        "random_weight": 165
+      }
+    ]
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 47,
+    "id": 21,
+    "name": "胆小",
+    "is_player_pet_nature": true,
+    "positive_effect": 84,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 80,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 600,
+    "random_desc": [
+      {
+        "nature_id": 168,
+        "nature_desc": null,
+        "random_weight": 170
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 47,
+    "id": 22,
+    "name": "急躁",
+    "is_player_pet_nature": true,
+    "positive_effect": 84,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 82,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 400,
+    "random_desc": [
+      {
+        "nature_id": 174,
+        "nature_desc": null,
+        "random_weight": 176
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 47,
+    "id": 23,
+    "name": "开朗",
+    "is_player_pet_nature": true,
+    "positive_effect": 84,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 81,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "relative_emotion": 200,
+    "random_desc": [
+      {
+        "nature_id": 180,
+        "nature_desc": null,
+        "random_weight": 182
+      }
+    ],
+    "morph_target_data": []
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 39,
+    "id": 24,
+    "name": "莽撞",
+    "is_player_pet_nature": true,
+    "positive_effect": 84,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 83,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 185,
+        "nature_desc": null,
+        "random_weight": 187
+      }
+    ]
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 39,
+    "id": 25,
+    "name": "热情",
+    "is_player_pet_nature": true,
+    "positive_effect": 84,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 190,
+        "nature_desc": null,
+        "random_weight": 192
+      }
+    ]
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 39,
+    "id": 26,
+    "name": "沉默",
+    "is_player_pet_nature": true,
+    "positive_effect": 79,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 80,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 195,
+        "nature_desc": null,
+        "random_weight": 197
+      }
+    ]
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 39,
+    "id": 27,
+    "name": "忧郁",
+    "is_player_pet_nature": true,
+    "positive_effect": 79,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 82,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 200,
+        "nature_desc": null,
+        "random_weight": 202
+      }
+    ]
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 39,
+    "id": 28,
+    "name": "平和",
+    "is_player_pet_nature": true,
+    "positive_effect": 79,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 81,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 205,
+        "nature_desc": null,
+        "random_weight": 207
+      }
+    ]
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 39,
+    "id": 29,
+    "name": "粗心",
+    "is_player_pet_nature": true,
+    "positive_effect": 79,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 83,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 210,
+        "nature_desc": null,
+        "random_weight": 212
+      }
+    ]
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 39,
+    "id": 30,
+    "name": "踏实",
+    "is_player_pet_nature": true,
+    "positive_effect": 79,
+    "positive_effect_proportion": 1000,
+    "positive_effect_grow": 200,
+    "negative_effect": 84,
+    "negative_effect_proportion": 1000,
+    "prob": 1,
+    "random_desc": [
+      {
+        "nature_id": 215,
+        "nature_desc": null,
+        "random_weight": 217
+      }
+    ]
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 34,
+    "id": 31,
+    "name": "平和",
+    "positive_effect": 84,
+    "positive_effect_proportion": 1,
+    "positive_effect_grow": 1,
+    "negative_effect": 79,
+    "negative_effect_proportion": 1,
+    "random_desc": [
+      {
+        "nature_id": 220,
+        "nature_desc": null,
+        "random_weight": 222
+      }
+    ]
+  }
+]

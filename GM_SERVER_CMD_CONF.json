@@ -1,0 +1,845 @@
+[
+  {
+    "_row_key": 1,
+    "_row_size": 17,
+    "id": 1,
+    "cmd_id": "empty_test",
+    "cmd_name": "测试空输入",
+    "cmd_desc": "这里没有输入"
+  },
+  {
+    "_row_key": 2,
+    "_row_size": 21,
+    "id": 2,
+    "cmd_id": "mixed_test",
+    "cmd_name": "测试混合输入",
+    "cmd_desc": "单个输入、数字输入、单选下拉框、多选下拉框混合",
+    "param_list": [
+      {
+        "param_key": null,
+        "param_require": true,
+        "param_type": 905969665,
+        "param_name": 922746881,
+        "param_desc": 939524097,
+        "param_option": 956301313
+      }
+    ]
+  },
+  {
+    "_row_key": 3,
+    "_row_size": 21,
+    "id": 3,
+    "cmd_id": "hatch_egg",
+    "cmd_name": "一键孵化",
+    "cmd_desc": "不填参数时，孵化所有孵化中的蛋",
+    "param_list": []
+  },
+  {
+    "_row_key": 4,
+    "_row_size": 21,
+    "id": 4,
+    "cmd_id": "change_pet_speciality",
+    "cmd_name": "修改精灵特长",
+    "cmd_desc": "强制修改指定精灵的特长",
+    "param_list": []
+  },
+  {
+    "_row_key": 5,
+    "_row_size": 21,
+    "id": 5,
+    "cmd_id": "get_main_team_pet_gid",
+    "cmd_name": "获取主队精灵GID",
+    "cmd_desc": "根据选择的位置获得精灵的GID，多选",
+    "param_list": []
+  },
+  {
+    "_row_key": 6,
+    "_row_size": 21,
+    "id": 6,
+    "cmd_id": "func_control",
+    "cmd_name": "屏蔽系统",
+    "cmd_desc": "屏蔽系统",
+    "param_list": [
+      {
+        "param_key": null,
+        "param_require": true,
+        "param_type": 1140850689,
+        "param_name": 1157627905,
+        "param_desc": 1174405121,
+        "param_option": 1191182337
+      },
+      {
+        "param_key": 1207959553,
+        "param_require": true,
+        "param_type": 21561344,
+        "param_name": 21626880,
+        "param_desc": 21692416,
+        "param_option": 21757952
+      }
+    ]
+  },
+  {
+    "_row_key": 7,
+    "_row_size": 21,
+    "id": 7,
+    "cmd_id": "channel_control",
+    "cmd_name": "屏蔽渠道",
+    "cmd_desc": "屏蔽渠道",
+    "param_list": []
+  },
+  {
+    "_row_key": 8,
+    "_row_size": 21,
+    "id": 8,
+    "cmd_id": "emergency_control",
+    "cmd_name": "gitops紧急屏蔽",
+    "cmd_desc": "gitops紧急屏蔽",
+    "param_list": []
+  },
+  {
+    "_row_key": 9,
+    "_row_size": 21,
+    "id": 9,
+    "cmd_id": "npc_option_op",
+    "cmd_name": "增删查npc option",
+    "cmd_desc": "查reason1=黑名单不满足 2=白名单不满足 3=task flag不满足",
+    "param_list": []
+  },
+  {
+    "_row_key": 10,
+    "_row_size": 21,
+    "id": 10,
+    "cmd_id": "feed_set_daily_num",
+    "cmd_name": "设置每日创建留痕数量",
+    "cmd_desc": "设置每日创建留痕数量",
+    "param_list": []
+  },
+  {
+    "_row_key": 11,
+    "_row_size": 21,
+    "id": 11,
+    "cmd_id": "feed_add_good_num",
+    "cmd_name": "留痕编辑点赞次数",
+    "cmd_desc": "留痕编辑点赞次数",
+    "param_list": []
+  },
+  {
+    "_row_key": 12,
+    "_row_size": 21,
+    "id": 12,
+    "cmd_id": "feed_operate",
+    "cmd_name": "留痕操作",
+    "cmd_desc": "留痕操作",
+    "param_list": []
+  },
+  {
+    "_row_key": 13,
+    "_row_size": 17,
+    "id": 13,
+    "cmd_id": "get_random_shop_goods",
+    "cmd_name": "获取随机商城商品",
+    "cmd_desc": "可以随机池里的所有商品和权重"
+  },
+  {
+    "_row_key": 14,
+    "_row_size": 21,
+    "id": 14,
+    "cmd_id": "change_client_res_version_min",
+    "cmd_name": "修改最低客户端版本号限制",
+    "cmd_desc": "修改最低客户端版本号限制",
+    "param_list": [
+      {
+        "param_key": null,
+        "param_require": true,
+        "param_type": 1560281089,
+        "param_name": 1577058305,
+        "param_desc": 1593835521,
+        "param_option": 1610612737
+      }
+    ]
+  },
+  {
+    "_row_key": 15,
+    "_row_size": 21,
+    "id": 15,
+    "cmd_id": "change_client_res_version_max",
+    "cmd_name": "修改最高客户端版本号限制",
+    "cmd_desc": "修改最高客户端版本号限制",
+    "param_list": []
+  },
+  {
+    "_row_key": 16,
+    "_row_size": 21,
+    "id": 16,
+    "cmd_id": "whitelist_switch",
+    "cmd_name": "白名单功能开关",
+    "cmd_desc": "白名单功能开关",
+    "param_list": []
+  },
+  {
+    "_row_key": 17,
+    "_row_size": 21,
+    "id": 17,
+    "cmd_id": "entrance_blocking_switch",
+    "cmd_name": "屏蔽组件开关",
+    "cmd_desc": "屏蔽组件开关",
+    "param_list": []
+  },
+  {
+    "_row_key": 18,
+    "_row_size": 21,
+    "id": 18,
+    "cmd_id": "reset_activity",
+    "cmd_name": "活动重置",
+    "cmd_desc": "重置活动奖励/状态",
+    "param_list": []
+  },
+  {
+    "_row_key": 19,
+    "_row_size": 17,
+    "id": 19,
+    "cmd_id": "reset_last_rename_time",
+    "cmd_name": "重置改名时间",
+    "cmd_desc": "将玩家上次改名时间戳置为0以便再次改名"
+  },
+  {
+    "_row_key": 20,
+    "_row_size": 21,
+    "id": 20,
+    "cmd_id": "reset_total_consumption",
+    "cmd_name": "商店累消重置",
+    "cmd_desc": "重置累消奖励及累消数值",
+    "param_list": []
+  },
+  {
+    "_row_key": 21,
+    "_row_size": 21,
+    "id": 21,
+    "cmd_id": "reset_fruit_active_time",
+    "cmd_name": "重置果实激活时间",
+    "cmd_desc": "重置果实激活时间以便能即时刷新npc",
+    "param_list": []
+  },
+  {
+    "_row_key": 22,
+    "_row_size": 17,
+    "id": 22,
+    "cmd_id": "reset_shiny_pet_day_petal",
+    "cmd_name": "重置异色精灵日花瓣",
+    "cmd_desc": "重置异色精灵日花瓣为可领取"
+  },
+  {
+    "_row_key": 23,
+    "_row_size": 21,
+    "id": 23,
+    "cmd_id": "remove_goods",
+    "cmd_name": "清除物品",
+    "cmd_desc": "清除某个id/gid对应的物品",
+    "param_list": []
+  },
+  {
+    "_row_key": 24,
+    "_row_size": 21,
+    "id": 24,
+    "cmd_id": "fill_grid_feed",
+    "cmd_name": "填充留痕数据",
+    "cmd_desc": "填充/清理某个格子内的留痕数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 25,
+    "_row_size": 21,
+    "id": 25,
+    "cmd_id": "call_out_seat",
+    "cmd_name": "召唤座椅",
+    "cmd_desc": "召唤座椅",
+    "param_list": []
+  },
+  {
+    "_row_key": 26,
+    "_row_size": 17,
+    "id": 26,
+    "cmd_id": "battle_pass_reset",
+    "cmd_name": "重置BP状态",
+    "cmd_desc": "重置BP状态"
+  },
+  {
+    "_row_key": 27,
+    "_row_size": 21,
+    "id": 27,
+    "cmd_id": "op_seat",
+    "cmd_name": "操作座椅",
+    "cmd_desc": "起身或者换座",
+    "param_list": []
+  },
+  {
+    "_row_key": 28,
+    "_row_size": 21,
+    "id": 28,
+    "cmd_id": "logic_status",
+    "cmd_name": "设置logic_status",
+    "cmd_desc": "设置npc logic_status",
+    "param_list": []
+  },
+  {
+    "_row_key": 29,
+    "_row_size": 21,
+    "id": 29,
+    "cmd_id": "battle_pass_gift_sub_bought",
+    "cmd_name": "设置购买的副券记录",
+    "cmd_desc": "设置购买的副券记录",
+    "param_list": []
+  },
+  {
+    "_row_key": 30,
+    "_row_size": 21,
+    "id": 30,
+    "cmd_id": "launch_pvp_rank_welfare_fight",
+    "cmd_name": "排位赛福利局战斗",
+    "cmd_desc": "排位赛福利局战斗",
+    "param_list": []
+  },
+  {
+    "_row_key": 31,
+    "_row_size": 21,
+    "id": 31,
+    "cmd_id": "reset_combination",
+    "cmd_name": "重置机关",
+    "cmd_desc": "重置机关到初始状态",
+    "param_list": []
+  },
+  {
+    "_row_key": 32,
+    "_row_size": 21,
+    "id": 32,
+    "cmd_id": "teleport",
+    "cmd_name": "传送",
+    "cmd_desc": "进行标准传送",
+    "param_list": []
+  },
+  {
+    "_row_key": 33,
+    "_row_size": 21,
+    "id": 33,
+    "cmd_id": "upload_photo_weekly_challenge_history",
+    "cmd_name": "上传当前主界面合照数据到星光回顾",
+    "cmd_desc": "上传当前主界面合照数据到星光回顾",
+    "param_list": []
+  },
+  {
+    "_row_key": 34,
+    "_row_size": 21,
+    "id": 34,
+    "cmd_id": "del_photo_weekly_challenge_history",
+    "cmd_name": "删除当前星光回顾中的合照数据",
+    "cmd_desc": "删除当前星光回顾中的合照数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 35,
+    "_row_size": 21,
+    "id": 35,
+    "cmd_id": "query_shared_pet_team",
+    "cmd_name": "查询分享的阵容",
+    "cmd_desc": "查询分享的阵容",
+    "param_list": []
+  },
+  {
+    "_row_key": 36,
+    "_row_size": 21,
+    "id": 36,
+    "cmd_id": "create_mutation_npc_by_content_id",
+    "cmd_name": "生成突变精灵",
+    "cmd_desc": "生成噩梦/异色/炫彩精灵（可叠加，只填需要的突变即可）",
+    "param_list": []
+  },
+  {
+    "_row_key": 37,
+    "_row_size": 17,
+    "id": 37,
+    "cmd_id": "battle_pass_reset_daily_task",
+    "cmd_name": "重置bp任务",
+    "cmd_desc": "重置bp任务"
+  },
+  {
+    "_row_key": 38,
+    "_row_size": 21,
+    "id": 38,
+    "cmd_id": "set_prof_score",
+    "cmd_name": "设置排位赛熟练分",
+    "cmd_desc": "设置排位赛熟练分",
+    "param_list": []
+  },
+  {
+    "_row_key": 39,
+    "_row_size": 21,
+    "id": 39,
+    "cmd_id": "mod_game_time",
+    "cmd_name": "修改游戏时间",
+    "cmd_desc": "修改游戏时间(以下参数二选一)",
+    "param_list": []
+  },
+  {
+    "_row_key": 40,
+    "_row_size": 21,
+    "id": 40,
+    "cmd_id": "trigger_pet_stat",
+    "cmd_name": "触发N次宠物属性统计",
+    "cmd_desc": "填入zonesvr处增量统计次数+是否上报",
+    "param_list": []
+  },
+  {
+    "_row_key": 41,
+    "_row_size": 17,
+    "id": 41,
+    "cmd_id": "trigger_friend_team_update",
+    "cmd_name": "触发好友队伍更新",
+    "cmd_desc": "更新自己的队伍，让好友能看到最新"
+  },
+  {
+    "_row_key": 42,
+    "_row_size": 21,
+    "id": 42,
+    "cmd_id": "general_string_gm",
+    "cmd_name": "字符串命令",
+    "cmd_desc": "字符串命令",
+    "param_list": []
+  },
+  {
+    "_row_key": 43,
+    "_row_size": 17,
+    "id": 43,
+    "cmd_id": "unlock_all_share_form",
+    "cmd_name": "解锁所有分享模板",
+    "cmd_desc": "解锁所有分享模板"
+  },
+  {
+    "_row_key": 44,
+    "_row_size": 21,
+    "id": 44,
+    "cmd_id": "modify_player_relationship",
+    "cmd_name": "修改玩家关系树",
+    "cmd_desc": "解锁或者取消解锁关系树节点",
+    "param_list": []
+  },
+  {
+    "_row_key": 45,
+    "_row_size": 21,
+    "id": 45,
+    "cmd_id": "add_medal_to_pet",
+    "cmd_name": "给宠物添加奖牌",
+    "cmd_desc": "填写宠物gid和奖牌id",
+    "param_list": []
+  },
+  {
+    "_row_key": 46,
+    "_row_size": 17,
+    "id": 46,
+    "cmd_id": "draw_aura_debug",
+    "cmd_name": "绘制光环范围",
+    "cmd_desc": "打开/关闭光环绘制"
+  },
+  {
+    "_row_key": 47,
+    "_row_size": 17,
+    "id": 47,
+    "cmd_id": "action_bonus_set_prob",
+    "cmd_name": "连续捕捉-奖励概率100%",
+    "cmd_desc": "设置连续捕捉奖励概率100%"
+  },
+  {
+    "_row_key": 48,
+    "_row_size": 21,
+    "id": 48,
+    "cmd_id": "action_bonus_inject_catch_record",
+    "cmd_name": "连续捕捉-注入捕捉记录",
+    "cmd_desc": "注入捕捉数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 49,
+    "_row_size": 21,
+    "id": 49,
+    "cmd_id": "action_bonus_clear_catch_record",
+    "cmd_name": "连续捕捉-清空捕捉记录",
+    "cmd_desc": "清空捕捉记录",
+    "param_list": []
+  },
+  {
+    "_row_key": 50,
+    "_row_size": 21,
+    "id": 50,
+    "cmd_id": "action_bonus_clear_prob_param",
+    "cmd_name": "连续捕捉-清空伪随机计次",
+    "cmd_desc": "清空概率计算参数",
+    "param_list": []
+  },
+  {
+    "_row_key": 51,
+    "_row_size": 21,
+    "id": 51,
+    "cmd_id": "action_bonus_run_test",
+    "cmd_name": "连续捕捉-运行测试",
+    "cmd_desc": "运行指定次数的连续捕捉奖励结果",
+    "param_list": []
+  },
+  {
+    "_row_key": 52,
+    "_row_size": 21,
+    "id": 52,
+    "cmd_id": "home_pet_set_surprise_prob",
+    "cmd_name": "家园精灵-惊喜奖励100",
+    "cmd_desc": "设置家园精灵惊喜奖励产出100%",
+    "cmd_belong": "家园-通用"
+  },
+  {
+    "_row_key": 53,
+    "_row_size": 17,
+    "id": 53,
+    "cmd_id": "gp_contest_reset",
+    "cmd_name": "绩点大赛重置",
+    "cmd_desc": "重置绩点大赛状态"
+  },
+  {
+    "_row_key": 54,
+    "_row_size": 21,
+    "id": 54,
+    "cmd_id": "set_play_acts_flush_interval",
+    "cmd_name": "设置PlayActs合包发送频率",
+    "cmd_desc": "设置PlayActs合包发送频率",
+    "param_list": []
+  },
+  {
+    "_row_key": 55,
+    "_row_size": 21,
+    "id": 55,
+    "cmd_id": "combine_play_acts_type_op",
+    "cmd_name": "增删查合包的ActType",
+    "cmd_desc": "增删查支持合包的ActType",
+    "param_list": []
+  },
+  {
+    "_row_key": 56,
+    "_row_size": 21,
+    "id": 56,
+    "cmd_id": "set_play_acts_flush_mode",
+    "cmd_name": "设置PlayActs合包发送模式",
+    "cmd_desc": "设置PlayActs合包发送模式，是否每种ActType单独推送",
+    "param_list": []
+  },
+  {
+    "_row_key": 57,
+    "_row_size": 21,
+    "id": 57,
+    "cmd_id": "pet_backtrack",
+    "cmd_name": "宠物回溯",
+    "cmd_desc": "输入宠物Gid，查看/回溯该宠物的道具",
+    "param_list": []
+  },
+  {
+    "_row_key": 58,
+    "_row_size": 21,
+    "id": 58,
+    "cmd_id": "home_pet_set_egg_prob",
+    "cmd_name": "家园精灵-生蛋概率100",
+    "cmd_desc": "设置家园精灵生蛋概率100%",
+    "cmd_belong": "家园-通用"
+  },
+  {
+    "_row_key": 59,
+    "_row_size": 25,
+    "id": 59,
+    "cmd_id": "home_pet_lay_egg",
+    "cmd_name": "家园精灵-一键生蛋",
+    "cmd_desc": "跳过计时立即执行一次生蛋逻辑",
+    "cmd_belong": "家园-通用",
+    "param_list": []
+  },
+  {
+    "_row_key": 60,
+    "_row_size": 21,
+    "id": 60,
+    "cmd_id": "delete_egg",
+    "cmd_name": "家园精灵-删除所有蛋",
+    "cmd_desc": "删除所有未收取的精灵蛋",
+    "cmd_belong": "家园-通用"
+  },
+  {
+    "_row_key": 61,
+    "_row_size": 25,
+    "id": 61,
+    "cmd_id": "home_pet_steal_limit",
+    "cmd_name": "家园精灵-修改玩家剩余可偷取灵感值",
+    "cmd_desc": "修改玩家剩余可偷取灵感值",
+    "cmd_belong": "家园-通用",
+    "param_list": []
+  },
+  {
+    "_row_key": 62,
+    "_row_size": 21,
+    "id": 62,
+    "cmd_id": "home_pet_get_closeness",
+    "cmd_name": "获取家园宠物亲密度",
+    "cmd_desc": "可以获取家园宠物亲密度等级和经验",
+    "cmd_belong": "家园-通用"
+  },
+  {
+    "_row_key": 63,
+    "_row_size": 21,
+    "id": 63,
+    "cmd_id": "pet_box_unlock_box",
+    "cmd_name": "精灵盒子-盒子解锁",
+    "cmd_desc": "解锁精灵盒子",
+    "param_list": []
+  },
+  {
+    "_row_key": 64,
+    "_row_size": 21,
+    "id": 64,
+    "cmd_id": "pet_box_unlock_mark_type",
+    "cmd_name": "精灵盒子-标记解锁",
+    "cmd_desc": "解锁精灵盒子标记",
+    "param_list": []
+  },
+  {
+    "_row_key": 65,
+    "_row_size": 17,
+    "id": 65,
+    "cmd_id": "clear_card_skin",
+    "cmd_name": "清理名片皮肤",
+    "cmd_desc": "删除所有获得的名片皮肤"
+  },
+  {
+    "_row_key": 66,
+    "_row_size": 17,
+    "id": 66,
+    "cmd_id": "reset_photo_album_limit",
+    "cmd_name": "重置云端相册和名片的每日限制",
+    "cmd_desc": "名片和云端相册每日上传次数重置"
+  },
+  {
+    "_row_key": 67,
+    "_row_size": 21,
+    "id": 67,
+    "cmd_id": "pet_full_growth",
+    "cmd_name": "宠物满练度",
+    "cmd_desc": "满经验/等级/成长/突破",
+    "param_list": []
+  },
+  {
+    "_row_key": 68,
+    "_row_size": 21,
+    "id": 68,
+    "cmd_id": "inspire_pet",
+    "cmd_name": "觉醒宠物",
+    "cmd_desc": "快速觉醒宠物（需要先满练度）",
+    "param_list": []
+  },
+  {
+    "_row_key": 69,
+    "_row_size": 21,
+    "id": 69,
+    "cmd_id": "pet_high_value",
+    "cmd_name": "高价值宠物判定",
+    "cmd_desc": "判定宠物放生是否需要触发二级密码",
+    "param_list": []
+  },
+  {
+    "_row_key": 70,
+    "_row_size": 21,
+    "id": 70,
+    "cmd_id": "exchange",
+    "cmd_name": "合成",
+    "cmd_desc": "模拟通用合成功能",
+    "param_list": []
+  },
+  {
+    "_row_key": 71,
+    "_row_size": 17,
+    "id": 71,
+    "cmd_id": "get_prof_score",
+    "cmd_name": "获取排位赛熟练分",
+    "cmd_desc": "获取排位赛熟练分"
+  },
+  {
+    "_row_key": 72,
+    "_row_size": 21,
+    "id": 72,
+    "cmd_id": "pet_together_task",
+    "cmd_name": "宠物同行任务",
+    "cmd_desc": "召唤宠物/回收宠物行为（独立于任务系统，单独操作）",
+    "param_list": []
+  },
+  {
+    "_row_key": 73,
+    "_row_size": 21,
+    "id": 73,
+    "cmd_id": "clear_rank_season_data",
+    "cmd_name": "清理赛季数据",
+    "cmd_desc": "清理指定赛季的的数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 74,
+    "_row_size": 21,
+    "id": 74,
+    "cmd_id": "update_rank_season_data",
+    "cmd_name": "更新赛季数据",
+    "cmd_desc": "根绝指定的赛季id更新数据, 如过没有这个赛季, 则插入记录",
+    "param_list": [
+      {
+        "param_key": null,
+        "param_require": true,
+        "param_type": -1342177279,
+        "param_name": 2969567233,
+        "param_desc": 2986344449,
+        "param_option": 3003121665
+      }
+    ]
+  },
+  {
+    "_row_key": 75,
+    "_row_size": 21,
+    "id": 75,
+    "cmd_id": "home_egg_mutation_prob",
+    "cmd_name": "家园生蛋蛋突变概率",
+    "cmd_desc": "修改家园精灵生蛋异色/炫彩突变概率",
+    "param_list": []
+  },
+  {
+    "_row_key": 76,
+    "_row_size": 21,
+    "id": 76,
+    "cmd_id": "home_set_ban_status",
+    "cmd_name": "设置家园封禁状态",
+    "cmd_desc": "设置家园封禁状态",
+    "param_list": []
+  },
+  {
+    "_row_key": 77,
+    "_row_size": 21,
+    "id": 77,
+    "cmd_id": "home_set_violation_status",
+    "cmd_name": "设置家园违规状态",
+    "cmd_desc": "设置家园违规状态",
+    "param_list": []
+  },
+  {
+    "_row_key": 78,
+    "_row_size": 21,
+    "id": 78,
+    "cmd_id": "home_pet_get_interact",
+    "cmd_name": "获取家园宠物亲昵度",
+    "cmd_desc": "可以获取家园宠物亲昵度",
+    "cmd_belong": "家园-通用"
+  },
+  {
+    "_row_key": 79,
+    "_row_size": 21,
+    "id": 79,
+    "cmd_id": "create_glass_npc_by_content_id",
+    "cmd_name": "生成炫彩精灵",
+    "cmd_desc": "生成指定颜色的炫彩精灵",
+    "param_list": [
+      {
+        "param_key": null,
+        "param_require": true,
+        "param_type": -1124073471,
+        "param_name": 3187671041,
+        "param_desc": 3204448257,
+        "param_option": 2231369729
+      }
+    ]
+  },
+  {
+    "_row_key": 80,
+    "_row_size": 21,
+    "id": 80,
+    "cmd_id": "query_aoi_relationship",
+    "cmd_name": "查询AOI关系数据",
+    "cmd_desc": "查询AOI关系数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 81,
+    "_row_size": 21,
+    "id": 81,
+    "cmd_id": "get_player_pvp_team_score",
+    "cmd_name": "获取玩家阵容编队阵容分",
+    "cmd_desc": "获取玩家阵容编队阵容分",
+    "param_list": []
+  },
+  {
+    "_row_key": 82,
+    "_row_size": 21,
+    "id": 82,
+    "cmd_id": "set_player_pvp_win_lose_streak",
+    "cmd_name": "设置玩家 Pvp 连胜或连败次数",
+    "cmd_desc": "设置玩家 Pvp 连胜或连败次数",
+    "param_list": []
+  },
+  {
+    "_row_key": 83,
+    "_row_size": 21,
+    "id": 83,
+    "cmd_id": "modify_credit_score",
+    "cmd_name": "修改玩家信用分",
+    "cmd_desc": "修改玩家信用分",
+    "param_list": []
+  },
+  {
+    "_row_key": 84,
+    "_row_size": 21,
+    "id": 84,
+    "cmd_id": "unlock_role_all_handbook_withtopics",
+    "cmd_name": "一键解锁角色精灵全图鉴（含课题）",
+    "cmd_desc": "一键解锁角色精灵全图鉴（含课题）",
+    "param_list": []
+  },
+  {
+    "_row_key": 85,
+    "_row_size": 21,
+    "id": 85,
+    "cmd_id": "force_reset_pet_data",
+    "cmd_name": "强制重置精灵相关数据",
+    "cmd_desc": "重置精灵盒子，清空精灵、编队、奖牌、数据",
+    "param_list": []
+  },
+  {
+    "_row_key": 86,
+    "_row_size": 25,
+    "id": 92,
+    "cmd_id": "gen_rank_image",
+    "cmd_name": "生成排行榜镜像",
+    "cmd_desc": "生成排行榜镜像,开销较高,谨慎调用,大概10分钟可用",
+    "cmd_belong": "排行榜-通用",
+    "param_list": []
+  },
+  {
+    "_row_key": 87,
+    "_row_size": 21,
+    "id": 93,
+    "cmd_id": "fill_pet_kill_chain_list",
+    "cmd_name": "填充精灵击杀进化链列表",
+    "cmd_desc": "填充精灵击杀进化链列表",
+    "param_list": []
+  },
+  {
+    "_row_key": 88,
+    "_row_size": 21,
+    "id": 94,
+    "cmd_id": "set_damage_tholds",
+    "cmd_name": "设置伤害阈值数组",
+    "cmd_desc": "设置伤害阈值数组，从大到小",
+    "param_list": []
+  },
+  {
+    "_row_key": 89,
+    "_row_size": 21,
+    "id": 95,
+    "cmd_id": "test_height_weight",
+    "cmd_name": "身高体重测试",
+    "cmd_desc": "测试精灵身高体重算法，统计体重奖牌命中概率",
+    "param_list": []
+  }
+]
