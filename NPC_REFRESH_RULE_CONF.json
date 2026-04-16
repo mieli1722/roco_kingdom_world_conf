@@ -11838,6 +11838,39 @@
     "rand_type": 1
   },
   {
+    "id": 800,
+    "editor_name": [
+      "采集物刷新，库存22小时重置1次"
+    ],
+    "refresh_quantity": [
+      10
+    ],
+    "refresh_gap": 5,
+    "storage_reset_type": 12,
+    "storage_reset_param": "22",
+    "delete_quantity": 3,
+    "delete_gap": 3,
+    "PlayTrigger": {},
+    "rand_type": 1
+  },
+  {
+    "id": 801,
+    "editor_name": [
+      "采集物刷新，幽幽鬼火黑夜全天气,30min刷新"
+    ],
+    "available_time_enum": 102,
+    "refresh_quantity": [
+      10
+    ],
+    "refresh_gap": 5,
+    "storage_reset_type": 11,
+    "storage_reset_param": "30",
+    "delete_quantity": 3,
+    "delete_gap": 3,
+    "PlayTrigger": {},
+    "rand_type": 1
+  },
+  {
     "id": 1000001,
     "editor_name": [
       "研究员刷新组，每天刷3个，24h重置一次"

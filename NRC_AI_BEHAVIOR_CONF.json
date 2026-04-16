@@ -7722,7 +7722,8 @@
     "editor_name": "【跟随】触发亲昵寻找宝箱",
     "belong_to_state": [
       8,
-      3
+      3,
+      7
     ],
     "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/Intimate/BT_Intimate_Find_New",
     "input_key": [
@@ -7961,6 +7962,21 @@
       "Global_FlyingState",
       "Global_CanEverFly",
       "Global_PartnerIdx"
+    ],
+    "output_key": [
+      "Global_FlyingState"
+    ]
+  },
+  {
+    "id": 9021,
+    "editor_name": "【跟随】通用静态表演-不循环",
+    "belong_to_state": [
+      7
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/Partner/BT_Partner_RestOver",
+    "input_key": [
+      "Global_FlyingState",
+      "Global_CanEverFly"
     ],
     "output_key": [
       "Global_FlyingState"
@@ -9165,6 +9181,166 @@
         ]
       }
     ]
+  },
+  {
+    "id": 10108,
+    "editor_name": "【跟随】小灵面跟随移动",
+    "belong_to_state": [
+      6
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/Partner/BT_Partner_Move_Ghost"
+  },
+  {
+    "id": 10109,
+    "editor_name": "【跟随】小灵面跟随移动-幽灵化",
+    "belong_to_state": [
+      3
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/Partner/BT_Partner_Move_GhostEnergy"
+  },
+  {
+    "id": 10110,
+    "editor_name": "【生态】幽灵掉宝",
+    "belong_to_state": [
+      3
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/BT_Photosynthesis_Ghost"
+  },
+  {
+    "id": 10111,
+    "editor_name": "幽灵晕眩",
+    "belong_to_state": [
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_CommonStun"
+  },
+  {
+    "id": 10112,
+    "editor_name": "【蹦蹦种子】原地跳跃",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Jump_Bengbengzhongzi"
+  },
+  {
+    "id": 10113,
+    "editor_name": "【蹦蹦草】原地跳跃",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Jump_Bengbengcao"
+  },
+  {
+    "id": 10114,
+    "editor_name": "【蹦蹦花】原地跳跃",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Jump_Bengbenghua"
+  },
+  {
+    "id": 10115,
+    "editor_name": "【蹦蹦】产海神花",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Bengbenghaishen"
+  },
+  {
+    "id": 10116,
+    "editor_name": "【蹦蹦】产象牙花",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Bengbengxiangya"
+  },
+  {
+    "id": 10117,
+    "editor_name": "【蹦蹦】产彩玉花",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Bengbengcaiyu"
+  },
+  {
+    "id": 10118,
+    "editor_name": "【蹦蹦】产短毛花",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Bengbengduanmao"
+  },
+  {
+    "id": 10119,
+    "editor_name": "【蹦蹦】进入原地跳跃",
+    "belong_to_state": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Jump_BengbengBegin"
   },
   {
     "id": 20001,

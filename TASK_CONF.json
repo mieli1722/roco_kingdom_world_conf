@@ -438,6 +438,44 @@
     "online_process": 3
   },
   {
+    "id": 100009,
+    "name": "【隐藏任务】外网bug应急处理-骑士团宝箱",
+    "task_class": 1,
+    "paragraph_id": 60026,
+    "task_des": "增加删除CONTENT的流程",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          60026002
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "瞬间完成",
+        "type": 204,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          2001387,
+          2001388,
+          2001389
+        ]
+      }
+    ]
+  },
+  {
     "id": 100300,
     "name": "【内部测试】黑屏case1",
     "task_class": 1,
@@ -17883,7 +17921,15 @@
       }
     ],
     "go_guide": [
-      {}
+      {
+        "type": 11,
+        "data1": [
+          103,
+          622670,
+          607709,
+          7581
+        ]
+      }
     ],
     "auto_finish": 1,
     "npc_option": {},
@@ -18916,9 +18962,9 @@
         "type": 11,
         "data1": [
           103,
-          604580,
-          626280,
-          7580
+          548949,
+          657540,
+          884
         ]
       }
     ],
@@ -40402,7 +40448,7 @@
     ],
     "task_condition": [
       {
-        "text": "前往海滩，开启特训",
+        "text": "整装待发，准备出门特训",
         "type": 308,
         "data1": [
           20250044
@@ -40417,7 +40463,7 @@
       {
         "type": 7,
         "data1": [
-          1600626
+          1600624
         ]
       }
     ],
@@ -48340,15 +48386,15 @@
         "type": 365,
         "data1": [
           0,
-          585851,
-          597857,
-          7519,
+          586694,
+          597647,
+          7499,
           0,
           0,
           -16,
           100,
-          20,
-          0,
+          1000,
+          60,
           20
         ],
         "data2": [
@@ -48366,7 +48412,7 @@
       {
         "type": 7,
         "data1": [
-          3600431
+          3600445
         ]
       }
     ],
@@ -49643,6 +49689,2051 @@
       }
     ],
     "is_para_done": true
+  },
+  {
+    "id": 9060001,
+    "name": "收到佩西阿姨的来信",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "收到了一封来自佩西阿姨的信件，阿姨似乎有事情要和我说。",
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          71007009
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-04-04 00:00:00"
+      }
+    ],
+    "next_task": [
+      9060002
+    ],
+    "task_condition": [
+      {
+        "text": "收取信件",
+        "type": 327,
+        "data1": [
+          0
+        ],
+        "data2": [
+          42020
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.lookLetter",
+        "args": "42020",
+        "show_text": "点击收信"
+      }
+    ],
+    "auto_finish": 1,
+    "message_id": 42020,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 9060002,
+    "name": "和佩西阿姨对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "前往魔法师之家，询问阿姨发生了什么事情。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060003
+    ],
+    "task_condition": [
+      {
+        "text": "和佩西阿姨对话",
+        "type": 308,
+        "data1": [
+          33851
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600560
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600560
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600560
+        ],
+        "data2": [
+          33851
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600560
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600560
+        ],
+        "data2": [
+          33851
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060003,
+    "name": "思考梦里的小精灵",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "阿姨提到的长拖尾连帽睡衣、头上有两个角、粉紫色的小精灵，会是哪一只精灵呢？",
+    "task_structure_type": 4,
+    "next_task": [
+      9060004
+    ],
+    "task_condition": [
+      {
+        "text": "思考梦里的小精灵",
+        "type": 308,
+        "data1": [
+          33852
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600561
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600561
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600561
+        ],
+        "data2": [
+          33852
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600561
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600561
+        ],
+        "data2": [
+          33852
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060004,
+    "name": "在魔力之源休息到晚上",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "在魔力之源休息到晚上。",
+    "next_task": [
+      9060005
+    ],
+    "task_condition": [
+      {
+        "text": "在魔力之源休息到晚上",
+        "type": 361,
+        "data1": [
+          71000,
+          86400
+        ],
+        "data2": [
+          0,
+          14400
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          130310
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 9060005,
+    "name": "在小屋留宿",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "夜晚来临，我在小屋留宿，躺在床上假装睡觉，看看会发生什么事情吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060006
+    ],
+    "task_condition": [
+      {
+        "text": "在小屋留宿",
+        "type": 308,
+        "data1": [
+          33853
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600562
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600562
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600562
+        ],
+        "data2": [
+          33853
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600562
+        ],
+        "data2": [
+          33853
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060006,
+    "name": "在小屋留宿",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "夜晚来临，我在小屋留宿，躺在床上假装睡觉，看看会发生什么事情吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060007
+    ],
+    "task_condition": [
+      {
+        "text": "在小屋留宿",
+        "type": 308,
+        "data1": [
+          33854
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600562
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600563
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600562
+        ],
+        "data2": [
+          33854
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600562
+        ],
+        "data2": [
+          33854
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600562
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060007,
+    "name": "尝试入睡",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "梦游突然出现在我眼前，看起来它并不会说话，我只能按照它的要求，尝试入睡。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060008
+    ],
+    "task_condition": [
+      {
+        "text": "尝试入睡",
+        "type": 308,
+        "data1": [
+          33855
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600564
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33855
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33855
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600563
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060008,
+    "name": "进入梦境",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "梦游通过梦境解释了它来到小屋的原因，我主动提出帮忙，解读梦游的家人留给它的梦境。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060009
+    ],
+    "task_condition": [
+      {
+        "text": "进入梦境",
+        "type": 308,
+        "data1": [
+          33857
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600564
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33857
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33857
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060009,
+    "name": "思考梦境的信息",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "梦境提到了和风有关的地点，努力思考这些信息，找到答案吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060010
+    ],
+    "task_condition": [
+      {
+        "text": "思考梦境的信息",
+        "type": 308,
+        "data1": [
+          33858
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600565
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33858
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600563
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33858
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600563
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060010,
+    "name": "前往聆风镇",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "聆风镇",
+    "task_des": "前往聆风镇，寻找梦境可能提及的地点。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060011
+    ],
+    "task_condition": [
+      {
+        "text": "前往聆风镇",
+        "type": 308,
+        "data1": [
+          33860
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600566,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600566
+        ],
+        "data2": [
+          5000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600566
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600566
+        ],
+        "data2": [
+          33860
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600566
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600566
+        ],
+        "data2": [
+          33860
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060011,
+    "name": "寻找风车下有青苔的棚顶",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "聆风镇",
+    "task_des": "梦境提及「在长满青苔的棚顶下，抬头便可看见它们的手掌」，寻找风车下有青苔的棚顶。",
+    "next_task": [
+      9060012
+    ],
+    "task_condition": [
+      {
+        "text": "寻找风车下有青苔的棚顶",
+        "type": 308,
+        "data1": [
+          33862
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600567,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600566
+        ],
+        "data2": [
+          5000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 179000026,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600567
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600567
+        ],
+        "data2": [
+          33862
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600567
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600567
+        ],
+        "data2": [
+          33862
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060012,
+    "name": "和梦游对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "聆风镇",
+    "task_des": "将挖掘到的礼物交给梦游，和梦游聊一聊。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060013
+    ],
+    "task_condition": [
+      {
+        "text": "和梦游对话",
+        "type": 308,
+        "data1": [
+          33864
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600568
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600568
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600568
+        ],
+        "data2": [
+          33864
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600568
+        ],
+        "data2": [
+          33864
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060013,
+    "name": "和梦游对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "聆风镇",
+    "task_des": "将挖掘到的礼物交给梦游，和梦游聊一聊。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060032
+    ],
+    "task_condition": [
+      {
+        "text": "为梦游读信",
+        "type": 308,
+        "data1": [
+          33865
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600568
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600568
+        ],
+        "data2": [
+          33865
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600568
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600568
+        ],
+        "data2": [
+          33865
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060014,
+    "name": "【隐藏任务】到达绝对时间4.5 00:00",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-04-05 00:00:00"
+      },
+      {
+        "type": 2,
+        "data1": [
+          9060013
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "明天再来小屋进入第二段梦境吧",
+        "type": 203,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          4900085
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 9060015,
+    "name": "进入梦境",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "进入梦境，解读梦游的家人留给它的信息。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060016
+    ],
+    "task_condition": [
+      {
+        "text": "进入梦境",
+        "type": 308,
+        "data1": [
+          33866
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600564
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33866
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600563
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600563
+        ],
+        "data2": [
+          33894
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33866
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600563
+        ],
+        "data2": [
+          33894
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060016,
+    "name": "思考梦境的信息",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "梦境提到了和冷有关的地点，努力思考这些信息，找到答案吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060017
+    ],
+    "task_condition": [
+      {
+        "text": "思考梦境的信息",
+        "type": 308,
+        "data1": [
+          33868
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600565
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33868
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33868
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600563
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060017,
+    "name": "前往星霜崖地",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "星霜崖地",
+    "task_des": "前往星霜崖地，寻找梦境可能提及的地点。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060018
+    ],
+    "task_condition": [
+      {
+        "text": "前往星霜崖地",
+        "type": 308,
+        "data1": [
+          33870
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600574,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600574
+        ],
+        "data2": [
+          6000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600574
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600574
+        ],
+        "data2": [
+          33870
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600574
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600574
+        ],
+        "data2": [
+          33870
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060018,
+    "name": "寻找有发光的花的洞穴",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "星霜崖地",
+    "task_des": "梦境提及「在洞穴之中，闪闪发光的花」，寻找有发光的花的洞穴。",
+    "next_task": [
+      9060019
+    ],
+    "task_condition": [
+      {
+        "text": "寻找有发光的花的洞穴",
+        "type": 308,
+        "data1": [
+          33872
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600575,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600574
+        ],
+        "data2": [
+          6000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 179000027,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600575
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600575
+        ],
+        "data2": [
+          33872
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600575
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600575
+        ],
+        "data2": [
+          33872
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060019,
+    "name": "和梦游对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "星霜崖地",
+    "task_des": "将挖掘到的礼物交给梦游，和梦游聊一聊。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060020
+    ],
+    "task_condition": [
+      {
+        "text": "和梦游对话",
+        "type": 308,
+        "data1": [
+          33874
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600576
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600576
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600576
+        ],
+        "data2": [
+          33874
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600576
+        ],
+        "data2": [
+          33874
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060020,
+    "name": "和梦游对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "星霜崖地",
+    "task_des": "将挖掘到的礼物交给梦游，和梦游聊一聊。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060033
+    ],
+    "task_condition": [
+      {
+        "text": "为梦游读信",
+        "type": 308,
+        "data1": [
+          33875
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600576
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600576
+        ],
+        "data2": [
+          33875
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600576
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600576
+        ],
+        "data2": [
+          33875
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060021,
+    "name": "【隐藏任务】到达绝对时间4.6 00:00",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-04-06 00:00:00"
+      },
+      {
+        "type": 2,
+        "data1": [
+          9060020
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "明天再来小屋进入第三段梦境吧",
+        "type": 203,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          4900085
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 9060022,
+    "name": "进入梦境",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "进入梦境，解读梦游的家人留给它的信息。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060023
+    ],
+    "task_condition": [
+      {
+        "text": "进入梦境",
+        "type": 308,
+        "data1": [
+          33876
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600564
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33876
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600563
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600563
+        ],
+        "data2": [
+          33894
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600564
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600564
+        ],
+        "data2": [
+          33876
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600563
+        ],
+        "data2": [
+          33894
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060023,
+    "name": "思考梦境的信息",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "梦境提到了和流水有关的地点，努力思考这些信息，找到答案吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060024
+    ],
+    "task_condition": [
+      {
+        "text": "思考梦境的信息",
+        "type": 308,
+        "data1": [
+          33878
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600565
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33878
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600565
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600565
+        ],
+        "data2": [
+          33878
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600563
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060024,
+    "name": "前往奥贝斯坦湖的瀑布",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "前往奥贝斯坦湖的瀑布，寻找梦游的家人留给它的礼物。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060025
+    ],
+    "task_condition": [
+      {
+        "text": "前往奥贝斯坦湖的瀑布",
+        "type": 308,
+        "data1": [
+          33880
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600569,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600569
+        ],
+        "data2": [
+          5000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600569
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600569
+        ],
+        "data2": [
+          33880
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600569
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600569
+        ],
+        "data2": [
+          33880
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060025,
+    "name": "穿过低处的瀑布",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "梦境提及「穿过低处的水帘，便可得到一方幽僻之所」，穿过低处的瀑布，寻找艾德芮留下的礼物。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060026
+    ],
+    "task_condition": [
+      {
+        "text": "穿过低处的瀑布",
+        "type": 308,
+        "data1": [
+          33882
+        ],
+        "count": 1
+      }
+    ],
+    "key_content_id": 3600570,
+    "go_guide": [
+      {
+        "type": 8,
+        "data1": [
+          3600569
+        ],
+        "data2": [
+          5000
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600570
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600570
+        ],
+        "data2": [
+          33882
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600571
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600578
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600570
+        ],
+        "data2": [
+          33882
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060026,
+    "name": "与黑巫师战斗",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "在瀑布后偶遇了前来寻宝的黑巫师，但我不会让他得逞的，打败这个嚣张的黑巫师。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060027
+    ],
+    "task_condition": [
+      {
+        "text": "与黑巫师战斗",
+        "type": 308,
+        "data1": [
+          33884
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600570
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600570
+        ],
+        "data2": [
+          33884
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600570
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600570
+        ],
+        "data2": [
+          33884
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          3600578
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060027,
+    "name": "关心梦游",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "黑巫师丢下礼物仓皇逃走了，没想到寻找礼物的过程中发生了这样的波折，我需要赶紧确认一下梦游的状态。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060028
+    ],
+    "task_condition": [
+      {
+        "text": "关心梦游",
+        "type": 308,
+        "data1": [
+          33886
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600571
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600571
+        ],
+        "data2": [
+          33886
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600571
+        ],
+        "data2": [
+          33886
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060028,
+    "name": "关心梦游",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "黑巫师丢下礼物仓皇逃走了，没想到寻找礼物的过程中发生了这样的波折，我需要赶紧确认一下梦游的状态。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060029
+    ],
+    "task_condition": [
+      {
+        "text": "为梦游读信",
+        "type": 308,
+        "data1": [
+          33888
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600571
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600571
+        ],
+        "data2": [
+          33888
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          3600572
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600571
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600571
+        ],
+        "data2": [
+          33888
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060029,
+    "name": "和梦悠悠对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "奥贝斯坦湖",
+    "task_des": "梦游吸收了家人留下的愿力，成功进化成了梦悠悠，这真是让人开心的一件事，和梦悠悠聊一聊吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060030
+    ],
+    "task_condition": [
+      {
+        "text": "和梦悠悠对话",
+        "type": 308,
+        "data1": [
+          33890
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600572
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600572
+        ],
+        "data2": [
+          33890
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600572
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600572
+        ],
+        "data2": [
+          33890
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060030,
+    "name": "跟随梦悠悠前往一个地方",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "学院驻地",
+    "task_des": "梦悠悠提出带我去一个地方，跟过去和梦悠悠聊一聊吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060031
+    ],
+    "task_condition": [
+      {
+        "text": "跟随梦悠悠前往一个地方",
+        "type": 308,
+        "data1": [
+          33892
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600573
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          3600573
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          3600573
+        ],
+        "data2": [
+          33892
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          3600573
+        ],
+        "data2": [
+          33892
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 9060031,
+    "name": "和梦悠悠对话",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "belong_place": "学院驻地",
+    "task_des": "梦悠悠带我来到了海边，我们一起将花种撒向大海，来纪念这位充满智慧、善良和温柔的家人。而后，梦悠悠向我发出了邀请……",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "和梦悠悠对话",
+        "type": 308,
+        "data1": [
+          33893
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          3600573
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 179000025,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          3600573
+        ],
+        "data2": [
+          33893
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          3600573
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          3600573
+        ],
+        "data2": [
+          33893
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 9060032,
+    "name": "等待明天来临",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "明天再来看看吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060015
+    ],
+    "task_condition": [
+      {
+        "text": "等待明天来临",
+        "type": 207,
+        "data1": [
+          9060014
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 9060033,
+    "name": "等待明天来临",
+    "task_class": 1,
+    "paragraph_id": 9060,
+    "task_des": "明天再来看看吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      9060022
+    ],
+    "task_condition": [
+      {
+        "text": "等待明天来临",
+        "type": 207,
+        "data1": [
+          9060021
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
   },
   {
     "id": 9065001,
@@ -95582,7 +97673,7 @@
     "name": "返回家园",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "next_task_type": 1,
     "next_task": [
       52020303
@@ -95614,7 +97705,7 @@
     "name": "进入家园室内并询问叮叮",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "task_structure_type": 4,
     "next_task_type": 1,
     "next_task": [
@@ -95684,7 +97775,7 @@
     "name": "使用星星魔法为传送门充能",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "next_task_type": 1,
     "next_task": [
       52020307
@@ -95739,7 +97830,7 @@
     "name": "蓄力星星魔法为传送门充能",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "next_task_type": 1,
     "next_task": [
       52020309
@@ -95812,7 +97903,7 @@
     "name": "蓄力星星魔法为传送门完全充能",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "next_task_type": 1,
     "next_task": [
       52020311
@@ -95885,7 +97976,7 @@
     "name": "观察充能完毕的传送门",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "task_structure_type": 4,
     "next_task_type": 1,
     "next_task": [
@@ -95952,7 +98043,7 @@
     "name": "通过传送门进入丰饶之地",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "next_task_type": 1,
     "next_task": [
       52020315,
@@ -96014,10 +98105,10 @@
   },
   {
     "id": 52020315,
-    "name": "与山姆大叔交谈",
+    "name": "与老山姆交谈",
     "task_class": 1,
     "paragraph_id": 52014,
-    "task_des": "来自远方大陆的山姆大叔，意外获得了某种能通往丰饶土地的「魔法种子」。",
+    "task_des": "来自远方大陆的老山姆，意外获得了某种能通往丰饶土地的「魔法种子」。",
     "task_structure_type": 4,
     "next_task_type": 1,
     "next_task": [
@@ -96025,7 +98116,7 @@
     ],
     "task_condition": [
       {
-        "text": "与山姆大叔交谈",
+        "text": "与老山姆交谈",
         "type": 308,
         "data1": [
           520203151
@@ -96069,10 +98160,10 @@
   },
   {
     "id": 52020401,
-    "name": "向山姆大叔学习种植",
+    "name": "向老山姆学习种植",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "is_para_start": true,
     "next_task_type": 1,
     "next_task": [
@@ -96080,7 +98171,7 @@
     ],
     "task_condition": [
       {
-        "text": "向山姆大叔学习种植",
+        "text": "向老山姆学习种植",
         "type": 308,
         "data1": [
           520204012
@@ -96143,7 +98234,7 @@
     "id": 52020402,
     "name": "【隐藏计数】守护农田精灵放置",
     "task_class": 1,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "show": 1,
     "advance_finish_data": 1,
     "task_condition": [
@@ -96167,7 +98258,7 @@
     "id": 52020403,
     "name": "【隐藏计数】开垦一块田地",
     "task_class": 1,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "show": 1,
     "advance_finish_data": 1,
     "task_condition": [
@@ -96192,7 +98283,7 @@
     "name": "开垦一块田地",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020405
@@ -96202,7 +98293,8 @@
         "text": "开垦一块田地",
         "type": 207,
         "data1": [
-          52020403
+          52020403,
+          52020450
         ],
         "count": 1
       }
@@ -96260,7 +98352,7 @@
     "name": "在种子袋内装备向阳花种子",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020407
@@ -96314,7 +98406,7 @@
     "name": "在田地内播撒向阳花种子",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020411
@@ -96372,14 +98464,14 @@
   },
   {
     "id": 52020409,
-    "name": "【下架】向山姆大叔学习增加作物产量",
+    "name": "【下架】向老山姆学习增加作物产量",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "open": 1,
     "task_condition": [
       {
-        "text": "向山姆大叔学习增加作物产量",
+        "text": "向老山姆学习增加作物产量",
         "type": 308,
         "data1": [
           520204091
@@ -96427,7 +98519,7 @@
     "name": "给种子浇水、施肥",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！\n（除了靠近土地后互动可浇水、施肥，投掷「水」系别精灵也可浇水，投掷「草」系别精灵也能施肥。）",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！\n（除了靠近土地后互动可浇水、施肥，投掷「水」系别精灵也可浇水，投掷「草」系别精灵也能施肥。）",
     "next_task_type": 1,
     "next_task": [
       52020415
@@ -96503,7 +98595,7 @@
     "name": "【下架】等待作物成熟",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -96563,17 +98655,17 @@
   },
   {
     "id": 52020415,
-    "name": "继续向山姆大叔学习",
+    "name": "继续向老山姆学习",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020417
     ],
     "task_condition": [
       {
-        "text": "继续向山姆大叔学习",
+        "text": "继续向老山姆学习",
         "type": 308,
         "data1": [
           520204151
@@ -96628,7 +98720,7 @@
     "name": "完成食物加工",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020419,
@@ -96685,10 +98777,10 @@
   },
   {
     "id": 52020419,
-    "name": "向山姆大叔展示做好的食物",
+    "name": "向老山姆展示做好的食物",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "task_structure_type": 4,
     "next_task_type": 1,
     "next_task": [
@@ -96696,7 +98788,7 @@
     ],
     "task_condition": [
       {
-        "text": "向山姆大叔展示做好的食物",
+        "text": "向老山姆展示做好的食物",
         "type": 308,
         "data1": [
           520204191
@@ -96753,7 +98845,7 @@
     "name": "返回家园室内",
     "task_class": 1,
     "paragraph_id": 52016,
-    "task_des": "山姆大叔为了感谢我，愿意分享这片土地。可以种地咯！",
+    "task_des": "老山姆为了感谢我，愿意分享这片土地。可以种地咯！",
     "next_task_type": 1,
     "next_task": [
       52020501
@@ -96815,6 +98907,105 @@
     ],
     "online_process": 2,
     "is_para_done": true
+  },
+  {
+    "id": 52020450,
+    "name": "【隐藏计数-补丁】第一次开垦田地",
+    "task_class": 1,
+    "task_des": "【隐藏计数-补丁】第一次开垦田地",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          52020101
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "第一次开垦田地",
+        "type": 307,
+        "data1": [
+          100085
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 2
+  },
+  {
+    "id": 52020451,
+    "name": "【隐藏计数-补丁】第二次开垦田地",
+    "task_class": 1,
+    "task_des": "【隐藏计数-补丁】第二次开垦田地",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          52020404
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "第一次开垦田地",
+        "type": 307,
+        "data1": [
+          100085
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 2
+  },
+  {
+    "id": 52020452,
+    "name": "【隐藏去除-补丁】完成家园前置任务",
+    "task_class": 1,
+    "task_des": "【隐藏去除-补丁】完成家园前置任务",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          52020595
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "完成家园前置任务",
+        "type": 203,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 15,
+        "data1": [
+          52020450,
+          52020451
+        ]
+      }
+    ],
+    "online_process": 2
   },
   {
     "id": 52020501,
@@ -97454,10 +99645,10 @@
   },
   {
     "id": 52020533,
-    "name": "【下架】向山姆大叔了解家园升级的效果",
+    "name": "【下架】向老山姆了解家园升级的效果",
     "task_class": 1,
     "paragraph_id": 52018,
-    "task_des": "家园升级后，山姆大叔似乎有更多东西可以教我。",
+    "task_des": "家园升级后，老山姆似乎有更多东西可以教我。",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -97465,7 +99656,7 @@
     ],
     "task_condition": [
       {
-        "text": "向山姆大叔了解家园升级的效果",
+        "text": "向老山姆了解家园升级的效果",
         "type": 307,
         "data1": [
           401520865
@@ -97543,7 +99734,7 @@
     "name": "【下架】在种子袋内装备喵喵草种子",
     "task_class": 1,
     "paragraph_id": 52018,
-    "task_des": "家园升级后，山姆大叔似乎有更多东西可以教我。",
+    "task_des": "家园升级后，老山姆似乎有更多东西可以教我。",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -97577,7 +99768,7 @@
     "name": "【下架】在田地内播撒喵喵草种子",
     "task_class": 1,
     "paragraph_id": 52018,
-    "task_des": "家园升级后，山姆大叔似乎有更多东西可以教我。",
+    "task_des": "家园升级后，老山姆似乎有更多东西可以教我。",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -97611,7 +99802,7 @@
     "name": "【下架】等待喵喵草成熟后收获喵喵草",
     "task_class": 1,
     "paragraph_id": 52018,
-    "task_des": "家园升级后，山姆大叔似乎有更多东西可以教我。",
+    "task_des": "家园升级后，老山姆似乎有更多东西可以教我。",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -97653,7 +99844,7 @@
     "name": "【下架】在食物加工台制作喵喵草软糖",
     "task_class": 1,
     "paragraph_id": 52018,
-    "task_des": "家园升级后，山姆大叔似乎有更多东西可以教我。",
+    "task_des": "家园升级后，老山姆似乎有更多东西可以教我。",
     "open": 1,
     "next_task_type": 1,
     "next_task": [
@@ -97909,7 +100100,8 @@
         "text": "开垦第二块田地",
         "type": 207,
         "data1": [
-          52020549
+          52020549,
+          52020451
         ],
         "count": 1
       }
@@ -98229,7 +100421,7 @@
   },
   {
     "id": 52020575,
-    "name": "向山姆大叔了解家园升级的效果",
+    "name": "向老山姆了解家园升级的效果",
     "task_class": 1,
     "paragraph_id": 52018,
     "task_des": "学会如何种地后，该继续向叮叮请教家园的经营了。嗯……应该怎么装饰新家呢？",
@@ -98239,7 +100431,7 @@
     ],
     "task_condition": [
       {
-        "text": "向山姆大叔了解家园升级的效果",
+        "text": "向老山姆了解家园升级的效果",
         "type": 307,
         "data1": [
           401520865
@@ -98461,7 +100653,7 @@
   },
   {
     "id": 52020583,
-    "name": "询问山姆大叔还可以做些什么",
+    "name": "询问老山姆还可以做些什么",
     "task_class": 1,
     "paragraph_id": 52018,
     "task_des": "学会如何种地后，该继续向叮叮请教家园的经营了。嗯……应该怎么装饰新家呢？",
@@ -98471,7 +100663,7 @@
     ],
     "task_condition": [
       {
-        "text": "询问山姆大叔还可以做些什么",
+        "text": "询问老山姆还可以做些什么",
         "type": 308,
         "data1": [
           520205831
@@ -104068,7 +106260,8 @@
           30047001,
           30049001,
           30050001
-        ]
+        ],
+        "show_text": "正在追踪：奇谭任务王国法师"
       }
     ],
     "auto_finish": 1,
@@ -104084,7 +106277,7 @@
     "advance_finish_data": 1,
     "task_condition": [
       {
-        "text": "在菲尔特处解锁动作“救救我I”",
+        "text": "在菲尔特处解锁动作“救救我I”，并完成风眠省魔法师手册第六章挑战任务",
         "type": 207,
         "data1": [
           53201612
@@ -109764,12 +111957,12 @@
   },
   {
     "id": 53501650,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>贝瑟",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>贝瑟",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>贝瑟",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>贝瑟",
         "type": 23,
         "data1": [
           3203,
@@ -109782,7 +111975,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109795,12 +111988,12 @@
   },
   {
     "id": 53501651,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>双灯鱼",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>双灯鱼",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>双灯鱼",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>双灯鱼",
         "type": 23,
         "data1": [
           3382,
@@ -109812,7 +112005,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109825,12 +112018,12 @@
   },
   {
     "id": 53501652,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>嗜光嗡嗡",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>嗜光嗡嗡",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>嗜光嗡嗡",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>嗜光嗡嗡",
         "type": 23,
         "data1": [
           3614,
@@ -109842,7 +112035,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109855,12 +112048,12 @@
   },
   {
     "id": 53501653,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>柴渣虫",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>柴渣虫",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>柴渣虫",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>柴渣虫",
         "type": 23,
         "data1": [
           3436,
@@ -109872,7 +112065,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109885,12 +112078,12 @@
   },
   {
     "id": 53501654,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>空空颅",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>空空颅",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>空空颅",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>空空颅",
         "type": 23,
         "data1": [
           3148,
@@ -109903,7 +112096,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109916,12 +112109,12 @@
   },
   {
     "id": 53501655,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>月牙雪熊",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>月牙雪熊",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>月牙雪熊",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>月牙雪熊",
         "type": 23,
         "data1": [
           3457
@@ -109932,7 +112125,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109945,12 +112138,12 @@
   },
   {
     "id": 53501656,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>粉星仔",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>粉星仔",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>粉星仔",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>粉星仔",
         "type": 23,
         "data1": [
           3319,
@@ -109963,7 +112156,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -109976,12 +112169,12 @@
   },
   {
     "id": 53501657,
-    "name": "累计捕捉5只<a id=\"污染血脉\">2309</>粉粉星",
+    "name": "累计捕捉2只<desc_id=2309>污染血脉</>粉粉星",
     "task_class": 22,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "累计捕捉5只<a id=\"污染血脉\">2309</>粉粉星",
+        "text": "累计捕捉2只<desc_id=2309>污染血脉</>粉粉星",
         "type": 23,
         "data1": [
           3198,
@@ -109993,7 +112186,7 @@
         "data3": [
           23
         ],
-        "count": 5
+        "count": 2
       }
     ],
     "go_guide": [
@@ -157073,6 +159266,55 @@
     ]
   },
   {
+    "id": 80055075,
+    "name": "魔法飞行-解禁希露德老师的飞行挑战",
+    "task_class": 1,
+    "paragraph_id": 213,
+    "belong_place": "仪式广场",
+    "task_des": "魔法飞行-解禁希露德老师的飞行挑战",
+    "task_gameplay1": "特殊",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          80055074
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "完成魔法飞行",
+        "type": 207,
+        "data1": [
+          80055062
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 21,
+        "data1": [
+          4300362
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 22,
+        "data1": [
+          4300362
+        ]
+      }
+    ]
+  },
+  {
     "id": 80055080,
     "name": "学院晚会",
     "task_class": 7,
@@ -162858,13 +165100,8 @@
     ],
     "go_guide": [
       {
-        "type": 10,
+        "type": 7,
         "data1": [
-          1,
-          430093
-        ],
-        "data2": [
-          2,
           4300103
         ]
       }

@@ -434,6 +434,32 @@
     ]
   },
   {
+    "id": 115,
+    "skill_path": "/Game/ArtRes/Effects/G6Skill/Alchemy/ExitAlchemySingle.ExitAlchemySingle",
+    "skill_blackboard_value": [
+      {
+        "key": "camActor_0001",
+        "delete_model": true
+      },
+      {
+        "key": "camActor_0001_SA",
+        "delete_model": true
+      }
+    ],
+    "out_value": [
+      {
+        "key": "ironPan",
+        "release_value": true
+      }
+    ],
+    "commands": [
+      {
+        "event": "ReleaseCamera",
+        "cmd_id": "AlchemyModuleCmd.ReleaseCamera"
+      }
+    ]
+  },
+  {
     "id": 201,
     "skill_path": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_RockCave_Idle.G6_RockCave_Idle",
     "skill_blackboard_value": [

@@ -396,7 +396,7 @@
     "id": 323,
     "key": "RegistName",
     "editor_name": "注册名称",
-    "str": "Trainer"
+    "str": "UnregisteredName"
   },
   {
     "id": 324,
@@ -678,7 +678,7 @@
     "id": 367,
     "key": "banned_notice",
     "editor_name": "封号弹窗提示",
-    "str": "您的账号UID:%s存在问题行为已被封禁\n结束时间:%s，封禁理由:%s。",
+    "str": "您的账号UID:%s存在异常部分功能受限。\n结束时间:%s，原因:%s。",
     "title": "警告"
   },
   {
@@ -1742,7 +1742,7 @@
     "id": 559,
     "key": "magic_message_dislike_to_destroy",
     "editor_name": "当一条“留言”被点多少个“不感兴趣”之后在服务器端直接销毁",
-    "num": 100
+    "num": 10000
   },
   {
     "id": 560,
@@ -2780,17 +2780,13 @@
     "id": 730,
     "key": "personal_marquee_freq_limit",
     "editor_name": "个人跑马灯频次限制（s）",
-    "numList": [
-      180
-    ]
+    "num": 180
   },
   {
     "id": 731,
     "key": "personal_marquee_display_limit",
     "editor_name": "个人跑马灯展示时间限制（s）",
-    "numList": [
-      20
-    ]
+    "num": 20
   },
   {
     "id": 732,

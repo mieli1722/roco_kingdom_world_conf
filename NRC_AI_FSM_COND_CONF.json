@@ -6380,6 +6380,160 @@
     ]
   },
   {
+    "id": 23141,
+    "name": "幽灵掉宝条件",
+    "fsm_cond": [
+      {
+        "cond_type": 101,
+        "cond_op": 3,
+        "cond_value": 4,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 5,
+        "cond_value": 16,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1403
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1001,
+        "cond_value": 20000
+      }
+    ]
+  },
+  {
+    "id": 23142,
+    "name": "状态结束_或玩家静止",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 4,
+        "cond_value": 100,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1403
+      }
+    ]
+  },
+  {
+    "id": 23143,
+    "name": "状态结束_或玩家移动",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "cond_value": 100,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23144,
+    "name": "蹦蹦刷花跳跃",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 42,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1403
+      }
+    ]
+  },
+  {
+    "id": 23145,
+    "name": "1401且状态结束且玩家不在跳跃",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 4,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 42
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1401
+      }
+    ]
+  },
+  {
+    "id": 23146,
+    "name": "结束状态&无1401&跳跃",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 42,
+        "operand": 1
+      }
+    ]
+  },
+  {
     "id": 26000,
     "name": "归位_最远距离&时间_加长版",
     "cond_with": 1,

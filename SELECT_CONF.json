@@ -30803,6 +30803,24 @@
     "select_next_dialogue": 200011142
   },
   {
+    "id": 7600564,
+    "editor_name": "二测-唤醒伊里斯-去掉生长痛flag",
+    "online_process": 2,
+    "text": "我不会放弃……",
+    "opt_dia_relate": [
+      700350331
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "obtain_story_flags": [
+      75
+    ],
+    "lost_story_flags": [
+      72
+    ],
+    "select_next_dialogue": 201013375
+  },
+  {
     "id": 7600570,
     "editor_name": "二测-唤醒伊里斯",
     "online_process": 2,
@@ -30840,14 +30858,8 @@
     ],
     "enable_cond": 2,
     "enable_cond_params": "72",
-    "times": 1,
+    "times": -1,
     "times_decrease_cond": 1,
-    "obtain_story_flags": [
-      75
-    ],
-    "lost_story_flags": [
-      72
-    ],
     "select_next_dialogue": 201013350
   },
   {
@@ -55934,7 +55946,7 @@
     "id": 9610489,
     "editor_name": "7天轻测-大世界战斗-汉默",
     "online_process": 2,
-    "text": "你？？上学？",
+    "text": "哦？老爷爷同学！",
     "opt_dia_relate": [
       63707
     ],
@@ -55946,7 +55958,7 @@
     "id": 9610490,
     "editor_name": "7天轻测-大世界战斗-汉默",
     "online_process": 2,
-    "text": "开玩笑的吧！",
+    "text": "爷爷你很有干劲嘛！",
     "opt_dia_relate": [
       63707
     ],

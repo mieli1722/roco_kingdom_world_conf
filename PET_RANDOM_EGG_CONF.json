@@ -24,6 +24,18 @@
     "RradientSpeed": 0.3
   },
   {
+    "id": 3,
+    "pet_info_id": 22000005,
+    "model_id": 3000001,
+    "model_mutation_mat": "MaterialInstanceConstant'/Game/ArtRes/AnimSequence/UI/UI_Egg_001/Mat/MI_UI_RandomEgg_001.MI_UI_RandomEgg_001'",
+    "model_mark_tex": "Texture2D'/Game/ArtRes/AnimSequence/UI/UI_Egg_001/Tex/T_EggRandom_Fx.T_EggRandom_Fx'",
+    "icon_mutation_mat": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_RandomEgg.MI_UI_RandomEgg'",
+    "icon_mark_mat": "Texture2D'/Game/ArtRes/AnimSequence/Pets/EggRandom/Tex/T_EggRandom_Fx.T_EggRandom_Fx'",
+    "is_precious": true,
+    "precious_egg_type": 1,
+    "RradientSpeed": 0.3
+  },
+  {
     "id": 1001,
     "mutation_type": 8,
     "pet_info_id": 22000002,

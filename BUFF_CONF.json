@@ -7538,6 +7538,37 @@
     "buff_trigger_priority": 1
   },
   {
+    "id": 20030053,
+    "editor_name": "免疫中毒、寄生、冻结、灼烧、中毒印记、星陨印记",
+    "buff_base_ids": [
+      2003001,
+      2003002,
+      2003003,
+      2003007,
+      2003026,
+      2003027,
+      2003043,
+      2003044
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          1,
+          99
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
     "id": 20030060,
     "editor_name": "免疫中毒和灼烧",
     "buff_base_ids": [
@@ -39695,7 +39726,7 @@
       0
     ],
     "type": 3,
-    "add_max": 99,
+    "add_max": 1,
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
     "buff_group_reduce": [
       {
@@ -39706,6 +39737,7 @@
         ]
       }
     ],
+    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {
@@ -39720,7 +39752,7 @@
       0
     ],
     "type": 3,
-    "add_max": 99,
+    "add_max": 1,
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
     "buff_group_reduce": [
       {
@@ -39731,6 +39763,7 @@
         ]
       }
     ],
+    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {

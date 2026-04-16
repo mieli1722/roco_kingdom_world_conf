@@ -19488,6 +19488,32 @@
     "monitor_data_version": 100
   },
   {
+    "id": 7001200,
+    "name": "护主犬专用",
+    "desc": "空",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "skill_dam_type": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200074.200074'",
+    "monitor_data_version": 100
+  },
+  {
     "id": 7010010,
     "name": "光合治愈",
     "desc": "对草系或者草血脉的精灵使用，恢复精灵50%生命。",
@@ -37451,8 +37477,8 @@
     "dam_para": [
       60,
       4,
-      60,
-      65,
+      0,
+      40,
       70,
       80,
       90,
@@ -49344,8 +49370,8 @@
     "dam_para": [
       60,
       6,
-      60,
-      65,
+      0,
+      40,
       70,
       80,
       90,
