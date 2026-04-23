@@ -3161,6 +3161,36 @@
     "num": 5
   },
   {
+    "id": 779,
+    "key": "ai_coach_team_name",
+    "editor_name": "AI教练推荐阵容-阵容名称",
+    "str": "斯嘉丽推荐"
+  },
+  {
+    "id": 780,
+    "key": "ai_coach_head_picture",
+    "editor_name": "AI教练推荐阵容-教练头像",
+    "str": "img_AICoach"
+  },
+  {
+    "id": 781,
+    "key": "ai_coach_player_name",
+    "editor_name": "AI教练推荐阵容-教练名称",
+    "str": "斯嘉丽"
+  },
+  {
+    "id": 782,
+    "key": "ai_coach_pet_level",
+    "editor_name": "AI教练推荐阵容-精灵等级",
+    "num": 60
+  },
+  {
+    "id": 783,
+    "key": "ai_coach_speak_time",
+    "editor_name": "AI教练语音提问最长时间，单位S",
+    "num": 10
+  },
+  {
     "id": 789,
     "key": "pet_npc_tracking_scene_whitelist",
     "editor_name": "图鉴追踪野生精灵的场景白名单",
@@ -3202,5 +3232,23 @@
     "key": "idip_del_pet",
     "editor_name": "IDIP精灵编队只有1只精灵时删除保底（替换为鸭吉吉pet_conf）",
     "num": 3012001
+  },
+  {
+    "id": 807,
+    "key": "recover_all_interval",
+    "editor_name": "数据修复按钮CD，使用间隔（设置里的数据修复按钮），单位：秒",
+    "num": 3600
+  },
+  {
+    "id": 808,
+    "key": "recover_set_npc_pos_ai_id",
+    "editor_name": "数据修复修正Npc位置时，使用的空AI行为id",
+    "num": 10045
+  },
+  {
+    "id": 809,
+    "key": "ai_coach_tips_time",
+    "editor_name": "AI教练引导提问最长时间，单位S",
+    "num": 600
   }
 ]

@@ -4,7 +4,7 @@
     "mail_type": 1,
     "mail_platform": 2,
     "mail_condition": 1,
-    "validity": 30,
+    "validity": 365,
     "mail_title": "拾光通行证结束",
     "mail_sender": "神秘发行方",
     "mail_content": "亲爱的小洛克，这是您在拾光通行证中忘记领取的奖励，请查收。\n今后的旅途，也请您继续加油吧！"
@@ -1367,6 +1367,16 @@
     "whitelist": 10006
   },
   {
+    "id": 80076,
+    "mail_type": 1,
+    "mail_platform": 2,
+    "mail_condition": 1,
+    "validity": 30,
+    "mail_title": "「洛克新鲜事」未领取奖励",
+    "mail_sender": "王国运营部",
+    "mail_content": "亲爱的小洛克！「洛克新鲜事」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
+  },
+  {
     "id": 90001,
     "mail_type": 1,
     "mail_platform": 2,
@@ -1493,11 +1503,10 @@
     "mail_type": 1,
     "mail_platform": 2,
     "mail_condition": 1,
-    "validity": 30,
-    "expire_at": "2026/05/21/04/00",
+    "validity": 365,
     "mail_title": "赠送物品退回",
     "mail_sender": "噜噜",
-    "mail_content": "好友并未收下你的礼物，已退回~"
+    "mail_content": "好友未领取你的礼物，已自动退回～\n\n特别说明：\n1.副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n2.过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n3.从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。"
   },
   {
     "id": 5200001,

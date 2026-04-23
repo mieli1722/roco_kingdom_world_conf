@@ -12,8 +12,8 @@
     "world_map_activity_conf_id": 1,
     "text1": "恶水环绕，森骨幽幽",
     "limit_pet": [
-      3537,
-      3538
+      3151,
+      3178
     ],
     "text2": "需要骑乘<span color=\"#D56C1FFF\">指定的精灵</>才可以找到宝藏!",
     "text3": "要多留意精灵的变化哦~",
@@ -50,7 +50,8 @@
         "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
-    ]
+    ],
+    "G6_show_time": 1
   },
   {
     "id": 2,
@@ -66,7 +67,7 @@
     "text1": "铁路的尽头，旧忆藏在白沙与浅海岸",
     "limit_pet": [
       3316,
-      3317
+      3537
     ],
     "text2": "需要骑乘<span color=\"#D56C1FFF\">指定的精灵</>才可以找到宝藏!",
     "text3": "放心，宝藏不会在水里~",
@@ -104,14 +105,15 @@
         "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
-    ]
+    ],
+    "G6_show_time": 1
   },
   {
     "id": 3,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot4_png.img_cangbaot4_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
     "subitem_name": "精灵宝藏情报",
-    "appear_time": "2026-05-03 04:00:00",
+    "appear_time": "2026-05-01 04:00:00",
     "lock_time": "2026-05-03 04:00:00",
     "top_up_text": "月牙湖岸寻宝区",
     "area_polygon_id": 451030023,
@@ -119,8 +121,8 @@
     "world_map_activity_conf_id": 3,
     "text1": "热闹的城镇旁，通往小桥的茵茵草地",
     "limit_pet": [
-      3191,
-      3192
+      3041,
+      3190
     ],
     "text2": "需要骑乘<span color=\"#D56C1FFF\">指定的精灵</>才可以找到宝藏!",
     "text3": "宝藏藏在草堆里，要仔细观察喔~",
@@ -157,14 +159,15 @@
         "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
-    ]
+    ],
+    "G6_show_time": 1
   },
   {
     "id": 4,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot3_png.img_cangbaot3_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
     "subitem_name": "精灵宝藏情报",
-    "appear_time": "2026-05-03 04:00:00",
+    "appear_time": "2026-05-01 04:00:00",
     "lock_time": "2026-05-03 04:00:00",
     "top_up_text": "岚语峰寻宝区",
     "area_polygon_id": 451030055,
@@ -172,8 +175,8 @@
     "world_map_activity_conf_id": 4,
     "text1": "极寒之地，悬崖峭壁，风雪交加",
     "limit_pet": [
-      3173,
-      3174
+      3172,
+      3262
     ],
     "text2": "需要骑乘<span color=\"#D56C1FFF\">指定的精灵</>才可以找到宝藏!",
     "text3": "天气严寒，注意防寒保暖！！",
@@ -209,14 +212,15 @@
         "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
-    ]
+    ],
+    "G6_show_time": 1
   },
   {
     "id": 5,
     "subitem_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_cangbaot5_png.img_cangbaot5_png'",
     "subitem_unlock_image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityTreasure/Frames/img_weijiesuo2_png.img_weijiesuo2_png'",
     "subitem_name": "精灵宝藏情报",
-    "appear_time": "2026-05-05 04:00:00",
+    "appear_time": "2026-05-01 04:00:00",
     "lock_time": "2026-05-05 04:00:00",
     "top_up_text": "望风半岛寻宝区",
     "area_polygon_id": 451030023,
@@ -224,7 +228,8 @@
     "world_map_activity_conf_id": 5,
     "text1": "峡湾远眺，暗港旁的豁然开朗",
     "limit_pet": [
-      3530
+      3530,
+      3510
     ],
     "text2": "需要骑乘<span color=\"#D56C1FFF\">指定的精灵</>才可以找到宝藏!",
     "text3": "……或许要携带有游泳能力的精灵？",
@@ -261,6 +266,7 @@
         "play_G6": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_JLJH_yinfu_C.G6_JLJH_yinfu_C_C'",
         "if_show_content": true
       }
-    ]
+    ],
+    "G6_show_time": 1
   }
 ]

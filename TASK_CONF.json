@@ -111504,7 +111504,7 @@
       {
         "type": 5,
         "text": "BigMapModuleCmd.OnTraceSpecificNpc",
-        "args": "5400426;5400427;5400428;5400429;5400430;5400431;5400432;5400433"
+        "args": "5400426;5400427;5400428;5400429;5400430;5400431;5400432;5400433;5400445;5400446;5400447;5400448;5400449;5400450;5400451;5400452"
       }
     ],
     "Reward": 19513,
@@ -111792,7 +111792,7 @@
       {
         "type": 5,
         "text": "BigMapModuleCmd.OnTraceSpecificNpc",
-        "args": "5400426;5400427;5400428;5400429;5400430;5400431;5400432;5400433"
+        "args": "5400426;5400427;5400428;5400429;5400430;5400431;5400432;5400433;5400445;5400446;5400447;5400448;5400449;5400450;5400451;5400452"
       }
     ],
     "Reward": 19515,
@@ -124692,32 +124692,8 @@
       }
     ],
     "go_guide": [
-      {
-        "type": 9,
-        "data1": [
-          2
-        ],
-        "data2": [
-          60116015,
-          60116004,
-          60116005,
-          60116006,
-          60116007
-        ]
-      },
-      {
-        "type": 9,
-        "data1": [
-          2
-        ],
-        "data2": [
-          60116016,
-          60116008,
-          60116009,
-          60116010,
-          60116011
-        ]
-      }
+      {},
+      {}
     ],
     "auto_finish": 1,
     "npc_option": {}
@@ -125288,21 +125264,33 @@
     ],
     "go_guide": [
       {
-        "type": 8,
+        "type": 9,
         "data1": [
-          2001188
+          2
         ],
         "data2": [
-          10000
+          60116002
         ]
       },
       {
-        "type": 8,
+        "type": 9,
         "data1": [
-          2001175
+          2
         ],
         "data2": [
-          500
+          60116015,
+          60116004,
+          60116005,
+          60116006,
+          60116007,
+          60116016,
+          60116008,
+          60116009,
+          60116010,
+          60116011,
+          60116013,
+          60116014,
+          60121001
         ]
       }
     ],
@@ -140037,6 +140025,1010 @@
     ],
     "auto_finish": 1,
     "npc_option": {},
+    "is_para_done": true
+  },
+  {
+    "id": 70015001,
+    "name": "来自出版社的信件",
+    "task_class": 1,
+    "paragraph_id": 70015,
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "next_task": [
+      70015002
+    ],
+    "task_condition": [
+      {
+        "text": "来自出版社的信件",
+        "type": 327,
+        "data1": [
+          0
+        ],
+        "data2": [
+          55001
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.lookLetter",
+        "args": "55001",
+        "show_text": "点击收信"
+      }
+    ],
+    "auto_finish": 1,
+    "message_id": 55001,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70015002,
+    "name": "前往出版社门口",
+    "task_class": 1,
+    "paragraph_id": 70015,
+    "task_structure_type": 4,
+    "next_task": [
+      70015003
+    ],
+    "task_condition": [
+      {
+        "text": "前往出版社门口",
+        "type": 308,
+        "data1": [
+          220340
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220340
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220340
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70015003,
+    "name": "与眼前的男人对话",
+    "task_class": 1,
+    "paragraph_id": 70015,
+    "task_structure_type": 4,
+    "next_task": [
+      70015004
+    ],
+    "task_condition": [
+      {
+        "text": "与眼前的男人对话",
+        "type": 308,
+        "data1": [
+          220341
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220341
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          2201943
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220341
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70015004,
+    "name": "完成莫里亚克的实习任务",
+    "task_class": 1,
+    "paragraph_id": 70015,
+    "task_structure_type": 4,
+    "next_task": [
+      70015005
+    ],
+    "task_condition": [
+      {
+        "text": "完成莫里亚克的实习任务",
+        "type": 207,
+        "data1": [
+          70016002,
+          70017002,
+          70018002,
+          70019002,
+          70020003
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceOpenActivityPanel",
+        "args": "39",
+        "args2": "3900001",
+        "show_text": "点击查看活动详情"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 70015005,
+    "name": "向莫里亚克报告",
+    "task_class": 1,
+    "paragraph_id": 70015,
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "向莫里亚克报告",
+        "type": 308,
+        "data1": [
+          220343
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220343
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220343
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220355
+        ]
+      },
+      {
+        "type": 51,
+        "data1": [
+          10218
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70016001,
+    "name": "前往彼得大道广场",
+    "task_class": 1,
+    "paragraph_id": 70016,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70015003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-05-08 04:00:00"
+      }
+    ],
+    "next_task": [
+      70016002
+    ],
+    "task_condition": [
+      {
+        "text": "前往彼得大道广场",
+        "type": 308,
+        "data1": [
+          220344
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201940
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201940,
+          2201941,
+          2201942
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201940
+        ],
+        "data2": [
+          220344
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201940
+        ],
+        "data2": [
+          220344
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70016002,
+    "name": "询问马戏爱好者",
+    "task_class": 1,
+    "paragraph_id": 70016,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "询问马戏爱好者",
+        "type": 308,
+        "data1": [
+          220345
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201940
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000197,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201940
+        ],
+        "data2": [
+          220345
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201940
+        ],
+        "data2": [
+          220345
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70017001,
+    "name": "前往王国城堡",
+    "task_class": 1,
+    "paragraph_id": 70017,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70015003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-05-09 04:00:00"
+      }
+    ],
+    "next_task": [
+      70017002
+    ],
+    "task_condition": [
+      {
+        "text": "前往王国城堡",
+        "type": 308,
+        "data1": [
+          220346
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201945
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201945
+        ],
+        "data2": [
+          220346
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          2201945
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201945
+        ],
+        "data2": [
+          220346
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70017002,
+    "name": "与洛克小朋友对话",
+    "task_class": 1,
+    "paragraph_id": 70017,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与洛克小朋友对话",
+        "type": 308,
+        "data1": [
+          220347
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201945
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000198,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201945
+        ],
+        "data2": [
+          220347
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201945
+        ],
+        "data2": [
+          220347
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70018001,
+    "name": "前往彼得大道下沉区",
+    "task_class": 1,
+    "paragraph_id": 70018,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70015003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-05-10 04:00:00"
+      }
+    ],
+    "next_task": [
+      70018002
+    ],
+    "task_condition": [
+      {
+        "text": "前往彼得大道下沉区",
+        "type": 308,
+        "data1": [
+          220348
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201939
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201939
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201939
+        ],
+        "data2": [
+          220348
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201939
+        ],
+        "data2": [
+          220348
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70018002,
+    "name": "与洛克小朋友对话",
+    "task_class": 1,
+    "paragraph_id": 70018,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与洛克小朋友对话",
+        "type": 308,
+        "data1": [
+          220349
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201939
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000199,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201939
+        ],
+        "data2": [
+          220349
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201939
+        ],
+        "data2": [
+          220349
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70019001,
+    "name": "前往王国城堡广场",
+    "task_class": 1,
+    "paragraph_id": 70019,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70015003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-05-11 04:00:00"
+      }
+    ],
+    "next_task": [
+      70019002
+    ],
+    "task_condition": [
+      {
+        "text": "前往王国城堡广场",
+        "type": 308,
+        "data1": [
+          220350
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201937
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201937,
+          2201938
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201937
+        ],
+        "data2": [
+          220350
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201937
+        ],
+        "data2": [
+          220350
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70019002,
+    "name": "与宫廷魔法师对话",
+    "task_class": 1,
+    "paragraph_id": 70019,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与宫廷魔法师对话",
+        "type": 308,
+        "data1": [
+          220351
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201937
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000200,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201937
+        ],
+        "data2": [
+          220351
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          2201938
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2201937
+        ],
+        "data2": [
+          220351
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70020001,
+    "name": "前往交汇镇",
+    "task_class": 1,
+    "paragraph_id": 70020,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70015003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-05-12 04:00:00"
+      }
+    ],
+    "next_task": [
+      70020002
+    ],
+    "task_condition": [
+      {
+        "text": "前往交汇镇",
+        "type": 308,
+        "data1": [
+          220352
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          4000518
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          4000518
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          4000518
+        ],
+        "data2": [
+          220352
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          4000518
+        ],
+        "data2": [
+          220352
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70020002,
+    "name": "与围观的洛克对话",
+    "task_class": 1,
+    "paragraph_id": 70020,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      70020003
+    ],
+    "task_condition": [
+      {
+        "text": "与围观的洛克对话",
+        "type": 308,
+        "data1": [
+          220353
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          4000518
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          4000518
+        ],
+        "data2": [
+          220353
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          4000518
+        ],
+        "data2": [
+          220353
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70020003,
+    "name": "查看告示牌",
+    "task_class": 1,
+    "paragraph_id": 70020,
+    "task_des": "莫里亚克提供了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "查看告示牌",
+        "type": 308,
+        "data1": [
+          220354
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201944
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201944
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201944
+        ],
+        "data2": [
+          220354
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201944
+        ],
+        "data2": [
+          220354
+        ]
+      }
+    ],
+    "online_process": 3,
     "is_para_done": true
   },
   {

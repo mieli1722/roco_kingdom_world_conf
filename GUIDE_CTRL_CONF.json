@@ -4502,5 +4502,24 @@
     "transparence": 20,
     "style_type": "GUIDE_FOCUS",
     "type_id": 700029
+  },
+  {
+    "id": 700030,
+    "editor_name": "【AI教练】点击AI教练",
+    "guide_group_id": 7002,
+    "sub_guide_id": 1,
+    "pc_show": true,
+    "mobile_show": true,
+    "cond_type": "and",
+    "type1": "none",
+    "type2_data_2": 800,
+    "delay_time": 800,
+    "finish_button_showtime": 5000,
+    "finish_overtime": 180000,
+    "is_local": true,
+    "style_type": "GUIDE_FOCUS",
+    "type_id": 700030,
+    "done_type": "ui_button",
+    "done_type_data1": 600001
   }
 ]

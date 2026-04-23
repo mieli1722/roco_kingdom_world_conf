@@ -565,6 +565,16 @@
     "channel": 1
   },
   {
+    "id": 81,
+    "editor_name": "AI教练入口",
+    "is_open": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 1010000,
     "editor_name": "精灵喂养",
     "parent_id": 1,
@@ -2381,11 +2391,12 @@
     "id": 67030000,
     "editor_name": "知己",
     "parent_id": 67,
+    "is_open": 1,
     "login_plat_limit": [
       0
     ],
     "version_rule": 1,
-    "channel": 4
+    "channel": 1
   },
   {
     "id": 67040000,
@@ -2512,6 +2523,68 @@
     "parent_id": 73,
     "is_open": 1,
     "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81010000,
+    "editor_name": "闪耀大赛匹配模式备战相关界面",
+    "parent_id": 81,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81020000,
+    "editor_name": "友谊对决战斗内相关界面",
+    "parent_id": 81,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81030000,
+    "editor_name": "好友相关界面",
+    "parent_id": 81,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81040000,
+    "editor_name": "聊天相关界面",
+    "parent_id": 81,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81050000,
+    "editor_name": "闪耀周末活动相关界面",
+    "parent_id": 81,
+    "is_open": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 81060000,
+    "editor_name": "闪耀周末阵容相关界面",
+    "parent_id": 81,
+    "is_open": 1,
     "login_plat_limit": [
       0
     ],

@@ -521,6 +521,21 @@
     "fx_res": "Dimo"
   },
   {
+    "id": 1036,
+    "name": "魔法纹章",
+    "quality": 2,
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_MedalIcon_Xueyuan.img_MedalIcon_Xueyuan'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_MedalIcon_Xueyuan.img_MedalIcon_Xueyuan'",
+    "desc": "在魔法学院捕获/孵化精灵，极低概率获得",
+    "medal_type": 2,
+    "medal_source": 1,
+    "task_ids": [
+      1036
+    ],
+    "is_auto_wear": 1,
+    "prefix_text": "魔法师"
+  },
+  {
     "id": 2003,
     "name": "先驱者",
     "quality": 2,

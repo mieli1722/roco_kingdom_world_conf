@@ -287,6 +287,29 @@
     "count": 1
   },
   {
+    "id": 1036,
+    "desc": "在魔法学院的任意二级地域捕获精灵，低概率获得",
+    "get_condition": 15,
+    "condition_data1": [
+      130313,
+      130317,
+      130318,
+      130319
+    ],
+    "condition_data2": [
+      80000
+    ],
+    "condition_data3": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "count": 1
+  },
+  {
     "id": 2001,
     "desc": "在PVP中，1场战斗内伤害超过80%的精灵",
     "get_condition": 16,

@@ -90,5 +90,21 @@
     "mail_ID": 70005,
     "notify_tips": "此次领奖内容已转移至邮件，请查看邮箱",
     "editor_name": "只能来源于邮件，商城购买，购买，充值，每日总计可获得20张"
+  },
+  {
+    "id": 6,
+    "is_open": 1,
+    "Type": 2,
+    "item_id": 2,
+    "item_name": "洛克钻",
+    "daily_max_times": 99999999,
+    "daily_max_counts": 10000,
+    "reason_white_list": [
+      "43"
+    ],
+    "rewards_mail_hold_hours": 24,
+    "mail_ID": 70005,
+    "notify_tips": "此次领奖内容已转移至邮件，请查看邮箱",
+    "editor_name": "只能来源于BP过期后洛克钻转化，每日10000"
   }
 ]

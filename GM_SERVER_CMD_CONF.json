@@ -1877,5 +1877,26 @@
         "param_desc": "1=波动 0=不波动"
       }
     ]
+  },
+  {
+    "id": 111,
+    "cmd_id": "test_relocate_bonus_npcs",
+    "cmd_name": "修复连续捕捉NPC",
+    "cmd_desc": "修复连续捕捉NPC",
+    "cmd_belong": "场景-通用",
+    "param_list": [
+      {
+        "param_key": "num_positions",
+        "param_type": 102,
+        "param_name": "NPC点位个数",
+        "param_desc": "NPC点位个数"
+      },
+      {
+        "param_key": "offset_range",
+        "param_type": 102,
+        "param_name": "距离(cm)",
+        "param_desc": "距离(cm)"
+      }
+    ]
   }
 ]
