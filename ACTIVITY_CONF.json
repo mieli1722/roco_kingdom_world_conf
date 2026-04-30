@@ -487,6 +487,31 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
   },
   {
+    "id": 4019,
+    "activity_type": 22,
+    "base_id": [
+      1500109
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-05-18 04:00:00",
+    "disappear_time": "2026-05-25 03:59:59",
+    "daily_clear_time": "04:00:00",
+    "world_level_required": 1,
+    "get_activity_task": [
+      52080645
+    ],
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
     "id": 100003,
     "activity_type": 1,
     "base_id": [
@@ -2618,7 +2643,7 @@
     "world_level_required": 2,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 45,
+    "priority": 44,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
@@ -2638,10 +2663,31 @@
     "world_level_required": 2,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 45,
+    "priority": 44,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300017,
+    "activity_type": 33,
+    "base_id": [
+      3300017
+    ],
+    "activity_name": "精灵集结！闪耀狂欢",
+    "prompt_text": "全精灵试用限时开启，所有精灵将为你而战！\n打破搭配限制，在对决中碰撞出最耀眼的火花吧",
+    "activity_txt": "活动期间，闪耀大赛全精灵试用限时开启，快叫上好友一起来冲击大师决斗家吧！",
+    "appear_time": "2026-04-30 04:00:00",
+    "disappear_time": "2026-05-07 03:59:59",
+    "daily_clear_time": "04:00:00",
+    "world_level_required": 2,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 43,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_duijue_bg.img_duijue_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue2_png.img_duijue2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue1_png.img_duijue1_png'"
   },
   {
     "id": 3400001,
@@ -2768,9 +2814,9 @@
       3900001
     ],
     "activity_name": "洛克新鲜事",
-    "prompt_text": "《洛克里安日报》：近期王国热点速递!\n\"我们报道你知道的，也报道你不知道的\"",
-    "activity_txt": "《洛克里安日报》是洛克里安地区最大的八卦小报，内容劲爆新颖，深受全年龄段洛克喜爱。至于准确率……到20%了…吗？\n但不重要！帮助主编莫里亚克调查事件，收集全部线索，撰写一篇轰动王国的头条新闻吧！\n\n <span color=\"#d56c1f\">活动时间</>\n2026年5月8日04:00-2026年5月21日04:00(UTC+8)\n\n <span color=\"#d56c1f\">参与条件</>\n已完成前置剧情「智慧出版社的危机」，并成为出版社的实习记者。\n\n <span color=\"#d56c1f\">活动说明</>\n追踪线报：根据莫里亚克提供的线索进行探查。点击活动界面中的线索图片，前往收集本日关键线报。\n每日刷新：每条关键线报需要间隔1天挖掘，线索将在每日04:00更新~请保持耐心，持续跟进。\n最终出版：当所有线索任务都完成后，可返回出版社找莫里亚克提交线索，完成最终的新闻出版。\n获得嘉奖：成功出版报纸后，将获得出版报酬奖励。",
-    "appear_time": "2026-05-08 04:00:00",
+    "prompt_text": "《洛克里安日报》：王国热点速递!\n\"报道你知道的，也报道你不知道的\n至于准确率……到20%了…吗？\"",
+    "activity_txt": "《洛克里安日报》是洛克里安地区最大的八卦小报，内容劲爆新颖，深受全年龄段洛克喜爱。至于报导的准确性……似乎不太高的样子。\n但不重要！帮助主编莫里亚克调查事件，收集全部线索，撰写一篇轰动王国的头条新闻吧！\n\n <span color=\"#d56c1f\">活动时间</>\n2026年5月4日04:00-2026年5月21日04:00(UTC+8)\n\n <span color=\"#d56c1f\">参与条件</>\n已完成前置剧情「智慧出版社的实习？」，并成为出版社的实习记者。\n\n <span color=\"#d56c1f\">活动说明</>\n追踪线报：根据莫里亚克提供的线索进行探查。点击活动界面中的线索图片，前往收集本日关键线报。\n每日刷新：每条关键线报需要间隔1天挖掘，线索将在每日04:00更新~请保持耐心，持续跟进。\n最终出版：当所有线索任务都完成后，可返回出版社找莫里亚克提交线索，完成最终的新闻出版。\n获得嘉奖：成功出版报纸后，将获得出版报酬奖励。",
+    "appear_time": "2026-05-04 04:00:00",
     "disappear_time": "2026-05-21 03:59:59",
     "daily_clear_time": "04:00:00",
     "world_level_required": 1,

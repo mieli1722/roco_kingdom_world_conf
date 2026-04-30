@@ -3788,6 +3788,31 @@
     "buff_trigger_priority": 1
   },
   {
+    "id": 20010798,
+    "editor_name": "渗透的影子效果",
+    "buff_base_ids": [
+      2001079
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830019_png.830019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
     "id": 20010800,
     "editor_name": "免疫蓄力标记",
     "buff_base_ids": [
@@ -6777,7 +6802,7 @@
     "name": "契约的形状",
     "type_id": "5",
     "type": 3,
-    "add_max": 99,
+    "add_max": 1,
     "desc": "双攻、双防和速度+5%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830112_png.830112_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -6815,7 +6840,7 @@
     "name": "契约的形状",
     "type_id": "5",
     "type": 3,
-    "add_max": 99,
+    "add_max": 1,
     "desc": "双攻、双防和速度+10%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830113_png.830113_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -6858,7 +6883,7 @@
     "name": "契约的形状",
     "type_id": "5",
     "type": 3,
-    "add_max": 99,
+    "add_max": 1,
     "desc": "双攻、双防和速度+15%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830114_png.830114_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -26977,6 +27002,31 @@
   {
     "id": 20350350,
     "editor_name": "溶解扩散",
+    "buff_base_ids": [
+      2035035
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 6,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20350351,
+    "editor_name": "溶解扩散2",
     "buff_base_ids": [
       2035035
     ],
@@ -50085,10 +50135,10 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
-        "reduce_type": 13,
+        "reduce_type": 2,
         "reduce_param": [
-          999,
-          0
+          1,
+          99
         ]
       }
     ],
@@ -50110,10 +50160,10 @@
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
-        "reduce_type": 13,
+        "reduce_type": 2,
         "reduce_param": [
-          999,
-          0
+          1,
+          99
         ]
       }
     ],

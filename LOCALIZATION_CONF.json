@@ -13873,6 +13873,10 @@
     "msg": "\"你的实力让我有点期待了！\""
   },
   {
+    "id": "challenge_dialogue_21",
+    "msg": "“上次只是本公主大意了，我可没有承认你比我更强！”"
+  },
+  {
     "id": "challenge_text_1",
     "msg": "推荐精灵等级"
   },
@@ -20362,7 +20366,7 @@
   },
   {
     "id": "Activity_PlayerCoCreation_review_record_des",
-    "msg": "· 全服第%d位获得此精灵的小洛克\n· 首次获得在%04d年%02d月%02d日%02d:%02d\n· 在%s发现了它的踪迹",
+    "msg": "· 首次获得在%04d年%02d月%02d日%02d:%02d\n· 在%s发现了它的踪迹",
     "editor_name": "洛克筑梦师-回顾界面-活动记录详情"
   },
   {
@@ -21520,17 +21524,17 @@
   },
   {
     "id": "activity_preheat__unlock_time_daytips",
-    "msg": "{0}天后有消息?",
+    "msg": "%d天后有消息?",
     "editor_name": "预热活动线索解锁提示文案"
   },
   {
     "id": "activity_preheat__unlock_time_hourtips",
-    "msg": "{0}小时后有消息?!",
+    "msg": "%d小时后有消息?!",
     "editor_name": "预热活动线索解锁提示文案"
   },
   {
     "id": "activity_preheat__unlock_time_mintips",
-    "msg": "{0}分钟后有消息!!",
+    "msg": "%d分钟后有消息!!",
     "editor_name": "预热活动线索解锁提示文案"
   },
   {
@@ -21545,7 +21549,7 @@
   },
   {
     "id": "activity_preheat_paper_trailer",
-    "msg": "主编：莫利亚克    实习编辑：{0}",
+    "msg": "主编：莫利亚克    实习编辑：%s",
     "editor_name": "预热活动最终报纸彩蛋"
   },
   {
@@ -22764,7 +22768,7 @@
   },
   {
     "id": "select_box_icon_titile",
-    "msg": "盒子自定义",
+    "msg": "盒子设置",
     "editor_name": "标记盒子功能标题"
   },
   {
@@ -23450,8 +23454,28 @@
     "msg": "阁下已经捕捉了太多精灵，请及时去魔力之源处上报"
   },
   {
+    "id": "box_lock_tips",
+    "msg": "盒子锁定后，整理功能将不再会影响到其中的精灵；新获得的精灵（一般情况下）也不会进入该盒子。",
+    "editor_name": "盒子锁定解释"
+  },
+  {
+    "id": "tidy_sequence_title",
+    "msg": "排序方式",
+    "editor_name": "整理排序功能标题"
+  },
+  {
+    "id": "tidy_box_title",
+    "msg": "整理盒子",
+    "editor_name": "整理盒子标题"
+  },
+  {
     "id": "Error_Code_1138",
-    "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再进行回顾"
+    "msg": "阁下无法拥有更多洛克贝了，请使用部分洛克贝后再试"
+  },
+  {
+    "id": "activity_preheat__unlock_time_sectips",
+    "msg": "不足1分钟!!!",
+    "editor_name": "预热活动线索提示1分钟内文本"
   },
   {
     "id": "ai_coach_1",

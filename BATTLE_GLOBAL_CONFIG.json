@@ -3372,6 +3372,18 @@
     ]
   },
   {
+    "id": 1534,
+    "key": "pvp_rank_character31",
+    "editor_name": "本期限时试用系别",
+    "str": "本期限时试用系别"
+  },
+  {
+    "id": 1535,
+    "key": "pvp_rank_character32",
+    "editor_name": "本期限时试用全系别",
+    "str": "本期限时试用全系别"
+  },
+  {
     "id": 1600,
     "key": "pvp_rank_character20",
     "editor_name": "随机精灵功能加成文字1",
@@ -3508,6 +3520,36 @@
     "key": "pvp_param6",
     "editor_name": "观战方战败，观战者是否可以获得星光",
     "num": 1
+  },
+  {
+    "id": 1626,
+    "key": "pvp_param7",
+    "editor_name": "友谊对决匹配规则1：玩家携带精灵进化链数≥x 且相同进化链的精灵≥y，判定为同一阵容中的x参数",
+    "num": 4
+  },
+  {
+    "id": 1627,
+    "key": "pvp_param8",
+    "editor_name": "友谊对决匹配规则1：玩家携带精灵进化链数≥x 且相同进化链的精灵≥y，判定为同一阵容中的y参数",
+    "num": 3
+  },
+  {
+    "id": 1628,
+    "key": "pvp_param9",
+    "editor_name": "友谊对决匹配规则2：玩家携带精灵进化链数≤x 且相同进化链的精灵≥y，判定为同一阵容中的x参数",
+    "num": 3
+  },
+  {
+    "id": 1629,
+    "key": "pvp_param10",
+    "editor_name": "友谊对决匹配规则2：玩家携带精灵进化链数≤x 且相同进化链的精灵≥y，判定为同一阵容中的y参数",
+    "num": 1
+  },
+  {
+    "id": 1630,
+    "key": "pvp_param11",
+    "editor_name": "友谊对决匹配规则如果近x场匹配到同阵容，则不可再匹配该阵容的玩家",
+    "num": 5
   },
   {
     "id": 1633,

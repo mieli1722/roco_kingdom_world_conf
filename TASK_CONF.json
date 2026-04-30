@@ -476,6 +476,55 @@
     ]
   },
   {
+    "id": 100010,
+    "name": "【隐藏任务】新手皮箱交互问题",
+    "task_class": 1,
+    "paragraph_id": 60026,
+    "task_des": "序章和间章增加互见区屏蔽storyflag",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70111020
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "瞬间完成",
+        "type": 207,
+        "data1": [
+          71008311
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 12,
+        "data1": [
+          13002,
+          13009
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 13,
+        "data1": [
+          13002,
+          13009
+        ]
+      }
+    ]
+  },
+  {
     "id": 100300,
     "name": "【内部测试】黑屏case1",
     "task_class": 1,
@@ -111565,7 +111614,8 @@
           318004,
           318005,
           318006,
-          318007
+          318007,
+          318016
         ],
         "data4": "pet_evolution_id",
         "data5": "242;121;160;198;135;169;78;58;76;68",
@@ -111666,17 +111716,17 @@
   },
   {
     "id": 53501403,
-    "name": "完成<a id=\"龙息帕尔\">2307</>所有图鉴课题",
+    "name": "完成6个<desc_id=2307>龙息帕尔</>图鉴课题",
     "task_class": 21,
     "paragraph_id": 53502,
     "task_condition": [
       {
-        "text": "完成<a id=\"龙息帕尔\">2307</>所有图鉴课题",
+        "text": "完成6个<desc_id=2307>龙息帕尔</>图鉴课题",
         "type": 215,
         "data1": [
           295
         ],
-        "count": 7
+        "count": 6
       }
     ],
     "go_guide": [
@@ -140076,6 +140126,7 @@
     "name": "前往出版社门口",
     "task_class": 1,
     "paragraph_id": 70015,
+    "task_des": "智慧出版社正在招聘实习记者，去出版社门口瞧一瞧吧。",
     "task_structure_type": 4,
     "next_task": [
       70015003
@@ -140132,6 +140183,7 @@
     "name": "与眼前的男人对话",
     "task_class": 1,
     "paragraph_id": 70015,
+    "task_des": "智慧出版社正在招聘实习记者，去出版社门口瞧一瞧吧。",
     "task_structure_type": 4,
     "next_task": [
       70015004
@@ -140230,6 +140282,7 @@
     "name": "向莫里亚克报告",
     "task_class": 1,
     "paragraph_id": 70015,
+    "task_des": "顺利完成莫里亚克布置的实习任务，手头攒了不少线索，是时候回去找他交差了。",
     "task_structure_type": 4,
     "task_condition": [
       {
@@ -140317,7 +140370,7 @@
       },
       {
         "type": 5,
-        "available_time": "2026-05-08 04:00:00"
+        "available_time": "2026-05-04 04:00:00"
       }
     ],
     "next_task": [
@@ -140451,7 +140504,7 @@
       },
       {
         "type": 5,
-        "available_time": "2026-05-09 04:00:00"
+        "available_time": "2026-05-05 04:00:00"
       }
     ],
     "next_task": [
@@ -140583,7 +140636,7 @@
       },
       {
         "type": 5,
-        "available_time": "2026-05-10 04:00:00"
+        "available_time": "2026-05-06 04:00:00"
       }
     ],
     "next_task": [
@@ -140715,7 +140768,7 @@
       },
       {
         "type": 5,
-        "available_time": "2026-05-11 04:00:00"
+        "available_time": "2026-05-07 04:00:00"
       }
     ],
     "next_task": [
@@ -140854,7 +140907,7 @@
       },
       {
         "type": 5,
-        "available_time": "2026-05-12 04:00:00"
+        "available_time": "2026-05-08 04:00:00"
       }
     ],
     "next_task": [
