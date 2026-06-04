@@ -79721,11 +79721,12 @@
       300000200
     ],
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316051",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000050
+    "select_next_dialogue": 189000050,
+    "disable_cond": 1,
+    "disable_cond_params": "7041"
   },
   {
     "id": 200000022,
@@ -79737,11 +79738,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7041",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316052",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000060
+    "select_next_dialogue": 189000060,
+    "disable_cond": 1,
+    "disable_cond_params": "7042"
   },
   {
     "id": 200000023,
@@ -79753,11 +79755,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7042",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316053",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000070
+    "select_next_dialogue": 189000070,
+    "disable_cond": 1,
+    "disable_cond_params": "7043"
   },
   {
     "id": 200000024,
@@ -79769,11 +79772,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7043",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316054",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000080
+    "select_next_dialogue": 189000080,
+    "disable_cond": 1,
+    "disable_cond_params": "7044"
   },
   {
     "id": 200000025,
@@ -79785,11 +79789,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7044",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316055",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000090
+    "select_next_dialogue": 189000090,
+    "disable_cond": 1,
+    "disable_cond_params": "7045"
   },
   {
     "id": 200000026,
@@ -79801,11 +79806,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7045",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316056",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000100
+    "select_next_dialogue": 189000100,
+    "disable_cond": 1,
+    "disable_cond_params": "7046"
   },
   {
     "id": 200000027,
@@ -79817,11 +79823,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7046",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316057",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000110
+    "select_next_dialogue": 189000110,
+    "disable_cond": 1,
+    "disable_cond_params": "7047"
   },
   {
     "id": 200000028,
@@ -79833,11 +79840,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7047",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316058",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000120
+    "select_next_dialogue": 189000120,
+    "disable_cond": 1,
+    "disable_cond_params": "7048"
   },
   {
     "id": 200000029,
@@ -79849,11 +79857,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7048",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316059",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000130
+    "select_next_dialogue": 189000130,
+    "disable_cond": 1,
+    "disable_cond_params": "7049"
   },
   {
     "id": 200000030,
@@ -79865,11 +79874,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7049",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316060",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000140
+    "select_next_dialogue": 189000140,
+    "disable_cond": 1,
+    "disable_cond_params": "7050"
   },
   {
     "id": 200000031,
@@ -79881,11 +79891,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7050",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316061",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000150
+    "select_next_dialogue": 189000150,
+    "disable_cond": 1,
+    "disable_cond_params": "7051"
   },
   {
     "id": 200000032,
@@ -79897,11 +79908,12 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "enable_cond": 1,
     "enable_cond_params": "7051",
-    "times": 1,
-    "times_decrease_cond": 3,
-    "times_decrease_cond_params": "316062",
+    "times": -1,
+    "times_decrease_cond": 4,
     "notimes_disable": 1,
-    "select_next_dialogue": 189000160
+    "select_next_dialogue": 189000160,
+    "disable_cond": 1,
+    "disable_cond_params": "7064"
   },
   {
     "id": 200000053,

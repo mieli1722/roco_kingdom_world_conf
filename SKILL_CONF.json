@@ -4817,15 +4817,33 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 20350560,
+        "effect_id": 20641500,
         "result_target_type": 1,
         "cast_moment": 11,
         "success_rate": 10000,
         "buff_group_level": 1
       },
-      {},
-      {},
-      {},
+      {
+        "effect_id": 20641510,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
+      {
+        "effect_id": 20641520,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
+      {
+        "effect_id": 20641530,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
       {},
       {
         "effect_id": 1004117,
@@ -17583,7 +17601,7 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 20350560,
+        "effect_id": 20400830,
         "result_target_type": 1,
         "cast_moment": 11,
         "success_rate": 10000,
@@ -44747,8 +44765,8 @@
     "skill_result": [
       {
         "effect_id": 20400740,
-        "result_target_type": 1,
-        "cast_moment": 11,
+        "result_target_type": 2,
+        "cast_moment": 7,
         "success_rate": 10000,
         "buff_group_level": 1
       }

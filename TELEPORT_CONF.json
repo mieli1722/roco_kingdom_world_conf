@@ -8710,6 +8710,69 @@
     }
   },
   {
+    "id": 1408,
+    "editor_name": "走钢丝-STG5复活点",
+    "teleport_actor_types": [
+      2
+    ],
+    "teleport_begin_point_type": 1,
+    "teleport_dest_type": 1,
+    "teleport_dest": [
+      {
+        "dest_id": 555060023,
+        "dest_weight": 100
+      }
+    ],
+    "teleport_dest_online": {
+      "dest_area_id_online": 555060023,
+      "dest_outside_radius_online": 800,
+      "dest_inside_radius_online": 100,
+      "deviation_online": 300
+    }
+  },
+  {
+    "id": 1409,
+    "editor_name": "走钢丝-STG6复活点",
+    "teleport_actor_types": [
+      2
+    ],
+    "teleport_begin_point_type": 1,
+    "teleport_dest_type": 1,
+    "teleport_dest": [
+      {
+        "dest_id": 555060024,
+        "dest_weight": 100
+      }
+    ],
+    "teleport_dest_online": {
+      "dest_area_id_online": 555060024,
+      "dest_outside_radius_online": 800,
+      "dest_inside_radius_online": 100,
+      "deviation_online": 300
+    }
+  },
+  {
+    "id": 1410,
+    "editor_name": "走钢丝-STG7复活点",
+    "teleport_actor_types": [
+      2
+    ],
+    "teleport_begin_point_type": 1,
+    "teleport_dest_type": 1,
+    "teleport_dest": [
+      {
+        "dest_id": 555060025,
+        "dest_weight": 100
+      }
+    ],
+    "teleport_dest_online": {
+      "dest_area_id_online": 555060025,
+      "dest_outside_radius_online": 800,
+      "dest_inside_radius_online": 100,
+      "deviation_online": 300
+    }
+  },
+  {
     "id": 1522,
     "editor_name": "S1赛季大厅-保底复活点",
     "resurrection_group": 1,

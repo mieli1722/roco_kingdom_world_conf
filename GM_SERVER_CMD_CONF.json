@@ -1199,6 +1199,12 @@
         "param_type": 101,
         "param_name": "查询时检查回溯条件",
         "param_desc": "不填不检查，1：检查"
+      },
+      {
+        "param_key": "item_id",
+        "param_type": 101,
+        "param_name": "血脉药道具ID",
+        "param_desc": "op_type=7时必填，指定要清理的血脉药道具ID"
       }
     ]
   },
@@ -2315,6 +2321,34 @@
     ]
   },
   {
+    "id": 107,
+    "cmd_id": "action_bonus_show_catch_points",
+    "cmd_name": "生成捕捉刷新点",
+    "cmd_desc": "生成捕捉刷新点",
+    "cmd_belong": "场景-通用",
+    "param_list": [
+      {
+        "param_key": "search_radius",
+        "param_require": true,
+        "param_type": 102,
+        "param_name": "搜索半径(cm)",
+        "param_desc": "搜索半径(cm)"
+      },
+      {
+        "param_key": "sphere_radius",
+        "param_type": 102,
+        "param_name": "球体半径(cm)",
+        "param_desc": "球体半径(cm)"
+      },
+      {
+        "param_key": "show_time",
+        "param_type": 102,
+        "param_name": "球体显示时长(秒)",
+        "param_desc": "球体显示时长(秒)"
+      }
+    ]
+  },
+  {
     "id": 108,
     "cmd_id": "test_lottery_draw",
     "cmd_name": "测试六一抽奖",
@@ -2374,34 +2408,6 @@
         "param_type": 101,
         "param_name": "是否处于同行状态",
         "param_desc": "是否处于同行状态"
-      }
-    ]
-  },
-  {
-    "id": 107,
-    "cmd_id": "action_bonus_show_catch_points",
-    "cmd_name": "生成捕捉刷新点",
-    "cmd_desc": "生成捕捉刷新点",
-    "cmd_belong": "场景-通用",
-    "param_list": [
-      {
-        "param_key": "search_radius",
-        "param_require": true,
-        "param_type": 102,
-        "param_name": "搜索半径(cm)",
-        "param_desc": "搜索半径(cm)"
-      },
-      {
-        "param_key": "sphere_radius",
-        "param_type": 102,
-        "param_name": "球体半径(cm)",
-        "param_desc": "球体半径(cm)"
-      },
-      {
-        "param_key": "show_time",
-        "param_type": 102,
-        "param_name": "球体显示时长(秒)",
-        "param_desc": "球体显示时长(秒)"
       }
     ]
   },
@@ -2597,6 +2603,43 @@
         "param_type": 101,
         "param_name": "保底计数",
         "param_desc": "保底计数值，不能小于0"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "cmd_id": "reduce_rare_npc_refresh_prob",
+    "cmd_name": "降低珍贵Npc刷新概率",
+    "cmd_desc": "根据途径设置炫彩异色概率",
+    "param_list": [
+      {
+        "param_key": "reduce_type",
+        "param_require": true,
+        "param_type": 101,
+        "param_name": "修改类型",
+        "param_desc": "1.野怪 2. 连续捕捉 3.普通花种 4.生蛋 5.传说精灵 6. 特殊花种",
+        "param_option": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "param_key": "reduce_time_in_sec",
+        "param_require": true,
+        "param_type": 102,
+        "param_name": "修改秒数",
+        "param_desc": "当前时间往后多少秒内生效"
+      },
+      {
+        "param_key": "reduce_prob",
+        "param_require": true,
+        "param_type": 102,
+        "param_name": "修改概率",
+        "param_desc": "概率：0~100"
       }
     ]
   }

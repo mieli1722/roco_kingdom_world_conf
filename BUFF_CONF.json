@@ -32195,6 +32195,13 @@
           1,
           99
         ]
+      },
+      {
+        "reduce_type": 7,
+        "reduce_param": [
+          1,
+          1
+        ]
       }
     ],
     "is_clean_when_rest": 1,
@@ -32221,6 +32228,105 @@
         ]
       }
     ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20400830,
+    "buff_base_ids": [
+      2040084,
+      2040085,
+      2040086,
+      2040087
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20400840,
+    "buff_base_ids": [
+      2040085
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20400850,
+    "buff_base_ids": [
+      2040086
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20400860,
+    "buff_base_ids": [
+      2040087
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {
@@ -43158,6 +43264,282 @@
     "buff_group_reduce": [
       {
         "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641500,
+    "buff_base_ids": [
+      2064150
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 12,
+        "reduce_param": [
+          1,
+          99
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641510,
+    "buff_base_ids": [
+      2064151
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 12,
+        "reduce_param": [
+          1,
+          99
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641520,
+    "buff_base_ids": [
+      2064152
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 12,
+        "reduce_param": [
+          1,
+          99
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641530,
+    "buff_base_ids": [
+      2064153
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 12,
+        "reduce_param": [
+          1,
+          99
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641540,
+    "buff_base_ids": [
+      2064154
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641550,
+    "buff_base_ids": [
+      2064155
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641560,
+    "buff_base_ids": [
+      2064156
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641570,
+    "buff_base_ids": [
+      2064157
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641580,
+    "buff_base_ids": [
+      2064158
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641590,
+    "buff_base_ids": [
+      2064159
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641600,
+    "buff_base_ids": [
+      2064160
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20641610,
+    "buff_base_ids": [
+      2064161
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/7040010_png.7040010_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 2,
         "reduce_param": [
           999,
           0

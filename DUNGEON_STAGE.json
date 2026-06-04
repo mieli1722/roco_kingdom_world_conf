@@ -263,8 +263,62 @@
         550000091
       ]
     },
-    "finish_condition": {},
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000238
+      ]
+    },
     "revive_point": 1404
+  },
+  {
+    "id": 15000605,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG5",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000238
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000239
+      ]
+    },
+    "revive_point": 1408
+  },
+  {
+    "id": 15000606,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG6",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000239
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000240
+      ]
+    },
+    "revive_point": 1409
+  },
+  {
+    "id": 15000607,
+    "dungeon_id": 150006,
+    "stage_name": "高空钢索表演-STG7",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000240
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 1410
   },
   {
     "id": 15000901,

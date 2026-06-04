@@ -3347,6 +3347,14 @@
     "msg": "输入的学号不存在"
   },
   {
+    "id": "search_UID_blacklist",
+    "msg": "您已将对方拉黑，请先移除黑名单"
+  },
+  {
+    "id": "search_UID_in_blacklist",
+    "msg": "对方设置了隐私权限，无法搜到"
+  },
+  {
     "id": "search_UID_myself",
     "msg": "请输入其他魔法师的学号"
   },
@@ -6685,6 +6693,10 @@
   {
     "id": "umg_petevolution_9",
     "msg": "洛克贝数量不足!"
+  },
+  {
+    "id": "umg_petevolution_10",
+    "msg": "本回合将无法再次触发精灵进化，是否确认不进行精灵进化？"
   },
   {
     "id": "evolution_fail_tips",
@@ -11766,6 +11778,10 @@
     "msg": "你们十分默契，%s精准地控制住了力道。"
   },
   {
+    "id": "takephoto_cameraskin_change_success",
+    "msg": "已更换留影机外观。"
+  },
+  {
     "id": "takephoto_camera_skin_bottom_tips",
     "msg": "可以在拍照中更换留影机外观啦！"
   },
@@ -12333,7 +12349,7 @@
   },
   {
     "id": "share_fail_tips",
-    "msg": "分享失败"
+    "msg": "分享失败，请稍后再试。"
   },
   {
     "id": "share_fail_tips2",
@@ -18255,6 +18271,14 @@
     "msg": "对方所在区域拥挤，无法传送"
   },
   {
+    "id": "Error_Code_13232",
+    "msg": "您已将对方拉黑，无法传送到其附近"
+  },
+  {
+    "id": "Error_Code_13233",
+    "msg": "由于对方隐私权限设置，无法传送附近"
+  },
+  {
     "id": "Error_Code_2634",
     "msg": "对方不在线，无法赠送"
   },
@@ -21473,6 +21497,10 @@
   {
     "id": "deep_log_close",
     "msg": "关闭日志"
+  },
+  {
+    "id": "share_save_failed_tips",
+    "msg": "保存失败，请稍后再试"
   },
   {
     "id": "player_animation_customize_title",

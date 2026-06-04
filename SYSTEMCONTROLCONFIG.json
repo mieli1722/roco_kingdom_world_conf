@@ -564,7 +564,7 @@
       0
     ],
     "version_rule": 1,
-    "channel": 1
+    "channel": 9
   },
   {
     "id": 80,
@@ -1577,6 +1577,30 @@
     "channel": 1
   },
   {
+    "id": 9010000,
+    "editor_name": "聊天功能（多人）",
+    "parent_id": 9,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 9020000,
+    "editor_name": "聊天功能（私人）",
+    "parent_id": 9,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
     "id": 10010000,
     "editor_name": "wegame好友页签",
     "parent_id": 10,
@@ -2487,6 +2511,7 @@
     "id": 63010000,
     "editor_name": "家园布局",
     "parent_id": 63,
+    "is_open": 1,
     "is_audit": 1,
     "login_plat_limit": [
       0
@@ -2836,6 +2861,18 @@
   {
     "id": 92000002,
     "editor_name": "个人签名",
+    "parent_id": 92,
+    "is_open": 1,
+    "is_audit": 1,
+    "login_plat_limit": [
+      0
+    ],
+    "version_rule": 1,
+    "channel": 1
+  },
+  {
+    "id": 92000003,
+    "editor_name": "更换背景（名片）",
     "parent_id": 92,
     "is_open": 1,
     "is_audit": 1,
