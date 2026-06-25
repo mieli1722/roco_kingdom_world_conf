@@ -568813,6 +568813,1165 @@
     "action": {}
   },
   {
+    "id": 320010800,
+    "name": "莫里亚克",
+    "text": "小洛克，你终于来了！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010805,
+    "action": {}
+  },
+  {
+    "id": 320010805,
+    "name": "莫里亚克",
+    "text": "这次又得麻烦你了，关于一个新的传闻……",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102087
+    ],
+    "action": {}
+  },
+  {
+    "id": 320010810,
+    "name": "莫里亚克",
+    "text": "嗯，最近彼得大道的洛克们都在寻找一只特殊的精灵，据说见到它的洛克可以实现一个愿望。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010815,
+    "action": {}
+  },
+  {
+    "id": 320010815,
+    "name": "莫里亚克",
+    "text": "所以我在想，小洛克你可不可以再帮我去收集一些情报。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102088
+    ],
+    "action": {}
+  },
+  {
+    "id": 320010820,
+    "name": "莫里亚克",
+    "text": "忘了跟你说了，智慧出版社的装修即将进入尾声，马上就要正式开业了！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010825,
+    "action": {}
+  },
+  {
+    "id": 320010825,
+    "name": "莫里亚克",
+    "text": "我在准备一些开业酬宾活动，比如——给大道的洛克们免费拍摄照片。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010830,
+    "action": {}
+  },
+  {
+    "id": 320010830,
+    "name": "莫里亚克",
+    "text": "说起来，我还从没见过小洛克你拍摄的照片，要不要试试给我拍一张？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010835,
+    "action": {}
+  },
+  {
+    "id": 320010835,
+    "name": "莫里亚克",
+    "text": "如果你连摄影这种技术活都不在话下，说不定以后还能帮上社长我。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {}
+  },
+  {
+    "id": 320010900,
+    "name": "莫里亚克",
+    "text": "噢，你的这张照片——",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102089
+    ],
+    "action": {}
+  },
+  {
+    "id": 320010905,
+    "name": "莫里亚克",
+    "text": "这独特的视角、绝妙的构图、动人的色彩，能看出来小洛克你的摄影技术已经出神入化了！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102090,
+      30102091
+    ],
+    "action": {}
+  },
+  {
+    "id": 320010910,
+    "name": "莫里亚克",
+    "text": "我可没有夸大其词，如果之后出版社有什么拍摄需要，我一定会让你来协助我的。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010915,
+    "action": {}
+  },
+  {
+    "id": 320010915,
+    "name": "莫里亚克",
+    "text": "不过，当务之急是去搜集一些关于那只「可以实现愿望的精灵」的线索。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010920,
+    "action": {}
+  },
+  {
+    "id": 320010920,
+    "name": "莫里亚克",
+    "text": "我这里有一些投稿人的信息，拜托你去帮忙调查一下啦。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320010925,
+    "action": {}
+  },
+  {
+    "id": 320010925,
+    "name": "莫里亚克",
+    "text": "当然，报酬是不会少的~",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011000,
+    "name": "莫里亚克",
+    "text": "小洛克你终于回来了！线索的事情如何了？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011005,
+    "action": {}
+  },
+  {
+    "id": 320011005,
+    "name": "莫里亚克",
+    "text": "不愧是我看中的新人，比其他的实习……哦不，正式记者都要快！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011010,
+    "action": {}
+  },
+  {
+    "id": 320011010,
+    "name": "莫里亚克",
+    "text": "你的那些线索，给我看看？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011015,
+    "action": {}
+  },
+  {
+    "id": 320011015,
+    "name": "莫里亚克",
+    "text": "看来这次的取材并不如预想中那么顺利。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011020,
+    "action": {}
+  },
+  {
+    "id": 320011020,
+    "name": "莫里亚克",
+    "text": "没有实质性的线索，还出现了相互矛盾的目击证词，究竟是怎么一回事……",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102092
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011021,
+    "name": "莫里亚克",
+    "text": "这次就先到这里吧，我还得继续忙活出版社开业的事情，到时可别忘了打扮得好看点来给我捧场！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011023,
+    "name": "莫里亚克",
+    "text": "瞧我这记性，差点把这个正事也忘了！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011025,
+    "action": {}
+  },
+  {
+    "id": 320011025,
+    "name": "莫里亚克",
+    "text": "你这次做得足够好了，实习记者小洛克。接下来的事情就交给社长我吧。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011030,
+    "action": {}
+  },
+  {
+    "id": 320011030,
+    "name": "莫里亚克",
+    "text": "之前承诺你的号外，稍等片刻便能准备完毕。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011100,
+    "name": "萌萌",
+    "text": "是小魔法师，找萌萌有什么事吗？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102093
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011105,
+    "name": "萌萌",
+    "text": "可以实现洛克愿望的精灵？萌萌倒是在一些精灵学科的书上读到过类似内容……唔，但一时想不起来了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011110,
+    "action": {}
+  },
+  {
+    "id": 320011110,
+    "name": "萌萌",
+    "text": "至于莫里亚克先生说的奇怪精灵，萌萌倒是没见过，只是医院的助手跟我提到过，见过一只从没见过的黄白毛发精灵。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011115,
+    "action": {}
+  },
+  {
+    "id": 320011115,
+    "name": "萌萌",
+    "text": "之后清点医院库存的时候，发现少了很多可可果。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011120,
+    "action": {}
+  },
+  {
+    "id": 320011120,
+    "name": "萌萌",
+    "text": "你说会跟那只精灵有关吗？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102094,
+      30102095
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011125,
+    "name": "萌萌",
+    "text": "而且在可可果失窃的案发现场，我们发现了这些，给你拿着吧。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {
+      "action_type": 117,
+      "action_param1": "200000216",
+      "success_dialogue": 320011126
+    }
+  },
+  {
+    "id": 320011126,
+    "name": "萌萌",
+    "text": "唔，总之事情就是这样，萌萌也不知道更多情报了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011130,
+    "action": {}
+  },
+  {
+    "id": 320011130,
+    "text": "偷吃可可果的黄白毛发精灵？真是令人在意啊。",
+    "speed": 30,
+    "ui_source_type": 6,
+    "action": {}
+  },
+  {
+    "id": 320011200,
+    "name": "休息的洛克",
+    "text": "嗯？是莫里亚克先生让你来的？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102096
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011205,
+    "name": "休息的洛克",
+    "text": "哦，是这件事啊。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011210,
+    "action": {}
+  },
+  {
+    "id": 320011210,
+    "name": "休息的洛克",
+    "text": "我确实见过一只陌生精灵，跟传言里说的一样，它手上拿着一根长长的四叶草。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011215,
+    "action": {}
+  },
+  {
+    "id": 320011215,
+    "name": "休息的洛克",
+    "text": "但是我不太了解精灵的种类，也不知道它到底是什么，就记得有两个大大的耳朵。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102097
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011220,
+    "name": "休息的洛克",
+    "text": "不是，绝对不是！春兔我还是见过的，怎么说呢……",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011225,
+    "action": {}
+  },
+  {
+    "id": 320011225,
+    "name": "休息的洛克",
+    "text": "它看起来更憨态可掬一些？总之是一只长相十分可爱的精灵。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011230,
+    "action": {}
+  },
+  {
+    "id": 320011230,
+    "name": "休息的洛克",
+    "text": "本来还想去向它许个愿望，可当我靠近的时候它就一溜烟跑开了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011233,
+    "action": {}
+  },
+  {
+    "id": 320011233,
+    "name": "休息的洛克",
+    "text": "喏，还把这个也掉了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {
+      "action_type": 117,
+      "action_param1": "200000217",
+      "success_dialogue": 320011235
+    }
+  },
+  {
+    "id": 320011235,
+    "text": "手持四叶草的精灵……似乎是个新的线索。",
+    "speed": 30,
+    "ui_source_type": 6,
+    "action": {}
+  },
+  {
+    "id": 320011300,
+    "name": "开心的妇人",
+    "text": "小洛克我跟你说！那个能实现愿望的精灵是真的！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1,
+        "action": "Dialogue3"
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011305,
+    "action": {}
+  },
+  {
+    "id": 320011305,
+    "name": "开心的妇人",
+    "text": "那天我许下心愿，想要之前走失的乖乖鹄能够回来。之后眼前便出现了一只从没见过的奇怪精灵……",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102098
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011310,
+    "name": "开心的妇人",
+    "text": "四叶草？那倒没有，手里确实拿着个什么东西，嗯——有点想不起来了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011313,
+    "action": {}
+  },
+  {
+    "id": 320011313,
+    "name": "开心的妇人",
+    "text": "在它走后，我倒是捡到了一些奇怪的东西。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {
+      "action_type": 117,
+      "action_param1": "200000218",
+      "success_dialogue": 320011315
+    }
+  },
+  {
+    "id": 320011315,
+    "name": "开心的妇人",
+    "text": "但这不是重点！你知道吗，第二天我的乖乖鹄就回来了！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1,
+        "action": "Dialogue1"
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011320,
+    "action": {}
+  },
+  {
+    "id": 320011320,
+    "name": "开心的妇人",
+    "text": "没想到它离家了那么久，还能找到回家的路，难道是我许下的愿望真的实现了？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102099,
+      30102100
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011325,
+    "name": "开心的妇人",
+    "text": "乖乖鹄回来了就行，如果真的是愿望成真，我还得感谢那只精灵呢！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011330,
+    "action": {}
+  },
+  {
+    "id": 320011330,
+    "text": "实现愿望的精灵，却不是传言中手拿四叶草的样子，到底是怎么回事？",
+    "speed": 30,
+    "ui_source_type": 6,
+    "action": {}
+  },
+  {
+    "id": 320011335,
+    "name": "忙碌的居民",
+    "text": "小朋友，你也是来报名当可可果节帮手的吗？",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102105
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011340,
+    "name": "忙碌的居民",
+    "text": "真是太遗憾了，你来晚了那么一点！我们的招募窗口在十分钟前已经光速关闭了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "select_ids": [
+      30102110
+    ],
+    "action": {}
+  },
+  {
+    "id": 320011345,
+    "name": "忙碌的居民",
+    "text": "啧啧，本来我们确实在为人手不够而发愁的……直到有人建议我们去《洛克新鲜事》投稿一下。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011350,
+    "action": {}
+  },
+  {
+    "id": 320011350,
+    "name": "忙碌的居民",
+    "text": "今天一睁眼，小洛克居然都排着队来报名了。现在好了，连明年可可果节的帮手都提前预定满了。",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "next_dialog_id": 320011355,
+    "action": {}
+  },
+  {
+    "id": 320011355,
+    "name": "忙碌的居民",
+    "text": "不过没关系，不白来都不白来。我送你一些可可果，但等到秋天正式开幕的时候，你可一定要来玩个痛快啊！",
+    "speed": 30,
+    "actor_perform": [
+      {
+        "actor": -2,
+        "body_turn_to": -1,
+        "turn_to": -1,
+        "eye_turn_to": -1
+      },
+      {
+        "actor": -1,
+        "body_turn_to": -2,
+        "turn_to": -2,
+        "eye_turn_to": -2
+      }
+    ],
+    "action": {
+      "action_type": 117,
+      "action_param1": "200000215"
+    }
+  },
+  {
     "id": 320020000,
     "opt_dia_relate": [
       580200003

@@ -155978,6 +155978,931 @@
     "is_para_done": true
   },
   {
+    "id": 70032001,
+    "name": "来自出版社的信件",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "莫里亚克有一些新的线索情报，去出版社门口瞧一瞧吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "next_task": [
+      70032002
+    ],
+    "task_condition": [
+      {
+        "text": "来自出版社的信件",
+        "type": 327,
+        "data1": [
+          0
+        ],
+        "data2": [
+          55002
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.lookLetter",
+        "args": "55002",
+        "show_text": "点击收信"
+      }
+    ],
+    "auto_finish": 1,
+    "message_id": 55002,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201943
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2201937,
+          2201938,
+          2201939,
+          2201940,
+          2201941,
+          2201942,
+          2201945
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70032002,
+    "name": "前往出版社门口",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "莫里亚克有一些新的线索情报，去出版社门口瞧一瞧吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      70032003
+    ],
+    "task_condition": [
+      {
+        "text": "前往智慧出版社门口",
+        "type": 308,
+        "data1": [
+          2201976
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201976
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201976
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70032003,
+    "name": "与莫里亚克对话",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "莫里亚克有一些新的线索情报，去出版社门口瞧一瞧吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      70032004
+    ],
+    "task_condition": [
+      {
+        "text": "与莫里亚克对话",
+        "type": 308,
+        "data1": [
+          2201977
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201977
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201977
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70032004,
+    "name": "帮莫里亚克拍张照",
+    "task_class": 1,
+    "paragraph_id": 70037,
+    "task_des": "莫里亚克让小洛克帮他拍张照试试相机功能，快去瞧一瞧吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-06-29 04:00:00"
+      }
+    ],
+    "next_task": [
+      70032005
+    ],
+    "task_condition": [
+      {
+        "text": "帮莫里亚克拍张照",
+        "type": 365,
+        "data2": [
+          2,
+          2201943,
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 70032005,
+    "name": "莫里亚克的评价",
+    "task_class": 1,
+    "paragraph_id": 70037,
+    "task_des": "莫里亚克让小洛克帮他拍张照试试相机功能，快去瞧一瞧吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032004
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "听取莫里亚克的评价",
+        "type": 308,
+        "data1": [
+          2201978
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201978
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          220341
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201978
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70032006,
+    "name": "完成莫里亚克的委托",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "顺利完成莫里亚克布置的实习任务，手头攒了不少线索，是时候回去找他交差了。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032005,
+          70033002,
+          70034002,
+          70034004,
+          70034005
+        ]
+      }
+    ],
+    "next_task": [
+      70032007
+    ],
+    "task_condition": [
+      {
+        "text": "完成莫里亚克的委托",
+        "type": 207,
+        "data1": [
+          70032004,
+          70033002,
+          70034002,
+          70034004,
+          70034005
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceOpenActivityPanel",
+        "args": "39",
+        "args2": "3900002",
+        "show_text": "点击查看活动详情"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201970
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70032007,
+    "name": "向莫里亚克报告",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "顺利完成莫里亚克布置的实习任务，手头攒了不少线索，是时候回去找他交差了。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "向莫里亚克报告",
+        "type": 308,
+        "data1": [
+          2201980
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201980
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 51,
+        "data1": [
+          10218
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201980
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70033001,
+    "name": "前往彼得大道医院",
+    "task_class": 1,
+    "paragraph_id": 70033,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-06-30 04:00:00"
+      }
+    ],
+    "next_task": [
+      70033002
+    ],
+    "task_condition": [
+      {
+        "text": "前往彼得大道医院",
+        "type": 308,
+        "data1": [
+          2201970
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201971
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201971
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201971
+        ],
+        "data2": [
+          2201970
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201971
+        ],
+        "data2": [
+          2201970
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70033002,
+    "name": "与萌萌对话",
+    "task_class": 1,
+    "paragraph_id": 70033,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与萌萌对话",
+        "type": 308,
+        "data1": [
+          2201971
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201971
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201971
+        ],
+        "data2": [
+          2201971
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201971
+        ],
+        "data2": [
+          2201971
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70034001,
+    "name": "前往彼得大道魔力之源",
+    "task_class": 1,
+    "paragraph_id": 70034,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-07-01 04:00:00"
+      }
+    ],
+    "next_task": [
+      70034002
+    ],
+    "task_condition": [
+      {
+        "text": "前往彼得大道魔力之源",
+        "type": 308,
+        "data1": [
+          2201972
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201972
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201972
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201972
+        ],
+        "data2": [
+          2201972
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201972
+        ],
+        "data2": [
+          2201972
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70034002,
+    "name": "与一旁的目击者对话",
+    "task_class": 1,
+    "paragraph_id": 70034,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与一旁的目击者对话",
+        "type": 308,
+        "data1": [
+          2201973
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201972
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201972
+        ],
+        "data2": [
+          2201973
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201972
+        ],
+        "data2": [
+          2201973
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70034003,
+    "name": "前往下沉区",
+    "task_class": 1,
+    "paragraph_id": 70035,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-07-02 04:00:00"
+      }
+    ],
+    "next_task": [
+      70034004
+    ],
+    "task_condition": [
+      {
+        "text": "前往下沉区",
+        "type": 308,
+        "data1": [
+          2201974
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201973
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2201973,
+          2201974
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2201973
+        ],
+        "data2": [
+          2201974
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201973
+        ],
+        "data2": [
+          2201974
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70034004,
+    "name": "与一旁的目击者对话",
+    "task_class": 1,
+    "paragraph_id": 70035,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与一旁的目击者对话",
+        "type": 308,
+        "data1": [
+          2201975
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201973
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201973
+        ],
+        "data2": [
+          2201975
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201973
+        ],
+        "data2": [
+          2201975
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70034005,
+    "name": "和莫里亚克汇报",
+    "task_class": 1,
+    "paragraph_id": 70036,
+    "task_des": "没找到什么有用的线索，回去和莫里亚克报告吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032003
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-07-03 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "和莫里亚克确认情报情况",
+        "type": 308,
+        "data1": [
+          2201979
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2201943
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201979
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201943
+        ],
+        "data2": [
+          2201979
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70034010,
+    "name": "预热活动可可果彩蛋NPC",
+    "task_class": 18,
+    "open": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70032006
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 308,
+        "data1": [
+          2201981
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          2201970
+        ],
+        "data2": [
+          2201981
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2201970
+        ],
+        "data2": [
+          2201981
+        ]
+      }
+    ],
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
     "id": 70035001,
     "name": "从昏迷中苏醒",
     "task_class": 7,

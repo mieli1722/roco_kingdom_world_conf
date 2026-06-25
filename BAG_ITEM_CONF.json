@@ -112948,6 +112948,25 @@
     ]
   },
   {
+    "id": 21000001,
+    "name": "认可之证",
+    "is_release": true,
+    "description": "在领地试炼获得认可的证明，用于兑换首领信物。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101001.101001'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101001.101001'",
+    "type": 2,
+    "lable_type": 3,
+    "type_desc": "兑换代币",
+    "show_quantity": 1,
+    "can_stack": 1,
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "领地试炼获得"
+      }
+    ]
+  },
+  {
     "id": 91000001,
     "name": "精灵蛋",
     "is_release": true,

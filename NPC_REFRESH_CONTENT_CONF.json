@@ -446713,6 +446713,8 @@
       "siegfriedxu",
       "地编自动生成"
     ],
+    "version": 2026062201,
+    "refresh_update_type": 2,
     "refresh_type": 1,
     "refresh_param": 221031037,
     "refresh_rule": 5,
@@ -446724,7 +446726,12 @@
       220340,
       220341,
       220343,
-      220355
+      220355,
+      2201976,
+      2201977,
+      2201978,
+      2201979,
+      2201980
     ],
     "lock_on_ground": 1,
     "model_scale": 100,
@@ -446812,6 +446819,125 @@
     ],
     "lock_on_ground": -1,
     "worldnature_prob_direction": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2201970,
+    "editor_name": [
+      "可可果广场的彩蛋npc",
+      "yunlinfeng",
+      "预热活动npc"
+    ],
+    "refresh_type": 1,
+    "refresh_param": 261038070,
+    "refresh_rule": 5,
+    "max_num": 1,
+    "storage_num": 1,
+    "npc_id": 47208,
+    "npc_option_type": 1,
+    "npc_option_ids": [
+      2201981
+    ],
+    "lock_on_ground": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2201971,
+    "editor_name": [
+      "医院门口_萌萌",
+      "siegfriedxu",
+      "预热活动npc"
+    ],
+    "refresh_type": 1,
+    "refresh_param": 261038066,
+    "refresh_rule": 5,
+    "max_num": 1,
+    "storage_num": 1,
+    "npc_id": 220213,
+    "npc_option_type": 1,
+    "npc_option_ids": [
+      2201970,
+      2201971
+    ],
+    "lock_on_ground": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2201972,
+    "editor_name": [
+      "魔力之源广场_王国居民男",
+      "siegfriedxu",
+      "预热活动npc"
+    ],
+    "refresh_type": 1,
+    "refresh_param": 261038067,
+    "refresh_rule": 5,
+    "max_num": 1,
+    "storage_num": 1,
+    "npc_id": 220214,
+    "npc_option_type": 1,
+    "npc_option_ids": [
+      2201972,
+      2201973
+    ],
+    "lock_on_ground": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2201973,
+    "editor_name": [
+      "下沉区_王国居民女",
+      "siegfriedxu",
+      "预热活动npc"
+    ],
+    "refresh_type": 1,
+    "refresh_param": 261038068,
+    "refresh_rule": 5,
+    "max_num": 1,
+    "storage_num": 1,
+    "npc_id": 220215,
+    "npc_option_type": 1,
+    "npc_option_ids": [
+      2201974,
+      2201975
+    ],
+    "lock_on_ground": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2201974,
+    "editor_name": [
+      "下沉区_王国居民女旁边的乖乖鹄",
+      "yunlinfeng",
+      "预热活动npc"
+    ],
+    "refresh_type": 1,
+    "refresh_param": 261038069,
+    "refresh_rule": 5,
+    "max_num": 1,
+    "storage_num": 1,
+    "npc_id": 590088,
+    "lock_on_ground": 1,
     "model_scale": 100,
     "voice_percent": [
       0,
@@ -640292,10 +640418,12 @@
       "大型眠枭庇护所",
       "A2_23"
     ],
+    "disable": true,
+    "version": 2026062401,
+    "refresh_update_type": 2,
     "overlap_processing_type": 3,
     "refresh_type": 4,
     "refresh_param": 108005134,
-    "refresh_rule": 2,
     "max_num": 1,
     "storage_num": 1,
     "npc_id": 56004,

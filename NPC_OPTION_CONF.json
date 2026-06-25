@@ -183334,6 +183334,58 @@
     "option_times": -1
   },
   {
+    "id": 680101,
+    "editor_name": "S3玩具-魔法绘本-1号座位",
+    "online_process": 3,
+    "monitor_data_version": 110,
+    "IgnoreTaskVisitRules": true,
+    "option_auto": 1,
+    "npc_interaction_show_distance": 1000,
+    "option_radius": 200,
+    "option_effective_angle": [
+      90,
+      180
+    ],
+    "npc_interact_type": 14,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "坐下",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 143,
+      "action_param1": "Seat_1"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 680102,
+    "editor_name": "S3玩具-魔法绘本-2号座位",
+    "online_process": 3,
+    "monitor_data_version": 110,
+    "IgnoreTaskVisitRules": true,
+    "option_auto": 1,
+    "npc_interaction_show_distance": 1000,
+    "option_radius": 200,
+    "option_effective_angle": [
+      0,
+      90
+    ],
+    "npc_interact_type": 14,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "坐下",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 143,
+      "action_param1": "Seat_2"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
     "id": 691001,
     "editor_name": "S2赛季大厅-马戏团海报（入口）",
     "online_process": 3,
@@ -221786,6 +221838,234 @@
     "times_decrease_cond": 1,
     "option_deletnpc": 1,
     "touch_battle_cd": 3000
+  },
+  {
+    "id": 2201970,
+    "editor_name": "医院门口_萌萌_自动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_auto": 1,
+    "option_radius": 1000,
+    "npc_interact_type": 1,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "action": {},
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201971,
+    "editor_name": "医院门口_萌萌_手动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011100"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201972,
+    "editor_name": "魔力之源_男居民_自动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_auto": 1,
+    "option_radius": 1000,
+    "npc_interact_type": 1,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "action": {},
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201973,
+    "editor_name": "魔力之源_男居民_手动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011200"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201974,
+    "editor_name": "下沉区_女居民_自动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_auto": 1,
+    "option_radius": 1000,
+    "npc_interact_type": 1,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "action": {},
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201975,
+    "editor_name": "下沉区_女居民_手动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011300"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201976,
+    "editor_name": "莫里亚克_自动",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_auto": 1,
+    "option_radius": 1000,
+    "npc_interact_type": 1,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "action": {},
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201977,
+    "editor_name": "莫里亚克_手动_2201977",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320010800"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201978,
+    "editor_name": "莫里亚克_手动_2201978",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320010900"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201979,
+    "editor_name": "莫里亚克_手动_2201979",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011000"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201980,
+    "editor_name": "莫里亚克_手动_2201980",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "报酬的事？",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011023"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
+  },
+  {
+    "id": 2201981,
+    "editor_name": "可可果广场的彩蛋npc",
+    "online_process": 2,
+    "monitor_data_version": 101,
+    "initial_state": true,
+    "option_radius": 350,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "可可果节招募？",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "320011335"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "option_times": -1
   },
   {
     "id": 2520501,

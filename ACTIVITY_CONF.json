@@ -3527,6 +3527,30 @@
     ]
   },
   {
+    "id": 3900002,
+    "activity_type": 39,
+    "base_id": [
+      3900002
+    ],
+    "activity_name": "洛克新鲜事",
+    "prompt_text": "近期王国热点速递!\n\"报道你知道的，也报道你不知道的\n至于准确率……到20%了…吗？\"",
+    "activity_txt": "《洛克新鲜事》是洛克里安地区最大的八卦小报，内容劲爆新颖，深受全年龄段洛克喜爱。至于报导的准确性……似乎不太高的样子。\n但不重要！帮助主编莫里亚克调查事件，收集全部线索，撰写一篇轰动王国的头条新闻吧！\n\n <span color=\"#d56c1f\">活动时间</>\n2026年6月29日04:00-2026年7月16日04:00(UTC+8)\n\n <span color=\"#d56c1f\">参与条件</>\n已完成剧情「智慧出版社的实习？」，成为出版社的实习记者。\n\n <span color=\"#d56c1f\">活动说明</>\n追踪线报：根据莫里亚克提供的线索进行探查。点击活动界面中的线索图片，前往收集本日关键线报。\n每日刷新：每条关键线报需要间隔1天挖掘，线索将在每日04:00更新~请保持耐心，持续跟进。\n最终出版：当所有线索任务都完成后，可返回出版社找莫里亚克提交线索，完成最终的新闻出版。\n获得嘉奖：成功出版报纸后，将获得出版报酬奖励。",
+    "appear_time": "2026-06-29 04:00:00",
+    "disappear_time": "2026-07-16 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 400,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_S3SeasonPreheating.UMG_Activity_S3SeasonPreheating_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijiyure2_png.img_saijiyure2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijiyure1_png.img_saijiyure1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xianshidiaocha_png.img_xianshidiaocha_png'",
+    "title_icon_text": "智慧出版社",
+    "refresh_event_group": [
+      {}
+    ]
+  },
+  {
     "id": 4000001,
     "activity_type": 40,
     "base_id": [
