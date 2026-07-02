@@ -244022,6 +244022,48 @@
     ]
   },
   {
+    "id": 620270,
+    "Name": "动作：一起嗨Ⅰ",
+    "Type": 1,
+    "DisplayName": "roleplay动作与叫声奖励-动作",
+    "DropRound": 1,
+    "RewardItem": [
+      {
+        "Type": 20,
+        "Id": 77,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 620271,
+    "Name": "动作：一起嗨Ⅱ",
+    "Type": 1,
+    "DisplayName": "roleplay动作与叫声奖励-动作",
+    "DropRound": 1,
+    "RewardItem": [
+      {
+        "Type": 20,
+        "Id": 78,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "id": 630001,
     "Name": "奥贝斯坦湖-魔力之源2级奖励",
     "Type": 1,
@@ -266830,6 +266872,27 @@
       {
         "Type": 14,
         "Id": 37,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 810068,
+    "Name": "「一起嗨」名片",
+    "Type": 1,
+    "DisplayName": "解锁个人名片",
+    "Description": "「一起嗨」名片",
+    "RewardItem": [
+      {
+        "Type": 14,
+        "Id": 43,
         "Count": 1,
         "DropWeight": [
           1,
@@ -350527,6 +350590,7 @@
     "Name": "S2预热活动-彩蛋可可果奖励",
     "Type": 1,
     "DisplayName": "可可果奖励",
+    "ObtainLimit": 1,
     "RewardItem": [
       {
         "Type": 1,
@@ -350547,6 +350611,7 @@
     "Name": "S2预热活动-线索2奖励",
     "Type": 1,
     "DisplayName": "S2预热活动-线索2奖励",
+    "ObtainLimit": 1,
     "RewardItem": [
       {
         "Type": 1,
@@ -350567,6 +350632,7 @@
     "Name": "S2预热活动-线索3奖励",
     "Type": 1,
     "DisplayName": "S2预热活动-线索3奖励",
+    "ObtainLimit": 1,
     "RewardItem": [
       {
         "Type": 1,
@@ -350587,10 +350653,102 @@
     "Name": "S2预热活动-线索4奖励",
     "Type": 1,
     "DisplayName": "S2预热活动-线索4奖励",
+    "ObtainLimit": 1,
     "RewardItem": [
       {
         "Type": 1,
         "Id": 100306,
+        "Count": 10,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000304,
+    "Name": "冒险补给箱",
+    "Type": 2,
+    "Icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100721.100721'",
+    "DisplayName": "冒险补给箱",
+    "Description": "开启后从以下奖励中随机获得一份：炫彩精灵蛋x1、神奇的蛋x1、高级咕噜球x50、洛克贝x100000。具体概率为：\n炫彩精灵蛋x1，概率为5%；\n神奇的蛋x1，概率为30%；\n高级咕噜球x50，概率为30%；\n洛克贝x100000，概率为35%。",
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 310050,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          5,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 310049,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          30,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100003,
+        "Count": 50,
+        "DropWeight": [
+          1,
+          101,
+          30,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 2,
+        "Id": 1,
+        "Count": 100000,
+        "DropWeight": [
+          1,
+          101,
+          35,
+          100,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000305,
+    "Name": "预约下载奖励",
+    "Type": 1,
+    "DisplayName": "预约下载奖励",
+    "Description": "预约下载奖励",
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100699,
+        "Count": 50,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100003,
         "Count": 10,
         "DropWeight": [
           1,
@@ -350824,6 +350982,46 @@
       {
         "Type": 1,
         "Id": 100424,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200200135,
+    "Name": "「所有烦恼」前缀",
+    "Type": 1,
+    "DisplayName": "「所有烦恼」前缀",
+    "RewardItem": [
+      {
+        "Type": 15,
+        "Id": 3030,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200200136,
+    "Name": "「说拜拜」后缀",
+    "Type": 1,
+    "DisplayName": "「说拜拜」后缀",
+    "RewardItem": [
+      {
+        "Type": 15,
+        "Id": 3031,
         "Count": 1,
         "DropWeight": [
           1,
@@ -376476,6 +376674,17 @@
       {
         "Type": 29,
         "Id": 1015
+      }
+    ]
+  },
+  {
+    "id": 580000026,
+    "Name": "星光对决-卡普2-合照",
+    "Type": 1,
+    "RewardItem": [
+      {
+        "Type": 29,
+        "Id": 1025
       }
     ]
   },

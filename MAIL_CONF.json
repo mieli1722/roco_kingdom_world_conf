@@ -2072,6 +2072,17 @@
     ]
   },
   {
+    "id": 90020,
+    "mail_type": 1,
+    "mail_platform": 2,
+    "mail_condition": 1,
+    "validity": 30,
+    "mail_title": "预约下载奖励",
+    "mail_sender": "魔法学院",
+    "mail_content": "这是您完成预约下载未领取的奖励，请查收~",
+    "reward_id": 200000305
+  },
+  {
     "id": 100001,
     "mail_type": 1,
     "mail_platform": 2,
@@ -2317,5 +2328,15 @@
     "mail_title": "赛季「狂欢代币」转换",
     "mail_sender": "精灵研究员",
     "mail_content": "亲爱的小洛克！\n\nS2赛季「狂欢怪谈」已结束，尚未使用的「狂欢代币」已转化为「洛克贝」，请查收~"
+  },
+  {
+    "id": 6300001,
+    "mail_type": 1,
+    "mail_platform": 2,
+    "mail_condition": 1,
+    "validity": 30,
+    "mail_title": "「狂欢怪谈赛季冲刺」未领取奖励",
+    "mail_sender": "王国运营部",
+    "mail_content": "亲爱的小洛克！\n\n「狂欢怪谈赛季冲刺」活动已结束，这是你在本次活动中未领取的奖励，请查收~"
   }
 ]

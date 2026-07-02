@@ -40335,7 +40335,13 @@
         "success_rate": 10000,
         "buff_group_level": 5
       },
-      {},
+      {
+        "effect_id": 20190360,
+        "result_target_type": 1,
+        "cast_moment": 6,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
       {
         "effect_id": 20641030,
         "result_target_type": 1,
@@ -46413,6 +46419,13 @@
         "result_target_type": 1,
         "cast_moment": 11,
         "success_rate": 10000
+      },
+      {
+        "effect_id": 20190360,
+        "result_target_type": 1,
+        "cast_moment": 6,
+        "success_rate": 10000,
+        "buff_group_level": 1
       }
     ],
     "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Dra_LY_109019_Y",
@@ -49561,6 +49574,14 @@
         "effect_id": 21460310,
         "result_target_type": 1,
         "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
+      {},
+      {
+        "effect_id": 20190360,
+        "result_target_type": 1,
+        "cast_moment": 6,
         "success_rate": 10000,
         "buff_group_level": 1
       }

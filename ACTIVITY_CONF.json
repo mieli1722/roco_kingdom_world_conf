@@ -751,7 +751,8 @@
       320035,
       320036,
       320037,
-      320038
+      320038,
+      320043
     ],
     "activity_name": "噜噜的调研时间",
     "activity_txt": "感谢小洛克的反馈与建议，让王国得以稳步成长，感恩与你同行。",
@@ -775,6 +776,32 @@
     "activity_txt": "<span color=\"#d56c1f\">预下载规则说明</>\n\n·新版本资源预约下载开启后，即可预约下载更新资源。\n·资源将在新版本更新前开放，具体时间和资源大小请留意官方公告。\n·资源开放下载后，已预约的小洛克，在WiFi环境下并处于非战斗单局内或者省电模式下将自动下载资源，不会影响您的正常体验。\n·资源开放下载期间，已预约下载的小洛克可以在界面中暂停下载。暂停下载状态时重新登录游戏，将自动启动资源预下载。\n·资源预下载后，将暂时储存在本地设备中，新版本更新时自动使用。\n·如果在预下载期间资源未下载完成，新版本更新时将继续更新未完成的部分，已下载的资源仍可使用，无需重复下载。\n·预下载期间下载完成新版本资源，可领取预约下载奖励。",
     "appear_time": "2024-08-13 04:00:00",
     "disappear_time": "2026-05-20 03:59:59",
+    "login_plat": [
+      0,
+      1,
+      12,
+      3
+    ],
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Heterochrome.UMG_Activity_Heterochrome_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise2_png.img_yise2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise1_png.img_yise1_png'",
+    "cdn_bg": "https://video.nrc.qq.com/Activity_BG/S3/S3saijixiazai.png"
+  },
+  {
+    "id": 900016,
+    "activity_type": 53,
+    "base_id": [
+      900016
+    ],
+    "activity_name": "新版本预约下载",
+    "prompt_text": "预约后将在资源开放下载时自动触发下载。（仅WiFi环境）",
+    "activity_txt": "<span color=\"#d56c1f\">预下载规则说明</>\n\n·新版本资源预约下载开启后，即可预约下载更新资源。\n·资源将在新版本更新前开放，具体时间和资源大小请留意官方公告。\n·资源开放下载后，已预约的小洛克，在WiFi环境下并处于非战斗单局内或者省电模式时将自动下载资源，不会影响您的正常体验。\n·资源开放下载期间，已预约下载的小洛克可以在界面中暂停下载。处于暂停下载状态时重新登录游戏，将自动启动资源预下载。\n·资源预下载后，将暂时储存在本地设备中，新版本更新时自动使用。\n·如果在预下载期间资源未下载完成，新版本更新时将继续更新未完成的部分，已下载的资源仍可使用，无需重复下载。\n·预下载期间下载完成新版本资源，可领取预约下载奖励。",
+    "appear_time": "2026-07-13 04:00:00",
+    "disappear_time": "2026-07-16 03:59:59",
     "login_plat": [
       0,
       1,
@@ -2905,6 +2932,46 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
   },
   {
+    "id": 2600062,
+    "activity_type": 26,
+    "base_id": [
+      2600062
+    ],
+    "activity_name": "16周年，同行快洛！",
+    "prompt_text": "页角折进旧时光，魔法学院的钟声悠悠敲响\n当流星划破天际，当愿望汇聚成雨\n愿小洛克们都能如愿以偿",
+    "activity_txt": "活动期间，所有小洛克可前往专属活动页面参与周年庆许愿活动。每个账号可许愿1次召唤流星雨。共同召唤流星雨达成指定进度，即可解锁全服专属阶段奖励，奖励将通过邮件发放\n\n<span color=\"#d56c1f\">奖励内容</>\n许愿达成指定进度可解锁对应的奖励，涵盖《洛克王国》、《洛克王国：世界》双端福利。\n其中《洛克王国：世界》奖励为：\n· 慈悲为怀精灵蛋×1（必定拥有“慈悲为怀”特长，“了不起”天分）\n· 棱镜球×1\n· 记忆中的肤色（蓝/紫/粉）三选一礼包×1\n对应阶段进度详见专属活动说明页。\n\n<span color=\"#d56c1f\">领奖方式</>\n· 达成对应阶段进度后，奖励将于2个工作日内通过游戏内邮件发放；\n· 等级≥20的小洛克可通过邮件领取，领取时间截至9月10日04:00。",
+    "appear_time": "2026-07-15 04:00:00",
+    "disappear_time": "2026-08-14 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 60,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yeyouliandong_bg.img_yeyouliandong_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yeyouliandong2_png.img_yeyouliandong2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yeyouliandong1_png.img_yeyouliandong1_png'"
+  },
+  {
+    "id": 2600063,
+    "activity_type": 26,
+    "base_id": [
+      2600063
+    ],
+    "activity_name": "一起快洛一起嗨",
+    "prompt_text": "「洛克王国：世界」x 「海底捞」联动启动。限定联名套餐、联名周边上新！活动期间前往对应线下主题门店，解锁惊喜互动体验！",
+    "activity_txt": "「洛克王国：世界」X「海底捞」联动正式开启！\n限时联名堂食套餐、外送专属套餐同步推出，更有主题门店活动等你来打卡！活动期间，购买指定联名套餐即有机会获得限量联名定制道具（动作、名片卡及称号）、「鸭吉吉炫彩蛋」、「炫彩精灵蛋」、「冒险补给箱」等游戏道具，以及联名立体冰箱贴盲盒、联名马口铁徽章盲袋、联名鸭吉吉站肩毛绒和联名野餐垫等多款限量实体周边。活动页点击【立即参与】按钮前往官网，了解更多活动详情！",
+    "appear_time": "2026-07-10 04:00:00",
+    "disappear_time": "2026-08-10 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 50,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_haidilao_bg.img_haidilao_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_haidilao2_png.img_haidilao2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_haidilao1_png.img_haidilao1_png'"
+  },
+  {
     "id": 2700003,
     "activity_type": 27,
     "base_id": [
@@ -4194,6 +4261,26 @@
     "if_hide": true,
     "belong_system": 4,
     "priority": 1
+  },
+  {
+    "id": 6300001,
+    "activity_type": 63,
+    "base_id": [
+      6300001
+    ],
+    "activity_name": "狂欢怪谈赛季冲刺",
+    "prompt_text": "冲段位、抓精灵，\n赛季终章，该冲刺的别停下~",
+    "activity_txt": "赛季冲刺的号角已经吹响！闪耀大赛额外加星、赛季奇遇新精灵捕捉加速、耗球返还三重助力齐上线，助力小洛克赛季完美收官！\n以下为详细规则：\n\n<span color=\"#d56c1f\">一、赛季冲刺期</>\n【闪耀大赛，额外加星】\n活动期间，大师段位以下的小洛克在闪耀大赛排位模式中获得胜利，可额外获得1颗星级！\n●每日最多可获得3次额外加星机会，次日4:00重置，不可累积。\n●额外加星可与随机精灵加星、连胜加星等效果同时生效。\n●若胜利后所加星级已足够晋升至大师段位，则不再额外加星。达到大师及以上段位后，本模块不再提供额外加星效果。\n●精灵对战玩法未开启的小洛克暂无法参与，达到30级，晋升为精灵研究员后再来挑战吧！\n\n【奇遇新精灵，捕捉加速】\n活动期间，在庇护所放置S2赛季奇遇新精灵的果实后，刷出的精灵将更容易捕捉，且更容易遇到高阶精灵！\n●捕捉成功率、高阶精灵出现概率提升的效果，仅对本赛季的赛季奇遇新精灵生效，包含以下精灵及其家族：猴麦仔家族、烟花团家族、加油海葵家族、炫光迪迪家族、咕咕帽家族、小丑豆豆家族、小鼓象家族、牵线木偶家族。\n●可在活动页面查看当前赛季图鉴的收集进度。\n●点击“前往”按钮可跳转至赛季图鉴界面，抓紧完成赛季精灵收集吧！\n\n【咕噜球，储备计划】\n在S2赛季冲刺期间，使用指定咕噜球完成捕捉精灵的耗球量，将在S3赛季开启后，按照1：1的比例返还相应数量的「咕噜球补给礼盒」，总返还上限为1000个。\n●可参与统计的指定咕噜球种类如下：高级咕噜球、棱镜球、织梦棱镜球、狂欢棱镜球、国王球、捕光球、奇趣球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n●「咕噜球补给礼盒」为自选礼盒，使用后，可从以下咕噜球中自选获得一颗：高级咕噜球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n●耗球量统计规则：需完成捕捉行为，捕捉成功、失败所消耗的咕噜球均会被计入；空掷回收、孵蛋、合成等均不计入。\n●活动页面会实时统计有效咕噜球消耗数、预计可领取的补给礼盒数量及返还上限。\n\n<span color=\"#d56c1f\">二、新赛季领奖期</>\nS3赛季开启后，在S2赛季冲刺期间消耗指定咕噜球完成精灵捕捉的小洛克，可在此活动页面中领取返还的「咕噜球补给礼盒」！\n●奖励直接进入背包，可前往背包中使用。\n●领奖完成后，活动页面将于次日4:00自动关闭。",
+    "appear_time": "2026-07-02 04:00:00",
+    "disappear_time": "2026-07-30 03:59:59",
+    "world_level_required": 1,
+    "success_if_disappear": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 460,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_CarnivalHorrorTales.UMG_Activity_CarnivalHorrorTales_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci2_png.img_saijichongci2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
   },
   {
     "id": 50000001,

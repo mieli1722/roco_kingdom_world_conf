@@ -1092,6 +1092,26 @@
     "flag_num_finish": "C0011"
   },
   {
+    "id": 320043,
+    "part_name": "斯嘉丽体验招募",
+    "note": "V101",
+    "start_time": "2026-06-25 04:00:00",
+    "end_time": "2026-07-16 03:59:59",
+    "required_group": [
+      {
+        "required_type": 1,
+        "required_param": 10
+      }
+    ],
+    "is_questionnaire": true,
+    "interactive_before_txt": "前往填写",
+    "website_path": "https://in.weisurvey.com/v2/?sid=6a3b75b2f6a17c49f8007e83",
+    "if_icon_change": 3,
+    "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
     "id": 330001,
     "part_name": "疾光千兽周边购买链接-PC",
     "note": "V100",

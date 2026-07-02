@@ -1098,6 +1098,42 @@
     "is_movable": true
   },
   {
+    "id": 77,
+    "name_text": "一起嗨Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 146,
+    "range": 1500,
+    "star": [
+      77,
+      1
+    ],
+    "toast_text": "一起嗨Ⅰ",
+    "ui_order": 55,
+    "male_skill_id": 100074,
+    "female_skill_id": 100074,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happybirthday.icon_pose_happybirthday'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 78,
+    "name_text": "一起嗨Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 147,
+    "range": 1500,
+    "star": [
+      77,
+      2
+    ],
+    "toast_text": "一起嗨Ⅱ",
+    "ui_order": 56,
+    "male_skill_id": 100074,
+    "female_skill_id": 100074,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happybirthday.icon_pose_happybirthday'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
     "id": 68000,
     "name_text": "小板凳",
     "behavior_type": 6,

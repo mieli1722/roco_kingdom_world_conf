@@ -48836,6 +48836,37 @@
     "known_description": "参与活动「重逢契约」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的梦游。"
   },
   {
+    "id": 151016,
+    "sort_id": 629016,
+    "name": "鸭吉吉炫彩蛋",
+    "is_release": true,
+    "description": "经过孵化可以得到“炫彩”外观、“了不起”天分的鸭吉吉（蓬松的样子）。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_yajiji.egg_yajiji'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_yajiji.egg_yajiji'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3012003
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "鸭吉吉炫彩蛋",
+    "known_description": "经过孵化可以得到“炫彩”外观、“了不起”天分的鸭吉吉（蓬松的样子）。"
+  },
+  {
     "id": 160001,
     "sort_id": 501001,
     "name": "小鱼烧",
@@ -86226,6 +86257,65 @@
     "item_quality": 5
   },
   {
+    "id": 310041,
+    "sort_id": 103004,
+    "name": "咕噜球补给礼盒",
+    "is_release": true,
+    "description": "使用后，可从以下咕噜球中自选获得一颗：\n高级咕噜球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。",
+    "flavor_text": "「这一次，我有得选。」",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100708.100708'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100708.100708'",
+    "type": 3,
+    "lable_type": 3,
+    "type_desc": "自选礼盒",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 14,
+        "ratio": [
+          5001
+        ]
+      }
+    ],
+    "can_stack": 1,
+    "item_quality": 4,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "赛季冲刺活动返还获得"
+      }
+    ]
+  },
+  {
+    "id": 310042,
+    "sort_id": 103005,
+    "name": "冒险补给箱",
+    "is_release": true,
+    "description": "开启后从以下奖励中随机获得一份：炫彩精灵蛋x1、神奇的蛋x1、高级咕噜球x50、洛克贝x100000。具体概率为：\n炫彩精灵蛋x1，概率为5%；\n神奇的蛋x1，概率为30%；\n高级咕噜球x50，概率为30%；\n洛克贝x100000，概率为35%。",
+    "flavor_text": "「给冒险旅途增添一丝惊喜」",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100721.100721'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100721.100721'",
+    "lable_type": 3,
+    "type_desc": "随机礼盒",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200000304,
+          1
+        ]
+      }
+    ],
+    "can_stack": 1,
+    "item_quality": 5
+  },
+  {
     "id": 310045,
     "sort_id": 104243,
     "name": "「洛克号启程」名片",
@@ -87219,6 +87309,35 @@
     "acquire_struct": [
       {
         "acquire_way_text": "购买S2赛季启航礼包获得"
+      }
+    ]
+  },
+  {
+    "id": 310090,
+    "name": "「一起嗨」名片",
+    "is_release": true,
+    "description": "活动限定个人名片。",
+    "flavor_text": "一起快洛一起嗨，所有烦恼说拜拜！",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_haidilao_icon2.img_haidilao_icon2'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_haidilao_icon2.img_haidilao_icon2'",
+    "lable_type": 3,
+    "type_desc": "纪念名片",
+    "tips_not_show_inventory": true,
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          810068,
+          1
+        ]
+      }
+    ],
+    "item_quality": 4,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
       }
     ]
   },
@@ -88602,6 +88721,62 @@
     "acquire_struct": [
       {
         "acquire_way_text": "「呱呱上学记」活动获得"
+      }
+    ]
+  },
+  {
+    "id": 320102,
+    "sort_id": 104402,
+    "name": "「所有烦恼」",
+    "is_release": true,
+    "description": "获得后，可解锁个人名片新称号 ——「所有烦恼」。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_biaoqian.img_biaoqian'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_biaoqian.img_biaoqian'",
+    "lable_type": 3,
+    "type_desc": "称号",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200200135,
+          1
+        ]
+      }
+    ],
+    "item_quality": 3,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ]
+  },
+  {
+    "id": 320103,
+    "sort_id": 104402,
+    "name": "「说拜拜」",
+    "is_release": true,
+    "description": "获得后，可解锁个人名片新称号 ——「说拜拜」。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_biaoqian.img_biaoqian'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_biaoqian.img_biaoqian'",
+    "lable_type": 3,
+    "type_desc": "称号",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200200136,
+          1
+        ]
+      }
+    ],
+    "item_quality": 3,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
       }
     ]
   },
@@ -91908,6 +92083,40 @@
         "acquire_way_text": "活动获得"
       }
     ]
+  },
+  {
+    "id": 600009,
+    "sort_id": 606002,
+    "name": "慈悲为怀精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“慈悲为怀”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          4
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "慈悲为怀精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“慈悲为怀”特长、“了不起”天分的精灵。"
   },
   {
     "id": 702036,
@@ -108047,6 +108256,60 @@
     "acquire_struct": [
       {
         "acquire_way_text": "S2万事通商店"
+      }
+    ]
+  },
+  {
+    "id": 720083,
+    "name": "一起嗨Ⅰ",
+    "is_release": true,
+    "description": "传闻东方有一种神奇的锅精灵，过生日时围着它举着牌子庆祝，愿望就会实现。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/action128/icon_pose_3d_happybirthday.icon_pose_3d_happybirthday'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/action256/icon_pose_3d_big_happybirthday.icon_pose_3d_big_happybirthday'",
+    "type": 2,
+    "lable_type": 1,
+    "type_desc": "动作",
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          620270,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获取"
+      }
+    ]
+  },
+  {
+    "id": 720084,
+    "name": "一起嗨Ⅱ",
+    "is_release": true,
+    "description": "传闻东方有一种神奇的锅精灵，过生日时围着它举着牌子庆祝，愿望就会实现。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/action128/icon_pose_3d_happybirthday.icon_pose_3d_happybirthday'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/action256/icon_pose_3d_big_happybirthday.icon_pose_3d_big_happybirthday'",
+    "type": 2,
+    "lable_type": 1,
+    "type_desc": "动作",
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          620271,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获取"
       }
     ]
   },
@@ -143690,6 +143953,22 @@
     "acquire_struct": [
       {
         "acquire_way_text": "活动获得"
+      }
+    ],
+    "key_identifier": 1
+  },
+  {
+    "id": 99000179,
+    "name": "记忆中的肤色三选一礼包",
+    "is_release": true,
+    "description": "打开后可从三种记忆中的肤色（蓝紫粉）中任选一款。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100725.100725'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100725.100725'",
+    "type_desc": "礼包",
+    "item_quality": 4,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
       }
     ],
     "key_identifier": 1

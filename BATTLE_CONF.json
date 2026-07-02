@@ -99827,6 +99827,64 @@
     "is_mark_close": true
   },
   {
+    "id": 318025,
+    "name": "星光对决-卡普2",
+    "background": "/Game/ArtRes/Level/Game/Gameplay/Gameplay_Starlight/Gameplay_Starlight_Release",
+    "type": 27,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 4,
+    "rival_available_HP": 4,
+    "npc_title": "卡普",
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 99,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Challenge;Battle_Challenge_Type;ZhouYanZheng",
+    "can_useitem_or_not": 1,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 570,
+    "round_select_timeout": 570,
+    "pre_perform_timeout": 180,
+    "use_random_or_not": 1,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 800004,
+        "npc_title_1st": "风纪委会长",
+        "pos1_1st": [
+          121006
+        ],
+        "pos2_1st": [
+          121007
+        ],
+        "pos3_1st": [
+          121008
+        ],
+        "pos4_1st": [
+          121009
+        ],
+        "pos5_1st": [
+          121010
+        ],
+        "pos6_1st": [
+          121011
+        ],
+        "ball1_1st": 100002,
+        "ball2_1st": 100002,
+        "ball3_1st": 100002,
+        "ball4_1st": 100002,
+        "ball5_1st": 100002,
+        "ball6_1st": 100002,
+        "npc_ai": "MFBT_NPC_Battle_test5",
+        "nrc_ai_model": 5
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100,
+    "is_mark_close": true
+  },
+  {
     "id": 320001,
     "name": "喵喵",
     "type": 1,
