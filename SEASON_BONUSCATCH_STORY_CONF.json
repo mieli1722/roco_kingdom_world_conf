@@ -1,0 +1,975 @@
+[
+  {
+    "id": 1001,
+    "text": "第一幕",
+    "initial_bubble_dialogue_npc_id": 5461256,
+    "initial_bubble_dialogue_id": 100131001,
+    "initial_backdrop_id": 5461233,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461257,
+        "delete_npc_group_id": 546000001,
+        "add_npc_group_id": 546000002,
+        "bubble_dialogue_id": 100131001
+      }
+    ]
+  },
+  {
+    "id": 1002,
+    "text": "第二幕",
+    "initial_bubble_dialogue_npc_id": 5461257,
+    "initial_bubble_dialogue_id": 100132001,
+    "initial_backdrop_id": 5461228,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461257,
+        "delete_npc_group_id": 546000001,
+        "add_npc_group_id": 546000002,
+        "bubble_dialogue_id": 100130002,
+        "backdrop_id": 5481343
+      }
+    ]
+  },
+  {
+    "id": 1003,
+    "text": "第三幕 - 咕噜球",
+    "initial_bubble_dialogue_npc_id": 5461258,
+    "initial_bubble_dialogue_id": 100132001,
+    "initial_backdrop_id": 5461229,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461258,
+        "delete_npc_group_id": 546000003,
+        "add_npc_group_id": 546000004,
+        "bubble_dialogue_id": 100132003,
+        "backdrop_id": 5481344
+      }
+    ]
+  },
+  {
+    "id": 1004,
+    "text": "第四幕",
+    "initial_bubble_dialogue_npc_id": 5461259,
+    "initial_bubble_dialogue_id": 100132005,
+    "initial_backdrop_id": 5461230,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461257,
+        "delete_npc_group_id": 546000005,
+        "add_npc_group_id": 546000006,
+        "bubble_dialogue_id": 100130003,
+        "backdrop_id": 5481352
+      }
+    ]
+  },
+  {
+    "id": 1005,
+    "text": "终幕",
+    "initial_bubble_dialogue_npc_id": 5461234,
+    "initial_bubble_dialogue_id": 100132006
+  },
+  {
+    "id": 1006,
+    "text": "第三幕-可可果",
+    "initial_bubble_dialogue_npc_id": 5461258,
+    "initial_bubble_dialogue_id": 100132001,
+    "initial_backdrop_id": 5461229,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461258,
+        "delete_npc_group_id": 546000003,
+        "add_npc_group_id": 546000007,
+        "bubble_dialogue_id": 100132004,
+        "backdrop_id": 5481344
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "text": "精灵·四叶草的愿望书·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461400,
+    "initial_bubble_dialogue_id": 100132100,
+    "initial_backdrop_id": 5461580
+  },
+  {
+    "id": 2002,
+    "text": "精灵·四叶草的愿望书·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461401,
+    "initial_bubble_dialogue_id": 100132101,
+    "initial_backdrop_id": 5461581
+  },
+  {
+    "id": 2003,
+    "text": "精灵·四叶草的愿望书·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461402,
+    "initial_bubble_dialogue_id": 100132102,
+    "initial_backdrop_id": 5461582,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461402,
+        "delete_npc_group_id": 546000102,
+        "add_npc_group_id": 546000103,
+        "bubble_dialogue_id": 100132105
+      },
+      {
+        "bubble_dialogue_npc_id": 5461403,
+        "delete_npc_group_id": 546000104,
+        "add_npc_group_id": 546000104,
+        "bubble_dialogue_id": 100132107,
+        "backdrop_id": 5461583
+      },
+      {
+        "bubble_dialogue_npc_id": 5461404,
+        "bubble_dialogue_id": 100132109,
+        "backdrop_id": 5461585
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "text": "精灵·四叶草的愿望书·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461402,
+    "initial_bubble_dialogue_id": 100132102,
+    "initial_backdrop_id": 5461582,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461402,
+        "delete_npc_group_id": 546000102,
+        "add_npc_group_id": 546000103,
+        "bubble_dialogue_id": 100132106,
+        "backdrop_id": 5461589
+      },
+      {
+        "bubble_dialogue_npc_id": 5461403,
+        "delete_npc_group_id": 546000104,
+        "add_npc_group_id": 546000104,
+        "bubble_dialogue_id": 100132108,
+        "backdrop_id": 5461584
+      },
+      {
+        "bubble_dialogue_npc_id": 5461404,
+        "bubble_dialogue_id": 100132110,
+        "backdrop_id": 5461586
+      }
+    ]
+  },
+  {
+    "id": 2005,
+    "text": "精灵·四叶草的愿望书·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461403,
+    "initial_bubble_dialogue_id": 100132216,
+    "initial_backdrop_id": 5461583
+  },
+  {
+    "id": 2006,
+    "text": "精灵·四叶草的愿望书·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461404,
+    "initial_bubble_dialogue_id": 100132217,
+    "initial_backdrop_id": 5461585
+  },
+  {
+    "id": 2007,
+    "text": "精灵·老织女的金纺锤·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461405,
+    "initial_bubble_dialogue_id": 100132111,
+    "initial_backdrop_id": 5461601
+  },
+  {
+    "id": 2008,
+    "text": "精灵·老织女的金纺锤·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461406,
+    "initial_bubble_dialogue_id": 100132112,
+    "initial_backdrop_id": 5461602
+  },
+  {
+    "id": 2009,
+    "text": "精灵·老织女的金纺锤·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461407,
+    "initial_bubble_dialogue_id": 100132113,
+    "initial_backdrop_id": 5461603,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461407,
+        "delete_npc_group_id": 546000108,
+        "add_npc_group_id": 546000109,
+        "bubble_dialogue_id": 100132116,
+        "backdrop_id": 5461589
+      },
+      {
+        "bubble_dialogue_npc_id": 5461408,
+        "delete_npc_group_id": 546000110,
+        "add_npc_group_id": 546000172,
+        "bubble_dialogue_id": 100132118,
+        "backdrop_id": 5461604
+      },
+      {
+        "bubble_dialogue_npc_id": 5461409,
+        "bubble_dialogue_id": 100132120,
+        "backdrop_id": 5461606
+      }
+    ]
+  },
+  {
+    "id": 2010,
+    "text": "精灵·老织女的金纺锤·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461407,
+    "initial_bubble_dialogue_id": 100132113,
+    "initial_backdrop_id": 5461603,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461407,
+        "delete_npc_group_id": 546000108,
+        "add_npc_group_id": 546000109,
+        "bubble_dialogue_id": 100132117
+      },
+      {
+        "bubble_dialogue_npc_id": 5461408,
+        "delete_npc_group_id": 546000110,
+        "add_npc_group_id": 546000110,
+        "bubble_dialogue_id": 100132119,
+        "backdrop_id": 5461605
+      },
+      {
+        "bubble_dialogue_npc_id": 5461409,
+        "delete_npc_group_id": 546000111,
+        "add_npc_group_id": 546000112,
+        "bubble_dialogue_id": 100132121,
+        "backdrop_id": 5461607
+      }
+    ]
+  },
+  {
+    "id": 2011,
+    "text": "精灵·老织女的金纺锤·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461408,
+    "initial_bubble_dialogue_id": 100132218,
+    "initial_backdrop_id": 5461604
+  },
+  {
+    "id": 2012,
+    "text": "精灵·老织女的金纺锤·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461409,
+    "initial_bubble_dialogue_id": 100132219,
+    "initial_backdrop_id": 5461606
+  },
+  {
+    "id": 2013,
+    "text": "精灵·香甜误会·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461410,
+    "initial_bubble_dialogue_id": 100132122,
+    "initial_backdrop_id": 5461608
+  },
+  {
+    "id": 2014,
+    "text": "精灵·香甜误会·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461411,
+    "initial_bubble_dialogue_id": 100132123,
+    "initial_backdrop_id": 5461609
+  },
+  {
+    "id": 2015,
+    "text": "精灵·香甜误会·第三幕",
+    "initial_bubble_dialogue_npc_id": 5461412,
+    "initial_bubble_dialogue_id": 100132124,
+    "initial_backdrop_id": 5461610
+  },
+  {
+    "id": 2016,
+    "text": "精灵·香甜误会·第四幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461413,
+    "initial_bubble_dialogue_id": 100132125,
+    "initial_backdrop_id": 5461611,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461413,
+        "delete_npc_group_id": 546000116,
+        "add_npc_group_id": 546000117,
+        "bubble_dialogue_id": 100132128
+      },
+      {
+        "bubble_dialogue_npc_id": 5461414,
+        "bubble_dialogue_id": 100132130,
+        "backdrop_id": 5461612
+      }
+    ]
+  },
+  {
+    "id": 2017,
+    "text": "精灵·香甜误会·第四幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461413,
+    "initial_bubble_dialogue_id": 100132125,
+    "initial_backdrop_id": 5461611,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461413,
+        "delete_npc_group_id": 546000116,
+        "add_npc_group_id": 546000117,
+        "bubble_dialogue_id": 100132129
+      },
+      {
+        "bubble_dialogue_npc_id": 5461414,
+        "bubble_dialogue_id": 100132131,
+        "backdrop_id": 5461613
+      }
+    ]
+  },
+  {
+    "id": 2018,
+    "text": "精灵·香甜误会·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461414,
+    "initial_bubble_dialogue_id": 100132220,
+    "initial_backdrop_id": 5461612
+  },
+  {
+    "id": 2019,
+    "text": "精灵·守夜烛骑士·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461415,
+    "initial_bubble_dialogue_id": 100132132,
+    "initial_backdrop_id": 5461614
+  },
+  {
+    "id": 2020,
+    "text": "精灵·守夜烛骑士·第二幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461416,
+    "initial_bubble_dialogue_id": 100132133,
+    "initial_backdrop_id": 5461615,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461416,
+        "delete_npc_group_id": 546000120,
+        "add_npc_group_id": 546000120,
+        "bubble_dialogue_id": 100132136,
+        "backdrop_id": 5461602
+      },
+      {
+        "bubble_dialogue_npc_id": 5461417,
+        "delete_npc_group_id": 546000121,
+        "add_npc_group_id": 546000121,
+        "bubble_dialogue_id": 100132138,
+        "backdrop_id": 5461603
+      }
+    ]
+  },
+  {
+    "id": 2021,
+    "text": "精灵·守夜烛骑士·第二幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461416,
+    "initial_bubble_dialogue_id": 100132133,
+    "initial_backdrop_id": 5461615,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461416,
+        "bubble_dialogue_id": 100132137
+      },
+      {
+        "bubble_dialogue_npc_id": 5461417,
+        "delete_npc_group_id": 546000121,
+        "add_npc_group_id": 546000121,
+        "bubble_dialogue_id": 100132139,
+        "backdrop_id": 5461617
+      }
+    ]
+  },
+  {
+    "id": 2022,
+    "text": "精灵·守夜烛骑士·第三幕",
+    "initial_bubble_dialogue_npc_id": 5461417,
+    "initial_bubble_dialogue_id": 100132221,
+    "initial_backdrop_id": 5461616
+  },
+  {
+    "id": 2023,
+    "text": "精灵·守夜烛骑士·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461418,
+    "initial_bubble_dialogue_id": 100132140,
+    "initial_backdrop_id": 5461618
+  },
+  {
+    "id": 2024,
+    "text": "精灵·守夜烛骑士·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461419,
+    "initial_bubble_dialogue_id": 100132141,
+    "initial_backdrop_id": 5461619
+  },
+  {
+    "id": 2025,
+    "text": "精灵·稻草人的冒险·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461420,
+    "initial_bubble_dialogue_id": 100132142,
+    "initial_backdrop_id": 5461620
+  },
+  {
+    "id": 2026,
+    "text": "精灵·稻草人的冒险·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461421,
+    "initial_bubble_dialogue_id": 100132143,
+    "initial_backdrop_id": 5461621
+  },
+  {
+    "id": 2027,
+    "text": "精灵·稻草人的冒险·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461422,
+    "initial_bubble_dialogue_id": 100132144,
+    "initial_backdrop_id": 5461622,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461422,
+        "delete_npc_group_id": 546000126,
+        "add_npc_group_id": 546000126,
+        "bubble_dialogue_id": 100132147,
+        "backdrop_id": 5461589
+      },
+      {
+        "bubble_dialogue_npc_id": 5461423,
+        "delete_npc_group_id": 546000128,
+        "add_npc_group_id": 546000128,
+        "bubble_dialogue_id": 100132149,
+        "backdrop_id": 5461623
+      },
+      {
+        "bubble_dialogue_npc_id": 5461424,
+        "bubble_dialogue_id": 100132151,
+        "backdrop_id": 5461625
+      }
+    ]
+  },
+  {
+    "id": 2028,
+    "text": "精灵·稻草人的冒险·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461422,
+    "initial_bubble_dialogue_id": 100132144,
+    "initial_backdrop_id": 5461622,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461422,
+        "delete_npc_group_id": 546000126,
+        "add_npc_group_id": 546000126,
+        "bubble_dialogue_id": 100132148
+      },
+      {
+        "bubble_dialogue_npc_id": 5461423,
+        "delete_npc_group_id": 546000128,
+        "add_npc_group_id": 546000129,
+        "bubble_dialogue_id": 100132150,
+        "backdrop_id": 5461624
+      },
+      {
+        "bubble_dialogue_npc_id": 5461424,
+        "delete_npc_group_id": 546000130,
+        "add_npc_group_id": 546000131,
+        "bubble_dialogue_id": 100132152,
+        "backdrop_id": 5461626
+      }
+    ]
+  },
+  {
+    "id": 2029,
+    "text": "精灵·稻草人的冒险·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461423,
+    "initial_bubble_dialogue_id": 100132222,
+    "initial_backdrop_id": 5461623
+  },
+  {
+    "id": 2030,
+    "text": "精灵·稻草人的冒险·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461424,
+    "initial_bubble_dialogue_id": 100132223,
+    "initial_backdrop_id": 5461625
+  },
+  {
+    "id": 2031,
+    "text": "精灵·最甜的那颗果·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461425,
+    "initial_bubble_dialogue_id": 100132153,
+    "initial_backdrop_id": 5461627
+  },
+  {
+    "id": 2032,
+    "text": "精灵·最甜的那颗果·第二幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461426,
+    "initial_bubble_dialogue_id": 100132154,
+    "initial_backdrop_id": 5461628,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461426,
+        "delete_npc_group_id": 546000133,
+        "add_npc_group_id": 546000134,
+        "bubble_dialogue_id": 100132157
+      },
+      {
+        "bubble_dialogue_npc_id": 5461427,
+        "delete_npc_group_id": 546000136,
+        "add_npc_group_id": 546000137,
+        "bubble_dialogue_id": 100132159,
+        "backdrop_id": 5461629
+      }
+    ]
+  },
+  {
+    "id": 2033,
+    "text": "精灵·最甜的那颗果·第二幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461426,
+    "initial_bubble_dialogue_id": 100132154,
+    "initial_backdrop_id": 5461628,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461426,
+        "delete_npc_group_id": 546000133,
+        "add_npc_group_id": 546000135,
+        "bubble_dialogue_id": 100132158
+      },
+      {
+        "bubble_dialogue_npc_id": 5461427,
+        "delete_npc_group_id": 546000136,
+        "add_npc_group_id": 546000137,
+        "bubble_dialogue_id": 100132160,
+        "backdrop_id": 5461630
+      }
+    ]
+  },
+  {
+    "id": 2034,
+    "text": "精灵·最甜的那颗果·第三幕",
+    "initial_bubble_dialogue_npc_id": 5461427,
+    "initial_bubble_dialogue_id": 100132224,
+    "initial_backdrop_id": 5461629
+  },
+  {
+    "id": 2035,
+    "text": "精灵·最甜的那颗果·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461428,
+    "initial_bubble_dialogue_id": 100132161,
+    "initial_backdrop_id": 5461631
+  },
+  {
+    "id": 2036,
+    "text": "精灵·最甜的那颗果·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461429,
+    "initial_bubble_dialogue_id": 100132162,
+    "initial_backdrop_id": 5461632
+  },
+  {
+    "id": 2037,
+    "text": "精灵·从深渊到阳光·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461430,
+    "initial_bubble_dialogue_id": 100132163,
+    "initial_backdrop_id": 5461633
+  },
+  {
+    "id": 2038,
+    "text": "精灵·从深渊到阳光·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461431,
+    "initial_bubble_dialogue_id": 100132164,
+    "initial_backdrop_id": 5461634
+  },
+  {
+    "id": 2039,
+    "text": "精灵·从深渊到阳光·第三幕",
+    "initial_bubble_dialogue_npc_id": 5461432,
+    "initial_bubble_dialogue_id": 100132165,
+    "initial_backdrop_id": 5461635
+  },
+  {
+    "id": 2040,
+    "text": "精灵·从深渊到阳光·第四幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461433,
+    "initial_bubble_dialogue_id": 100132166,
+    "initial_backdrop_id": 5461636,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461433,
+        "bubble_dialogue_id": 100132169
+      },
+      {
+        "bubble_dialogue_npc_id": 5461434,
+        "bubble_dialogue_id": 100132171,
+        "backdrop_id": 5461637
+      }
+    ]
+  },
+  {
+    "id": 2041,
+    "text": "精灵·从深渊到阳光·第四幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461433,
+    "initial_bubble_dialogue_id": 100132166,
+    "initial_backdrop_id": 5461636,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461433,
+        "delete_npc_group_id": 546000143,
+        "add_npc_group_id": 546000144,
+        "bubble_dialogue_id": 100132170,
+        "backdrop_id": 5461631
+      },
+      {
+        "bubble_dialogue_npc_id": 5461434,
+        "bubble_dialogue_id": 100132172,
+        "backdrop_id": 5461638
+      }
+    ]
+  },
+  {
+    "id": 2042,
+    "text": "精灵·从深渊到阳光·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461434,
+    "initial_bubble_dialogue_id": 100132225,
+    "initial_backdrop_id": 5461637
+  },
+  {
+    "id": 2043,
+    "text": "精灵·夜之王的加冕礼·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461435,
+    "initial_bubble_dialogue_id": 100132173,
+    "initial_backdrop_id": 5461639
+  },
+  {
+    "id": 2044,
+    "text": "精灵·夜之王的加冕礼·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461436,
+    "initial_bubble_dialogue_id": 100132174,
+    "initial_backdrop_id": 5461640
+  },
+  {
+    "id": 2045,
+    "text": "精灵·夜之王的加冕礼·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461437,
+    "initial_bubble_dialogue_id": 100132175,
+    "initial_backdrop_id": 5461641,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461437,
+        "delete_npc_group_id": 546000148,
+        "add_npc_group_id": 546000148,
+        "bubble_dialogue_id": 100132178,
+        "backdrop_id": 5461622
+      },
+      {
+        "bubble_dialogue_npc_id": 5461438,
+        "delete_npc_group_id": 546000149,
+        "add_npc_group_id": 546000149,
+        "bubble_dialogue_id": 100132180,
+        "backdrop_id": 5461623
+      }
+    ]
+  },
+  {
+    "id": 2046,
+    "text": "精灵·夜之王的加冕礼·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461437,
+    "initial_bubble_dialogue_id": 100132175,
+    "initial_backdrop_id": 5461641,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461437,
+        "bubble_dialogue_id": 100132179
+      },
+      {
+        "bubble_dialogue_npc_id": 5461438,
+        "delete_npc_group_id": 546000149,
+        "add_npc_group_id": 546000149,
+        "bubble_dialogue_id": 100132181,
+        "backdrop_id": 5461643
+      }
+    ]
+  },
+  {
+    "id": 2047,
+    "text": "精灵·夜之王的加冕礼·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461438,
+    "initial_bubble_dialogue_id": 100132226,
+    "initial_backdrop_id": 5461642
+  },
+  {
+    "id": 2048,
+    "text": "精灵·夜之王的加冕礼·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461439,
+    "initial_bubble_dialogue_id": 100132182,
+    "initial_backdrop_id": 5461644
+  },
+  {
+    "id": 2049,
+    "text": "精灵·爆米花与大噪音·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461440,
+    "initial_bubble_dialogue_id": 100132183,
+    "initial_backdrop_id": 5461645
+  },
+  {
+    "id": 2050,
+    "text": "精灵·爆米花与大噪音·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461441,
+    "initial_bubble_dialogue_id": 100132184,
+    "initial_backdrop_id": 5461646
+  },
+  {
+    "id": 2051,
+    "text": "精灵·爆米花与大噪音·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461442,
+    "initial_bubble_dialogue_id": 100132185,
+    "initial_backdrop_id": 5461647,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461442,
+        "delete_npc_group_id": 546000153,
+        "add_npc_group_id": 546000173,
+        "bubble_dialogue_id": 100132188
+      },
+      {
+        "bubble_dialogue_npc_id": 5461443,
+        "delete_npc_group_id": 546000154,
+        "add_npc_group_id": 546000154,
+        "bubble_dialogue_id": 100132190,
+        "backdrop_id": 5461648
+      },
+      {
+        "bubble_dialogue_npc_id": 5461444,
+        "bubble_dialogue_id": 100132192,
+        "backdrop_id": 5461650
+      }
+    ]
+  },
+  {
+    "id": 2052,
+    "text": "精灵·爆米花与大噪音·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461442,
+    "initial_bubble_dialogue_id": 100132185,
+    "initial_backdrop_id": 5461647,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461442,
+        "delete_npc_group_id": 546000153,
+        "add_npc_group_id": 546000174,
+        "bubble_dialogue_id": 100132189,
+        "backdrop_id": 5461589
+      },
+      {
+        "bubble_dialogue_npc_id": 5461443,
+        "delete_npc_group_id": 546000154,
+        "add_npc_group_id": 546000175,
+        "bubble_dialogue_id": 100132191,
+        "backdrop_id": 5461649
+      },
+      {
+        "bubble_dialogue_npc_id": 5461444,
+        "delete_npc_group_id": 546000155,
+        "add_npc_group_id": 546000156,
+        "bubble_dialogue_id": 100132193,
+        "backdrop_id": 5461651
+      }
+    ]
+  },
+  {
+    "id": 2053,
+    "text": "精灵·爆米花与大噪音·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461443,
+    "initial_bubble_dialogue_id": 100132227,
+    "initial_backdrop_id": 5461648
+  },
+  {
+    "id": 2054,
+    "text": "精灵·爆米花与大噪音·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461444,
+    "initial_bubble_dialogue_id": 100132228,
+    "initial_backdrop_id": 5461650
+  },
+  {
+    "id": 2055,
+    "text": "精灵·一千零一只守卫·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461445,
+    "initial_bubble_dialogue_id": 100132194,
+    "initial_backdrop_id": 5461587
+  },
+  {
+    "id": 2056,
+    "text": "精灵·一千零一只守卫·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461446,
+    "initial_bubble_dialogue_id": 100132195,
+    "initial_backdrop_id": 5461588
+  },
+  {
+    "id": 2057,
+    "text": "精灵·一千零一只守卫·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461447,
+    "initial_bubble_dialogue_id": 100132196,
+    "initial_backdrop_id": 5461589,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461447,
+        "delete_npc_group_id": 546000159,
+        "add_npc_group_id": 546000160,
+        "bubble_dialogue_id": 100132199,
+        "backdrop_id": 5461610
+      },
+      {
+        "bubble_dialogue_npc_id": 5461448,
+        "delete_npc_group_id": 546000161,
+        "add_npc_group_id": 546000161,
+        "bubble_dialogue_id": 100132201,
+        "backdrop_id": 5461590
+      },
+      {
+        "bubble_dialogue_npc_id": 5461449,
+        "bubble_dialogue_id": 100132203,
+        "backdrop_id": 5461592
+      }
+    ]
+  },
+  {
+    "id": 2058,
+    "text": "精灵·一千零一只守卫·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461447,
+    "initial_bubble_dialogue_id": 100132196,
+    "initial_backdrop_id": 5461589,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461447,
+        "delete_npc_group_id": 546000159,
+        "add_npc_group_id": 546000176,
+        "bubble_dialogue_id": 100132200
+      },
+      {
+        "bubble_dialogue_npc_id": 5461448,
+        "delete_npc_group_id": 546000161,
+        "add_npc_group_id": 546000162,
+        "bubble_dialogue_id": 100132202,
+        "backdrop_id": 5461591
+      },
+      {
+        "bubble_dialogue_npc_id": 5461449,
+        "delete_npc_group_id": 546000163,
+        "add_npc_group_id": 546000164,
+        "bubble_dialogue_id": 100132204,
+        "backdrop_id": 5461593
+      }
+    ]
+  },
+  {
+    "id": 2059,
+    "text": "精灵·一千零一只守卫·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461448,
+    "initial_bubble_dialogue_id": 100132229,
+    "initial_backdrop_id": 5461590
+  },
+  {
+    "id": 2060,
+    "text": "精灵·一千零一只守卫·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461449,
+    "initial_bubble_dialogue_id": 100132230,
+    "initial_backdrop_id": 5461592
+  },
+  {
+    "id": 2061,
+    "text": "精灵·月光下的旋转咒·第一幕",
+    "initial_bubble_dialogue_npc_id": 5461450,
+    "initial_bubble_dialogue_id": 100132205,
+    "initial_backdrop_id": 5461594
+  },
+  {
+    "id": 2062,
+    "text": "精灵·月光下的旋转咒·第二幕",
+    "initial_bubble_dialogue_npc_id": 5461451,
+    "initial_bubble_dialogue_id": 100132206,
+    "initial_backdrop_id": 5461595
+  },
+  {
+    "id": 2063,
+    "text": "精灵·月光下的旋转咒·第三幕（选项A）",
+    "initial_bubble_dialogue_npc_id": 5461452,
+    "initial_bubble_dialogue_id": 100132207,
+    "initial_backdrop_id": 5461596,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461452,
+        "bubble_dialogue_id": 100132210
+      },
+      {
+        "bubble_dialogue_npc_id": 5461453,
+        "delete_npc_group_id": 546000168,
+        "add_npc_group_id": 546000168,
+        "bubble_dialogue_id": 100132212,
+        "backdrop_id": 5461597
+      },
+      {
+        "bubble_dialogue_npc_id": 5461454,
+        "delete_npc_group_id": 546000171,
+        "add_npc_group_id": 546000170,
+        "bubble_dialogue_id": 100132214,
+        "backdrop_id": 5461599
+      }
+    ]
+  },
+  {
+    "id": 2064,
+    "text": "精灵·月光下的旋转咒·第三幕（选项B）",
+    "initial_bubble_dialogue_npc_id": 5461452,
+    "initial_bubble_dialogue_id": 100132207,
+    "initial_backdrop_id": 5461596,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 5461452,
+        "delete_npc_group_id": 546000167,
+        "add_npc_group_id": 546000167,
+        "bubble_dialogue_id": 100132211,
+        "backdrop_id": 5461630
+      },
+      {
+        "bubble_dialogue_npc_id": 5461453,
+        "delete_npc_group_id": 546000168,
+        "add_npc_group_id": 546000169,
+        "bubble_dialogue_id": 100132213,
+        "backdrop_id": 5461598
+      },
+      {
+        "bubble_dialogue_npc_id": 5461454,
+        "bubble_dialogue_id": 100132215,
+        "backdrop_id": 5461600
+      }
+    ]
+  },
+  {
+    "id": 2065,
+    "text": "精灵·月光下的旋转咒·第四幕",
+    "initial_bubble_dialogue_npc_id": 5461453,
+    "initial_bubble_dialogue_id": 100132231,
+    "initial_backdrop_id": 5461597
+  },
+  {
+    "id": 2066,
+    "text": "精灵·月光下的旋转咒·第五幕",
+    "initial_bubble_dialogue_npc_id": 5461454,
+    "initial_bubble_dialogue_id": 100132232,
+    "initial_backdrop_id": 5461600
+  },
+  {
+    "id": 3001,
+    "text": "赛季委托ACT4假新闻1",
+    "initial_bubble_dialogue_npc_id": 7500066,
+    "initial_bubble_dialogue_id": 303010470,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 7500066
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "text": "赛季委托ACT4假新闻2",
+    "initial_bubble_dialogue_npc_id": 7500068,
+    "initial_bubble_dialogue_id": 303010480,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 7500068
+      }
+    ]
+  },
+  {
+    "id": 3003,
+    "text": "赛季委托ACT4假新闻3",
+    "initial_bubble_dialogue_npc_id": 7500069,
+    "initial_bubble_dialogue_id": 303010490,
+    "option": [
+      {
+        "bubble_dialogue_npc_id": 7500069
+      }
+    ]
+  }
+]

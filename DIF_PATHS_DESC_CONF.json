@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "shared_desc": "造成物伤，",
+    "shared_desc_rule": 1,
+    "A_desc": "赋予对方一层中毒。",
+    "B_desc": "本次能耗-1。"
+  },
+  {
+    "id": 2,
+    "shared_desc": "空",
+    "A_desc": "赋予对方一层灼烧。",
+    "B_desc": "本次威力+50。"
+  },
+  {
+    "id": 3,
+    "shared_desc": "偷取敌方3能量",
+    "shared_desc_rule": 3,
+    "B_desc": "扣除对方3能量"
+  },
+  {
+    "id": 4
+  },
+  {
+    "id": 5,
+    "shared_desc": "造成物伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "敌方获得物防-30%。",
+    "B_desc": "敌方获得速度-20。"
+  },
+  {
+    "id": 6,
+    "shared_desc": "<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "自己回复25%生命。",
+    "B_desc": "自己回复8能量。"
+  },
+  {
+    "id": 7,
+    "shared_desc": "造成魔伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "自己生命大于80%时威力+50。",
+    "B_desc": "<desc_id=1015>应对状态</>时自己回复35%生命。"
+  },
+  {
+    "id": 8,
+    "shared_desc": "<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "己方队伍获得1次<desc_id=1009>奉献</>：连击+1。",
+    "B_desc": "己方队伍获得1次<desc_id=1009>奉献</>：威力+20。"
+  },
+  {
+    "id": 9,
+    "shared_desc": "自己获得速度-20，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "且额外获得物防+90%。",
+    "B_desc": "且额外获得魔防+90%。"
+  },
+  {
+    "id": 10,
+    "shared_desc": "造成物伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "本次技能威力+40，使用后自己生命-10%。",
+    "B_desc": "自己生命低于50%时本次技能威力+100。"
+  },
+  {
+    "id": 11,
+    "shared_desc": "造成物伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "敌方携带光系技能时威力+50。",
+    "B_desc": "<desc_id=1015>应对状态</>时被应对的技能变为透射。"
+  },
+  {
+    "id": 12,
+    "shared_desc": "<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "对手随机获得1种负面<desc_id=3010>印记</>。",
+    "B_desc": "自己随机获得1种正面<desc_id=3010>印记</>。"
+  },
+  {
+    "id": 13,
+    "shared_desc": "<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "敌方获得7层<desc_id=1002>灼烧</>。",
+    "B_desc": "敌方获得物防-90%。"
+  },
+  {
+    "id": 14,
+    "shared_desc": "<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "自己获得速度+60。",
+    "B_desc": "自己获得物攻+90%。"
+  },
+  {
+    "id": 15,
+    "shared_desc": "造成物伤，<desc_id=1033>传动</>1，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "本技能位于1号位时威力+65。",
+    "B_desc": "本回合额外<desc_id=1033>传动</>1。"
+  },
+  {
+    "id": 16,
+    "shared_desc": "下次技能无需<desc_id=1007>蓄力</>，本技能可在<desc_id=1007>蓄力</>状态下使用。<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "本次能耗-1。",
+    "B_desc": "<desc_id=1017>应对防御</>时打断，敌方下回合获得眩晕。"
+  },
+  {
+    "id": 17,
+    "shared_desc": "造成魔伤，自己有<desc_id=1013>减益</>时本技能能耗-1，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "自己获得<desc_id=1006>萌化</>。",
+    "B_desc": "自己解除<desc_id=1006>萌化</>。"
+  },
+  {
+    "id": 18,
+    "shared_desc": "造成魔伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "驱散敌方所有<desc_id=1012>增益</>。",
+    "B_desc": "驱散双方1层<desc_id=3010>印记</>。"
+  },
+  {
+    "id": 19,
+    "shared_desc": "造成魔伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "每次使用后威力​永久​+20。",
+    "B_desc": "<desc_id=1015>应对状态</>时本次技能威力+100%。"
+  },
+  {
+    "id": 20,
+    "shared_desc": "造成魔伤，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "本次技能威力+20。",
+    "B_desc": "<desc_id=1015>应对状态</>时本次技能威力+140。"
+  },
+  {
+    "id": 21,
+    "shared_desc": "本技能先手-1，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "若自己生命低于20%，回复60%生命。",
+    "B_desc": "若自己生命高于80%，获得物攻+150%。"
+  },
+  {
+    "id": 22,
+    "shared_desc": "造成物伤，2连击。<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "每次使用后本技能威力永久+10。",
+    "B_desc": "每次使用后本技能连击数永久+1。"
+  },
+  {
+    "id": 23,
+    "shared_desc": "自己获得全技能威力+30，<desc_id=3019>选择</>：",
+    "shared_desc_rule": 1,
+    "A_desc": "本次能耗-1。",
+    "B_desc": "<desc_id=1017>应对防御</>时改为全技能威力永久+50。"
+  },
+  {
+    "id": 24,
+    "B_desc": "能耗+1，<desc_id=1029>吸血</>50%。"
+  },
+  {
+    "id": 25,
+    "shared_desc_rule": 3,
+    "B_desc": "偷取敌方3能量。"
+  },
+  {
+    "id": 26,
+    "B_desc": "自己​失去​15%​生命，​光系​技​能​威力​永久​+20。"
+  }
+]

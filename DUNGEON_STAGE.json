@@ -1470,5 +1470,766 @@
       5500015
     ],
     "revive_point": 389
+  },
+  {
+    "id": 21016001,
+    "dungeon_id": 210155,
+    "stage_name": "火巨人的守护地-STG1",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552540024
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000207
+      ]
+    },
+    "revive_point": 377
+  },
+  {
+    "id": 21016002,
+    "dungeon_id": 210155,
+    "stage_name": "- 火巨人的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000207
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000156
+      ]
+    },
+    "revive_point": 374
+  },
+  {
+    "id": 21016003,
+    "dungeon_id": 210155,
+    "stage_name": "火巨人复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000156
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 400
+  },
+  {
+    "id": 21017001,
+    "dungeon_id": 210156,
+    "stage_name": "森巨人的守护地-STG1",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552550015
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000212
+      ]
+    },
+    "revive_point": 376
+  },
+  {
+    "id": 21017002,
+    "dungeon_id": 210156,
+    "stage_name": "- 森巨人的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000212
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000157
+      ]
+    },
+    "revive_point": 373
+  },
+  {
+    "id": 21017003,
+    "dungeon_id": 210156,
+    "stage_name": "森巨人复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000157
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 399
+  },
+  {
+    "id": 21018001,
+    "dungeon_id": 210157,
+    "stage_name": "- 碎晶蝎的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552560013
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000159
+      ]
+    },
+    "revive_point": 398
+  },
+  {
+    "id": 21019001,
+    "dungeon_id": 210158,
+    "stage_name": "芽眼魔守护地STG1",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552570005
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000180
+      ]
+    },
+    "revive_point": 425
+  },
+  {
+    "id": 21019002,
+    "dungeon_id": 210158,
+    "stage_name": "芽眼魔守护地STG2",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000180
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 426
+  },
+  {
+    "id": 21019003,
+    "dungeon_id": 210158,
+    "stage_name": "芽眼魔守护地已完成",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000180
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000160
+      ]
+    },
+    "revive_point": 426
+  },
+  {
+    "id": 21020001,
+    "dungeon_id": 210159,
+    "stage_name": "- 不咕钟的守护地已完成 -",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552580010
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000158
+      ]
+    },
+    "revive_point": 378
+  },
+  {
+    "id": 21021001,
+    "dungeon_id": 210160,
+    "stage_name": "- 不咕钟的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552590010
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000158
+      ]
+    },
+    "revive_point": 379
+  },
+  {
+    "id": 21022001,
+    "dungeon_id": 210161,
+    "stage_name": "- 不咕钟的守护地已完成 -",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552600010
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000158
+      ]
+    },
+    "revive_point": 380
+  },
+  {
+    "id": 21023001,
+    "dungeon_id": 210162,
+    "stage_name": "- 不咕钟的守护地已完成 -",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552610010
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000158
+      ]
+    },
+    "revive_point": 381
+  },
+  {
+    "id": 21024001,
+    "dungeon_id": 210163,
+    "stage_name": "- 雪巨人的守护地已完成 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552620001
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000148
+      ]
+    },
+    "revive_point": 397
+  },
+  {
+    "id": 21025001,
+    "dungeon_id": 210164,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000184
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 406
+  },
+  {
+    "id": 21025002,
+    "dungeon_id": 210164,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000184
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 406
+  },
+  {
+    "id": 21025003,
+    "dungeon_id": 210164,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552630003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000184
+      ]
+    },
+    "revive_point": 405
+  },
+  {
+    "id": 21026001,
+    "dungeon_id": 210165,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000185
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 408
+  },
+  {
+    "id": 21026002,
+    "dungeon_id": 210165,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000185
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 408
+  },
+  {
+    "id": 21026003,
+    "dungeon_id": 210165,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552640003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000185
+      ]
+    },
+    "revive_point": 407
+  },
+  {
+    "id": 21027001,
+    "dungeon_id": 210166,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000186
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 410
+  },
+  {
+    "id": 21027002,
+    "dungeon_id": 210166,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000186
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 410
+  },
+  {
+    "id": 21027003,
+    "dungeon_id": 210166,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552650003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000186
+      ]
+    },
+    "revive_point": 409
+  },
+  {
+    "id": 21028001,
+    "dungeon_id": 210167,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000187
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 412
+  },
+  {
+    "id": 21028002,
+    "dungeon_id": 210167,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000187
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 412
+  },
+  {
+    "id": 21028003,
+    "dungeon_id": 210167,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552660003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000187
+      ]
+    },
+    "revive_point": 411
+  },
+  {
+    "id": 21029001,
+    "dungeon_id": 210168,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000188
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 414
+  },
+  {
+    "id": 21029002,
+    "dungeon_id": 210168,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000188
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 414
+  },
+  {
+    "id": 21029003,
+    "dungeon_id": 210168,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552670003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000188
+      ]
+    },
+    "revive_point": 413
+  },
+  {
+    "id": 21030001,
+    "dungeon_id": 210169,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000189
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 416
+  },
+  {
+    "id": 21030002,
+    "dungeon_id": 210169,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000189
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 416
+  },
+  {
+    "id": 21030003,
+    "dungeon_id": 210169,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552680003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000189
+      ]
+    },
+    "revive_point": 415
+  },
+  {
+    "id": 21031001,
+    "dungeon_id": 210170,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000190
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 418
+  },
+  {
+    "id": 21031002,
+    "dungeon_id": 210170,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000190
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 418
+  },
+  {
+    "id": 21031003,
+    "dungeon_id": 210170,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552690003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000190
+      ]
+    },
+    "revive_point": 417
+  },
+  {
+    "id": 21032001,
+    "dungeon_id": 210171,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000191
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 420
+  },
+  {
+    "id": 21032002,
+    "dungeon_id": 210171,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000191
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 420
+  },
+  {
+    "id": 21032003,
+    "dungeon_id": 210171,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552700003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000191
+      ]
+    },
+    "revive_point": 419
+  },
+  {
+    "id": 21033001,
+    "dungeon_id": 210172,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000192
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 422
+  },
+  {
+    "id": 21033002,
+    "dungeon_id": 210172,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000192
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 422
+  },
+  {
+    "id": 21033003,
+    "dungeon_id": 210172,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552710003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000192
+      ]
+    },
+    "revive_point": 421
+  },
+  {
+    "id": 21034001,
+    "dungeon_id": 210173,
+    "stage_name": "- 已获得芽眼魔的乳齿 -",
+    "has_stage_finish_ui": true,
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000193
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000202
+      ]
+    },
+    "revive_point": 424
+  },
+  {
+    "id": 21034002,
+    "dungeon_id": 210173,
+    "stage_name": "小芽眼魔守护地复活点重定向",
+    "start_condition": {
+      "type": 2,
+      "data1": [
+        550000193
+      ]
+    },
+    "finish_condition": {},
+    "revive_point": 424
+  },
+  {
+    "id": 21034003,
+    "dungeon_id": 210173,
+    "stage_name": "未达终点的复活阶段",
+    "start_condition": {
+      "type": 5,
+      "data1": [
+        552720003
+      ]
+    },
+    "finish_condition": {
+      "type": 2,
+      "data1": [
+        550000193
+      ]
+    },
+    "revive_point": 423
   }
 ]

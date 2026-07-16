@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "editor_name": "催眠状态",
     "status_type": 1,
     "status_priority": 300,
     "perform_delete": true,
@@ -11,7 +10,6 @@
   },
   {
     "id": 2,
-    "editor_name": "中毒状态",
     "status_type": 3,
     "status_priority": 100,
     "perform_delete": true,
@@ -32,7 +30,6 @@
   },
   {
     "id": 3,
-    "editor_name": "致幻状态",
     "status_type": 3,
     "status_priority": 100,
     "perform_delete": true,
@@ -49,16 +46,74 @@
   },
   {
     "id": 4,
-    "editor_name": "燃烧状态",
     "status_type": 2,
     "status_priority": 200,
     "class_name": "AbnormalStatus_Hot"
   },
   {
     "id": 5,
-    "editor_name": "冰冻状态",
     "status_type": 2,
     "status_priority": 200,
     "class_name": "AbnormalStatus_Cold"
+  },
+  {
+    "id": 6,
+    "status_type": 4,
+    "status_priority": 199,
+    "class_name": "AbnormalStatus_EternalNight"
+  },
+  {
+    "id": 7,
+    "status_type": 4,
+    "status_priority": 199,
+    "class_name": "AbnormalStatus_PumpkinLight"
+  },
+  {
+    "id": 101,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Pre_Cold_Lv2"
+  },
+  {
+    "id": 102,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Cold_Lv2"
+  },
+  {
+    "id": 103,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Pre_Cold_Lv3"
+  },
+  {
+    "id": 104,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Cold_Lv3"
+  },
+  {
+    "id": 201,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Pre_Hot_Lv2"
+  },
+  {
+    "id": 202,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Hot_Lv2"
+  },
+  {
+    "id": 205,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Pre_Hot_Lv4"
+  },
+  {
+    "id": 206,
+    "status_type": 2,
+    "status_priority": 200,
+    "class_name": "AbnormalStatus_Hot_Lv4"
   }
 ]

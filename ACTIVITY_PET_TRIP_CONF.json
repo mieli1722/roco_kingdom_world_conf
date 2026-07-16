@@ -1,15 +1,15 @@
 [
   {
     "id": 4800001,
-    "stop_time": "2026-07-12 23:59:59",
-    "draw_time": "2026-07-13 08:00:00",
+    "stop_time": "2026-08-13 23:59:59",
+    "draw_time": "2026-08-14 08:00:00",
     "pet_num": 4,
     "pet_max": 9,
-    "condition": 30000,
+    "condition": 100000,
     "initial_quota": 10,
-    "happiness_value": 3,
+    "happiness_value": 5,
     "playtime": 480,
-    "chose_max": 100,
+    "chose_max": 50,
     "change_time": 3,
     "mail_id": 80053,
     "bgm": "Book_Party",
@@ -58,149 +58,133 @@
     ],
     "condition_group2": [
       {
-        "happiness_stage": 3500,
+        "happiness_stage": 2000,
         "goods_type": 1,
-        "goods_id": 100213,
-        "stage_num": 30
+        "goods_id": 320096,
+        "stage_num": 1
+      },
+      {
+        "happiness_stage": 4000,
+        "goods_type": 2,
+        "goods_id": 3,
+        "stage_num": 10
+      },
+      {
+        "happiness_stage": 6000,
+        "goods_type": 1,
+        "goods_id": 320108,
+        "stage_num": 1
       },
       {
         "happiness_stage": 8000,
         "goods_type": 1,
-        "goods_id": 100628,
-        "stage_num": 20
+        "goods_id": 320097,
+        "stage_num": 1
       },
       {
-        "happiness_stage": 12000,
+        "happiness_stage": 10000,
         "goods_type": 1,
-        "goods_id": 100003,
-        "stage_num": 30
+        "goods_id": 320098,
+        "stage_num": 1
       },
       {
-        "happiness_stage": 16000,
+        "happiness_stage": 15000,
         "goods_type": 1,
-        "goods_id": 100675,
-        "stage_num": 20
+        "goods_id": 100204,
+        "stage_num": 5
       },
       {
         "happiness_stage": 20000,
-        "goods_type": 2,
-        "goods_id": 3,
-        "stage_num": 20
+        "goods_type": 1,
+        "goods_id": 320109,
+        "stage_num": 1
       },
       {
         "happiness_stage": 25000,
         "goods_type": 1,
-        "goods_id": 100676,
-        "stage_num": 20
+        "goods_id": 320096,
+        "stage_num": 1
       },
       {
         "happiness_stage": 30000,
-        "goods_type": 1,
-        "goods_id": 100699,
-        "stage_num": 300
+        "goods_type": 2,
+        "goods_id": 3,
+        "stage_num": 10
       },
       {
         "happiness_stage": 35000,
         "goods_type": 1,
-        "goods_id": 100255,
+        "goods_id": 320097,
         "stage_num": 1
       },
       {
         "happiness_stage": 40000,
         "goods_type": 1,
-        "goods_id": 100677,
-        "stage_num": 20
+        "goods_id": 100204,
+        "stage_num": 5
       },
       {
         "happiness_stage": 45000,
         "goods_type": 1,
-        "goods_id": 100201,
-        "stage_num": 300
+        "goods_id": 320098,
+        "stage_num": 1
       },
       {
         "happiness_stage": 50000,
-        "goods_type": 1,
-        "goods_id": 100203,
-        "stage_num": 5
+        "goods_type": 2,
+        "goods_id": 3,
+        "stage_num": 10
       },
       {
         "happiness_stage": 55000,
         "goods_type": 1,
-        "goods_id": 100423,
-        "stage_num": 30
+        "goods_id": 320110,
+        "stage_num": 1
       },
       {
         "happiness_stage": 60000,
         "goods_type": 1,
-        "goods_id": 100626,
-        "stage_num": 5
-      },
-      {
-        "happiness_stage": 65000,
-        "goods_type": 1,
-        "goods_id": 100699,
-        "stage_num": 300
+        "goods_id": 320097,
+        "stage_num": 1
       },
       {
         "happiness_stage": 70000,
-        "goods_type": 2,
-        "goods_id": 3,
-        "stage_num": 20
-      },
-      {
-        "happiness_stage": 75000,
         "goods_type": 1,
-        "goods_id": 100688,
-        "stage_num": 5
+        "goods_id": 320096,
+        "stage_num": 1
       },
       {
         "happiness_stage": 80000,
-        "goods_type": 1,
-        "goods_id": 100003,
-        "stage_num": 30
+        "goods_type": 2,
+        "goods_id": 3,
+        "stage_num": 10
       },
       {
         "happiness_stage": 90000,
         "goods_type": 1,
-        "goods_id": 100213,
-        "stage_num": 30
+        "goods_id": 320111,
+        "stage_num": 1
       },
       {
         "happiness_stage": 100000,
         "goods_type": 1,
-        "goods_id": 100690,
+        "goods_id": 100204,
         "stage_num": 5
       },
       {
         "happiness_stage": 110000,
-        "goods_type": 1,
-        "goods_id": 100693,
-        "stage_num": 5
+        "goods_type": 2,
+        "goods_id": 3,
+        "stage_num": 10
       },
       {
         "happiness_stage": 120000,
         "goods_type": 1,
-        "goods_id": 100694,
-        "stage_num": 5
-      },
-      {
-        "happiness_stage": 130000,
-        "goods_type": 1,
-        "goods_id": 100695,
-        "stage_num": 5
-      },
-      {
-        "happiness_stage": 140000,
-        "goods_type": 1,
-        "goods_id": 100696,
-        "stage_num": 5
-      },
-      {
-        "happiness_stage": 150000,
-        "goods_type": 1,
-        "goods_id": 100698,
-        "stage_num": 5
+        "goods_id": 320098,
+        "stage_num": 1
       }
-    ]
+    ],
+    "play_time": "2026-03-26 08:00:00",
+    "play_max": 50
   }
 ]

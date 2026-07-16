@@ -832,7 +832,7 @@
         ]
       },
       {
-        "identifier": 1507328,
+        "identifier": 1507329,
         "blackboard_name": "[BB_Hovering_Patrol]_Hovering_Rate",
         "data": 10000,
         "additional_para": [
@@ -1334,52 +1334,6 @@
   },
   {
     "id": 3439,
-    "blackboard_override": [
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeFar",
-        "data": 1
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_SkipEnd",
-        "data": 1
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeShort"
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeMid"
-      }
-    ]
-  },
-  {
-    "id": 3440,
-    "blackboard_override": [
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeFar",
-        "data": 1
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_SkipEnd",
-        "data": 1
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeShort"
-      },
-      {
-        "identifier": 1572864,
-        "blackboard_name": "[BB_RP_JustEscape]_EscapeMid"
-      }
-    ]
-  },
-  {
-    "id": 3441,
     "blackboard_override": [
       {
         "identifier": 1572864,
@@ -2373,11 +2327,6 @@
         "additional_para": [
           100
         ]
-      },
-      {
-        "identifier": 12255232,
-        "blackboard_name": "[BB_RoarUI]_skip",
-        "data": 1
       }
     ]
   },
@@ -2537,6 +2486,16 @@
         "identifier": 12124160,
         "blackboard_name": "[BB_Approach]_Skill",
         "data": 3064
+      }
+    ]
+  },
+  {
+    "id": 10085,
+    "blackboard_override": [
+      {
+        "identifier": 12189696,
+        "blackboard_name": "[BB_Roar]_skip",
+        "data": 1
       }
     ]
   },
@@ -2936,6 +2895,31 @@
       {
         "identifier": 524288,
         "blackboard_name": "[BB_Roar]_skip",
+        "data": 1
+      }
+    ]
+  },
+  {
+    "id": 23000008,
+    "blackboard_override": [
+      {
+        "identifier": 4915201,
+        "blackboard_name": "[BB_Roar]_skip",
+        "data": 1
+      },
+      {
+        "identifier": 12255233,
+        "blackboard_name": "[BB_Roar]_skip",
+        "data": 1
+      }
+    ]
+  },
+  {
+    "id": 23000009,
+    "blackboard_override": [
+      {
+        "identifier": 4980736,
+        "blackboard_name": "[BB_Bird_L_FlyToPlayerFront]_IsFinish",
         "data": 1
       }
     ]

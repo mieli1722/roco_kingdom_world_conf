@@ -778,7 +778,7 @@
       "Anger",
       "CallOut",
       "Happy",
-      "Hit1",
+      "Hit3",
       "Show",
       "Skill2End",
       "Skill2Loop1",
@@ -806,7 +806,7 @@
       "Anger",
       "CallOut",
       "Happy",
-      "Hit1",
+      "Hit3",
       "Sad",
       "Show",
       "Skill2End",
@@ -836,7 +836,7 @@
       "Anger",
       "CallOut",
       "Happy",
-      "Hit1",
+      "Hit3",
       "Show",
       "Skill2End",
       "Skill2Loop1",
@@ -853,8 +853,6 @@
     "npc_id": 67043,
     "preload_distance": 5000,
     "skill_ids": [
-      153,
-      154,
       174,
       175,
       176
@@ -879,11 +877,87 @@
   {
     "id": 1002656,
     "refresh_id": 1002656,
+    "npc_id": 67045,
+    "preload_distance": 5000,
+    "skill_ids": [
+      180,
+      181,
+      182
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start"
+    ]
+  },
+  {
+    "id": 1002657,
+    "refresh_id": 1002657,
     "npc_id": 67044,
     "preload_distance": 5000,
     "skill_ids": [
       95,
-      96
+      177,
+      178,
+      184
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Happy",
+      "Show",
+      "Skill2End",
+      "Skill2Loop1",
+      "Skill2Start",
+      "Skill3End",
+      "Skill3Loop",
+      "Skill3Start",
+      "Stun"
+    ]
+  },
+  {
+    "id": 1002672,
+    "refresh_id": 1002672,
+    "npc_id": 53068,
+    "preload_distance": 5000,
+    "skill_ids": [
+      185,
+      186,
+      187,
+      188,
+      189,
+      191,
+      194,
+      195,
+      196,
+      197,
+      198
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "CallOut",
+      "Happy",
+      "Hit3",
+      "Show",
+      "Stun"
+    ]
+  },
+  {
+    "id": 1002765,
+    "refresh_id": 1002765,
+    "npc_id": 53030,
+    "preload_distance": 5000,
+    "skill_ids": [
+      125,
+      126,
+      128
     ],
     "anim_names": [
       "Alert",
@@ -892,21 +966,83 @@
     ]
   },
   {
-    "id": 1002657,
-    "refresh_id": 1002657,
-    "npc_id": 67045,
+    "id": 1002766,
+    "refresh_id": 1002766,
+    "npc_id": 53044,
     "preload_distance": 5000,
     "skill_ids": [
-      1,
-      2,
-      3
+      125,
+      126,
+      128
     ],
     "anim_names": [
       "Alert",
       "Anger",
-      "Relax",
-      "Show",
-      "show"
+      "Show"
+    ]
+  },
+  {
+    "id": 1002767,
+    "refresh_id": 1002767,
+    "npc_id": 53045,
+    "preload_distance": 5000,
+    "skill_ids": [
+      125,
+      126,
+      128
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
+  },
+  {
+    "id": 1002779,
+    "refresh_id": 1002779,
+    "npc_id": 53029,
+    "preload_distance": 5000,
+    "skill_ids": [
+      121,
+      122,
+      124
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
+  },
+  {
+    "id": 1002780,
+    "refresh_id": 1002780,
+    "npc_id": 53029,
+    "preload_distance": 5000,
+    "skill_ids": [
+      121,
+      122,
+      124
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
+    ]
+  },
+  {
+    "id": 1002781,
+    "refresh_id": 1002781,
+    "npc_id": 53029,
+    "preload_distance": 5000,
+    "skill_ids": [
+      121,
+      122,
+      124
+    ],
+    "anim_names": [
+      "Alert",
+      "Anger",
+      "Show"
     ]
   },
   {
@@ -2654,6 +2790,33 @@
     "refresh_id": 31000098,
     "npc_id": 67009,
     "preload_distance": 5000,
+    "anim_names": [
+      "Fear",
+      "Hit1",
+      "Shock"
+    ]
+  },
+  {
+    "id": 31000106,
+    "refresh_id": 31000106,
+    "npc_id": 67051,
+    "preload_distance": 5000,
+    "skill_ids": [
+      95
+    ],
+    "anim_names": [
+      "Fear",
+      "Hit1"
+    ]
+  },
+  {
+    "id": 31000107,
+    "refresh_id": 31000107,
+    "npc_id": 67034,
+    "preload_distance": 5000,
+    "skill_ids": [
+      123
+    ],
     "anim_names": [
       "Fear",
       "Hit1",

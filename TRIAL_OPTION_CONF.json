@@ -1,0 +1,178 @@
+[
+  {
+    "id": 100,
+    "text": "选择1个<span color=\"#D56C1F\">攻击技能</>加入技能组",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_7_png.img_zhufu_7_png'",
+    "effect_struct": [
+      {
+        "param1": [
+          80
+        ],
+        "param2": 3
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "text": "选择1个<span color=\"#D56C1F\">状态技能</>加入技能组",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_2_png.img_zhufu_2_png'",
+    "effect_struct": [
+      {
+        "param1": [
+          81
+        ],
+        "param2": 3
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "text": "选择1个<span color=\"#D56C1F\">防御技能</>加入技能组",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_6_png.img_zhufu_6_png'",
+    "effect_struct": [
+      {
+        "param1": [
+          82
+        ],
+        "param2": 3
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "text": "我方精灵<span color=\"#D56C1F\">生命上限</>提升20%",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_4_png.img_zhufu_4_png'",
+    "effect_struct": [
+      {
+        "effect": 3,
+        "param1": [
+          2000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 201,
+    "text": "我方精灵<span color=\"#D56C1F\">能耗上限</>提升3",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_8_png.img_zhufu_8_png'",
+    "effect_struct": [
+      {
+        "effect": 5,
+        "param1": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "text": "获得20枚<span color=\"#D56C1F\">试炼代币</>",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_3_png.img_zhufu_3_png'",
+    "effect_struct": [
+      {
+        "effect": 6,
+        "param1": [
+          20
+        ]
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "text": "随机获得一个<span color=\"#D56C1F\">徽章碎片</>",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_5_png.img_zhufu_5_png'",
+    "effect_struct": [
+      {
+        "effect": 2,
+        "param1": [
+          2005,
+          2006,
+          2007,
+          2011,
+          2008
+        ],
+        "param2": 1
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "text": "随机获得一个稀有<span color=\"#D56C1F\">徽章碎片</>",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_5_png.img_zhufu_5_png'",
+    "effect_struct": [
+      {
+        "effect": 2,
+        "param1": [
+          2001,
+          2009,
+          2010,
+          2012,
+          2003
+        ],
+        "param2": 1
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "text": "受到80点伤害，将1个现有技能<span color=\"#D56C1F\">能耗降低</>1",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_1_png.img_zhufu_1_png'",
+    "effect_struct": [
+      {
+        "effect": 4,
+        "param1": [
+          -80
+        ]
+      },
+      {
+        "effect": 8,
+        "param1": [
+          -1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "text": "从3个稀有技能中选择1个<span color=\"#D56C1F\">进行融合</>",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_9_png.img_zhufu_9_png'",
+    "effect_struct": [
+      {
+        "effect": 1,
+        "param1": [
+          80
+        ],
+        "param2": 3
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "text": "回复全部生命值，<span color=\"#D56C1F\">生命上限</>提升10%",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_4_png.img_zhufu_4_png'",
+    "effect_struct": [
+      {
+        "effect": 4,
+        "param1": [
+          9999
+        ]
+      },
+      {
+        "effect": 3,
+        "param1": [
+          1000
+        ]
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "text": "从已有技能中选择一组同类技能<span color=\"#D56C1F\">进行融合</>",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_9_png.img_zhufu_9_png'",
+    "effect_struct": [
+      {
+        "effect": 9
+      }
+    ]
+  }
+]

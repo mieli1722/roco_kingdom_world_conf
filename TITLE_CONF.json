@@ -203,6 +203,22 @@
       {
         "type_name": "UMG_PetGroupPhotoShare_C",
         "subtitle": "赛季合影"
+      },
+      {
+        "type_name": "UMG_AppearanceSuit_Share1_C",
+        "subtitle": "时装分享"
+      },
+      {
+        "type_name": "UMG_Shop_Share_C",
+        "subtitle": "时装分享"
+      },
+      {
+        "type_name": "UMG_Activity_TakePhotoCompetition_Share_C",
+        "subtitle": "活动分享"
+      },
+      {
+        "type_name": "UMG_ElvenAmbassador_SharePhoto",
+        "subtitle": "誉证书分享"
       }
     ]
   },
@@ -403,6 +419,10 @@
       {
         "type_name": "battle_teach",
         "subtitle": "战斗教学"
+      },
+      {
+        "type_name": "badge_trial",
+        "subtitle": "八大徽章"
       }
     ]
   },
@@ -814,6 +834,10 @@
       {
         "type_name": "MobileMusic",
         "subtitle": "崭新乐章"
+      },
+      {
+        "type_name": "ScreenTecordingMusic",
+        "subtitle": "情绪氛围"
       }
     ]
   },
@@ -1265,7 +1289,7 @@
     "id": "ObservationNotesPanel",
     "title": "观察笔记",
     "display_type": 1,
-    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/Raw/Frames/img_huodong_biaoti_png.img_huodong_biaoti_png'",
     "subtitle": [
       {
         "subtitle": "精灵观察笔记"
@@ -1280,6 +1304,86 @@
     "subtitle": [
       {
         "subtitle": "调查任务"
+      }
+    ]
+  },
+  {
+    "id": "LotteryShow",
+    "title": "预览",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
+    "subtitle": [
+      {
+        "subtitle": "幸运商店"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyAdventureProgress",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险进度"
+      }
+    ]
+  },
+  {
+    "id": "BadgeAdventureLogPanel",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险日志"
+      }
+    ]
+  },
+  {
+    "id": "HistoricalReview",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险回顾"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyBadgeTrial",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "难度选择"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyBadgeSelectPet",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "精灵选择"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyBadgeEntrance",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "试炼总览"
+      },
+      {
+        "subtitle": "冒险回顾"
+      },
+      {
+        "subtitle": "冒险日志"
+      },
+      {
+        "subtitle": "冒险进度"
       }
     ]
   },

@@ -189,5 +189,196 @@
         "is_paid2": 1
       }
     ]
+  },
+  {
+    "id": 5100003,
+    "advanced_bp_buy_vitem": 2,
+    "advanced_bp_price": 60,
+    "bp_name": "重逢契约豪华手册",
+    "advanced_bp_description": "专为重逢的小洛克准备的重逢契约豪华手册。只需少量洛克钻即可轻松解锁，可获得更多更丰富的奖励，助力小洛克重拾冒险力量，重返卡洛西亚！",
+    "advanced_bp_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100936.100936'",
+    "condition_group": [
+      {
+        "bp_task": 110000347,
+        "task_exp": 30,
+        "is_daily": 1
+      },
+      {
+        "bp_task": 110000352,
+        "task_action": 20028,
+        "task_exp": 30,
+        "is_daily": 1
+      },
+      {
+        "bp_task": 110000353,
+        "task_exp": 30,
+        "is_daily": 1
+      },
+      {
+        "bp_task": 110000354,
+        "task_exp": 30,
+        "is_daily": 1
+      },
+      {
+        "bp_task": 110000348,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000349,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000350,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000351,
+        "task_action": 20028,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000356,
+        "task_action": 20028,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000357,
+        "task_action": 20028,
+        "task_exp": 50,
+        "is_daily": 2
+      },
+      {
+        "bp_task": 110000358,
+        "task_exp": 300,
+        "is_daily": 2
+      }
+    ],
+    "level_reward_group": [
+      {
+        "bp_level": 1,
+        "next_need_exp": 50,
+        "level_reward1": 700000003
+      },
+      {
+        "bp_level": 2,
+        "next_need_exp": 50,
+        "level_reward1": 700000009,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 3,
+        "next_need_exp": 50,
+        "level_reward1": 700000002
+      },
+      {
+        "bp_level": 4,
+        "next_need_exp": 50,
+        "level_reward1": 700000004,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 5,
+        "next_need_exp": 50,
+        "level_reward1": 700000005
+      },
+      {
+        "bp_level": 6,
+        "next_need_exp": 50,
+        "level_reward1": 700000001,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 7,
+        "next_need_exp": 50,
+        "level_reward1": 700000003
+      },
+      {
+        "bp_level": 8,
+        "next_need_exp": 50,
+        "level_reward1": 700000004,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 9,
+        "next_need_exp": 50,
+        "level_reward1": 700000002
+      },
+      {
+        "bp_level": 10,
+        "next_need_exp": 50,
+        "level_reward1": 700000009,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 11,
+        "next_need_exp": 50,
+        "level_reward1": 700000003
+      },
+      {
+        "bp_level": 12,
+        "next_need_exp": 50,
+        "level_reward1": 700000010,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 13,
+        "next_need_exp": 50,
+        "level_reward1": 700000002
+      },
+      {
+        "bp_level": 14,
+        "next_need_exp": 50,
+        "level_reward1": 700000004,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 15,
+        "next_need_exp": 50,
+        "level_reward1": 700000005
+      },
+      {
+        "bp_level": 16,
+        "next_need_exp": 50,
+        "level_reward1": 700000010,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 17,
+        "next_need_exp": 50,
+        "level_reward1": 700000003
+      },
+      {
+        "bp_level": 18,
+        "next_need_exp": 50,
+        "level_reward1": 700000004,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      },
+      {
+        "bp_level": 19,
+        "next_need_exp": 50,
+        "level_reward1": 700000002
+      },
+      {
+        "bp_level": 20,
+        "next_need_exp": 50,
+        "level_reward1": 700000009,
+        "level_reward2": 700000006,
+        "is_paid2": 1
+      }
+    ]
   }
 ]

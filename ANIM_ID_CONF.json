@@ -817,11 +817,11 @@
   },
   {
     "id": 205,
-    "anim_name": "BossSKill1Loop"
+    "anim_name": "BossSkill1Loop"
   },
   {
     "id": 206,
-    "anim_name": "BossSKill1End"
+    "anim_name": "BossSkill1End"
   },
   {
     "id": 207,
@@ -2289,38 +2289,410 @@
   },
   {
     "id": 573,
-    "anim_name": "RolePlayNo"
+    "anim_name": "XingLiStart"
   },
   {
     "id": 574,
-    "anim_name": "RolePlaySeek"
+    "anim_name": "XingLiLoop"
   },
   {
     "id": 575,
-    "anim_name": "RolePlayShh"
+    "anim_name": "XingLiEnd"
   },
   {
     "id": 576,
-    "anim_name": "RolePlayThanks"
+    "anim_name": "DeepSleepLoop"
   },
   {
     "id": 577,
-    "anim_name": "Fight_BossSkill_1_Start"
+    "anim_name": "SitDialogue1"
   },
   {
     "id": 578,
-    "anim_name": "Fight_BossSkill_1_Loop"
+    "anim_name": "SitDialogue2"
   },
   {
     "id": 579,
-    "anim_name": "Fight_BossSkill_1_End"
+    "anim_name": "SitDialogueLoop"
   },
   {
     "id": 580,
-    "anim_name": "Prize1"
+    "anim_name": "RolePlayNo"
   },
   {
     "id": 581,
+    "anim_name": "RolePlaySeek"
+  },
+  {
+    "id": 582,
+    "anim_name": "RolePlayShh"
+  },
+  {
+    "id": 583,
+    "anim_name": "RolePlayThanks"
+  },
+  {
+    "id": 584,
+    "anim_name": "FlyLoop"
+  },
+  {
+    "id": 585,
+    "anim_name": "PenShuiloop"
+  },
+  {
+    "id": 586,
+    "anim_name": "PushcartIdle"
+  },
+  {
+    "id": 587,
+    "anim_name": "PushcartWalk"
+  },
+  {
+    "id": 588,
+    "anim_name": "PC1SYHZhaoHuan"
+  },
+  {
+    "id": 589,
+    "anim_name": "PC2SYHZhaoHuan"
+  },
+  {
+    "id": 590,
+    "anim_name": "BossSkill1Start"
+  },
+  {
+    "id": 591,
+    "anim_name": "BossSkill2Start"
+  },
+  {
+    "id": 592,
+    "anim_name": "BossSkill2Loop"
+  },
+  {
+    "id": 593,
+    "anim_name": "BossSkill2End"
+  },
+  {
+    "id": 594,
+    "anim_name": "Prize1"
+  },
+  {
+    "id": 595,
     "anim_name": "PrizeStart1"
+  },
+  {
+    "id": 596,
+    "anim_name": "Fearbox001"
+  },
+  {
+    "id": 597,
+    "anim_name": "Fearbox002"
+  },
+  {
+    "id": 598,
+    "anim_name": "Happybox001"
+  },
+  {
+    "id": 599,
+    "anim_name": "Happybox002"
+  },
+  {
+    "id": 600,
+    "anim_name": "Showbox001"
+  },
+  {
+    "id": 601,
+    "anim_name": "Showbox002"
+  },
+  {
+    "id": 602,
+    "anim_name": "Idlebox001"
+  },
+  {
+    "id": 603,
+    "anim_name": "Idlebox002"
+  },
+  {
+    "id": 604,
+    "anim_name": "Transform"
+  },
+  {
+    "id": 605,
+    "anim_name": "StarShow"
+  },
+  {
+    "id": 606,
+    "anim_name": "EatStart"
+  },
+  {
+    "id": 607,
+    "anim_name": "EatLoop"
+  },
+  {
+    "id": 608,
+    "anim_name": "EatEnd"
+  },
+  {
+    "id": 609,
+    "anim_name": "BossAttack1"
+  },
+  {
+    "id": 610,
+    "anim_name": "CrazyStart"
+  },
+  {
+    "id": 611,
+    "anim_name": "CrazyLoop"
+  },
+  {
+    "id": 612,
+    "anim_name": "CrazyEnd"
+  },
+  {
+    "id": 613,
+    "anim_name": "BranchEvo1"
+  },
+  {
+    "id": 614,
+    "anim_name": "BranchEvo2"
+  },
+  {
+    "id": 615,
+    "anim_name": "DuoShe"
+  },
+  {
+    "id": 616,
+    "anim_name": "BranchCallOut"
+  },
+  {
+    "id": 617,
+    "anim_name": "ZhengZha"
+  },
+  {
+    "id": 618,
+    "anim_name": "RolePlayCaBiZi"
+  },
+  {
+    "id": 619,
+    "anim_name": "RolePlayChuiXiong"
+  },
+  {
+    "id": 620,
+    "anim_name": "RolePlayZhanHou"
+  },
+  {
+    "id": 621,
+    "anim_name": "ReceiveStart"
+  },
+  {
+    "id": 622,
+    "anim_name": "ReceiveLoop"
+  },
+  {
+    "id": 623,
+    "anim_name": "ReceiveEnd"
+  },
+  {
+    "id": 624,
+    "anim_name": "RolePlayBear"
+  },
+  {
+    "id": 625,
+    "anim_name": "RolePlayNewspaper"
+  },
+  {
+    "id": 626,
+    "anim_name": "RolePlayNewspaperStart"
+  },
+  {
+    "id": 627,
+    "anim_name": "RolePlayReliable"
+  },
+  {
+    "id": 628,
+    "anim_name": "RolePlayWatch"
+  },
+  {
+    "id": 629,
+    "anim_name": "YongBaoStart"
+  },
+  {
+    "id": 630,
+    "anim_name": "YongBaoLoop"
+  },
+  {
+    "id": 631,
+    "anim_name": "YongBaoEnd"
+  },
+  {
+    "id": 632,
+    "anim_name": "CaBiZi"
+  },
+  {
+    "id": 633,
+    "anim_name": "ChuiXiong"
+  },
+  {
+    "id": 634,
+    "anim_name": "ZhanHou"
+  },
+  {
+    "id": 635,
+    "anim_name": "Eat"
+  },
+  {
+    "id": 636,
+    "anim_name": "GanBei"
+  },
+  {
+    "id": 637,
+    "anim_name": "SitDown2Start"
+  },
+  {
+    "id": 638,
+    "anim_name": "SitDown2Loop"
+  },
+  {
+    "id": 639,
+    "anim_name": "SitDown2End"
+  },
+  {
+    "id": 640,
+    "anim_name": "Walk2"
+  },
+  {
+    "id": 641,
+    "anim_name": "Idle3"
+  },
+  {
+    "id": 642,
+    "anim_name": "Show12"
+  },
+  {
+    "id": 643,
+    "anim_name": "Show23"
+  },
+  {
+    "id": 644,
+    "anim_name": "ShaoZiDialogue1"
+  },
+  {
+    "id": 645,
+    "anim_name": "ShaoZiDialogue4"
+  },
+  {
+    "id": 646,
+    "anim_name": "ShaoZiDialogue5"
+  },
+  {
+    "id": 647,
+    "anim_name": "ShaoZiDialogueAnger1"
+  },
+  {
+    "id": 648,
+    "anim_name": "ShaoZiFear0"
+  },
+  {
+    "id": 649,
+    "anim_name": "ShaoZiFear1"
+  },
+  {
+    "id": 650,
+    "anim_name": "ShaoZiHello1"
+  },
+  {
+    "id": 651,
+    "anim_name": "ShaoZiIdle"
+  },
+  {
+    "id": 652,
+    "anim_name": "ShaoZiSad2"
+  },
+  {
+    "id": 653,
+    "anim_name": "ShaoZiShock0"
+  },
+  {
+    "id": 654,
+    "anim_name": "ShaoZiShock1"
+  },
+  {
+    "id": 655,
+    "anim_name": "SuXingStart"
+  },
+  {
+    "id": 656,
+    "anim_name": "SuXingLoop"
+  },
+  {
+    "id": 657,
+    "anim_name": "SuXingEnd"
+  },
+  {
+    "id": 658,
+    "anim_name": "Amazed"
+  },
+  {
+    "id": 659,
+    "anim_name": "Boubt"
+  },
+  {
+    "id": 660,
+    "anim_name": "FearStart"
+  },
+  {
+    "id": 661,
+    "anim_name": "FearLoop"
+  },
+  {
+    "id": 662,
+    "anim_name": "FearEnd"
+  },
+  {
+    "id": 663,
+    "anim_name": "Nod"
+  },
+  {
+    "id": 664,
+    "anim_name": "ShockStart"
+  },
+  {
+    "id": 665,
+    "anim_name": "ShockLoop"
+  },
+  {
+    "id": 666,
+    "anim_name": "ShockEnd"
+  },
+  {
+    "id": 667,
+    "anim_name": "Relax2Start_0"
+  },
+  {
+    "id": 668,
+    "anim_name": "Relax2Loop"
+  },
+  {
+    "id": 669,
+    "anim_name": "Relax2End"
+  },
+  {
+    "id": 670,
+    "anim_name": "DuihuanshuAnger"
+  },
+  {
+    "id": 671,
+    "anim_name": "DuihuanshuThreaten"
+  },
+  {
+    "id": 672,
+    "anim_name": "ItemGive"
+  },
+  {
+    "id": 673,
+    "anim_name": "XingLi"
+  },
+  {
+    "id": 674,
+    "anim_name": "CrossarmsGesture2"
   }
 ]

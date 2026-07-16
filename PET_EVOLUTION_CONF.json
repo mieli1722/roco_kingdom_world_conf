@@ -4,6 +4,7 @@
     "name": "水蓝蓝进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 1,
@@ -38,12 +39,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5010,
+        "lord_pet_name": "圣水守护"
+      }
+    ]
   },
   {
     "id": 2,
     "name": "火花进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -79,12 +87,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5017,
+        "lord_pet_name": "烈火战神"
+      }
+    ]
   },
   {
     "id": 3,
     "name": "迪莫进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -102,12 +117,31 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5025,
+        "lord_pet_name": "圣光迪莫"
+      },
+      {
+        "lord_petbase_id": 5026,
+        "lord_pet_name": "圣草迪莫"
+      },
+      {
+        "lord_petbase_id": 5027,
+        "lord_pet_name": "圣火迪莫"
+      },
+      {
+        "lord_petbase_id": 5028,
+        "lord_pet_name": "圣水迪莫"
+      }
+    ]
   },
   {
     "id": 4,
     "name": "喵喵进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -143,7 +177,17 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5003,
+        "lord_pet_name": "叶冕魔力猫"
+      },
+      {
+        "lord_petbase_id": 5061,
+        "lord_pet_name": "武斗酷猫"
+      }
+    ]
   },
   {
     "id": 5,
@@ -151,6 +195,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 5,
@@ -183,6 +228,7 @@
     "id": 6,
     "name": "赤毛鸡仔进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -217,6 +263,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      1,
       1
     ],
     "pvp_mute_group": 7,
@@ -244,13 +291,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5055,
+        "lord_pet_name": "恶魔男爵"
+      }
+    ]
   },
   {
     "id": 8,
     "name": "恶魔狼进化链",
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 8,
@@ -267,13 +321,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5016,
+        "lord_pet_name": "恶魔狼王"
+      }
+    ]
   },
   {
     "id": 9,
     "name": "鸭吉吉进化链（蓬松的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -291,13 +352,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5006,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 10,
     "name": "小甲虫进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 10,
@@ -330,6 +398,7 @@
     "name": "阿米亚特进化链",
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 11,
@@ -365,7 +434,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5053,
+        "lord_pet_name": "深渊罗隐"
+      }
+    ]
   },
   {
     "id": 12,
@@ -373,6 +448,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 12,
@@ -410,7 +486,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5004,
+        "lord_pet_name": "蹦蹦果"
+      }
+    ]
   },
   {
     "id": 13,
@@ -418,6 +500,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 13,
@@ -460,6 +543,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 14,
@@ -495,6 +579,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 15,
@@ -530,6 +615,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 16,
@@ -564,7 +650,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5014,
+        "lord_pet_name": "霜翼领主"
+      }
+    ]
   },
   {
     "id": 17,
@@ -572,6 +664,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 17,
@@ -606,12 +699,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5005,
+        "lord_pet_name": "奇丽果"
+      }
+    ]
   },
   {
     "id": 18,
     "name": "鸭吉吉进化链（紧实的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -629,13 +729,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5036,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 19,
     "name": "丢丢进化链（草地附近的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -679,6 +786,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 19,
@@ -712,6 +820,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 20,
@@ -754,6 +863,7 @@
     "name": "白发懒人进化链",
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 21,
@@ -798,6 +908,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 22,
@@ -820,6 +931,7 @@
     "id": 24,
     "name": "煤球憨憨进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -866,6 +978,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 24,
@@ -908,6 +1021,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 25,
@@ -945,13 +1059,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5015,
+        "lord_pet_name": "女王蜂"
+      }
+    ]
   },
   {
     "id": 27,
     "name": "小灵面进化链（睁眼的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -995,6 +1116,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      1,
       1
     ],
     "pvp_mute_group": 27,
@@ -1020,13 +1142,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5002,
+        "lord_pet_name": "彩虹独角兽"
+      }
+    ]
   },
   {
     "id": 29,
     "name": "幽影树进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -1045,12 +1174,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5019,
+        "lord_pet_name": "幻影荆棘"
+      }
+    ]
   },
   {
     "id": 30,
     "name": "忽幽狸进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -1087,6 +1223,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      1,
       1
     ],
     "pvp_mute_group": 30,
@@ -1112,6 +1249,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 31,
@@ -1137,7 +1275,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5018,
+        "lord_pet_name": "风暴战犬"
+      }
+    ]
   },
   {
     "id": 33,
@@ -1145,6 +1289,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 32,
@@ -1186,6 +1331,7 @@
     "name": "灵狐进化链",
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 33,
@@ -1230,7 +1376,8 @@
     "name": "烈钻鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 34,
     "evolution_group": 27,
@@ -1275,6 +1422,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 35,
@@ -1319,6 +1467,7 @@
     "name": "可爱猿进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 36,
@@ -1361,6 +1510,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 37,
@@ -1402,6 +1552,7 @@
     "id": 39,
     "name": "火尾瓦特进化链",
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -1445,6 +1596,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 39,
@@ -1489,6 +1641,7 @@
     "name": "紫蔓宝宝进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 40,
@@ -1531,6 +1684,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 41,
@@ -1573,6 +1727,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 42,
@@ -1607,7 +1762,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5008,
+        "lord_pet_name": "迷嶂布莱克"
+      }
+    ]
   },
   {
     "id": 44,
@@ -1615,6 +1776,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 43,
@@ -1656,6 +1818,7 @@
     "name": "仪使者进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 44,
@@ -1693,12 +1856,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5009,
+        "lord_pet_name": "祭礼巨像"
+      }
+    ]
   },
   {
     "id": 46,
     "name": "甜田螺进化链",
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -1745,6 +1915,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 46,
@@ -1782,12 +1953,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5011,
+        "lord_pet_name": "神谕鲨"
+      }
+    ]
   },
   {
     "id": 48,
     "name": "果冻进化链（抹茶布丁分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -1821,6 +1999,7 @@
     "id": 49,
     "name": "大耳帽兜进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -1859,12 +2038,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5013,
+        "lord_pet_name": "雪影冰灵"
+      }
+    ]
   },
   {
     "id": 50,
     "name": "脆筒甜甜进化链（樱桃巧克力口味）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -1908,6 +2094,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 50,
@@ -1950,6 +2137,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 51,
@@ -1992,6 +2180,7 @@
     "id": 53,
     "name": "小螂进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2037,6 +2226,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      1,
       1
     ],
     "pvp_mute_group": 53,
@@ -2080,6 +2270,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 54,
@@ -2125,6 +2316,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      1,
       1
     ],
     "pvp_mute_group": 55,
@@ -2167,6 +2359,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 56,
@@ -2211,6 +2404,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 57,
@@ -2245,13 +2439,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5059,
+        "lord_pet_name": "暗夜颅主"
+      }
+    ]
   },
   {
     "id": 59,
     "name": "多多进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -2297,6 +2498,7 @@
     "name": "裘洛进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 59,
@@ -2337,6 +2539,7 @@
     "id": 61,
     "name": "春团进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2379,6 +2582,7 @@
     "name": "伏地兽进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 61,
@@ -2420,6 +2624,7 @@
     "name": "阿布进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 62,
@@ -2452,6 +2657,7 @@
     "name": "石石进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -2487,6 +2693,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 64,
@@ -2527,6 +2734,7 @@
     "id": 66,
     "name": "咔咔羽毛进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2572,6 +2780,7 @@
     "name": "矮脚爬爬进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 66,
@@ -2604,6 +2813,7 @@
     "id": 68,
     "name": "小帕尔进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2647,7 +2857,8 @@
     "name": "瑰眼仔进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 68,
     "evolution_group": 55,
@@ -2691,6 +2902,7 @@
     "name": "小光进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 69,
@@ -2713,6 +2925,7 @@
     "id": 71,
     "name": "迷迷眼进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2739,6 +2952,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 71,
@@ -2764,7 +2978,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5060,
+        "lord_pet_name": "风暴酷拉"
+      }
+    ]
   },
   {
     "id": 73,
@@ -2772,6 +2992,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 72,
@@ -2814,6 +3035,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 73,
@@ -2847,6 +3069,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 74,
@@ -2888,6 +3111,7 @@
     "name": "粉粉星进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 75,
@@ -2921,6 +3145,7 @@
     "id": 77,
     "name": "机械方方进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -2962,6 +3187,7 @@
     "id": 78,
     "name": "贝瑟进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3007,6 +3233,7 @@
     "name": "多西进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 78,
@@ -3051,6 +3278,7 @@
     "name": "小翼龙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 79,
@@ -3085,6 +3313,7 @@
     "name": "伊雷龙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 80,
@@ -3110,12 +3339,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5022,
+        "lord_pet_name": "伊兰龙"
+      }
+    ]
   },
   {
     "id": 82,
     "name": "黑炎宝宝进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3152,6 +3388,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 82,
@@ -3185,6 +3422,7 @@
     "id": 84,
     "name": "呼拉猫进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3228,6 +3466,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 84,
@@ -3263,6 +3502,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 85,
@@ -3285,6 +3525,7 @@
     "id": 87,
     "name": "友爱天天进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3318,11 +3559,12 @@
     "name": "加灵进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 87,
-    "evolution_group": 72,
-    "handbook_evolution_group": 72,
+    "evolution_group": 2015,
+    "handbook_evolution_group": 2015,
     "statistics_evolution_group": 88,
     "evolution_chain": [
       {
@@ -3348,17 +3590,11 @@
         "stage": 3,
         "level": 100,
         "unit_type": [
-          2
-        ]
-      },
-      {
-        "petbase_id": 3233,
-        "pet_name": "加尔",
-        "stage": 3,
-        "level": 100,
-        "unit_type": [
-          17
-        ]
+          2,
+          16
+        ],
+        "skill_res": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Evolution/G6_Evolution_JiaEr_World.G6_Evolution_JiaEr_World_C'",
+        "battle_skill_res": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Evolution/G6_Evolution_JiaEr_Battle.G6_Evolution_JiaEr_Battle_C'"
       }
     ],
     "talent_random_id": 2
@@ -3368,6 +3604,7 @@
     "name": "牵线木偶进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3398,8 +3635,9 @@
   },
   {
     "id": 90,
-    "name": "超能球球进化链",
+    "name": "星星眼进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3410,7 +3648,7 @@
     "evolution_chain": [
       {
         "petbase_id": 3236,
-        "pet_name": "超能球球",
+        "pet_name": "星星眼",
         "stage": 1,
         "unit_type": [
           20,
@@ -3425,6 +3663,7 @@
     "name": "小怂猫进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 90,
@@ -3457,6 +3696,7 @@
     "name": "哭哭菇进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -3499,6 +3739,7 @@
     "name": "呆火鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 92,
@@ -3532,6 +3773,7 @@
     "id": 94,
     "name": "绒绒进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3577,6 +3819,7 @@
     "name": "绿洲象进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 94,
@@ -3610,6 +3853,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 95,
@@ -3644,12 +3888,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5054,
+        "lord_pet_name": "高帽鹬者"
+      }
+    ]
   },
   {
     "id": 97,
     "name": "速粒小子进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3685,6 +3936,7 @@
     "name": "奔波鼠进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 97,
@@ -3716,6 +3968,7 @@
     "id": 99,
     "name": "布鲁斯进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -3758,6 +4011,7 @@
     "name": "古拉海象进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 99,
@@ -3791,6 +4045,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 100,
@@ -3825,6 +4080,7 @@
     "name": "卡波进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 101,
@@ -3858,6 +4114,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 102,
@@ -3892,6 +4149,7 @@
     "name": "大头骨龙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 103,
@@ -3927,6 +4185,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 104,
@@ -3971,6 +4230,7 @@
     "name": "冬羽雀进化链（春天的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 16,
@@ -4005,12 +4265,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5030,
+        "lord_pet_name": "霜翼领主"
+      }
+    ]
   },
   {
     "id": 110,
     "name": "冬羽雀进化链（夏天的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4046,12 +4313,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5031,
+        "lord_pet_name": "霜翼领主"
+      }
+    ]
   },
   {
     "id": 111,
     "name": "冬羽雀进化链（秋天的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4087,16 +4361,25 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5032,
+        "lord_pet_name": "霜翼领主"
+      }
+    ]
   },
   {
     "id": 112,
     "name": "丢丢进化链（火山附近的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 18,
+    "evolution_group": 1009,
+    "handbook_evolution_group": 1009,
     "statistics_evolution_group": 19,
     "evolution_chain": [
       {
@@ -4132,6 +4415,7 @@
     "id": 113,
     "name": "丢丢进化链（沙地附近的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4177,6 +4461,7 @@
     "name": "丢丢进化链（雪山附近的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 18,
@@ -4221,6 +4506,7 @@
     "name": "蹦蹦种子进化链（彩玉球形态）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 12,
@@ -4258,12 +4544,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5033,
+        "lord_pet_name": "蹦蹦果"
+      }
+    ]
   },
   {
     "id": 116,
     "name": "蹦蹦种子进化链（短毛球形态）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4302,12 +4595,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5034,
+        "lord_pet_name": "蹦蹦果"
+      }
+    ]
   },
   {
     "id": 117,
     "name": "蹦蹦种子进化链（象牙球形态）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4346,13 +4646,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5035,
+        "lord_pet_name": "蹦蹦果"
+      }
+    ]
   },
   {
     "id": 118,
     "name": "矿晶虫进化链（西瓜碧玺的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4381,12 +4688,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5001,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 119,
     "name": "犀角鸟进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4429,6 +4743,7 @@
     "name": "小鼠獭进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4475,6 +4790,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 108,
@@ -4507,7 +4823,8 @@
     "name": "觅觅蝠进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 109,
     "evolution_group": 92,
@@ -4521,6 +4838,25 @@
         "unit_type": [
           15
         ]
+      },
+      {
+        "petbase_id": 3322,
+        "pet_name": "翻翻蝠",
+        "stage": 2,
+        "level": 16,
+        "unit_type": [
+          15
+        ]
+      },
+      {
+        "petbase_id": 3323,
+        "pet_name": "夜游魔",
+        "stage": 3,
+        "level": 32,
+        "unit_type": [
+          15,
+          18
+        ]
       }
     ],
     "talent_random_id": 2
@@ -4530,6 +4866,7 @@
     "name": "海盔虫进化链（本来的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4568,7 +4905,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5012,
+        "lord_pet_name": "千棘海针"
+      }
+    ]
   },
   {
     "id": 124,
@@ -4576,6 +4919,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 111,
@@ -4617,6 +4961,7 @@
     "name": "乖乖鹄进化链（翠顶夫人分支）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4662,7 +5007,8 @@
     "name": "芽眼魔进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 113,
     "evolution_group": 94,
@@ -4670,9 +5016,29 @@
     "statistics_evolution_group": 126,
     "evolution_chain": [
       {
+        "petbase_id": 3347,
+        "pet_name": "芽眼魔",
+        "stage": 1,
+        "unit_type": [
+          18,
+          5
+        ]
+      },
+      {
         "petbase_id": 3348,
         "pet_name": "叶眼魔",
-        "stage": 1,
+        "stage": 2,
+        "level": 30,
+        "unit_type": [
+          18,
+          5
+        ]
+      },
+      {
+        "petbase_id": 3349,
+        "pet_name": "障眼魔",
+        "stage": 3,
+        "level": 50,
         "unit_type": [
           18,
           5
@@ -4686,7 +5052,8 @@
     "name": "霹雳宝宝进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 114,
     "evolution_group": 95,
@@ -4709,6 +5076,15 @@
         "unit_type": [
           11
         ]
+      },
+      {
+        "petbase_id": 3353,
+        "pet_name": "雷神之子",
+        "stage": 3,
+        "level": 40,
+        "unit_type": [
+          11
+        ]
       }
     ],
     "talent_random_id": 2
@@ -4719,6 +5095,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 115,
@@ -4753,12 +5130,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5020,
+        "lord_pet_name": "波普鹿"
+      }
+    ]
   },
   {
     "id": 129,
     "name": "路路尼进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -4782,6 +5166,7 @@
     "id": 130,
     "name": "嘟嘟煲进化链",
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4816,6 +5201,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 118,
@@ -4850,13 +5236,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5024,
+        "lord_pet_name": "奇梦咪"
+      }
+    ]
   },
   {
     "id": 132,
     "name": "旋叶虫进化链（金黄的样子）",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -4895,7 +5288,13 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5056,
+        "lord_pet_name": "暮风隐者"
+      }
+    ]
   },
   {
     "id": 133,
@@ -4903,6 +5302,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 120,
@@ -4947,6 +5347,7 @@
     "name": "深蓝鲸进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 121,
@@ -4970,6 +5371,7 @@
     "name": "双灯鱼进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5006,6 +5408,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 123,
@@ -5050,6 +5453,7 @@
     "name": "科多多进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 124,
@@ -5083,6 +5487,7 @@
     "id": 138,
     "name": "凡雀进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5125,6 +5530,7 @@
     "name": "里奥进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 126,
@@ -5165,6 +5571,7 @@
     "id": 140,
     "name": "星尘虫进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5207,6 +5614,7 @@
     "name": "伊里斯进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 128,
@@ -5228,10 +5636,11 @@
   },
   {
     "id": 142,
-    "name": "晶尾蝎进化链",
+    "name": "碎晶蝎进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 129,
     "evolution_group": 109,
@@ -5239,9 +5648,19 @@
     "statistics_evolution_group": 142,
     "evolution_chain": [
       {
+        "petbase_id": 3402,
+        "pet_name": "碎晶蝎",
+        "stage": 1,
+        "unit_type": [
+          18,
+          8
+        ]
+      },
+      {
         "petbase_id": 3403,
         "pet_name": "晶尾蝎",
-        "stage": 1,
+        "stage": 2,
+        "level": 20,
         "unit_type": [
           18,
           8
@@ -5250,8 +5669,8 @@
       {
         "petbase_id": 3404,
         "pet_name": "蝎子王",
-        "stage": 2,
-        "level": 36,
+        "stage": 3,
+        "level": 40,
         "unit_type": [
           18,
           8
@@ -5266,6 +5685,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 130,
@@ -5298,6 +5718,7 @@
     "name": "齿轮小子进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5332,6 +5753,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 132,
@@ -5364,6 +5786,7 @@
     "name": "格斗小五进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 133,
@@ -5386,6 +5809,7 @@
     "id": 147,
     "name": "格斗小六进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5410,6 +5834,7 @@
     "name": "格斗小八进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 135,
@@ -5432,6 +5857,7 @@
     "id": 149,
     "name": "厉毒小萝进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5467,6 +5893,7 @@
     "name": "破梦者进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 137,
@@ -5498,6 +5925,7 @@
     "id": 151,
     "name": "空灵兽进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5531,6 +5959,7 @@
     "name": "三叶草龙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 139,
@@ -5563,6 +5992,7 @@
     "name": "麦香驼进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 140,
@@ -5585,6 +6015,7 @@
     "id": 154,
     "name": "臭臭锥进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5621,6 +6052,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 142,
@@ -5644,6 +6076,7 @@
     "id": 156,
     "name": "海枝枝进化链（杏黄百合）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5669,6 +6102,7 @@
     "name": "海枝枝进化链（洋红沙丁）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 142,
@@ -5692,6 +6126,7 @@
     "id": 158,
     "name": "海枝枝进化链（翠绿纶布）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5717,6 +6152,7 @@
     "name": "小电企鹅进化链",
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 143,
@@ -5751,6 +6187,7 @@
     "name": "柴渣虫进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5787,6 +6224,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       1,
+      99,
       99
     ],
     "pvp_mute_group": 145,
@@ -5819,9 +6257,12 @@
     "name": "梦游进化链（穿星星睡衣的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 145,
+    "evolution_group": 1017,
+    "handbook_evolution_group": 1017,
     "statistics_evolution_group": 161,
     "evolution_chain": [
       {
@@ -5850,6 +6291,7 @@
     "id": 163,
     "name": "小星光进化链（月光能量的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5885,6 +6327,7 @@
     "name": "噼啪鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 146,
@@ -5909,6 +6352,7 @@
     "name": "雪毛角羚牛进化链（本来的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 147,
@@ -5932,6 +6376,7 @@
     "name": "雪毛角羚牛进化链（卷角的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 147,
@@ -5954,6 +6399,7 @@
     "id": 167,
     "name": "雪毛角羚牛进化链（换角时的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -5979,6 +6425,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 148,
@@ -6013,6 +6460,7 @@
     "name": "月牙雪熊进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 149,
@@ -6037,7 +6485,8 @@
     "name": "星云旅者进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 150,
     "evolution_group": 127,
@@ -6060,6 +6509,7 @@
     "id": 171,
     "name": "钻地小子进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6105,6 +6555,7 @@
     "name": "布瓜蝌进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 152,
@@ -6136,6 +6587,7 @@
     "id": 173,
     "name": "地鼠进化链（储水时的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6178,6 +6630,7 @@
     "name": "小狮鹫进化链（高山地的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 50,
@@ -6219,6 +6672,7 @@
     "name": "海盔虫进化链（磨损的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 110,
@@ -6256,12 +6710,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5029,
+        "lord_pet_name": "千棘海针"
+      }
+    ]
   },
   {
     "id": 176,
     "name": "鸭吉吉进化链（急急急鸭）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6279,12 +6740,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5037,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 177,
     "name": "鸭吉吉进化链（等一等鸭）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6302,12 +6770,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5038,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 178,
     "name": "板板壳进化链（蜕皮时的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6349,6 +6824,7 @@
     "id": 179,
     "name": "幽星光进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6394,6 +6870,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 154,
@@ -6428,6 +6905,7 @@
     "name": "吸泥鸥进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 155,
@@ -6455,13 +6933,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5057,
+        "lord_pet_name": "淤泥乌泽"
+      }
+    ]
   },
   {
     "id": 182,
     "name": "兽花蕾进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      1,
       1,
       1
     ],
@@ -6488,6 +6973,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 157,
@@ -6512,6 +6998,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 158,
@@ -6547,6 +7034,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 159,
@@ -6592,6 +7080,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 160,
@@ -6614,6 +7103,7 @@
     "id": 187,
     "name": "水星尾进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6648,6 +7138,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 162,
@@ -6681,6 +7172,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 163,
@@ -6712,6 +7204,7 @@
     "id": 190,
     "name": "多灵进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6745,6 +7238,7 @@
     "name": "圣剑侍从进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 165,
@@ -6770,13 +7264,20 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5021,
+        "lord_pet_name": "圣剑骑士"
+      }
+    ]
   },
   {
     "id": 192,
     "name": "栗鼠进化链",
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6810,6 +7311,7 @@
     "name": "小黑猫进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 167,
@@ -6835,12 +7337,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5007,
+        "lord_pet_name": "黑猫密探"
+      }
+    ]
   },
   {
     "id": 194,
     "name": "松仔进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6886,6 +7395,7 @@
     "name": "水滴蛇进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 169,
@@ -6929,6 +7439,7 @@
     "id": 196,
     "name": "小勇狮进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -6974,6 +7485,7 @@
     "name": "毛头小蛛进化链（捕尘长绒分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 171,
@@ -7009,6 +7521,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 172,
@@ -7042,6 +7555,7 @@
     "id": 199,
     "name": "不咕钟进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7078,6 +7592,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 174,
@@ -7111,6 +7626,7 @@
     "id": 201,
     "name": "可立鸡进化链（武者鸡分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7154,6 +7670,7 @@
     "name": "矿晶虫进化链（莲花刚玉的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 105,
@@ -7181,12 +7698,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5047,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 203,
     "name": "矿晶虫进化链（星彩榴石的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7215,12 +7739,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5048,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 204,
     "name": "矿晶虫进化链（火山琉璃的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7249,12 +7780,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5049,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 205,
     "name": "矿晶虫进化链（蓝锥矿的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7283,12 +7821,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5050,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 206,
     "name": "脆筒甜甜进化链（樱桃草莓口味）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7331,6 +7876,7 @@
     "name": "脆筒甜甜进化链（樱桃抹茶口味）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 49,
@@ -7371,6 +7917,7 @@
     "id": 208,
     "name": "脆筒甜甜进化链（蓝莓巧克力口味）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7413,6 +7960,7 @@
     "name": "脆筒甜甜进化链（蓝莓草莓口味）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 49,
@@ -7453,6 +8001,7 @@
     "id": 210,
     "name": "脆筒甜甜进化链（蓝莓抹茶口味）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7495,6 +8044,7 @@
     "name": "脆筒甜甜进化链（杨桃巧克力口味）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 49,
@@ -7535,6 +8085,7 @@
     "id": 212,
     "name": "脆筒甜甜进化链（杨桃草莓口味）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7577,6 +8128,7 @@
     "name": "脆筒甜甜进化链（杨桃抹茶口味）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 49,
@@ -7617,6 +8169,7 @@
     "id": 214,
     "name": "毛毛进化链（幽冥眼的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7660,6 +8213,7 @@
     "name": "毛毛进化链（喵喵的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 53,
@@ -7701,6 +8255,7 @@
     "id": 216,
     "name": "毛毛进化链（奇丽花的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7744,6 +8299,7 @@
     "name": "小灵面进化链（闭眼的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 26,
@@ -7785,6 +8341,7 @@
     "name": "矿晶虫进化链（烧蓝黄金的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 105,
@@ -7812,12 +8369,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5051,
+        "lord_pet_name": "钻石蜗"
+      }
+    ]
   },
   {
     "id": 219,
     "name": "旋叶虫进化链（枯叶的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7856,12 +8420,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5062,
+        "lord_pet_name": "暮风隐者"
+      }
+    ]
   },
   {
     "id": 220,
     "name": "石肤蜥进化链（球球尾巴的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7904,6 +8475,7 @@
     "name": "果冻进化链（椰浆布丁分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 47,
@@ -7936,6 +8508,7 @@
     "id": 222,
     "name": "果冻进化链（熔岩布丁分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -7971,6 +8544,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 175,
@@ -8014,6 +8588,7 @@
     "id": 224,
     "name": "乌达进化链（极夜的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8060,6 +8635,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 176,
@@ -8087,12 +8663,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5023,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 226,
     "name": "棋棋进化链（白棋棋绮后分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8121,12 +8704,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5040,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 227,
     "name": "棋棋进化链（白棋棋齐垒分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8155,12 +8745,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5041,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 228,
     "name": "棋棋进化链（白棋棋祈督分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8189,12 +8786,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5042,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 229,
     "name": "棋棋进化链（黑棋棋骑士分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8223,12 +8827,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5043,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 230,
     "name": "棋棋进化链（黑棋棋绮后分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8257,12 +8868,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5044,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 231,
     "name": "棋棋进化链（黑棋棋齐垒分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8291,12 +8909,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5045,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 232,
     "name": "棋棋进化链（黑棋棋祈督分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8325,12 +8950,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5046,
+        "lord_pet_name": "棋契陛下"
+      }
+    ]
   },
   {
     "id": 233,
     "name": "乖乖鹄进化链（黑羽夫人分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8376,6 +9008,7 @@
     "name": "刺轮砣进化链（上弦的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 177,
@@ -8411,6 +9044,7 @@
     "allow_show_team_battle_star": 1,
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 177,
@@ -8444,6 +9078,7 @@
     "id": 236,
     "name": "画精灵进化链（画间法师手分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8487,6 +9122,7 @@
     "name": "画精灵进化链（画间沉铁兽分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 178,
@@ -8528,6 +9164,7 @@
     "id": 238,
     "name": "书魔虫进化链（古卷执政官分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8571,6 +9208,7 @@
     "name": "书魔虫进化链（古卷匣魔像分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 179,
@@ -8613,6 +9251,7 @@
     "name": "呱呱进化链（学院呱呱）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 180,
@@ -8635,6 +9274,7 @@
     "id": 241,
     "name": "古钟蛇进化链（本命年的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8668,6 +9308,7 @@
     "name": "粉星仔进化链（落陨星兔分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 108,
@@ -8700,6 +9341,7 @@
     "id": 244,
     "name": "毛头小蛛进化链（食尘短绒分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8735,6 +9377,7 @@
     "name": "噬影蚕进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 181,
@@ -8768,6 +9411,7 @@
     "name": "小冥龙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 182,
@@ -8800,6 +9444,7 @@
     "id": 247,
     "name": "矮核球进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8840,6 +9485,7 @@
     "name": "野外首领梦想三三进化链（废弃）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 118,
@@ -8876,6 +9522,7 @@
     "id": 249,
     "name": "野外首领雪影娃娃进化链（废弃）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -8917,6 +9564,7 @@
     "name": "地银链进化链（单头的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 184,
@@ -8948,6 +9596,7 @@
     "name": "地银链进化链（多头的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 184,
@@ -8978,6 +9627,7 @@
     "id": 252,
     "name": "荆伞兽进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9012,6 +9662,7 @@
     "name": "蝶兰花进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 186,
@@ -9044,6 +9695,7 @@
     "id": 254,
     "name": "桃花苞进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9084,6 +9736,7 @@
     "name": "菌宝进化链（竹笙仔分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 188,
@@ -9122,6 +9775,7 @@
     "id": 256,
     "name": "菌宝进化链（芝芝酥分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9162,6 +9816,7 @@
     "name": "菌宝进化链（三坛枞分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 188,
@@ -9200,6 +9855,7 @@
     "id": 258,
     "name": "菌宝进化链（小红侍分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9240,6 +9896,7 @@
     "name": "鹿鸣笙进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 189,
@@ -9270,6 +9927,7 @@
     "id": 260,
     "name": "笔童进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9310,6 +9968,7 @@
     "name": "好鳄椰进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 191,
@@ -9342,6 +10001,7 @@
     "id": 262,
     "name": "海豚宝进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9382,6 +10042,7 @@
     "name": "加油海葵进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 193,
@@ -9416,6 +10077,7 @@
     "name": "脆鸣鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 194,
@@ -9446,6 +10108,7 @@
     "id": 265,
     "name": "量风碗进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9480,6 +10143,7 @@
     "name": "丁丁猫进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 196,
@@ -9512,6 +10176,7 @@
     "id": 267,
     "name": "仙羽进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9552,6 +10217,7 @@
     "name": "蛐曲儿进化链（长翎将军分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 198,
@@ -9583,6 +10249,7 @@
     "id": 269,
     "name": "蛐曲儿进化链（曲鸣大将分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9616,6 +10283,7 @@
     "name": "荆棘笼进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 199,
@@ -9646,6 +10314,7 @@
     "id": 271,
     "name": "守夜烛进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9681,6 +10350,7 @@
     "name": "烟花团进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 201,
@@ -9715,6 +10385,7 @@
     "name": "蒸汽胖胖进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 202,
@@ -9748,6 +10419,7 @@
     "name": "剪影影进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 203,
@@ -9778,6 +10450,7 @@
     "id": 275,
     "name": "咕咕帽进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9810,6 +10483,7 @@
     "id": 276,
     "name": "幽冥狐进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9850,6 +10524,7 @@
     "name": "蔷薇茧进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 206,
@@ -9880,6 +10555,7 @@
     "id": 278,
     "name": "问卜兽进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9912,6 +10588,7 @@
     "name": "梦杯进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 208,
@@ -9942,6 +10619,7 @@
     "id": 280,
     "name": "毛线虫进化链（梭织团团分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -9975,6 +10653,7 @@
     "name": "毛线虫进化链（针织哼哼分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 209,
@@ -10006,6 +10685,7 @@
     "id": 282,
     "name": "稻草人进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10041,6 +10721,7 @@
     "name": "不香芋进化链（去污香芋分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 211,
@@ -10073,6 +10754,7 @@
     "id": 284,
     "name": "不香芋进化链（嗜污香芋分支）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10107,6 +10789,7 @@
     "name": "啄疫鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 212,
@@ -10140,6 +10823,7 @@
     "name": "优优进化链",
     "allow_show_team_battle_star_array": [
       99,
+      1,
       1
     ],
     "pvp_mute_group": 213,
@@ -10173,6 +10857,7 @@
     "id": 287,
     "name": "蜜果骸进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10208,6 +10893,7 @@
     "name": "小鼓象进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 215,
@@ -10240,6 +10926,7 @@
     "name": "咬咬小子进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 216,
@@ -10271,6 +10958,7 @@
     "id": 290,
     "name": "封印守卫进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10311,6 +10999,7 @@
     "name": "格斗小七进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 218,
@@ -10333,6 +11022,7 @@
     "id": 292,
     "name": "糖串串进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10364,6 +11054,7 @@
     "id": 293,
     "name": "足尖元件进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10399,6 +11090,7 @@
     "name": "猴麦仔进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 221,
@@ -10433,6 +11125,7 @@
     "name": "骨朵鸟进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 222,
@@ -10466,6 +11159,7 @@
     "id": 296,
     "name": "钨丝贝贝进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10507,6 +11201,7 @@
     "name": "炫光迪迪进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 224,
@@ -10541,6 +11236,7 @@
     "name": "小怂猫进化链（山间竹林的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 90,
@@ -10570,6 +11266,7 @@
     "id": 299,
     "name": "松仔进化链（悲鸣的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10611,6 +11308,7 @@
     "name": "水滴蛇进化链（悲鸣的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 169,
@@ -10651,6 +11349,7 @@
     "name": "小勇狮进化链（悲鸣的样子）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 170,
@@ -10690,6 +11389,7 @@
     "id": 302,
     "name": "波波螺进化链（被污染的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10735,6 +11435,7 @@
     "name": "十字蝌蚪进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 225,
@@ -10777,6 +11478,7 @@
     "name": "鸭吉吉进化链（燃了鸭）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 9,
@@ -10793,12 +11495,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5039,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 305,
     "name": "小雪人进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10831,6 +11540,7 @@
     "id": 306,
     "name": "小丑豆豆进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -10873,6 +11583,7 @@
     "name": "爆焰仔进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 228,
@@ -10907,6 +11618,7 @@
     "name": "墨鱿士进化链（混乱鱿彩分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 229,
@@ -10939,6 +11651,7 @@
     "name": "墨鱿士进化链（秩序鱿墨分支）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 229,
@@ -10970,6 +11683,7 @@
     "id": 310,
     "name": "蝴蝶陶陶进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -11012,6 +11726,7 @@
     "name": "鸭吉吉进化链（起来鸭）",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 9,
@@ -11028,12 +11743,19 @@
         ]
       }
     ],
-    "talent_random_id": 2
+    "talent_random_id": 2,
+    "lordevo_chain": [
+      {
+        "lord_petbase_id": 5052,
+        "lord_pet_name": "鸭吉吉国王"
+      }
+    ]
   },
   {
     "id": 312,
     "name": "玳龟进化链",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -11066,6 +11788,7 @@
     "name": "火红尾进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 232,
@@ -11096,11 +11819,12 @@
     "name": "莫比乌乌进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 233,
-    "evolution_group": 197,
-    "handbook_evolution_group": 197,
+    "evolution_group": 162,
+    "handbook_evolution_group": 162,
     "statistics_evolution_group": 298,
     "evolution_chain": [
       {
@@ -11128,11 +11852,12 @@
     "name": "森豆丁进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 234,
-    "evolution_group": 197,
-    "handbook_evolution_group": 197,
+    "evolution_group": 72,
+    "handbook_evolution_group": 72,
     "statistics_evolution_group": 299,
     "evolution_chain": [
       {
@@ -11163,19 +11888,20 @@
   },
   {
     "id": 316,
-    "name": "丁丁卯进化链",
+    "name": "叮叮卯进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 235,
-    "evolution_group": 197,
-    "handbook_evolution_group": 197,
+    "evolution_group": 75,
+    "handbook_evolution_group": 75,
     "statistics_evolution_group": 300,
     "evolution_chain": [
       {
         "petbase_id": 3752,
-        "pet_name": "丁丁卯",
+        "pet_name": "叮叮卯",
         "stage": 1,
         "unit_type": [
           19,
@@ -11184,7 +11910,7 @@
       },
       {
         "petbase_id": 3753,
-        "pet_name": "卯山咪钥",
+        "pet_name": "飞飞钥",
         "stage": 2,
         "unit_type": [
           19,
@@ -11198,11 +11924,12 @@
     "name": "火豆丁进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 236,
-    "evolution_group": 197,
-    "handbook_evolution_group": 197,
+    "evolution_group": 136,
+    "handbook_evolution_group": 136,
     "statistics_evolution_group": 301,
     "evolution_chain": [
       {
@@ -11236,11 +11963,12 @@
     "name": "点点进化链",
     "allow_show_team_battle_star_array": [
       99,
-      99
+      99,
+      1
     ],
     "pvp_mute_group": 237,
-    "evolution_group": 197,
-    "handbook_evolution_group": 197,
+    "evolution_group": 151,
+    "handbook_evolution_group": 151,
     "statistics_evolution_group": 302,
     "evolution_chain": [
       {
@@ -11265,6 +11993,7 @@
     "id": 319,
     "name": "加油海葵进化链（单只海葵的样子）",
     "allow_show_team_battle_star_array": [
+      99,
       99,
       99
     ],
@@ -11300,11 +12029,12 @@
     "name": "宝藏小狐进化链",
     "allow_show_team_battle_star_array": [
       99,
+      99,
       99
     ],
     "pvp_mute_group": 238,
-    "evolution_group": 162,
-    "handbook_evolution_group": 162,
+    "evolution_group": 198,
+    "handbook_evolution_group": 198,
     "statistics_evolution_group": 303,
     "evolution_chain": [
       {
@@ -11323,6 +12053,386 @@
         "unit_type": [
           2
         ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 321,
+    "name": "苞米仔进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 239,
+    "evolution_group": 199,
+    "handbook_evolution_group": 199,
+    "statistics_evolution_group": 304,
+    "evolution_chain": [
+      {
+        "petbase_id": 3759,
+        "pet_name": "苞米仔",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3760,
+        "pet_name": "炮米花",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 322,
+    "name": "诅咒狼灵进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 240,
+    "statistics_evolution_group": 305,
+    "evolution_chain": [
+      {
+        "petbase_id": 3761,
+        "pet_name": "诅咒狼灵",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3762,
+        "pet_name": "新月狼灵",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3763,
+        "pet_name": "银月狼王",
+        "stage": 3,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 323,
+    "name": "新月鹭进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 241,
+    "statistics_evolution_group": 306,
+    "evolution_chain": [
+      {
+        "petbase_id": 3764,
+        "pet_name": "新月鹭",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3765,
+        "pet_name": "月辉鹭",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3766,
+        "pet_name": "月使鹭纳",
+        "stage": 3,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 324,
+    "name": "章脑丸进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 242,
+    "statistics_evolution_group": 307,
+    "evolution_chain": [
+      {
+        "petbase_id": 3767,
+        "pet_name": "章脑丸",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3768,
+        "pet_name": "智辉章脑",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 325,
+    "name": "乌头蝇进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 243,
+    "statistics_evolution_group": 308,
+    "evolution_chain": [
+      {
+        "petbase_id": 3769,
+        "pet_name": "乌头蝇",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3770,
+        "pet_name": "乌蝇飞贼",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 326,
+    "name": "小浣蛋进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 244,
+    "statistics_evolution_group": 309,
+    "evolution_chain": [
+      {
+        "petbase_id": 3771,
+        "pet_name": "小浣蛋",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3772,
+        "pet_name": "黑手浣熊",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 327,
+    "name": "幽铃进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 245,
+    "statistics_evolution_group": 310,
+    "evolution_chain": [
+      {
+        "petbase_id": 3773,
+        "pet_name": "幽铃",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3774,
+        "pet_name": "摇铃魔偶",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 328,
+    "name": "布灵进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 246,
+    "statistics_evolution_group": 311,
+    "evolution_chain": [
+      {
+        "petbase_id": 3775,
+        "pet_name": "布灵",
+        "stage": 1,
+        "unit_type": [
+          16
+        ]
+      },
+      {
+        "petbase_id": 3776,
+        "pet_name": "布灵布灵",
+        "stage": 2,
+        "level": 36,
+        "unit_type": [
+          16
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 329,
+    "name": "睡铃雪影娃娃进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 247,
+    "evolution_group": 200,
+    "handbook_evolution_group": 200,
+    "statistics_evolution_group": 312,
+    "evolution_chain": [
+      {
+        "petbase_id": 3746,
+        "pet_name": "睡铃雪影娃娃",
+        "stage": 1,
+        "unit_type": [
+          9,
+          3
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 330,
+    "name": "雪灵兽进化链",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      1
+    ],
+    "pvp_mute_group": 248,
+    "evolution_group": 201,
+    "handbook_evolution_group": 201,
+    "statistics_evolution_group": 313,
+    "evolution_chain": [
+      {
+        "petbase_id": 3341,
+        "pet_name": "雪灵兽",
+        "stage": 1,
+        "unit_type": [
+          9
+        ]
+      },
+      {
+        "petbase_id": 3342,
+        "pet_name": "幻雪兽",
+        "stage": 2,
+        "level": 32,
+        "unit_type": [
+          9
+        ]
+      },
+      {
+        "petbase_id": 3343,
+        "pet_name": "饮雪狂兽",
+        "stage": 3,
+        "level": 48,
+        "unit_type": [
+          9
+        ]
+      }
+    ],
+    "talent_random_id": 2
+  },
+  {
+    "id": 332,
+    "name": "加灵进化链（黑化的样子）",
+    "allow_show_team_battle_star_array": [
+      99,
+      99,
+      99
+    ],
+    "pvp_mute_group": 87,
+    "evolution_group": 2015,
+    "handbook_evolution_group": 2015,
+    "statistics_evolution_group": 88,
+    "evolution_chain": [
+      {
+        "petbase_id": 3230,
+        "pet_name": "加灵",
+        "stage": 1,
+        "unit_type": [
+          2
+        ]
+      },
+      {
+        "petbase_id": 3231,
+        "pet_name": "加益",
+        "stage": 2,
+        "level": 100,
+        "unit_type": [
+          2
+        ]
+      },
+      {
+        "petbase_id": 3233,
+        "pet_name": "黑化加尔",
+        "stage": 3,
+        "level": 100,
+        "unit_type": [
+          2,
+          17
+        ],
+        "skill_res": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Evolution/G6_Evolution_JiaEr_World.G6_Evolution_JiaEr_World_C'",
+        "battle_skill_res": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Evolution/G6_Evolution_JiaEr_Battle.G6_Evolution_JiaEr_Battle_C'"
       }
     ],
     "talent_random_id": 2

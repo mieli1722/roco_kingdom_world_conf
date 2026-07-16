@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "editor_name": "主角冲刺",
     "server_move_type": 3,
     "vitality_cost": {
       "cost_per_seconds": 125,
@@ -11,7 +10,6 @@
   },
   {
     "id": 2,
-    "editor_name": "骑乘狼冲刺",
     "server_move_type": 3,
     "vitality_cost": {
       "cost_per_seconds": 230,
@@ -21,7 +19,6 @@
   },
   {
     "id": 3,
-    "editor_name": "主角游泳",
     "server_move_type": 11,
     "vitality_cost": {
       "cost_per_seconds": 25,
@@ -31,7 +28,6 @@
   },
   {
     "id": 4,
-    "editor_name": "主角游泳冲刺",
     "server_move_type": 12,
     "vitality_cost": {
       "cost_per_seconds": 75,
@@ -41,7 +37,6 @@
   },
   {
     "id": 5,
-    "editor_name": "主角攀爬",
     "server_move_type": 17,
     "vitality_cost": {
       "min_start": 100,
@@ -52,7 +47,6 @@
   },
   {
     "id": 6,
-    "editor_name": "主角攀爬跳跃",
     "server_move_type": 18,
     "vitality_cost": {
       "min_start": 1,
@@ -61,7 +55,6 @@
   },
   {
     "id": 7,
-    "editor_name": "主角感知技能",
     "vitality_cost": {
       "cost_per_seconds": 100,
       "decay_threshold_percent": 25,
@@ -70,7 +63,6 @@
   },
   {
     "id": 8,
-    "editor_name": "冬雨雀飞升",
     "server_move_type": 6,
     "vitality_cost": {
       "cost_per_seconds": 200,
@@ -80,7 +72,6 @@
   },
   {
     "id": 9,
-    "editor_name": "蒲公英飞升",
     "server_move_type": 6,
     "vitality_cost": {
       "cost_per_seconds": 160,
@@ -90,7 +81,6 @@
   },
   {
     "id": 10,
-    "editor_name": "岚鸟飞升",
     "server_move_type": 6,
     "vitality_cost": {
       "cost_per_seconds": 200,
@@ -100,7 +90,6 @@
   },
   {
     "id": 11,
-    "editor_name": "冬雨雀滑翔",
     "vitality_cost": {
       "cost_per_seconds": 20,
       "decay_threshold_percent": 25,
@@ -109,7 +98,6 @@
   },
   {
     "id": 12,
-    "editor_name": "蒲公英滑翔",
     "vitality_cost": {
       "cost_per_seconds": 20,
       "decay_threshold_percent": 25,
@@ -118,7 +106,6 @@
   },
   {
     "id": 13,
-    "editor_name": "岚鸟滑翔",
     "vitality_cost": {
       "cost_per_seconds": 20,
       "decay_threshold_percent": 25,
@@ -127,7 +114,6 @@
   },
   {
     "id": 10001,
-    "editor_name": "代步1",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -155,7 +141,6 @@
   },
   {
     "id": 10002,
-    "editor_name": "代步2",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -183,7 +168,6 @@
   },
   {
     "id": 10003,
-    "editor_name": "代步3",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -211,7 +195,6 @@
   },
   {
     "id": 10004,
-    "editor_name": "代步4",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -239,7 +222,6 @@
   },
   {
     "id": 10005,
-    "editor_name": "代步5",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -267,7 +249,6 @@
   },
   {
     "id": 10006,
-    "editor_name": "代步6",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -295,7 +276,6 @@
   },
   {
     "id": 10101,
-    "editor_name": "代步1-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -323,7 +303,6 @@
   },
   {
     "id": 10102,
-    "editor_name": "代步2-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -351,7 +330,6 @@
   },
   {
     "id": 10103,
-    "editor_name": "代步3-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -379,7 +357,6 @@
   },
   {
     "id": 10104,
-    "editor_name": "代步4-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -407,7 +384,6 @@
   },
   {
     "id": 10105,
-    "editor_name": "代步5-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -435,7 +411,6 @@
   },
   {
     "id": 10106,
-    "editor_name": "代步6-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -463,7 +438,6 @@
   },
   {
     "id": 10201,
-    "editor_name": "代步1-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -491,7 +465,6 @@
   },
   {
     "id": 10202,
-    "editor_name": "代步2-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -519,7 +492,6 @@
   },
   {
     "id": 10203,
-    "editor_name": "代步3-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -547,7 +519,6 @@
   },
   {
     "id": 10204,
-    "editor_name": "代步4-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -575,7 +546,6 @@
   },
   {
     "id": 10205,
-    "editor_name": "代步5-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -603,7 +573,6 @@
   },
   {
     "id": 10206,
-    "editor_name": "代步6-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -630,8 +599,34 @@
     ]
   },
   {
+    "id": 10301,
+    "move_type": 1,
+    "vitality_cost": {
+      "min_start": 80,
+      "cost_per_seconds": 30,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "BaseMaxSpeed:430",
+    "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_2",
+    "move_param_4": "DeAccelerateCurve:Run_Normal/ride_deacc_curve_2",
+    "move_param_5": "LinerAngularSpeedCurve:Run_Normal/ride_angular_2",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
     "id": 11001,
-    "editor_name": "杂耍1-抱1",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -659,7 +654,6 @@
   },
   {
     "id": 11002,
-    "editor_name": "杂耍2-昏睡纺锤/蜂后",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -688,7 +682,6 @@
   },
   {
     "id": 11003,
-    "editor_name": "杂耍3-慢速昆虫/鱼类陆地",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -716,7 +709,6 @@
   },
   {
     "id": 11004,
-    "editor_name": "杂耍4-遁地鼠",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -744,7 +736,6 @@
   },
   {
     "id": 11005,
-    "editor_name": "杂耍5-白发路路/菊花梨",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -773,7 +764,6 @@
   },
   {
     "id": 11006,
-    "editor_name": "杂耍6-怖哭菇/幽影树",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -802,7 +792,6 @@
   },
   {
     "id": 11007,
-    "editor_name": "杂耍7-魔草巫灵",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -830,7 +819,6 @@
   },
   {
     "id": 11008,
-    "editor_name": "杂耍8-手牵手",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -858,7 +846,6 @@
   },
   {
     "id": 11009,
-    "editor_name": "杂耍9-风滚暮虫",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -887,7 +874,6 @@
   },
   {
     "id": 11010,
-    "editor_name": "杂耍10-鸭吉吉/圣代甜甜",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -916,7 +902,6 @@
   },
   {
     "id": 11011,
-    "editor_name": "杂耍11-昆虫类攀爬",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -945,7 +930,6 @@
   },
   {
     "id": 11012,
-    "editor_name": "杂耍12-格兰球",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -973,7 +957,6 @@
   },
   {
     "id": 11013,
-    "editor_name": "杂耍13-迷迷眼",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1001,7 +984,6 @@
   },
   {
     "id": 11014,
-    "editor_name": "杂耍14-魔偶/嘟嘟煲",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1029,7 +1011,6 @@
   },
   {
     "id": 11015,
-    "editor_name": "杂耍15-抱2",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1057,7 +1038,6 @@
   },
   {
     "id": 11103,
-    "editor_name": "杂耍3-慢速昆虫/鱼类陆地",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1085,7 +1065,6 @@
   },
   {
     "id": 11107,
-    "editor_name": "杂耍7-魔草巫灵-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1113,7 +1092,6 @@
   },
   {
     "id": 11108,
-    "editor_name": "杂耍8-手牵手2",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1141,7 +1119,6 @@
   },
   {
     "id": 11110,
-    "editor_name": "杂耍10-鸭吉吉/圣代甜甜-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1170,7 +1147,6 @@
   },
   {
     "id": 11111,
-    "editor_name": "杂耍11-昆虫类攀爬-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1199,7 +1175,6 @@
   },
   {
     "id": 11112,
-    "editor_name": "杂耍12-格兰球-2阶-果冻",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1227,7 +1202,6 @@
   },
   {
     "id": 11115,
-    "editor_name": "杂耍15-路路尼/卡瓦重-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1255,7 +1229,6 @@
   },
   {
     "id": 12001,
-    "editor_name": "赶路1",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1283,7 +1256,6 @@
   },
   {
     "id": 12002,
-    "editor_name": "赶路2",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1311,7 +1283,6 @@
   },
   {
     "id": 12101,
-    "editor_name": "赶路1-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1339,7 +1310,6 @@
   },
   {
     "id": 12102,
-    "editor_name": "赶路2-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1367,7 +1337,6 @@
   },
   {
     "id": 12201,
-    "editor_name": "赶路1-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1395,7 +1364,6 @@
   },
   {
     "id": 12202,
-    "editor_name": "赶路2-1阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1423,7 +1391,6 @@
   },
   {
     "id": 13001,
-    "editor_name": "地面移动-飞行",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1451,7 +1418,6 @@
   },
   {
     "id": 13002,
-    "editor_name": "地面移动-飞行-2阶",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1479,7 +1445,6 @@
   },
   {
     "id": 14001,
-    "editor_name": "跳跃-1-远跳-地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1507,7 +1472,6 @@
   },
   {
     "id": 14002,
-    "editor_name": "跳跃-2-地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1535,7 +1499,6 @@
   },
   {
     "id": 14003,
-    "editor_name": "跳跃-3-高跳-地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1563,7 +1526,6 @@
   },
   {
     "id": 14004,
-    "editor_name": "跳跃-4-地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1591,7 +1553,6 @@
   },
   {
     "id": 14005,
-    "editor_name": "跳跃-5-地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1619,7 +1580,6 @@
   },
   {
     "id": 15001,
-    "editor_name": "临时占位",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1634,7 +1594,6 @@
   },
   {
     "id": 20001,
-    "editor_name": "滑翔 骑背上大体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1666,7 +1625,6 @@
   },
   {
     "id": 20002,
-    "editor_name": "滑翔 骑背上 小体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1698,7 +1656,6 @@
   },
   {
     "id": 20003,
-    "editor_name": "滑翔 抓背包 大体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1730,7 +1687,6 @@
   },
   {
     "id": 20004,
-    "editor_name": "滑翔 抓背包 小体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1762,7 +1718,6 @@
   },
   {
     "id": 20005,
-    "editor_name": "滑翔 抓脚 大体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1793,7 +1748,6 @@
   },
   {
     "id": 20006,
-    "editor_name": "滑翔  抓脚 小体型",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1824,7 +1778,6 @@
   },
   {
     "id": 20007,
-    "editor_name": "滑翔 缓落",
     "move_type": 6,
     "vitality_cost": {
       "cost_per_seconds": 100,
@@ -1854,7 +1807,6 @@
   },
   {
     "id": 20008,
-    "editor_name": "滑翔 冬羽雀",
     "move_type": 6,
     "vitality_cost": {
       "min_start": 80,
@@ -1885,7 +1837,6 @@
   },
   {
     "id": 20009,
-    "editor_name": "贴地滑翔-特殊活动用",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -1917,7 +1868,6 @@
   },
   {
     "id": 30001,
-    "editor_name": "游泳1 现实",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -1946,7 +1896,6 @@
   },
   {
     "id": 30002,
-    "editor_name": "游泳2 鱼型",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -1975,7 +1924,6 @@
   },
   {
     "id": 30003,
-    "editor_name": "游泳3 鸭子",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2004,7 +1952,6 @@
   },
   {
     "id": 30004,
-    "editor_name": "游泳4 鱼类 涉水深度浅",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2033,7 +1980,6 @@
   },
   {
     "id": 30101,
-    "editor_name": "游泳1 现实-2阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2062,7 +2008,6 @@
   },
   {
     "id": 30102,
-    "editor_name": "游泳2 鱼型-2阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2091,7 +2036,6 @@
   },
   {
     "id": 30103,
-    "editor_name": "游泳3 鸭子-2阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2120,7 +2064,6 @@
   },
   {
     "id": 30104,
-    "editor_name": "游泳4 鱼类 涉水深度浅-2阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2149,7 +2092,6 @@
   },
   {
     "id": 30201,
-    "editor_name": "游泳1 现实-1阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2178,7 +2120,6 @@
   },
   {
     "id": 30202,
-    "editor_name": "游泳2 鱼型-1阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2207,7 +2148,6 @@
   },
   {
     "id": 30203,
-    "editor_name": "游泳3 鸭子-1阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2236,7 +2176,6 @@
   },
   {
     "id": 30204,
-    "editor_name": "游泳2 鱼类 涉水深度浅-1阶",
     "move_type": 4,
     "vitality_cost": {
       "min_start": 20,
@@ -2265,7 +2204,6 @@
   },
   {
     "id": 40001,
-    "editor_name": "跳跃-1-远跳",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 200,
@@ -2295,7 +2233,6 @@
   },
   {
     "id": 40002,
-    "editor_name": "跳跃-2 二段",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 200,
@@ -2326,7 +2263,6 @@
   },
   {
     "id": 40003,
-    "editor_name": "跳跃-3-高跳",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 100,
@@ -2356,7 +2292,6 @@
   },
   {
     "id": 40004,
-    "editor_name": "跳跃-4-小",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 100,
@@ -2386,7 +2321,6 @@
   },
   {
     "id": 40005,
-    "editor_name": "跳跃-5-大",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 200,
@@ -2416,7 +2350,6 @@
   },
   {
     "id": 40006,
-    "editor_name": "跳跃-抱",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 100,
@@ -2428,11 +2361,24 @@
     "move_param_4": "2000",
     "move_param_5": "650",
     "move_param_6": "25",
-    "move_param_7": "1"
+    "move_param_7": "1",
+    "property_modify_speed_param_1": [
+      5
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      -2000
+    ],
+    "property_modify_speed_param_3": 1
   },
   {
     "id": 40007,
-    "editor_name": "跳跃-帕尔萨斯高跳",
     "active_type": 2,
     "vitality_cost": {
       "min_start": 200,
@@ -2461,8 +2407,36 @@
     "property_modify_speed_param_3": 1
   },
   {
+    "id": 40008,
+    "active_type": 2,
+    "vitality_cost": {
+      "min_start": 100,
+      "start_cost": 100
+    },
+    "move_param_1": "500",
+    "move_param_2": "0",
+    "move_param_3": "1400",
+    "move_param_4": "2000",
+    "move_param_5": "650",
+    "move_param_6": "0",
+    "move_param_7": "1",
+    "property_modify_speed_param_1": [
+      5
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      -2000
+    ],
+    "property_modify_speed_param_3": 1
+  },
+  {
     "id": 50001,
-    "editor_name": "飞升 骑背上 大体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 300,
@@ -2480,7 +2454,6 @@
   },
   {
     "id": 50002,
-    "editor_name": "飞升 骑背上 小体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 263,
@@ -2498,7 +2471,6 @@
   },
   {
     "id": 50003,
-    "editor_name": "飞升 抓背包 大体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 215,
@@ -2516,7 +2488,6 @@
   },
   {
     "id": 50004,
-    "editor_name": "飞升 抓背包 小体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 200,
@@ -2534,7 +2505,6 @@
   },
   {
     "id": 50005,
-    "editor_name": "飞升  抓脚 大体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 150,
@@ -2554,7 +2524,6 @@
   },
   {
     "id": 50006,
-    "editor_name": "飞升  抓脚小体型",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 125,
@@ -2571,7 +2540,6 @@
   },
   {
     "id": 50007,
-    "editor_name": "地面飞升",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 150,
@@ -2588,7 +2556,6 @@
   },
   {
     "id": 50008,
-    "editor_name": "飞升 冬羽雀",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 125,
@@ -2606,7 +2573,6 @@
   },
   {
     "id": 60001,
-    "editor_name": "陆地冲刺1-小精灵冲刺",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 367,
@@ -2637,7 +2603,6 @@
   },
   {
     "id": 60002,
-    "editor_name": "陆地冲刺2-阶段减速快",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 223,
@@ -2668,7 +2633,6 @@
   },
   {
     "id": 60003,
-    "editor_name": "陆地冲刺3-阶段减速",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 584,
@@ -2699,7 +2663,6 @@
   },
   {
     "id": 60004,
-    "editor_name": "陆地冲刺4-持续匀速减速",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 217,
@@ -2730,7 +2693,6 @@
   },
   {
     "id": 60005,
-    "editor_name": "陆地冲刺5-长耐力精灵用",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 273,
@@ -2761,7 +2723,6 @@
   },
   {
     "id": 60006,
-    "editor_name": "陆地冲刺6-机械匀速加速",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 223,
@@ -2792,7 +2753,6 @@
   },
   {
     "id": 60007,
-    "editor_name": "陆地冲刺7-重型精灵",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 417,
@@ -2823,7 +2783,6 @@
   },
   {
     "id": 60101,
-    "editor_name": "陆地冲刺1-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 367,
@@ -2854,7 +2813,6 @@
   },
   {
     "id": 60102,
-    "editor_name": "陆地冲刺2-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 223,
@@ -2885,7 +2843,6 @@
   },
   {
     "id": 60103,
-    "editor_name": "陆地冲刺3-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 584,
@@ -2916,7 +2873,6 @@
   },
   {
     "id": 60104,
-    "editor_name": "陆地冲刺4-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 217,
@@ -2947,7 +2903,6 @@
   },
   {
     "id": 60105,
-    "editor_name": "陆地冲刺5-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 273,
@@ -2978,7 +2933,6 @@
   },
   {
     "id": 60106,
-    "editor_name": "陆地冲刺6-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 223,
@@ -3009,7 +2963,6 @@
   },
   {
     "id": 60107,
-    "editor_name": "陆地冲刺7-2阶",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 417,
@@ -3040,7 +2993,6 @@
   },
   {
     "id": 60108,
-    "editor_name": "陆地冲刺8-鸭吉吉",
     "active_type": 1,
     "vitality_cost": {
       "min_start": 417,
@@ -3071,7 +3023,6 @@
   },
   {
     "id": 70001,
-    "editor_name": "测试用-主动感知",
     "active_type": 3,
     "vitality_cost": {
       "cost_per_seconds": 100,
@@ -3081,7 +3032,6 @@
   },
   {
     "id": 70002,
-    "editor_name": "临时",
     "active_type": 3,
     "vitality_cost": {
       "cost_per_seconds": 50
@@ -3089,13 +3039,11 @@
   },
   {
     "id": 70003,
-    "editor_name": "第二主动技能为空-占位",
     "active_type": 14,
     "vitality_cost": {}
   },
   {
     "id": 80001,
-    "editor_name": "游泳冲刺-1.25",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 39,
@@ -3107,7 +3055,6 @@
   },
   {
     "id": 80002,
-    "editor_name": "游泳冲刺-1.5",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 47,
@@ -3119,7 +3066,6 @@
   },
   {
     "id": 80003,
-    "editor_name": "游泳冲刺-1.75",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 54,
@@ -3131,7 +3077,6 @@
   },
   {
     "id": 80004,
-    "editor_name": "游泳冲刺-2",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 62,
@@ -3143,7 +3088,6 @@
   },
   {
     "id": 80005,
-    "editor_name": "游泳冲刺-2.25",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 70,
@@ -3155,7 +3099,6 @@
   },
   {
     "id": 80006,
-    "editor_name": "游泳冲刺-2.5",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 78,
@@ -3167,7 +3110,6 @@
   },
   {
     "id": 80007,
-    "editor_name": "游泳冲刺-2.75",
     "active_type": 8,
     "vitality_cost": {
       "cost_per_seconds": 86,
@@ -3179,7 +3121,6 @@
   },
   {
     "id": 90001,
-    "editor_name": "望远镜-三倍",
     "active_type": 7,
     "vitality_cost": {
       "cost_per_seconds": 1,
@@ -3192,7 +3133,6 @@
   },
   {
     "id": 90002,
-    "editor_name": "望远镜-六倍",
     "active_type": 7,
     "vitality_cost": {
       "cost_per_seconds": 1,
@@ -3205,7 +3145,6 @@
   },
   {
     "id": 90003,
-    "editor_name": "望近镜- 一倍",
     "active_type": 7,
     "vitality_cost": {
       "cost_per_seconds": 1,
@@ -3218,7 +3157,6 @@
   },
   {
     "id": 90004,
-    "editor_name": "望近镜- 二倍",
     "active_type": 7,
     "vitality_cost": {
       "cost_per_seconds": 1,
@@ -3231,7 +3169,6 @@
   },
   {
     "id": 110001,
-    "editor_name": "蓄力冲刺-1阶",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3259,7 +3196,6 @@
   },
   {
     "id": 110002,
-    "editor_name": "蓄力冲刺-2阶",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3287,7 +3223,6 @@
   },
   {
     "id": 110003,
-    "editor_name": "蓄力冲刺-3阶",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3315,7 +3250,6 @@
   },
   {
     "id": 110004,
-    "editor_name": "蓄力冲刺-短",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3326,6 +3260,7 @@
     "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_time_curve_2.powerdash_time_curve_2",
     "move_param_3": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_speed_curve_4.powerdash_speed_curve_4",
     "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerDash/powerdash_original_curve.powerdash_original_curve",
+    "move_param_5": "0",
     "property_modify_speed_param_1": [
       3
     ],
@@ -3343,7 +3278,6 @@
   },
   {
     "id": 110005,
-    "editor_name": "蓄力冲刺-长距离",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3371,7 +3305,6 @@
   },
   {
     "id": 110006,
-    "editor_name": "蓄力冲刺-加速",
     "active_type": 6,
     "vitality_cost": {
       "min_start": 150,
@@ -3399,7 +3332,6 @@
   },
   {
     "id": 110007,
-    "editor_name": "无体力消耗冲刺",
     "active_type": 16,
     "vitality_cost": {},
     "move_param_1": "2.5",
@@ -3422,7 +3354,6 @@
   },
   {
     "id": 110008,
-    "editor_name": "突进",
     "active_type": 17,
     "vitality_cost": {},
     "move_param_1": "AnimSequence'/Game/ArtRes/AnimSequence/Pets/Win_FanQue2_001/Animation/Fight_Skill_4.Fight_Skill_4",
@@ -3431,7 +3362,6 @@
   },
   {
     "id": 120001,
-    "editor_name": "攀爬一阶",
     "move_type": 8,
     "vitality_cost": {
       "min_start": 100,
@@ -3458,7 +3388,6 @@
   },
   {
     "id": 120002,
-    "editor_name": "攀爬二阶",
     "move_type": 8,
     "vitality_cost": {
       "min_start": 100,
@@ -3485,7 +3414,6 @@
   },
   {
     "id": 120003,
-    "editor_name": "攀爬三阶",
     "move_type": 8,
     "vitality_cost": {
       "min_start": 100,
@@ -3512,7 +3440,6 @@
   },
   {
     "id": 130001,
-    "editor_name": "攀爬跳跃一阶",
     "active_type": 5,
     "vitality_cost": {
       "min_start": 290,
@@ -3536,7 +3463,6 @@
   },
   {
     "id": 130002,
-    "editor_name": "攀爬跳跃二阶",
     "active_type": 5,
     "vitality_cost": {
       "min_start": 315,
@@ -3560,7 +3486,6 @@
   },
   {
     "id": 130003,
-    "editor_name": "攀爬跳跃三阶",
     "active_type": 5,
     "vitality_cost": {
       "min_start": 370,
@@ -3584,7 +3509,6 @@
   },
   {
     "id": 130004,
-    "editor_name": "攀爬跳跃小",
     "active_type": 5,
     "vitality_cost": {
       "min_start": 210,
@@ -3608,7 +3532,6 @@
   },
   {
     "id": 130005,
-    "editor_name": "攀爬跳跃大",
     "active_type": 5,
     "vitality_cost": {
       "min_start": 370,
@@ -3632,7 +3555,6 @@
   },
   {
     "id": 140001,
-    "editor_name": "升空飞跃",
     "active_type": 9,
     "vitality_cost": {
       "min_start": 250,
@@ -3649,7 +3571,6 @@
   },
   {
     "id": 140002,
-    "editor_name": "升空二段跳",
     "active_type": 9,
     "vitality_cost": {
       "min_start": 250,
@@ -3666,7 +3587,6 @@
   },
   {
     "id": 140003,
-    "editor_name": "升空二段跳高速",
     "active_type": 9,
     "vitality_cost": {
       "min_start": 250,
@@ -3683,7 +3603,6 @@
   },
   {
     "id": 140004,
-    "editor_name": "后跳二段跳",
     "active_type": 9,
     "vitality_cost": {
       "min_start": 250,
@@ -3700,7 +3619,6 @@
   },
   {
     "id": 150001,
-    "editor_name": "水面跳跃三阶",
     "active_type": 11,
     "vitality_cost": {
       "min_start": 105,
@@ -3730,7 +3648,6 @@
   },
   {
     "id": 150002,
-    "editor_name": "水面跳跃二阶",
     "active_type": 11,
     "vitality_cost": {
       "min_start": 105,
@@ -3760,7 +3677,6 @@
   },
   {
     "id": 160001,
-    "editor_name": "钩锁测试",
     "active_type": 10,
     "vitality_cost": {
       "min_start": 400,
@@ -3792,7 +3708,6 @@
   },
   {
     "id": 160002,
-    "editor_name": "钩锁一阶",
     "active_type": 10,
     "vitality_cost": {
       "min_start": 400,
@@ -3824,7 +3739,6 @@
   },
   {
     "id": 160003,
-    "editor_name": "钩锁二阶",
     "active_type": 10,
     "vitality_cost": {
       "min_start": 400,
@@ -3856,7 +3770,6 @@
   },
   {
     "id": 160004,
-    "editor_name": "钩锁三阶",
     "active_type": 10,
     "vitality_cost": {
       "min_start": 400,
@@ -3888,7 +3801,6 @@
   },
   {
     "id": 170001,
-    "editor_name": "攀瀑三阶",
     "move_type": 14,
     "vitality_cost": {
       "min_start": 100,
@@ -3915,7 +3827,6 @@
   },
   {
     "id": 170002,
-    "editor_name": "攀瀑二阶",
     "move_type": 14,
     "vitality_cost": {
       "min_start": 100,
@@ -3942,7 +3853,6 @@
   },
   {
     "id": 180001,
-    "editor_name": "攀瀑跳跃三阶",
     "active_type": 13,
     "vitality_cost": {
       "min_start": 210,
@@ -3966,7 +3876,6 @@
   },
   {
     "id": 180002,
-    "editor_name": "攀瀑跳跃二阶",
     "active_type": 13,
     "vitality_cost": {
       "min_start": 210,
@@ -3990,13 +3899,11 @@
   },
   {
     "id": 190001,
-    "editor_name": "双人骑乘",
     "active_type": 12,
     "vitality_cost": {}
   },
   {
     "id": 200001,
-    "editor_name": "守护地-觅觅蝠地面移动",
     "move_type": 1,
     "vitality_cost": {
       "min_start": 80,
@@ -4011,7 +3918,6 @@
   },
   {
     "id": 200002,
-    "editor_name": "守护地-觅觅蝠滑翔",
     "move_type": 6,
     "vitality_cost": {},
     "move_param_1": "MaxAcceleration:525",
@@ -4025,7 +3931,6 @@
   },
   {
     "id": 200003,
-    "editor_name": "守护地-觅觅蝠上飞",
     "active_type": 4,
     "vitality_cost": {
       "min_start": 1,
@@ -4046,17 +3951,33 @@
   },
   {
     "id": 200004,
-    "editor_name": "守护地-芽眼魔特殊3C垂直飞行",
     "active_type": 18,
-    "vitality_cost": {
-      "min_start": 1
-    },
+    "vitality_cost": {},
+    "move_param_1": "400",
+    "move_param_2": "1000",
+    "move_param_3": "700",
+    "move_param_4": "false",
+    "move_param_5": "true"
+  },
+  {
+    "id": 200005,
+    "active_type": 23,
+    "vitality_cost": {},
     "move_param_1": "300",
     "move_param_2": "1000"
   },
   {
+    "id": 200006,
+    "move_type": 16,
+    "vitality_cost": {
+      "min_start": 1
+    },
+    "move_param_1": "300",
+    "move_param_2": "1000",
+    "move_param_3": "900"
+  },
+  {
     "id": 210001,
-    "editor_name": "平衡表演-小体型",
     "move_type": 15,
     "active_type": 15,
     "vitality_cost": {
@@ -4092,7 +4013,6 @@
   },
   {
     "id": 210002,
-    "editor_name": "平衡表演-大体型",
     "move_type": 15,
     "active_type": 15,
     "vitality_cost": {
@@ -4128,7 +4048,6 @@
   },
   {
     "id": 210003,
-    "editor_name": "平衡表演-越来越快",
     "move_type": 15,
     "active_type": 15,
     "vitality_cost": {
@@ -4161,5 +4080,106 @@
       1357,
       8000
     ]
+  },
+  {
+    "id": 220001,
+    "active_type": 20,
+    "vitality_cost": {
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
+    },
+    "move_param_1": "1",
+    "move_param_2": "0.2",
+    "move_param_3": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerJump/powerjump_timez_curve_1.powerjump_timez_curve_1",
+    "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerJump/powerjump_timexy_curve_1.powerjump_timexy_curve_1"
+  },
+  {
+    "id": 220002,
+    "active_type": 20,
+    "vitality_cost": {
+      "min_start": 150,
+      "start_cost": 200,
+      "idle_cost": true
+    },
+    "move_param_1": "1",
+    "move_param_2": "0.2",
+    "move_param_3": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerJump/powerjump_timez_curve_2.powerjump_timez_curve_2",
+    "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/PowerJump/powerjump_timexy_curve_2.powerjump_timexy_curve_2"
+  },
+  {
+    "id": 230001,
+    "active_type": 19,
+    "vitality_cost": {
+      "min_start": 1
+    },
+    "move_param_1": "200",
+    "move_param_2": "1.5",
+    "move_param_3": "1500",
+    "move_param_4": "5",
+    "move_param_5": "90",
+    "move_param_6": "3500"
+  },
+  {
+    "id": 240001,
+    "move_type": 16,
+    "vitality_cost": {
+      "min_start": 20,
+      "cost_per_seconds": 17,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "MaxAcceleration:400",
+    "move_param_2": "BaseMaxSpeed:480",
+    "move_param_3": "AccelerateCurve:Swim/ride_swim_acc_curve_1",
+    "move_param_4": "DeAccelerateCurve:Swim/ride_swim_deacc_curve_1",
+    "move_param_5": "LinerAngularSpeedCurve:Swim/ride_swim_angular_1",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
+    "id": 250001,
+    "active_type": 22,
+    "vitality_cost": {
+      "min_start": 200,
+      "start_cost": 200
+    },
+    "move_param_1": "1",
+    "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ride_throw_speed.ride_throw_speed",
+    "move_param_3": "10",
+    "move_param_4": "500",
+    "move_param_5": "0.1",
+    "move_param_6": "200"
+  },
+  {
+    "id": 250002,
+    "active_type": 22,
+    "vitality_cost": {
+      "min_start": 200,
+      "start_cost": 200
+    },
+    "move_param_1": "2",
+    "move_param_2": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/ride_throw_speed_2.ride_throw_speed_2",
+    "move_param_3": "10",
+    "move_param_4": "1000",
+    "move_param_5": "0.1",
+    "move_param_6": "200"
+  },
+  {
+    "id": 260001,
+    "active_type": 21,
+    "vitality_cost": {},
+    "move_param_1": "/Game/ArtRes/AnimSequence/Pets/Wat_AWaSha1_001/Animation/World_PenShui_loop.World_PenShui_loop"
   }
 ]

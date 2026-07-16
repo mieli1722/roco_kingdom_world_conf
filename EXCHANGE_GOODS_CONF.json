@@ -9,7 +9,6 @@
     "need_exchange_goods_id": 18,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 4000,
     "exchange_mail_id": 6000002
   },
   {
@@ -19,7 +18,6 @@
     "need_exchange_goods_id": 320038,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 1000,
     "exchange_mail_id": 200004
   },
   {
@@ -29,7 +27,6 @@
     "need_exchange_goods_id": 280002,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 80000,
     "exchange_mail_id": 6000001
   },
   {
@@ -39,7 +36,6 @@
     "need_exchange_goods_id": 51,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 1600,
     "exchange_mail_id": 200005
   },
   {
@@ -49,7 +45,6 @@
     "need_exchange_goods_id": 320037,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 1000,
     "exchange_mail_id": 80077
   },
   {
@@ -59,8 +54,8 @@
     "need_exchange_goods_id": 74,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 4000,
-    "exchange_mail_id": 6000004
+    "exchange_mail_id": 6000004,
+    "still_send": true
   },
   {
     "id": 1008,
@@ -69,17 +64,25 @@
     "need_exchange_goods_id": 280005,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 80000,
     "exchange_mail_id": 6000003
   },
   {
-    "id": 1009,
-    "exchange_time": "2026-07-16 04:00:01",
-    "need_exchange_goods_type": 1,
-    "need_exchange_goods_id": 320020,
+    "id": 1011,
+    "exchange_time": "2026-09-10 04:00:01",
+    "need_exchange_goods_type": 2,
+    "need_exchange_goods_id": 77,
     "exchange_goods_type": 2,
     "exchange_goods_id": 1,
-    "exchange_rate": 1000,
-    "exchange_mail_id": 80080
+    "exchange_mail_id": 6000007,
+    "still_send": true
+  },
+  {
+    "id": 1012,
+    "exchange_time": "2026-09-10 04:00:01",
+    "need_exchange_goods_type": 1,
+    "need_exchange_goods_id": 280007,
+    "exchange_goods_type": 2,
+    "exchange_goods_id": 1,
+    "exchange_mail_id": 6000008
   }
 ]

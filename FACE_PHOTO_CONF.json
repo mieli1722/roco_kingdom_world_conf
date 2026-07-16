@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "is_open": true,
+    "remark": "商城礼包",
+    "go_desc": "umg_FacePhoto_2",
+    "required_group": [
+      {
+        "required_param": [
+          9988
+        ]
+      },
+      {
+        "required_type": 1,
+        "required_param": [
+          8060,
+          18053,
+          18056
+        ]
+      },
+      {
+        "required_type": 3,
+        "required_param": [
+          1784145600
+        ]
+      }
+    ],
+    "go_interface": 20047,
+    "order": 2000,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/FacePhoto/Raw/Textures/img_FacePhoto_Bundle.img_FacePhoto_Bundle'",
+    "appear_time": "2026-07-16 04:00:00",
+    "disappear_time": "2026-09-09 03:59:59",
+    "daily_clear_time": "04:00:00"
+  },
+  {
+    "id": 2,
+    "is_open": true,
+    "remark": "S3剧情引导",
+    "go_desc": "umg_FacePhoto_1",
+    "required_group": [
+      {
+        "required_type": 2,
+        "required_param": [
+          30
+        ]
+      }
+    ],
+    "order": 6000,
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/FacePhoto/Raw/Textures/img_FacePhoto_Storyline.img_FacePhoto_Storyline'",
+    "appear_time": "2026-07-16 04:00:00",
+    "disappear_time": "2026-08-31 03:59:59",
+    "daily_clear_time": "04:00:00"
+  }
+]

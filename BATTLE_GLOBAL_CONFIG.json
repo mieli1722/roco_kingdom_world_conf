@@ -290,6 +290,18 @@
     "str": "Texture2D'/Game/ArtRes/UI/Effects/Textures/T_UI_LSC_07.T_UI_LSC_07'"
   },
   {
+    "id": 110,
+    "key": "default_skill_timeline_client_time_limit",
+    "num": 120,
+    "is_loc": 2
+  },
+  {
+    "id": 111,
+    "key": "default_skill_timeline_server_time_limit",
+    "num": 150,
+    "is_loc": 2
+  },
+  {
     "id": 121,
     "key": "character_max_energy",
     "num": 9,
@@ -369,25 +381,25 @@
   {
     "id": 186,
     "key": "battle_process_role_hp_deduct_text",
-    "str": "%s力竭，你的魔力损耗了。",
+    "str": "{0}力竭，你的魔力损耗了。",
     "is_loc": 1
   },
   {
     "id": 187,
     "key": "battle_end_role_hp_deduct_text",
-    "str": "%s力竭，你的魔力损耗了。",
+    "str": "{0}力竭，你的魔力损耗了。",
     "is_loc": 1
   },
   {
     "id": 188,
     "key": "battle_process_opposite_hp_deduct_text",
-    "str": "%s力竭，对手的魔力损耗了。",
+    "str": "{0}力竭，对手的魔力损耗了。",
     "is_loc": 1
   },
   {
     "id": 189,
     "key": "battle_end_opposite_hp_deduct_text",
-    "str": "%s力竭，对手的魔力损耗了。",
+    "str": "{0}力竭，对手的魔力损耗了。",
     "is_loc": 1
   },
   {
@@ -513,7 +525,7 @@
   {
     "id": 213,
     "key": "battle_skill_prediction_sihu",
-    "str": "%s似乎想要",
+    "str": "{0}似乎想要",
     "is_loc": 1
   },
   {
@@ -525,7 +537,7 @@
   {
     "id": 215,
     "key": "battle_skill_prediction_shifang",
-    "str": "释放%s技能。",
+    "str": "释放{0}技能。",
     "is_loc": 1
   },
   {
@@ -578,7 +590,7 @@
   {
     "id": 224,
     "key": "battle_skill_prediction_sihubu",
-    "str": "%s似乎不会使用",
+    "str": "{0}似乎不会使用",
     "is_loc": 1
   },
   {
@@ -626,7 +638,7 @@
   {
     "id": 232,
     "key": "battle_npc_skill_prediction_sihu",
-    "str": "%s说他打算使用",
+    "str": "{0}说他打算使用",
     "is_loc": 1
   },
   {
@@ -638,37 +650,37 @@
   {
     "id": 234,
     "key": "battle_npc_skill_prediction_shifang",
-    "str": "释放%s技能。",
+    "str": "释放{0}技能。",
     "is_loc": 1
   },
   {
     "id": 235,
     "key": "battle_npc_skill_prediction_sihubu",
-    "str": "%s说他打算使用",
+    "str": "{0}说他打算使用",
     "is_loc": 1
   },
   {
     "id": 236,
     "key": "sleep_buff_loop",
-    "str": "%s正在睡觉。",
+    "str": "{0}正在睡觉。",
     "is_loc": 1
   },
   {
     "id": 237,
     "key": "sleep_buff_end",
-    "str": "%s醒来了！",
+    "str": "{0}醒来了！",
     "is_loc": 1
   },
   {
     "id": 238,
     "key": "backstab_buff_loop",
-    "str": "%s正背对着你。",
+    "str": "{0}正背对着你。",
     "is_loc": 1
   },
   {
     "id": 239,
     "key": "backstab_buff_end",
-    "str": "%s转了过来！",
+    "str": "{0}转了过来！",
     "is_loc": 1
   },
   {
@@ -680,13 +692,13 @@
   {
     "id": 241,
     "key": "drill_buff_loop",
-    "str": "%s正埋着自己。",
+    "str": "{0}正埋着自己。",
     "is_loc": 1
   },
   {
     "id": 242,
     "key": "drill_buff_end",
-    "str": "%s钻出了地面！",
+    "str": "{0}钻出了地面！",
     "is_loc": 1
   },
   {
@@ -698,13 +710,13 @@
   {
     "id": 244,
     "key": "static_buff_loop",
-    "str": "%s正试图降低存在感。",
+    "str": "{0}正试图降低存在感。",
     "is_loc": 1
   },
   {
     "id": 245,
     "key": "static_buff_end",
-    "str": "%s放弃了伪装！",
+    "str": "{0}放弃了伪装！",
     "is_loc": 1
   },
   {
@@ -728,13 +740,13 @@
   {
     "id": 249,
     "key": "drill_forbid_catch",
-    "str": "%s正埋在地下，无法捕捉。",
+    "str": "{0}正埋在地下，无法捕捉。",
     "is_loc": 1
   },
   {
     "id": 250,
     "key": "static_forbid_catch",
-    "str": "%s正藏着自己，无法捕捉。",
+    "str": "{0}正藏着自己，无法捕捉。",
     "is_loc": 1
   },
   {
@@ -752,13 +764,13 @@
   {
     "id": 253,
     "key": "magic_stun_loop",
-    "str": "%s正头晕目眩。",
+    "str": "{0}正头晕目眩。",
     "is_loc": 1
   },
   {
     "id": 254,
     "key": "magic_stun_end",
-    "str": "%s清醒了！",
+    "str": "{0}清醒了！",
     "is_loc": 1
   },
   {
@@ -769,19 +781,19 @@
   {
     "id": 256,
     "key": "sleep_skill_tip",
-    "str": "%s睡得很香。",
+    "str": "{0}睡得很香。",
     "is_loc": 1
   },
   {
     "id": 257,
     "key": "drill_skill_tip",
-    "str": "%s继续埋着。",
+    "str": "{0}继续埋着。",
     "is_loc": 1
   },
   {
     "id": 258,
     "key": "static_skill_tip",
-    "str": "%s一动不动。",
+    "str": "{0}一动不动。",
     "is_loc": 1
   },
   {
@@ -793,19 +805,19 @@
   {
     "id": 260,
     "key": "battle_skill_prediction_energy",
-    "str": "%d能量",
+    "str": "{0:d}能量",
     "is_loc": 1
   },
   {
     "id": 261,
     "key": "drill_forbid_props",
-    "str": "%s正埋在地下，无法使用道具。",
+    "str": "{0}正埋在地下，无法使用道具。",
     "is_loc": 1
   },
   {
     "id": 262,
     "key": "static_forbid_props",
-    "str": "%s正藏着自己，无法使用道具。",
+    "str": "{0}正藏着自己，无法使用道具。",
     "is_loc": 1
   },
   {
@@ -865,19 +877,19 @@
   {
     "id": 272,
     "key": "thunder_buff_loop",
-    "str": "%s正在观察。",
+    "str": "{0}正在观察。",
     "is_loc": 1
   },
   {
     "id": 273,
     "key": "diving_buff_loop",
-    "str": "%s正在观察。",
+    "str": "{0}正在观察。",
     "is_loc": 1
   },
   {
     "id": 274,
     "key": "trail_buff_loop",
-    "str": "%s有些害怕。",
+    "str": "{0}有些害怕。",
     "is_loc": 1
   },
   {
@@ -1136,19 +1148,19 @@
   {
     "id": 315,
     "key": "1vn_battle_cheer_pet_enter",
-    "str": "围攻的%s登场了！",
+    "str": "围攻的{0}登场了！",
     "is_loc": 1
   },
   {
     "id": 316,
     "key": "1vn_battle_pet_join_1vn",
-    "str": "%s加入了战斗",
+    "str": "{0}加入了战斗",
     "is_loc": 1
   },
   {
     "id": 317,
     "key": "1vn_battle_cheer_pet_escape",
-    "str": "%s逃离了战斗",
+    "str": "{0}逃离了战斗",
     "is_loc": 1
   },
   {
@@ -1318,7 +1330,7 @@
   {
     "id": 341,
     "key": "battle_attention_tip_show_time",
-    "num": 1000,
+    "num": 1800,
     "is_loc": 2
   },
   {
@@ -1495,7 +1507,7 @@
   {
     "id": 362,
     "key": "bonus_fantastic_blood_pro",
-    "num": 570776,
+    "num": 442217,
     "is_loc": 2
   },
   {
@@ -1512,6 +1524,16 @@
     "key": "bonus_mix_blood_pro",
     "num": 530000,
     "is_loc": 2
+  },
+  {
+    "id": 365,
+    "key": "s3_box_monster_name",
+    "str": "四叶草铅绘"
+  },
+  {
+    "id": 366,
+    "key": "s3_final_boss_npc_id",
+    "num": 53068
   },
   {
     "id": 400,
@@ -1564,13 +1586,13 @@
   {
     "id": 408,
     "key": "battle_process_assist_hp_deduct_text",
-    "str": "%s力竭，队友的魔力损耗了。",
+    "str": "{0}力竭，队友的魔力损耗了。",
     "is_loc": 1
   },
   {
     "id": 409,
     "key": "battle_end_assist_hp_deduct_text",
-    "str": "%s力竭，队友的魔力损耗了。",
+    "str": "{0}力竭，队友的魔力损耗了。",
     "is_loc": 1
   },
   {
@@ -1618,13 +1640,13 @@
   {
     "id": 417,
     "key": "syn_battle_catch_tip",
-    "str": "%s扔出了%s！",
+    "str": "{0}扔出了{1}！",
     "is_loc": 1
   },
   {
     "id": 418,
     "key": "syn_battle_other_player_flee_tip",
-    "str": "%s离开了战斗......",
+    "str": "{0}离开了战斗......",
     "is_loc": 1
   },
   {
@@ -1648,7 +1670,7 @@
   {
     "id": 422,
     "key": "assist_battle_tip",
-    "str": "%s前来助战",
+    "str": "{0}前来助战",
     "is_loc": 1
   },
   {
@@ -2258,7 +2280,7 @@
   {
     "id": 1334,
     "key": "visit_catch_number_battle_notice",
-    "str": "互访捕捉次数:%s",
+    "str": "互访捕捉次数:{0}",
     "is_loc": 1
   },
   {
@@ -2357,7 +2379,7 @@
   {
     "id": 1350,
     "key": "pvp_team_name",
-    "str": "队伍%d",
+    "str": "队伍{0:d}",
     "is_loc": 1
   },
   {
@@ -2643,37 +2665,37 @@
   {
     "id": 1413,
     "key": "pvp_rank_character4",
-    "str": "%d场胜利",
+    "str": "{0:d}场胜利",
     "is_loc": 1
   },
   {
     "id": 1414,
     "key": "pvp_rank_character5",
-    "str": "第%d名",
+    "str": "第{0:d}名",
     "is_loc": 1
   },
   {
     "id": 1415,
     "key": "pvp_rank_character6",
-    "str": "<span color=\"#d76c07\">胜利  %d</>  失败  %d",
+    "str": "<span color=\"#d76c07\">胜利  {0:d}</>  失败  {1:d}",
     "is_loc": 1
   },
   {
     "id": 1416,
     "key": "pvp_rank_character7",
-    "str": "本周胜场（含观战）  <span color=\"#D56C1F\">%d/%d</>， 挑战刷新时间  <span color=\"#D56C1F\">%s</>",
+    "str": "本周胜场（含观战）  <span color=\"#D56C1F\">{0:d}/{1:d}</>， 挑战刷新时间  <span color=\"#D56C1F\">{2}</>",
     "is_loc": 1
   },
   {
     "id": 1417,
     "key": "pvp_rank_character8",
-    "str": "赛季倒计时:%s",
+    "str": "赛季倒计时:{0}",
     "is_loc": 1
   },
   {
     "id": 1418,
     "key": "pvp_rank_character9",
-    "str": "%s",
+    "str": "{0}",
     "is_loc": 1
   },
   {
@@ -2691,7 +2713,7 @@
   {
     "id": 1421,
     "key": "pvp_rank_character12",
-    "str": "剩余%s",
+    "str": "剩余{0}",
     "is_loc": 1
   },
   {
@@ -2715,7 +2737,7 @@
   {
     "id": 1425,
     "key": "pvp_rank_character15",
-    "str": "对方正在加载中(%s秒）",
+    "str": "对方正在加载中({0}秒）",
     "is_loc": 1
   },
   {
@@ -3116,19 +3138,19 @@
   {
     "id": 1483,
     "key": "pvp_battlewatch_character5",
-    "str": "你确定要将好友 %s 移出观战吗？",
+    "str": "你确定要将好友 {0} 移出观战吗？",
     "is_loc": 1
   },
   {
     "id": 1484,
     "key": "pvp_battlewatch_character6",
-    "str": "正在进行[%s]",
+    "str": "正在进行[{0}]",
     "is_loc": 1
   },
   {
     "id": 1485,
     "key": "pvp_battlewatch_character7",
-    "str": "<span color=\"#d76c07\">%s</> 正在观看你的对战",
+    "str": "<span color=\"#d76c07\">{0}</> 正在观看你的对战",
     "is_loc": 1
   },
   {
@@ -3487,6 +3509,30 @@
     "is_loc": 1
   },
   {
+    "id": 1536,
+    "key": "pvp_rank_character33",
+    "str": "本日获得:",
+    "is_loc": 1
+  },
+  {
+    "id": 1537,
+    "key": "pvp_rank_character34",
+    "str": "{0}/{1}",
+    "is_loc": 1
+  },
+  {
+    "id": 1538,
+    "key": "pvp_rank_character35",
+    "str": "胜利<Yellow>+{0}</>",
+    "is_loc": 1
+  },
+  {
+    "id": 1539,
+    "key": "pvp_rank_character36",
+    "str": "队伍不符合上阵规则要求，无法进行该操作",
+    "is_loc": 1
+  },
+  {
     "id": 1551,
     "key": "pvp_param12",
     "num": 1000,
@@ -3520,6 +3566,12 @@
     "id": 1556,
     "key": "pvp_param17",
     "num": 608023,
+    "is_loc": 2
+  },
+  {
+    "id": 1557,
+    "key": "pvp_param18",
+    "num": 608014,
     "is_loc": 2
   },
   {
@@ -3663,7 +3715,7 @@
   {
     "id": 1623,
     "key": "pvp_rank_character28",
-    "str": "第%s/%s页",
+    "str": "第{0}/{1}页",
     "is_loc": 1
   },
   {
@@ -3725,5 +3777,209 @@
       3000,
       3000
     ]
+  },
+  {
+    "id": 1651,
+    "key": "lordevo_exp_ratio",
+    "num": 100,
+    "is_loc": 2
+  },
+  {
+    "id": 1652,
+    "key": "auto_battle_exp_ratio",
+    "num": 100,
+    "is_loc": 2
+  },
+  {
+    "id": 1662,
+    "key": "auto_battle_damage_level",
+    "num": 50
+  },
+  {
+    "id": 1663,
+    "key": "auto_battle_damage_star",
+    "num": 112
+  },
+  {
+    "id": 1664,
+    "key": "auto_battle_hitcount",
+    "num": 400
+  },
+  {
+    "id": 1665,
+    "key": "auto_battle_lordevo_evo",
+    "num": 100
+  },
+  {
+    "id": 1666,
+    "key": "auto_battle_wild_evo",
+    "numList": [
+      67,
+      82,
+      100
+    ]
+  },
+  {
+    "id": 1667,
+    "key": "auto_battle_inspire_ratio",
+    "numList": [
+      100,
+      120,
+      160,
+      240,
+      340,
+      550
+    ]
+  },
+  {
+    "id": 1668,
+    "key": "damage_over_level_ratio",
+    "num": 140
+  },
+  {
+    "id": 1669,
+    "key": "damage_over_star_ratio",
+    "num": 114
+  },
+  {
+    "id": 1670,
+    "key": "over_level_cutoff",
+    "num": 1
+  },
+  {
+    "id": 1671,
+    "key": "over_star_cutoff"
+  },
+  {
+    "id": 1672,
+    "key": "damage_over_evo_ratio",
+    "numList": [
+      130,
+      150
+    ]
+  },
+  {
+    "id": 1673,
+    "key": "lordevo_breakthrough_lv_hitedcount",
+    "numList": [
+      6,
+      6,
+      6,
+      6,
+      6
+    ]
+  },
+  {
+    "id": 1674,
+    "key": "lordevo_inspire_lv_hitedcount",
+    "numList": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 1675,
+    "key": "lordevo_breakthrough_lv_damage",
+    "numList": [
+      100,
+      150,
+      200,
+      250,
+      300
+    ]
+  },
+  {
+    "id": 1676,
+    "key": "lordevo_inspire_lv_damage",
+    "numList": [
+      350,
+      400,
+      450,
+      600,
+      900
+    ]
+  },
+  {
+    "id": 1677,
+    "key": "auto_battle_restraint_percent",
+    "num": 200
+  },
+  {
+    "id": 1678,
+    "key": "auto_battle_double_restraint_percent",
+    "num": 300
+  },
+  {
+    "id": 1679,
+    "key": "auto_battle_restrained_percent",
+    "num": 50
+  },
+  {
+    "id": 1680,
+    "key": "auto_battle_double_restrained_percent",
+    "num": 33
+  },
+  {
+    "id": 1681,
+    "key": "recover_countdown_wild",
+    "num": 30
+  },
+  {
+    "id": 1682,
+    "key": "recover_countdown_lordevo",
+    "num": 30
+  },
+  {
+    "id": 1683,
+    "key": "stun_time_wild",
+    "num": 10
+  },
+  {
+    "id": 1684,
+    "key": "stun_time_lordevo",
+    "num": 10
+  },
+  {
+    "id": 1685,
+    "key": "legendary_battle_jiaer_transform_hp",
+    "num": 5000
+  },
+  {
+    "id": 1686,
+    "key": "magicstar_damage_decrease_percent",
+    "numList": [
+      100,
+      50,
+      33,
+      25
+    ]
+  },
+  {
+    "id": 1687,
+    "key": "lordevo_hitcount_wild_max",
+    "num": 6
+  },
+  {
+    "id": 1688,
+    "key": "legendary_battle_jiaer_white_id",
+    "num": 3232
+  },
+  {
+    "id": 1689,
+    "key": "legendary_battle_jiaer_black_id",
+    "num": 19000010
+  },
+  {
+    "id": 1690,
+    "key": "bookworld_battle_tips_time",
+    "num": 180
+  },
+  {
+    "id": 1691,
+    "key": "platinum_unicorn_id",
+    "num": 3063
   }
 ]

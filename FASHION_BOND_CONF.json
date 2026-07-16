@@ -7,6 +7,12 @@
       41,
       42
     ],
+    "petbase_all_id": [
+      3194,
+      3443,
+      3193,
+      3442
+    ],
     "petbase_id": [
       3194,
       3443
@@ -18,8 +24,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305001.305001'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305001.305001'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits19_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits19_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与星光狮在大世界/战斗中互动的全部华丽魔法效果。",
@@ -27,13 +33,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_019.img_album_suits1_019'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_019.img_album_suits2_019'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和星光狮进行华丽的互动。",
-    "petbase_all_id": [
-      3194,
-      3443,
-      3193,
-      3442
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和星光狮进行华丽的互动。"
   },
   {
     "id": 305002,
@@ -42,6 +42,11 @@
     "suits_id": [
       43,
       44
+    ],
+    "petbase_all_id": [
+      3092,
+      3091,
+      3090
     ],
     "petbase_id": [
       3092
@@ -53,8 +58,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305002.305002'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305002.305002'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits20_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits20_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与烈火守护在大世界/战斗中互动的全部华丽魔法效果。",
@@ -62,12 +67,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_020.img_album_suits1_020'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_020.img_album_suits2_020'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和烈火守护进行华丽的互动。",
-    "petbase_all_id": [
-      3092,
-      3091,
-      3090
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和烈火守护进行华丽的互动。"
   },
   {
     "id": 305003,
@@ -76,6 +76,14 @@
     "suits_id": [
       45,
       46
+    ],
+    "petbase_all_id": [
+      3469,
+      3468,
+      3467,
+      3129,
+      3128,
+      3127
     ],
     "petbase_id": [
       3469,
@@ -88,8 +96,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305003.305003'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305003.305003'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits21_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits21_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与皇家狮鹫在大世界/战斗中互动的全部华丽魔法效果。",
@@ -97,15 +105,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_021.img_album_suits1_021'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_021.img_album_suits2_021'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和皇家狮鹫进行华丽的互动。",
-    "petbase_all_id": [
-      3469,
-      3468,
-      3467,
-      3129,
-      3128,
-      3127
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和皇家狮鹫进行华丽的互动。"
   },
   {
     "id": 305004,
@@ -114,6 +114,13 @@
     "suits_id": [
       47,
       48
+    ],
+    "petbase_all_id": [
+      3071,
+      3070,
+      13000160,
+      4078,
+      5018
     ],
     "petbase_id": [
       3071
@@ -125,8 +132,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305004.305004'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305004.305004'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits18_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits18_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与音速犬在大世界/战斗中互动的全部华丽魔法效果。",
@@ -134,14 +141,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_018.img_album_suits1_018'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_018.img_album_suits2_018'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和音速犬进行华丽的互动。",
-    "petbase_all_id": [
-      3071,
-      3070,
-      13000160,
-      4078,
-      5018
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和音速犬进行华丽的互动。"
   },
   {
     "id": 305005,
@@ -151,29 +151,6 @@
       49,
       50
     ],
-    "petbase_id": [
-      3037,
-      3285,
-      3286,
-      3287
-    ],
-    "pet_interact_id": 4901,
-    "perform_id": 10005,
-    "launch_item": true,
-    "fashion_bond_source": 1,
-    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305005.305005'",
-    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305005.305005'",
-    "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
-    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits22_male_relax.mp4",
-    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits22_female_relax.mp4",
-    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与岚鸟在大世界/战斗中互动的全部华丽魔法效果。",
-    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
-    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_022.img_album_suits1_022'",
-    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_022.img_album_suits2_022'",
-    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和岚鸟进行华丽的互动。",
     "petbase_all_id": [
       3037,
       3285,
@@ -193,7 +170,30 @@
       5030,
       5031,
       5032
-    ]
+    ],
+    "petbase_id": [
+      3037,
+      3285,
+      3286,
+      3287
+    ],
+    "pet_interact_id": 4901,
+    "perform_id": 10005,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305005.305005'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305005.305005'",
+    "fashion_bond_band": 2,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits22_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits22_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与岚鸟在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_022.img_album_suits1_022'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_022.img_album_suits2_022'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和岚鸟进行华丽的互动。"
   },
   {
     "id": 305006,
@@ -202,6 +202,10 @@
     "suits_id": [
       51,
       52
+    ],
+    "petbase_all_id": [
+      3420,
+      3419
     ],
     "petbase_id": [
       3420
@@ -213,8 +217,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305006.305006'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305006.305006'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits23_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits23_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与厉毒修萝在大世界/战斗中互动的全部华丽魔法效果。",
@@ -222,11 +226,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_023.img_album_suits1_023'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_023.img_album_suits2_023'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和厉毒修萝进行华丽的互动。",
-    "petbase_all_id": [
-      3420,
-      3419
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和厉毒修萝进行华丽的互动。"
   },
   {
     "id": 305007,
@@ -235,6 +235,11 @@
     "suits_id": [
       53,
       54
+    ],
+    "petbase_all_id": [
+      3346,
+      3345,
+      3344
     ],
     "petbase_id": [
       3346
@@ -246,8 +251,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305007.305007'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305007.305007'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits24_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits24_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与翠顶夫人在大世界/战斗中互动的全部华丽魔法效果。",
@@ -255,12 +260,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_024.img_album_suits1_024'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_024.img_album_suits2_024'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和翠顶夫人进行华丽的互动。",
-    "petbase_all_id": [
-      3346,
-      3345,
-      3344
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和翠顶夫人进行华丽的互动。"
   },
   {
     "id": 305008,
@@ -269,6 +269,14 @@
     "suits_id": [
       55,
       56
+    ],
+    "petbase_all_id": [
+      3157,
+      3059,
+      3058,
+      13000157,
+      4021,
+      5015
     ],
     "petbase_id": [
       3157
@@ -280,8 +288,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305008.305008'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305008.305008'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits25_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits25_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与花魁蜂后在大世界/战斗中互动的全部华丽魔法效果。",
@@ -289,15 +297,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_025.img_album_suits1_025'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_025.img_album_suits2_025'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和花魁蜂后进行华丽的互动。",
-    "petbase_all_id": [
-      3157,
-      3059,
-      3058,
-      13000157,
-      4021,
-      5015
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和花魁蜂后进行华丽的互动。"
   },
   {
     "id": 305009,
@@ -306,6 +306,11 @@
     "suits_id": [
       57,
       58
+    ],
+    "petbase_all_id": [
+      3114,
+      3113,
+      3112
     ],
     "petbase_id": [
       3114
@@ -317,8 +322,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305009.305009'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305009.305009'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits26_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits26_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与卡洛儿在大世界/战斗中互动的全部华丽魔法效果。",
@@ -326,12 +331,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_026.img_album_suits1_026'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_026.img_album_suits2_026'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和卡洛儿进行华丽的互动。",
-    "petbase_all_id": [
-      3114,
-      3113,
-      3112
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和卡洛儿进行华丽的互动。"
   },
   {
     "id": 305015,
@@ -341,19 +341,29 @@
       67,
       68
     ],
-    "petbase_id": [
+    "petbase_all_id": [
       3141,
-      8006
+      3140,
+      3139
+    ],
+    "petbase_id": [
+      3141
     ],
     "pet_interact_id": 5921,
     "perform_id": 10010,
     "launch_item": true,
+    "launch_suits": true,
+    "color_suits_id": [
+      217,
+      218
+    ],
     "fashion_bond_source": 1,
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305015.305015'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305015.305015'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c0f\">异色花衣蝶印象</>时装，包含原本该套装的全部散件。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits35_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits35_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与花衣蝶在大世界/战斗中互动的全部华丽魔法效果。",
@@ -361,13 +371,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_035.img_album_suits1_035'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_035.img_album_suits2_035'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和花衣蝶进行华丽的互动。",
-    "petbase_all_id": [
-      3141,
-      8006,
-      3140,
-      3139
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和花衣蝶进行华丽的互动。"
   },
   {
     "id": 305016,
@@ -376,6 +380,11 @@
     "suits_id": [
       69,
       70
+    ],
+    "petbase_all_id": [
+      3350,
+      3082,
+      3081
     ],
     "petbase_id": [
       3350
@@ -392,9 +401,9 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305016.305016'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305016.305016'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
+    "fashion_bond_style": "橙色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色红绒十字印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits36_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits36_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与红绒十字在大世界/战斗中互动的全部华丽魔法效果。",
@@ -402,12 +411,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_036.img_album_suits1_036'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_036.img_album_suits2_036'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和红绒十字进行华丽的互动。",
-    "petbase_all_id": [
-      3350,
-      3082,
-      3081
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和红绒十字进行华丽的互动。"
   },
   {
     "id": 305017,
@@ -416,6 +420,10 @@
     "suits_id": [
       71,
       72
+    ],
+    "petbase_all_id": [
+      3063,
+      3062
     ],
     "petbase_id": [
       3063
@@ -432,9 +440,9 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305017.305017'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305017.305017'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
+    "fashion_bond_style": "橙色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色白金独角兽印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits37_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits37_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与白金独角兽在大世界/战斗中互动的全部华丽魔法效果。",
@@ -442,11 +450,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_037.img_album_suits1_037'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_037.img_album_suits2_037'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和白金独角兽进行华丽的互动。",
-    "petbase_all_id": [
-      3063,
-      3062
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和白金独角兽进行华丽的互动。"
   },
   {
     "id": 305018,
@@ -455,6 +459,21 @@
     "suits_id": [
       59,
       60
+    ],
+    "petbase_all_id": [
+      3126,
+      3458,
+      3459,
+      3460,
+      3461,
+      3462,
+      3463,
+      3464,
+      3465,
+      3125,
+      3478,
+      3479,
+      3124
     ],
     "petbase_id": [
       3126,
@@ -473,28 +492,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305018.305018'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305018.305018'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与圣代甜甜在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_027.img_album_suits1_027'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_027.img_album_suits2_027'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和圣代甜甜进行华丽的互动。",
-    "petbase_all_id": [
-      3126,
-      3458,
-      3459,
-      3460,
-      3461,
-      3462,
-      3463,
-      3464,
-      3465,
-      3125,
-      3478,
-      3479,
-      3124
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和圣代甜甜进行华丽的互动。"
   },
   {
     "id": 305019,
@@ -503,6 +507,10 @@
     "suits_id": [
       61,
       62
+    ],
+    "petbase_all_id": [
+      3263,
+      3262
     ],
     "petbase_id": [
       3263
@@ -518,18 +526,14 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305019.305019'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305019.305019'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色獠牙猪印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与獠牙猪在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_028.img_album_suits1_028'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_028.img_album_suits2_028'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和獠牙猪进行华丽的互动。",
-    "petbase_all_id": [
-      3263,
-      3262
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和獠牙猪进行华丽的互动。"
   },
   {
     "id": 305020,
@@ -538,6 +542,10 @@
     "suits_id": [
       63,
       64
+    ],
+    "petbase_all_id": [
+      3027,
+      3034
     ],
     "petbase_id": [
       3027
@@ -548,17 +556,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305020.305020'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305020.305020'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与蒲公英娃娃在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_029.img_album_suits1_029'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_029.img_album_suits2_029'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和蒲公英娃娃进行华丽的互动。",
-    "petbase_all_id": [
-      3027,
-      3034
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和蒲公英娃娃进行华丽的互动。"
   },
   {
     "id": 305021,
@@ -567,6 +571,11 @@
     "suits_id": [
       65,
       66
+    ],
+    "petbase_all_id": [
+      3335,
+      3334,
+      3333
     ],
     "petbase_id": [
       3335
@@ -577,18 +586,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305021.305021'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305021.305021'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与雪灵在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_030.img_album_suits1_030'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_030.img_album_suits2_030'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和雪灵进行华丽的互动。",
-    "petbase_all_id": [
-      3335,
-      3334,
-      3333
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和雪灵进行华丽的互动。"
   },
   {
     "id": 305023,
@@ -597,6 +601,12 @@
     "suits_id": [
       73,
       74
+    ],
+    "petbase_all_id": [
+      3035,
+      8003,
+      3026,
+      8002
     ],
     "petbase_id": [
       3035,
@@ -608,19 +618,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305023.305023'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305023.305023'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与魔草巫灵在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_031.img_album_suits1_031'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_031.img_album_suits2_031'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和魔草巫灵进行华丽的互动。",
-    "petbase_all_id": [
-      3035,
-      8003,
-      3026,
-      8002
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和魔草巫灵进行华丽的互动。"
   },
   {
     "id": 305024,
@@ -629,6 +633,15 @@
     "suits_id": [
       75,
       76
+    ],
+    "petbase_all_id": [
+      3031,
+      3030,
+      3029,
+      13000153,
+      4022,
+      5005,
+      8108
     ],
     "petbase_id": [
       3031
@@ -644,22 +657,14 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305024.305024'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305024.305024'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色奇丽花印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与奇丽花在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_032.img_album_suits1_032'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_032.img_album_suits2_032'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和奇丽花进行华丽的互动。",
-    "petbase_all_id": [
-      3031,
-      3030,
-      3029,
-      13000153,
-      4022,
-      5005
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和奇丽花进行华丽的互动。"
   },
   {
     "id": 305025,
@@ -669,29 +674,35 @@
       77,
       78
     ],
-    "petbase_id": [
-      3252
-    ],
-    "perform_id": 10019,
-    "launch_item": true,
-    "fashion_bond_source": 1,
-    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305025.305025'",
-    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305025.305025'",
-    "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
-    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与高脚鹬在战斗中互动的全部华丽魔法效果。",
-    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_033.img_album_suits1_033'",
-    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_033.img_album_suits2_033'",
-    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和高脚鹬进行华丽的互动。",
     "petbase_all_id": [
       3252,
       3251,
       3250,
       5054,
       13000170
-    ]
+    ],
+    "petbase_id": [
+      3252
+    ],
+    "perform_id": 10019,
+    "launch_item": true,
+    "launch_suits": true,
+    "color_suits_id": [
+      215,
+      216
+    ],
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305025.305025'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305025.305025'",
+    "fashion_bond_band": 2,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c2f\">异色高脚鹬印象</>时装，包含原本该套装的全部散件。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与高脚鹬在战斗中互动的全部华丽魔法效果。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_033.img_album_suits1_033'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_033.img_album_suits2_033'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和高脚鹬进行华丽的互动。"
   },
   {
     "id": 305026,
@@ -700,6 +711,11 @@
     "suits_id": [
       79,
       80
+    ],
+    "petbase_all_id": [
+      3278,
+      3277,
+      3276
     ],
     "petbase_id": [
       3278
@@ -710,18 +726,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305026.305026'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305026.305026'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与魔眷鸟在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_034.img_album_suits1_034'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_034.img_album_suits2_034'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和魔眷鸟进行华丽的互动。",
-    "petbase_all_id": [
-      3278,
-      3277,
-      3276
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和魔眷鸟进行华丽的互动。"
   },
   {
     "id": 305027,
@@ -730,6 +741,13 @@
     "suits_id": [
       89,
       90
+    ],
+    "petbase_all_id": [
+      3359,
+      3358,
+      3357,
+      4088,
+      5020
     ],
     "petbase_id": [
       3359
@@ -741,8 +759,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305027.305027'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305027.305027'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits52_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits52_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与爵士鹿在大世界/战斗中互动的全部华丽魔法效果。",
@@ -750,14 +768,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_052.img_album_suits1_052'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_052.img_album_suits2_052'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和爵士鹿进行华丽的互动。",
-    "petbase_all_id": [
-      3359,
-      3358,
-      3357,
-      4088,
-      5020
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和爵士鹿进行华丽的互动。"
   },
   {
     "id": 305028,
@@ -766,6 +777,10 @@
     "suits_id": [
       91,
       92
+    ],
+    "petbase_all_id": [
+      3528,
+      3118
     ],
     "petbase_id": [
       3528
@@ -777,8 +792,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305028.305028'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305028.305028'",
     "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits53_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits53_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与熔岩布丁在大世界/战斗中互动的全部华丽魔法效果。",
@@ -786,11 +801,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_053.img_album_suits1_053'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_053.img_album_suits2_053'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和熔岩布丁进行华丽的互动。",
-    "petbase_all_id": [
-      3528,
-      3118
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和熔岩布丁进行华丽的互动。"
   },
   {
     "id": 305029,
@@ -800,29 +811,6 @@
       93,
       94
     ],
-    "petbase_id": [
-      3019,
-      3303,
-      3304,
-      3305
-    ],
-    "pet_interact_id": 6024,
-    "perform_id": 10027,
-    "launch_item": true,
-    "fashion_bond_source": 1,
-    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305029.305029'",
-    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305029.305029'",
-    "fashion_bond_band": 3,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
-    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits54_male_relax.mp4",
-    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits54_female_relax.mp4",
-    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与蹦蹦花在大世界/战斗中互动的全部华丽魔法效果。",
-    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
-    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_054.img_album_suits1_054'",
-    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_054.img_album_suits2_054'",
-    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和蹦蹦花进行华丽的互动。",
     "petbase_all_id": [
       3019,
       3303,
@@ -842,7 +830,30 @@
       5033,
       5034,
       5035
-    ]
+    ],
+    "petbase_id": [
+      3019,
+      3303,
+      3304,
+      3305
+    ],
+    "pet_interact_id": 6024,
+    "perform_id": 10027,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305029.305029'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305029.305029'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits54_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits54_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与蹦蹦花在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_054.img_album_suits1_054'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_054.img_album_suits2_054'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和蹦蹦花进行华丽的互动。"
   },
   {
     "id": 305030,
@@ -851,6 +862,12 @@
     "suits_id": [
       81,
       82
+    ],
+    "petbase_all_id": [
+      3439,
+      3441,
+      3438,
+      3440
     ],
     "petbase_id": [
       3439,
@@ -862,19 +879,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305030.305030'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305030.305030'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与梦悠悠在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_041.img_album_suits1_041'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_041.img_album_suits2_041'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和梦悠悠进行华丽的互动。",
-    "petbase_all_id": [
-      3439,
-      3441,
-      3438,
-      3440
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和梦悠悠进行华丽的互动。"
   },
   {
     "id": 305031,
@@ -883,6 +894,11 @@
     "suits_id": [
       83,
       84
+    ],
+    "petbase_all_id": [
+      3192,
+      3191,
+      3190
     ],
     "petbase_id": [
       3192
@@ -893,18 +909,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305031.305031'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305031.305031'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与电球咩咩在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_042.img_album_suits1_042'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_042.img_album_suits2_042'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和电球咩咩进行华丽的互动。",
-    "petbase_all_id": [
-      3192,
-      3191,
-      3190
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和电球咩咩进行华丽的互动。"
   },
   {
     "id": 305032,
@@ -913,6 +924,15 @@
     "suits_id": [
       85,
       86
+    ],
+    "petbase_all_id": [
+      3123,
+      3122,
+      3121,
+      4085,
+      4098,
+      4099,
+      5013
     ],
     "petbase_id": [
       3123
@@ -928,23 +948,14 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305032.305032'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305032.305032'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色雪影娃娃印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与雪影娃娃在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_043.img_album_suits1_043'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_043.img_album_suits2_043'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和雪影娃娃进行华丽的互动。",
-    "petbase_all_id": [
-      3123,
-      3122,
-      3121,
-      4085,
-      4098,
-      4099,
-      5013
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和雪影娃娃进行华丽的互动。"
   },
   {
     "id": 305033,
@@ -953,6 +964,13 @@
     "suits_id": [
       87,
       88
+    ],
+    "petbase_all_id": [
+      3405,
+      3482,
+      3060,
+      3061,
+      3481
     ],
     "petbase_id": [
       3405,
@@ -964,20 +982,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305033.305033'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305033.305033'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与幽冥眼在战斗中互动的全部华丽魔法效果。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_044.img_album_suits1_044'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_044.img_album_suits2_044'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和幽冥眼进行华丽的互动。",
-    "petbase_all_id": [
-      3405,
-      3482,
-      3060,
-      3061,
-      3481
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和幽冥眼进行华丽的互动。"
   },
   {
     "id": 305034,
@@ -986,6 +997,10 @@
     "suits_id": [
       95,
       96
+    ],
+    "petbase_all_id": [
+      3368,
+      3367
     ],
     "petbase_id": [
       3368
@@ -1002,9 +1017,9 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305034.305034'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305034.305034'",
     "fashion_bond_band": 4,
-    "fashion_bond_style": "银色壁橱",
+    "fashion_bond_style": "橙色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色嘟嘟锅印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits38_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits38_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与嘟嘟锅在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1012,11 +1027,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_038.img_album_suits1_038'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_038.img_album_suits2_038'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和嘟嘟锅进行华丽的互动。",
-    "petbase_all_id": [
-      3368,
-      3367
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和嘟嘟锅进行华丽的互动。"
   },
   {
     "id": 305035,
@@ -1025,6 +1036,11 @@
     "suits_id": [
       97,
       98
+    ],
+    "petbase_all_id": [
+      3120,
+      3119,
+      4094
     ],
     "petbase_id": [
       3120
@@ -1036,8 +1052,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305035.305035'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305035.305035'",
     "fashion_bond_band": 4,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits39_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits39_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与琉璃水母在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1045,12 +1061,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_039.img_album_suits1_039'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_039.img_album_suits2_039'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和琉璃水母进行华丽的互动。",
-    "petbase_all_id": [
-      3120,
-      3119,
-      4094
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和琉璃水母进行华丽的互动。"
   },
   {
     "id": 305036,
@@ -1059,6 +1070,11 @@
     "suits_id": [
       99,
       100
+    ],
+    "petbase_all_id": [
+      3380,
+      3378,
+      3379
     ],
     "petbase_id": [
       3380
@@ -1070,8 +1086,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305036.305036'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305036.305036'",
     "fashion_bond_band": 4,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>和<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>和<span color=\"#d56c1f\">{2}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits40_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits40_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与九幽菇在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1079,12 +1095,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_040.img_album_suits1_040'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_040.img_album_suits2_040'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和九幽菇进行华丽的互动。",
-    "petbase_all_id": [
-      3380,
-      3378,
-      3379
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和九幽菇进行华丽的互动。"
   },
   {
     "id": 305037,
@@ -1093,6 +1104,10 @@
     "suits_id": [
       127,
       128
+    ],
+    "petbase_all_id": [
+      3530,
+      3529
     ],
     "petbase_id": [
       3530
@@ -1103,16 +1118,12 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305037.305037'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305037.305037'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_045.img_album_suits1_045'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_045.img_album_suits2_045'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和圆号鱼进行华丽的互动。",
-    "petbase_all_id": [
-      3530,
-      3529
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和圆号鱼进行华丽的互动。"
   },
   {
     "id": 305038,
@@ -1121,6 +1132,11 @@
     "suits_id": [
       129,
       130
+    ],
+    "petbase_all_id": [
+      3100,
+      3099,
+      3098
     ],
     "petbase_id": [
       3100
@@ -1131,17 +1147,12 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305038.305038'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305038.305038'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_046.img_album_suits1_046'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_046.img_album_suits2_046'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和蹦床松鼠进行华丽的互动。",
-    "petbase_all_id": [
-      3100,
-      3099,
-      3098
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和蹦床松鼠进行华丽的互动。"
   },
   {
     "id": 305039,
@@ -1151,24 +1162,6 @@
       131,
       132
     ],
-    "petbase_id": [
-      3042,
-      3294,
-      3295,
-      3296
-    ],
-    "perform_id": 10033,
-    "launch_item": true,
-    "fashion_bond_source": 1,
-    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305039.305039'",
-    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305039.305039'",
-    "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
-    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_047.img_album_suits1_047'",
-    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_047.img_album_suits2_047'",
-    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和卡瓦重进行华丽的互动。",
     "petbase_all_id": [
       3042,
       3041,
@@ -1182,7 +1175,25 @@
       3294,
       3291,
       3288
-    ]
+    ],
+    "petbase_id": [
+      3042,
+      3294,
+      3295,
+      3296
+    ],
+    "perform_id": 10033,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305039.305039'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305039.305039'",
+    "fashion_bond_band": 2,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_047.img_album_suits1_047'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_047.img_album_suits2_047'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和卡瓦重进行华丽的互动。"
   },
   {
     "id": 305040,
@@ -1191,6 +1202,9 @@
     "suits_id": [
       133,
       134
+    ],
+    "petbase_all_id": [
+      3521
     ],
     "petbase_id": [
       3521
@@ -1201,15 +1215,12 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305040.305040'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305040.305040'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_048.img_album_suits1_048'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_048.img_album_suits2_048'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和里拉鳐进行华丽的互动。",
-    "petbase_all_id": [
-      3521
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和里拉鳐进行华丽的互动。"
   },
   {
     "id": 305041,
@@ -1218,6 +1229,10 @@
     "suits_id": [
       157,
       158
+    ],
+    "petbase_all_id": [
+      3216,
+      3215
     ],
     "petbase_id": [
       3216
@@ -1229,8 +1244,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305041.305041'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305041.305041'",
     "fashion_bond_band": 5,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits75_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits75_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与海豹船长在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1238,11 +1253,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_075.img_album_suits1_075'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_075.img_album_suits2_075'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和海豹船长进行华丽的互动。",
-    "petbase_all_id": [
-      3216,
-      3215
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和海豹船长进行华丽的互动。"
   },
   {
     "id": 305042,
@@ -1252,27 +1263,6 @@
       159,
       160
     ],
-    "petbase_id": [
-      3332,
-      3477
-    ],
-    "pet_interact_id": 6084,
-    "perform_id": 10044,
-    "launch_item": true,
-    "fashion_bond_source": 1,
-    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305042.305042'",
-    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305042.305042'",
-    "fashion_bond_band": 5,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
-    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits76_male_relax.mp4",
-    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits76_female_relax.mp4",
-    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与千棘盔在大世界/战斗中互动的全部华丽魔法效果。",
-    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
-    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_076.img_album_suits1_076'",
-    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_076.img_album_suits2_076'",
-    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和千棘盔进行华丽的互动。",
     "petbase_all_id": [
       3332,
       3477,
@@ -1283,7 +1273,34 @@
       4020,
       5012,
       5029
-    ]
+    ],
+    "petbase_id": [
+      3332,
+      3477
+    ],
+    "pet_interact_id": 6084,
+    "perform_id": 10044,
+    "launch_item": true,
+    "launch_suits": true,
+    "color_suits_id": [
+      213,
+      214
+    ],
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305042.305042'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305042.305042'",
+    "fashion_bond_band": 5,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色千棘盔印象</>时装，包含原本该套装的全部散件。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits76_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits76_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与千棘盔在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_076.img_album_suits1_076'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_076.img_album_suits2_076'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和千棘盔进行华丽的互动。"
   },
   {
     "id": 305043,
@@ -1292,6 +1309,10 @@
     "suits_id": [
       161,
       162
+    ],
+    "petbase_all_id": [
+      3619,
+      3618
     ],
     "petbase_id": [
       3619
@@ -1303,8 +1324,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305043.305043'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305043.305043'",
     "fashion_bond_band": 5,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits77_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits77_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与迷迷箱怪在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1312,11 +1333,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_077.img_album_suits1_077'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_077.img_album_suits2_077'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和迷迷箱怪进行华丽的互动。",
-    "petbase_all_id": [
-      3619,
-      3618
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和迷迷箱怪进行华丽的互动。"
   },
   {
     "id": 305044,
@@ -1325,6 +1342,10 @@
     "suits_id": [
       149,
       150
+    ],
+    "petbase_all_id": [
+      3684,
+      3683
     ],
     "petbase_id": [
       3684
@@ -1340,17 +1361,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305044.305044'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305044.305044'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色咕德帽帽印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_055.img_album_suits1_055'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_055.img_album_suits2_055'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和咕德帽帽进行华丽的互动。",
-    "petbase_all_id": [
-      3684,
-      3683
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和咕德帽帽进行华丽的互动。"
   },
   {
     "id": 305045,
@@ -1359,6 +1376,10 @@
     "suits_id": [
       151,
       152
+    ],
+    "petbase_all_id": [
+      3709,
+      3708
     ],
     "petbase_id": [
       3709
@@ -1374,17 +1395,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305045.305045'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305045.305045'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c1f\">异色巨鼓象印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_056.img_album_suits1_056'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_056.img_album_suits2_056'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和巨鼓象进行华丽的互动。",
-    "petbase_all_id": [
-      3709,
-      3708
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和巨鼓象进行华丽的互动。"
   },
   {
     "id": 305046,
@@ -1393,6 +1410,10 @@
     "suits_id": [
       153,
       154
+    ],
+    "petbase_all_id": [
+      3678,
+      3677
     ],
     "petbase_id": [
       3678
@@ -1408,17 +1429,13 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305046.305046'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305046.305046'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c2f\">异色烟花伯爵印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_057.img_album_suits1_057'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_057.img_album_suits2_057'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和烟花伯爵进行华丽的互动。",
-    "petbase_all_id": [
-      3678,
-      3677
-    ]
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和烟花伯爵进行华丽的互动。"
   },
   {
     "id": 305047,
@@ -1427,6 +1444,11 @@
     "suits_id": [
       155,
       156
+    ],
+    "petbase_all_id": [
+      3489,
+      3488,
+      3487
     ],
     "petbase_id": [
       3489
@@ -1442,23 +1464,146 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305047.305047'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305047.305047'",
     "fashion_bond_band": 1,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c3f\">异色小丑公爵印象</>时装，包含原本该套装的全部散件。",
-    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_058.img_album_suits1_058'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_058.img_album_suits2_058'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
-    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和小丑公爵进行华丽的互动。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和小丑公爵进行华丽的互动。"
+  },
+  {
+    "id": 305051,
+    "name": "华丽徽章-古卷执政官",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      183,
+      184
+    ],
     "petbase_all_id": [
-      3489,
-      3488,
-      3487
-    ]
+      3612,
+      3611,
+      3610
+    ],
+    "petbase_id": [
+      3612
+    ],
+    "perform_id": 10049,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305051.305051'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305051.305051'",
+    "fashion_bond_band": 4,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_082.img_album_suits1_082'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_082.img_album_suits2_082'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和古卷执政官进行华丽的互动。"
+  },
+  {
+    "id": 305052,
+    "name": "华丽徽章-古卷匣魔像",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      185,
+      186
+    ],
+    "petbase_all_id": [
+      3613,
+      3611,
+      3610
+    ],
+    "petbase_id": [
+      3613
+    ],
+    "perform_id": 10050,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305052.305052'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305052.305052'",
+    "fashion_bond_band": 4,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_083.img_album_suits1_083'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_083.img_album_suits2_083'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和古卷匣魔象进行华丽的互动。"
+  },
+  {
+    "id": 305053,
+    "name": "华丽徽章-画间法师手",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      187,
+      188
+    ],
+    "petbase_all_id": [
+      3608,
+      3607,
+      3606
+    ],
+    "petbase_id": [
+      3608
+    ],
+    "perform_id": 10051,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305053.305053'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305053.305053'",
+    "fashion_bond_band": 4,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_084.img_album_suits1_084'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_084.img_album_suits2_084'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和画间法师手进行华丽的互动。"
+  },
+  {
+    "id": 305054,
+    "name": "华丽徽章-画间沉铁兽 ",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      189,
+      190
+    ],
+    "petbase_all_id": [
+      3609,
+      3607,
+      3606
+    ],
+    "petbase_id": [
+      3609
+    ],
+    "perform_id": 10052,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305054.305054'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305054.305054'",
+    "fashion_bond_band": 4,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取对应精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，可在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_085.img_album_suits1_085'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_085.img_album_suits2_085'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和画间沉铁兽进行华丽的互动。"
   },
   {
     "id": 305055,
     "name": "华丽徽章-迪莫",
     "fashion_bond_quality": 2,
+    "petbase_all_id": [
+      3004,
+      8007,
+      5025,
+      3048,
+      3051,
+      3514,
+      3515,
+      5026,
+      5027,
+      5028
+    ],
     "petbase_id": [
       3004,
       8007
@@ -1469,7 +1614,7 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305055.305055'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305055.305055'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "棕榈皮革",
+    "fashion_bond_style": "紫色品质",
     "popup_callout_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/bond305055_male_callout.mp4",
     "popup_callout_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/bond305055_female_callout.mp4",
     "popup_text_callout": "解锁<span color=\"#d56c1f\">「迪莫华丽徽章」</>，在对战中更换迪莫进场时，可以看到特殊登场演出效果。",
@@ -1483,6 +1628,11 @@
       143,
       144
     ],
+    "petbase_all_id": [
+      3147,
+      3146,
+      3145
+    ],
     "petbase_id": [
       3147
     ],
@@ -1493,8 +1643,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305056.305056'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305056.305056'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits65_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits65_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与幻影灵菇在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1502,12 +1652,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_065.img_album_suits1_065'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_065.img_album_suits2_065'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和幻影灵菇进行华丽的互动。",
-    "petbase_all_id": [
-      3147,
-      3146,
-      3145
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和幻影灵菇进行华丽的互动。"
   },
   {
     "id": 305057,
@@ -1516,6 +1661,11 @@
     "suits_id": [
       145,
       146
+    ],
+    "petbase_all_id": [
+      3241,
+      3240,
+      3239
     ],
     "petbase_id": [
       3241
@@ -1527,8 +1677,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305057.305057'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305057.305057'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits66_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits66_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与怖哭菇在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1536,12 +1686,7 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_066.img_album_suits1_066'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_066.img_album_suits2_066'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和怖哭菇进行华丽的互动。",
-    "petbase_all_id": [
-      3241,
-      3240,
-      3239
-    ]
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和怖哭菇进行华丽的互动。"
   },
   {
     "id": 305058,
@@ -1550,6 +1695,10 @@
     "suits_id": [
       147,
       148
+    ],
+    "petbase_all_id": [
+      3256,
+      3255
     ],
     "petbase_id": [
       3256
@@ -1561,8 +1710,8 @@
     "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305058.305058'",
     "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305058.305058'",
     "fashion_bond_band": 2,
-    "fashion_bond_style": "银色壁橱",
-    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">%s</>中的<span color=\"#d56c1f\">%s</>作炫彩染色。",
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
     "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits67_male_relax.mp4",
     "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits67_female_relax.mp4",
     "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与流浪鼠在大世界/战斗中互动的全部华丽魔法效果。",
@@ -1570,10 +1719,372 @@
     "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_067.img_album_suits1_067'",
     "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_067.img_album_suits2_067'",
     "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
-    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和流浪鼠进行华丽的互动。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和流浪鼠进行华丽的互动。"
+  },
+  {
+    "id": 305059,
+    "name": "华丽徽章-朔夜伊芙",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      177,
+      178
+    ],
     "petbase_all_id": [
-      3256,
-      3255
-    ]
+      3144,
+      3143,
+      3142
+    ],
+    "petbase_id": [
+      3144
+    ],
+    "pet_interact_id": 6095,
+    "perform_id": 10046,
+    "launch_item": true,
+    "launch_suits": true,
+    "color_suits_id": [
+      219,
+      220
+    ],
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305059.305059'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305059.305059'",
+    "fashion_bond_band": 5,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_color": "在解锁徽章后，可在捕捉到对应精灵的异色形态时获得全新的一套<span color=\"#d56c3f\">异色朔夜伊芙印象</>时装，包含原本该套装的全部散件。",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits72_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits72_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与朔夜依芙在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_072.img_album_suits1_072'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_072.img_album_suits2_072'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和朔夜依芙进行华丽的互动。"
+  },
+  {
+    "id": 305060,
+    "name": "华丽徽章-乌拉塔",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      179,
+      180
+    ],
+    "petbase_all_id": [
+      3538,
+      3537,
+      3536,
+      3541,
+      3540,
+      3539
+    ],
+    "petbase_id": [
+      3538,
+      3541
+    ],
+    "pet_interact_id": 6100,
+    "perform_id": 10047,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305060.305060'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305060.305060'",
+    "fashion_bond_band": 5,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits73_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits73_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与乌拉塔在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_073.img_album_suits1_073'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_073.img_album_suits2_073'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和乌拉塔进行华丽的互动。"
+  },
+  {
+    "id": 305061,
+    "name": "华丽徽章-裘卡",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      181,
+      182
+    ],
+    "petbase_all_id": [
+      3156,
+      3155,
+      3154
+    ],
+    "petbase_id": [
+      3156
+    ],
+    "pet_interact_id": 6105,
+    "perform_id": 10048,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305061.305061'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305061.305061'",
+    "fashion_bond_band": 5,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits74_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits74_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与裘卡在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_074.img_album_suits1_074'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_074.img_album_suits2_074'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和裘卡进行华丽的互动。"
+  },
+  {
+    "id": 305062,
+    "name": "华丽徽章-魔力猫",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      205,
+      206
+    ],
+    "petbase_all_id": [
+      3007,
+      4007,
+      5003,
+      8103,
+      3025,
+      3001,
+      13000151
+    ],
+    "petbase_id": [
+      3007
+    ],
+    "pet_interact_id": 6124,
+    "perform_id": 10057,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305062.305062'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305062.305062'",
+    "fashion_bond_band": 1,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits104_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits104_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与魔力猫在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_104.img_album_suits1_104'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_104.img_album_suits2_104'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和魔力猫进行华丽的互动。"
+  },
+  {
+    "id": 305063,
+    "name": "华丽徽章-火神",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      207,
+      208
+    ],
+    "petbase_all_id": [
+      3006,
+      5017,
+      8102,
+      3003,
+      3032,
+      4006
+    ],
+    "petbase_id": [
+      3006
+    ],
+    "pet_interact_id": 6131,
+    "perform_id": 10058,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305063.305063'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305063.305063'",
+    "fashion_bond_band": 1,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits105male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits105_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与火神在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_105.img_album_suits1_105'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_105.img_album_suits2_105'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和火神进行华丽的互动。"
+  },
+  {
+    "id": 305064,
+    "name": "华丽徽章-水灵",
+    "fashion_bond_quality": 1,
+    "suits_id": [
+      209,
+      210
+    ],
+    "petbase_all_id": [
+      3005,
+      3033,
+      3002,
+      4005,
+      5010,
+      8101
+    ],
+    "petbase_id": [
+      3005
+    ],
+    "pet_interact_id": 6138,
+    "perform_id": 10059,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305064.305064'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305064.305064'",
+    "fashion_bond_band": 1,
+    "fashion_bond_style": "橙色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/suits106_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/suits106_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自定义搭配时装后仍保留与水灵在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_106.img_album_suits1_106'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_106.img_album_suits2_106'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发全部华丽魔法效果，包括精灵战斗召唤与胜利动作。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，享受自定义搭配的同时可以和水灵进行华丽的互动。"
+  },
+  {
+    "id": 305065,
+    "name": "华丽徽章-食尘短绒",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      191,
+      192
+    ],
+    "petbase_all_id": [
+      3605,
+      3603
+    ],
+    "petbase_id": [
+      3605
+    ],
+    "perform_id": 10053,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305065.305065'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305065.305065'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_068.img_album_suits1_068'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_068.img_album_suits2_068'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和食尘短绒进行华丽的互动。"
+  },
+  {
+    "id": 305066,
+    "name": "华丽徽章-捕尘长绒",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      193,
+      194
+    ],
+    "petbase_all_id": [
+      3604,
+      3603
+    ],
+    "petbase_id": [
+      3604
+    ],
+    "perform_id": 10054,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "TextureD'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305066.305066'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305066.305066'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_069.img_album_suits1_069'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_069.img_album_suits2_069'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和捕尘长绒进行华丽的互动。"
+  },
+  {
+    "id": 305067,
+    "name": "华丽徽章-秩序鱿墨",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      195,
+      196
+    ],
+    "petbase_all_id": [
+      3579,
+      3577
+    ],
+    "petbase_id": [
+      3579
+    ],
+    "perform_id": 10055,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305067.305067'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305067.305067'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_070.img_album_suits1_070'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_070.img_album_suits2_070'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和秩序鱿墨进行华丽的互动。"
+  },
+  {
+    "id": 305068,
+    "name": "华丽徽章-混乱鱿彩",
+    "fashion_bond_quality": 2,
+    "suits_id": [
+      197,
+      198
+    ],
+    "petbase_all_id": [
+      3578,
+      3577
+    ],
+    "petbase_id": [
+      3578
+    ],
+    "perform_id": 10056,
+    "launch_item": true,
+    "fashion_bond_source": 1,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305068.305068'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305068.305068'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "紫色品质",
+    "popup_text_tint": "在解锁徽章后，可在获取精灵的炫彩形态时解锁新的<span color=\"#d56c1f\">时装炫彩染料</>，在换装时对<span color=\"#d56c1f\">{0}</>中的<span color=\"#d56c1f\">{1}</>作炫彩染色。",
+    "fashion_bond_album_male": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits1_071.img_album_suits1_071'",
+    "fashion_bond_album_female": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_album_suits2_071.img_album_suits2_071'",
+    "popup_text_normal": "在自定义搭配时装时仍可自动触发华丽魔法效果，如精灵战斗召唤动作。",
+    "exhibit_text": "进入战斗时，享受自定义搭配的同时可以和混乱鱿彩进行华丽的互动。"
+  },
+  {
+    "id": 305091,
+    "name": "华丽徽章-睡铃雪影娃娃",
+    "fashion_bond_quality": 3,
+    "petbase_all_id": [
+      3746
+    ],
+    "petbase_id": [
+      3746
+    ],
+    "pet_interact_id": 6148,
+    "perform_id": 10060,
+    "launch_item": true,
+    "fashion_bond_source": 2,
+    "fashion_bond_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/305091.305091'",
+    "fashion_bond_big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/305091.305091'",
+    "fashion_bond_band": 3,
+    "fashion_bond_style": "橙色品质",
+    "popup_image_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/bond305091_male_relax.mp4",
+    "popup_image_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/bond305091_female_relax.mp4",
+    "popup_text": "在解锁徽章后，可享受自与睡铃雪影娃娃在大世界/战斗中互动的全部华丽魔法效果。",
+    "popup_text_interact": "在解锁徽章后，可在精灵树解锁全新的和精灵的亲昵互动动作。在角色待机时也有概率自动触发和队列精灵的互动。",
+    "popup_callout_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/bond305091_male_callout.mp4",
+    "popup_callout_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/bond305091_female_callout.mp4",
+    "popup_text_callout": "解锁<span color=\"#d56c1f\">「睡铃雪影娃娃徽章」</>，在对战中更换睡铃雪影娃娃进场时，可以看到特殊登场演出效果。",
+    "popup_win_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/bond305091_male_win.mp4",
+    "popup_win_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/bond305091_female_win.mp4",
+    "popup_win_callout": "在和其他玩家对战中，睡铃雪影娃娃给对方最终一击时，还可以看到特殊胜利结算演出效果。",
+    "exhibit_text": "已解锁精灵树中的亲昵互动动作。并且在进入战斗时，可以和睡铃雪影娃娃进行华丽的互动。"
   }
 ]

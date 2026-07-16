@@ -2,15 +2,18 @@
   {
     "id": 32500101,
     "WandName": "Default",
+    "wand_source": 2,
     "launch_item": true,
-    "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500101/SKM_PC3_Mw_32500101.SKM_PC3_Mw_32500101",
-    "wand_source": 2
+    "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500101/SKM_PC3_Mw_32500101.SKM_PC3_Mw_32500101"
   },
   {
     "id": 32500201,
     "WandName": "ShengQiShi",
+    "wand_source": 1,
     "magic_name": "星星魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
+    "magic_dress_text": "星星魔法",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_5_png.img_magic_kind_5_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500201/SKM_PC3_Mw_32500201.SKM_PC3_Mw_32500201",
     "wand_tips_text": "更换上幻影星光法杖后，使用星星魔法可以看到独特的魔法效果。",
@@ -18,16 +21,16 @@
     "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32500201_female.mp4",
     "magic_list": [
       2
-    ],
-    "magic_dress_text": "星星魔法",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
-    "wand_source": 1
+    ]
   },
   {
     "id": 32500301,
     "WandName": "YouXia",
+    "wand_source": 1,
     "magic_name": "风场魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_fengxhang_png.img_mofa_fengxhang_png'",
+    "magic_dress_text": "风场魔法",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_7_png.img_magic_kind_7_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500301/SKM_PC3_Mw_32500301.SKM_PC3_Mw_32500301",
     "wand_tips_text": "更换上飓风行迹法杖后，使用风魔法可以看到独特的魔法效果。",
@@ -36,31 +39,33 @@
     "magic_list": [
       0,
       2
-    ],
-    "magic_dress_text": "风场魔法",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_fengxhang_png.img_mofa_fengxhang_png'",
-    "wand_source": 1
+    ]
   },
   {
     "id": 32500401,
     "WandName": "YuanWu",
+    "wand_source": 1,
     "magic_name": "星星魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
+    "magic_dress_text": "星星魔法",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_5_png.img_magic_kind_5_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500401/SKM_PC3_Mw_32500401.SKM_PC3_Mw_32500401",
     "wand_tips_text": "更换上星落繁花法杖后，使用星星魔法可以看到独特的魔法效果。",
+    "wand_video_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/wand_32500401_male.mp4",
+    "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32500401_female.mp4",
     "magic_list": [
       3
-    ],
-    "magic_dress_text": "星星魔法",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
-    "wand_source": 1
+    ]
   },
   {
     "id": 32500501,
     "WandName": "Zhiyu",
+    "wand_source": 3,
     "magic_name": "星星魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
+    "magic_dress_text": "治愈星星",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_5_png.img_magic_kind_5_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500501/SKM_PC3_Mw_32500501.SKM_PC3_Mw_32500501",
     "wand_tips_text": "更换上童话书主题法杖后，使用星星魔法可以看到独特的魔法效果。",
@@ -68,16 +73,16 @@
     "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32500501_female.mp4",
     "magic_list": [
       4
-    ],
-    "magic_dress_text": "治愈星星",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
-    "wand_source": 3
+    ]
   },
   {
     "id": 32500601,
     "WandName": "Lianjin",
+    "wand_source": 3,
     "magic_name": "液化魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_yehuashu_png.img_mofa_yehuashu_png'",
+    "magic_dress_text": "随机变变变",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_4_png.img_magic_kind_4_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500601/SKM_PC3_Mw_32500601.SKM_PC3_Mw_32500601",
     "wand_tips_text": "更换上炼金术主题法杖后，使用液化术可以将其他小洛克或自己随机变成三种精灵中的随机一种。",
@@ -88,16 +93,16 @@
       0,
       0,
       2
-    ],
-    "magic_dress_text": "随机变变变",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_yehuashu_png.img_mofa_yehuashu_png'",
-    "wand_source": 3
+    ]
   },
   {
     "id": 32500801,
     "WandName": "Biluhuoban",
+    "wand_source": 3,
     "magic_name": "创造魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_chuangzao_png.img_mofa_chuangzao_png'",
+    "magic_dress_text": "金色壁炉",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_1_png.img_magic_kind_1_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500801/SKM_PC3_Mw_32500801.SKM_PC3_Mw_32500801",
     "wand_tips_text": "更换上壁炉伙伴主题法杖后，使用创造魔法可以创造出全新样式的魔法物品。",
@@ -107,16 +112,16 @@
       0,
       0,
       2
-    ],
-    "magic_dress_text": "金色壁炉",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_chuangzao_png.img_mofa_chuangzao_png'",
-    "wand_source": 3
+    ]
   },
   {
     "id": 32500901,
     "WandName": "MengJing",
+    "wand_source": 3,
     "magic_name": "星星魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
+    "magic_dress_text": "催眠有术",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_5_png.img_magic_kind_5_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32500901/SKM_PC3_Mw_32500901.SKM_PC3_Mw_32500901",
     "wand_tips_text": "更换上梦境流浪主题法杖后，使用星星魔法可以催眠其他的小洛克，步入梦乡。",
@@ -124,16 +129,16 @@
     "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32500901_female.mp4",
     "magic_list": [
       5
-    ],
-    "magic_dress_text": "催眠有术",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_xingxing_png.img_mofa_xingxing_png'",
-    "wand_source": 3
+    ]
   },
   {
     "id": 32501001,
     "WandName": "ChenChuan",
+    "wand_source": 3,
     "magic_name": "留痕魔法",
     "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_liuhen_png.img_mofa_liuhen_png'",
+    "magic_dress_text": "个性漂流瓶",
     "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_2_png.img_magic_kind_2_png'",
     "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32501001/SKM_PC3_Mw_32501001.SKM_PC3_Mw_32501001",
     "wand_tips_text": "更换上深海馈赠主题法杖后，使用留痕魔法可以自定义文本颜色进行留言或评论。",
@@ -146,9 +151,56 @@
       0,
       0,
       2
-    ],
-    "magic_dress_text": "个性漂流瓶",
-    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_liuhen_png.img_mofa_liuhen_png'",
-    "wand_source": 3
+    ]
+  },
+  {
+    "id": 32501101,
+    "WandName": "MiMi",
+    "wand_source": 3,
+    "magic_name": "留影魔法",
+    "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_liuying_png.img_mofa_liuying_png'",
+    "magic_dress_text": "玫瑰映像",
+    "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_2_png.img_magic_kind_2_png'",
+    "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32501101/SKM_PC3_Mw_32501101.SKM_PC3_Mw_32501101",
+    "wand_tips_text": "更换上秘密潜入主题法杖后，使用留影魔法可以留下最独特神秘的奇幻影像。",
+    "wand_video_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/wand_32501101_male.mp4",
+    "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32501101_female.mp4",
+    "magic_list": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      2
+    ]
+  },
+  {
+    "id": 32501301,
+    "WandName": "ChuXin",
+    "wand_source": 3,
+    "magic_name": "液化魔法",
+    "launch_item": true,
+    "magic_btn_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_mofa_yehuashu_png.img_mofa_yehuashu_png'",
+    "magic_dress_text": "随机变变变",
+    "magic_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_magic_kind_4_png.img_magic_kind_4_png'",
+    "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32501301/SKM_PC3_Mw_32501301.SKM_PC3_Mw_32501301",
+    "wand_tips_text": "更换上初心者主题法杖后，使用液化术可以将其他小洛克或自己随机变成三种精灵中的随机一种。",
+    "wand_video_male": "https://video.nrc.qq.com/MoviesMobile/Operations/Male/wand_32501301_male.mp",
+    "wand_video_female": "https://video.nrc.qq.com/MoviesMobile/Operations/Female/wand_32501301_female.mp4",
+    "magic_list": [
+      0,
+      0,
+      0,
+      3
+    ]
+  },
+  {
+    "id": 32501401,
+    "WandName": "Yase",
+    "wand_source": 2,
+    "launch_item": true,
+    "WandMesh": "/Game/ArtRes/AnimSequence/Human/PC/PC3/Avatar/Mw/32501401/SKM_PC3_Mw_32501401.SKM_PC3_Mw_32501401"
   }
 ]

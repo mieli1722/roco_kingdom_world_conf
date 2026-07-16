@@ -26,12 +26,16 @@
   {
     "anim_name": "Anim_Swim_Idle",
     "param_1": "Ride_Swim_Idle",
-    "param_2": "World_Swim_Idle"
+    "param_2": "World_Swim_Idle",
+    "param_3": "Ride_Idle",
+    "param_4": "World_Idle"
   },
   {
     "anim_name": "Anim_Swim_Run",
     "param_1": "Ride_Swim_2",
-    "param_2": "World_Swim_2"
+    "param_2": "World_Swim_2",
+    "param_3": "Ride_Run",
+    "param_4": "World_Run"
   },
   {
     "anim_name": "Anim_Fall",
@@ -70,13 +74,19 @@
     "anim_name": "Anim_Swim_Idle_Twin",
     "param_1": "Ride_Swim_Idle_Twin",
     "param_2": "Ride_Swim_Idle",
-    "param_3": "World_Swim_Idle"
+    "param_3": "World_Swim_Idle",
+    "param_4": "Ride_Idle_Twin",
+    "param_5": "Ride_Idle",
+    "param_6": "World_Idle"
   },
   {
     "anim_name": "Anim_Swim_Run_Twin",
     "param_1": "Ride_Swim_2_Twin",
     "param_2": "Ride_Swim_2",
-    "param_3": "World_Swim_2"
+    "param_3": "World_Swim_2",
+    "param_4": "Ride_Run_Twin",
+    "param_5": "Ride_Run",
+    "param_6": "World_Run"
   },
   {
     "anim_name": "Anim_Fly_Hover_Twin",
@@ -93,5 +103,20 @@
     "param_3": "World_Fly_Gliding",
     "param_4": "Ride_Run",
     "param_5": "World_Run"
+  },
+  {
+    "anim_name": "Anim_KeepBalance_Idle",
+    "param_1": "Ride_Skill_1_Idle",
+    "param_2": "World_Idle"
+  },
+  {
+    "anim_name": "Anim_KeepBalance_Run",
+    "param_1": "Ride_Skill_1_Run",
+    "param_2": "World_Run"
+  },
+  {
+    "anim_name": "Anim_KeepBalance_Jump_Fall",
+    "param_1": "Ride_Skill_1_Fall",
+    "param_2": "World_Jump_Fall"
   }
 ]

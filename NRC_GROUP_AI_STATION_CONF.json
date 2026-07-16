@@ -446,6 +446,55 @@
     "individual_orinentation": 2
   },
   {
+    "id": 230010,
+    "editor_name": "玩家身后",
+    "station_param": [
+      500,
+      100,
+      135,
+      -135
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 230011,
+    "editor_name": "重心挤成一团",
+    "station_param": [
+      150,
+      0,
+      -165,
+      165
+    ],
+    "station_center_type": 2,
+    "center_param": [
+      0,
+      0,
+      0
+    ],
+    "individual_orinentation": 2
+  },
+  {
+    "id": 230012,
+    "editor_name": "包围玩家_小",
+    "station_param": [
+      250,
+      50,
+      -150,
+      150
+    ],
+    "station_center_type": 1,
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
     "id": 280000,
     "editor_name": "圆形分布",
     "station_param": [
@@ -644,6 +693,21 @@
       0,
       120,
       -120
+    ],
+    "center_param": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "id": 280013,
+    "editor_name": "【卡波】睡眠站位",
+    "station_param": [
+      125,
+      0,
+      -120,
+      120
     ],
     "center_param": [
       0,

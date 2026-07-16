@@ -2092,9 +2092,6 @@
       1006,
       1007
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -2337,10 +2334,10 @@
     "spread_type": 5,
     "spread_param": [
       2500,
-      4,
-      4,
-      4,
-      4
+      1,
+      1,
+      1,
+      1
     ],
     "group_ai_role_type_limit": [
       4,
@@ -2360,10 +2357,10 @@
     "spread_type": 5,
     "spread_param": [
       2500,
-      4,
-      4,
-      4,
-      4
+      1,
+      1,
+      1,
+      1
     ],
     "group_ai_role_type_limit": [
       4,
@@ -2427,10 +2424,10 @@
     "spread_type": 5,
     "spread_param": [
       15000,
-      1,
-      1,
-      1,
-      1
+      6,
+      6,
+      6,
+      6
     ],
     "group_ai_role_type_limit": [
       2,
@@ -2450,10 +2447,10 @@
     "spread_type": 5,
     "spread_param": [
       15000,
-      1,
-      1,
-      1,
-      1
+      6,
+      6,
+      6,
+      6
     ],
     "group_ai_role_type_limit": [
       2,
@@ -2539,6 +2536,9 @@
     "editor_name": "友好-友好/胆小-开始",
     "group_event_type": 1,
     "spread_type": 7,
+    "group_ai_role_type_limit": [
+      50
+    ],
     "spread_limit_status": [
       0
     ],
@@ -2549,6 +2549,9 @@
     "editor_name": "友好-友好/胆小-途中",
     "group_event_type": 1,
     "spread_type": 7,
+    "group_ai_role_type_limit": [
+      50
+    ],
     "spread_limit_status": [
       0
     ],
@@ -2559,6 +2562,565 @@
     "editor_name": "友好-友好/胆小-结束",
     "group_event_type": 1,
     "spread_type": 7,
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230066,
+    "editor_name": "长尾火鸟呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230067,
+    "editor_name": "火羽呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      4,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230068,
+    "editor_name": "蝙蝠一阶二阶呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      2,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230069,
+    "editor_name": "蝙蝠三阶呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      4,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230070,
+    "editor_name": "【异地梦游世界版】催眠精灵",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      88
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230071,
+    "editor_name": "喊宿敌ABC",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      4,
+      5,
+      11,
+      8,
+      9,
+      10
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230072,
+    "editor_name": "抵御攻击_首领化",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      12
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230073,
+    "editor_name": "【莫比】召唤攻击",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      5000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      12
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230074,
+    "editor_name": "吹飞事件",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1000,
+      6
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      92
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230075,
+    "editor_name": "布谷鸟钟",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      6
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      92,
+      88
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230076,
+    "editor_name": "巨人呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230077,
+    "editor_name": "巨人呼唤_自己吃",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230078,
+    "editor_name": "巨人呼唤_生成",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230079,
+    "editor_name": "呼唤一定范围所有成员_超大范围",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      4000,
+      10
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230080,
+    "editor_name": "【骑乘】抵御攻击_友爱",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      12
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230081,
+    "editor_name": "【骑乘】抵御中_友爱",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      12
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230082,
+    "editor_name": "呼唤一定范围所有老大",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      1
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230083,
+    "editor_name": "呼唤一定范围所有小弟",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230084,
+    "editor_name": "呼唤一定范围内1个老大",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      1
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230085,
+    "editor_name": "呼唤一定范围内1个宿敌A",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      4
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230086,
+    "editor_name": "雷神之子呼唤",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      3000,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230087,
+    "editor_name": "【雷神之子】吸引",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      10
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230088,
+    "editor_name": "眼魔喊所有小弟打手",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      2,
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230089,
+    "editor_name": "呼唤一定范围所有老大_2",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      1
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230090,
+    "editor_name": "呼唤一定范围所有小弟_2",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230091,
+    "editor_name": "呼唤一定范围内1个宿敌B",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      5
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230092,
+    "editor_name": "呼唤一定范围内1个亲友A",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      6
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230093,
+    "editor_name": "呼唤一定范围内1个亲友B",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      7
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230094,
+    "editor_name": "眼魔喊所有小弟打手_老大",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      2,
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230095,
+    "editor_name": "火羽呼唤_跟随",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      4,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2
+    ],
     "spread_limit_status": [
       0
     ],
@@ -6276,6 +6838,346 @@
     "expire_type": 3
   },
   {
+    "id": 280220,
+    "editor_name": "【稻草人】护主",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      6
+    ],
+    "group_ai_role_type_limit": [
+      12
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280221,
+    "editor_name": "【炮米花】组装大炮",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      117
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280222,
+    "editor_name": "【半朽蜜果灵】甜甜蜜果",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      116
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280223,
+    "editor_name": "【胡桃王子】仪仗队",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      114
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280224,
+    "editor_name": "【足尖元件】天鹅舞",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      113
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280225,
+    "editor_name": "【深渊蛙】小蝌蚪找妈妈",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1,
+      6
+    ],
+    "group_ai_role_type_limit": [
+      111,
+      109
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280226,
+    "editor_name": "【深渊蛙】找回小蝌蚪",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280227,
+    "editor_name": "【卡拉波斯】成功催眠",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      108
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280228,
+    "editor_name": "【卡拉波斯】失败催眠",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      108
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280229,
+    "editor_name": "【炮米花】发射苞米仔",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280230,
+    "editor_name": "【家园】变小跑圈",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280231,
+    "editor_name": "【家园】变小害怕",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280232,
+    "editor_name": "【家园】s3魔法盆栽-事件开启",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      21,
+      50
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280233,
+    "editor_name": "【家园】s3魔法盆栽-事件结束",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280234,
+    "editor_name": "【家园】s3魔法餐车",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      63
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280235,
+    "editor_name": "【家园】s3魔法盆栽-飞行精灵休憩",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      32
+    ],
+    "group_ai_black_role_type": [
+      40,
+      39
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280236,
+    "editor_name": "【家园】宝藏小狐",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      119
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280237,
+    "editor_name": "【蜜果骸】变成蜜果",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      3
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      116
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280238,
+    "editor_name": "【蜜果骸】到场表演",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280239,
+    "editor_name": "【半朽蜜果灵】到场惊吓",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
     "id": 300000,
     "editor_name": "【蹦床松鼠】结束跳跃驱散松鼠",
     "group_event_type": 1,
@@ -7500,9 +8402,6 @@
     "group_ai_role_type_limit": [
       12
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7515,9 +8414,6 @@
     "spread_type": 4,
     "group_ai_role_type_limit": [
       0
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -7558,9 +8454,6 @@
     "group_ai_role_type_limit": [
       0
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7573,9 +8466,6 @@
     "spread_type": 4,
     "group_ai_role_type_limit": [
       0
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -7593,9 +8483,6 @@
     ],
     "group_ai_role_type_limit": [
       3
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -7670,9 +8557,6 @@
     "group_ai_role_type_limit": [
       0
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7685,9 +8569,6 @@
     "spread_type": 4,
     "group_ai_role_type_limit": [
       0
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -7706,9 +8587,6 @@
     "group_ai_role_type_limit": [
       0
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7726,9 +8604,6 @@
     "group_ai_role_type_limit": [
       19
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7741,9 +8616,6 @@
     "spread_type": 4,
     "group_ai_role_type_limit": [
       0
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -7852,9 +8724,6 @@
     "group_ai_role_type_limit": [
       12
     ],
-    "group_ai_black_role_type": [
-      92
-    ],
     "spread_limit_status": [
       0
     ],
@@ -7867,9 +8736,6 @@
     "spread_type": 4,
     "group_ai_role_type_limit": [
       0
-    ],
-    "group_ai_black_role_type": [
-      92
     ],
     "spread_limit_status": [
       0
@@ -10065,7 +10931,7 @@
   },
   {
     "id": 530015,
-    "editor_name": "【风铃鲨】求雨表演",
+    "editor_name": "【风铃鲨】祈雨表演",
     "group_event_type": 1,
     "spread_type": 4,
     "group_ai_role_type_limit": [

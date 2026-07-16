@@ -76,5 +76,33 @@
         "website_id_pc": 330006
       }
     ]
+  },
+  {
+    "id": 2500004,
+    "task_id": 110000444,
+    "goods_group": [
+      {
+        "option_name": "胡桃王子",
+        "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
+        "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_hutaowangzi.img_hutaowangzi'",
+        "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_HuTaoWangZi_Zheng1.MI_UI_S3_HuTaoWangZi_Zheng1'",
+        "ae_img2": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_HuTaoWangZi_Zheng2.MI_UI_S3_HuTaoWangZi_Zheng2'",
+        "goods_back": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_beimian_hutaowangzi.img_beimian_hutaowangzi'",
+        "back_ae_img": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_HuTaoWangZi_Bei.MI_UI_S3_HuTaoWangZi_Bei'",
+        "website_id": 330011,
+        "website_id_pc": 330009
+      },
+      {
+        "option_name": "离心舞者",
+        "bg_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_bphuizhang_bg.img_bphuizhang_bg'",
+        "goods_front": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_lixinwuzhe.img_lixinwuzhe'",
+        "ae_img1": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_LiXinWuZhe_Zheng1.MI_UI_S3_LiXinWuZhe_Zheng1'",
+        "ae_img2": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_LiXinWuZhe_Zheng2.MI_UI_S3_LiXinWuZhe_Zheng2'",
+        "goods_back": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_beimian_lixinwuzhe.img_beimian_lixinwuzhe'",
+        "back_ae_img": "MaterialInstanceConstant'/Game/ArtRes/UI/Effects/Materials/BPBadge/MI_UI_S3_LiXinWuZhe_Bei.MI_UI_S3_LiXinWuZhe_Bei'",
+        "website_id": 330012,
+        "website_id_pc": 330010
+      }
+    ]
   }
 ]

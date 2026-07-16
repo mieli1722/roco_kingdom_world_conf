@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "editor_name": "精灵界面入口",
     "function_entrance": 1,
     "function_Ban_Type": 4,
     "is_hide_entrance": true,
@@ -28,7 +27,6 @@
   },
   {
     "id": 2,
-    "editor_name": "包裹界面入口",
     "function_entrance": 2,
     "function_Ban_Type": 5,
     "unlock_cond_list": [
@@ -37,13 +35,12 @@
         "unlock_param": [
           "1"
         ],
-        "ban_text": "星盘没有回应你的意志，等级达到%s级时再来试试吧。"
+        "ban_text": "星盘没有回应你的意志，等级达到{0}级时再来试试吧。"
       }
     ]
   },
   {
     "id": 3,
-    "editor_name": "大地图界面入口",
     "function_entrance": 3,
     "function_Ban_Type": 6,
     "unlock_cond_list": [
@@ -61,7 +58,6 @@
   },
   {
     "id": 4,
-    "editor_name": "任务界面入口",
     "function_entrance": 4,
     "function_Ban_Type": 7,
     "is_hide_entrance": true,
@@ -71,13 +67,12 @@
         "unlock_param": [
           "1"
         ],
-        "ban_text": "星盘没有回应你的意志，等级达到%s级时再来试试吧。"
+        "ban_text": "星盘没有回应你的意志，等级达到{0}级时再来试试吧。"
       }
     ]
   },
   {
     "id": 5,
-    "editor_name": "图鉴界面入口",
     "function_entrance": 5,
     "function_Ban_Type": 8,
     "is_hide_entrance": true,
@@ -100,7 +95,6 @@
   },
   {
     "id": 6,
-    "editor_name": "pvp匹配入口",
     "function_entrance": 6,
     "function_Ban_Type": 9,
     "unlock_cond_list": [
@@ -117,7 +111,6 @@
   },
   {
     "id": 7,
-    "editor_name": "赛季通行证入口",
     "function_entrance": 7,
     "function_Ban_Type": 29,
     "is_hide_entrance": true,
@@ -138,7 +131,6 @@
   },
   {
     "id": 8,
-    "editor_name": "魔法师手册入口",
     "function_entrance": 8,
     "function_Ban_Type": 30,
     "is_hide_entrance": true,
@@ -159,7 +151,6 @@
   },
   {
     "id": 9,
-    "editor_name": "聊天入口（好友列表的私聊）",
     "function_entrance": 9,
     "function_Ban_Type": 32,
     "is_hide_entrance": true,
@@ -175,7 +166,6 @@
   },
   {
     "id": 10,
-    "editor_name": "好友入口",
     "function_entrance": 10,
     "is_hide_entrance": true,
     "change_reason": [
@@ -193,7 +183,6 @@
   },
   {
     "id": 11,
-    "editor_name": "充值商城入口",
     "function_entrance": 11,
     "function_Ban_Type": 90,
     "is_hide_entrance": true,
@@ -209,7 +198,6 @@
   },
   {
     "id": 12,
-    "editor_name": "邮件入口",
     "function_entrance": 12,
     "is_hide_entrance": true,
     "change_reason": [
@@ -228,7 +216,6 @@
   },
   {
     "id": 13,
-    "editor_name": "教学入口",
     "function_entrance": 13,
     "is_hide_entrance": true,
     "unlock_cond_list": [
@@ -243,7 +230,6 @@
   },
   {
     "id": 14,
-    "editor_name": "孵蛋按钮",
     "function_entrance": 14,
     "unlock_cond_list": [
       {
@@ -257,7 +243,6 @@
   },
   {
     "id": 16,
-    "editor_name": "大世界捕捉",
     "function_entrance": 16,
     "function_Ban_Type": 72,
     "is_hide_entrance": true,
@@ -272,13 +257,11 @@
   },
   {
     "id": 18,
-    "editor_name": "换装",
     "function_entrance": 18,
     "function_Ban_Type": 31
   },
   {
     "id": 19,
-    "editor_name": "活动界面入口",
     "function_entrance": 19,
     "function_Ban_Type": 38,
     "is_hide_entrance": true,
@@ -294,7 +277,6 @@
   },
   {
     "id": 20,
-    "editor_name": "精灵旅行大地图快捷入口",
     "function_entrance": 20,
     "function_Ban_Type": 55,
     "is_hide_entrance": true,
@@ -309,7 +291,6 @@
   },
   {
     "id": 21,
-    "editor_name": "精灵界面里的孵蛋入口",
     "function_entrance": 21,
     "is_hide_entrance": true,
     "unlock_cond_list": [
@@ -323,7 +304,6 @@
   },
   {
     "id": 22,
-    "editor_name": "音乐界面入口",
     "function_entrance": 22,
     "function_Ban_Type": 57,
     "is_hide_entrance": true,
@@ -341,7 +321,6 @@
   },
   {
     "id": 24,
-    "editor_name": "A1图鉴入口",
     "function_entrance": 24,
     "change_reason": [
       102,
@@ -359,7 +338,6 @@
   },
   {
     "id": 25,
-    "editor_name": "A2图鉴入口",
     "function_entrance": 25,
     "change_reason": [
       104,
@@ -377,7 +355,6 @@
   },
   {
     "id": 39,
-    "editor_name": "拍照入口",
     "function_entrance": 39,
     "function_Ban_Type": 64,
     "is_hide_entrance": true,
@@ -393,7 +370,6 @@
   },
   {
     "id": 40,
-    "editor_name": "皮卡商店入口",
     "function_entrance": 40,
     "function_Ban_Type": 91,
     "is_hide_entrance": true,
@@ -409,7 +385,6 @@
   },
   {
     "id": 41,
-    "editor_name": "眠枭庇护所列表查询入口",
     "function_entrance": 41,
     "is_hide_entrance": true,
     "unlock_cond_list": [
@@ -423,7 +398,6 @@
   },
   {
     "id": 42,
-    "editor_name": "便捷换装入口",
     "function_entrance": 42,
     "function_Ban_Type": 69,
     "is_hide_entrance": true,
@@ -442,7 +416,6 @@
   },
   {
     "id": 54,
-    "editor_name": "赛季入口",
     "function_entrance": 54,
     "function_Ban_Type": 71,
     "is_hide_entrance": true,
@@ -458,7 +431,6 @@
   },
   {
     "id": 56,
-    "editor_name": "主界面快捷喊话聊天入口",
     "function_entrance": 56,
     "function_Ban_Type": 73,
     "unlock_cond_list": [
@@ -473,7 +445,6 @@
   },
   {
     "id": 77,
-    "editor_name": "战斗中聊天入口",
     "function_entrance": 77,
     "function_Ban_Type": 95,
     "unlock_cond_list": [
@@ -488,7 +459,6 @@
   },
   {
     "id": 78,
-    "editor_name": "添加好友私聊入口",
     "function_entrance": 78,
     "unlock_cond_list": [
       {
@@ -502,7 +472,6 @@
   },
   {
     "id": 79,
-    "editor_name": "一星魔法师前，远行商人不能解锁",
     "function_entrance": 79,
     "unlock_cond_list": [
       {
@@ -515,7 +484,6 @@
   },
   {
     "id": 84,
-    "editor_name": "RP界面自定义换装入口",
     "function_entrance": 84,
     "function_Ban_Type": 124,
     "is_hide_entrance": true,
@@ -531,7 +499,6 @@
   },
   {
     "id": 86,
-    "editor_name": "S1赛季合影入口",
     "function_entrance": 86,
     "unlock_cond_list": [
       {
@@ -545,7 +512,6 @@
   },
   {
     "id": 87,
-    "editor_name": "S2赛季合影入口",
     "function_entrance": 87,
     "unlock_cond_list": [
       {
@@ -558,8 +524,20 @@
     ]
   },
   {
+    "id": 90,
+    "function_entrance": 90,
+    "unlock_cond_list": [
+      {
+        "unlock_type": 2,
+        "unlock_param": [
+          "9935"
+        ],
+        "ban_text": "图鉴尚未解锁"
+      }
+    ]
+  },
+  {
     "id": 1020000,
-    "editor_name": "精灵界面-精灵成长按钮",
     "function_entrance": 1020000,
     "is_hide_entrance": true,
     "unlock_cond_list": [
@@ -573,7 +551,6 @@
   },
   {
     "id": 8030000,
-    "editor_name": "魔法师手册，排位赛传送入口",
     "function_entrance": 8030000,
     "unlock_cond_list": [
       {
@@ -587,7 +564,6 @@
   },
   {
     "id": 11060000,
-    "editor_name": "周边商城",
     "function_entrance": 11060000,
     "unlock_cond_list": [
       {
@@ -601,7 +577,6 @@
   },
   {
     "id": 43011000,
-    "editor_name": "炼金-家园烹饪页签解锁",
     "function_entrance": 43011000,
     "unlock_cond_list": [
       {
@@ -615,7 +590,6 @@
   },
   {
     "id": 80000001,
-    "editor_name": "传送到角色附近",
     "function_entrance": 80000001,
     "unlock_cond_list": [
       {
@@ -629,7 +603,6 @@
   },
   {
     "id": 90000001,
-    "editor_name": "局内获取咕噜球按钮",
     "function_entrance": 90000001,
     "is_hide_entrance": true,
     "unlock_cond_list": [

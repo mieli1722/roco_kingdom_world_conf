@@ -8332,7 +8332,7 @@
     "name_loc": "Coolu",
     "title": "金牌信使",
     "title_loc": "Five-Star Courier",
-    "text": "{捕捉精灵报告}",
+    "text": "{SubmitPetReport}",
     "text_loc": "{Jini Catch Report}",
     "dialogue_sound": "dialog6028300",
     "has_wwise_event": "没有对应配置",
@@ -8404,7 +8404,7 @@
     "sheet_id": 199800002,
     "name": "噜噜",
     "name_loc": "Coolu",
-    "text": "{精灵上报}",
+    "text": "{CampPetReport}",
     "text_loc": "{Jini Submission}",
     "dialogue_sound": "dialog199800002",
     "has_wwise_event": "没有对应配置",
@@ -9947,8 +9947,9 @@
     "name_loc": "Irys",
     "text": "我认识那孩子……咳咳，那只精灵，它的本性不是这样的，你不要怪它。",
     "text_loc": "I know that fello... ahem, that Jini. That is not its true nature. Please don't hold it against the poor creature.",
-    "dialogue_sound": "dialog201016605",
-    "has_wwise_event": "427273435.wem"
+    "dialogue_sound": "dialog201016610yls",
+    "has_wwise_event": "763591033.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|7600657",
@@ -64957,9 +64958,10 @@
     "sheet_name": "DIALOGUE_CONF",
     "sheet_id": 203915515,
     "text": "恩佐看向自己身体的模样，略微苦笑……",
-    "dialogue_sound": "dialog203915515",
+    "dialogue_sound": "nosound",
     "ui_source_type": 6,
-    "has_wwise_event": "502615082.wem"
+    "has_wwise_event": "没有对应配置",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|203915516",
@@ -68396,8 +68398,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "呵呵，小同学你来了。",
-    "dialogue_sound": "dialog1304405",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304405glf",
+    "has_wwise_event": "296074298.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|1304415",
@@ -68411,8 +68414,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "我收到了沃尔克老师的信件。他是魔法学院负责洛克里安事务的老师。",
-    "dialogue_sound": "dialog1304415",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304415glf",
+    "has_wwise_event": "235453361.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|1304420",
@@ -68426,8 +68430,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "没想到，一向胸有成竹的他，这次却似乎遇到了什么难以解决的事情。",
-    "dialogue_sound": "dialog1304420",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304420glf",
+    "has_wwise_event": "144842813.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770051",
@@ -68452,8 +68457,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "嗯，具体情况，在这里一时半会解释不清楚。总之他希望让我派一名学生助手给他。",
-    "dialogue_sound": "dialog1304425",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304425glf",
+    "has_wwise_event": "661615570.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|1304430",
@@ -68467,8 +68473,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "我立刻想到了你。毕竟你这孩子呀，面对棘手的事情，总能轻松化解！",
-    "dialogue_sound": "dialog1304430",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304430glf",
+    "has_wwise_event": "39718891.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770052",
@@ -68504,9 +68511,10 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "不用犹豫，这可是出去游学的好机会呀！",
-    "dialogue_sound": "dialog1304435",
+    "dialogue_sound": "dialog1304435glf",
     "ui_source_type": 5,
-    "has_wwise_event": "没有对应配置"
+    "has_wwise_event": "314834294.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770054",
@@ -68531,8 +68539,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "洛克里安是我们王国的核心区域，历史悠久，地域辽阔——",
-    "dialogue_sound": "dialog1304440",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304440glf",
+    "has_wwise_event": "825604341.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|1304445",
@@ -68546,8 +68555,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "王国的首府——王国城堡便坐落于此。除此之外，其南部的彼得大道，更是闻名大陆的新技术大都会！",
-    "dialogue_sound": "dialog1304445",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304445glf",
+    "has_wwise_event": "197447552.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770055",
@@ -68572,8 +68582,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "呵呵，确实如此！是不是很期待呢？",
-    "dialogue_sound": "dialog1304450",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304450glf",
+    "has_wwise_event": "773283955.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770056",
@@ -68598,8 +68609,9 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "我就知道你会感兴趣的！这次出行，学院为你准备了专属飞艇，到达洛克里安后，沃尔克老师便会接待你。",
-    "dialogue_sound": "dialog1304455",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog1304455glf",
+    "has_wwise_event": "400381614.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "DIALOGUE_CONF|1304460",
@@ -68613,9 +68625,10 @@
     "name": "格里芬",
     "title": "学院院长",
     "text": "——对了，你肯定会担心落下学业吧。放心，沃尔克老师也会对你的作业负责到底！！",
-    "dialogue_sound": "dialog1304460",
+    "dialogue_sound": "dialog1304460glf",
     "ui_source_type": 5,
-    "has_wwise_event": "没有对应配置"
+    "has_wwise_event": "621094146.wem",
+    "has_lip_sync": "不存在"
   },
   {
     "id": "SELECT_CONF|770057",
@@ -71031,7 +71044,7 @@
     "sheet_name": "DIALOGUE_CONF",
     "sheet_id": 100071,
     "name": "耕种提示牌",
-    "text": "本次可开垦{可解锁土地数量}块土地，是否开垦呢？",
+    "text": "本次可开垦{MaxUnlockFarmLandNum}块土地，是否开垦呢？",
     "dialogue_sound": "dialog100071",
     "has_wwise_event": "没有对应配置",
     "has_lip_sync": "不存在"
@@ -76638,8 +76651,8 @@
     "name": "可丽希亚",
     "title": "王国公主",
     "text": "哼……本公主也觉得是这样。",
-    "dialogue_sound": "dialog203913180",
-    "has_wwise_event": "没有对应配置"
+    "dialogue_sound": "dialog203913185",
+    "has_wwise_event": "365946695.wem"
   },
   {
     "id": "SELECT_CONF|202114154",
@@ -187529,6 +187542,283 @@
     "text": "离开"
   },
   {
+    "id": "DIALOGUE_CONF|403522420",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522420,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "嗯……寒霜村的水土已经相当稳定了，但还差很多……",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "SELECT_CONF|520023021",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "SELECT_CONF",
+    "sheet_id": 520023021,
+    "text": "你好"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522425",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522425,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "小洛克你好，是你收到了我关于「星光睡铃复苏计划」的求助信息吧。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522430",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522430,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "我叫夏美，正在尝试复苏一种几乎灭绝的植物「星光睡铃」。根据古籍的记载，它具有小范围稳定生态环境的作用。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522435",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522435,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "可惜现如今卡洛西亚大陆的土壤已经不再适合它生长。所以我必须尝试还原适合它的培育基质！",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522440",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522440,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "嗯……但是我陷入了瓶颈。虽然已经成功活化了它的草系本源，但还需要<span color=\"#43ADEF\">五种系别精华</>，来构建平衡的培育基。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522445",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522445,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "根据古籍的记载，这些系别精华都深埋在地下，只有依靠<span color=\"#43ADEF\">不同系别的精灵</>才能找到。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522450",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522450,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "我把太多时间都用来研究植物……在与精灵的相处方面几乎毫无建树，所以想请你帮忙。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "SELECT_CONF|520023022",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "SELECT_CONF",
+    "sheet_id": 520023022,
+    "text": "我能做什么？"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522455",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522455,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "请看，这是古籍上记载的生态记录，我已经解析出了一部分。",
+    "ui_source_type": 2,
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522460",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522460,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "请你按照图上的指示前往对应地区，<span color=\"#43ADEF\">骑乘对应系别的特定精灵</>，接近精华时精灵就会做出<span color=\"#43ADEF\">反应</>。",
+    "ui_source_type": 2,
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522465",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522465,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "<span color=\"#43ADEF\">精灵会有四种不同的反应</>，越接近系别精华会有越明显的反应，要仔细留意精灵的反应变化。",
+    "ui_source_type": 2,
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522470",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522470,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "<span color=\"#43ADEF\">精灵能够发现蓝色的亮光</>，找到它后，就可以把系别精华挖出来了。",
+    "ui_source_type": 2,
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "SELECT_CONF|520023023",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "SELECT_CONF",
+    "sheet_id": 520023023,
+    "text": "明白了"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522475",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522475,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "嗯！不过系别精华埋藏很深，所以你可能会同时挖出其它有价值的东西。那些都归你~~",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522480",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522480,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "目前我只解析出两个地区的生态记录，其余地区还需要一些时间。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522485",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522485,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "但星光睡铃种子的生命力非常微弱，请你先去寻找已知的系别精华，否则它很可能会枯死。",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "DIALOGUE_CONF|403522490",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "DIALOGUE_CONF",
+    "sheet_id": 403522490,
+    "name": "夏美",
+    "title": "魔法植物研究员",
+    "text": "这不是战斗，而是需要精灵对环境的精细感知才能采集到的纯净样本。星光睡铃的未来，就拜托你了！",
+    "has_wwise_event": "没有对应配置"
+  },
+  {
+    "id": "SELECT_CONF|520023024",
+    "task_class": 1,
+    "unit_id": "93001(活动-宝藏寻踪)",
+    "paragraph_id": "52912(夏美的计划)",
+    "task_id": 52002302,
+    "activation_method": "通过未知激活方式",
+    "task_name": "星光睡铃复苏计划",
+    "sheet_name": "SELECT_CONF",
+    "sheet_id": 520023024,
+    "text": "可以再说一遍吗？"
+  },
+  {
     "id": "DIALOGUE_CONF|670000034",
     "task_class": 1,
     "unit_id": "23005(故乡的礼物)",
@@ -238688,7 +238978,7 @@
     "sheet_name": "DIALOGUE_CONF",
     "sheet_id": 320000440,
     "name": "神秘怪人",
-    "text": "哎呀！失敬失敬，难道你就是传闻中的那位的%s？一路上，我可没少听说你的传奇经历。",
+    "text": "哎呀！失敬失敬，难道你就是传闻中的那位的{0}？一路上，我可没少听说你的传奇经历。",
     "has_wwise_event": "没有对应配置"
   },
   {
@@ -239181,7 +239471,7 @@
     "sheet_name": "DIALOGUE_CONF",
     "sheet_id": 320001250,
     "name": "希洛",
-    "text": "%s，为了精彩的马戏表演，我们只能跟声波缇塔一起试试了。你觉得呢？",
+    "text": "{0}，为了精彩的马戏表演，我们只能跟声波缇塔一起试试了。你觉得呢？",
     "has_wwise_event": "没有对应配置"
   },
   {
@@ -239422,7 +239712,7 @@
     "sheet_name": "DIALOGUE_CONF",
     "sheet_id": 320002150,
     "name": "希洛",
-    "text": "%s也一起来帮忙吧！毕竟，我答应带你欣赏一场华丽的马戏表演。看现在的情况，要是没有我们，真不知道要等到什么时候。",
+    "text": "{0}也一起来帮忙吧！毕竟，我答应带你欣赏一场华丽的马戏表演。看现在的情况，要是没有我们，真不知道要等到什么时候。",
     "has_wwise_event": "没有对应配置"
   },
   {

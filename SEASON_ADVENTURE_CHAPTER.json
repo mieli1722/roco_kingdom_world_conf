@@ -334,5 +334,174 @@
       53503656,
       53503657
     ]
+  },
+  {
+    "id": 10301,
+    "group_id": 103,
+    "chapter_type": 1,
+    "chapter_num": 1,
+    "next_chapter": 10302,
+    "chapter_name": "幻梦第一话",
+    "chapter_story_name": "智慧出版社",
+    "chapter_story": "莫里亚克的智慧出版社终于开业了。\n虽然因为一些意外，它又不得不暂时关上了大门，但莫里亚克仍旧欢迎我的到来。\n有空多去看看加尔吧！",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'",
+    "progress_text": "章节进度",
+    "rewards": 19554,
+    "pre_task": 70021004,
+    "tasks": [
+      53506101,
+      53506102,
+      53506103,
+      53506104,
+      53506105,
+      53506106
+    ],
+    "chapter_finish_task_num": 3,
+    "open_at_season_start": [
+      53506101,
+      53506102,
+      53506103,
+      53506104,
+      53506105,
+      53506106
+    ],
+    "unlock_text": "完成赛季委托「欢迎来到智慧出版社」开启"
+  },
+  {
+    "id": 10302,
+    "group_id": 103,
+    "chapter_type": 1,
+    "chapter_num": 2,
+    "next_chapter": 10303,
+    "chapter_name": "幻梦第二话",
+    "chapter_story_name": "精灵童话书",
+    "chapter_story": "那本可以实现愿望的童话集究竟蕴含着怎样的魔力？\n除了童话集，世界中还出现了各式各样的神奇书本，它们似乎与新出现的奇遇精灵有关，快去一探究竟吧！",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c02.s3_c02'",
+    "progress_text": "章节进度",
+    "rewards": 19555,
+    "pre_task": 70026014,
+    "tasks": [
+      53506201,
+      53506202,
+      53506203,
+      53506204,
+      53506205,
+      53506206
+    ],
+    "chapter_finish_task_num": 3,
+    "open_at_season_start": [
+      53506201,
+      53506202,
+      53506203,
+      53506204,
+      53506205,
+      53506206
+    ],
+    "unlock_text": "完成7月17日4:00更新的赛季委托后开启"
+  },
+  {
+    "id": 10303,
+    "group_id": 103,
+    "chapter_type": 1,
+    "chapter_num": 3,
+    "next_chapter": 10304,
+    "chapter_name": "幻梦第三话",
+    "chapter_story_name": "命运的奇遇",
+    "chapter_story": "莫里亚克从书中救助了一些流浪精灵，并让它们暂住在智慧出版社。\n也许是它们许下过什么愿望？也许是莫里亚克许下过什么愿望？谁也不知道。",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'",
+    "progress_text": "章节进度",
+    "rewards": 19556,
+    "pre_task": 70027009,
+    "tasks": [
+      53506301,
+      53506302,
+      53506303,
+      53506304,
+      53506305,
+      53506306
+    ],
+    "chapter_finish_task_num": 4,
+    "open_at_season_start": [
+      53506301,
+      53506302,
+      53506303,
+      53506304,
+      53506305,
+      53506306
+    ],
+    "unlock_text": "完成7月24日4:00更新的赛季委托后开启"
+  },
+  {
+    "id": 10304,
+    "group_id": 103,
+    "chapter_type": 1,
+    "chapter_num": 4,
+    "next_chapter": 10305,
+    "chapter_name": "幻梦第四话",
+    "chapter_story_name": "神奇四叶草",
+    "chapter_story": "加尔在使用自己的力量来实现洛克的愿望。\n洛克们的心愿千奇百怪，但没有谁能让所有愿望成真，愿望或许也不该由这种方式达成。\n加尔手中攥着的那棵神奇四叶草，真的是「幸运」的代表吗？",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c04.s3_c04'",
+    "progress_text": "章节进度",
+    "rewards": 19557,
+    "pre_task": 70028015,
+    "tasks": [
+      53506401,
+      53506402,
+      53506403,
+      53506404,
+      53506405,
+      53506406
+    ],
+    "chapter_finish_task_num": 4,
+    "open_at_season_start": [
+      53506401,
+      53506402,
+      53506403,
+      53506404,
+      53506405,
+      53506406
+    ],
+    "unlock_text": "完成7月31日4:00更新的赛季委托后开启"
+  },
+  {
+    "id": 10305,
+    "group_id": 103,
+    "chapter_type": 2,
+    "chapter_num": 5,
+    "chapter_name": "幻梦最终话",
+    "chapter_story_name": "愿望是果实",
+    "chapter_story": "童话集中记载的或许不是真实的愿望，因为有的时候，洛克也不知道自己究竟在追求什么。\n加尔的故事告一段落了，而洛克的故事还在继续——",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c05.s3_c05'",
+    "progress_text": "徽章进度",
+    "pre_task": 53505008,
+    "tasks": [
+      53506501,
+      53506502,
+      53506503,
+      53506504,
+      53506505,
+      53506506,
+      53506507,
+      53506508,
+      53506509,
+      53506510,
+      53506511,
+      53506512
+    ],
+    "open_at_season_start": [
+      53506501,
+      53506502,
+      53506503,
+      53506504,
+      53506505,
+      53506506,
+      53506507,
+      53506508,
+      53506509,
+      53506510,
+      53506511,
+      53506512
+    ],
+    "unlock_text": "8月7日4:00后开启赛季徽章与奇遇果实章节"
   }
 ]

@@ -5,24 +5,31 @@
     "part_desc": "邀请",
     "reward_invite_count": 1,
     "max_reward_count": 5,
-    "share_part_conf_id": 1002,
+    "share_part_conf_id": [
+      1101,
+      1102
+    ],
     "reward_award_way": 2,
     "reward_group": [
       {
         "goods_type": 1,
         "goods_id": 320019,
-        "goods_count": 10
+        "goods_count": 20
       }
-    ]
+    ],
+    "mail_id": 90005
   },
   {
     "id": 3700002,
-    "part_name": "【每日】分享一次邀请函",
+    "part_name": "每日分享一次邀请函",
     "part_desc": "分析",
     "task_id": 110000156,
     "reset_type": 1,
-    "max_reward_count": 30,
-    "share_part_conf_id": 1002,
+    "max_reward_count": 20,
+    "share_part_conf_id": [
+      1101,
+      1102
+    ],
     "reward_group": [
       {
         "goods_type": 1,
@@ -34,18 +41,21 @@
   },
   {
     "id": 3700003,
-    "part_name": "绑定的新同学魔法师等级10级",
+    "part_name": "新同学魔法师等级10级",
     "part_desc": "提醒",
     "reward_level": 10,
     "reward_invite_count": 1,
     "max_reward_count": 5,
-    "share_part_conf_id": 1002,
+    "share_part_conf_id": [
+      1101,
+      1102
+    ],
     "reward_award_way": 2,
     "reward_group": [
       {
         "goods_type": 1,
         "goods_id": 320019,
-        "goods_count": 10
+        "goods_count": 40
       }
     ]
   }

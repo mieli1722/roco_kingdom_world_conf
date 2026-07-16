@@ -1,0 +1,128 @@
+[
+  {
+    "id": 10001,
+    "name": "永夜地区-白月天气-每周六刷新",
+    "enable_time": "2026-04-15 00:00:00",
+    "disable_time": "2036-05-15 00:00:00",
+    "priority": 100,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "7 0:00:00\t",
+    "refresh_reset_param2": "2026-04-18 18:00:00",
+    "delete_time": "2026-04-19 00:00:00"
+  },
+  {
+    "id": 10002,
+    "name": "永夜地区-白月天气-每周日刷新",
+    "enable_time": "2026-04-15 00:00:00",
+    "disable_time": "2036-05-15 00:00:00",
+    "priority": 100,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "7 0:00:00\t",
+    "refresh_reset_param2": "2026-04-19 18:00:00",
+    "delete_time": "2026-04-20 00:00:00"
+  },
+  {
+    "id": 11001,
+    "name": "永夜地区-白月天气-中秋节刷新",
+    "enable_time": "2026-09-25 00:00:00",
+    "disable_time": "2026-09-26 00:00:00",
+    "priority": 200,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "1 0:00:00",
+    "refresh_reset_param2": "2026-09-25 08:00:00",
+    "delete_time": "2026-09-26 00:00:00"
+  },
+  {
+    "id": 11002,
+    "name": "永夜地区-白月天气-中秋节刷新",
+    "enable_time": "2027-09-15 00:00:00",
+    "disable_time": "2027-09-16 00:00:00",
+    "priority": 200,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "1 0:00:00",
+    "refresh_reset_param2": "2027-09-15 08:00:00",
+    "delete_time": "2027-09-16 00:00:00"
+  },
+  {
+    "id": 11003,
+    "name": "永夜地区-白月天气-中秋节刷新",
+    "enable_time": "2028-10-03 00:00:00",
+    "disable_time": "2028-10-04 00:00:00",
+    "priority": 200,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "1 0:00:00",
+    "refresh_reset_param2": "2028-10-03 08:00:00",
+    "delete_time": "2028-10-04 00:00:00"
+  },
+  {
+    "id": 11004,
+    "name": "永夜地区-白月天气-中秋节刷新",
+    "enable_time": "2029-09-22 00:00:00",
+    "disable_time": "2029-09-23 00:00:00",
+    "priority": 200,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "1 0:00:00",
+    "refresh_reset_param2": "2029-09-22 08:00:00",
+    "delete_time": "2029-09-23 00:00:00"
+  },
+  {
+    "id": 11005,
+    "name": "永夜地区-白月天气-中秋节刷新",
+    "enable_time": "2030-09-12 00:00:00",
+    "disable_time": "2030-09-13 00:00:00",
+    "priority": 200,
+    "area_func_list": [
+      700403,
+      700404,
+      700405,
+      700670
+    ],
+    "weather_type": 1,
+    "refresh_reset_type": 7,
+    "refresh_reset_param": "1 0:00:00",
+    "refresh_reset_param2": "2030-09-12 08:00:00",
+    "delete_time": "2030-09-13 00:00:00"
+  }
+]

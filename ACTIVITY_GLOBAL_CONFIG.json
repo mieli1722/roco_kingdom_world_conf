@@ -658,7 +658,7 @@
   {
     "id": 94,
     "key": "activity_grade_tips",
-    "str": "当前魔法等级：%s级",
+    "str": "当前魔法等级：{0}级",
     "is_loc": 1
   },
   {
@@ -805,7 +805,7 @@
   {
     "id": 115,
     "key": "questionnaireMax",
-    "num": 4,
+    "num": 3,
     "is_loc": 2
   },
   {
@@ -914,7 +914,7 @@
       8,
       9
     ],
-    "str": "灭绝;野外灭绝;极危;濒危;易危;无危;数据缺乏;未评估"
+    "str": "灭绝;野外灭绝;极危;濒危;易危;近危;无危;数据缺乏;未评估"
   },
   {
     "id": 135,
@@ -1114,7 +1114,7 @@
   {
     "id": 171,
     "key": "pre_download_progress_tips",
-    "str": "下载进度：%s",
+    "str": "下载进度：{0}",
     "is_loc": 1
   },
   {
@@ -1132,13 +1132,13 @@
   {
     "id": 174,
     "key": "activity_remain_time_day",
-    "str": "%s天",
+    "str": "{0}天",
     "is_loc": 1
   },
   {
     "id": 175,
     "key": "activity_remain_time_hour",
-    "str": "%s时",
+    "str": "{0}时",
     "is_loc": 1
   },
   {
@@ -1146,6 +1146,12 @@
     "key": "operating_cd_tips",
     "str": "操作频繁，请稍后再试",
     "is_loc": 1
+  },
+  {
+    "id": 177,
+    "key": "activity_invite_friend_limit",
+    "num": 100,
+    "str": "已经邀请了很多好友啦，可以稍微歇一歇~"
   },
   {
     "id": 178,
@@ -1166,6 +1172,36 @@
     "id": 181,
     "key": "takephoto_competition_auto_refresh",
     "num": 180
+  },
+  {
+    "id": 182,
+    "key": "Share_ElvenAmbassador_title",
+    "str": "精灵守护大使"
+  },
+  {
+    "id": 183,
+    "key": "Share_ElvenAmbassador_name",
+    "str": "亲爱的{0}："
+  },
+  {
+    "id": 184,
+    "key": "Share_ElvenAmbassador_text",
+    "str": "       鉴于你在“小狐安家记”中的卓越表现，以及在精灵调查任务中展现出的非凡耐性与爱心，学院特授予你此荣誉。\n       正是因为你的不懈努力，宝藏小狐们才得以跨越山海，在我们的世界安全安家。\n       卡洛西亚的每一片草木都将记住你与精灵并肩同行的足迹。"
+  },
+  {
+    "id": 185,
+    "key": "Share_ElvenAmbassador_issued",
+    "str": "魔法学院"
+  },
+  {
+    "id": 186,
+    "key": "Share_ElvenAmbassador_date",
+    "str": "日期：{0}"
+  },
+  {
+    "id": 197,
+    "key": "activity_pet_information_bagitem_id",
+    "num": 320040
   },
   {
     "id": 290,

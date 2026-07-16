@@ -2,892 +2,1072 @@
   {
     "id": 1,
     "button_action": "MoveForward",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 2,
     "button_action": "IA_MoveBackward",
-    "default_button": "S"
+    "default_button": "S",
+    "original_default_button": "S"
   },
   {
     "id": 3,
     "button_action": "IA_MoveLeft",
-    "default_button": "A"
+    "default_button": "A",
+    "original_default_button": "A"
   },
   {
     "id": 4,
     "button_action": "MoveRight",
-    "default_button": "D"
+    "default_button": "D",
+    "original_default_button": "D"
   },
   {
     "id": 5,
     "button_action": "IA_AbilitySlotJump",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 6,
     "button_action": "IA_PlayerClimbJumpStart_Climb",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 7,
     "button_action": "IA_PetClimbSkillStart_PetClimb",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 8,
     "button_action": "IA_AbilitySlotShortCut",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 9,
     "button_action": "IA_PetRiddingSkillStart_OnPet",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 10,
     "button_action": "IA_PlayerSwimDashStart_Water",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 11,
     "button_action": "IA_TransformSkillStart_Transform",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 12,
     "button_action": "IA_AbilitySlotOnPet",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 13,
     "button_action": "IA_AbilitySlotOffPet",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 14,
     "button_action": "IA_AbilitySlotPerceptionStart",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 15,
     "button_action": "IA_MagicSelectStart",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 16,
     "button_action": "IA_OffTempPet_OnPet",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 17,
     "button_action": "IA_AbilitySlotCrouch",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 18,
     "button_action": "IA_ExitClimbing_Climb",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 19,
     "button_action": "IA_PlayerDashStart_Normal",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 20,
     "button_action": "IA_ChangeWalkRun",
-    "default_button": "LeftControl"
+    "default_button": "LeftControl",
+    "modify_version": 1,
+    "modify_type": 1,
+    "original_default_button": "LeftControl"
   },
   {
     "id": 21,
     "button_action": "IA_SelectPetStart_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 22,
     "button_action": "IA_SelectPetStart_2",
-    "default_button": "Two"
+    "default_button": "Two",
+    "original_default_button": "Two"
   },
   {
     "id": 23,
     "button_action": "IA_SelectPetStart_3",
-    "default_button": "Three"
+    "default_button": "Three",
+    "original_default_button": "Three"
   },
   {
     "id": 24,
     "button_action": "IA_SelectPetStart_4",
-    "default_button": "Four"
+    "default_button": "Four",
+    "original_default_button": "Four"
   },
   {
     "id": 25,
     "button_action": "IA_SelectPetStart_5",
-    "default_button": "Five"
+    "default_button": "Five",
+    "original_default_button": "Five"
   },
   {
     "id": 26,
     "button_action": "IA_SelectPetStart_6",
-    "default_button": "Six"
+    "default_button": "Six",
+    "original_default_button": "Six"
   },
   {
     "id": 27,
     "button_action": "IA_FondlePet",
-    "default_button": "T"
+    "default_button": "T",
+    "original_default_button": "T"
   },
   {
     "id": 28,
     "button_action": "IA_InteractionStart",
-    "default_button": "F"
+    "default_button": "F",
+    "original_default_button": "F"
   },
   {
     "id": 29,
     "button_action": "IA_Compass",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 30,
     "button_action": "IA_AimStart",
-    "default_button": "LeftMouseButton"
+    "default_button": "LeftMouseButton",
+    "original_default_button": "LeftMouseButton"
   },
   {
     "id": 32,
     "button_action": "IA_AimCancel",
-    "default_button": "RightMouseButton"
+    "default_button": "RightMouseButton",
+    "original_default_button": "RightMouseButton"
   },
   {
     "id": 35,
     "button_action": "IA_ShowCursor",
-    "default_button": "LeftAlt"
+    "default_button": "LeftAlt",
+    "original_default_button": "LeftAlt"
   },
   {
     "id": 36,
     "button_action": "IA_OpenMenu",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 37,
     "button_action": "IA_Individuation",
-    "default_button": "Tab"
+    "default_button": "Tab",
+    "original_default_button": "Tab"
   },
   {
     "id": 38,
     "button_action": "IA_TaskDetailsStart",
-    "default_button": "V"
+    "default_button": "V",
+    "original_default_button": "V"
   },
   {
     "id": 39,
     "button_action": "IA_MessageDetails",
-    "default_button": "G"
+    "default_button": "G",
+    "original_default_button": "G"
   },
   {
     "id": 41,
     "button_action": "IA_OpenMapUI",
-    "default_button": "M"
+    "default_button": "M",
+    "original_default_button": "M"
   },
   {
     "id": 42,
     "button_action": "IA_OpenBagUI",
-    "default_button": "B"
+    "default_button": "B",
+    "original_default_button": "B"
   },
   {
     "id": 43,
     "button_action": "IA_OpenPetUI",
-    "default_button": "P"
+    "default_button": "P",
+    "original_default_button": "P"
   },
   {
     "id": 44,
     "button_action": "IA_OpenTaskUI",
-    "default_button": "J"
+    "default_button": "J",
+    "original_default_button": "J"
   },
   {
     "id": 45,
     "button_action": "IA_OpenHandbookUI",
-    "default_button": "F4"
+    "default_button": "F4",
+    "original_default_button": "F4"
   },
   {
     "id": 46,
     "button_action": "IA_OpenFriendUI",
-    "default_button": "O"
+    "default_button": "O",
+    "original_default_button": "O"
   },
   {
     "id": 47,
     "button_action": "IA_OpenGuideUI",
-    "default_button": "H"
+    "default_button": "H",
+    "original_default_button": "H"
   },
   {
     "id": 48,
     "button_action": "IA_OpenSeason",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 49,
     "button_action": "IA_OpenMagicManualUI",
-    "default_button": "F3"
+    "default_button": "F3",
+    "original_default_button": "F3"
   },
   {
     "id": 50,
     "button_action": "IA_OpenActivityUI",
-    "default_button": "F2"
+    "default_button": "F2",
+    "original_default_button": "F2"
   },
   {
     "id": 51,
     "button_action": "IA_OpenShopUI",
-    "default_button": "F5"
+    "default_button": "F5",
+    "original_default_button": "F5"
   },
   {
     "id": 52,
     "button_action": "IA_ExitDungeon",
-    "default_button": "F12"
+    "default_button": "F12",
+    "original_default_button": "F12"
   },
   {
     "id": 53,
     "button_action": "IA_TeamPanel",
-    "default_button": "U"
+    "default_button": "U",
+    "original_default_button": "U"
   },
   {
     "id": 54,
     "button_action": "IA_BattleSelectItemStart_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 55,
     "button_action": "IA_BattleSelectItemStart_2",
-    "default_button": "Two"
+    "default_button": "Two",
+    "original_default_button": "Two"
   },
   {
     "id": 56,
     "button_action": "IA_BattleSelectItemStart_3",
-    "default_button": "Three"
+    "default_button": "Three",
+    "original_default_button": "Three"
   },
   {
     "id": 57,
     "button_action": "IA_BattleSelectItemStart_4",
-    "default_button": "Four"
+    "default_button": "Four",
+    "original_default_button": "Four"
   },
   {
     "id": 58,
     "button_action": "IA_BattleSelectItemStart_5",
-    "default_button": "Five"
+    "default_button": "Five",
+    "original_default_button": "Five"
   },
   {
     "id": 59,
     "button_action": "IA_BattleSelectItemStart_6",
-    "default_button": "Six"
+    "default_button": "Six",
+    "original_default_button": "Six"
   },
   {
     "id": 60,
     "button_action": "IA_BattleMagicStart",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 61,
     "button_action": "IA_BattleBagStart",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 62,
     "button_action": "IA_BattleCatchStart",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 63,
     "button_action": "IA_BattleChangeStart",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 64,
     "button_action": "IA_BattleSkillStart",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 65,
     "button_action": "IA_BattleChangePet",
-    "default_button": "T"
+    "default_button": "T",
+    "original_default_button": "T"
   },
   {
     "id": 66,
     "button_action": "IA_BattleRecord",
-    "default_button": "Tab"
+    "default_button": "Tab",
+    "original_default_button": "Tab"
   },
   {
     "id": 67,
     "button_action": "IA_BattleMoreStart",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 68,
     "button_action": "IA_BattleGlobalSkillStart",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 69,
     "button_action": "IA_BattleClearSkillData",
-    "default_button": "Z"
+    "default_button": "Z",
+    "original_default_button": "Z"
   },
   {
     "id": 70,
     "button_action": "IA_BattleleftSelect",
-    "default_button": "A"
+    "default_button": "A",
+    "original_default_button": "A"
   },
   {
     "id": 71,
     "button_action": "IA_BattleRightSelect",
-    "default_button": "D"
+    "default_button": "D",
+    "original_default_button": "D"
   },
   {
     "id": 72,
     "button_action": "IA_BattleSure",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 73,
     "button_action": "IA_BattleRunAwayStart",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 74,
     "button_action": "IA_AbilitySlotUntransform",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 75,
     "button_action": "IA_CloseSeason",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 76,
     "button_action": "IA_CloseBagQuick",
-    "default_button": "B"
+    "default_button": "B",
+    "original_default_button": "B"
   },
   {
     "id": 77,
     "button_action": "IA_CloseActivityQuick",
-    "default_button": "F2"
+    "default_button": "F2",
+    "original_default_button": "F2"
   },
   {
     "id": 78,
     "button_action": "IA_CloseFriendQuick",
-    "default_button": "O"
+    "default_button": "O",
+    "original_default_button": "O"
   },
   {
     "id": 79,
     "button_action": "IA_CloseGuideQuick",
-    "default_button": "H"
+    "default_button": "H",
+    "original_default_button": "H"
   },
   {
     "id": 80,
     "button_action": "IA_CloseHandBookQuick",
-    "default_button": "F4"
+    "default_button": "F4",
+    "original_default_button": "F4"
   },
   {
     "id": 81,
     "button_action": "IA_CloseMagicManualQuick",
-    "default_button": "F3"
+    "default_button": "F3",
+    "original_default_button": "F3"
   },
   {
     "id": 82,
     "button_action": "IA_CloseMapQuick",
-    "default_button": "M"
+    "default_button": "M",
+    "original_default_button": "M"
   },
   {
     "id": 83,
     "button_action": "IA_ClosePetQuick",
-    "default_button": "P"
+    "default_button": "P",
+    "original_default_button": "P"
   },
   {
     "id": 84,
     "button_action": "IA_CloseShopQuick",
-    "default_button": "F5"
+    "default_button": "F5",
+    "original_default_button": "F5"
   },
   {
     "id": 85,
     "button_action": "IA_CloseTaskQuick",
-    "default_button": "J"
+    "default_button": "J",
+    "original_default_button": "J"
   },
   {
     "id": 86,
     "button_action": "IA_CanelRideAbility",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 87,
     "button_action": "IA_PgCameraDown",
-    "default_button": "S"
+    "default_button": "S",
+    "original_default_button": "S"
   },
   {
     "id": 88,
     "button_action": "IA_PgCameraUp",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 89,
     "button_action": "IA_PgChangeScene",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 90,
     "button_action": "IA_PgClosePhotoUI",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 91,
     "button_action": "IA_PgClosePreviewUI",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 92,
     "button_action": "IA_PgCloseSettingUI",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 93,
     "button_action": "IA_PgExit",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 94,
     "button_action": "IA_PgMoveForward",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 95,
     "button_action": "IA_PgMoveBackward",
-    "default_button": "S"
+    "default_button": "S",
+    "original_default_button": "S"
   },
   {
     "id": 96,
     "button_action": "IA_PgMoveLeft",
-    "default_button": "A"
+    "default_button": "A",
+    "original_default_button": "A"
   },
   {
     "id": 97,
     "button_action": "IA_PgMoveRight",
-    "default_button": "D"
+    "default_button": "D",
+    "original_default_button": "D"
   },
   {
     "id": 98,
     "button_action": "IA_PgOpenAlbum",
-    "default_button": "F3"
+    "default_button": "F3",
+    "original_default_button": "F3"
   },
   {
     "id": 99,
     "button_action": "IA_PgOpenSettingUI",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 100,
     "button_action": "IA_PgResetCamera",
-    "default_button": "F2"
+    "default_button": "F2",
+    "original_default_button": "F2"
   },
   {
     "id": 101,
     "button_action": "IA_PgSwitchCameraMode",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 102,
     "button_action": "IA_PgTakePhoto",
-    "default_button": "Enter"
+    "default_button": "Enter",
+    "original_default_button": "Enter"
   },
   {
     "id": 103,
     "button_action": "IA_PgWheelDown",
-    "default_button": "MouseScrollDown"
+    "default_button": "MouseScrollDown",
+    "original_default_button": "MouseScrollDown"
   },
   {
     "id": 104,
     "button_action": "IA_PgWheelUp",
-    "default_button": "MouseScrollUp"
+    "default_button": "MouseScrollUp",
+    "original_default_button": "MouseScrollUp"
   },
   {
     "id": 105,
     "button_action": "IA_PgEnter",
-    "default_button": "I"
+    "default_button": "I",
+    "original_default_button": "I"
   },
   {
     "id": 106,
     "button_action": "IA_PgExitQuick",
-    "default_button": "I"
+    "default_button": "I",
+    "original_default_button": "I"
   },
   {
     "id": 107,
     "button_action": "IA_BattleBagEnd",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 108,
     "button_action": "IA_BattleCatchEnd",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 109,
     "button_action": "IA_BattleChangeEnd",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 110,
     "button_action": "IA_BattleSkillEnd",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 111,
     "button_action": "IA_BattleSelectItemEnd_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 112,
     "button_action": "IA_BattleSelectItemEnd_2",
-    "default_button": "Two"
+    "default_button": "Two",
+    "original_default_button": "Two"
   },
   {
     "id": 113,
     "button_action": "IA_BattleSelectItemEnd_3",
-    "default_button": "Three"
+    "default_button": "Three",
+    "original_default_button": "Three"
   },
   {
     "id": 114,
     "button_action": "IA_BattleSelectItemEnd_4",
-    "default_button": "Four"
+    "default_button": "Four",
+    "original_default_button": "Four"
   },
   {
     "id": 115,
     "button_action": "IA_BattleSelectItemEnd_5",
-    "default_button": "Five"
+    "default_button": "Five",
+    "original_default_button": "Five"
   },
   {
     "id": 116,
     "button_action": "IA_BattleSelectItemEnd_6",
-    "default_button": "Six"
+    "default_button": "Six",
+    "original_default_button": "Six"
   },
   {
     "id": 117,
     "button_action": "IA_TaskDetailsEnd",
-    "default_button": "V"
+    "default_button": "V",
+    "original_default_button": "V"
   },
   {
     "id": 118,
     "button_action": "IA_CloseQuick_PassSelect",
-    "default_button": "F2"
+    "default_button": "F2",
+    "original_default_button": "F2"
   },
   {
     "id": 119,
     "button_action": "IA_InteractionEnd",
-    "default_button": "F"
+    "default_button": "F",
+    "original_default_button": "F"
   },
   {
     "id": 120,
     "button_action": "IA_MagicSelectEnd",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 121,
     "button_action": "IA_SelectPetEnd_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 122,
     "button_action": "IA_SelectPetEnd_2",
-    "default_button": "Two"
+    "default_button": "Two",
+    "original_default_button": "Two"
   },
   {
     "id": 123,
     "button_action": "IA_SelectPetEnd_3",
-    "default_button": "Three"
+    "default_button": "Three",
+    "original_default_button": "Three"
   },
   {
     "id": 124,
     "button_action": "IA_SelectPetEnd_4",
-    "default_button": "Four"
+    "default_button": "Four",
+    "original_default_button": "Four"
   },
   {
     "id": 125,
     "button_action": "IA_SelectPetEnd_5",
-    "default_button": "Five"
+    "default_button": "Five",
+    "original_default_button": "Five"
   },
   {
     "id": 126,
     "button_action": "IA_SelectPetEnd_6",
-    "default_button": "Six"
+    "default_button": "Six",
+    "original_default_button": "Six"
   },
   {
     "id": 127,
     "button_action": "IA_BattleMagicEnd",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 128,
     "button_action": "IA_BattleMoreEnd",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 129,
     "button_action": "IA_BattleGlobalSkillEnd",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 130,
     "button_action": "IA_AbilitySlotPerceptionEnd",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 131,
     "button_action": "IA_PetRiddingSkillEnd_OnPet",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 132,
     "button_action": "IA_PlayerSwimDashEnd_Water",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 133,
     "button_action": "IA_PlayerDashEnd_Normal",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 134,
     "button_action": "IA_PlayerClimbJumpEnd_Climb",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 135,
     "button_action": "IA_PetClimbSkillEnd_PetClimb",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 136,
     "button_action": "IA_TransformSkillEnd_Transform",
-    "default_button": "LeftShift"
+    "default_button": "LeftShift",
+    "original_default_button": "LeftShift"
   },
   {
     "id": 137,
     "button_action": "IA_Shapeshift",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 138,
     "button_action": "IA_OpenFashionMallUI",
-    "default_button": "F6"
+    "default_button": "F6",
+    "original_default_button": "F6"
   },
   {
     "id": 139,
     "button_action": "IA_CloseFashionMallUI",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 140,
     "button_action": "IA_CloseFashionMallQuick",
-    "default_button": "F6"
+    "default_button": "F6",
+    "original_default_button": "F6"
   },
   {
     "id": 141,
     "button_action": "IA_ExitClimbing_ClimbStart",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 142,
     "button_action": "IA_OffTempPet_OnPetStart",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 143,
     "button_action": "IA_QuickDressUP",
-    "default_button": "K"
+    "default_button": "K",
+    "original_default_button": "K"
   },
   {
     "id": 144,
     "button_action": "IA_AbilitySlotOnPetStart",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 145,
     "button_action": "IA_AbilitySlotOffPetStart",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 146,
     "button_action": "IA_AbilitySlotShortCutStart",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 147,
     "button_action": "IA_BallSelectStart",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 148,
     "button_action": "IA_BallSelectEnd",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 149,
     "button_action": "IA_QuickDressUPEnd",
-    "default_button": "K"
+    "default_button": "K",
+    "original_default_button": "K"
   },
   {
     "id": 150,
     "button_action": "IA_SelectFurnitureTab_left",
-    "default_button": "Q"
+    "default_button": "Q",
+    "original_default_button": "Q"
   },
   {
     "id": 151,
     "button_action": "IA_SelectFurnitureTab_right",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 152,
     "button_action": "IA_SelectFurnitureSecondTab",
-    "default_button": "Tab"
+    "default_button": "Tab",
+    "original_default_button": "Tab"
   },
   {
     "id": 153,
     "button_action": "IA_MoveForward_Home",
-    "default_button": "W"
+    "default_button": "W",
+    "original_default_button": "W"
   },
   {
     "id": 154,
     "button_action": "IA_MoveBackward_Home",
-    "default_button": "S"
+    "default_button": "S",
+    "original_default_button": "S"
   },
   {
     "id": 155,
     "button_action": "IA_MoveLeft_Home",
-    "default_button": "A"
+    "default_button": "A",
+    "original_default_button": "A"
   },
   {
     "id": 156,
     "button_action": "IA_MoveRight_Home",
-    "default_button": "D"
+    "default_button": "D",
+    "original_default_button": "D"
   },
   {
     "id": 157,
     "button_action": "IA_AbilitySlotSeedStart",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 158,
     "button_action": "IA_AbilitySlotSeedEnd",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 159,
     "button_action": "IA_Shovel_MainUIDefault",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 160,
     "button_action": "IA_AbilitySlotPetCareStart",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 161,
     "button_action": "IA_AbilitySlotPetCareEnd",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 162,
     "button_action": "IA_StopPetCare",
-    "default_button": "T"
+    "default_button": "T",
+    "original_default_button": "T"
   },
   {
     "id": 163,
     "button_action": "IA_QuickChat",
-    "default_button": "Enter"
+    "default_button": "Enter",
+    "original_default_button": "Enter"
   },
   {
     "id": 164,
     "button_action": "IA_FurnitureHandbook",
-    "default_button": "F7"
+    "default_button": "F7",
+    "original_default_button": "F7"
   },
   {
     "id": 165,
     "button_action": "IA_FurnitureHandbook_QuickClose",
-    "default_button": "F7"
+    "default_button": "F7",
+    "original_default_button": "F7"
   },
   {
     "id": 166,
     "button_action": "IA_DecorateMode",
-    "default_button": "F8"
+    "default_button": "F8",
+    "original_default_button": "F8"
   },
   {
     "id": 167,
     "button_action": "IA_DecorateMode_QuickClose",
-    "default_button": "F8"
+    "default_button": "F8",
+    "original_default_button": "F8"
   },
   {
     "id": 168,
     "button_action": "IA_Setting",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 169,
     "button_action": "IA_SkyPetRiddingSkillStart_OnPet",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 170,
     "button_action": "IA_SkyPetRiddingSkillEnd_OnPet",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 171,
     "button_action": "IA_PhotoAutoLookAt",
-    "default_button": "Z"
+    "default_button": "Z",
+    "original_default_button": "Z"
   },
   {
     "id": 172,
     "button_action": "IA_ToggleDialogueAutoplay",
-    "default_button": "Tab"
+    "default_button": "Tab",
+    "original_default_button": "Tab"
   },
   {
     "id": 174,
     "button_action": "IA_BattleChat",
-    "default_button": "Enter"
+    "default_button": "Enter",
+    "original_default_button": "Enter"
   },
   {
     "id": 175,
     "button_action": "IA_AbilitySlotHomePetCall",
-    "default_button": "C"
+    "default_button": "C",
+    "original_default_button": "C"
   },
   {
     "id": 176,
     "button_action": "IA_AbilitySlotHomePetFood",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 177,
     "button_action": "IA_OpenSeedBag",
-    "default_button": "E"
+    "default_button": "E",
+    "original_default_button": "E"
   },
   {
     "id": 178,
     "button_action": "IA_Common_Skip",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 179,
     "button_action": "IA_PgEnter1PMode",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 180,
     "button_action": "IA_PgEnterSelfieMode",
-    "default_button": "Two"
+    "default_button": "Two",
+    "original_default_button": "Two"
   },
   {
     "id": 181,
     "button_action": "IA_PgEnterTripodMode",
-    "default_button": "Three"
+    "default_button": "Three",
+    "original_default_button": "Three"
   },
   {
     "id": 182,
     "button_action": "IA_PgTripodToWorld",
-    "default_button": "T"
+    "default_button": "T",
+    "original_default_button": "T"
   },
   {
     "id": 183,
     "button_action": "IA_PgWorldToTripod",
-    "default_button": "Y"
+    "default_button": "Y",
+    "original_default_button": "Y"
   },
   {
     "id": 184,
@@ -896,121 +1076,197 @@
   {
     "id": 185,
     "button_action": "IA_PgCameraUpStart",
-    "default_button": "Up"
+    "default_button": "Up",
+    "original_default_button": "Up"
   },
   {
     "id": 186,
     "button_action": "IA_PgCameraDownStart",
-    "default_button": "Down"
+    "default_button": "Down",
+    "original_default_button": "Down"
   },
   {
     "id": 187,
     "button_action": "IA_PgCameraLeftStart",
-    "default_button": "Left"
+    "default_button": "Left",
+    "original_default_button": "Left"
   },
   {
     "id": 188,
     "button_action": "IA_PgCameraRightStart",
-    "default_button": "Right"
+    "default_button": "Right",
+    "original_default_button": "Right"
   },
   {
     "id": 189,
     "button_action": "IA_MagicReplay_ShootVideo_Exit",
-    "default_button": "Z"
+    "default_button": "Z",
+    "original_default_button": "Z"
   },
   {
     "id": 190,
     "button_action": "IA_MagicReplay_ShootVideo_Confirm",
-    "default_button": "Enter"
+    "default_button": "Enter",
+    "original_default_button": "Enter"
   },
   {
     "id": 191,
     "button_action": "IA_MagicReplay_ShootVideo_Restart",
-    "default_button": "R"
+    "default_button": "R",
+    "original_default_button": "R"
   },
   {
     "id": 192,
     "button_action": "IA_MagicReplay_ShootVideo_Record",
-    "default_button": "I"
+    "default_button": "I",
+    "original_default_button": "I"
   },
   {
     "id": 193,
     "button_action": "IA_MagicReplay_WatchVideo_Play",
-    "default_button": "F10"
+    "default_button": "F10",
+    "original_default_button": "F10"
   },
   {
     "id": 194,
     "button_action": "IA_MagicReplay_WatchVideo_Message",
-    "default_button": "F9"
+    "default_button": "F9",
+    "original_default_button": "F9"
   },
   {
     "id": 195,
     "button_action": "IA_MagicReplay_WatchVideo_Like",
-    "default_button": "F11"
+    "default_button": "F11",
+    "original_default_button": "F11"
   },
   {
     "id": 196,
     "button_action": "IA_MagicReplay_WatchVideo_Close",
-    "default_button": "F12"
+    "default_button": "F12",
+    "original_default_button": "F12"
   },
   {
     "id": 197,
     "button_action": "IA_AbilitySlotUnHand",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 198,
     "button_action": "IA_AbilitySlot_SecondMainStart",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 199,
     "button_action": "IA_BattleMoreQuickClose",
-    "default_button": "X"
+    "default_button": "X",
+    "original_default_button": "X"
   },
   {
     "id": 200,
     "button_action": "IA_QuickChat_Jump",
-    "default_button": "F1"
+    "default_button": "F1",
+    "original_default_button": "F1"
   },
   {
     "id": 201,
     "button_action": "IA_CloseQuickChat",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 202,
     "button_action": "IA_QuickChat_Send",
-    "default_button": "Enter"
+    "default_button": "Enter",
+    "original_default_button": "Enter"
   },
   {
     "id": 203,
     "button_action": "IA_B1P3FinalSkillStart_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 204,
     "button_action": "IA_B1P3FinalSkillEnd_1",
-    "default_button": "One"
+    "default_button": "One",
+    "original_default_button": "One"
   },
   {
     "id": 205,
     "button_action": "IA_CloselmageFlow",
-    "default_button": "Escape"
+    "default_button": "Escape",
+    "original_default_button": "Escape"
   },
   {
     "id": 206,
     "button_action": "IA_Nextlmage",
-    "default_button": "SpaceBar"
+    "default_button": "SpaceBar",
+    "original_default_button": "SpaceBar"
   },
   {
     "id": 207,
     "button_action": "IA_PropPlacement_Rotation_Pressed",
-    "default_button": "R"
+    "default_button": "R",
+    "modify_version": 1,
+    "modify_type": 2,
+    "original_default_button": "R"
   },
   {
     "id": 208,
     "button_action": "IA_PropPlacement_Rotation_Released",
-    "default_button": "R"
+    "default_button": "R",
+    "modify_version": 1,
+    "modify_type": 2,
+    "original_default_button": "R"
+  },
+  {
+    "id": 209,
+    "button_action": "IA_AbilitySlotHandHold",
+    "default_button": "Z",
+    "modify_version": 1,
+    "modify_type": 1,
+    "original_default_button": "Z"
+  },
+  {
+    "id": 210,
+    "button_action": "IA_CloseSubPanel",
+    "default_button": "Escape",
+    "original_default_button": "Escape"
+  },
+  {
+    "id": 211,
+    "button_action": "IA_BattleSelectForkRoadEnd_1",
+    "default_button": "One",
+    "original_default_button": "One"
+  },
+  {
+    "id": 212,
+    "button_action": "IA_BattleSelectForkRoadEnd_2",
+    "default_button": "Two",
+    "original_default_button": "Two"
+  },
+  {
+    "id": 213,
+    "button_action": "IA_BattleLeaderTokenStart",
+    "default_button": "X",
+    "modify_version": 1,
+    "modify_type": 2,
+    "original_default_button": "X"
+  },
+  {
+    "id": 214,
+    "button_action": "IA_BattleLeaderTokenEnd",
+    "default_button": "X",
+    "modify_version": 1,
+    "modify_type": 2,
+    "original_default_button": "X"
+  },
+  {
+    "id": 224,
+    "button_action": "IA_QTEClick",
+    "default_button": "Q",
+    "original_default_button": "Q"
   }
 ]

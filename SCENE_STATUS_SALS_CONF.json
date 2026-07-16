@@ -104,7 +104,7 @@
   {
     "id": 17,
     "player_sals": 17,
-    "sals_status_name": "投掷宠物交互中"
+    "sals_status_name": "投掷精灵交互中"
   },
   {
     "id": 18,
@@ -365,5 +365,11 @@
     "player_sals": 69,
     "sals_status_name": "玩家异常状态",
     "is_afk_sals": true
+  },
+  {
+    "id": 74,
+    "player_sals": 74,
+    "sals_status_name": "打开Roleplay界面状态",
+    "is_not_afk_sals": true
   }
 ]

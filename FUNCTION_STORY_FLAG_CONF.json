@@ -4,6 +4,54 @@
     "editor_name": "夜间模式"
   },
   {
+    "id": 1033,
+    "editor_name": "永夜地区玩家出战的精灵能量流失"
+  },
+  {
+    "id": 1034,
+    "editor_name": "玩家处于一级南瓜灯的光环范围内"
+  },
+  {
+    "id": 1035,
+    "editor_name": "玩家处于二级南瓜灯的光环范围内"
+  },
+  {
+    "id": 1036,
+    "editor_name": "玩家处于三级南瓜灯的光环范围内"
+  },
+  {
+    "id": 1037,
+    "editor_name": "关卡-艾米结晶一阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1038,
+    "editor_name": "关卡-艾米结晶二阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1039,
+    "editor_name": "关卡-艾米结晶三阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1040,
+    "editor_name": "关卡-女神祭坛一阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1041,
+    "editor_name": "关卡-女神祭坛二阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1042,
+    "editor_name": "关卡-女神祭坛三阶外观时玩家所携带的flag"
+  },
+  {
+    "id": 1049,
+    "editor_name": "关卡-威廉古堡室内-点火前刷新的精灵"
+  },
+  {
+    "id": 1050,
+    "editor_name": "关卡-威廉古堡室内-点火后刷新精灵"
+  },
+  {
     "id": 1099,
     "editor_name": "系统-解锁体力升级"
   },
@@ -165,6 +213,11 @@
     "apply_to_visitor": true
   },
   {
+    "id": 1535,
+    "editor_name": "赛季S3-好友传入阻拦-出版社",
+    "apply_to_visitor": true
+  },
+  {
     "id": 1601,
     "editor_name": "A2_侦探社_洛克贝大劫案_了解案发经过-您的基本信息"
   },
@@ -287,6 +340,39 @@
     "editor_name": "S2-集合页开启代币商店入口"
   },
   {
+    "id": 1729,
+    "editor_name": "S3-出版社修改隐藏空间入口状态"
+  },
+  {
+    "id": 1730,
+    "editor_name": "S3-赛季作业开启"
+  },
+  {
+    "id": 1731,
+    "editor_name": "S3赛季任务_ACT1_是否做过侦探社任务select"
+  },
+  {
+    "id": 1732,
+    "editor_name": "单个任务内关闭关闭互见区——S3赛季任务（TASK-70027003、70027006）",
+    "story_flag_action_type": 7,
+    "action_int_param": [
+      641030035
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1733,
+    "editor_name": "A1_S3赛季任务_ACT2-选择说出拍照的事情"
+  },
+  {
+    "id": 1734,
+    "editor_name": "A1_S3赛季任务_ACT2-选择隐瞒拍照的事情"
+  },
+  {
+    "id": 1735,
+    "editor_name": "S3-加尔团体战开启"
+  },
+  {
     "id": 2101,
     "editor_name": "路易斯晋升任务分支选项"
   },
@@ -345,6 +431,34 @@
   {
     "id": 5007,
     "editor_name": "A1_精灵首领_蹦蹦果多特_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5010,
+    "editor_name": "A2_精灵首领_奇梦咪三三_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5013,
+    "editor_name": "A2_精灵首领_恶魔狼王克洛斯_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5014,
+    "editor_name": "A2_精灵首领_幻影荆棘布兰索_记忆碎片掉落_累计3个"
+  },
+  {
+    "id": 5501,
+    "editor_name": "雪巨人守护地-打开星霜洞窟的传送门标记"
+  },
+  {
+    "id": 5502,
+    "editor_name": "不咕钟守护地-激活副本入口"
+  },
+  {
+    "id": 5503,
+    "editor_name": "芽眼魔特殊刷新用，控制刷新特殊芽眼魔"
+  },
+  {
+    "id": 5504,
+    "editor_name": "芽眼魔特殊刷新用，控制刷新普通芽眼魔"
   },
   {
     "id": 6000,
@@ -526,7 +640,7 @@
     "id": 6030,
     "editor_name": "B1-生态园异象-加载/卸载毒雾氛围",
     "story_flag_action_type": 8,
-    "action_string_param": "Plot_Indoor_B1_10_Release_YiXiang",
+    "action_string_param": "Indoor_B1_10_YiXiang_Plot",
     "action_int_param": [
       10022
     ],
@@ -860,6 +974,15 @@
     "editor_name": "旅途-序章-屏蔽任务追踪、取消追踪按键"
   },
   {
+    "id": 7074,
+    "editor_name": "王国监狱开灯",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_KCprison_On_Lights",
+    "action_int_param": [
+      10054
+    ]
+  },
+  {
     "id": 7101,
     "editor_name": "1星晋升任务分支选项——接取"
   },
@@ -874,6 +997,50 @@
   {
     "id": 7105,
     "editor_name": "精灵旅行功能"
+  },
+  {
+    "id": 7110,
+    "editor_name": "V110-阵营-探险家协会-提前勘察巨人裂谷flag"
+  },
+  {
+    "id": 7111,
+    "editor_name": "V110-阵营-探险家协会-提前勘察威廉古堡flag"
+  },
+  {
+    "id": 7112,
+    "editor_name": "V110-阵营-探险家协会-完成巨人裂谷环境叙事flag"
+  },
+  {
+    "id": 7113,
+    "editor_name": "V110-阵营-探险家协会-完成结晶森林环境叙事flag"
+  },
+  {
+    "id": 7114,
+    "editor_name": "V110-阵营-探险家协会-完成威廉古堡环境叙事flag"
+  },
+  {
+    "id": 7115,
+    "editor_name": "V110-阵营-探险家协会-完成淘晶镇环境叙事flag"
+  },
+  {
+    "id": 7116,
+    "editor_name": "V110-阵营-探险家协会-环境叙事检查flag-1"
+  },
+  {
+    "id": 7117,
+    "editor_name": "V110-阵营-探险家协会-环境叙事检查flag-2"
+  },
+  {
+    "id": 7118,
+    "editor_name": "V110-阵营-探险家协会-环境叙事检查flag-3"
+  },
+  {
+    "id": 7119,
+    "editor_name": "V110-阵营-探险家协会-环境叙事检查flag-4"
+  },
+  {
+    "id": 7120,
+    "editor_name": "V110-大世界玩法-玩家拥有创造魔法后的标记"
   },
   {
     "id": 7150,
@@ -1260,6 +1427,14 @@
   {
     "id": 8070,
     "editor_name": "拾遗-闻香识洛克-副本"
+  },
+  {
+    "id": 8080,
+    "editor_name": "八大徽章-草系-引入任务完成"
+  },
+  {
+    "id": 8081,
+    "editor_name": "八大徽章-草系-首次与罗兰对话完-解锁手册传送按钮"
   },
   {
     "id": 8101,
@@ -1758,11 +1933,23 @@
   },
   {
     "id": 9933,
-    "editor_name": "地区选择页里的S1图鉴入口-捕获S1任意赛季精灵"
+    "editor_name": "地区选择页里的S1图鉴入口- 到达S2开启时间"
   },
   {
     "id": 9934,
-    "editor_name": "地区选择页里的S2图鉴入口-捕获S2任意赛季精灵"
+    "editor_name": "地区选择页里的S2图鉴入口- 到达S2开启时间"
+  },
+  {
+    "id": 9935,
+    "editor_name": "地区选择页里的S3图鉴入口- 到达S3开启时间"
+  },
+  {
+    "id": 9936,
+    "editor_name": "S3赛季任务-用于激活童话书逻辑的storyflag"
+  },
+  {
+    "id": 9937,
+    "editor_name": "S3赛季大厅传送"
   },
   {
     "id": 9950,
@@ -2016,8 +2203,94 @@
     "apply_to_visitor": true
   },
   {
+    "id": 13011,
+    "editor_name": "关闭互见区——巨人裂谷-营地-10人",
+    "story_flag_action_type": 7,
+    "action_int_param": [
+      601031428
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 13012,
+    "editor_name": "关闭互见区——巨人裂谷-断桥-10人",
+    "story_flag_action_type": 7,
+    "action_int_param": [
+      601031429
+    ],
+    "apply_to_visitor": true
+  },
+  {
     "id": 14001,
     "editor_name": "系统=三测许愿星商店地图图标与传送开启专用flag"
+  },
+  {
+    "id": 15001,
+    "editor_name": "V110-巨人裂谷重建营地-1级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_a_01",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15002,
+    "editor_name": "V110-巨人裂谷重建营地-2级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_a_02",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15003,
+    "editor_name": "V110-巨人裂谷重建营地-3级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_a_03",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15004,
+    "editor_name": "V110-巨人裂谷重建断桥-1级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_b_01",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15005,
+    "editor_name": "V110-巨人裂谷重建断桥-2级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_b_02",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15006,
+    "editor_name": "V110-巨人裂谷重建断桥-3级",
+    "story_flag_action_type": 6,
+    "action_string_param": "Plot_A2_2_Assets_S_b_03",
+    "action_int_param": [
+      10003
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 15007,
+    "editor_name": "V110-巨人裂谷冰系研究员（大块头）"
+  },
+  {
+    "id": 15008,
+    "editor_name": "V110-巨人裂谷冰系研究员（小不点）"
   },
   {
     "id": 100001,
@@ -2058,6 +2331,207 @@
   {
     "id": 100023,
     "editor_name": "角色变身为迪莫"
+  },
+  {
+    "id": 160001,
+    "editor_name": "V110主线-子关卡-正常的光系星之结-B↑/C1*2↓↑/G↓/E↑",
+    "story_flag_action_type": 8,
+    "action_string_param": "Indoor_A2_01_d_Plot",
+    "action_int_param": [
+      10038
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160002,
+    "editor_name": "V110主线-子关卡-污染的光系星之结-C1*2↑↓/G↑/E↓",
+    "story_flag_action_type": 8,
+    "action_string_param": "Indoor_A2_01_YiXiang_Plot",
+    "action_int_param": [
+      10038
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160003,
+    "editor_name": "V110主线-灯光-圣锤遗迹无断桥+灯光（断了版）-D1↑",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_HolyShieldRuins_LMP_OFF_Lights",
+    "action_int_param": [
+      10049
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160004,
+    "editor_name": "V110主线-灯光-圣锤遗迹有断桥+灯光（连上版）-D1↑",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_HolyShieldRuins_LMP_ON_Lights",
+    "action_int_param": [
+      10049
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160005,
+    "editor_name": "V110主线-灯光-光系能量监狱灯光+关卡-D3↑",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_KCprison_On_Lights",
+    "action_int_param": [
+      10054
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160006,
+    "editor_name": "V110主线-灯光-轻度污染的治疗室灯光-C1↑↓",
+    "story_flag_action_type": 8,
+    "action_string_param": "Indoor_A2_07_Nightmare_Plot",
+    "action_int_param": [
+      10042
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160007,
+    "editor_name": "V110主线-灯光-污染的灵魂之河-C1↑↓",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_RiverOfLightsys_ShuaiLuo_Lights",
+    "action_int_param": [
+      10056
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160008,
+    "editor_name": "V110主线-灯光-辉煌的灵魂之河-C1↑",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_RiverOfLightsys_HuiHuang_Lights",
+    "action_int_param": [
+      10056
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160009,
+    "editor_name": "V110主线-灯光-污染的王国城堡大厅灯光-G↑E↓",
+    "story_flag_action_type": 8,
+    "action_string_param": "Indoor_A2_01_YiXiang_Plot",
+    "action_int_param": [
+      10038
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160010,
+    "editor_name": "V110主线-灯光-普通监狱灯光-D3↑E↓",
+    "story_flag_action_type": 8,
+    "action_string_param": "Plot_A2_KCprison_Off_Lights",
+    "action_int_param": [
+      10054
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160011,
+    "editor_name": "V110主线-治疗室-区域锁定时间（夜晚）",
+    "story_flag_action_type": 11,
+    "action_int_param": [
+      10042,
+      86400
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160012,
+    "editor_name": "V110主线-皇宫-区域锁定时间（白天）",
+    "story_flag_action_type": 11,
+    "action_int_param": [
+      10038,
+      43200
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160101,
+    "editor_name": "V110主线-任务临时出入口-光系灵魂之河1"
+  },
+  {
+    "id": 160102,
+    "editor_name": "V110主线-任务临时出入口-光系灵魂之河2"
+  },
+  {
+    "id": 160103,
+    "editor_name": "V110主线-任务临时出入口-皇宫平台"
+  },
+  {
+    "id": 160104,
+    "editor_name": "V110主线-任务临时出入口-污染治疗室"
+  },
+  {
+    "id": 160201,
+    "editor_name": "主线-好友传入阻拦-A2-1-皇宫",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160202,
+    "editor_name": "主线-好友传入阻拦-A2-1-怪谈社密室",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160203,
+    "editor_name": "主线-好友传入阻拦-A2-1-临时医疗室",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160204,
+    "editor_name": "主线-好友传入阻拦-A2-1-秘密基地",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160205,
+    "editor_name": "主线-好友传入阻拦-V110-A2-沉船旋涡",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160206,
+    "editor_name": "主线-好友传入阻拦-V110-A2-鱼腹",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160207,
+    "editor_name": "主线-好友传入阻拦-V110-A2-圣锤遗迹",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160208,
+    "editor_name": "主线-好友传入阻拦-V110-A2-王国监狱",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160209,
+    "editor_name": "主线-好友传入阻拦-V110-A2-圣剑异空间",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160210,
+    "editor_name": "主线-好友传入阻拦-V110-A2-变形关卡屋顶",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160211,
+    "editor_name": "主线-好友传入阻拦-A2-1-V110-A2-变形关卡横梁",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160212,
+    "editor_name": "主线-好友传入阻拦-A2-1-V110-A2-变形关卡时钟内部",
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160213,
+    "editor_name": "主线-好友传入阻拦-A2-1-V110-A2-光系灵魂之河",
+    "apply_to_visitor": true
   },
   {
     "id": 6028001,
@@ -2113,6 +2587,14 @@
     ]
   },
   {
+    "id": 55000006,
+    "editor_name": "角色变身为火巨人状态"
+  },
+  {
+    "id": 55000007,
+    "editor_name": "角色变身为森巨人状态"
+  },
+  {
     "id": 60280281,
     "editor_name": "魔力之源果实 - 呼啦猫 - 风息山口 - 未完成"
   },
@@ -2139,5 +2621,9 @@
   {
     "id": 60280364,
     "editor_name": "显示眠枭之星光点提示"
+  },
+  {
+    "id": 60280365,
+    "editor_name": "【废弃】S3赛季任务-用于激活童话书逻辑的storyflag"
   }
 ]

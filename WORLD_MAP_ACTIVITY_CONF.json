@@ -2,27 +2,42 @@
   {
     "id": 1,
     "world_map_id": 10000001,
-    "radius": 3800
+    "radius": 3800,
+    "activity_name": "这宝，藏哪了？",
+    "activity_id": 901,
+    "area_func_id": 5000019
   },
   {
     "id": 2,
     "world_map_id": 10000002,
-    "radius": 9600
+    "radius": 9600,
+    "activity_name": "这宝，藏哪了？",
+    "activity_id": 901,
+    "area_func_id": 5000020
   },
   {
     "id": 3,
     "world_map_id": 10000003,
-    "radius": 8000
+    "radius": 8000,
+    "activity_name": "这宝，藏哪了？",
+    "activity_id": 901,
+    "area_func_id": 5000021
   },
   {
     "id": 4,
     "world_map_id": 10000004,
-    "radius": 5000
+    "radius": 5000,
+    "activity_name": "这宝，藏哪了？",
+    "activity_id": 901,
+    "area_func_id": 5000022
   },
   {
     "id": 5,
     "world_map_id": 10000005,
-    "radius": 8500
+    "radius": 8500,
+    "activity_name": "这宝，藏哪了？",
+    "activity_id": 901,
+    "area_func_id": 5000023
   },
   {
     "id": 6,
@@ -172,5 +187,20 @@
     "id": 26,
     "world_map_id": 10000025,
     "radius": 5000
+  },
+  {
+    "id": 27,
+    "world_map_id": 910039,
+    "radius": 5500,
+    "activity_name": "拾取音符获得「律动星币」",
+    "activity_id": 4500003,
+    "area_func_id": 132300003
+  },
+  {
+    "id": 28,
+    "world_map_id": 10000026,
+    "radius": 5700,
+    "activity_name": "休憩时刻",
+    "area_func_id": 5000024
   }
 ]

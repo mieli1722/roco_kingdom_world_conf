@@ -84,51 +84,47 @@
   {
     "id": 3400004,
     "must_do_task": [
-      59000320
+      59000615
     ],
     "must_do_task_judg": [
-      59000320
+      59000615
     ],
-    "go_task_option_name": "加入精灵调查团",
-    "unlock_tips": "请点击【加入精灵调查团】，加入精灵调查团后开启活动",
+    "go_task_option_name": "小小狐家在何方",
     "slot_group": [
       {
         "slot": 1,
-        "slot_des": "调查任务",
-        "slot_function_type": 3,
-        "param": 110000334,
+        "slot_des": "小小狐家在何方",
+        "initial_unlock": true,
+        "option_id": 10009,
+        "slot_function_type": 10,
+        "param": 59000615,
         "params": [
-          110000334,
-          110000335,
-          110000336,
-          110000337,
-          110000338,
-          110000339
-        ],
-        "red_point_id": 215,
-        "red_point_rule": "4000002;1"
+          59000615
+        ]
       },
       {
         "slot": 2,
-        "slot_des": "第一起调查任务!",
+        "slot_des": "特别调查任务",
         "option_id": 10015,
-        "slot_function_type": 7,
+        "slot_function_type": 10,
         "param": 59000455,
         "params": [
           59000455
         ],
         "red_point_id": 215,
-        "red_point_rule": "4000002;2"
+        "red_point_rule": "4000002;1"
       },
       {
         "slot": 3,
-        "slot_des": "狐主任商店",
-        "option_id": 10016,
-        "slot_function_type": 4,
-        "param": 320039,
+        "slot_des": "精灵荣誉证书",
+        "option_id": 10008,
+        "slot_function_type": 8,
+        "param": 1600200,
         "params": [
-          320039
-        ]
+          1600200
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "4000002;3"
       },
       {
         "slot": 4,
@@ -140,7 +136,27 @@
           10001
         ],
         "red_point_id": 416,
-        "red_point_rule": "4000002"
+        "red_point_rule": "4000002;4"
+      },
+      {
+        "slot": 5,
+        "slot_des": "调查团杂货店",
+        "initial_unlock": true,
+        "option_id": 10016,
+        "slot_function_type": 11,
+        "param": 3028,
+        "params": [
+          3028
+        ]
+      },
+      {
+        "slot": 6,
+        "slot_des": "狐主任的好感度",
+        "initial_unlock": true,
+        "slot_function_type": 9,
+        "params": [
+          4000002
+        ]
       }
     ],
     "shop_id": 3028

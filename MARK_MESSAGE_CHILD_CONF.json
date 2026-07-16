@@ -1,12 +1,17 @@
 [
   {
     "id": 1001,
-    "editor_name": "深海主题的留言魔法",
     "gameplay_type": 1,
     "child_type": 1,
     "wand_id": 32501001,
     "create_magic_message": "UMG_CreateMagicMessage_DeepSea",
     "show_magic_message": "UMG_ShowMagicMessage_DeepSea",
     "remind_text": "#ffffff来自定义文本颜色试试吧"
+  },
+  {
+    "id": 1002,
+    "gameplay_type": 4,
+    "child_type": 2,
+    "wand_id": 32501101
   }
 ]

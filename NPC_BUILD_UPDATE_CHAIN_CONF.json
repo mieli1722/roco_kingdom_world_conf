@@ -1,0 +1,1129 @@
+[
+  {
+    "id": 55574,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5557401
+        ],
+        "aura_id": [
+          10017
+        ],
+        "level_effect_1": "会变热",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          5557402
+        ],
+        "aura_id": [
+          10017,
+          10023
+        ],
+        "level_effect_1": "会变热",
+        "level_effect_2": "也会冷",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10002
+      },
+      {
+        "level": 3,
+        "option": [
+          5557403
+        ],
+        "aura_id": [
+          10017,
+          10023,
+          20001
+        ],
+        "level_effect_1": "会变热",
+        "level_effect_2": "也会冷",
+        "level_effect_3": "加保温",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10002
+      }
+    ]
+  },
+  {
+    "id": 55575,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5557501
+        ],
+        "aura_id": [
+          10043
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          5557502
+        ],
+        "aura_id": [
+          10044
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10002
+      },
+      {
+        "level": 3,
+        "option": [
+          5557503
+        ],
+        "aura_id": [
+          10044,
+          10047
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_effect_3": "靠近星霜灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55576,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5557601
+        ],
+        "aura_id": [
+          10045
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10003
+      },
+      {
+        "level": 2,
+        "option": [
+          5557602
+        ],
+        "aura_id": [
+          10046
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10004
+      },
+      {
+        "level": 3,
+        "option": [
+          5557603
+        ],
+        "aura_id": [
+          10046,
+          10047
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_effect_3": "靠近星火灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55577,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5557701
+        ],
+        "aura_id": [
+          670000001,
+          670000002
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10005
+      },
+      {
+        "level": 2,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5557702
+        ],
+        "aura_id": [
+          670000003,
+          670000004
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10006
+      },
+      {
+        "level": 3,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5557703
+        ],
+        "aura_id": [
+          670000005,
+          670000006
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_effect_3": "处于南瓜灯效果范围内出战精灵回复能量的效率大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55578,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "level_effect_1": "破败的石桥",
+        "level_effect_2": "断开了巨人裂谷的南北连接",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10007
+      },
+      {
+        "level": 2,
+        "level_effect_1": "重建中的石桥",
+        "level_effect_2": "探险家们集众之力重建连接",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10008
+      },
+      {
+        "level": 3,
+        "level_effect_1": "完整的石桥",
+        "level_effect_2": "为来往的洛克与精灵提供了便利",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55579,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "level_effect_1": "临时的营地",
+        "level_effect_2": "当地人为探险家协会所建",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10009
+      },
+      {
+        "level": 2,
+        "level_effect_1": "修缮中的营地",
+        "level_effect_2": "探险家们集众之力完善休憩所",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10010
+      },
+      {
+        "level": 3,
+        "level_effect_1": "完善的营地",
+        "level_effect_2": "探险家们可在此聚集、休息、炼金",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55598,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5559801
+        ],
+        "aura_id": [
+          10043
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          5559802
+        ],
+        "aura_id": [
+          10044
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10002
+      },
+      {
+        "level": 3,
+        "option": [
+          5559803
+        ],
+        "aura_id": [
+          10044,
+          10047
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_effect_3": "靠近星霜灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55599,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5559901
+        ],
+        "aura_id": [
+          10045
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10003
+      },
+      {
+        "level": 2,
+        "option": [
+          5559902
+        ],
+        "aura_id": [
+          10046
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10004
+      },
+      {
+        "level": 3,
+        "option": [
+          5559903
+        ],
+        "aura_id": [
+          10046,
+          10047
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_effect_3": "靠近星火灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55600,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560001
+        ],
+        "aura_id": [
+          670000001,
+          670000002
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10005
+      },
+      {
+        "level": 2,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560002
+        ],
+        "aura_id": [
+          670000003,
+          670000004
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10006
+      },
+      {
+        "level": 3,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560003
+        ],
+        "aura_id": [
+          670000005,
+          670000006
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_effect_3": "处于南瓜灯效果范围内出战精灵回复能量的效率大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55606,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5560601
+        ],
+        "aura_id": [
+          10043
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          5560602
+        ],
+        "aura_id": [
+          10044
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10002
+      },
+      {
+        "level": 3,
+        "option": [
+          5560603
+        ],
+        "aura_id": [
+          10044,
+          10047
+        ],
+        "level_effect_1": "星霜灯附近的气温会降低",
+        "level_effect_2": "星霜灯效果范围大幅提升",
+        "level_effect_3": "靠近星霜灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55607,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          5560701
+        ],
+        "aura_id": [
+          10045
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10003
+      },
+      {
+        "level": 2,
+        "option": [
+          5560702
+        ],
+        "aura_id": [
+          10046
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10004
+      },
+      {
+        "level": 3,
+        "option": [
+          5560703
+        ],
+        "aura_id": [
+          10046,
+          10047
+        ],
+        "level_effect_1": "星火灯附近的气温会升高",
+        "level_effect_2": "星火灯效果范围大幅提升",
+        "level_effect_3": "靠近星火灯能恢复小洛克的魔力及体力",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55608,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560801
+        ],
+        "aura_id": [
+          670000001,
+          670000002
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10005
+      },
+      {
+        "level": 2,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560802
+        ],
+        "aura_id": [
+          670000003,
+          670000004
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10006
+      },
+      {
+        "level": 3,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/G6_NanGuaDeng_Show",
+        "option": [
+          5560803
+        ],
+        "aura_id": [
+          670000005,
+          670000006
+        ],
+        "level_effect_1": "南瓜灯前方扇形范围内能够看清精灵的样子，且能缓慢恢复出战精灵的能量",
+        "level_effect_2": "南瓜灯效果范围大幅提升，且效果范围内出战精灵回复能量的效率提升",
+        "level_effect_3": "处于南瓜灯效果范围内出战精灵回复能量的效率大幅提升",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55703,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          60294
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵，等级会相对更高",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          60294
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵，等级会相对更高",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 3,
+        "option": [
+          60294
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵，等级会相对更高",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      }
+    ]
+  },
+  {
+    "id": 55704,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          60295
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          60295
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 3,
+        "option": [
+          60295
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      }
+    ]
+  },
+  {
+    "id": 55710,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180029
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，会对小洛克更加亲密",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10101
+      },
+      {
+        "level": 2,
+        "option": [
+          180039
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，会对小洛克更加亲密",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10102
+      },
+      {
+        "level": 3,
+        "option": [
+          180049
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，会对小洛克更加亲密",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55711,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180030
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【光】系血脉",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10101
+      },
+      {
+        "level": 2,
+        "option": [
+          180040
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10102
+      },
+      {
+        "level": 3,
+        "option": [
+          180050
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55712,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180031
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      },
+      {
+        "level": 2,
+        "option": [
+          180041
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      },
+      {
+        "level": 3,
+        "option": [
+          180051
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55713,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180032
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【无畏】特长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10107
+      },
+      {
+        "level": 2,
+        "option": [
+          180042
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【无畏】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10108
+      },
+      {
+        "level": 3,
+        "option": [
+          180052
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【无畏】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55714,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180033
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10105
+      },
+      {
+        "level": 2,
+        "option": [
+          180043
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10106
+      },
+      {
+        "level": 3,
+        "option": [
+          180053
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55715,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180034
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10103
+      },
+      {
+        "level": 2,
+        "option": [
+          180044
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10104
+      },
+      {
+        "level": 3,
+        "option": [
+          180054
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，体型会更大",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55716,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180035
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【亲密】特长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10101
+      },
+      {
+        "level": 2,
+        "option": [
+          180045
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【亲密】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10102
+      },
+      {
+        "level": 3,
+        "option": [
+          180055
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【亲密】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55717,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180036
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【恶】系血脉",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10109
+      },
+      {
+        "level": 2,
+        "option": [
+          180046
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【恶】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10110
+      },
+      {
+        "level": 3,
+        "option": [
+          180056
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【恶】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55718,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180037
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【幽】系血脉",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10109
+      },
+      {
+        "level": 2,
+        "option": [
+          180047
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【幽】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10110
+      },
+      {
+        "level": 3,
+        "option": [
+          180057
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率携带【幽】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 55719,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          180038
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【奇袭】特长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10111
+      },
+      {
+        "level": 2,
+        "option": [
+          180048
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【奇袭】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10112
+      },
+      {
+        "level": 3,
+        "option": [
+          180058
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "被吸引而来的精灵，有概率拥有【奇袭】特长",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  },
+  {
+    "id": 56002,
+    "level_limit": 3,
+    "npc_level_param": [
+      {
+        "level": 1,
+        "option": [
+          60296
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 2,
+        "option": [
+          60296
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      },
+      {
+        "level": 3,
+        "option": [
+          60296
+        ],
+        "aura_id": [
+          20002
+        ],
+        "level_effect_1": "刷出的精灵可能携带【光】系血脉",
+        "level_effect_2": "解锁庇护所招待功能",
+        "level_effect_3": "招待道具效果持续时间延长",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10001
+      }
+    ]
+  },
+  {
+    "id": 542004,
+    "level_limit": 3,
+    "open_show_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JiTan_JieMian.G6_JiTan_JieMian",
+    "npc_level_param": [
+      {
+        "level": 1,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JiTan_ShengJi.G6_JiTan_ShengJi",
+        "option": [
+          542030001
+        ],
+        "level_effect_1": "魔法造物创建时等级为1级",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10011
+      },
+      {
+        "level": 2,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JiTan_ShengJi_2.G6_JiTan_ShengJi_2",
+        "option": [
+          542030002
+        ],
+        "level_effect_1": "魔法造物创建时等级提升为2级",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'",
+        "next_level_resource_demand": 10012
+      },
+      {
+        "level": 3,
+        "update_G6": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JiTan_ShengJi_2.G6_JiTan_ShengJi_2",
+        "option": [
+          542030003
+        ],
+        "level_effect_1": "魔法造物创建时等级为2级",
+        "level_effect_2": "来自其他小洛克的魔法造物稳定度大幅提高",
+        "level_icon": "PaperSprite'/Game/NewRoco/Modules/System/GoddessAltar/Raw/Frames/img_LevelIcon_png.img_LevelIcon_png'"
+      }
+    ]
+  }
+]

@@ -84,24 +84,6 @@
     "mail_id": 80004
   },
   {
-    "id": 300001,
-    "part_name": "官方QQ群",
-    "note": "【QQ+手机】",
-    "interactive_before_txt": "前往加群",
-    "website_path": "https://static.gamecenter.qq.com/social-web/sop/outer-join-qgroup/index.html?appid=1vzQj93lXgLeynvmHVqtjg%3D%3D&space_id=juj6hya31g&isDev=0&tag=gIU5p%2BtnGYnl5NyAZMazUw%3D%3D&_wv=3&_wwv=128",
-    "ban_login_status": true,
-    "check_app": [
-      1
-    ],
-    "unsuccess_skip_txt": "请安装QQ或更新QQ后重试",
-    "if_icon_change": 1,
-    "interactive_after_txt": "领取奖励",
-    "reward_id": 200000012,
-    "option_recover": true,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
     "id": 300002,
     "part_name": "官方QQ频道",
     "note": "【QQ】",
@@ -144,43 +126,6 @@
     "note": "【WX+手机】",
     "interactive_before_txt": "前往关注",
     "website_path": "https://game.weixin.qq.com/cgi-bin/comm/openlink?noticeid=90309446&auth_appid=wx1b4d03357ad23b00&url=https%3A%2F%2Fgame.weixin.qq.com%2Fcgi-bin%2Fh5%2Fstatic%2Fcirclecenter%2Ftpjump.html%3Fnot_in_game_luggage%3D1%26jump%3Dwevideo%253A%252F%252Fprofile%253Ffinderusername%253Dv2_060000231003b20faec8c7eb8818c5d7c703e93db0776f789541f668da1925d1d92710c6a156%252540finder%23wechat_redirect",
-    "check_app": [
-      2
-    ],
-    "unsuccess_skip_txt": "请安装微信或更新微信后重试",
-    "if_icon_change": 1,
-    "interactive_after_txt": "领取奖励",
-    "reward_id": 200000012,
-    "option_recover": true,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
-    "id": 300006,
-    "part_name": "官方企微群",
-    "note": "企微群【WX+手机】",
-    "interactive_before_txt": "前往加群",
-    "website_path": "https://scrm.qq.com/cc/rocom/1/5328/index.html",
-    "check_app": [
-      2
-    ],
-    "unsuccess_skip_txt": "请安装微信或更新微信后重试",
-    "if_icon_change": 1,
-    "interactive_after_txt": "领取奖励",
-    "reward_id": 200000012,
-    "option_recover": true,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
-    "id": 300007,
-    "part_name": "官方企微群",
-    "note": "企微群【WX+PC】",
-    "interactive_before_txt": "前往加群",
-    "website_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_erweima_qiweiqun.img_erweima_qiweiqun'",
-    "special": 2,
-    "special_param1": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_erweima_qiweiqun.img_erweima_qiweiqun'",
-    "special_param2": "体验问题、攻略心得、优化建议…欢迎来唠！\n扫描下方二维码加入我们！",
     "check_app": [
       2
     ],
@@ -245,54 +190,12 @@
     "flag_num_finish": "C0011"
   },
   {
-    "id": 300012,
-    "part_name": "官方QQ群",
-    "note": "【QQ+PC】",
-    "interactive_before_txt": "前往加群",
-    "website_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_erweima_QQqun.img_erweima_QQqun'",
-    "special": 2,
-    "special_param1": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_erweima_QQqun.img_erweima_QQqun'",
-    "special_param2": "体验问题、攻略心得、优化建议…欢迎来唠！\n扫描下方二维码加入我们！",
-    "check_app": [
-      1
-    ],
-    "unsuccess_skip_txt": "请安装QQ或更新QQ后重试",
-    "if_icon_change": 1,
-    "interactive_after_txt": "领取奖励",
-    "reward_id": 200000012,
-    "option_recover": true,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
-    "id": 310001,
-    "part_name": "官「谷」来了",
-    "start_time": "2025-04-10 10:00:00",
-    "end_time": "2025-05-10 23:59:59",
-    "interactive_before_txt": "了解更多",
-    "website_path": "https://rocom.qq.com/web202407/sub/detail.html?newsid=18565181",
-    "if_icon_change": 3,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
     "id": 310002,
     "part_name": "测试福利返还",
     "start_time": "2025-11-14 04:00:00",
     "end_time": "2026-06-30 03:59:59",
     "interactive_before_txt": "前往领取",
     "website_path": "https://rocom.qq.com/act/a20251011rebate/index.html",
-    "if_icon_change": 3,
-    "flag_num_join": "J0011",
-    "flag_num_finish": "C0011"
-  },
-  {
-    "id": 310003,
-    "part_name": "阿布官「谷」来了",
-    "start_time": "2025-06-20 00:00:00",
-    "end_time": "2025-11-16 23:59:59",
-    "interactive_before_txt": "了解更多",
-    "website_path": "https://rocom.qq.com/web202409/sub/detail.html?newsid=18677488",
     "if_icon_change": 3,
     "flag_num_join": "J0011",
     "flag_num_finish": "C0011"
@@ -351,6 +254,15 @@
     "interactive_after_txt": "领取奖励",
     "reward_id": 200000016,
     "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 310009,
+    "part_name": "分享好友",
+    "note": "邀请好友活动二维码弹出",
+    "special": 4,
+    "special_param2": "请使用微信或QQ扫码进入活动",
     "flag_num_join": "J0011",
     "flag_num_finish": "C0011"
   },
@@ -1092,6 +1004,94 @@
     "flag_num_finish": "C0011"
   },
   {
+    "id": 320039,
+    "part_name": "新玩家调研问卷",
+    "note": "V110",
+    "required_group": [
+      {
+        "required_type": 1,
+        "required_param": 10
+      },
+      {
+        "required_type": 16,
+        "required_param": 1
+      }
+    ],
+    "is_questionnaire": true,
+    "questionnaire_duration": 3,
+    "interactive_before_txt": "前往填写",
+    "website_path": "https://in.weisurvey.com/v2/?sid=6a16955a65ff34206503ced7",
+    "if_icon_change": 3,
+    "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 320040,
+    "part_name": "回流调研问卷",
+    "note": "V110",
+    "required_group": [
+      {
+        "required_type": 1,
+        "required_param": 10
+      },
+      {
+        "required_type": 7,
+        "required_param": 14
+      }
+    ],
+    "is_questionnaire": true,
+    "questionnaire_duration": 7,
+    "interactive_before_txt": "前往填写",
+    "website_path": "https://in.weisurvey.com/v2/?sid=6a16956f1c4aff53830ac105",
+    "if_icon_change": 3,
+    "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 320041,
+    "part_name": "满意度问卷#7",
+    "note": "V110",
+    "start_time": "2026-07-20 04:00:00",
+    "end_time": "2026-07-27 03:59:59",
+    "required_group": [
+      {
+        "required_type": 1,
+        "required_param": 10
+      }
+    ],
+    "is_questionnaire": true,
+    "questionnaire_duration": 7,
+    "interactive_before_txt": "前往填写",
+    "website_path": "https://in.weisurvey.com/v2/?sid=6a16958085a2d8877a035664",
+    "if_icon_change": 3,
+    "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 320042,
+    "part_name": "满意度问卷#8",
+    "note": "V110",
+    "start_time": "2026-08-29 04:00:00",
+    "end_time": "2026-09-05 03:59:59",
+    "required_group": [
+      {
+        "required_type": 1,
+        "required_param": 10
+      }
+    ],
+    "is_questionnaire": true,
+    "questionnaire_duration": 7,
+    "interactive_before_txt": "前往填写",
+    "website_path": "https://in.weisurvey.com/v2/?sid=6a16958e2f249222c10c9082",
+    "if_icon_change": 3,
+    "option_recover": true,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
     "id": 320043,
     "part_name": "斯嘉丽体验招募",
     "note": "V101",
@@ -1187,6 +1187,57 @@
     "note": "V101",
     "interactive_before_txt": "前往购买",
     "website_path": "https://m.mall.qq.com/rocom/detail/35662",
+    "if_icon_change": 3,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 330009,
+    "part_name": "胡桃王子周边购买链接-PC",
+    "note": "V110",
+    "interactive_before_txt": "前往购买",
+    "website_path": "https://mall.qq.com/rocom/detail.shtml?id=35986",
+    "if_icon_change": 3,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 330010,
+    "part_name": "离心舞者购买链接-PC",
+    "note": "V110",
+    "interactive_before_txt": "前往购买",
+    "website_path": "https://mall.qq.com/rocom/detail.shtml?id=35985",
+    "if_icon_change": 3,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 330011,
+    "part_name": "胡桃王子周边购买链接-H5",
+    "note": "V110",
+    "interactive_before_txt": "前往购买",
+    "website_path": "https://m.mall.qq.com/rocom/detail/35986",
+    "if_icon_change": 3,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 330012,
+    "part_name": "离心舞者购买链接-H5",
+    "note": "V110",
+    "interactive_before_txt": "前往购买",
+    "website_path": "https://m.mall.qq.com/rocom/detail/35985",
+    "if_icon_change": 3,
+    "flag_num_join": "J0011",
+    "flag_num_finish": "C0011"
+  },
+  {
+    "id": 330013,
+    "part_name": "QQ音乐联动礼包",
+    "start_time": "2026-04-14 04:00:00",
+    "end_time": "2026-12-31 23:59:59",
+    "interactive_before_txt": "前往购买",
+    "website_path": "https://y.qq.com/forest/G_HmQIi5deDDdGOQ/index.html?&channelid=2005001153&ADTAG=nr_clnr_yx181",
     "if_icon_change": 3,
     "flag_num_join": "J0011",
     "flag_num_finish": "C0011"

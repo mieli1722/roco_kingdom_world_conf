@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "stage_name": "美愿树",
+    "amystage_upgrade_show": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JieJingShu_ShengJi_01.G6_JieJingShu_ShengJi_01",
+    "amystage_npc": 542003,
+    "amy_stage_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_CrystallineTree1_png.img_CrystallineTree1_png'",
+    "option": [
+      {
+        "amy_stage_show_display1": "美愿树周围每天都会凝结出美愿结晶",
+        "amy_stage_show_display2": "美愿树周围凝结的美愿结晶变得更大",
+        "amy_stage_show_display3": "洛克里安北部各区域出现丰收的采集物"
+      }
+    ],
+    "amy_stage_bgpic_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_meiyuanshu2.img_meiyuanshu2'"
+  },
+  {
+    "id": 2,
+    "stage_name": "美愿树",
+    "amystage_upgrade_show": "/Game/ArtRes/Effects/G6Skill/SceneEffect/LingQuJieMian/G6_JieJingShu_ShengJi_02.G6_JieJingShu_ShengJi_02",
+    "amystage_npc": 542003,
+    "unlock_level": 10,
+    "item_id": 100856,
+    "spawn_Interval_hour": 1,
+    "spawn_count": 12,
+    "max_accumulate_number": 500,
+    "amy_stage_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_CrystallineTree2_png.img_CrystallineTree2_png'",
+    "option": [
+      {
+        "amy_stage_show_display1": "美愿树周围每天都会凝结出美愿结晶",
+        "amy_stage_show_display2": "美愿树周围凝结的美愿结晶变得更大",
+        "amy_stage_show_display3": "洛克里安北部各区域出现丰收的采集物"
+      }
+    ],
+    "amy_stage_bgpic_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_meiyuanshu3.img_meiyuanshu3'"
+  },
+  {
+    "id": 3,
+    "stage_name": "美愿树",
+    "amystage_npc": 542003,
+    "unlock_level": 20,
+    "item_id": 100856,
+    "spawn_Interval_hour": 1,
+    "spawn_count": 24,
+    "max_accumulate_number": 1000,
+    "amy_stage_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_CrystallineTree3_png.img_CrystallineTree3_png'",
+    "option": [
+      {
+        "amy_stage_show_display1": "美愿树周围每天都会凝结出美愿结晶",
+        "amy_stage_show_display2": "美愿树周围凝结的美愿结晶变得更大",
+        "amy_stage_show_display3": "洛克里安北部各区域出现丰收的采集物"
+      }
+    ],
+    "amy_stage_bgpic_path": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_meiyuanshu1.img_meiyuanshu1'"
+  }
+]

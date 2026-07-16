@@ -11,7 +11,8 @@
     "reward_id": 200000152,
     "final_task_title": "出版日报获得报酬",
     "final_task_text": "解锁线索",
-    "newspaper_page": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonPreheating_Newspaper.UMG_Activity_SeasonPreheating_Newspaper_C'",
+    "newspaper_subtitle": "独家消息流出",
+    "newspaper_subheading": "近期重磅！！！",
     "newspaper_title": "神秘马戏团来访",
     "newspaper_txt_title_1": "神秘马戏团5月21号再现江湖",
     "newspaper_txt_1": "【独家】近日，洛克王国多地流传着“神秘马戏团”即将到访的消息。然而，这并非空穴来风！\n据某位不愿透露姓名的洛克爆料，他曾意外进入一个“只有孩子能看见”的神秘马戏团，里面全是各种机械精灵。这次传出马戏团将再现洛克里安的消息，该洛克异常激动。根据年少时模糊的记忆，他坚信这是真的。",
@@ -22,13 +23,18 @@
     "newspaper_txt_title_4": "独轮彩带精灵？真相终于曝光，原是市场调研！",
     "newspaper_txt_4": "近日引发热议的“独轮精灵”实为某商会研究的新一代“代步器”，将于两周内发售。",
     "newspaper_txt_title_5": "新型独轮车",
+    "txt_max_num_characters": [
+      174,
+      154,
+      30,
+      22,
+      5
+    ],
     "reward_group": [
       {
         "unlock_time": "2026-05-04 04:00:00",
         "manuscript_task_id": 70016002,
         "option_id": 2010,
-        "unlock_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo1_weijiesuo_png.img_xiansuo1_weijiesuo_png'",
-        "show_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo1_yijiesuo_png.img_xiansuo1_yijiesuo_png'",
         "manuscript_text_1": "彼得大道小广场",
         "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
         "manuscript_text_3": "在街头偶遇两位马戏爱好者正在热切交谈，其中一位神秘地透露，一个特殊的马戏团即将造访洛克里安。\n至于它何时来、在何处，至今仍扑朔迷离，无人知晓。",
@@ -38,8 +44,6 @@
         "unlock_time": "2026-05-05 04:00:00",
         "manuscript_task_id": 70017002,
         "option_id": 2011,
-        "unlock_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo2_weijiesuo_png.img_xiansuo2_weijiesuo_png'",
-        "show_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_yishuzi_png.img_yishuzi_png'",
         "manuscript_text_1": "王国城堡使馆区附近",
         "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
         "manuscript_text_3": "有小朋友声称，他们从一个长相古怪的洛克手里，收到了一张带有时间地点的奇怪字条，随信还附赠了零食，像是一张用意不明的马戏团邀请函。",
@@ -49,8 +53,6 @@
         "unlock_time": "2026-05-06 04:00:00",
         "manuscript_task_id": 70018002,
         "option_id": 2012,
-        "unlock_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo3_weijiesuo_png.img_xiansuo3_weijiesuo_png'",
-        "show_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo3_yijiesuo_png.img_xiansuo3_yijiesuo_png'",
         "manuscript_text_1": "彼得大道小广场",
         "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
         "manuscript_text_3": "有小洛克神秘兮兮地告诉我，他遇见了一只长相奇特的机械精灵：靠独轮移动，头顶飘着彩带。总爱躲在墙角鬼鬼祟祟地张望，可一旦有孩子想靠近，便立刻逃之夭夭。",
@@ -60,8 +62,6 @@
         "unlock_time": "2026-05-07 04:00:00",
         "manuscript_task_id": 70019002,
         "option_id": 2013,
-        "unlock_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo4_weijiesuo_png.img_xiansuo4_weijiesuo_png'",
-        "show_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo4_yijiesuo_png.img_xiansuo4_yijiesuo_png'",
         "manuscript_text_1": "王国城堡凯旋大道附近",
         "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
         "manuscript_text_3": "宫廷魔法师对同事希洛痴迷的“方舟马戏团”嗤之以鼻，并警告我远离这个行为古怪的怪人。",
@@ -71,22 +71,11 @@
         "unlock_time": "2026-05-08 04:00:00",
         "manuscript_task_id": 70020003,
         "option_id": 2014,
-        "unlock_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo5_weijiesuo_png.img_xiansuo5_weijiesuo_png'",
-        "show_picture": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySeasonPreheating/Frames/img_xiansuo5_yijiesuo_png.img_xiansuo5_yijiesuo_png'",
         "manuscript_text_1": "交汇镇入口招牌处",
         "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
         "manuscript_text_3": "交汇镇的清洁工抱怨，最近总有人半夜偷贴“全大陆最棒马戏团”的海报。\n海报上面赫然写着马戏团的到访时间——5月21日！",
         "manuscript_text_5": "发现人：{0}"
       }
-    ],
-    "newspaper_subtitle": "独家消息流出",
-    "newspaper_subheading": "近期重磅！！！",
-    "txt_max_num_characters": [
-      174,
-      154,
-      30,
-      22,
-      5
     ],
     "manuscript_umg": "/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonPreheating_RecordBook"
   },
@@ -102,6 +91,8 @@
     "reward_id": 200000212,
     "final_task_title": "出版日报获得报酬",
     "final_task_text": "解锁线索",
+    "newspaper_subtitle": "智慧出版社",
+    "newspaper_subheading": "即将盛大开业！",
     "newspaper_title": "开业优惠抢先看",
     "newspaper_txt_title_1": "智慧出版社即将正式开业！",
     "newspaper_txt_1": "市民朋友们，经过长达数月的筹备，智慧出版社终于在一片催促声中迎来盛大开业！作为王国内新晋的信息收集中心，我们承诺为你提供最新鲜的王国大小事，让你能一跃成为潮流的尖端。\n无论你是热爱对局的博弈者、稀有材料的研究员，还是资深的精灵学者，这里都将成为你驻足的温馨驿站。 \n为庆祝这一刻，社长莫里亚克宣布：开业期间各位洛克来智慧出版社，都将可以参与免费拍照活动！想要参与活动的小洛克记得提前来噢，名额有限，先到先得！",
@@ -111,6 +102,12 @@
     "newspaper_txt_3": "亲爱的家长：\n您是否还在为这些事头疼？\n孩子能把图鉴倒背如流，却说不清眼前这只精灵是哪一只？\n风吹草动都要躲在您的身后，因为听说了“吸血鬼”的故事？\n捡到的东西，分不清是宝石、矿渣、还是灵碎？\n别再让孩子凭\"听说\"认识世界了！\n\n这个夏天，让孩子在实践中了解这个世界吧！\n让孩子探索全新的地方，以大地为讲台，锻炼自己！名额有限，先到先得。",
     "newspaper_txt_title_4": "别说你没见过世面——室内小火车奇观",
     "newspaper_txt_4": "智慧出版社里头，居然真跑着一列小火车！ 如果你来到出版社，听到头顶传来\"况且况且\"的轰鸣声，请不要惊慌——这不是幻听，也不是楼上在装修，那就是小火车在运行！ 据莫里亚克社长透露，这列小火车并非装饰，而是用于在出版社各楼层之间运送稿件、报纸与号外的\"专属通道\"。开业期间，社长还允许小洛克们近距离围观这一奇观！ 如果你也想亲眼看看，那就来智慧出版社吧！",
+    "txt_max_num_characters": [
+      160,
+      200,
+      43,
+      39
+    ],
     "reward_group": [
       {
         "unlock_time": "2026-06-29 04:00:00",
@@ -157,14 +154,6 @@
         "manuscript_text_3": "折腾了大半天，这次取材并不如预想中顺利。\n莫里亚克劝我先别死磕这些谜团了，毕竟眼下智慧出版社就要开业了，他希望我到时候能打扮得时髦一点去捧场。",
         "manuscript_text_5": "发现人：{0}"
       }
-    ],
-    "newspaper_subtitle": "智慧出版社",
-    "newspaper_subheading": "即将盛大开业！",
-    "txt_max_num_characters": [
-      160,
-      200,
-      43,
-      39
     ],
     "manuscript_umg": "/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_S3SeasonPreheating_RecordBook"
   }

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "QTEPanelType": 3,
+    "rate": 1.0,
+    "lifetime": 10.0,
+    "clickcount": 1,
+    "content_id": 2001540,
+    "SFX_id": 41580010
+  },
+  {
+    "id": 2,
+    "QTEPanelType": 1,
+    "rate": 0.3,
+    "lifetime": 5.0,
+    "clickcount": 1,
+    "start_ui_path": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo1_png.img_dongzuo1_png'",
+    "end_ui_path2": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo1_xuanze_png.img_dongzuo1_xuanze_png'",
+    "SFX_id": 41105033,
+    "BGM_state": "QTE_state;State_01"
+  },
+  {
+    "id": 3,
+    "QTEPanelType": 1,
+    "rate": 0.2,
+    "lifetime": 5.0,
+    "clickcount": 1,
+    "start_ui_path": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo2_png.img_dongzuo2_png'",
+    "end_ui_path2": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo2_xuanze_png.img_dongzuo2_xuanze_png'",
+    "SFX_id": 41105034,
+    "BGM_state": "QTE_state;State_01"
+  },
+  {
+    "id": 4,
+    "QTEPanelType": 1,
+    "rate": 0.3,
+    "lifetime": 5.0,
+    "clickcount": 1,
+    "start_ui_path": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo3_png.img_dongzuo3_png'",
+    "end_ui_path2": "PaperSprite'/Game/NewRoco/Modules/System/Cinematic/Raw/Frames/img_dongzuo3_xuanze_png.img_dongzuo3_xuanze_png'",
+    "SFX_id": 41105035,
+    "BGM_state": "QTE_state;State_02"
+  }
+]

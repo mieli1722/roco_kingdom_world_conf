@@ -80,10 +80,10 @@
     "id": 8,
     "button_action_name": "切换行走/跑步状态",
     "button_type": 2,
-    "button_ischangeable": true,
     "numList": [
       20
-    ]
+    ],
+    "special_input_action": 1
   },
   {
     "id": 10,
@@ -97,7 +97,7 @@
   },
   {
     "id": 11,
-    "button_action_name": "取消骑乘/攀爬/同行/特殊状态；特定操作模式下骑乘/取消同行",
+    "button_action_name": "取消骑乘/同行状态/攀爬/变形状态",
     "button_type": 2,
     "button_ischangeable": true,
     "numList": [
@@ -134,7 +134,7 @@
   },
   {
     "id": 14,
-    "button_action_name": "进入骑乘状态；骑乘技能；对自己施法",
+    "button_action_name": "进入骑乘状态；骑乘技能；对自己施法；旋转道具",
     "button_type": 2,
     "button_ischangeable": true,
     "numList": [
@@ -144,7 +144,9 @@
       130,
       137,
       144,
-      145
+      145,
+      207,
+      208
     ]
   },
   {
@@ -157,6 +159,12 @@
       175,
       159
     ]
+  },
+  {
+    "id": 16,
+    "button_action_name": "快速切换队伍",
+    "button_type": 2,
+    "special_input_action": 2
   },
   {
     "id": 17,
@@ -563,7 +571,7 @@
   },
   {
     "id": 58,
-    "button_action_name": "聚能；战斗内获取咕噜球",
+    "button_action_name": "聚能；战斗内获取咕噜球；战斗内选择首领信物时返回上一页",
     "button_type": 3,
     "button_ischangeable": true,
     "numList": [
@@ -571,7 +579,9 @@
       68,
       128,
       129,
-      199
+      199,
+      213,
+      214
     ]
   },
   {
@@ -614,6 +624,15 @@
     "button_ischangeable": true,
     "numList": [
       174
+    ]
+  },
+  {
+    "id": 64,
+    "button_action_name": "取消手持状态",
+    "button_type": 2,
+    "button_ischangeable": true,
+    "numList": [
+      209
     ]
   }
 ]

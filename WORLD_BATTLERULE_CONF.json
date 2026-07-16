@@ -1,0 +1,84 @@
+[
+  {
+    "id": 10001,
+    "playerpos_battlefield_cond1": 4,
+    "pbc1_params": "-40;-10",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20002
+    ]
+  },
+  {
+    "id": 10002,
+    "playerpos_battlefield_cond1": 4,
+    "pbc1_params": "-70;-40",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20002
+    ]
+  },
+  {
+    "id": 10004,
+    "playerpos_battlefield_cond1": 4,
+    "pbc1_params": "110;140;14",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20003
+    ]
+  },
+  {
+    "id": 10005,
+    "playerpos_battlefield_cond1": 4,
+    "pbc1_params": "140;170;14",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20003
+    ]
+  },
+  {
+    "id": 10006,
+    "playerpos_battlefield_cond1": 4,
+    "pbc1_params": "170;200;14",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20003
+    ]
+  },
+  {
+    "id": 10007,
+    "pbc1_params": "60001",
+    "playerpos_battlefield_cond2": 2,
+    "pbc2_params": "PSF_ETERNAL_NIGHT_ENERGY_LOSS",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20001
+    ]
+  },
+  {
+    "id": 10008,
+    "playerpos_battlefield_cond1": 3,
+    "pbc1_params": "PSF_PUMPKIN_ILLUMINATED_1",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20004
+    ]
+  },
+  {
+    "id": 10009,
+    "playerpos_battlefield_cond1": 3,
+    "pbc1_params": "PSF_PUMPKIN_ILLUMINATED_2",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20004
+    ]
+  },
+  {
+    "id": 10010,
+    "playerpos_battlefield_cond1": 3,
+    "pbc1_params": "PSF_PUMPKIN_ILLUMINATED_3",
+    "battlerule_priority": 100,
+    "battle_rule_id": [
+      20004
+    ]
+  }
+]

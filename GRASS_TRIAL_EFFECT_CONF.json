@@ -1,33 +1,603 @@
 [
   {
     "id": 1000,
-    "name": "生命恢复",
-    "info": "每个章节完成后，我方精灵回复100%的生命值",
+    "name": "生命回复",
+    "info": "<span color=\"#5CA011\">【草原活力】</> 每个章节后回复100%生命值",
     "trial_effect": [
       1
     ],
-    "param1": 10000,
-    "visible": true
+    "param1": 10000
   },
   {
     "id": 1001,
     "name": "融合次数",
-    "info": "本次挑战中，每个技能最多可以融合5次",
+    "info": "每个技能最多可以融合2次",
     "trial_effect": [
       3
     ],
-    "param1": 5,
-    "visible": true
+    "param1": 2
   },
   {
     "id": 1002,
-    "name": "能量上限",
-    "info": "本次挑战中，我方精灵初始能量上限为15",
+    "name": "能量充盈",
+    "info": "<span color=\"#5CA011\">【能量充盈】</> 我方精灵初始能量上限为20",
     "trial_effect": [
       2
     ],
     "param1": 1,
-    "param2": 5,
+    "param2": 10
+  },
+  {
+    "id": 1003,
+    "name": "富养环境",
+    "info": "<span color=\"#5CA011\">【富养环境】</> 每个节点后，精灵回复5%生命值",
+    "trial_effect": [
+      0
+    ],
+    "param1": 500,
     "visible": true
+  },
+  {
+    "id": 1004,
+    "name": "初出茅庐",
+    "info": "<span color=\"#5CA011\">【初出茅庐】</> 我方精灵伤害和减伤效果提升20%",
+    "visible": true,
+    "battle_effect": [
+      80025
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "初出茅庐",
+    "info": "<span color=\"#5CA011\">【初出茅庐】</> 我方精灵伤害和减伤效果提升10%",
+    "visible": true,
+    "battle_effect": [
+      80026
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "回复限制",
+    "info": "<span color=\"#C7494A\">【回复限制】</> 每回合最多回复20%最大生命值",
+    "visible": true,
+    "battle_effect": [
+      80014
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "技能冷却",
+    "info": "<span color=\"#C7494A\">【雨露均沾】</> 所有技能释放后进入4回合冷却",
+    "visible": true,
+    "battle_effect": [
+      80017
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "技能冷却",
+    "info": "<span color=\"#C7494A\">【异常冷却】</> 所有技能释放后进入3回合冷却",
+    "visible": true,
+    "battle_effect": [
+      80018
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "生命回复",
+    "info": "<span color=\"#C7494A\">【活力衰退】</> 每个章节后回复的生命值降低",
+    "trial_effect": [
+      1
+    ],
+    "param1": 5000,
+    "visible": true
+  },
+  {
+    "id": 1010,
+    "name": "生命回复",
+    "info": "<span color=\"#C7494A\">【活力衰退】</> 每个章节后不再额外回复生命值",
+    "trial_effect": [
+      1
+    ],
+    "visible": true
+  },
+  {
+    "id": 1011,
+    "name": "对手威力",
+    "info": "<span color=\"#5CA011\">【草原守护】</> 我方精灵受到的伤害降低20%",
+    "battle_effect": [
+      80025
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "对手威力",
+    "info": "<span color=\"#5CA011\">【草原守护】</> 我方精灵受到的伤害降低10%",
+    "battle_effect": [
+      80026
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "对手生命",
+    "info": "<span color=\"#5CA011\">【权衡利弊】</> 敌方精灵生命值降低20%",
+    "battle_effect": [
+      80027
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "对手生命",
+    "info": "<span color=\"#5CA011\">【权衡利弊】</> 敌方精灵生命值降低10%",
+    "battle_effect": [
+      80028
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "我方伤害",
+    "info": "<span color=\"#5CA011\">【小试牛刀】</> 我方精灵伤害提升20%",
+    "battle_effect": [
+      80029
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "我方伤害",
+    "info": "<span color=\"#5CA011\">【小试牛刀】</> 我方精灵伤害提升10%",
+    "battle_effect": [
+      80030
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "回复限制",
+    "info": "<span color=\"#C7494A\">【回复限制】</> 我方精灵生命值回复效率降低80%",
+    "visible": true,
+    "battle_effect": [
+      80031
+    ]
+  },
+  {
+    "id": 2000,
+    "name": "精力充沛",
+    "info": "生命高于50%造成伤害+<span color=\"#5CA011\">20%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80001
+    ],
+    "price": 6
+  },
+  {
+    "id": 2001,
+    "name": "岩土祝福",
+    "info": "受到攻击后，获得物防<span color=\"#5CA011\">+20%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80012
+    ],
+    "price": 6
+  },
+  {
+    "id": 2002,
+    "name": "吸能之手",
+    "info": "攻击后偷取目标<span color=\"#5CA011\">2</>能量",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80003
+    ],
+    "price": 6
+  },
+  {
+    "id": 2003,
+    "name": "理论-I",
+    "info": "系别克制效果<span color=\"#5CA011\">翻倍</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80004
+    ],
+    "price": 6
+  },
+  {
+    "id": 2004,
+    "name": "千钧一发",
+    "info": "入场时，获得1次<span color=\"#5CA011\">挺住</>效果，受到致命伤害保留1生命",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80005
+    ],
+    "price": 6
+  },
+  {
+    "id": 2005,
+    "name": "额外收获",
+    "info": "获得能量时，额外获得<span color=\"#5CA011\">3</>能量",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80006
+    ],
+    "price": 6
+  },
+  {
+    "id": 2006,
+    "name": "坚毅品格",
+    "info": "生命低于50%受到伤害降低<span color=\"#5CA011\">20%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80007
+    ],
+    "price": 6
+  },
+  {
+    "id": 2007,
+    "name": "续航提升",
+    "info": "击败对手，回复<span color=\"#5CA011\">5</>能量",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80008
+    ],
+    "price": 6
+  },
+  {
+    "id": 2008,
+    "name": "理论-II",
+    "info": "系别抵抗效果<span color=\"#5CA011\">翻倍</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80010
+    ],
+    "price": 6
+  },
+  {
+    "id": 2009,
+    "name": "正向激励",
+    "info": "击败对手，回复<span color=\"#5CA011\">15%</>生命",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80009
+    ],
+    "price": 6
+  },
+  {
+    "id": 2010,
+    "name": "草系魔法",
+    "info": "回合结束回复<span color=\"#5CA011\">5%</>生命值",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80011
+    ],
+    "price": 6
+  },
+  {
+    "id": 2011,
+    "name": "青草祝福",
+    "info": "受到攻击后，回复<span color=\"#5CA011\">5%</>生命值",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80002
+    ],
+    "price": 6
+  },
+  {
+    "id": 2012,
+    "name": "阳光祝福",
+    "info": "受到攻击后，回复<span color=\"#5CA011\">3</>能量",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80013
+    ],
+    "price": 6
+  },
+  {
+    "id": 2013,
+    "name": "连击抗性",
+    "info": "连续受到同系别伤害降低",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80015
+    ],
+    "price": 6
+  },
+  {
+    "id": 2014,
+    "name": "能耗随机",
+    "info": "每回合对手技能能耗随机变化",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      80016
+    ],
+    "price": 6
+  },
+  {
+    "id": 2015,
+    "name": "物攻特调",
+    "info": "物攻能力值<span color=\"#5CA011\">+30</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161041.161041'",
+    "type": 1,
+    "battle_effect": [
+      80019
+    ],
+    "price": 4
+  },
+  {
+    "id": 2016,
+    "name": "魔攻特调",
+    "info": "魔攻能力值<span color=\"#5CA011\">+30</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161027.161027'",
+    "type": 1,
+    "battle_effect": [
+      80020
+    ],
+    "price": 4
+  },
+  {
+    "id": 2017,
+    "name": "物防特调",
+    "info": "物防能力值<span color=\"#5CA011\">+30</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161036.161036'",
+    "type": 1,
+    "battle_effect": [
+      80021
+    ],
+    "price": 4
+  },
+  {
+    "id": 2018,
+    "name": "魔防特调",
+    "info": "魔防能力值<span color=\"#5CA011\">+30</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161031.161031'",
+    "type": 1,
+    "battle_effect": [
+      80022
+    ],
+    "price": 4
+  },
+  {
+    "id": 2019,
+    "name": "速度特调",
+    "info": "速度能力值<span color=\"#5CA011\">+10</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161040.161040'",
+    "type": 1,
+    "battle_effect": [
+      80023
+    ],
+    "price": 4
+  },
+  {
+    "id": 2020,
+    "name": "生命特调",
+    "info": "最大生命值<span color=\"#5CA011\">+80</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161038.161038'",
+    "type": 1,
+    "trial_effect": [
+      4
+    ],
+    "param1": 1,
+    "param2": 80,
+    "price": 4
+  },
+  {
+    "id": 3000,
+    "name": "养分汲取",
+    "info": "生命值低于50%时偷取敌方<span color=\"#5CA011\">所有能量</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82000
+    ],
+    "price": 6
+  },
+  {
+    "id": 3001,
+    "name": "玉石俱焚",
+    "info": "前3回合结束获得威力+<span color=\"#5CA011\">40</>，第4回合获得双防-<span color=\"#5CA011\">100%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82001
+    ],
+    "price": 6
+  },
+  {
+    "id": 3002,
+    "name": "极速奇袭",
+    "info": "如果先于对手攻击，翼系技能能耗<span color=\"#5CA011\">-5</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82002
+    ],
+    "price": 6
+  },
+  {
+    "id": 3003,
+    "name": "灵魂颤动",
+    "info": "每次攻击获得双防-<span color=\"#5CA011\">10%</>，技能威力+<span color=\"#5CA011\">40</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82003
+    ],
+    "price": 6
+  },
+  {
+    "id": 3004,
+    "name": "快速生长",
+    "info": "回合结束时，获得技能威力+<span color=\"#5CA011\">10</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82004
+    ],
+    "price": 6
+  },
+  {
+    "id": 3005,
+    "name": "族群守护",
+    "info": "进入战斗时，随机获得<span color=\"#5CA011\">20</>次奉献效果",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82005
+    ],
+    "price": 6
+  },
+  {
+    "id": 3006,
+    "name": "剧毒气息",
+    "info": "每次释放技能后敌方获得<span color=\"#5CA011\">2</>层中毒",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82006
+    ],
+    "price": 6
+  },
+  {
+    "id": 3007,
+    "name": "吸能之刃",
+    "info": "攻击后偷取目标<span color=\"#5CA011\">2</>能量",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82007
+    ],
+    "price": 6
+  },
+  {
+    "id": 3008,
+    "name": "冰雪雕刻",
+    "info": "释放冰系技能造成伤害后，敌方获得1层<desc_id=1006>萌化</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82008
+    ],
+    "price": 6
+  },
+  {
+    "id": 3009,
+    "name": "怒火中烧",
+    "info": "每次受到攻击后魔攻+<span color=\"#5CA011\">10%</>，速度+<span color=\"#5CA011\">10%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82009
+    ],
+    "price": 6
+  },
+  {
+    "id": 3010,
+    "name": "云行雨施",
+    "info": "生命高于50%造成伤害+<span color=\"#5CA011\">40%</>；低于50%受到伤害-<span color=\"#5CA011\">40%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82010
+    ],
+    "price": 6
+  },
+  {
+    "id": 3011,
+    "name": "耀光祝福",
+    "info": "受到攻击后随机获得一种效果",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82011
+    ],
+    "price": 6
+  },
+  {
+    "id": 3012,
+    "name": "神秘仪式",
+    "info": "每回合为敌方添加<span color=\"#5CA011\">3</>层星陨印记",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82012
+    ],
+    "price": 6
+  },
+  {
+    "id": 3013,
+    "name": "执子定谋",
+    "info": "应对成功后根据自身释放的技能类型获得60%相应属性增益",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82013
+    ],
+    "price": 6
+  },
+  {
+    "id": 3014,
+    "name": "诡计多端",
+    "info": "每回合开始技能会随机变化为敌方携带的技能",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82014
+    ],
+    "price": 6
+  },
+  {
+    "id": 3015,
+    "name": "奇思妙想",
+    "info": "所有技能能耗<span color=\"#5CA011\">-2</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82015
+    ],
+    "price": 6
+  },
+  {
+    "id": 3016,
+    "name": "电光火石",
+    "info": "释放电系技能后速度+<span color=\"#5CA011\">30%</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82016
+    ],
+    "price": 6
+  },
+  {
+    "id": 3017,
+    "name": "自然之怒",
+    "info": "能耗大于3的技能，威力+<span color=\"#73C615\">40</>",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82017
+    ],
+    "price": 6
+  },
+  {
+    "id": 3018,
+    "name": "入梦",
+    "info": "在战斗开始<span color=\"#5CA011\">6</>回合后提升<span color=\"#5CA011\">20%</>全属性",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
+    "type": 1,
+    "battle_effect": [
+      82018
+    ],
+    "price": 6
   }
 ]

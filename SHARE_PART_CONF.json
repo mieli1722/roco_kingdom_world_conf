@@ -109,17 +109,6 @@
     "wechat_applet_QRCode_tips": "310004"
   },
   {
-    "id": 1002,
-    "share_button_type": 11,
-    "share_part_name": "邀请好友活动",
-    "share_type": 3,
-    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
-    "wechat_applet_title": "出发！前往洛克王国！",
-    "wechat_applet_des": "魔法世界正式上线！%d邀请你一起前往魔法学院！",
-    "wechat_applet_img": "/pages/entry/entry?type=activity&url=%2Fsimpkg%2Fpages%2Findex&extraData=",
-    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'"
-  },
-  {
     "id": 1003,
     "share_button_type": 10,
     "share_part_name": "SIM卡分享",
@@ -130,5 +119,54 @@
     "wechat_applet_img": "/pages/entry/entry?type=activity&url=%2Fsimpkg%2Fpages%2Findex&extraData=",
     "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_quanjiafu_png.img_quanjiafu_png'",
     "wechat_applet_QRCode_tips": "310004"
+  },
+  {
+    "id": 1101,
+    "share_button_type": 11,
+    "share_part_name": "邀请好友活动",
+    "share_type": 3,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "洛克王国全新版本现已开启！",
+    "wechat_applet_des": "{0}邀你共赴洛克王国新版本，登录领棱镜球+纪念肤色！",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_logo_png.img_logo_png'"
+  },
+  {
+    "id": 1102,
+    "share_button_type": 11,
+    "share_part_name": "邀请好友活动",
+    "share_type": 5,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "洛克王国全新版本现已开启！",
+    "wechat_applet_des": "{0}邀你共赴洛克王国新版本，登录领棱镜球+纪念肤色！",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_logo_png.img_logo_png'",
+    "wechat_applet_QRCode_tips": "310009"
+  },
+  {
+    "id": 1201,
+    "share_button_type": 12,
+    "share_part_name": "SS套装分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_Shop_Share.UMG_Shop_Share_C'"
+  },
+  {
+    "id": 1202,
+    "share_button_type": 13,
+    "share_part_name": "其他套装分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_AppearanceSuit_Share1.UMG_AppearanceSuit_Share1_C'"
+  },
+  {
+    "id": 1301,
+    "share_button_type": 14,
+    "share_part_name": "主题摄影活动分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_Activity_TakePhotoCompetition_Share.UMG_Activity_TakePhotoCompetition_Share_C'"
+  },
+  {
+    "id": 1501,
+    "share_button_type": 15,
+    "share_part_name": "精灵荣誉证书分享",
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ElvenAmbassador_SharePhoto.UMG_ElvenAmbassador_SharePhoto_C'"
   }
 ]

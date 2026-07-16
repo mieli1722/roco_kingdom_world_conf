@@ -5,12 +5,14 @@
     "animation_name": "Gra_MiaoMiao1_001",
     "default_socket_pc1": "S1_B1_Ride",
     "default_socket_pc2": "S2_B1_Ride",
-    "socket_mask": 512,
+    "socket_mask": 513,
     "all_sockets": [
       "S1_B1_Ride",
       "S1_B1_Ride_PC",
       "S2_B1_Ride",
-      "S2_B1_Ride_PC"
+      "S2_B1_Ride_PC",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
     ]
   },
   {
@@ -19,12 +21,14 @@
     "animation_name": "Wat_ShuiLanLan1_001",
     "default_socket_pc1": "S1_B2_Ride",
     "default_socket_pc2": "S2_B2_Ride",
-    "socket_mask": 1024,
+    "socket_mask": 1025,
     "all_sockets": [
       "S1_B2_Ride",
       "S1_B2_Ride_PC",
       "S2_B2_Ride",
-      "S2_B2_Ride_PC"
+      "S2_B2_Ride_PC",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
     ]
   },
   {
@@ -33,10 +37,12 @@
     "animation_name": "Fir_XiaoHuoMiao1_001",
     "default_socket_pc1": "S1_D0_Ride",
     "default_socket_pc2": "S2_D0_Ride",
-    "socket_mask": 16384,
+    "socket_mask": 16385,
     "all_sockets": [
       "S1_D0_Ride",
-      "S2_D0_Ride"
+      "S2_D0_Ride",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
     ]
   },
   {
@@ -65,7 +71,13 @@
       "S1_G0_Ride_0",
       "S1_G0_Ride_1",
       "S2_G0_Ride_0",
-      "S2_G0_Ride_1"
+      "S2_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
     ]
   },
   {
@@ -92,10 +104,12 @@
     "all_sockets": [
       "S1_G2_Ride_1",
       "S1_G2_Ride_0",
+      "S1_G2_Ride",
       "S2_G2_Ride_1",
       "S2_G2_Ride_0",
-      "S1_G2_Ride",
-      "S2_G2_Ride"
+      "S2_G2_Ride",
+      "S2_G2_Ride_2",
+      "S1_G2_Ride_2"
     ]
   },
   {
@@ -133,9 +147,13 @@
       "S1_G0_Ride",
       "S1_G0_Ride_0",
       "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
       "S2_G0_Ride",
       "S2_G0_Ride_0",
-      "S2_G0_Ride_1"
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3"
     ]
   },
   {
@@ -147,7 +165,9 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -241,9 +261,13 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -328,10 +352,11 @@
     "id": 3027,
     "editor_name": "蒲公英娃娃",
     "animation_name": "Gra_PuGongYing3_001",
+    "default_socket_pc1": "S1_H0_Ride",
     "default_socket_pc2": "S2_H0_Ride",
     "socket_mask": 5,
     "all_sockets": [
-      "S1_H0_Ride_0",
+      "S1_H0_Ride",
       "S2_H0_Ride",
       "S1_G0_Ride_0",
       "S2_G0_Ride_0",
@@ -388,7 +413,11 @@
       "S1_G0_Ride_0",
       "S2_G0_Ride_0",
       "S1_C0_Ride",
-      "S2_C0_Ride"
+      "S2_C0_Ride",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1"
     ]
   },
   {
@@ -468,9 +497,11 @@
     "socket_mask": 5,
     "all_sockets": [
       "S1_H0_Ride",
-      "S2_H0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
     ]
   },
   {
@@ -600,24 +631,6 @@
     ]
   },
   {
-    "id": 3048,
-    "editor_name": "圣光迪莫",
-    "animation_name": "Lig_DiMo2_001",
-    "default_socket_pc1": "S1_B2_Ride",
-    "default_socket_pc2": "S2_B2_Ride",
-    "socket_mask": 1024,
-    "all_sockets": [
-      "S1_B2_Ride",
-      "S1_B2_Ride_PC",
-      "S1_B2_Ride_0",
-      "S1_B2_Ride_PC_0",
-      "S2_B2_Ride",
-      "S2_B2_Ride_PC",
-      "S2_B2_Ride_0",
-      "S2_B2_Ride_PC_0"
-    ]
-  },
-  {
     "id": 3049,
     "editor_name": "白发懒人",
     "animation_name": "Com_KeShuiWang1_001",
@@ -643,24 +656,6 @@
       "S2_C1_Ride",
       "S1_H2_Ride_0",
       "S2_H2_Ride_0"
-    ]
-  },
-  {
-    "id": 3051,
-    "editor_name": "圣草迪莫",
-    "animation_name": "Gra_DiMo2_001",
-    "default_socket_pc1": "S1_B2_Ride",
-    "default_socket_pc2": "S2_B2_Ride",
-    "socket_mask": 1024,
-    "all_sockets": [
-      "S1_B2_Ride",
-      "S1_B2_Ride_PC",
-      "S1_B2_Ride_0",
-      "S1_B2_Ride_PC_0",
-      "S2_B2_Ride",
-      "S2_B2_Ride_PC",
-      "S2_B2_Ride_0",
-      "S2_B2_Ride_PC_0"
     ]
   },
   {
@@ -816,10 +811,12 @@
     "animation_name": "Gho_YouLingShu1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 3,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G1_Ride_0",
+      "S2_G0_Ride",
+      "S2_G1_Ride_0"
     ]
   },
   {
@@ -897,11 +894,17 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
       "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride",
       "S2_G0_Ride_0",
-      "S2_G0_Ride_1"
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
     ]
   },
   {
@@ -980,14 +983,14 @@
     "id": 3078,
     "editor_name": "烈钻鸟",
     "animation_name": "Fir_HuoYu1_001",
-    "default_socket_pc1": "S1_B1_Ride",
-    "default_socket_pc2": "S2_B1_Ride",
-    "socket_mask": 512,
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
     "all_sockets": [
-      "S1_B1_Ride",
-      "S1_B1_Ride_PC",
-      "S2_B1_Ride",
-      "S2_B1_Ride_PC"
+      "S1_B0_Ride",
+      "S1_B0_Ride_PC",
+      "S2_B0_Ride",
+      "S2_B0_Ride_PC"
     ]
   },
   {
@@ -1116,10 +1119,12 @@
     "animation_name": "Fir_KeLeJi3_002",
     "default_socket_pc1": "S1_G3_Ride",
     "default_socket_pc2": "S2_G3_Ride",
-    "socket_mask": 32768,
+    "socket_mask": 32769,
     "all_sockets": [
+      "S1_G3_Ride",
+      "S1_G0_Ride_0",
       "S2_G3_Ride",
-      "S1_G3_Ride"
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -1327,9 +1332,13 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -1405,9 +1414,11 @@
     "socket_mask": 2097153,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_C5_Ride_0",
-      "S2_C5_Ride_0"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_C5_Ride_0",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -1494,8 +1505,10 @@
     "animation_name": "Wat_BuDing1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 262145,
     "all_sockets": [
+      "S1_D1_Ride_0",
+      "S2_D1_Ride_0",
       "S1_G0_Ride",
       "S2_G0_Ride"
     ]
@@ -2005,11 +2018,6 @@
     ]
   },
   {
-    "id": 3158,
-    "editor_name": "武斗酷猫",
-    "animation_name": "Gra_MiaoMiao4_001"
-  },
-  {
     "id": 3159,
     "editor_name": "紫蔓宝宝",
     "animation_name": "Gra_CaoWang1_001",
@@ -2185,8 +2193,8 @@
     "all_sockets": [
       "S1_G2_Ride_0",
       "S1_C1_Ride",
-      "S2_C1_Ride",
-      "S2_G2_Ride_0"
+      "S2_G2_Ride_0",
+      "S2_C1_Ride"
     ]
   },
   {
@@ -2776,9 +2784,38 @@
     ]
   },
   {
+    "id": 3228,
+    "editor_name": "友爱天天",
+    "animation_name": "Com_TianTian1_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 36,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S1_B0_Ride_PC",
+      "S1_H0_Ride_0",
+      "S1_B0_Ride_0",
+      "S2_B0_Ride",
+      "S2_B0_Ride_PC",
+      "S2_H0_Ride_0",
+      "S2_B0_Ride_0"
+    ]
+  },
+  {
     "id": 3229,
     "editor_name": "友爱星飞",
-    "animation_name": "Men_FeiMan2_001"
+    "animation_name": "Com_TianTian2_001",
+    "default_socket_pc1": "S1_C6_Ride",
+    "default_socket_pc2": "S2_C6_Ride",
+    "socket_mask": 8388608,
+    "all_sockets": [
+      "S1_C6_Ride",
+      "S1_C6_Ride_0",
+      "S1_C6_Ride_1",
+      "S2_C6_Ride",
+      "S2_C6_Ride_0",
+      "S2_C6_Ride_1"
+    ]
   },
   {
     "id": 3230,
@@ -2822,12 +2859,14 @@
     "id": 3233,
     "editor_name": "加尔(黑化的样子)",
     "animation_name": "Gho_JiaLing3_001",
-    "default_socket_pc1": "S1_G0_Ride",
-    "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 256,
     "all_sockets": [
-      "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC"
     ]
   },
   {
@@ -2853,18 +2892,18 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
-      "S2_G0_Ride_0",
       "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
       "S2_G0_Ride_2"
     ]
   },
   {
     "id": 3236,
-    "editor_name": "超能球球",
+    "editor_name": "星星眼",
     "animation_name": "Ill_QiuQiu1_001",
     "default_socket_pc1": "S1_C0_Ride",
     "default_socket_pc2": "S2_C0_Ride",
@@ -3361,9 +3400,11 @@
     "socket_mask": 5,
     "all_sockets": [
       "S1_H0_Ride",
-      "S2_H0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
     ]
   },
   {
@@ -3375,9 +3416,11 @@
     "socket_mask": 5,
     "all_sockets": [
       "S1_H0_Ride",
-      "S2_H0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
     ]
   },
   {
@@ -3389,9 +3432,11 @@
     "socket_mask": 5,
     "all_sockets": [
       "S1_H0_Ride",
-      "S2_H0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
     ]
   },
   {
@@ -3589,9 +3634,13 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -3603,9 +3652,13 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -3617,9 +3670,13 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -3643,17 +3700,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -3805,12 +3864,28 @@
   {
     "id": 3322,
     "editor_name": "翻翻蝠 ",
-    "animation_name": "Win_NiNi2_001"
+    "animation_name": "Win_NiNi2_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 4,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S2_H0_Ride"
+    ]
   },
   {
     "id": 3323,
     "editor_name": "夜游魔 ",
-    "animation_name": "Win_NiNi3_001"
+    "animation_name": "Win_NiNi3_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 5,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S1_G0_Ride_0",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0"
+    ]
   },
   {
     "id": 3328,
@@ -4175,8 +4250,12 @@
     "all_sockets": [
       "S1_G0_Ride",
       "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
       "S2_G0_Ride",
-      "S2_G0_Ride_0"
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -4215,8 +4294,8 @@
     "all_sockets": [
       "S1_G0_Ride",
       "S2_G0_Ride",
-      "S1_G2_Ride",
-      "S2_G2_Ride"
+      "S1_G2_Ride_0",
+      "S2_G2_Ride_0"
     ]
   },
   {
@@ -4351,7 +4430,11 @@
       "S1_G0_Ride",
       "S1_G2_Ride_0",
       "S2_G0_Ride",
-      "S2_G2_Ride_0"
+      "S2_G2_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride_1",
+      "S2_G2_Ride_2",
+      "S1_G2_Ride_2"
     ]
   },
   {
@@ -4364,10 +4447,10 @@
     "all_sockets": [
       "S1_B1_Ride",
       "S1_B1_Ride_PC",
-      "S2_B1_Ride",
-      "S2_B1_Ride_PC",
       "S1_B1_Ride_0",
       "S1_B1_Ride_PC_0",
+      "S2_B1_Ride",
+      "S2_B1_Ride_PC",
       "S2_B1_Ride_0",
       "S2_B1_Ride_PC_0"
     ]
@@ -4381,9 +4464,11 @@
     "socket_mask": 32,
     "all_sockets": [
       "S1_B0_Ride",
-      "S2_B0_Ride",
       "S1_B0_Ride_0",
-      "S2_B0_Ride_0"
+      "S2_B0_Ride",
+      "S2_B0_Ride_0",
+      "S1_B0_Ride_1",
+      "S2_B0_Ride_1"
     ]
   },
   {
@@ -4565,7 +4650,9 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -4651,27 +4738,16 @@
     ]
   },
   {
-    "id": 3401,
-    "editor_name": "伊里斯",
-    "animation_name": "Lig_YiLiSi3_001",
-    "default_socket_pc1": "S1_G0_Ride",
-    "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
-    "all_sockets": [
-      "S1_G0_Ride",
-      "S2_G0_Ride"
-    ]
-  },
-  {
     "id": 3402,
     "editor_name": "碎晶蝎 ",
     "animation_name": "Dem_JingXie1_001",
     "default_socket_pc1": "S1_C0_Ride",
     "default_socket_pc2": "S2_C0_Ride",
-    "socket_mask": 64,
+    "socket_mask": 65,
     "all_sockets": [
       "S1_C0_Ride",
-      "S2_C0_Ride"
+      "S2_C0_Ride",
+      "S1_G0_Ride_0"
     ]
   },
   {
@@ -4789,10 +4865,12 @@
     "animation_name": "Dra_YiLan2_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 33554433,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S2_G0_Ride",
+      "S1_G6_Ride_0",
+      "S2_G6_Ride_0"
     ]
   },
   {
@@ -5203,17 +5281,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -5225,17 +5305,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -5247,17 +5329,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -5269,17 +5353,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -5479,7 +5565,9 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -5699,7 +5787,11 @@
     "socket_mask": 2,
     "all_sockets": [
       "S1_G1_Ride",
-      "S2_G1_Ride"
+      "S2_G1_Ride",
+      "S1_G1_Ride_1",
+      "S1_G1_Ride_0",
+      "S2_G1_Ride_1",
+      "S2_G1_Ride_0"
     ]
   },
   {
@@ -5711,17 +5803,19 @@
     "socket_mask": 67,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0",
       "S1_G1_Ride_0",
-      "S2_G1_Ride_0",
       "S1_C0_Ride_0",
-      "S2_C0_Ride_0",
       "S1_G0_Ride_1",
-      "S2_G0_Ride_1",
       "S1_C0_Ride_1",
-      "S2_C0_Ride_1"
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -5789,7 +5883,10 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S2_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride_0",
+      "S1_G0_Ride_1"
     ]
   },
   {
@@ -5854,10 +5951,10 @@
     "all_sockets": [
       "S1_B1_Ride",
       "S1_B1_Ride_PC",
-      "S2_B1_Ride",
-      "S2_B1_Ride_PC",
       "S1_B1_Ride_0",
       "S1_B1_Ride_PC_0",
+      "S2_B1_Ride",
+      "S2_B1_Ride_PC",
       "S2_B1_Ride_0",
       "S2_B1_Ride_PC_0"
     ]
@@ -5885,9 +5982,11 @@
     "socket_mask": 32,
     "all_sockets": [
       "S1_B0_Ride",
-      "S2_B0_Ride",
       "S1_B0_Ride_0",
-      "S2_B0_Ride_0"
+      "S2_B0_Ride",
+      "S2_B0_Ride_0",
+      "S1_B0_Ride_1",
+      "S2_B0_Ride_1"
     ]
   },
   {
@@ -6072,42 +6171,6 @@
     ]
   },
   {
-    "id": 3514,
-    "editor_name": "圣水迪莫",
-    "animation_name": "Wat_DiMo2_001",
-    "default_socket_pc1": "S1_B2_Ride",
-    "default_socket_pc2": "S2_B2_Ride",
-    "socket_mask": 1024,
-    "all_sockets": [
-      "S1_B2_Ride",
-      "S1_B2_Ride_PC",
-      "S1_B2_Ride_0",
-      "S1_B2_Ride_PC_0",
-      "S2_B2_Ride",
-      "S2_B2_Ride_PC",
-      "S2_B2_Ride_0",
-      "S2_B2_Ride_PC_0"
-    ]
-  },
-  {
-    "id": 3515,
-    "editor_name": "圣火迪莫",
-    "animation_name": "Fir_DiMo2_001",
-    "default_socket_pc1": "S1_B2_Ride",
-    "default_socket_pc2": "S2_B2_Ride",
-    "socket_mask": 1024,
-    "all_sockets": [
-      "S1_B2_Ride",
-      "S1_B2_Ride_PC",
-      "S1_B2_Ride_0",
-      "S1_B2_Ride_PC_0",
-      "S2_B2_Ride",
-      "S2_B2_Ride_PC",
-      "S2_B2_Ride_0",
-      "S2_B2_Ride_PC_0"
-    ]
-  },
-  {
     "id": 3516,
     "editor_name": "板板壳（蜕皮时的样子）",
     "animation_name": "Wat_Kaka1Ar_001",
@@ -6267,12 +6330,14 @@
     "animation_name": "Ice_XueRen2_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 131073,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride",
       "S1_G0_Ride_0",
-      "S2_G0_Ride_0"
+      "S1_G4_Ride_1",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G4_Ride_1"
     ]
   },
   {
@@ -6447,8 +6512,12 @@
     "all_sockets": [
       "S1_G0_Ride",
       "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
       "S2_G0_Ride",
-      "S2_G0_Ride_0"
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
     ]
   },
   {
@@ -6507,7 +6576,9 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -6535,9 +6606,9 @@
     "socket_mask": 2176,
     "all_sockets": [
       "S1_C1_Ride",
-      "S2_C1_Ride",
       "S1_G2_Ride_0",
       "S1_G2_Ride_1",
+      "S2_C1_Ride",
       "S2_G2_Ride_0",
       "S2_G2_Ride_1"
     ]
@@ -6581,7 +6652,9 @@
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -6609,9 +6682,9 @@
     "socket_mask": 2176,
     "all_sockets": [
       "S1_C1_Ride",
-      "S2_C1_Ride",
       "S1_G2_Ride_0",
       "S1_G2_Ride_1",
+      "S2_C1_Ride",
       "S2_G2_Ride_0",
       "S2_G2_Ride_1"
     ]
@@ -6763,10 +6836,12 @@
     "animation_name": "Fir_LieYanLong2_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 131073,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G4_Ride_0",
+      "S2_G0_Ride",
+      "S2_G4_Ride_0"
     ]
   },
   {
@@ -6789,7 +6864,16 @@
   {
     "id": 3577,
     "editor_name": "墨鱿士\n",
-    "animation_name": "Gho_MoYouShi1_001"
+    "animation_name": "Gho_MoYouShi1_001",
+    "default_socket_pc1": "S1_HIS_Ride",
+    "default_socket_pc2": "S2_HIS_Ride",
+    "socket_mask": 8192,
+    "all_sockets": [
+      "S1_HIS_Ride",
+      "S1_HIS_Ride_PC",
+      "S2_HIS_Ride",
+      "S2_HIS_Ride_PC"
+    ]
   },
   {
     "id": 3578,
@@ -6811,10 +6895,12 @@
     "animation_name": "Gho_MoYouShi3_001",
     "default_socket_pc1": "S1_C2_Ride",
     "default_socket_pc2": "S2_C2_Ride",
-    "socket_mask": 4096,
+    "socket_mask": 4097,
     "all_sockets": [
       "S1_C2_Ride",
-      "S2_C2_Ride"
+      "S1_G0_Ride_0",
+      "S2_C2_Ride",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -7194,12 +7280,16 @@
     "id": 3616,
     "editor_name": "不咕钟",
     "animation_name": "Mac_BuGuZhong1_001",
-    "default_socket_pc1": "S1_B0_Ride",
-    "default_socket_pc2": "S2_B0_Ride",
-    "socket_mask": 32,
+    "default_socket_pc1": "S1_B2_Ride",
+    "default_socket_pc2": "S2_B2_Ride",
+    "socket_mask": 1024,
     "all_sockets": [
-      "S1_B0_Ride",
-      "S2_B0_Ride"
+      "S1_B2_Ride",
+      "S1_B2_Ride_PC",
+      "S1_B2_Ride_0",
+      "S2_B2_Ride",
+      "S2_B2_Ride_PC",
+      "S2_B2_Ride_0"
     ]
   },
   {
@@ -7208,10 +7298,13 @@
     "animation_name": "Mac_BuGuZhong2_001",
     "default_socket_pc1": "S1_H0_Ride",
     "default_socket_pc2": "S2_H0_Ride",
-    "socket_mask": 4,
+    "socket_mask": 68,
     "all_sockets": [
       "S1_H0_Ride",
-      "S2_H0_Ride"
+      "S1_C0_Ride_0",
+      "S1_C0_Ride_1",
+      "S2_H0_Ride",
+      "S2_C0_Ride_0"
     ]
   },
   {
@@ -7368,8 +7461,8 @@
     "socket_mask": 4194306,
     "all_sockets": [
       "S1_G1_Ride",
-      "S2_G1_Ride",
       "S1_G5_Ride_0",
+      "S2_G1_Ride",
       "S2_G5_Ride_0"
     ]
   },
@@ -7405,6 +7498,18 @@
       "S1_B2_Ride_PC",
       "S2_B2_Ride",
       "S2_B2_Ride_PC"
+    ]
+  },
+  {
+    "id": 3676,
+    "editor_name": "流明坎德拉",
+    "animation_name": "Fir_ShouYeZhu2_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
     ]
   },
   {
@@ -7547,10 +7652,12 @@
     "animation_name": "Mac_GuXiang1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 131073,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G4_Ride_0",
+      "S2_G0_Ride",
+      "S2_G4_Ride_0"
     ]
   },
   {
@@ -7562,30 +7669,18 @@
     "socket_mask": 131,
     "all_sockets": [
       "S1_C1_Ride",
-      "S2_C1_Ride",
       "S1_G0_Ride_0",
       "S1_G0_Ride_1",
+      "S1_G1_Ride_2",
+      "S2_C1_Ride",
       "S2_G0_Ride_0",
       "S2_G0_Ride_1",
-      "S1_G1_Ride_2",
       "S2_G1_Ride_2"
     ]
   },
   {
     "id": 3710,
     "editor_name": "咬咬小子",
-    "animation_name": "Mac_YaoYao2_001",
-    "default_socket_pc1": "S1_G3_Ride",
-    "default_socket_pc2": "S2_G3_Ride",
-    "socket_mask": 32768,
-    "all_sockets": [
-      "S1_G3_Ride",
-      "S2_G3_Ride"
-    ]
-  },
-  {
-    "id": 3711,
-    "editor_name": "胡桃王子",
     "animation_name": "Mac_YaoYao1_001",
     "default_socket_pc1": "S1_B2_Ride",
     "default_socket_pc2": "S2_B2_Ride",
@@ -7595,6 +7690,18 @@
       "S1_B2_Ride",
       "S2_B2_Ride_PC",
       "S2_B2_Ride"
+    ]
+  },
+  {
+    "id": 3711,
+    "editor_name": "胡桃王子",
+    "animation_name": "Mac_YaoYao2_001",
+    "default_socket_pc1": "S1_G3_Ride",
+    "default_socket_pc2": "S2_G3_Ride",
+    "socket_mask": 32768,
+    "all_sockets": [
+      "S1_G3_Ride",
+      "S2_G3_Ride"
     ]
   },
   {
@@ -7709,28 +7816,34 @@
     "id": 3733,
     "editor_name": "钨丝贝贝",
     "animation_name": "Mac_WuSiBB1_001",
-    "default_socket_pc1": "S1_G5_Ride",
-    "default_socket_pc2": "S2_G5_Ride",
-    "socket_mask": 4194304,
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 4194560,
     "all_sockets": [
-      "S1_G5_Ride",
-      "S2_G5_Ride"
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S1_G5_Ride_0",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC",
+      "S2_G5_Ride_0"
     ]
   },
   {
     "id": 3734,
     "editor_name": "辉光幕机",
     "animation_name": "Mac_WuSiBB2_001",
-    "default_socket_pc1": "S1_G1_Ride",
-    "default_socket_pc2": "S2_G1_Ride",
-    "socket_mask": 2,
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 3,
     "all_sockets": [
-      "S1_G1_Ride",
+      "S1_G1_Ride_2",
       "S1_G1_Ride_0",
       "S1_G1_Ride_1",
-      "S2_G1_Ride",
+      "S1_G0_Ride",
+      "S2_G1_Ride_2",
       "S2_G1_Ride_0",
-      "S2_G1_Ride_1"
+      "S2_G1_Ride_1",
+      "S2_G0_Ride"
     ]
   },
   {
@@ -7739,12 +7852,14 @@
     "animation_name": "Mac_WuSiBB3_001",
     "default_socket_pc1": "S1_G1_Ride",
     "default_socket_pc2": "S2_G1_Ride",
-    "socket_mask": 2,
+    "socket_mask": 4194306,
     "all_sockets": [
       "S1_G1_Ride",
       "S1_G1_Ride_0",
+      "S1_G5_Ride_0",
       "S2_G1_Ride",
-      "S2_G1_Ride_0"
+      "S2_G1_Ride_0",
+      "S2_G5_Ride_0"
     ]
   },
   {
@@ -7850,8 +7965,8 @@
     "socket_mask": 4194306,
     "all_sockets": [
       "S1_G1_Ride",
-      "S2_G1_Ride",
       "S1_G5_Ride_0",
+      "S2_G1_Ride",
       "S2_G5_Ride_0"
     ]
   },
@@ -7873,6 +7988,206 @@
     "id": 3745,
     "editor_name": "雅丹鬃",
     "animation_name": "Fir_HuoHongWei3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 3746,
+    "editor_name": "雪影娃娃-睡铃",
+    "animation_name": "Ice_DouMao3SP_001",
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 256,
+    "all_sockets": [
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC"
+    ]
+  },
+  {
+    "id": 3747,
+    "editor_name": "莫比乌乌",
+    "animation_name": "Ill_WuWu1_001",
+    "default_socket_pc1": "S1_D0_Ride",
+    "default_socket_pc2": "S2_D0_Ride",
+    "socket_mask": 16384,
+    "all_sockets": [
+      "S1_D0_Ride",
+      "S2_D0_Ride"
+    ]
+  },
+  {
+    "id": 3748,
+    "editor_name": "克莱因龙\t",
+    "animation_name": "Ill_WuWu3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 3749,
+    "editor_name": "森豆丁",
+    "animation_name": "Gra_SenDouDing1_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 3750,
+    "editor_name": "森蛮人",
+    "animation_name": "Gra_SenDouDing2_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 3751,
+    "editor_name": "森巨人",
+    "animation_name": "Gra_SenDouDing3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 3752,
+    "editor_name": "叮叮卯",
+    "animation_name": "Win_DDMao1_001",
+    "default_socket_pc1": "S1_B2_Ride",
+    "default_socket_pc2": "S2_B2_Ride",
+    "socket_mask": 1024,
+    "all_sockets": [
+      "S1_B2_Ride",
+      "S1_B2_Ride_PC",
+      "S2_B2_Ride",
+      "S2_B2_Ride_PC"
+    ]
+  },
+  {
+    "id": 3753,
+    "editor_name": "飞飞钥",
+    "animation_name": "Win_DDMao2_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 4,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S2_H0_Ride"
+    ]
+  },
+  {
+    "id": 3754,
+    "editor_name": "火豆丁",
+    "animation_name": "Fir_HuoDouDing1_001",
+    "default_socket_pc1": "S1_C1_Ride",
+    "default_socket_pc2": "S2_C1_Ride",
+    "socket_mask": 128,
+    "all_sockets": [
+      "S1_C1_Ride",
+      "S2_C1_Ride"
+    ]
+  },
+  {
+    "id": 3755,
+    "editor_name": "火蛮人",
+    "animation_name": "Fir_HuoDouDing2_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 3756,
+    "editor_name": "火巨人",
+    "animation_name": "Fir_HuoDouDing3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 3757,
+    "editor_name": "点点",
+    "animation_name": "Men_DianDian1_001",
+    "default_socket_pc1": "S1_B2_Ride",
+    "default_socket_pc2": "S2_B2_Ride",
+    "socket_mask": 1024,
+    "all_sockets": [
+      "S1_B2_Ride",
+      "S1_B2_Ride_PC",
+      "S1_B2_Ride_PC_0",
+      "S2_B2_Ride",
+      "S2_B2_Ride_PC",
+      "S2_B2_Ride_PC_0"
+    ]
+  },
+  {
+    "id": 3758,
+    "editor_name": "珀尔鼬",
+    "animation_name": "Men_DianDian3_001",
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 256,
+    "all_sockets": [
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC"
+    ]
+  },
+  {
+    "id": 3759,
+    "editor_name": "苞米仔",
+    "animation_name": "Gra_BaoMiZai1_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S1_B0_Ride_PC",
+      "S2_B0_Ride",
+      "S2_B0_Ride_PC"
+    ]
+  },
+  {
+    "id": 3760,
+    "editor_name": "炮米花",
+    "animation_name": "Gra_BaoMiZai3_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
     "socket_mask": 1,
@@ -7962,9 +8277,849 @@
     ]
   },
   {
-    "id": 9801,
-    "editor_name": "鸭吉吉（蓬松的样子）",
-    "animation_name": "Com_YaJiJi1_001",
+    "id": 5001,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5002,
+    "editor_name": "彩虹独角兽",
+    "animation_name": "Lig_YiLiSi3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5003,
+    "editor_name": "叶冕魔力猫",
+    "animation_name": "Gra_MiaoMiaoBo_001",
+    "default_socket_pc1": "S1_G2_Ride_2",
+    "default_socket_pc2": "S2_G2_Ride_2",
+    "socket_mask": 2048,
+    "all_sockets": [
+      "S1_G2_Ride_1",
+      "S1_G2_Ride_0",
+      "S1_G2_Ride",
+      "S2_G2_Ride_1",
+      "S2_G2_Ride_0",
+      "S2_G2_Ride",
+      "S2_G2_Ride_2",
+      "S1_G2_Ride_2"
+    ]
+  },
+  {
+    "id": 5004,
+    "editor_name": "蹦蹦果",
+    "animation_name": "Gra_BengBengCaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5005,
+    "editor_name": "奇丽果",
+    "animation_name": "Gra_QiLicaoBo_001",
+    "default_socket_pc1": "S1_C0_Ride_0",
+    "default_socket_pc2": "S2_C0_Ride_0",
+    "socket_mask": 65,
+    "all_sockets": [
+      "S1_G0_Ride_0",
+      "S2_G0_Ride_0",
+      "S1_C0_Ride",
+      "S2_C0_Ride",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5006,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5007,
+    "editor_name": "黑猫密探",
+    "animation_name": "Com_HeiMaoBo_001",
+    "default_socket_pc1": "S1_B2_Ride",
+    "default_socket_pc2": "S2_B2_Ride",
+    "socket_mask": 1024,
+    "all_sockets": [
+      "S1_B2_Ride",
+      "S2_B2_Ride"
+    ]
+  },
+  {
+    "id": 5008,
+    "editor_name": "迷嶂布莱克",
+    "animation_name": "Roc_BuShi3Bo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5009,
+    "editor_name": "祭礼巨像",
+    "animation_name": "Roc_MaYaBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 2097153,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_C5_Ride_0",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_C5_Ride_0",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5010,
+    "editor_name": "圣水守护",
+    "animation_name": "Wat_ShuiLanLanBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
+    ]
+  },
+  {
+    "id": 5011,
+    "editor_name": "神谕鲨",
+    "animation_name": "Wat_DieShaBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5013,
+    "editor_name": "雪影冰灵",
+    "animation_name": "Ice_DouMaoBo_001",
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 256,
+    "all_sockets": [
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC"
+    ]
+  },
+  {
+    "id": 5014,
+    "editor_name": "霜翼领主",
+    "animation_name": "Win_LanNiaoBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 5,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5015,
+    "editor_name": "女王蜂",
+    "animation_name": "Wor_MiFengBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 4,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S2_H0_Ride",
+      "S1_H0_Ride_1",
+      "S1_H0_Ride_0",
+      "S2_H0_Ride_0",
+      "S2_H0_Ride_1"
+    ]
+  },
+  {
+    "id": 5016,
+    "editor_name": "恶魔狼王",
+    "animation_name": "Dem_EMoLangBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3"
+    ]
+  },
+  {
+    "id": 5017,
+    "editor_name": "烈火战神",
+    "animation_name": "Fir_XiaoHuoMiaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 2049,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G2_Ride_0",
+      "S2_G2_Ride_0"
+    ]
+  },
+  {
+    "id": 5018,
+    "editor_name": "风暴战犬",
+    "animation_name": "Fir_YinSuQuanBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
+    ]
+  },
+  {
+    "id": 5019,
+    "editor_name": "幻影荆棘",
+    "animation_name": "Gho_YouLingShuBo_001",
+    "default_socket_pc1": "S1_G1_Ride_0",
+    "default_socket_pc2": "S2_G1_Ride_0",
+    "socket_mask": 3,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G1_Ride_0",
+      "S2_G0_Ride",
+      "S2_G1_Ride_0"
+    ]
+  },
+  {
+    "id": 5020,
+    "editor_name": "波普鹿",
+    "animation_name": "Ele_JueShiLuBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5021,
+    "editor_name": "圣剑骑士",
+    "animation_name": "Mac_ShengJianBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5022,
+    "editor_name": "伊兰龙",
+    "animation_name": "Dra_YiLanBo_001",
+    "default_socket_pc1": "S1_G6_Ride_0",
+    "default_socket_pc2": "S2_G6_Ride_0",
+    "socket_mask": 33554433,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G6_Ride_0",
+      "S2_G6_Ride_0"
+    ]
+  },
+  {
+    "id": 5023,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5024,
+    "editor_name": "奇梦咪",
+    "animation_name": "Com_DouDouMaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 2049,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G2_Ride_0",
+      "S2_G0_Ride",
+      "S2_G2_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride_1",
+      "S2_G2_Ride_2",
+      "S1_G2_Ride_2"
+    ]
+  },
+  {
+    "id": 5025,
+    "editor_name": "圣光迪莫",
+    "animation_name": "Lig_DiMo2_001",
+    "default_socket_pc1": "S1_H2_Ride",
+    "default_socket_pc2": "S2_H2_Ride",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S2_H2_Ride"
+    ]
+  },
+  {
+    "id": 5026,
+    "editor_name": "圣草迪莫",
+    "animation_name": "Gra_DiMo2_001",
+    "default_socket_pc1": "S1_H2_Ride",
+    "default_socket_pc2": "S2_H2_Ride",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S2_H2_Ride"
+    ]
+  },
+  {
+    "id": 5027,
+    "editor_name": "圣火迪莫",
+    "animation_name": "Fir_DiMo2_001",
+    "default_socket_pc1": "S1_H2_Ride",
+    "default_socket_pc2": "S2_H2_Ride",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S2_H2_Ride"
+    ]
+  },
+  {
+    "id": 5028,
+    "editor_name": "圣水迪莫",
+    "animation_name": "Wat_DiMo2_001",
+    "default_socket_pc1": "S1_H2_Ride",
+    "default_socket_pc2": "S2_H2_Ride",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S2_H2_Ride"
+    ]
+  },
+  {
+    "id": 5030,
+    "editor_name": "霜翼领主",
+    "animation_name": "Win_LanNiaoBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 5,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5031,
+    "editor_name": "霜翼领主",
+    "animation_name": "Win_LanNiaoBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 5,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5032,
+    "editor_name": "霜翼领主",
+    "animation_name": "Win_LanNiaoBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 5,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_H0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5033,
+    "editor_name": "蹦蹦果",
+    "animation_name": "Gra_BengBengCaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5034,
+    "editor_name": "蹦蹦果",
+    "animation_name": "Gra_BengBengCaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5035,
+    "editor_name": "蹦蹦果",
+    "animation_name": "Gra_BengBengCaoBo_001",
+    "default_socket_pc1": "S1_G0_Ride_1",
+    "default_socket_pc2": "S2_G0_Ride_1",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5036,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5037,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5038,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5039,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5040,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5041,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5042,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5043,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5044,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5045,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5046,
+    "editor_name": "棋契陛下",
+    "animation_name": "Wus_QiQiBo_001",
+    "default_socket_pc1": "S1_H2_Ride_0",
+    "default_socket_pc2": "S2_H2_Ride_0",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0"
+    ]
+  },
+  {
+    "id": 5047,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5048,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5049,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5050,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5051,
+    "editor_name": "钻石蜗",
+    "animation_name": "Lig_KuangChongBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 67,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G1_Ride_0",
+      "S1_C0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_C0_Ride_1",
+      "S1_G0_Ride_2",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G1_Ride_0",
+      "S2_C0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_C0_Ride_1",
+      "S2_G0_Ride_2"
+    ]
+  },
+  {
+    "id": 5052,
+    "editor_name": "鸭吉吉国王",
+    "animation_name": "Com_YaJiJiBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5053,
+    "editor_name": "深渊罗隐",
+    "animation_name": "Roc_AMiYaTeBo_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5054,
+    "editor_name": "高帽鹬者",
+    "animation_name": "Com_XiaoYuBo_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
     "socket_mask": 1,
@@ -7974,13 +9129,130 @@
     ]
   },
   {
+    "id": 5055,
+    "editor_name": "恶魔男爵",
+    "animation_name": "Dem_EMoDingBo_001",
+    "default_socket_pc1": "S1_G3_Ride",
+    "default_socket_pc2": "S2_G3_Ride",
+    "socket_mask": 32768,
+    "all_sockets": [
+      "S1_G3_Ride",
+      "S2_G3_Ride"
+    ]
+  },
+  {
+    "id": 5056,
+    "editor_name": "暮风隐者",
+    "animation_name": "Com_YeChongBo_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S1_B0_Ride_0",
+      "S2_B0_Ride",
+      "S2_B0_Ride_0",
+      "S1_B0_Ride_1",
+      "S2_B0_Ride_1"
+    ]
+  },
+  {
+    "id": 5057,
+    "editor_name": "淤泥乌泽",
+    "animation_name": "Roc_XiNiOuBo_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride_0",
+      "S1_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 5059,
+    "editor_name": "暗夜颅主",
+    "animation_name": "Gho_YeMoBo_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 16,
+    "all_sockets": [
+      "S1_H2_Ride",
+      "S1_H2_Ride_0",
+      "S1_H2_Ride_1",
+      "S2_H2_Ride",
+      "S2_H2_Ride_0",
+      "S2_H2_Ride_1"
+    ]
+  },
+  {
+    "id": 5060,
+    "editor_name": "风暴酷拉",
+    "animation_name": "Ele_KuLaBo_001",
+    "default_socket_pc1": "S1_HIH_Ride",
+    "default_socket_pc2": "S2_HIH_Ride",
+    "socket_mask": 256,
+    "all_sockets": [
+      "S1_HIH_Ride",
+      "S1_HIH_Ride_PC",
+      "S2_HIH_Ride",
+      "S2_HIH_Ride_PC"
+    ]
+  },
+  {
+    "id": 5061,
+    "editor_name": "武斗酷猫",
+    "animation_name": "Gra_MiaoMiao3_002",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 5062,
+    "editor_name": "暮风隐者",
+    "animation_name": "Com_YeChongBo_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S1_B0_Ride_0",
+      "S2_B0_Ride",
+      "S2_B0_Ride_0",
+      "S1_B0_Ride_1",
+      "S2_B0_Ride_1"
+    ]
+  },
+  {
+    "id": 9801,
+    "editor_name": "鸭吉吉（蓬松的样子）",
+    "animation_name": "Com_YaJiJi1_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
     "id": 14000001,
     "editor_name": "果冻-剧情变身专用",
     "animation_name": "Wat_BuDing1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 262145,
     "all_sockets": [
+      "S1_D1_Ride_0",
+      "S2_D1_Ride_0",
       "S1_G0_Ride",
       "S2_G0_Ride"
     ]
@@ -7999,14 +9271,58 @@
   },
   {
     "id": 14000003,
-    "editor_name": "果冻-剧情变身专用",
-    "animation_name": "Wat_BuDing1_001",
+    "editor_name": "芽眼魔-守护地特殊3C专用",
+    "animation_name": "Dem_DuYan1_001",
+    "default_socket_pc1": "S1_H0_Ride",
+    "default_socket_pc2": "S2_H0_Ride",
+    "socket_mask": 4,
+    "all_sockets": [
+      "S1_H0_Ride",
+      "S2_H0_Ride"
+    ]
+  },
+  {
+    "id": 14000005,
+    "editor_name": "火巨人",
+    "animation_name": "Fir_HuoDouDing3_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
     "socket_mask": 1,
     "all_sockets": [
       "S1_G0_Ride",
-      "S2_G0_Ride"
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1"
+    ]
+  },
+  {
+    "id": 14000006,
+    "editor_name": "森巨人",
+    "animation_name": "Gra_SenDouDing3_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 14000007,
+    "editor_name": "雪巨人",
+    "animation_name": "Ice_XueDouDing3_001",
+    "default_socket_pc1": "S1_C1_Ride",
+    "default_socket_pc2": "S2_C1_Ride",
+    "socket_mask": 2176,
+    "all_sockets": [
+      "S1_G2_Ride_0",
+      "S1_C1_Ride",
+      "S2_G2_Ride_0",
+      "S2_C1_Ride"
     ]
   },
   {
@@ -8056,7 +9372,7 @@
     "editor_name": "迪莫-A2-1变形",
     "animation_name": "Lig_DiMo1_001",
     "default_socket_pc1": "S1_G2_Ride_0",
-    "default_socket_pc2": "S2_G2_Ride_0",
+    "default_socket_pc2": "S1_G2_Ride_0",
     "socket_mask": 2080,
     "all_sockets": [
       "S1_B0_Ride",
@@ -8075,6 +9391,18 @@
       "S1_B0_Ride",
       "S2_B0_Ride",
       "S1_G2_Ride_0"
+    ]
+  },
+  {
+    "id": 16000009,
+    "editor_name": "阿瓦鲨（虎纹鲨的样子）-变形用",
+    "animation_name": "Wat_AWaSha1Ar_001",
+    "default_socket_pc1": "S1_G0_Ride_0",
+    "default_socket_pc2": "S2_G0_Ride_0",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride_0",
+      "S2_G0_Ride_0"
     ]
   },
   {
@@ -8215,8 +9543,10 @@
     "animation_name": "Wat_BuDing1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 262145,
     "all_sockets": [
+      "S1_D1_Ride_0",
+      "S2_D1_Ride_0",
       "S1_G0_Ride",
       "S2_G0_Ride"
     ]
@@ -8255,8 +9585,10 @@
     "animation_name": "Wat_BuDing1_001",
     "default_socket_pc1": "S1_G0_Ride",
     "default_socket_pc2": "S2_G0_Ride",
-    "socket_mask": 1,
+    "socket_mask": 262145,
     "all_sockets": [
+      "S1_D1_Ride_0",
+      "S2_D1_Ride_0",
       "S1_G0_Ride",
       "S2_G0_Ride"
     ]
@@ -8275,6 +9607,52 @@
       "S2_HIH_Ride",
       "S2_HIH_Ride_PC",
       "S2_G5_Ride_0"
+    ]
+  },
+  {
+    "id": 32000001,
+    "editor_name": "喵喵",
+    "animation_name": "Gra_MiaoMiao1_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 513,
+    "all_sockets": [
+      "S1_B1_Ride",
+      "S1_B1_Ride_PC",
+      "S2_B1_Ride",
+      "S2_B1_Ride_PC",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 32000002,
+    "editor_name": "火花",
+    "animation_name": "Fir_XiaoHuoMiao1_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 16385,
+    "all_sockets": [
+      "S1_D0_Ride",
+      "S2_D0_Ride",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
+    ]
+  },
+  {
+    "id": 32000003,
+    "editor_name": "水蓝蓝",
+    "animation_name": "Wat_ShuiLanLan1_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1025,
+    "all_sockets": [
+      "S1_B2_Ride",
+      "S1_B2_Ride_PC",
+      "S2_B2_Ride",
+      "S2_B2_Ride_PC",
+      "S1_G0_Ride",
+      "S2_G0_Ride"
     ]
   }
 ]

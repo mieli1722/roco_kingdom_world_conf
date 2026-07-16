@@ -2911,6 +2911,88 @@
     ]
   },
   {
+    "id": 12028,
+    "name": "首领命中场景特殊物",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 54,
+        "cond_op": 1,
+        "cond_value": 4,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1400
+      }
+    ]
+  },
+  {
+    "id": 12029,
+    "name": "客户端首领进战_很远",
+    "fsm_cond": [
+      {
+        "cond_type": 62,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 3500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 1,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 3500,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 16
+      }
+    ]
+  },
+  {
+    "id": 12030,
+    "name": "服务器首领进战_很远",
+    "fsm_cond": [
+      {
+        "cond_type": 62,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 3500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 1,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 3500,
+        "delta_indent": -2
+      }
+    ]
+  },
+  {
     "id": 13000,
     "name": "潜游大范围应激",
     "fsm_cond": [
@@ -5371,24 +5453,13 @@
     "fsm_cond": [
       {
         "cond_type": 65,
-        "cond_op": 1,
-        "cond_value": 37,
+        "cond_value": 41,
         "operand": 2,
         "delta_indent": 1
       },
       {
         "cond_type": 65,
-        "cond_value": 38,
-        "operand": 1
-      },
-      {
-        "cond_type": 65,
-        "cond_value": 39,
-        "operand": 1
-      },
-      {
-        "cond_type": 65,
-        "cond_value": 40,
+        "cond_value": 42,
         "operand": 1,
         "delta_indent": -1
       },
@@ -5491,24 +5562,14 @@
       {
         "cond_type": 65,
         "cond_op": 2,
-        "cond_value": 37,
+        "cond_value": 41,
         "operand": 2,
         "delta_indent": 1
       },
       {
         "cond_type": 65,
         "cond_op": 2,
-        "cond_value": 38
-      },
-      {
-        "cond_type": 65,
-        "cond_op": 2,
-        "cond_value": 39
-      },
-      {
-        "cond_type": 65,
-        "cond_op": 2,
-        "cond_value": 40
+        "cond_value": 42
       },
       {
         "cond_type": 52,
@@ -8530,7 +8591,7 @@
   },
   {
     "id": 23202,
-    "name": "刷花感知跳跃",
+    "name": "蹦蹦刷花跳跃",
     "fsm_cond": [
       {
         "cond_type": 13,
@@ -8560,29 +8621,51 @@
     "name": "1401且状态结束且玩家不在跳跃",
     "fsm_cond": [
       {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1401
+      },
+      {
         "cond_type": 13,
         "cond_op": 2,
-        "cond_value": 4,
-        "operand": 2
+        "cond_value": 4
       },
       {
         "cond_type": 13,
         "cond_op": 2,
         "cond_value": 42
-      },
-      {
-        "cond_type": 50,
-        "cond_op": 5
-      },
-      {
-        "cond_type": 59,
-        "cond_value": 1401
       }
     ]
   },
   {
     "id": 23204,
-    "name": "结束状态&无1401_copy",
+    "name": "幽灵刷鬼火",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 42,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 50,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23205,
+    "name": "结束状态&无1401&跳跃",
     "fsm_cond": [
       {
         "cond_type": 50,
@@ -8609,7 +8692,7 @@
     ]
   },
   {
-    "id": 23205,
+    "id": 23206,
     "name": "气球猫进化链",
     "cond_with": 1,
     "fsm_cond": [
@@ -8627,7 +8710,7 @@
     ]
   },
   {
-    "id": 23206,
+    "id": 23207,
     "name": "野外精灵保护玩家",
     "fsm_cond": [
       {
@@ -8649,7 +8732,7 @@
     ]
   },
   {
-    "id": 23207,
+    "id": 23208,
     "name": "骑乘响应结束-独轮车",
     "fsm_cond": [
       {
@@ -8689,7 +8772,7 @@
     ]
   },
   {
-    "id": 23208,
+    "id": 23209,
     "name": "骑乘响应-独轮车",
     "fsm_cond": [
       {
@@ -8741,13 +8824,13 @@
       },
       {
         "cond_type": 69,
-        "sub_cond_type": 2002,
+        "sub_cond_type": 2003,
         "cond_value": 3000
       }
     ]
   },
   {
-    "id": 23209,
+    "id": 23210,
     "name": "击晕-非异色",
     "cond_with": 1,
     "fsm_cond": [
@@ -8775,11 +8858,13 @@
       },
       {
         "cond_type": 104,
-        "sub_cond_type": 7103
+        "sub_cond_type": 7103,
+        "cond_op": 1
       },
       {
         "cond_type": 104,
-        "sub_cond_type": 7104
+        "sub_cond_type": 7104,
+        "cond_op": 1
       },
       {
         "cond_type": 104,
@@ -8788,7 +8873,7 @@
     ]
   },
   {
-    "id": 23210,
+    "id": 23211,
     "name": "击晕-异色炫彩噩梦",
     "cond_with": 1,
     "fsm_cond": [
@@ -8832,6 +8917,2605 @@
         "cond_op": 5,
         "operand": 1,
         "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 23212,
+    "name": "瓶装困倦",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 650,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      }
+    ]
+  },
+  {
+    "id": 23213,
+    "name": "进入紧密跟随_110旅途",
+    "fsm_cond": [
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      }
+    ]
+  },
+  {
+    "id": 23214,
+    "name": "退出紧密跟随_110旅途",
+    "fsm_cond": [
+      {
+        "cond_type": 58,
+        "cond_op": 5,
+        "cond_value": 2,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23215,
+    "name": "捕尘长绒触发互动_旅途",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 750
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 2001,
+        "cond_value": 8000
+      }
+    ]
+  },
+  {
+    "id": 23216,
+    "name": "结束等待交互_旅途",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 6,
+        "cond_value": 2000,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 13,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "operand": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 6,
+        "cond_value": 100,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 5,
+        "cond_value": 8,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 1,
+        "cond_value": 2,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23217,
+    "name": "时装响应_朔夜伊芙",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 45
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23218,
+    "name": "时装停止响应_朔夜伊芙",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 45,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23219,
+    "name": "时装响应_乌拉塔",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 46
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23220,
+    "name": "时装停止响应_乌拉塔",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 46,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23221,
+    "name": "时装响应_裘卡",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 47
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23222,
+    "name": "时装停止响应_裘卡",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 47,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23223,
+    "name": "时装响应_古卷执政官",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 48
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23224,
+    "name": "时装停止响应_古卷执政官",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 48,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23225,
+    "name": "时装响应_古卷匣魔像",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 49
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23226,
+    "name": "时装停止响应_古卷匣魔像",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 49,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23227,
+    "name": "时装响应_画间法师手",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 50
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23228,
+    "name": "时装停止响应_画间法师手",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 50,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23229,
+    "name": "时装响应_画间沉铁兽",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 51
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23230,
+    "name": "时装停止响应_画间沉铁兽",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 51,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23231,
+    "name": "时装响应_食尘短绒",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 52
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1402
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23232,
+    "name": "时装停止响应_食尘短绒",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 52,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23233,
+    "name": "时装响应_捕尘长绒",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 53
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1402
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23234,
+    "name": "时装停止响应_捕尘长绒",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 53,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23235,
+    "name": "时装响应_秩序鱿墨",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 54
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23236,
+    "name": "时装停止响应_秩序鱿墨",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 54,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23237,
+    "name": "时装响应_混乱鱿彩",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 55
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23238,
+    "name": "时装停止响应_混乱鱿彩",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 55,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23239,
+    "name": "时装响应_魔力猫",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 56
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23240,
+    "name": "时装停止响应_魔力猫",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 56,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23241,
+    "name": "时装响应_火神",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 57
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23242,
+    "name": "时装停止响应_火神",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 57,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23243,
+    "name": "时装响应_水灵",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_value": 58
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 31
+      }
+    ]
+  },
+  {
+    "id": 23244,
+    "name": "时装停止响应_水灵",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 1
+      },
+      {
+        "cond_type": 66,
+        "sub_cond_type": 44,
+        "cond_op": 2,
+        "cond_value": 58,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23245,
+    "name": "正午",
+    "fsm_cond": [
+      {
+        "cond_type": 101,
+        "cond_op": 6,
+        "cond_value": 10,
+        "operand": 2
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 3,
+        "cond_value": 14
+      },
+      {
+        "cond_type": 102,
+        "cond_value": 1
+      }
+    ]
+  },
+  {
+    "id": 23246,
+    "name": "非正午",
+    "fsm_cond": [
+      {
+        "cond_type": 101,
+        "cond_op": 3,
+        "cond_value": 10,
+        "operand": 2
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 6,
+        "cond_value": 14,
+        "operand": 1
+      },
+      {
+        "cond_type": 102,
+        "cond_op": 2,
+        "cond_value": 1,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23247,
+    "name": "状态结束_非1405",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23248,
+    "name": "状态结束_1405",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23249,
+    "name": "骑乘响应通用条件_不埋地",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 50,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1100
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 2002,
+        "cond_value": 8000
+      }
+    ]
+  },
+  {
+    "id": 23250,
+    "name": "状态结束_玩家应激",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 12,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 22,
+        "operand": 1,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 14,
+        "sub_cond_type": 22,
+        "cond_op": 2,
+        "cond_value": 101,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 23251,
+    "name": "对峙_非1405",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23252,
+    "name": "对峙_1405",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23253,
+    "name": "骑乘响应_1405",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 50,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 2002,
+        "cond_value": 8000
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23254,
+    "name": "有1405",
+    "fsm_cond": [
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1405,
+        "operand": 2
+      }
+    ]
+  },
+  {
+    "id": 23255,
+    "name": "距离太大算了或感知值=0",
+    "fsm_cond": [
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 2500,
+        "operand": 2
+      },
+      {
+        "cond_type": 7,
+        "cond_op": 1,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23256,
+    "name": "仅被魔法击中_60SCD",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1001,
+        "cond_value": 60000
+      }
+    ]
+  },
+  {
+    "id": 23257,
+    "name": "对峙_非1403",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1403
+      }
+    ]
+  },
+  {
+    "id": 23258,
+    "name": "点点伴舞_1403",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 800
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 1,
+        "cond_value": 42,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1403
+      }
+    ]
+  },
+  {
+    "id": 23259,
+    "name": "骑乘响应_非1405",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 50,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 2002,
+        "cond_value": 8000
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1405
+      }
+    ]
+  },
+  {
+    "id": 23260,
+    "name": "玩家扔出精灵落地_10SCD",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 24,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2000
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1001,
+        "cond_value": 10000
+      }
+    ]
+  },
+  {
+    "id": 23261,
+    "name": "对峙_非1407",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1407
+      }
+    ]
+  },
+  {
+    "id": 23262,
+    "name": "对峙_1407",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1407
+      }
+    ]
+  },
+  {
+    "id": 23263,
+    "name": "状态结束_非1407",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1407
+      }
+    ]
+  },
+  {
+    "id": 23264,
+    "name": "状态结束_1407",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1407
+      }
+    ]
+  },
+  {
+    "id": 23265,
+    "name": "莫比乌乌切换悬挂2",
+    "fsm_cond": [
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1402,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1405
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 12,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 22,
+        "operand": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 6,
+        "cond_value": 100,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 23266,
+    "name": "莫比乌乌切换悬挂1",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 12,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 22,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 3,
+        "cond_value": 100,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23267,
+    "name": "莫比乌乌切换悬挂2_跟随",
+    "fsm_cond": [
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1403,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 12,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 22,
+        "operand": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 6,
+        "cond_value": 100,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 23268,
+    "name": "仅被魔法击中_10SCD",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1002,
+        "cond_value": 10000
+      }
+    ]
+  },
+  {
+    "id": 23269,
+    "name": "仅被风场魔法击中_10SCD",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 8,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1005,
+        "cond_value": 10000
+      }
+    ]
+  },
+  {
+    "id": 23270,
+    "name": "仅被魔法击中_1400",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "sub_cond_type": 1002,
+        "cond_value": 1400
+      }
+    ]
+  },
+  {
+    "id": 23271,
+    "name": "仅被风场魔法击中_1400",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 8,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "sub_cond_type": 1005,
+        "cond_value": 1400
+      }
+    ]
+  },
+  {
+    "id": 23272,
+    "name": "骑乘响应_no1403",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 50,
+        "operand": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 2002,
+        "cond_value": 8000
+      }
+    ]
+  },
+  {
+    "id": 23273,
+    "name": "对峙通用条件_非1406",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1406
+      }
+    ]
+  },
+  {
+    "id": 23274,
+    "name": "对峙通用条件_1406",
+    "fsm_cond": [
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1500,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "sub_cond_type": 24,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 26,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 30
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1406
+      }
+    ]
+  },
+  {
+    "id": 23275,
+    "name": "状态结束_1404",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59
+      }
+    ]
+  },
+  {
+    "id": 23276,
+    "name": "仅被魔法击中_无1404",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1404
+      }
+    ]
+  },
+  {
+    "id": 23277,
+    "name": "仅被魔法击中_有1404",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1404
+      }
+    ]
+  },
+  {
+    "id": 23278,
+    "name": "同栖息地累计捕捉成功>=1_1406",
+    "fsm_cond": [
+      {
+        "cond_type": 104,
+        "sub_cond_type": 2002,
+        "cond_op": 6,
+        "cond_value": 1,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1406
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 63,
+        "cond_op": 5
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 2500
+      }
+    ]
+  },
+  {
+    "id": 23279,
+    "name": "火蛮人跳跃感知",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 4,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 4,
+        "cond_value": 75,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 285,
+        "operand": 1,
+        "delta_indent": -2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1405
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1406
+      }
+    ]
+  },
+  {
+    "id": 23280,
+    "name": "进入雷暴",
+    "fsm_cond": [
+      {
+        "cond_type": 59,
+        "cond_value": 1404,
+        "operand": 2
+      },
+      {
+        "cond_type": 69,
+        "sub_cond_type": 1004,
+        "cond_value": 120000
+      }
+    ]
+  },
+  {
+    "id": 23281,
+    "name": "应激条件_不打断1401_状态结束",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 12,
+        "operand": 2,
+        "delta_indent": 2
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 22,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 3,
+        "cond_value": 1000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 4,
+        "cond_value": 30,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 330,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1401,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23282,
+    "name": "状态结束_非1407_非1406",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1407
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 2,
+        "cond_value": 1406
+      }
+    ]
+  },
+  {
+    "id": 23283,
+    "name": "状态结束_1407_1406",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1407,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 59,
+        "cond_value": 1406,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 23284,
+    "name": "仅被精灵误伤",
+    "cond_with": 1,
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 3,
+        "cond_op": 1,
+        "cond_value": 1,
+        "operand": 2
+      }
+    ]
+  },
+  {
+    "id": 23285,
+    "name": "玩家移动速度>0_copy",
+    "fsm_cond": [
+      {
+        "cond_type": 52,
+        "cond_op": 5,
+        "cond_value": 3,
+        "operand": 2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "cond_value": 100
+      }
+    ]
+  },
+  {
+    "id": 23286,
+    "name": "玩家移动速度>0_接近",
+    "fsm_cond": [
+      {
+        "cond_type": 52,
+        "cond_op": 5,
+        "cond_value": 3,
+        "operand": 2
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "cond_value": 100
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 650
       }
     ]
   },
@@ -13703,6 +16387,252 @@
     ]
   },
   {
+    "id": 28089,
+    "name": "玩家举球",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 12,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 3,
+        "cond_value": 1000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 4,
+        "cond_value": 30,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 330,
+        "operand": 1,
+        "delta_indent": -2
+      }
+    ]
+  },
+  {
+    "id": 28090,
+    "name": "玩家举魔法",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_value": 22,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 14,
+        "sub_cond_type": 22,
+        "cond_op": 2,
+        "cond_value": 101,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 7,
+        "cond_op": 6,
+        "cond_value": 95
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 3,
+        "cond_value": 1000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 12,
+        "cond_op": 5,
+        "operand": 1,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 4,
+        "cond_value": 30,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 330,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 28091,
+    "name": "玩家受到威胁",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_op": 1,
+        "cond_value": 25,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 1000
+      }
+    ]
+  },
+  {
+    "id": 28092,
+    "name": "守夜烛归位条件",
+    "fsm_cond": [
+      {
+        "cond_type": 11,
+        "cond_op": 6,
+        "cond_value": 2500,
+        "operand": 2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 60,
+        "operand": 1
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 1,
+        "cond_value": 2,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 28093,
+    "name": "应激通用条件_仅星星魔法跟随粉粉星专用",
+    "fsm_cond": [
+      {
+        "cond_type": 13,
+        "cond_op": 1,
+        "cond_value": 22,
+        "operand": 2,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 12,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 13,
+        "cond_op": 2,
+        "cond_value": 13,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 500,
+        "operand": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 4,
+        "cond_value": 30,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 32,
+        "cond_op": 6,
+        "cond_value": 330,
+        "operand": 1,
+        "delta_indent": -2
+      }
+    ]
+  },
+  {
+    "id": 28094,
+    "name": "铆钉毛毛归位条件",
+    "fsm_cond": [
+      {
+        "cond_type": 11,
+        "cond_op": 6,
+        "cond_value": 1500,
+        "operand": 2
+      },
+      {
+        "cond_type": 52,
+        "cond_op": 6,
+        "cond_value": 60,
+        "operand": 1
+      },
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 1
+      },
+      {
+        "cond_type": 53,
+        "sub_cond_type": 1,
+        "cond_value": 2,
+        "operand": 1
+      },
+      {
+        "cond_type": 13,
+        "cond_value": 30,
+        "operand": 1
+      }
+    ]
+  },
+  {
     "id": 30000,
     "name": "对峙通用条件_甜田螺",
     "fsm_cond": [
@@ -15994,11 +18924,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1403
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1003,
-        "cond_value": 15000
       }
     ]
   },
@@ -17140,11 +20065,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1403
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1003,
-        "cond_value": 15000
       }
     ]
   },
@@ -17198,11 +20118,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1003,
-        "cond_value": 15000
       }
     ]
   },
@@ -17266,11 +20181,6 @@
         "cond_type": 59,
         "cond_op": 2,
         "cond_value": 1401
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1003,
-        "cond_value": 15000
       }
     ]
   },
@@ -17346,11 +20256,6 @@
         "cond_type": 52,
         "cond_op": 6,
         "cond_value": 1
-      },
-      {
-        "cond_type": 69,
-        "sub_cond_type": 1003,
-        "cond_value": 15000
       }
     ]
   },
@@ -27718,6 +30623,103 @@
         "cond_op": 1,
         "cond_value": 30005,
         "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 53057,
+    "name": "拍照行为结束条件",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 5,
+        "cond_value": 1000,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 65,
+        "cond_op": 2,
+        "cond_value": 41,
+        "operand": 1,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 65,
+        "cond_op": 2,
+        "cond_value": 42,
+        "delta_indent": -1
+      },
+      {
+        "cond_type": 65,
+        "cond_value": 37,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 53058,
+    "name": "【夜枭】本体击晕（星星魔法命中  等于1400",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 2,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "cond_op": 1,
+        "cond_value": 1400
+      }
+    ]
+  },
+  {
+    "id": 53059,
+    "name": "玩家状态处于首领战中",
+    "fsm_cond": [
+      {
+        "cond_type": 66,
+        "sub_cond_type": 23,
+        "cond_op": 1,
+        "cond_value": 23,
+        "operand": 2
+      }
+    ]
+  },
+  {
+    "id": 53060,
+    "name": "玩家状态不处于首领战中",
+    "fsm_cond": [
+      {
+        "cond_type": 66,
+        "sub_cond_type": 23,
+        "cond_op": 2,
+        "cond_value": 23,
+        "operand": 2
+      }
+    ]
+  },
+  {
+    "id": 53061,
+    "name": "淤泥污泽踩泥巴",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 55,
+        "cond_op": 1,
+        "cond_value": 183,
+        "operand": 2
+      },
+      {
+        "cond_type": 59,
+        "sub_cond_type": 52,
+        "cond_value": 1400
       }
     ]
   }

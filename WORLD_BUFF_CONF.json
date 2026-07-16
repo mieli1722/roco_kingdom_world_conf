@@ -1,8 +1,6 @@
 [
   {
     "id": 10001,
-    "buff_name": "荆棘光环扣血用",
-    "editor_name": "荆棘光环扣血用",
     "buff_type": 2,
     "tick_duration": 5000,
     "buff_effect_type": 1,
@@ -19,8 +17,6 @@
   },
   {
     "id": 10002,
-    "buff_name": "快速死亡扣血",
-    "editor_name": "快速死亡扣血",
     "tick_duration": 5000,
     "buff_effect_type": 1,
     "params": [
@@ -36,8 +32,6 @@
   },
   {
     "id": 10003,
-    "buff_name": "无敌保护",
-    "editor_name": "无敌保护",
     "time_out_duration": 5000,
     "buff_effect_type": 4,
     "is_die_delete": true,
@@ -51,8 +45,6 @@
   },
   {
     "id": 10004,
-    "buff_name": "湿润状态",
-    "editor_name": "湿润",
     "time_out_duration": 3600000,
     "is_die_delete": true,
     "option": [
@@ -65,8 +57,6 @@
   },
   {
     "id": 10012,
-    "buff_name": "温度扣血用",
-    "editor_name": "温度扣血用",
     "buff_type": 1,
     "tick_duration": 12000,
     "buff_effect_type": 1,
@@ -84,8 +74,6 @@
   },
   {
     "id": 30002,
-    "buff_name": "魔法精灵倒地BUFF",
-    "editor_name": "魔法精灵倒地BUFF",
     "time_out_duration": 300,
     "buff_effect_type": 2,
     "option": [
@@ -98,8 +86,6 @@
   },
   {
     "id": 30003,
-    "buff_name": "魔法星星标记BUFF",
-    "editor_name": "魔法星星标记BUFF",
     "time_out_duration": 5000,
     "buff_effect_type": 3,
     "option": [
@@ -112,8 +98,6 @@
   },
   {
     "id": 30004,
-    "buff_name": "测试数据-精灵障壁1",
-    "editor_name": "测试数据-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       800,
@@ -132,8 +116,6 @@
   },
   {
     "id": 30005,
-    "buff_name": "首领战-精灵眩晕1",
-    "editor_name": "测试数据-精灵眩晕1",
     "time_out_duration": 60000,
     "buff_effect_type": 6,
     "params": [
@@ -149,8 +131,6 @@
   },
   {
     "id": 30006,
-    "buff_name": "首领战-精灵眩晕2",
-    "editor_name": "测试数据-精灵眩晕2",
     "time_out_duration": 60000,
     "buff_effect_type": 6,
     "params": [
@@ -166,8 +146,6 @@
   },
   {
     "id": 30007,
-    "buff_name": "首领战-精灵弱点揭示1",
-    "editor_name": "测试数据-精灵弱点揭示1",
     "time_out_duration": 60000,
     "buff_effect_type": 7,
     "option": [
@@ -180,8 +158,6 @@
   },
   {
     "id": 30008,
-    "buff_name": "测试数据-精灵障壁2",
-    "editor_name": "测试数据-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       800,
@@ -201,8 +177,6 @@
   },
   {
     "id": 30009,
-    "buff_name": "测试数据-精灵障壁3",
-    "editor_name": "测试数据-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       800,
@@ -222,8 +196,6 @@
   },
   {
     "id": 30010,
-    "buff_name": "测试数据-精灵障壁4",
-    "editor_name": "测试数据-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       800,
@@ -243,8 +215,6 @@
   },
   {
     "id": 30011,
-    "buff_name": "首领战冲撞瞄准BUFF测试",
-    "editor_name": "首领战冲撞瞄准BUFF测试",
     "time_out_duration": 8000,
     "option": [
       {
@@ -256,8 +226,6 @@
   },
   {
     "id": 30012,
-    "buff_name": "星星空间战斗-星星障壁",
-    "editor_name": "星星空间战斗-星星障壁",
     "buff_effect_type": 5,
     "params": [
       1800,
@@ -276,8 +244,6 @@
   },
   {
     "id": 30013,
-    "buff_name": "首领战-精灵眩晕3",
-    "editor_name": "首领战-精灵眩晕3",
     "time_out_duration": 60000,
     "buff_effect_type": 6,
     "params": [
@@ -293,8 +259,6 @@
   },
   {
     "id": 30014,
-    "buff_name": "首领战-精灵眩晕4",
-    "editor_name": "首领战-精灵眩晕4",
     "time_out_duration": 60000,
     "buff_effect_type": 6,
     "params": [
@@ -310,8 +274,6 @@
   },
   {
     "id": 30015,
-    "buff_name": "首领战-增益获取",
-    "editor_name": "【商测版本】首领战弱点揭示改为增益获取",
     "time_out_duration": 60000,
     "buff_effect_type": 11,
     "option": [
@@ -324,8 +286,6 @@
   },
   {
     "id": 30016,
-    "buff_name": "首领战为精灵添加Buff",
-    "editor_name": "【商测版本】用于为精灵添加增益buff",
     "time_out_duration": 60000,
     "buff_effect_type": 11,
     "option": [
@@ -338,8 +298,6 @@
   },
   {
     "id": 38101,
-    "buff_name": "测试数据-移速降低-布鲁斯",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 50000,
     "buff_effect_type": 9,
     "params": [
@@ -348,8 +306,6 @@
   },
   {
     "id": 40002,
-    "buff_name": "通用护盾-精灵障壁1",
-    "editor_name": "通用护盾-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -368,8 +324,6 @@
   },
   {
     "id": 40003,
-    "buff_name": "通用护盾-精灵障壁2",
-    "editor_name": "通用护盾-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -388,8 +342,6 @@
   },
   {
     "id": 40004,
-    "buff_name": "通用护盾-精灵障壁3",
-    "editor_name": "通用护盾-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -408,8 +360,6 @@
   },
   {
     "id": 40005,
-    "buff_name": "通用护盾-精灵障壁4",
-    "editor_name": "通用护盾-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -428,8 +378,6 @@
   },
   {
     "id": 40006,
-    "buff_name": "通用护盾-精灵障壁5",
-    "editor_name": "噩梦首领护盾",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -448,8 +396,6 @@
   },
   {
     "id": 50001,
-    "buff_name": "骑乘升温",
-    "editor_name": "骑乘后升温",
     "buff_effect_type": 8,
     "params": [
       25
@@ -457,17 +403,13 @@
   },
   {
     "id": 50002,
-    "buff_name": "骑乘降温",
-    "editor_name": "骑乘后降温",
     "buff_effect_type": 8,
     "params": [
-      -80
+      -25
     ]
   },
   {
     "id": 50003,
-    "buff_name": "恶魔狼首领战-精灵障壁1",
-    "editor_name": "恶魔狼首领战-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       800,
@@ -486,8 +428,6 @@
   },
   {
     "id": 50004,
-    "buff_name": "恶魔狼首领战-精灵障壁2",
-    "editor_name": "恶魔狼首领战-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       1000,
@@ -506,8 +446,6 @@
   },
   {
     "id": 50005,
-    "buff_name": "恶魔狼首领战-精灵障壁3",
-    "editor_name": "恶魔狼首领战-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -526,8 +464,6 @@
   },
   {
     "id": 50006,
-    "buff_name": "恶魔狼首领战-精灵障壁4",
-    "editor_name": "恶魔狼首领战-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -546,8 +482,6 @@
   },
   {
     "id": 50007,
-    "buff_name": "首领战冲撞瞄准BUFF保留",
-    "editor_name": "首领战冲撞瞄准BUFF保留",
     "time_out_duration": 8000,
     "tick_duration": 5000,
     "option": [
@@ -566,8 +500,6 @@
   },
   {
     "id": 50008,
-    "buff_name": "首领战千棘盔毒球短无敌",
-    "editor_name": "首领战千棘盔毒球短无敌",
     "time_out_duration": 3000,
     "buff_effect_type": 4,
     "is_die_delete": true,
@@ -581,8 +513,6 @@
   },
   {
     "id": 50009,
-    "buff_name": "测试数据-buff刷新模式-刷新",
-    "editor_name": "测试数据-buff刷新模式-刷新",
     "time_out_duration": 50000,
     "option": [
       {
@@ -600,8 +530,6 @@
   },
   {
     "id": 50010,
-    "buff_name": "测试数据-buff刷新模式-无效",
-    "editor_name": "测试数据-buff刷新模式-无效",
     "time_out_duration": 50000,
     "buff_add_mode": 1,
     "option": [
@@ -620,8 +548,6 @@
   },
   {
     "id": 50011,
-    "buff_name": "测试数据-buff跳转-正常结束",
-    "editor_name": "测试数据-buff跳转-正常结束",
     "time_out_duration": 50000,
     "option": [
       {
@@ -644,8 +570,6 @@
   },
   {
     "id": 50012,
-    "buff_name": "测试数据-buff跳转-异常结束",
-    "editor_name": "测试数据-buff跳转-异常结束",
     "time_out_duration": 50000,
     "option": [
       {
@@ -669,8 +593,6 @@
   },
   {
     "id": 50013,
-    "buff_name": "测试数据-buff跳转-触发",
-    "editor_name": "测试数据-buff跳转-触发",
     "time_out_duration": 50000,
     "option": [
       {
@@ -695,8 +617,6 @@
   },
   {
     "id": 50014,
-    "buff_name": "测试数据-buff互斥组-组1",
-    "editor_name": "测试数据-buff互斥组-组1",
     "time_out_duration": 50000,
     "option": [
       {
@@ -716,8 +636,6 @@
   },
   {
     "id": 50015,
-    "buff_name": "测试数据-buff互斥组-组1",
-    "editor_name": "测试数据-buff互斥组-组1",
     "time_out_duration": 50000,
     "option": [
       {
@@ -737,8 +655,6 @@
   },
   {
     "id": 50016,
-    "buff_name": "测试数据-buff互斥组-组1",
-    "editor_name": "测试数据-buff互斥组-组1",
     "time_out_duration": 50000,
     "option": [
       {
@@ -758,8 +674,6 @@
   },
   {
     "id": 50017,
-    "buff_name": "测试数据-buff互斥组-组1",
-    "editor_name": "测试数据-buff互斥组-组1",
     "time_out_duration": 50000,
     "option": [
       {
@@ -779,8 +693,6 @@
   },
   {
     "id": 50018,
-    "buff_name": "测试数据-buff互斥组-组1+2",
-    "editor_name": "测试数据-buff互斥组-组1+2",
     "time_out_duration": 50000,
     "option": [
       {
@@ -800,8 +712,6 @@
   },
   {
     "id": 50019,
-    "buff_name": "测试数据-buff互斥组-组1+2",
-    "editor_name": "测试数据-buff互斥组-组1+2",
     "time_out_duration": 50000,
     "option": [
       {
@@ -821,8 +731,6 @@
   },
   {
     "id": 50020,
-    "buff_name": "测试数据-buff互斥组-组1+2",
-    "editor_name": "测试数据-buff互斥组-组1+2",
     "time_out_duration": 50000,
     "option": [
       {
@@ -842,8 +750,6 @@
   },
   {
     "id": 50021,
-    "buff_name": "测试数据-buff互斥组-组1+2",
-    "editor_name": "测试数据-buff互斥组-组1+2",
     "time_out_duration": 50000,
     "option": [
       {
@@ -863,8 +769,6 @@
   },
   {
     "id": 50022,
-    "buff_name": "首领战-玩家精灵阻挡技能眩晕",
-    "editor_name": "首领战-玩家精灵阻挡技能眩晕",
     "time_out_duration": 5000,
     "buff_effect_type": 6,
     "params": [
@@ -880,8 +784,6 @@
   },
   {
     "id": 50023,
-    "buff_name": "测试数据-移速增加",
-    "editor_name": "测试数据-移速增加",
     "time_out_duration": 50000,
     "buff_effect_type": 9,
     "params": [
@@ -890,8 +792,6 @@
   },
   {
     "id": 50024,
-    "buff_name": "测试数据-移速降低",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 50000,
     "buff_effect_type": 9,
     "params": [
@@ -900,8 +800,6 @@
   },
   {
     "id": 50025,
-    "buff_name": "激光-连线特效",
-    "editor_name": "激光-连线特效",
     "time_out_duration": 50000,
     "buff_effect_type": 10,
     "params": [
@@ -923,8 +821,6 @@
   },
   {
     "id": 50026,
-    "buff_name": "移速降低50-4s",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 4000,
     "buff_effect_type": 9,
     "params": [
@@ -947,8 +843,6 @@
   },
   {
     "id": 50027,
-    "buff_name": "激光-连线特效-魔眷鸟专用",
-    "editor_name": "激光-连线特效-魔眷鸟专用",
     "time_out_duration": 50000,
     "buff_effect_type": 10,
     "params": [
@@ -970,8 +864,6 @@
   },
   {
     "id": 50028,
-    "buff_name": "激光-连线特效-蹦蹦花专用",
-    "editor_name": "激光-连线特效-蹦蹦花专用",
     "time_out_duration": 50000,
     "buff_effect_type": 10,
     "params": [
@@ -993,8 +885,6 @@
   },
   {
     "id": 50029,
-    "buff_name": "魔力猫首领化护盾-精灵障壁1",
-    "editor_name": "魔力猫首领化护盾-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1013,8 +903,6 @@
   },
   {
     "id": 50030,
-    "buff_name": "魔力猫首领化护盾-精灵障壁2",
-    "editor_name": "魔力猫首领化护盾-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1033,8 +921,6 @@
   },
   {
     "id": 50031,
-    "buff_name": "魔力猫首领化护盾-精灵障壁3",
-    "editor_name": "魔力猫首领化护盾-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1053,8 +939,6 @@
   },
   {
     "id": 50032,
-    "buff_name": "魔力猫首领化护盾-精灵障壁4",
-    "editor_name": "魔力猫首领化护盾-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1073,8 +957,6 @@
   },
   {
     "id": 50033,
-    "buff_name": "首领2.0测试障壁",
-    "editor_name": "魔力猫首领化护盾-精灵障壁",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1093,8 +975,6 @@
   },
   {
     "id": 50034,
-    "buff_name": "移速降低50-1.5s",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 1500,
     "buff_effect_type": 9,
     "params": [
@@ -1106,8 +986,6 @@
   },
   {
     "id": 50035,
-    "buff_name": "移速增加25-10s",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 10000,
     "buff_effect_type": 9,
     "params": [
@@ -1117,8 +995,6 @@
   },
   {
     "id": 50036,
-    "buff_name": "移速增加50-5s",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 5000,
     "buff_effect_type": 9,
     "params": [
@@ -1128,8 +1004,6 @@
   },
   {
     "id": 50037,
-    "buff_name": "回复500护盾",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 5000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1140,8 +1014,6 @@
   },
   {
     "id": 50038,
-    "buff_name": "蹦蹦花缓慢回复",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 10000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1152,8 +1024,6 @@
   },
   {
     "id": 50039,
-    "buff_name": "气球猫对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "tick_duration": 1000,
     "buff_effect_type": 12,
@@ -1164,8 +1034,6 @@
   },
   {
     "id": 50040,
-    "buff_name": "激光-连线特效-圣剑X专用",
-    "editor_name": "激光-连线特效-圣剑X专用",
     "time_out_duration": 50000,
     "buff_effect_type": 10,
     "params": [
@@ -1187,8 +1055,6 @@
   },
   {
     "id": 50041,
-    "buff_name": "移速降低30%，5s",
-    "editor_name": "雪影娃娃移速降低debuff",
     "time_out_duration": 5000,
     "buff_effect_type": 9,
     "params": [
@@ -1211,8 +1077,6 @@
   },
   {
     "id": 50042,
-    "buff_name": "移速降低80%，3s",
-    "editor_name": "雪影娃娃冰冻debuff",
     "time_out_duration": 3000,
     "buff_effect_type": 9,
     "params": [
@@ -1235,8 +1099,6 @@
   },
   {
     "id": 50043,
-    "buff_name": "噩梦较缓慢回复",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 10000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1247,8 +1109,6 @@
   },
   {
     "id": 50044,
-    "buff_name": "弱化护盾-精灵障壁1",
-    "editor_name": "通用护盾-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1267,8 +1127,6 @@
   },
   {
     "id": 50045,
-    "buff_name": "弱化护盾-精灵障壁2",
-    "editor_name": "通用护盾-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1287,8 +1145,6 @@
   },
   {
     "id": 50046,
-    "buff_name": "弱化护盾-精灵障壁3",
-    "editor_name": "通用护盾-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1307,8 +1163,6 @@
   },
   {
     "id": 50047,
-    "buff_name": "弱化护盾-精灵障壁4",
-    "editor_name": "通用护盾-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1327,8 +1181,6 @@
   },
   {
     "id": 50048,
-    "buff_name": "强化护盾-精灵障壁1",
-    "editor_name": "通用护盾-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       1600,
@@ -1347,8 +1199,6 @@
   },
   {
     "id": 50049,
-    "buff_name": "强化护盾-精灵障壁2",
-    "editor_name": "通用护盾-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       1600,
@@ -1367,8 +1217,6 @@
   },
   {
     "id": 50050,
-    "buff_name": "强化护盾-精灵障壁3",
-    "editor_name": "通用护盾-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       1600,
@@ -1387,8 +1235,6 @@
   },
   {
     "id": 50051,
-    "buff_name": "强化护盾-精灵障壁4",
-    "editor_name": "通用护盾-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       1600,
@@ -1407,8 +1253,6 @@
   },
   {
     "id": 50052,
-    "buff_name": "王者护盾-精灵障壁1",
-    "editor_name": "通用护盾-精灵障壁1",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1427,8 +1271,6 @@
   },
   {
     "id": 50053,
-    "buff_name": "王者护盾-精灵障壁2",
-    "editor_name": "通用护盾-精灵障壁2",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1447,8 +1289,6 @@
   },
   {
     "id": 50054,
-    "buff_name": "王者护盾-精灵障壁3",
-    "editor_name": "通用护盾-精灵障壁3",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1467,8 +1307,6 @@
   },
   {
     "id": 50055,
-    "buff_name": "王者护盾-精灵障壁4",
-    "editor_name": "通用护盾-精灵障壁4",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1487,8 +1325,6 @@
   },
   {
     "id": 50056,
-    "buff_name": "移速降低25-3s",
-    "editor_name": "测试数据-移速降低",
     "time_out_duration": 3000,
     "buff_effect_type": 9,
     "params": [
@@ -1511,8 +1347,6 @@
   },
   {
     "id": 50057,
-    "buff_name": "护盾1档",
-    "editor_name": "首领战护盾-1500",
     "buff_effect_type": 5,
     "params": [
       1500,
@@ -1531,8 +1365,6 @@
   },
   {
     "id": 50058,
-    "buff_name": "护盾2档",
-    "editor_name": "首领战护盾-1800",
     "buff_effect_type": 5,
     "params": [
       1800,
@@ -1551,8 +1383,6 @@
   },
   {
     "id": 50059,
-    "buff_name": "护盾3档",
-    "editor_name": "首领战护盾-2000",
     "buff_effect_type": 5,
     "params": [
       2000,
@@ -1571,8 +1401,6 @@
   },
   {
     "id": 50060,
-    "buff_name": "护盾4档",
-    "editor_name": "首领战护盾-2300",
     "buff_effect_type": 5,
     "params": [
       2300,
@@ -1591,8 +1419,6 @@
   },
   {
     "id": 50061,
-    "buff_name": "护盾5档",
-    "editor_name": "首领战护盾-2600",
     "buff_effect_type": 5,
     "params": [
       2600,
@@ -1611,8 +1437,6 @@
   },
   {
     "id": 50062,
-    "buff_name": "护盾6档",
-    "editor_name": "首领战护盾-3000",
     "buff_effect_type": 5,
     "params": [
       3000,
@@ -1631,8 +1455,6 @@
   },
   {
     "id": 50063,
-    "buff_name": "移速降低50%，2s",
-    "editor_name": "雪影娃娃移速降低debuff",
     "time_out_duration": 2000,
     "buff_effect_type": 9,
     "params": [
@@ -1655,8 +1477,6 @@
   },
   {
     "id": 50064,
-    "buff_name": "护盾-音速犬档",
-    "editor_name": "首领战护盾-900",
     "buff_effect_type": 5,
     "params": [
       1200,
@@ -1675,8 +1495,6 @@
   },
   {
     "id": 50065,
-    "buff_name": "奇丽花分段回复",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 3000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1687,8 +1505,6 @@
   },
   {
     "id": 50066,
-    "buff_name": "墨染屏幕特效",
-    "editor_name": "黑猫巫师墨染debuff",
     "time_out_duration": 3500,
     "buff_effect_type": 13,
     "is_die_delete": true,
@@ -1703,8 +1519,6 @@
   },
   {
     "id": 50067,
-    "buff_name": "噩梦圣剑X分段回复",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 3000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1715,8 +1529,6 @@
   },
   {
     "id": 50068,
-    "buff_name": "三测通用中毒减速",
-    "editor_name": "中毒减速debuff",
     "time_out_duration": 2000,
     "buff_effect_type": 9,
     "params": [
@@ -1736,8 +1548,6 @@
   },
   {
     "id": 50069,
-    "buff_name": "三测通用贴贴回能",
-    "editor_name": "贴贴回体力buff",
     "buff_add_mode": 1,
     "buff_effect_type": 14,
     "params": [
@@ -1746,8 +1556,6 @@
   },
   {
     "id": 50070,
-    "buff_name": "追击蜂对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1759,8 +1567,6 @@
   },
   {
     "id": 50071,
-    "buff_name": "恶魔狼对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1772,8 +1578,6 @@
   },
   {
     "id": 50072,
-    "buff_name": "小棋子对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1785,8 +1589,6 @@
   },
   {
     "id": 50073,
-    "buff_name": "大棋子对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1798,8 +1600,6 @@
   },
   {
     "id": 50074,
-    "buff_name": "圣剑侍从对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1811,8 +1611,6 @@
   },
   {
     "id": 50075,
-    "buff_name": "噩梦较快速回复",
-    "editor_name": "测试数据-回复护盾",
     "time_out_duration": 5000,
     "tick_duration": 100,
     "buff_effect_type": 12,
@@ -1823,8 +1621,6 @@
   },
   {
     "id": 50076,
-    "buff_name": "小蜜蜂对BOSS一次性伤害",
-    "editor_name": "测试数据-伤害护盾",
     "time_out_duration": 500,
     "buff_add_mode": 2,
     "tick_duration": 1000,
@@ -1836,8 +1632,6 @@
   },
   {
     "id": 50077,
-    "buff_name": "除骑乘特定petbase外直接死亡",
-    "editor_name": "除骑乘特定petbase外直接死亡",
     "tick_duration": 300,
     "buff_effect_type": 15,
     "params": [
@@ -1850,6 +1644,59 @@
           0
         ]
       }
+    ]
+  },
+  {
+    "id": 50078,
+    "time_out_duration": 30000,
+    "buff_effect_type": 16,
+    "is_die_delete": true
+  },
+  {
+    "id": 60001,
+    "tick_duration": 10000,
+    "buff_effect_type": 18,
+    "params": [
+      6,
+      5,
+      5
+    ],
+    "is_die_delete": true
+  },
+  {
+    "id": 60002,
+    "tick_duration": 2000,
+    "buff_effect_type": 19,
+    "params": [
+      10
+    ],
+    "is_die_delete": true
+  },
+  {
+    "id": 60003,
+    "tick_duration": 2000,
+    "buff_effect_type": 19,
+    "params": [
+      20
+    ],
+    "is_die_delete": true
+  },
+  {
+    "id": 60004,
+    "tick_duration": 1000,
+    "buff_effect_type": 19,
+    "params": [
+      99
+    ],
+    "is_die_delete": true
+  },
+  {
+    "id": 60005,
+    "time_out_duration": 3600000,
+    "tick_duration": 1000,
+    "buff_effect_type": 17,
+    "params": [
+      99
     ]
   }
 ]

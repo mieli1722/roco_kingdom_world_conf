@@ -1102,7 +1102,11 @@
     ],
     "unlock_conditions": [
       {
-        "unlock_condition": 12,
+        "unlock_condition": 15,
+        "unlock_condition_parameter": [
+          70111016,
+          1
+        ],
         "unlock_group": 1,
         "priority": 1
       }
@@ -1812,6 +1816,121 @@
     ],
     "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon1_png.img_icon1_png'",
     "unlock_text_main": "星光对决规则二",
+    "unlock_text_sub": "关于精灵",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 230,
+    "list_type": 6,
+    "list_des": "迪莫首领进化教学·一",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_dimo1_1.img_TeachingBg_dimo1_1",
+        "title": "圣光迪莫？！",
+        "text": "迪莫现在可以在战斗中进化为「圣光迪莫」了！",
+        "bg_PC": "img_TeachingBg_dimo1_1.img_TeachingBg_dimo1_1",
+        "title_PC": "圣光迪莫？！",
+        "text_PC": "迪莫现在可以在战斗中进化为「圣光迪莫」了！"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "list_type": 6,
+    "list_des": "迪莫首领进化教学·二",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_dimo2_1.img_TeachingBg_dimo2_1",
+        "title": "首领血脉秘药",
+        "text": "使用「首领血脉秘药」可使迪莫获得首领血脉。",
+        "bg_PC": "img_TeachingBg_dimo2_1.img_TeachingBg_dimo2_1",
+        "title_PC": "首领血脉秘药",
+        "text_PC": "使用「首领血脉秘药」可使迪莫获得首领血脉。"
+      },
+      {
+        "bg": "img_TeachingBg_dimo2_2.img_TeachingBg_dimo2_2",
+        "title": "更强大的迪莫",
+        "text": "拥有了「首领血脉」的迪莫，拥有了一些特殊的能力，等待战斗中被激发。",
+        "bg_PC": "img_TeachingBg_dimo2_2.img_TeachingBg_dimo2_2",
+        "title_PC": "更强大的迪莫",
+        "text_PC": "拥有了「首领血脉」的迪莫，拥有了一些特殊的能力，等待战斗中被激发。"
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "list_type": 6,
+    "list_des": "迪莫首领进化教学·三",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_dimo3_1.img_TeachingBg_dimo3_1",
+        "title": "装备「进化之力」",
+        "text": "将精灵编队携带的共鸣魔法切换成「进化之力」。",
+        "bg_PC": "img_TeachingBg_dimo3_1.img_TeachingBg_dimo3_1",
+        "title_PC": "装备「进化之力」",
+        "text_PC": "将精灵编队携带的共鸣魔法切换成「进化之力」。"
+      },
+      {
+        "bg": "img_TeachingBg_dimo3_2.img_TeachingBg_dimo3_2",
+        "title": "使用「进化之力」",
+        "text": "在战斗中选择「背包」，对迪莫使用「进化之力」。",
+        "bg_PC": "img_TeachingBg_dimo3_2.img_TeachingBg_dimo3_2",
+        "title_PC": "使用「进化之力」",
+        "text_PC": "在战斗中选择「背包」，对迪莫使用「进化之力」。"
+      },
+      {
+        "bg": "img_TeachingBg_dimo3_3.img_TeachingBg_dimo3_3",
+        "title": "迪莫进化！",
+        "text": "利用「进化之力」，使迪莫变成更强大的「圣光迪莫」吧！",
+        "bg_PC": "img_TeachingBg_dimo3_3.img_TeachingBg_dimo3_3",
+        "title_PC": "迪莫进化！",
+        "text_PC": "利用「进化之力」，使迪莫变成更强大的「圣光迪莫」吧！"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "list_type": 2,
+    "list_des": "大世界首领进化",
+    "guide_struct": [
+      {
+        "bg": "img_233_1.img_233_1",
+        "title": "大世界首领进化！",
+        "text": "许多精灵精灵进化至最终形态后，若其本身拥有首领血脉，且小洛克持有对应的首领进化信物，即可以激活精灵的远古血脉。在精灵界面上点击对应按钮，让精灵进化到首领形态吧！",
+        "bg_PC": "img_233_1.img_233_1",
+        "title_PC": "大世界首领进化！",
+        "text_PC": "许多精灵精灵进化至最终形态后，若其本身拥有首领血脉，且小洛克持有对应的首领进化信物，即可以激活精灵的远古血脉。在精灵界面上点击对应按钮，让精灵进化到首领形态吧！"
+      },
+      {
+        "bg": "img_233_2.img_233_2",
+        "title": "切换与解除首领形态",
+        "text": "在进化成首领形态后，再次点击按钮可以切换或者解除首领形态。",
+        "bg_PC": "img_233_2.img_233_2",
+        "title_PC": "切换与解除首领形态",
+        "text_PC": "在进化成首领形态后，再次点击按钮可以切换或者解除首领形态。"
+      },
+      {
+        "bg": "img_233_3.img_233_3",
+        "title": "一些限制",
+        "text": "虽然精灵可以维持首领形态直接参与大世界的战斗中，但由于进化之力魔法的强大之处，还是存在着一些使用限制。\n\n主要限制为：\n1.若出战编队存在首领形态精灵，则在大世界的战斗中将无法使用携带的魔法。\n2.同一时间仅能让一只精灵维持首领形态。下一只精灵进行大世界首领化后，上一只首领形态精灵就会解除首领形态。\n3.闪耀大赛、星光对决等注重养成平衡的玩法，编队时将采用精灵首领进化前的数据，以避免影响战斗内的战术安排。\n4.首领形态精灵无法放置在家园内，放置在家园内的精灵也无法首领进化。\n5.首领形态精灵无法修改血脉。需要解除首领形态后才能修改血脉。",
+        "bg_PC": "img_233_3.img_233_3",
+        "title_PC": "一些限制",
+        "text_PC": "虽然精灵可以维持首领形态直接参与大世界的战斗中，但由于进化之力魔法的强大之处，还是存在着一些使用限制。\n\n主要限制为：\n1.若出战编队存在首领形态精灵，则在大世界的战斗中将无法使用携带的魔法。\n2.同一时间仅能让一只精灵维持首领形态。下一只精灵进行大世界首领化后，上一只首领形态精灵就会解除首领形态。\n3.闪耀大赛、星光对决等注重养成平衡的玩法，编队时将采用精灵首领进化前的数据，以避免影响战斗内的战术安排。\n4.首领形态精灵无法放置在家园内，放置在家园内的精灵也无法首领进化。\n5.首领形态精灵无法修改血脉。需要解除首领形态后才能修改血脉。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 24,
+        "unlock_condition_parameter": [
+          22,
+          1
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon1_png.img_icon1_png'",
+    "unlock_text_main": "首领进化？！",
     "unlock_text_sub": "关于精灵",
     "unlock_remind": true,
     "unlock_remind_priority": 1
@@ -2993,6 +3112,16 @@
         "unlock_condition_parameter": [
           7040
         ],
+        "unlock_group": 1,
+        "priority": 1
+      },
+      {
+        "unlock_condition": 15,
+        "unlock_condition_parameter": [
+          52010103,
+          0
+        ],
+        "unlock_group": 2,
         "priority": 1
       }
     ],
@@ -3538,6 +3667,595 @@
     ],
     "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
     "unlock_text_main": "守护地机关",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 430,
+    "list_type": 4,
+    "list_des": "严寒状态",
+    "guide_struct": [
+      {
+        "bg": "img_430_1.img_430_1",
+        "title": "这里冷得刺骨!",
+        "text": "这里雪山地区，气温远比一般的低温环境严苛得多，仅仅停留片刻，寒冷状态便会迅速累积。当严寒环境下的寒冷状态累积到一定程度后，扣除生命值的速度也会大幅加快。请务必小心，不要轻视这片土地的严寒。",
+        "bg_PC": "img_430_1.img_430_1",
+        "title_PC": "这里冷得刺骨!",
+        "text_PC": "这里的雪山地区，气温远比一般的低温环境严苛得多，仅仅停留片刻，寒冷状态便会迅速累积。当严寒环境下的寒冷状态累积到一定程度后，扣除生命值的速度也会大幅加快。请务必小心，不要轻视这片土地的严寒。"
+      },
+      {
+        "bg": "img_430_2.img_430_2",
+        "title": "赶快暖和起来!",
+        "text": "雪山地区四处散布着「星火灯」，赶快寻找它们附近的温暖区域躲一躲吧。星火灯的火光，是抵御严寒的最可靠的依仗。",
+        "bg_PC": "img_430_2.img_430_2",
+        "title_PC": "赶快暖和起来!",
+        "text_PC": "雪山地区四处散布着「星火灯」，赶快寻找它们附近的温暖区域躲一躲吧。星火灯的火光，是抵御严寒的最可靠的依仗。"
+      },
+      {
+        "bg": "img_430_3.img_430_3",
+        "title": "小心暴风雪!",
+        "text": "留意天气的变化——一旦遭遇暴风雪，周围的气温还会进一步骤降，寒冷状态的累积速度也会随之加快。在风雪中切勿逞强赶路，否则可能会把自己的小命交给风雪。",
+        "bg_PC": "img_430_3.img_430_3",
+        "title_PC": "小心暴风雪!",
+        "text_PC": "留意天气的变化——一旦遭遇暴风雪，周围的气温还会进一步骤降，寒冷状态的累积速度也会随之加快。在风雪中切勿逞强赶路，否则可能会把自己的小命交给风雪。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 15,
+        "unlock_condition_parameter": [
+          67000002,
+          0
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png",
+    "unlock_text_main": "严寒状态",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 431,
+    "list_type": 4,
+    "list_des": "酷热状态",
+    "guide_struct": [
+      {
+        "bg": "img_431_1.img_431_1",
+        "title": "这里好烫!",
+        "text": "在这片被岩浆炙烤的火山地带中，炎热状态的累积速度会比平时更快。一旦累积到一定程度，便会不断扣除你的生命值，扣血的速度也会比一般的炎热环境快上不少。请务必小心，不要小看这片火山的高温。",
+        "bg_PC": "img_431_1.img_431_1",
+        "title_PC": "这里好烫!",
+        "text_PC": "在这片被岩浆炙烤的火山地带中，炎热状态的累积速度会比平时更快。一旦累积到一定程度，便会不断扣除你的生命值，扣血的速度也会比一般的炎热环境快上不少。请务必小心，不要小看这片火山的高温。"
+      },
+      {
+        "bg": "img_431_2.img_431_2",
+        "title": "赶快降降温!",
+        "text": "想要在酷热中喘口气，请尽快前往周围的「星霜灯」附近——它散发出的寒意，足以抵御这令人窒息的高温，帮你从炎热状态中恢复过来。",
+        "bg_PC": "img_431_2.img_431_2",
+        "title_PC": "赶快降降温!",
+        "text_PC": "想要在酷热中喘口气，请尽快前往周围的「星霜灯」附近——它散发出的寒意，足以抵御这令人窒息的高温，帮你从炎热状态中恢复过来。"
+      },
+      {
+        "bg": "img_431_3.img_431_3",
+        "title": "小心岩浆",
+        "text": "岩浆烫得要命，极高的温度会极快速地灼烧你的生命值。在这片地带行走时，请尽量离岩浆远一点。",
+        "bg_PC": "img_431_3.img_431_3",
+        "title_PC": "小心岩浆",
+        "text_PC": "岩浆烫得要命，极高的温度会极快速地灼烧你的生命值。在这片地带行走时，请尽量离岩浆远一点。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 15,
+        "unlock_condition_parameter": [
+          67000003,
+          0
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png",
+    "unlock_text_main": "酷热状态",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 432,
+    "list_type": 4,
+    "list_des": "弹射蘑菇",
+    "guide_struct": [
+      {
+        "bg": "img_432_1.img_432_1",
+        "title": "跳得更高！",
+        "text": "在浮空群岛中四处蛰伏的巨大蘑菇，可以站到上面像蹦床一样跳得更高。",
+        "bg_PC": "img_432_1.img_432_1",
+        "title_PC": "跳得更高！",
+        "text_PC": "在浮空群岛中四处蛰伏的巨大蘑菇，可以站到上面像蹦床一样跳得更高。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          550000264
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "弹射蘑菇",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 433,
+    "list_type": 4,
+    "list_des": "巨人之道一",
+    "guide_struct": [
+      {
+        "bg": "img_433_1.img_433_1",
+        "title": "用蛮力打开宝箱！",
+        "text": "巨人就要用巨人的方式打开宝箱！使用精灵技能，用力打开宝箱。",
+        "bg_PC": "img_433_1.img_433_1",
+        "title_PC": "用蛮力打开宝箱！",
+        "text_PC": "巨人就要用巨人的方式打开宝箱！使用精灵技能，用力打开宝箱。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          550000265
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "巨人之道一",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 434,
+    "list_type": 4,
+    "list_des": "巨人之道二",
+    "guide_struct": [
+      {
+        "bg": "img_434_1.img_434_1",
+        "title": "扫平一切障碍！",
+        "text": "坚硬的结晶也抵挡不了巨人的力量！使用精灵技能，破坏结晶吧。说不还会冒出什么好东西？",
+        "bg_PC": "img_434_1.img_434_1",
+        "title_PC": "扫平一切障碍！",
+        "text_PC": "坚硬的结晶也抵挡不了巨人的力量！使用精灵技能，破坏结晶吧。说不还会冒出什么好东西？"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          550000266
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "巨人之道二",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 435,
+    "list_type": 4,
+    "list_des": "庇护所招待",
+    "guide_struct": [
+      {
+        "bg": "img_435_1.img_435_1",
+        "title": "眠枭庇护所！升级！",
+        "text": "这里的眠枭庇护所好像不太一样！当眠枭庇护所被激活之后，可以给眠枭庇护所提供材料从而提高庇护所的等级。\n让眠枭庇护所升级，然后看看它们有什么新的能力吧~",
+        "bg_PC": "img_435_1.img_435_1",
+        "title_PC": "眠枭庇护所！升级！",
+        "text_PC": "这里的眠枭庇护所好像不太一样！当眠枭庇护所被激活之后，可以给眠枭庇护所提供材料从而提高庇护所的等级。\n让眠枭庇护所升级，然后看看它们有什么新的能力吧~"
+      },
+      {
+        "bg": "img_435_2.img_435_2",
+        "title": "好好招待大家~",
+        "text": "在提高眠枭庇护所等级后，眠枭庇护所旁边不仅会多出一个小小的眠枭，还会解锁庇护所招待功能。\n点击小小眠枭，然后放入招待的道具吧！被放入的道具会依次一个一个的被慢慢消耗，并同时提供特殊的效果~",
+        "bg_PC": "img_435_2.img_435_2",
+        "title_PC": "好好招待大家~",
+        "text_PC": "在提高眠枭庇护所等级后，眠枭庇护所旁边不仅会多出一个小小的眠枭，还会解锁庇护所招待功能。\n点击小小眠枭，然后放入招待的道具吧！被放入的道具会依次一个一个的被慢慢消耗，并同时提供特殊的效果~"
+      },
+      {
+        "bg": "img_435_3.img_435_3",
+        "title": "试试放这个会怎么样？",
+        "text": "不同的道具会带来不同的效果，快来多多尝试吧！\n另外，有细心的小洛克发现，如果眠枭庇护所自身，或被吸引而来的精灵特别喜欢某个道具，这个道具似乎能发挥出更强的效果哦。",
+        "bg_PC": "img_435_3.img_435_3",
+        "title_PC": "试试放这个会怎么样？",
+        "text_PC": "不同的道具会带来不同的效果，快来多多尝试吧！\n另外，有细心的小洛克发现，如果眠枭庇护所自身，或被吸引而来的精灵特别喜欢某个道具，这个道具似乎能发挥出更强的效果哦。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 3,
+        "unlock_condition_parameter": [
+          60280073
+        ],
+        "unlock_group": 1,
+        "priority": 1
+      },
+      {
+        "unlock_condition": 3,
+        "unlock_condition_parameter": [
+          60280074
+        ],
+        "unlock_group": 2,
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "庇护所招待",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 439,
+    "list_type": 4,
+    "list_des": "创造“造物”",
+    "guide_struct": [
+      {
+        "bg": "img_439_1.img_439_1",
+        "title": "新的创造魔法！",
+        "text": "当你学会星霜灯、星火灯、南瓜灯的造物魔法后，就能随时随地在洛克里安北部区域创建“造物”了！当然，每次“造物”都需要我们使用一个对应的“小小星霜灯”、“小小星火灯”或“小小南瓜灯”",
+        "bg_PC": "img_439_1.img_439_1",
+        "title_PC": "新的创造魔法！",
+        "text_PC": "当你学会星霜灯、星火灯、南瓜灯的造物魔法后，就能随时随地在洛克里安北部区域创造“造物”了！当然，每次“造物”都需要我们使用一个对应的“小小星霜灯”、“小小星火灯”或“小小南瓜灯”"
+      },
+      {
+        "bg": "img_439_2.img_439_2",
+        "title": "放置造物",
+        "text": "选中我们想要创造的“造物”后，长按施法按钮，然后选择一个心仪的地点，松开按钮，这样“造物”就放置成功了！\n当然，一些太陡峭或狭窄的地方会导致不能放置哦，尽量选平整一些的地方放置“造物”吧！",
+        "bg_PC": "img_439_2.img_439_2",
+        "title_PC": "放置造物",
+        "text_PC": "选中我们想要创造的“造物”后，长按施法按钮，然后选择一个心仪的地点，松开按钮，这样“造物”就放置成功了！\n当然，一些太陡峭或狭窄的地方会导致不能放置哦，尽量选平整一些的地方放置“造物”吧！"
+      },
+      {
+        "bg": "img_439_3.img_439_3",
+        "title": "升级造物",
+        "text": "就跟我们在探索中发现的那些不知是谁布置的造物一样，小洛克自己创建的“造物”也可以使用材料进行升级。升级后的“造物”将获得更强力的效果\n赶快为自己的“造物”升级，为自己的冒险提供更多的便利吧！",
+        "bg_PC": "img_439_3.img_439_3",
+        "title_PC": "升级造物",
+        "text_PC": "就跟我们在探索中发现的那些不知是谁布置的造物一样，小洛克自己创建的“造物”也可以使用材料进行升级。升级后的“造物”将获得更强力的效果\n赶快为自己的“造物”升级，为自己的冒险提供更多的便利吧！"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 4,
+        "unlock_condition_parameter": [
+          100743,
+          1
+        ],
+        "unlock_group": 1,
+        "priority": 1
+      },
+      {
+        "unlock_condition": 4,
+        "unlock_condition_parameter": [
+          100744,
+          1
+        ],
+        "unlock_group": 2,
+        "priority": 1
+      },
+      {
+        "unlock_condition": 4,
+        "unlock_condition_parameter": [
+          100745,
+          1
+        ],
+        "unlock_group": 3,
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "创造”造物“",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 440,
+    "list_type": 4,
+    "list_des": "造物升级",
+    "guide_struct": [
+      {
+        "bg": "img_440_1.img_440_1",
+        "title": "发现造物！",
+        "text": "在威廉古堡及其周边区域，会发现某些具备神奇效果的“灯”，我们称为“造物”",
+        "bg_PC": "img_440_1.img_440_1",
+        "title_PC": "发现造物！",
+        "text_PC": "在威廉古堡及其周边区域，会发现某些具备神奇效果的“灯”，我们称为“造物”"
+      },
+      {
+        "bg": "img_440_2.img_440_2",
+        "title": "造物升级",
+        "text": "这些“造物”最神奇的地方在于：我们可以使用一些特殊的材料来升级它们！升级后这些造物将拥有更强力的效果",
+        "bg_PC": "img_440_2.img_440_2",
+        "title_PC": "造物升级",
+        "text_PC": "这些“造物”最神奇的地方在于：我们可以使用一些特殊的材料来升级它们！升级后这些造物将拥有更强力的效果"
+      },
+      {
+        "bg": "img_440_3.img_440_3",
+        "title": "来升满级吧！",
+        "text": "目前发现的这些“造物”，最多都可以升到3级。升到3级时，它们都将拥有非常强力的效果，一定能够让我们的探索更加轻松！",
+        "bg_PC": "img_440_3.img_440_3",
+        "title_PC": "来升满级吧！",
+        "text_PC": "目前发现的这些“造物”，最多都可以升到3级。升到3级时，它们都将拥有非常强力的效果，一定能够让我们的探索更加轻松！"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          5560605
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "造物升级",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 441,
+    "list_type": 4,
+    "list_des": "美愿树的萌芽",
+    "guide_struct": [
+      {
+        "bg": "img_441_1.img_441_1",
+        "title": "美愿树的萌芽",
+        "text": "在结晶森林中央，有一株神奇的小树苗，被称为“美愿树的萌芽”。她的周围每天都会凝结出神奇的“美愿结晶”，而这些结晶正是升级各种“造物”的关键材料",
+        "bg_PC": "img_441_1.img_441_1",
+        "title_PC": "美愿树的萌芽",
+        "text_PC": "在结晶森林中央，有一株神奇的小树苗，被称为“美愿树的萌芽”。她的周围每天都会凝结出神奇的“美愿结晶”，而这些结晶正是升级各种“造物”的关键材料"
+      },
+      {
+        "bg": "img_441_2.img_441_2",
+        "title": "美愿升级",
+        "text": "我们战胜或捕获巨人裂谷地区的精灵时，能够获得一种被称为“美好祈愿”的特殊材料，可以使用这种材料使美愿树的萌芽升级。每次升级美愿树的萌芽都会回馈小洛克大量奖励！",
+        "bg_PC": "img_441_2.img_441_2",
+        "title_PC": "美愿升级",
+        "text_PC": "我们战胜或捕获巨人裂谷地区的精灵时，能够获得一种被称为“美好祈愿”的特殊材料，可以使用这种材料使美愿树的萌芽升级。每次升级美愿树的萌芽都会回馈小洛克大量奖励！"
+      },
+      {
+        "bg": "img_441_3.img_441_3",
+        "title": "美愿进阶",
+        "text": "美愿树的萌芽升到10级或20级时，可以进行“进阶”。进阶后，美愿树的萌芽将获得更加强大的效果，影响范围也将遍布整个洛克里安北部区域",
+        "bg_PC": "img_441_3.img_441_3",
+        "title_PC": "美愿进阶",
+        "text_PC": "美愿树的萌芽升到10级或20级时，可以进行“进阶”。进阶后，美愿树的萌芽将获得更加强大的效果，影响范围也将遍布整个洛克里安北部区域"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 3,
+        "unlock_condition_parameter": [
+          5450004
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "美愿树的萌芽",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 442,
+    "list_type": 4,
+    "list_des": "寄往白树的祈福",
+    "guide_struct": [
+      {
+        "bg": "img_442_1.img_442_1",
+        "title": "寄往白树的祈福",
+        "text": "在仪式镇有一座神奇的石像，人们称为“寄往白树的祈福”。正是由于她的魔力，使得小洛克们能够在这片区域，通过“创造魔法”自由地创造星霜灯等造物",
+        "bg_PC": "img_442_1.img_442_1",
+        "title_PC": "寄往白树的祈福",
+        "text_PC": "在仪式镇有一座神奇的石像，人们称为“寄往白树的祈福”。正是由于她的魔力，使得小洛克们能够在这片区域，通过“创造魔法”自由地创造星霜灯等造物"
+      },
+      {
+        "bg": "img_442_2.img_442_2",
+        "title": "贡献度",
+        "text": "当小洛克们使用各种材料升级星霜灯、星火灯、南瓜灯等造物时，“贡献度”就会自动增加",
+        "bg_PC": "img_442_2.img_442_2",
+        "title_PC": "贡献度",
+        "text_PC": "当所有的小洛克们使用各种材料升级星霜灯、星火灯、南瓜灯等造物时，“贡献度”就会自动增加"
+      },
+      {
+        "bg": "img_442_3.img_442_3",
+        "title": "升级的作用",
+        "text": "当小洛克们积极的使贡献度达到一定量，寄往白树的祈福就可以升级了！升级后，寄往白树的祈福将使得小洛克们建造造物的能力大幅提高",
+        "bg_PC": "img_442_3.img_442_3",
+        "title_PC": "升级的作用",
+        "text_PC": "当小洛克们积极的使贡献度达到一定量，寄往白树的祈福就可以升级了！升级后，寄往白树的祈福将使得小洛克们建造造物的能力大幅提高"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 3,
+        "unlock_condition_parameter": [
+          5450124
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "寄往白树的祈福",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 443,
+    "list_type": 4,
+    "list_des": "神奇的南瓜灯",
+    "guide_struct": [
+      {
+        "bg": "img_443_1.img_443_1",
+        "title": "神奇的南瓜灯",
+        "text": "在“南瓜灯”的效果范围内，精灵们能够暂时解除“永夜”的影响，恢复清晰的身影\n这样又能够直接捕捉精灵了！",
+        "bg_PC": "img_443_1.img_443_1",
+        "title_PC": "神奇的南瓜灯",
+        "text_PC": "在“南瓜灯”的效果范围内，精灵们能够暂时解除“永夜”的影响，恢复清晰的身影\n这样又能够直接捕捉精灵了！"
+      },
+      {
+        "bg": "img_443_2.img_443_2",
+        "title": "神奇的南瓜灯",
+        "text": "南瓜灯的神奇还不止于此！如果是小洛克自己进入南瓜灯效果范围内，出战精灵们的能量不仅不再受到“永夜”的影响流失，反而还会不断恢复呢！",
+        "bg_PC": "img_443_2.img_443_2",
+        "title_PC": "神奇的南瓜灯",
+        "text_PC": "南瓜灯的神奇还不止于此！如果是小洛克自己进入南瓜灯效果范围内，出战精灵们的能量不仅不再受到“永夜”的影响流失，反而还会不断恢复呢！"
+      },
+      {
+        "bg": "img_443_3.img_443_3",
+        "title": "升级南瓜灯吧！",
+        "text": "如果将南瓜灯升满3级，南瓜灯的效果还会大大加强！\n如果能够创建很多很多的南瓜灯，那么在威廉古堡的冒险一定会更加轻松吧！",
+        "bg_PC": "img_443_3.img_443_3",
+        "title_PC": "升级南瓜灯吧！",
+        "text_PC": "如果将南瓜灯升满3级，南瓜灯的效果还会大大加强！\n如果能够创建很多很多的南瓜灯，那么在威廉古堡的冒险一定会更加轻松吧！"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          5560805
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png'",
+    "unlock_text_main": "神奇的南瓜灯",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 444,
+    "list_type": 4,
+    "list_des": "永夜地区",
+    "guide_struct": [
+      {
+        "bg": "img_444_1.img_444_1",
+        "title": "这里永远是黑夜",
+        "text": "威廉古堡、迷雾森林、淘晶镇，这片土地被「永夜」笼罩，永远沉浸在漫长的黑夜里。受「永夜」的影响，远处的精灵会被夜色遮住身形，以「阴影」的样子出现——这种状态下的它们，无法被直接捕捉哦。",
+        "bg_PC": "img_444_1.img_444_1",
+        "title_PC": "这里永远是黑夜",
+        "text_PC": "威廉古堡、迷雾森林、淘晶镇，这片土地被「永夜」笼罩，永远沉浸在漫长的黑夜里。受「永夜」的影响，远处的精灵会被夜色遮住身形，以「阴影」的样子出现——这种状态下的它们，无法被直接捕捉哦。"
+      },
+      {
+        "bg": "img_444_2.img_444_2",
+        "title": "黑夜悄悄偷走能量",
+        "text": "在「永夜」之下，你出战精灵们的能量会不断流失，停留得越久，损耗就越严重。好在这里精灵的能量上限会变得更高，让伙伴们能多撑上一阵子~",
+        "bg_PC": "img_444_2.img_444_2",
+        "title_PC": "黑夜悄悄偷走能量",
+        "text_PC": "在「永夜」之下，你出战精灵们的能量会不断流失，停留得越久，损耗就越严重。好在这里精灵的能量上限会变得更高，让伙伴们能多撑上一阵子~"
+      },
+      {
+        "bg": "img_444_3.img_444_3",
+        "title": "神秘的「白月」",
+        "text": "据说，永夜地区偶尔会升起一轮巨大的圆月——「白月」。月光洒下之时，便会照亮整片大地，「永夜」的影响也会随之消散，甚至有些精灵还会在月光下发生神奇的变化……可这神秘的「白月」，究竟会在何时降临呢？",
+        "bg_PC": "img_444_3.img_444_3",
+        "title_PC": "神秘的「白月」",
+        "text_PC": "据说，永夜地区偶尔会升起一轮巨大的圆月——「白月」。月光洒下之时，便会照亮整片大地，「永夜」的影响也会随之消散，甚至有些精灵还会在月光下发生神奇的变化……可这神秘的「白月」，究竟会在何时降临呢？"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 17,
+        "unlock_condition_parameter": [
+          1033
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png",
+    "unlock_text_main": "永夜地区",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 445,
+    "list_type": 4,
+    "list_des": "能量封印的物件",
+    "guide_struct": [
+      {
+        "bg": "img_445_1.img_445_1",
+        "title": "能量封印的物件",
+        "text": "在「永夜」的影响下，这片土地上的宝箱、魔力之源、炼金釜、眠枭庇护所……都因能量的流失而渐渐暗淡，蒙上了一层能量封印。",
+        "bg_PC": "img_445_1.img_445_1",
+        "title_PC": "能量封印的物件",
+        "text_PC": "在「永夜」的影响下，这片土地上的宝箱、魔力之源、炼金釜、眠枭庇护所……都因能量的流失而渐渐暗淡，蒙上了一层能量封印。"
+      },
+      {
+        "bg": "img_445_2.img_445_2",
+        "title": "借助精灵的力量！",
+        "text": "想要解开能量封印，向它们投掷你的精灵吧！精灵会用自身的能量为其注入生机，封印随之解开。如果一只精灵的能量不够，那就让伙伴们齐心协力，一同为其注入能量吧！封印上显示的数字，便是它仍需获得的能量。",
+        "bg_PC": "img_445_2.img_445_2",
+        "title_PC": "借助精灵的力量！",
+        "text_PC": "想要解开能量封印，向它们投掷你的精灵吧！精灵会用自身的能量为其注入生机，封印随之解开。如果一只精灵的能量不够，那就让伙伴们齐心协力，一同为其注入能量吧！封印上显示的数字，便是它仍需获得的能量。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          180000
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png",
+    "unlock_text_main": "能量封印的物件",
+    "unlock_text_sub": "关于探索",
+    "unlock_remind": true,
+    "unlock_remind_priority": 1
+  },
+  {
+    "id": 446,
+    "list_type": 4,
+    "list_des": "魔力封印的物件",
+    "guide_struct": [
+      {
+        "bg": "img_446_1.img_446_1",
+        "title": "魔力封印的物件",
+        "text": "在「永夜」的影响下，有些物件被蒙上了一层魔力封印——需要小洛克为其注入魔力，才能解开它们的封印。",
+        "bg_PC": "img_446_1.img_446_1",
+        "title_PC": "魔力封印的物件",
+        "text_PC": "在「永夜」的影响下，有些物件被蒙上了一层魔力封印——需要小洛克为其注入魔力，才能解开它们的封印。"
+      }
+    ],
+    "unlock_conditions": [
+      {
+        "unlock_condition": 27,
+        "unlock_condition_parameter": [
+          180005
+        ],
+        "priority": 1
+      }
+    ],
+    "unlock_icon": "PaperSprite'/Game/NewRoco/Modules/System/TeachingManual/Raw/Frames/img_icon2_png.img_icon2_png",
+    "unlock_text_main": "魔力封印的物件",
     "unlock_text_sub": "关于探索",
     "unlock_remind": true,
     "unlock_remind_priority": 1
@@ -4216,18 +4934,18 @@
       {
         "bg": "img_TeachingBg_PetTeam.img_TeachingBg_PetTeam",
         "title": "快捷切换精灵列表",
-        "text": "选择投掷精灵时，按住投掷按钮不放，滑动手指即可切换精灵列表，快速锁定出场精灵！",
+        "text": "按住投掷按钮时，可以通过手指滑动切换队伍，再选中新队伍的精灵，就能轻松切换精灵队伍，快速锁定出场精灵！",
         "bg_PC": "img_TeachingBg_PetTeam.img_TeachingBg_PetTeam",
         "title_PC": "快捷切换精灵列表",
-        "text_PC": "选择投掷精灵时，按住投掷按钮，再滑动滚轮，就能轻松切换精灵列表，快速锁定出场精灵！"
+        "text_PC": "按住投掷按钮时，可以通过滚动滚轮切换队伍，再选中新队伍的精灵，就能轻松切换精灵队伍，快速锁定出场精灵！"
       },
       {
         "bg": "img_TeachingBg_GollumBall.img_TeachingBg_GollumBall",
         "title": "快捷切换咕噜球列表",
-        "text": "同理，选择投掷咕噜球时，按住投掷按钮后滑动手指，就能快速切换不同类型的咕噜球。",
+        "text": "同理，按住投掷按钮时，手指滑动可浏览更多咕噜球，选中后即可使用。",
         "bg_PC": "img_TeachingBg_GollumBall_Pc.img_TeachingBg_GollumBall_Pc",
         "title_PC": "快捷切换咕噜球列表",
-        "text_PC": "同理，选择投掷咕噜球时，按住投掷按钮，再滑动滚轮，就能快速切换不同类型的咕噜球。"
+        "text_PC": "同理，按住投掷按钮时，滚动滚轮可浏览更多咕噜球，选中后即可使用。"
       }
     ],
     "unlock_conditions": [
@@ -4318,6 +5036,137 @@
     "unlock_text_main": "华丽徽章·二",
     "unlock_text_sub": "关于功能",
     "unlock_remind_priority": 1
+  },
+  {
+    "id": 800,
+    "list_type": 6,
+    "list_des": "草系徽章-准备阶段-选择精灵",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_Badge1_1.img_TeachingBg_Badge1_1",
+        "title": "开启冒险",
+        "text": "点击开启冒险，即可进入选择精灵界面，挑选自己喜欢的精灵挑战草系徽章吧！",
+        "bg_PC": "img_TeachingBg_Badge1_1.img_TeachingBg_Badge1_1",
+        "title_PC": "开启冒险",
+        "text_PC": "点击开启冒险，即可进入选择精灵界面！"
+      },
+      {
+        "bg": "img_TeachingBg_Badge1_2.img_TeachingBg_Badge1_2",
+        "title": "选择精灵",
+        "text": "选择出战精灵时，可以在不同系别槽位中挑选对应主系别的精灵。",
+        "bg_PC": "img_TeachingBg_Badge1_2.img_TeachingBg_Badge1_2",
+        "title_PC": "选择精灵",
+        "text_PC": "选择出战精灵时，可以在不同系别槽位中挑选对应主系别的精灵。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge1_3.img_TeachingBg_Badge1_3",
+        "title": "选择出战技能",
+        "text": "在精灵已有的技能中，选择三个技能作为初始技能。",
+        "bg_PC": "img_TeachingBg_Badge1_3.img_TeachingBg_Badge1_3",
+        "title_PC": "选择出战技能",
+        "text_PC": "在精灵已有的技能中，选择三个技能作为初始技能。"
+      }
+    ]
+  },
+  {
+    "id": 801,
+    "list_type": 6,
+    "list_des": "草系徽章-准备阶段-进入挑战",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_Badge2_1.img_TeachingBg_Badge2_1",
+        "title": "选择难度",
+        "text": "初始难度为1级，通关对应难度后即可解锁下一难度。",
+        "bg_PC": "img_TeachingBg_Badge2_1.img_TeachingBg_Badge2_1",
+        "title_PC": "选择难度",
+        "text_PC": "初始难度为1级，通关对应难度后即可解锁下一难度。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge2_2.img_TeachingBg_Badge2_2",
+        "title": "挑战规则与进入挑战",
+        "text": "仔细查看挑战规则。一切都准备好后，进入挑战吧！",
+        "bg_PC": "img_TeachingBg_Badge2_2.img_TeachingBg_Badge2_2",
+        "title_PC": "挑战规则与进入挑战",
+        "text_PC": "仔细查看挑战规则。一切都准备好后，进入挑战吧！"
+      }
+    ]
+  },
+  {
+    "id": 802,
+    "list_type": 6,
+    "list_des": "草系徽章-玩法内-已装备技能",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_Badge4_1.img_TeachingBg_Badge4_1",
+        "title": "特性与技能",
+        "text": "点击可查看当前精灵已拥有的特性与装备的技能。",
+        "bg_PC": "img_TeachingBg_Badge4_1.img_TeachingBg_Badge4_1",
+        "title_PC": "特性与技能",
+        "text_PC": "点击可查看当前精灵已拥有的特性与装备的技能。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge4_2.img_TeachingBg_Badge4_2",
+        "title": "选择携带技能",
+        "text": "可带入战斗的技能数量有限，技能释放后还会进入冷却，因此合理搭配出战技能非常重要。",
+        "bg_PC": "img_TeachingBg_Badge4_2.img_TeachingBg_Badge4_2",
+        "title_PC": "选择携带技能",
+        "text_PC": "可带入战斗的技能数量有限，技能释放后还会进入冷却，因此合理搭配出战技能非常重要。"
+      }
+    ]
+  },
+  {
+    "id": 803,
+    "list_type": 6,
+    "list_des": "草系徽章-玩法内-选择对手",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_Badge3_1.img_TeachingBg_Badge3_1",
+        "title": "选择对手",
+        "text": "每次对战可以从三个随机精灵中选择对手。",
+        "bg_PC": "img_TeachingBg_Badge3_1.img_TeachingBg_Badge3_1",
+        "title_PC": "选择对手",
+        "text_PC": "每次对战可以从三个随机精灵中选择对手。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge3_2.img_TeachingBg_Badge3_2",
+        "title": "战胜奖励",
+        "text": "战胜后可以获得对手当前显示的特性或技能。",
+        "bg_PC": "img_TeachingBg_Badge3_2.img_TeachingBg_Badge3_2",
+        "title_PC": "战胜奖励",
+        "text_PC": "战胜后可以获得对手当前显示的特性或技能。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge3_3.img_TeachingBg_Badge3_3",
+        "title": "刷新奖励与对手",
+        "text": "如果对奖励不满意，或者想换个对手，可以消耗试炼代币刷新。偶尔还能刷新出额外掉落碎片的对手。",
+        "bg_PC": "img_TeachingBg_Badge3_3.img_TeachingBg_Badge3_3",
+        "title_PC": "刷新奖励与对手",
+        "text_PC": "如果对奖励不满意，或者想换个对手，可以消耗试炼代币刷新。偶尔还能刷新出额外掉落碎片的对手。"
+      }
+    ]
+  },
+  {
+    "id": 804,
+    "list_type": 6,
+    "list_des": "草系徽章-玩法内-获得技能",
+    "guide_struct": [
+      {
+        "bg": "img_TeachingBg_Badge5_1.img_TeachingBg_Badge5_1",
+        "title": "技能获得",
+        "text": "获得技能后可以选择直接获得或技能融合。",
+        "bg_PC": "img_TeachingBg_Badge5_1.img_TeachingBg_Badge5_1",
+        "title_PC": "技能获得",
+        "text_PC": "获得技能后可以选择直接获得或技能融合。"
+      },
+      {
+        "bg": "img_TeachingBg_Badge5_2.img_TeachingBg_Badge5_2",
+        "title": "技能融合",
+        "text": "同类技能可以进行融合，融合后会继承胚子技能的属性、伤害类型和效果，并叠加新技能的效果，能耗和威力则继承两者中的较高值。",
+        "bg_PC": "img_TeachingBg_Badge5_2.img_TeachingBg_Badge5_2",
+        "title_PC": "技能融合",
+        "text_PC": "同类技能可以进行融合，融合后会继承胚子技能的属性、伤害类型和效果，并叠加新技能的效果，能耗和威力则继承两者中的较高值。"
+      }
+    ]
   },
   {
     "id": 900,

@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "temp_threshold": [
+      -70,
+      -40
+    ],
+    "temp_pre_hurt_accumulate_speed": 1428,
+    "temp_hurt_accumulate_speed": 3333,
+    "pre_hurt_abnormal_status_id": 103,
+    "hurt_abnormal_status_id": 104,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 2,
+    "temp_threshold": [
+      -40,
+      -10
+    ],
+    "temp_pre_hurt_accumulate_speed": 666,
+    "temp_hurt_accumulate_speed": 1666,
+    "pre_hurt_abnormal_status_id": 101,
+    "hurt_abnormal_status_id": 102,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 3,
+    "temp_threshold": [
+      -10,
+      20
+    ],
+    "temp_pre_hurt_accumulate_speed": 333,
+    "temp_hurt_accumulate_speed": 833,
+    "hurt_abnormal_status_id": 5,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 4,
+    "temp_threshold": [
+      20,
+      80
+    ],
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 5,
+    "temp_threshold": [
+      80,
+      110
+    ],
+    "temp_pre_hurt_accumulate_speed": 333,
+    "temp_hurt_accumulate_speed": 833,
+    "hurt_abnormal_status_id": 4,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 6,
+    "temp_threshold": [
+      110,
+      140
+    ],
+    "temp_pre_hurt_accumulate_speed": 666,
+    "temp_hurt_accumulate_speed": 1666,
+    "pre_hurt_abnormal_status_id": 201,
+    "hurt_abnormal_status_id": 202,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 7,
+    "temp_threshold": [
+      140,
+      170
+    ],
+    "temp_pre_hurt_accumulate_speed": 1428,
+    "temp_hurt_accumulate_speed": 3333,
+    "pre_hurt_abnormal_status_id": 205,
+    "hurt_abnormal_status_id": 206,
+    "temp_pre_hurt_recovery_speed": 20000
+  },
+  {
+    "id": 8,
+    "temp_threshold": [
+      170,
+      200
+    ],
+    "temp_pre_hurt_accumulate_speed": 3333,
+    "temp_hurt_accumulate_speed": 5000,
+    "pre_hurt_abnormal_status_id": 205,
+    "hurt_abnormal_status_id": 206,
+    "temp_pre_hurt_recovery_speed": 20000
+  }
+]

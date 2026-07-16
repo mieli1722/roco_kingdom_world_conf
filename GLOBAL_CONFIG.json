@@ -629,7 +629,9 @@
       55262,
       55263,
       13408,
-      56008
+      56008,
+      55411,
+      55410
     ],
     "is_loc": 2
   },
@@ -680,14 +682,14 @@
   {
     "id": 367,
     "key": "banned_notice",
-    "str": "您的账号UID:%s存在异常部分功能受限。\n结束时间:%s，原因:%s。",
+    "str": "您的账号UID:{0}存在异常部分功能受限。\n结束时间:{1}，原因:{2}。",
     "title": "警告",
     "is_loc": 1
   },
   {
     "id": 368,
     "key": "mute_notice",
-    "str": "您的账号UID:%s已被系统禁言，禁言原因%s，解禁时间:%s。",
+    "str": "您的账号UID:{0}已被系统禁言，禁言原因{1}，解禁时间:{2}。",
     "is_loc": 1
   },
   {
@@ -1068,43 +1070,43 @@
   {
     "id": 430,
     "key": "follow_task_accept",
-    "str": "{跟随npc}开始与你同行",
+    "str": "{FollowerNpc}开始与你同行",
     "is_loc": 1
   },
   {
     "id": 431,
     "key": "follow_task_finish",
-    "str": "{跟随npc}不再与你同行",
+    "str": "{FollowerNpc}不再与你同行",
     "is_loc": 1
   },
   {
     "id": 432,
     "key": "follow_task_change_off",
-    "str": "{跟随npc}不再与你同行",
+    "str": "{FollowerNpc}不再与你同行",
     "is_loc": 1
   },
   {
     "id": 433,
     "key": "follow_task_change_on",
-    "str": "{跟随npc}开始与你同行",
+    "str": "{FollowerNpc}开始与你同行",
     "is_loc": 1
   },
   {
     "id": 434,
     "key": "follow_task_area_out",
-    "str": "已离开任务区域，{跟随npc}不再与你同行",
+    "str": "已离开任务区域，{FollowerNpc}不再与你同行",
     "is_loc": 1
   },
   {
     "id": 435,
     "key": "follow_task_area_in",
-    "str": "已回到任务区域，{跟随npc}开始与你同行",
+    "str": "已回到任务区域，{FollowerNpc}开始与你同行",
     "is_loc": 1
   },
   {
     "id": 436,
     "key": "follow_online_off",
-    "str": "已进入联机状态，{跟随npc}不再与你同行",
+    "str": "已进入联机状态，{FollowerNpc}不再与你同行",
     "is_loc": 1
   },
   {
@@ -1199,7 +1201,7 @@
   {
     "id": 452,
     "key": "follow_online_on",
-    "str": "已退出联机状态，{跟随npc}开始与你同行",
+    "str": "已退出联机状态，{FollowerNpc}开始与你同行",
     "is_loc": 1
   },
   {
@@ -2101,7 +2103,8 @@
       10057,
       50001,
       50002,
-      50003
+      50003,
+      10058
     ],
     "is_loc": 2
   },
@@ -2114,13 +2117,13 @@
   {
     "id": 616,
     "key": "owl_slot_cd",
-    "num": 22,
+    "num": 2,
     "is_loc": 2
   },
   {
     "id": 617,
     "key": "put_prop_cd",
-    "num": 10,
+    "num": 3,
     "is_loc": 2
   },
   {
@@ -2150,7 +2153,7 @@
   {
     "id": 622,
     "key": "owl_fruit_cd",
-    "num": 22,
+    "num": 2,
     "is_loc": 2
   },
   {
@@ -2509,7 +2512,7 @@
   {
     "id": 679,
     "key": "random_shop_band_bg_source",
-    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Monthly/Textures/fashion_bond_band_bg_%d_%d.fashion_bond_band_bg_%d_%d'",
+    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Monthly/Textures/fashion_bond_band_bg_{0:d}_{1:d}.fashion_bond_band_bg_{2:d}_{3:d}'",
     "is_loc": 2
   },
   {
@@ -2926,7 +2929,16 @@
       55554,
       55555,
       55556,
-      60280
+      60280,
+      68010,
+      68011,
+      68012,
+      55575,
+      55576,
+      55577,
+      55598,
+      55599,
+      55600
     ],
     "is_loc": 2
   },
@@ -3086,7 +3098,14 @@
       20014,
       20035,
       20034,
-      20006
+      20006,
+      20058,
+      20059,
+      20060,
+      20061,
+      60005,
+      60007,
+      60009
     ],
     "is_loc": 2
   },
@@ -3370,9 +3389,176 @@
     "num": 600
   },
   {
+    "id": 810,
+    "key": "role_play_frequent_tab_threshold",
+    "num": 10
+  },
+  {
+    "id": 811,
+    "key": "role_play_pin_max_count",
+    "num": 10
+  },
+  {
+    "id": 812,
+    "key": "role_play_frequent_list_capacity",
+    "num": 10
+  },
+  {
+    "id": 813,
+    "key": "scary_shadow_disable_distance_from_player",
+    "num": 1500
+  },
+  {
+    "id": 814,
+    "key": "scary_shadow_disable_time_after_battle",
+    "num": 5
+  },
+  {
+    "id": 815,
+    "key": "scary_shadow_disable_time_after_star_magic",
+    "num": 5
+  },
+  {
+    "id": 816,
+    "key": "white_moon_disable_eternal_night_effect_area",
+    "numList": [
+      700403,
+      700404,
+      700405,
+      700670
+    ]
+  },
+  {
     "id": 817,
     "key": "pay_cd",
     "num": 900
+  },
+  {
+    "id": 818,
+    "key": "pika_shop_page_turn",
+    "numList": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 819,
+    "key": "trans_nightmare_blood_rate",
+    "num": 1000
+  },
+  {
+    "id": 820,
+    "key": "goddess_update_storyflag",
+    "numList": [
+      1041,
+      1042
+    ]
+  },
+  {
+    "id": 821,
+    "key": "create_magic_recyle_item",
+    "num": 100729
+  },
+  {
+    "id": 822,
+    "key": "create_magic_item_demand",
+    "num": 100727
+  },
+  {
+    "id": 823,
+    "key": "create_magic_child_list",
+    "str": "SMT_CREATE;SMT_CREATE_XSLIGHT;SMT_CREATE_XHLIGHT;SMT_CREATE_NGLIGHT"
+  },
+  {
+    "id": 824,
+    "key": "level1_pumpkin_role_aura_effect_id",
+    "num": 670000001
+  },
+  {
+    "id": 825,
+    "key": "level2_pumpkin_role_aura_effect_id",
+    "num": 670000003
+  },
+  {
+    "id": 826,
+    "key": "level3_pumpkin_role_aura_effect_id",
+    "num": 670000005
+  },
+  {
+    "id": 827,
+    "key": "pet_player_distance_disable_shadow_aura_effect_id",
+    "num": 670000007
+  },
+  {
+    "id": 828,
+    "key": "eternal_night_energy_loss_world_buff_id",
+    "num": 60001
+  },
+  {
+    "id": 829,
+    "key": "role_play_max",
+    "num": 10
+  },
+  {
+    "id": 830,
+    "key": "role_play_ding_max",
+    "num": 10
+  },
+  {
+    "id": 831,
+    "key": "PC_key_change_announcement",
+    "num": 1,
+    "numList": [
+      9996
+    ],
+    "str": "8;0;LCtrl;1;LCtrl;16;0;——;2;LCtrl"
+  },
+  {
+    "id": 832,
+    "key": "role_play_use"
+  },
+  {
+    "id": 834,
+    "key": "building_npc_stable",
+    "numList": [
+      5000,
+      7500,
+      10000
+    ]
+  },
+  {
+    "id": 835,
+    "key": "building_npc_stable_by_goddess",
+    "numList": [
+      7500,
+      10000,
+      15000
+    ]
+  },
+  {
+    "id": 836,
+    "key": "mark_interact_distance_check",
+    "num": 1000
+  },
+  {
+    "id": 837,
+    "key": "warehouse_box_recipe",
+    "num": -1
+  },
+  {
+    "id": 846,
+    "key": "closely_follow_yaw_lerp_speed"
+  },
+  {
+    "id": 847,
+    "key": "closely_follow_stop_dis",
+    "num": 6000
+  },
+  {
+    "id": 848,
+    "key": "qqmusic_txt_limit",
+    "num": 100
   },
   {
     "id": 855,
@@ -3383,5 +3569,20 @@
     "id": 856,
     "key": "report_coin_split_mail",
     "num": 80040
+  },
+  {
+    "id": 857,
+    "key": "lordpet_bond_touch_vision_range",
+    "num": 60
+  },
+  {
+    "id": 858,
+    "key": "lordpet_bond_touch_distance",
+    "num": 229
+  },
+  {
+    "id": 862,
+    "key": "facephoto_max_count",
+    "num": 2
   }
 ]

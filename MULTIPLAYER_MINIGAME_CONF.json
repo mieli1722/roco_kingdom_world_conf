@@ -1,0 +1,51 @@
+[
+  {
+    "id": 60001,
+    "editor_name": "疯狂流星",
+    "game_discribe": "在限定的游戏时间里，接住尽量多的流星吧！",
+    "effect_type": 1,
+    "multi_type": 1,
+    "player_count": [
+      1
+    ],
+    "rule": 60001,
+    "time_limit": 120,
+    "start_point": [
+      101036539
+    ],
+    "block_id": 101030139,
+    "gameplay_area": 101036543,
+    "goal_guide": 3,
+    "guide_text": "分数：",
+    "npc_hide": true,
+    "silver_score": 20,
+    "golden_score": 40
+  },
+  {
+    "id": 60002,
+    "editor_name": "疯狂流星",
+    "game_discribe": "在限定的游戏时间里，接住尽量多的流星吧！",
+    "effect_type": 1,
+    "multi_type": 2,
+    "player_count": [
+      2,
+      3,
+      4
+    ],
+    "rule": 60002,
+    "time_limit": 120,
+    "start_point": [
+      101036539,
+      101036540,
+      101036541,
+      101036542
+    ],
+    "block_id": 101030139,
+    "gameplay_area": 101036543,
+    "goal_guide": 3,
+    "guide_text": "分数：",
+    "npc_hide": true,
+    "silver_score": 20,
+    "golden_score": 40
+  }
+]

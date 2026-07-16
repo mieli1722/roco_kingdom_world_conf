@@ -359,13 +359,13 @@
   {
     "id": 162,
     "key": "max_normal_point_num",
-    "num": 200,
+    "num": 270,
     "is_loc": 2
   },
   {
     "id": 163,
     "key": "max_pet_point_num",
-    "num": 5,
+    "num": 30,
     "is_loc": 2
   },
   {
@@ -577,13 +577,71 @@
   {
     "id": 203,
     "key": "highvalue_pet_track_not_owner",
-    "str": "一只炫彩精灵出现在了这个位置，快去看看吧！\n该精灵的拥有者为：%s，需要这位小洛克同行才可捕捉。",
+    "str": "一只炫彩精灵出现在了这个位置，快去看看吧！\n该精灵的拥有者为：{0}，需要这位小洛克同行才可捕捉。",
     "is_loc": 1
   },
   {
     "id": 204,
     "key": "highvalue_nightmare_pet_track_not_owner",
-    "str": "一只惊喜盒子出现在了这个位置，快去看看吧！\n该盒子的拥有者为：{0}，需要这位小洛克同行才可互动。",
+    "str": "精灵童话出现在了这个位置，快去看看吧！\n该书本和铅绘的拥有者为：{0}，需要这位小洛克同行才可互动。",
     "is_loc": 1
+  },
+  {
+    "id": 205,
+    "key": "create_magic_xslight_map_id",
+    "num": 119,
+    "is_loc": 2
+  },
+  {
+    "id": 206,
+    "key": "create_magic_xhlight_map_id",
+    "num": 120,
+    "is_loc": 2
+  },
+  {
+    "id": 207,
+    "key": "create_magic_nglight_map_id",
+    "num": 121,
+    "is_loc": 2
+  },
+  {
+    "id": 208,
+    "key": "create_magic_xslight_npc_id",
+    "num": 55575,
+    "is_loc": 2
+  },
+  {
+    "id": 209,
+    "key": "create_magic_xhlight_npc_id",
+    "num": 55576,
+    "is_loc": 2
+  },
+  {
+    "id": 210,
+    "key": "create_magic_nglight_npc_id",
+    "num": 55577,
+    "is_loc": 2
+  },
+  {
+    "id": 211,
+    "key": "gamepad_map_move_medium",
+    "num": 25
+  },
+  {
+    "id": 212,
+    "key": "highvalue_shining_pet_track_not_owner",
+    "str": "一只异色精灵出现在了这个位置，快去看看吧！\n该精灵的拥有者为：{0}，需要这位小洛克同行才可互动。",
+    "is_loc": 1
+  },
+  {
+    "id": 213,
+    "key": "area_func_highest_priority",
+    "numList": [
+      700308,
+      700101,
+      700108,
+      700322,
+      700113
+    ]
   }
 ]

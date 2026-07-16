@@ -138,5 +138,45 @@
         "available_time_param2": "24:00:00"
       }
     ]
+  },
+  {
+    "id": 401,
+    "available_time": [
+      {
+        "available_time_type": 1,
+        "available_time_param1": "72000",
+        "available_time_param2": "86400"
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "available_time": [
+      {
+        "available_time_type": 1,
+        "available_time_param1": "0",
+        "available_time_param2": "14400"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "available_time": [
+      {
+        "available_time_type": 1,
+        "available_time_param1": "14400",
+        "available_time_param2": "43200"
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "available_time": [
+      {
+        "available_time_type": 1,
+        "available_time_param1": "43200",
+        "available_time_param2": "72000"
+      }
+    ]
   }
 ]

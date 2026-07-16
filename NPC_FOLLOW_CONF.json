@@ -340,6 +340,210 @@
     "hide_blackscreen": true
   },
   {
+    "id": 1040001,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10012.10012'",
+    "npc_name": "可丽希亚和菲尔特",
+    "npc_config_group_id": 1040001,
+    "npc_follow_areas": [
+      561030672
+    ],
+    "task_ids": [
+      1101120
+    ],
+    "memo": "A2-1主线-可丽希亚同行",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1041001,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/05001.05001'",
+    "npc_name": "圣安德鲁、可丽希亚",
+    "npc_config_group_id": 1041001,
+    "npc_follow_areas": [
+      591030333
+    ],
+    "task_ids": [
+      1101160
+    ],
+    "memo": "A2-1主线-圣安德鲁同行",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1042020,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "可丽希亚与菲尔特",
+    "npc_config_group_id": 1042020,
+    "npc_follow_areas": [
+      591030479
+    ],
+    "task_ids": [
+      1101440
+    ],
+    "memo": "A2-1主线-深入遗迹",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1042026,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "进入树洞",
+    "npc_config_group_id": 1042026,
+    "memo": "A2-1主线-进入树洞",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1042027,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "前往裂隙",
+    "npc_config_group_id": 1042027,
+    "npc_follow_areas": [
+      700314
+    ],
+    "task_ids": [
+      1101002
+    ],
+    "memo": "A2-1主线-前往裂隙",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1042028,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "横版小游戏内",
+    "npc_config_group_id": 1042028,
+    "memo": "A2-1主线-横版小游戏（精灵昏睡后）",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1042029,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "逃离城堡",
+    "npc_config_group_id": 1042029,
+    "npc_follow_areas": [
+      700314
+    ],
+    "task_ids": [
+      1101024
+    ],
+    "memo": "A2-1主线-逃离城堡",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1052027,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "可丽希亚、菲尔特",
+    "npc_config_group_id": 1052027,
+    "npc_follow_areas": [
+      860000001
+    ],
+    "task_ids": [
+      1103007
+    ],
+    "memo": "A2-1主线-横版三人同行对白",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1052028,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "可丽希亚、菲尔特",
+    "npc_config_group_id": 1052028,
+    "npc_follow_areas": [
+      860000002
+    ],
+    "task_ids": [
+      1103010,
+      1103011,
+      1103012
+    ],
+    "memo": "A2-1主线-钟楼三人同行对白",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 1052029,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10011.10011'",
+    "npc_name": "可丽希亚、菲尔特",
+    "npc_config_group_id": 1052029,
+    "npc_follow_areas": [
+      860000004
+    ],
+    "task_ids": [
+      1101236
+    ],
+    "memo": "A2-1主线-初次进入树洞",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true
+  },
+  {
+    "id": 2000001,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10004.10004'",
+    "npc_name": "草系研究员",
+    "npc_config_group_id": 2000001,
+    "npc_follow_areas": [
+      566030001
+    ],
+    "task_ids": [
+      70000510
+    ],
+    "memo": "八大徽章-草系-索米亚平原草系研究员",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true,
+    "hide_enter_tips": true,
+    "hide_leave_tips": true
+  },
+  {
+    "id": 2000002,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10005.10005'",
+    "npc_name": "易西",
+    "npc_config_group_id": 2000002,
+    "npc_follow_areas": [
+      566050001
+    ],
+    "task_ids": [
+      70000510
+    ],
+    "memo": "八大徽章-草系-巨石阵易西",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true,
+    "hide_enter_tips": true,
+    "hide_leave_tips": true
+  },
+  {
+    "id": 2000003,
+    "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3493.3493'",
+    "npc_name": "赫拉",
+    "npc_config_group_id": 2000003,
+    "npc_follow_areas": [
+      566060001
+    ],
+    "task_ids": [
+      70000510
+    ],
+    "memo": "八大徽章-草系-普拉塔草原赫拉（一阶段肥草球）",
+    "hide_start_tips": true,
+    "hide_end_tips": true,
+    "hide_blackscreen": true,
+    "hide_enter_tips": true,
+    "hide_leave_tips": true
+  },
+  {
     "id": 4210101,
     "npc_icon": "Texture2D'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/PEO_04904.PEO_04904'",
     "npc_name": "露萌",

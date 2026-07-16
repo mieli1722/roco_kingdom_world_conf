@@ -691,5 +691,29 @@
     "add_sub_status": 1,
     "remove_sub_status": 1,
     "helper_path": "NewRoco.Modules.Core.Scene.Component.Ability.Helper.RideAll.RideAllJumpHelper"
+  },
+  {
+    "id": 1300132,
+    "ability_name": "手持玩具开始",
+    "skill_lua_path": "Perform.HandToyAbility",
+    "scene_ability_slot_cast_type": 1,
+    "cooldown": 0.5,
+    "add_status": [
+      45
+    ],
+    "add_sub_status": 1,
+    "remove_sub_status": 1
+  },
+  {
+    "id": 1300133,
+    "ability_name": "手持玩具结束",
+    "skill_lua_path": "Perform.HandToyAbility",
+    "scene_ability_slot_cast_type": 1,
+    "cooldown": 0.5,
+    "add_sub_status": 1,
+    "remove_status": [
+      45
+    ],
+    "remove_sub_status": 1
   }
 ]

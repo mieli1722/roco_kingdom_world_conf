@@ -159,6 +159,16 @@
     "main_exit": true
   },
   {
+    "id": 120401,
+    "name": "光系灵魂之河",
+    "sub_name": "光系灵魂之河",
+    "region_name": "A2",
+    "scene_id": 141,
+    "type": 1,
+    "type_name": "光的力量诞生于此。",
+    "hide_tag": 3
+  },
+  {
     "id": 150001,
     "name": "记忆中的黑巫团基地",
     "sub_name": "邪恶的秘密研究所",
@@ -263,6 +273,24 @@
         ]
       }
     ]
+  },
+  {
+    "id": 150010,
+    "name": "扭曲出版社",
+    "region_name": "A2",
+    "scene_id": 510,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
+  },
+  {
+    "id": 150011,
+    "name": "黑加尔创造的神秘空间",
+    "region_name": "A2",
+    "scene_id": 511,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true
   },
   {
     "id": 210101,
@@ -2538,6 +2566,929 @@
     ]
   },
   {
+    "id": 210154,
+    "name": "不咕钟的守护地",
+    "region_name": "A2",
+    "scene_id": 253,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150093
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502043,
+          5502042,
+          5502041
+        ]
+      }
+    ]
+  },
+  {
+    "id": 210155,
+    "name": "火巨人的守护地",
+    "sub_name": "抵达火山之底",
+    "region_name": "A2",
+    "scene_id": 273,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "深藏于火巨人洞窟中的精灵守护地，似乎是举行某种仪式的固定场所。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150092
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102003,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21016002
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5502949,
+          5502950,
+          5502966
+        ]
+      }
+    ],
+    "collection_drop": [
+      {
+        "collect_drop_type": 4,
+        "collect_drop_npc_id": [
+          55002
+        ]
+      },
+      {
+        "collect_drop_type": 3,
+        "collect_drop_npc_id": [
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006,
+          55006
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210156,
+    "name": "森巨人的守护地",
+    "sub_name": "抵达群岛之巅",
+    "region_name": "A2",
+    "scene_id": 274,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "深藏于森巨人洞窟中的精灵守护地，似乎是举行某种仪式的固定场所。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150091
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102002,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21017002
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5502979,
+          5502980,
+          5502981
+        ]
+      }
+    ],
+    "collection_drop": [
+      {
+        "collect_drop_type": 4,
+        "collect_drop_npc_id": [
+          55003
+        ]
+      },
+      {
+        "collect_drop_type": 3,
+        "collect_drop_npc_id": [
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007,
+          55007
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210157,
+    "name": "碎晶蝎的守护地",
+    "sub_name": "结晶森林的秘境",
+    "region_name": "A2",
+    "scene_id": 256,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "坐落于结晶森林的精灵守护地，入口处还残留着破碎的晶石残片。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150094
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102006,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21018001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5502030,
+          5502032,
+          5502410
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502395,
+          5502396,
+          5502397,
+          5502398,
+          5502399,
+          5502400,
+          5502401,
+          5502402,
+          5502403,
+          5502404,
+          5502405,
+          5502406,
+          5502407,
+          5502408,
+          5502409
+        ]
+      }
+    ],
+    "collection_drop": [
+      {
+        "collect_drop_type": 4,
+        "collect_drop_npc_id": [
+          55004
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210158,
+    "name": "芽眼魔的守护地",
+    "sub_name": "前往威廉古堡最高处",
+    "region_name": "A2",
+    "scene_id": 257,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "藏匿于古堡之中的精灵守护地，深入其中探寻秘宝吧。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150095
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102016,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21019003
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502912,
+          5502915,
+          5502916
+        ]
+      },
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5502910
+        ]
+      },
+      {
+        "collect_type": 6,
+        "collect_content_id": [
+          5502913
+        ]
+      }
+    ],
+    "collection_drop": [
+      {
+        "collect_drop_type": 3,
+        "collect_drop_npc_id": [
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008,
+          55008
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210159,
+    "name": "不咕钟的守护地",
+    "sub_name": "深夜时分",
+    "region_name": "A2",
+    "scene_id": 258,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "由时空汇流而成的精灵守护地，在不同时间进入能到达不同的空间。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150093
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21021001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502043,
+          5502042,
+          5502041
+        ]
+      },
+      {
+        "collect_type": 6,
+        "collect_content_id": [
+          5502044
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502376,
+          5502378,
+          5502380,
+          5502382,
+          5502384,
+          5502385,
+          5502386,
+          5502387,
+          5502388,
+          5502389,
+          5502390,
+          5502391,
+          5502392,
+          5502393,
+          5502394
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210160,
+    "name": "不咕钟的守护地",
+    "sub_name": "寂夜时分",
+    "region_name": "A2",
+    "scene_id": 259,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "由时空汇流而成的精灵守护地，在不同时间进入能到达不同的空间。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150093
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21021001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502043,
+          5502042,
+          5502041
+        ]
+      },
+      {
+        "collect_type": 6,
+        "collect_content_id": [
+          5502044
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502376,
+          5502378,
+          5502380,
+          5502382,
+          5502384,
+          5502385,
+          5502386,
+          5502387,
+          5502388,
+          5502389,
+          5502390,
+          5502391,
+          5502392,
+          5502393,
+          5502394
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210161,
+    "name": "不咕钟的守护地",
+    "sub_name": "破晓时分",
+    "region_name": "A2",
+    "scene_id": 260,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "由时空汇流而成的精灵守护地，在不同时间进入能到达不同的空间。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150093
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21021001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502043,
+          5502042,
+          5502041
+        ]
+      },
+      {
+        "collect_type": 6,
+        "collect_content_id": [
+          5502044
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502376,
+          5502378,
+          5502380,
+          5502382,
+          5502384,
+          5502385,
+          5502386,
+          5502387,
+          5502388,
+          5502389,
+          5502390,
+          5502391,
+          5502392,
+          5502393,
+          5502394
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210162,
+    "name": "不咕钟的守护地",
+    "sub_name": "日暮时分",
+    "region_name": "A2",
+    "scene_id": 261,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "由时空汇流而成的精灵守护地，在不同时间进入能到达不同的空间。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150093
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 80
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 2
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102017,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21021001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 2,
+        "collect_content_id": [
+          5502043,
+          5502042,
+          5502041
+        ]
+      },
+      {
+        "collect_type": 6,
+        "collect_content_id": [
+          5502044
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502376,
+          5502378,
+          5502380,
+          5502382,
+          5502384,
+          5502385,
+          5502386,
+          5502387,
+          5502388,
+          5502389,
+          5502390,
+          5502391,
+          5502392,
+          5502393,
+          5502394
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210163,
+    "name": "雪巨人的守护地",
+    "sub_name": "抵达研究营地",
+    "region_name": "A2",
+    "scene_id": 262,
+    "world_scene_id": 103,
+    "type": 1,
+    "type_name": "深藏于雪巨人洞窟中的精灵守护地，隐约能听到内部传来洛克的声音。",
+    "main_exit": true,
+    "has_enter_ui": true,
+    "show_reward": [
+      {
+        "reward_type": 1,
+        "reward_id": 150090
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100699,
+        "reward_count": 120
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 100204,
+        "reward_count": 3
+      },
+      {
+        "reward_type": 1,
+        "reward_id": 102007,
+        "reward_count": 1
+      },
+      {
+        "reward_type": 2,
+        "reward_id": 79,
+        "reward_count": 150
+      }
+    ],
+    "finish_stage": [
+      21024001
+    ],
+    "has_finish_ui": true,
+    "collection": [
+      {
+        "collect_type": 1,
+        "collect_content_id": [
+          5502362,
+          5502364
+        ]
+      },
+      {
+        "collect_type": 5,
+        "collect_content_id": [
+          5502412,
+          5502413,
+          5502414,
+          5502415,
+          5502416,
+          5502417,
+          5502420,
+          5502421,
+          5502422,
+          5502424,
+          5502425,
+          5502426,
+          5502430,
+          5502431,
+          5502432
+        ]
+      }
+    ],
+    "collection_drop": [
+      {
+        "collect_drop_type": 4,
+        "collect_drop_npc_id": [
+          55005
+        ]
+      }
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210164,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的东南角",
+    "region_name": "A2",
+    "scene_id": 263,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21025001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210165,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的西北角",
+    "region_name": "A2",
+    "scene_id": 264,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21026001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210166,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的东北角",
+    "region_name": "A2",
+    "scene_id": 265,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21027001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210167,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的西南角",
+    "region_name": "A2",
+    "scene_id": 266,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21028001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210168,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的正东塔",
+    "region_name": "A2",
+    "scene_id": 267,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21029001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210169,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的正西塔",
+    "region_name": "A2",
+    "scene_id": 268,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21030001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210170,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的正北塔",
+    "region_name": "A2",
+    "scene_id": 269,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21031001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210171,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的正南塔",
+    "region_name": "A2",
+    "scene_id": 270,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21032001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210172,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的左偏塔",
+    "region_name": "A2",
+    "scene_id": 271,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21033001
+    ],
+    "stage_resurre_first": true
+  },
+  {
+    "id": 210173,
+    "name": "芽眼魔的守护地",
+    "sub_name": "威廉古堡的右偏塔",
+    "region_name": "A2",
+    "scene_id": 272,
+    "world_scene_id": 103,
+    "type": 1,
+    "main_exit": true,
+    "finish_stage": [
+      21034001
+    ],
+    "stage_resurre_first": true
+  },
+  {
     "id": 410101,
     "name": "活动-首领角斗场",
     "sub_name": "活动-首领角斗场",
@@ -2557,11 +3508,10 @@
   },
   {
     "id": 600002,
-    "name": "草系徽章-横版场景",
-    "sub_name": "草系徽章-横版场景",
+    "name": "草系徽章-记忆中的索米亚草原",
+    "sub_name": "草系徽章-记忆中的索米亚草原",
     "scene_id": 603,
-    "type": 1,
-    "main_exit": true
+    "type": 1
   },
   {
     "id": 600003,
@@ -2570,6 +3520,20 @@
     "scene_id": 602,
     "type": 1,
     "main_exit": true
+  },
+  {
+    "id": 600004,
+    "name": "草系徽章-记忆中的巨石阵",
+    "sub_name": "草系徽章-记忆中的巨石阵",
+    "scene_id": 605,
+    "type": 1
+  },
+  {
+    "id": 600005,
+    "name": "草系徽章-记忆中的普拉塔草原",
+    "sub_name": "草系徽章-记忆中的普拉塔草原",
+    "scene_id": 606,
+    "type": 1
   },
   {
     "id": 800001,

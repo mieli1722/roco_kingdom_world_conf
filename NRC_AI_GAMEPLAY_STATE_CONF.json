@@ -2,18 +2,19 @@
   {
     "id": 1001,
     "native_class": "PlayAnimation",
-    "editor_name": "动画",
     "sync_add": true,
+    "version_sensitive": true,
     "provides_tags": [
       1000,
-      1001
+      1001,
+      1010
     ]
   },
   {
     "id": 1002,
     "native_class": "PlaySkill",
-    "editor_name": "技能",
     "sync_add": true,
+    "version_sensitive": true,
     "provides_tags": [
       1000,
       1001
@@ -26,7 +27,6 @@
     "id": 1004,
     "native_class": "LookAt",
     "script_path": "AIStateLookAt",
-    "editor_name": "头看向",
     "sync_add": true,
     "sync_remove": true,
     "priority": 4,
@@ -39,7 +39,6 @@
     "id": 1005,
     "native_class": "AIStateLookAtCamera",
     "script_path": "AIStateLookAtCamera",
-    "editor_name": "【拍照】头看向镜头",
     "sync_add": true,
     "sync_remove": true,
     "priority": 4,
@@ -49,10 +48,60 @@
     ]
   },
   {
+    "id": 1006,
+    "native_class": "AIStatePerceptionHud",
+    "script_path": "AIStatePerceptionHud",
+    "sync_add": true,
+    "sync_remove": true,
+    "priority": 4,
+    "provides_tags": [
+      1000,
+      1003
+    ]
+  },
+  {
+    "id": 1011,
+    "native_class": "PlaySkill",
+    "val_param": [
+      0,
+      1
+    ],
+    "sync_add": true,
+    "version_sensitive": true,
+    "provides_tags": [
+      1000
+    ]
+  },
+  {
+    "id": 1012,
+    "native_class": "PlaySkill",
+    "val_param": [
+      0,
+      1
+    ],
+    "sync_add": true,
+    "version_sensitive": true,
+    "provides_tags": [
+      1000
+    ]
+  },
+  {
+    "id": 1013,
+    "native_class": "PlaySkill",
+    "val_param": [
+      0,
+      1
+    ],
+    "sync_add": true,
+    "version_sensitive": true,
+    "provides_tags": [
+      1000
+    ]
+  },
+  {
     "id": 2001,
     "native_class": "Stun",
     "script_path": "AIStateStun",
-    "editor_name": "趔趄",
     "sync_add": true,
     "sync_remove": true,
     "priority": 1,
@@ -76,9 +125,7 @@
     "id": 2002,
     "native_class": "Stun",
     "script_path": "AIStateStun",
-    "editor_name": "眩晕",
     "sync_add": true,
-    "sync_remove": true,
     "priority": 1,
     "context_states": [
       9002
@@ -90,20 +137,17 @@
       2002
     ],
     "cancel_state_with_tags": [
+      1000,
       2001
     ],
     "block_state_with_tags": [
       1000
-    ],
-    "excluded_tags_to_apply": [
-      9001
     ]
   },
   {
     "id": 3001,
     "native_class": "AIStateHiddenBegin",
     "script_path": "AIStateHiddenBegin",
-    "editor_name": "匿踪开始",
     "sync_add": true,
     "priority": 1,
     "context_states": [
@@ -119,15 +163,15 @@
       1001,
       9001
     ],
+    "block_state_with_tags": [
+      1010
+    ],
     "same_id_policy": 1
   },
   {
     "id": 3002,
     "native_class": "AIStateHiddenLoop",
     "script_path": "AIStateHiddenLoop",
-    "editor_name": "匿踪循环",
-    "sync_add": true,
-    "sync_remove": true,
     "priority": 1,
     "context_states": [
       9001
@@ -147,7 +191,6 @@
     "id": 3003,
     "native_class": "AIStateHiddenEnd",
     "script_path": "AIStateHiddenEnd",
-    "editor_name": "匿踪结束",
     "sync_add": true,
     "priority": 1,
     "context_states": [
@@ -169,7 +212,6 @@
   },
   {
     "id": 3004,
-    "editor_name": "禁用碰撞",
     "sync_add": true,
     "sync_remove": true,
     "priority": 1,
@@ -178,28 +220,76 @@
     ]
   },
   {
+    "id": 4001,
+    "native_class": "AIStateBlowAwayNpc",
+    "script_path": "AIStateBlowAwayNpc",
+    "sync_add": true,
+    "priority": 1,
+    "provides_tags": [
+      1000
+    ]
+  },
+  {
+    "id": 4002,
+    "native_class": "AIStateBeBlownAway",
+    "script_path": "AIStateBeBlownAway",
+    "sync_add": true,
+    "priority": 1,
+    "context_states": [
+      9002
+    ],
+    "provides_tags": [
+      2000
+    ]
+  },
+  {
+    "id": 4003,
+    "native_class": "AIStateCloselyFollow",
+    "script_path": "AIStateCloselyFollow",
+    "sync_add": true,
+    "sync_remove": true,
+    "priority": 5,
+    "same_id_policy": 1
+  },
+  {
+    "id": 4101,
+    "priority": 5,
+    "provides_tags": [
+      4000
+    ]
+  },
+  {
+    "id": 4102,
+    "native_class": "AIStateLeaderWorldCombatSkill",
+    "script_path": "AIStateLeaderWorldCombatSkill",
+    "priority": 1,
+    "provides_tags": [
+      1000,
+      1001
+    ],
+    "cancel_state_with_tags": [
+      1001
+    ]
+  },
+  {
     "id": 9001,
     "native_class": "AIStateHiddenContext",
     "script_path": "AIStateHiddenContext",
-    "editor_name": "Context.匿踪",
     "priority": 1
   },
   {
     "id": 9002,
     "native_class": "AIStatePauseBT",
-    "editor_name": "Context.暂停行为树",
     "priority": 1
   },
   {
     "id": 9003,
     "native_class": "AIStateDisableCollision",
-    "editor_name": "Context.禁用碰撞",
     "priority": 1
   },
   {
     "id": 9004,
     "native_class": "AIStateDisableInteraction",
-    "editor_name": "Context.禁用交互",
     "priority": 1
   },
   {
@@ -210,7 +300,6 @@
       1000,
       9000002
     ],
-    "editor_name": "测试.1s后切换到9000002",
     "sync_add": true,
     "priority": 1,
     "context_states": [
@@ -226,7 +315,6 @@
   },
   {
     "id": 9000002,
-    "editor_name": "测试.保持",
     "sync_add": true,
     "sync_remove": true,
     "priority": 1,
@@ -248,7 +336,6 @@
     "val_param": [
       1000
     ],
-    "editor_name": "测试.1s后销毁",
     "sync_add": true,
     "priority": 1,
     "context_states": [
@@ -269,7 +356,6 @@
     "val_param": [
       1000
     ],
-    "editor_name": "测试.打断tag9001",
     "sync_add": true,
     "priority": 1,
     "provides_tags": [
@@ -289,7 +375,6 @@
     "val_param": [
       1000
     ],
-    "editor_name": "测试.等待tag9001",
     "sync_add": true,
     "priority": 1,
     "provides_tags": [
@@ -305,7 +390,6 @@
       1000,
       9000002
     ],
-    "editor_name": "测试Context.",
     "priority": 1
   }
 ]

@@ -40,29 +40,31 @@
     "focus_group": [
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_longxipaer.img_pailian_longxipaer'",
+        "focus_umg_id": 101,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_LegendaryJini.UMG_S1_LegendaryJini_C'",
         "option_name": "下一页",
-        "option_skip_type": 1,
-        "focus_umg_id": 101
+        "option_skip_type": 1
       },
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_emengjiasuo.img_pailian_emengjiasuo'",
+        "focus_umg_id": 102,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_NewGameplay.UMG_S1_NewGameplay_C'",
         "option_name": "下一页",
-        "option_skip_type": 1,
-        "focus_umg_id": 102
+        "option_skip_type": 1
       },
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_tongxingzheng.img_pailian_tongxingzheng'",
+        "focus_umg_id": 103,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/UMG_S1_BattlePass.UMG_S1_BattlePass_C'",
         "option_name": "前往选择",
         "option_skip_type": 2,
         "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity",
-        "finish_click_redpoint": 101,
-        "focus_umg_id": 103
+        "finish_click_redpoint": 101
       }
     ],
-    "season_skill_ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S1.PDA_SeasonSkillUiConfiguration_S1'"
+    "season_skill_ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S1.PDA_SeasonSkillUiConfiguration_S1'",
+    "mutation_tips_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Season/img_S1saiji.img_S1saiji'",
+    "mutation_tips_text": "<span color=\"#dfd7c0\">于暗夜拾光赛季相遇</>"
   },
   {
     "id": 2,
@@ -103,28 +105,99 @@
     "focus_group": [
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_longxipaer.img_pailian_longxipaer'",
+        "focus_umg_id": 201,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_LegendaryJini.UMG_S2_LegendaryJini_C'",
         "option_name": "下一页",
-        "option_skip_type": 1,
-        "focus_umg_id": 201
+        "option_skip_type": 1
       },
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_emengjiasuo.img_pailian_emengjiasuo'",
+        "focus_umg_id": 202,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_NewGameplay.UMG_S2_NewGameplay_C'",
         "option_name": "下一页",
-        "option_skip_type": 1,
-        "focus_umg_id": 202
+        "option_skip_type": 1
       },
       {
         "focus_img_path": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/SeasonalActivities/img_pailian_tongxingzheng.img_pailian_tongxingzheng'",
+        "focus_umg_id": 203,
         "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S2/UMG_S2_BattlePass.UMG_S2_BattlePass_C'",
         "option_name": "前往选择",
         "option_skip_type": 2,
         "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity",
-        "finish_click_redpoint": 201,
-        "focus_umg_id": 203
+        "finish_click_redpoint": 201
       }
     ],
-    "season_skill_ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'"
+    "season_skill_ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S2.PDA_SeasonSkillUiConfiguration_S2'",
+    "mutation_tips_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Season/img_S2saiji.img_S2saiji'",
+    "mutation_tips_text": "<span color=\"#dfd7c0\">于狂欢怪谈赛季相遇</>"
+  },
+  {
+    "id": 3,
+    "part_id": [
+      301,
+      302,
+      304,
+      305,
+      306,
+      307
+    ],
+    "start_time": "2026-07-16 04:00:00",
+    "end_time": "2026-09-10 03:59:59",
+    "s_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_qianzimenghuan1_png.img_luopan_qianzimenghuan1_png'",
+    "big_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_SeasonIcon1_png.img_SeasonIcon1_png'",
+    "s_title_icon": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S3SeasonIntegration/Frames/img_biaoti_png.img_biaoti_png'",
+    "lobby_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_luopan_qianzimenghuan_png.img_luopan_qianzimenghuan_png'",
+    "handbook_photo_icon": "PaperSprite'/Game/NewRoco/Modules/System/ShareUI/Raw/Frames/img_IconS3_png.img_IconS3_png'",
+    "s_title": "S3赛季",
+    "s_title_subtitle": "铅字幻梦",
+    "umg_part": "UMG_S3_SeasonIntegrationPanel",
+    "bgm_state": "Seasons_S3",
+    "pv_id": 57,
+    "popup_path": "UMG_S3_SeasonalCelebration_Tips",
+    "season_pve_id": 2400003,
+    "season_tips_id": 3,
+    "season_adventure": 103,
+    "season_start_task": [
+      70025001,
+      56002
+    ],
+    "season_task_paragraph": [
+      70021,
+      70026,
+      70027,
+      70028,
+      70029
+    ],
+    "focus_group": [
+      {
+        "focus_umg_id": 301,
+        "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S3/UMG_S3_LegendaryJini.UMG_S3_LegendaryJini_C'",
+        "option_name": "下一页",
+        "option_skip_type": 1
+      },
+      {
+        "focus_umg_id": 302,
+        "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S3/UMG_S3_NewGameplay.UMG_S3_NewGameplay_C'",
+        "option_name": "下一页",
+        "option_skip_type": 1
+      },
+      {
+        "focus_umg_id": 304,
+        "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S3/UMG_S3_Decor.UMG_S3_Decor_C'",
+        "option_name": "下一页",
+        "option_skip_type": 1
+      },
+      {
+        "focus_umg_id": 303,
+        "focus_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/SeasonIntegration/Res/S3/UMG_S3_BattlePass.UMG_S3_BattlePass_C'",
+        "option_name": "前往选择",
+        "option_skip_type": 2,
+        "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity",
+        "finish_click_redpoint": 301
+      }
+    ],
+    "season_skill_ui": "PrimaryDataAsset'/Game/NewRoco/Modules/System/PVPQualifier/Res/SeasonSkill/PDA_SeasonSkillUiConfiguration_S3.PDA_SeasonSkillUiConfiguration_S3'",
+    "mutation_tips_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Season/img_S3saiji.img_S3saiji'",
+    "mutation_tips_text": "<span color=\"#1e1f21\">于铅字幻梦赛季相遇</>"
   }
 ]

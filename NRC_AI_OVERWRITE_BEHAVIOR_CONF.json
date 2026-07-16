@@ -1393,19 +1393,9 @@
       {},
       {},
       {
-        "editor_name": "被好战球捕捉",
-        "state_in_cond_id": 23108,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2305629,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {
-        "editor_name": "被好战球捕捉",
-        "state_in_cond_id": 23108,
-        "behavior_id": 2306203,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -3658,7 +3648,15 @@
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309883,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
       {}
     ]
   },
@@ -4167,7 +4165,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2308872,
+        "behavior_id": 2308802,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 186,
@@ -4176,7 +4174,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2308873,
+        "behavior_id": 2308803,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -4187,7 +4185,7 @@
       {
         "editor_name": "幽冥眼远处投掷",
         "state_in_cond_id": 38010,
-        "behavior_id": 2308874,
+        "behavior_id": 2308804,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 186,
@@ -4197,7 +4195,7 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2308910,
+        "behavior_id": 2308805,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
@@ -4207,7 +4205,7 @@
       {
         "editor_name": "被暗星球捕捉",
         "state_in_cond_id": 23111,
-        "behavior_id": 2308911,
+        "behavior_id": 2308806,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -4523,8 +4521,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被好战球捕捉",
-        "state_in_cond_id": 23108,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2306204,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -4729,13 +4727,7 @@
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "被系别球捕捉",
-        "state_in_cond_id": 23109,
-        "behavior_id": 2305632,
-        "state_out_cond_id": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {
         "editor_name": "趔趄复写",
@@ -4761,10 +4753,8 @@
         "behavior_id": 2305689,
         "state_out_cond_id": 1,
         "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {}
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -4787,13 +4777,7 @@
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "被系别球捕捉",
-        "state_in_cond_id": 23109,
-        "behavior_id": 2305633,
-        "state_out_cond_id": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {
         "overwrite_group_behavior": true
       },
@@ -4813,10 +4797,8 @@
         "behavior_id": 2305690,
         "state_out_cond_id": 1,
         "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {}
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -4848,13 +4830,7 @@
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "被系别球捕捉",
-        "state_in_cond_id": 23109,
-        "behavior_id": 2305634,
-        "state_out_cond_id": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {
         "editor_name": "三阶四阶星星魔法击中",
@@ -4884,10 +4860,8 @@
         "behavior_id": 2305691,
         "state_out_cond_id": 1,
         "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {}
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -5055,7 +5029,7 @@
         "behavior_id": 2301989,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 185,
         "overwrite_group_behavior": true
       },
       {
@@ -5073,10 +5047,12 @@
         "overwrite_group_behavior": true
       },
       {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
+        "editor_name": "风场赋能",
+        "state_in_cond_id": 53043,
         "behavior_id": 2301991,
         "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {},
@@ -5087,9 +5063,19 @@
         "state_in_cond_id": 23112,
         "behavior_id": 2301992,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被网兜球捕捉",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309624,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -5120,10 +5106,12 @@
         "overwrite_group_behavior": true
       },
       {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
+        "editor_name": "风场赋能",
+        "state_in_cond_id": 53043,
         "behavior_id": 2306382,
         "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {},
@@ -5134,9 +5122,19 @@
         "state_in_cond_id": 23112,
         "behavior_id": 2306383,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被网兜球捕捉",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309623,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -5167,10 +5165,12 @@
         "overwrite_group_behavior": true
       },
       {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
+        "editor_name": "风场赋能",
+        "state_in_cond_id": 53043,
         "behavior_id": 2306400,
         "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {},
@@ -5181,9 +5181,19 @@
         "state_in_cond_id": 23112,
         "behavior_id": 2306401,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被网兜球捕捉",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309625,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -5958,8 +5968,8 @@
       },
       {},
       {
-        "editor_name": "被美妙球捕捉",
-        "state_in_cond_id": 23107,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2305692,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -6039,8 +6049,8 @@
       },
       {},
       {
-        "editor_name": "被美妙球捕捉",
-        "state_in_cond_id": 23107,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2305693,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -6122,8 +6132,8 @@
       },
       {},
       {
-        "editor_name": "被美妙球捕捉",
-        "state_in_cond_id": 23107,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2305694,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -7422,7 +7432,15 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309723,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -7466,7 +7484,15 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309724,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -8003,16 +8029,6 @@
         "editor_name": "被淘沙球捕捉",
         "state_in_cond_id": 23114,
         "behavior_id": 2306721,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
-      },
-      {
-        "editor_name": "被绝缘球捕捉",
-        "state_in_cond_id": 23113,
-        "behavior_id": 2306642,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -10600,8 +10616,24 @@
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309415,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309599,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -10636,8 +10668,24 @@
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309617,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309901,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -10666,8 +10714,24 @@
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309902,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309903,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -11453,7 +11517,7 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2306964,
+        "behavior_id": 2309531,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 186,
@@ -11465,7 +11529,7 @@
       {
         "editor_name": "被绝缘球捕捉",
         "state_in_cond_id": 23113,
-        "behavior_id": 2306965,
+        "behavior_id": 2309532,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -11475,7 +11539,7 @@
       {
         "editor_name": "被变幻球捕捉",
         "state_in_cond_id": 23115,
-        "behavior_id": 2306966,
+        "behavior_id": 2309533,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -12830,7 +12894,16 @@
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "被美妙球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2305633,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
       {}
     ]
   },
@@ -12840,7 +12913,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302796,
+        "behavior_id": 2309772,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -12849,7 +12922,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304084,
+        "behavior_id": 2309773,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -12863,14 +12936,23 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303440,
+        "behavior_id": 2309774,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "被美妙球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2305634,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
       {}
     ]
   },
@@ -13124,8 +13206,8 @@
           4,
           3,
           2,
-          8,
-          1
+          1,
+          8
         ],
         "behavior_id": 2302802,
         "state_out_cond_id": 1,
@@ -14572,7 +14654,15 @@
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2801584,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
       {}
     ]
   },
@@ -14584,8 +14674,8 @@
         "state_in_cond_id": 3,
         "behavior_id": 2302831,
         "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "state_out_return_num": 187,
+        "state_out_return_type": 2,
+        "state_out_return_num": 25,
         "overwrite_group_behavior": true
       },
       {
@@ -14604,10 +14694,12 @@
       {},
       {},
       {
-        "editor_name": "被光合球捕捉",
-        "state_in_cond_id": 23109,
+        "editor_name": "被暗星球捕捉",
+        "state_in_cond_id": 23111,
         "behavior_id": 2305676,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
       {}
@@ -14656,8 +14748,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被光合球捕捉",
-        "state_in_cond_id": 23109,
+        "editor_name": "被网兜球捕捉",
+        "state_in_cond_id": 23110,
         "behavior_id": 2306269,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -14710,8 +14802,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被光合球捕捉",
-        "state_in_cond_id": 23109,
+        "editor_name": "被网兜球捕捉",
+        "state_in_cond_id": 23110,
         "behavior_id": 2306270,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -15458,7 +15550,7 @@
         "behavior_id": 2302848,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 185,
         "overwrite_group_behavior": true
       },
       {
@@ -15482,15 +15574,7 @@
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "骑乘冲刺",
-        "state_in_cond_id": 30067,
-        "behavior_id": 3008776,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {},
       {
@@ -15502,7 +15586,14 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被调温球捕捉",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309620,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -15632,7 +15723,7 @@
         "behavior_id": 2302851,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 185,
         "overwrite_group_behavior": true
       },
       {
@@ -15656,28 +15747,8 @@
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "骑乘冲刺",
-        "state_in_cond_id": 30067,
-        "behavior_id": 3008774,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
-      {
-        "editor_name": "亲近时变身",
-        "state_in_cond_id": 30110,
-        "overwrite_state": [
-          8
-        ],
-        "behavior_id": 3008860,
-        "state_out_cond_id": 30111,
-        "state_out_return_type": 2,
-        "state_out_return_num": 184,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {},
       {
         "editor_name": "被光合球捕捉",
@@ -15688,7 +15759,14 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被调温球捕捉",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309621,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -15851,7 +15929,7 @@
         "behavior_id": 2302854,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 185,
         "overwrite_group_behavior": true
       },
       {
@@ -15876,19 +15954,7 @@
         "overwrite_group_behavior": true
       },
       {},
-      {
-        "editor_name": "亲近时变身",
-        "state_in_cond_id": 30110,
-        "overwrite_state": [
-          8
-        ],
-        "behavior_id": 3008800,
-        "state_out_cond_id": 30111,
-        "state_out_return_type": 2,
-        "state_out_return_num": 184,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {
         "editor_name": "被光合球捕捉",
@@ -15899,7 +15965,14 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被调温球捕捉",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309622,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -16606,7 +16679,7 @@
         "state_in_cond_id": 3,
         "behavior_id": 2307023,
         "state_out_cond_id": 1,
-        "state_out_return_type": 2,
+        "state_out_return_type": 1,
         "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
@@ -16649,8 +16722,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被美妙球捕捉",
-        "state_in_cond_id": 23107,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2307028,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -16668,7 +16741,6 @@
         "state_in_cond_id": 3,
         "behavior_id": 2302867,
         "state_out_cond_id": 1,
-        "state_out_return_type": 2,
         "state_out_return_num": 187,
         "overwrite_group_behavior": true
       },
@@ -17348,36 +17420,134 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302880,
+        "behavior_id": 2309643,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 25,
+        "state_out_return_num": 187,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "驱散复写",
-        "state_in_cond_id": 2,
-        "behavior_id": 2304168,
+        "state_in_cond_id": 44,
+        "behavior_id": 2309644,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
+      {},
+      {},
       {
-        "editor_name": "发生投掷捕捉_敌对精灵",
-        "state_in_cond_id": 81,
-        "behavior_id": 3009064,
-        "state_out_cond_id": 13,
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309645,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309662,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3322,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309205,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309206,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309207,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309646,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3323,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309661,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309664,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309665,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309666,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
       {
-        "overwrite_group_behavior": true
-      },
-      {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
-        "behavior_id": 2303524,
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309667,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       }
     ]
@@ -17423,7 +17593,15 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309726,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -17467,7 +17645,15 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309727,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -17511,7 +17697,15 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309728,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -17773,6 +17967,138 @@
     ]
   },
   {
+    "id": 3341,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309237,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309238,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309239,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309528,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3342,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309253,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309254,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309255,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309529,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3343,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309221,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309222,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309223,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309530,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
     "id": 3344,
     "behavior_group": [
       {
@@ -17916,7 +18242,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302891,
+        "behavior_id": 2309878,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -17925,7 +18251,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304179,
+        "behavior_id": 2309879,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -17935,15 +18261,31 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303535,
+        "behavior_id": 2309880,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309881,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309882,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -17952,7 +18294,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302892,
+        "behavior_id": 2309860,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -17961,7 +18303,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304180,
+        "behavior_id": 2309861,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -17971,15 +18313,86 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303536,
+        "behavior_id": 2309862,
         "state_out_cond_id": 1,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309863,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309864,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3349,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309381,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309382,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
       {},
-      {}
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309383,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 186,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309851,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309852,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -18087,7 +18500,15 @@
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309835,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
       {}
     ]
   },
@@ -18097,7 +18518,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302895,
+        "behavior_id": 2309392,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -18106,7 +18527,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304183,
+        "behavior_id": 2309393,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -18120,14 +18541,70 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303539,
+        "behavior_id": 2309394,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309395,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3353,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309844,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309845,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309846,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
       {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2309847,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
       {}
     ]
   },
@@ -18472,8 +18949,140 @@
       {},
       {},
       {},
-      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801569,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
       {}
+    ]
+  },
+  {
+    "id": 3361,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801506,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 10,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801507,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 10,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801508,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 10,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "骑乘冲刺",
+        "state_in_cond_id": 30067,
+        "behavior_id": 2801509,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801510,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2801567,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3362,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801524,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 10,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801525,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801526,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "骑乘冲刺",
+        "state_in_cond_id": 30067,
+        "behavior_id": 2801527,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "被美妙球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801528,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2801568,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -20281,12 +20890,12 @@
     ]
   },
   {
-    "id": 3403,
+    "id": 3402,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302928,
+        "behavior_id": 2309413,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -20295,29 +20904,83 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304216,
+        "behavior_id": 2309414,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
-        "behavior_id": 2303572,
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309588,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309589,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3403,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309597,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309598,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
       {},
-      {}
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309600,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309601,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -20326,7 +20989,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302929,
+        "behavior_id": 2309615,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -20335,29 +20998,36 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304217,
+        "behavior_id": 2309616,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
       {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "editor_name": "趔趄复写",
-        "state_in_cond_id": 4,
-        "behavior_id": 2303573,
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2309618,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {},
-      {},
-      {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309619,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -22010,7 +22680,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302964,
+        "behavior_id": 2309711,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -22019,7 +22689,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304252,
+        "behavior_id": 2309712,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -22029,14 +22699,14 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303608,
+        "behavior_id": 2309713,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "骑乘冲刺",
         "state_in_cond_id": 30067,
-        "behavior_id": 3008808,
+        "behavior_id": 2309714,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -22047,7 +22717,7 @@
       {
         "editor_name": "被暗星球捕捉",
         "state_in_cond_id": 23111,
-        "behavior_id": 2306311,
+        "behavior_id": 2309715,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -22063,7 +22733,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302965,
+        "behavior_id": 2309679,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -22072,42 +22742,46 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304253,
+        "behavior_id": 2309680,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
-      {},
-      {},
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303609,
+        "behavior_id": 2309681,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "骑乘冲刺",
-        "state_in_cond_id": 30067,
-        "behavior_id": 3008809,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {},
       {
         "editor_name": "被暗星球捕捉",
         "state_in_cond_id": 23111,
-        "behavior_id": 2306312,
+        "behavior_id": 2309682,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309759,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -22116,7 +22790,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2302966,
+        "behavior_id": 2309693,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -22125,42 +22799,46 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2304254,
+        "behavior_id": 2309694,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
-      {},
-      {},
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2303610,
+        "behavior_id": 2309695,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "editor_name": "骑乘冲刺",
-        "state_in_cond_id": 30067,
-        "behavior_id": 3008756,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true
-      },
+      {},
       {},
       {},
       {
         "editor_name": "被暗星球捕捉",
         "state_in_cond_id": 23111,
-        "behavior_id": 2306313,
+        "behavior_id": 2309696,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       },
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309760,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -22580,6 +23258,7 @@
         "state_in_cond_id": 2,
         "behavior_id": 2304263,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
@@ -22594,13 +23273,31 @@
         "state_in_cond_id": 4,
         "behavior_id": 2303619,
         "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
         "overwrite_group_behavior": true
       },
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309904,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2306203,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -22981,7 +23678,13 @@
         "overwrite_group_behavior": true
       },
       {},
-      {},
+      {
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2309729,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
       {
         "editor_name": "被网兜球捕捉",
         "state_in_cond_id": 23110,
@@ -25288,8 +25991,8 @@
       },
       {},
       {
-        "editor_name": "被网兜球捕捉",
-        "state_in_cond_id": 23110,
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23115,
         "behavior_id": 2305776,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
@@ -25988,8 +26691,24 @@
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2801593,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801594,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -26028,8 +26747,24 @@
       {},
       {},
       {},
-      {},
-      {}
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23113,
+        "behavior_id": 2801595,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801596,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {
@@ -26749,6 +27484,152 @@
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
+    "id": 3591,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801458,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801459,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801460,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2801578,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3592,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801474,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801475,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801476,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2801580,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3593,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801490,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2801491,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801492,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2801581,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23108,
+        "behavior_id": 2801583,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -28182,7 +29063,16 @@
       },
       {},
       {},
-      {},
+      {
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2309736,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
       {}
     ]
   },
@@ -28192,16 +29082,16 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 5000412,
+        "behavior_id": 2309750,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 184,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 5000413,
+        "behavior_id": 2309751,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -28211,14 +29101,14 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 5000414,
+        "behavior_id": 2309752,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "骑乘冲刺",
         "state_in_cond_id": 30067,
-        "behavior_id": 3008794,
+        "behavior_id": 2309753,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -28226,7 +29116,16 @@
       },
       {},
       {},
-      {},
+      {
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2309754,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
       {}
     ]
   },
@@ -28433,7 +29332,7 @@
     "behavior_group": [
       {
         "editor_name": "击晕复写",
-        "state_in_cond_id": 23209,
+        "state_in_cond_id": 23210,
         "behavior_id": 2306104,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
@@ -28450,8 +29349,8 @@
       },
       {
         "editor_name": "新的覆写",
-        "state_in_cond_id": 23210,
-        "behavior_id": 2309012,
+        "state_in_cond_id": 23211,
+        "behavior_id": 2309027,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -28497,6 +29396,190 @@
         "overwrite_priority": 3,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
+    "id": 3665,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309429,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309430,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309431,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 3666,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309445,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309446,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309447,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 3675,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801426,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801427,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801428,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801585,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2801586,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3676,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801442,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801443,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801444,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801587,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2801588,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -28747,6 +29830,178 @@
     ]
   },
   {
+    "id": 3697,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          8
+        ],
+        "behavior_id": 2308997,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ],
+        "behavior_id": 2308998,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ],
+        "behavior_id": 2308999,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2309000,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被好战球捕捉",
+        "state_in_cond_id": 23108,
+        "behavior_id": 2309019,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
+    "id": 3698,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1,
+          8
+        ],
+        "behavior_id": 2801269,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ],
+        "behavior_id": 2801270,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "overwrite_state": [
+          7,
+          6,
+          5,
+          4,
+          3,
+          2,
+          1
+        ],
+        "behavior_id": 2801271,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被变幻球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2801272,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被好战球捕捉",
+        "state_in_cond_id": 23108,
+        "behavior_id": 2801273,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
     "id": 3704,
     "behavior_group": [
       {
@@ -28882,6 +30137,118 @@
     ]
   },
   {
+    "id": 3706,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801330,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801331,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801332,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2801589,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801590,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3707,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801346,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801347,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801348,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23111,
+        "behavior_id": 2801591,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801592,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
     "id": 3708,
     "behavior_group": [
       {
@@ -28989,6 +30356,194 @@
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
       }
+    ]
+  },
+  {
+    "id": 3710,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801362,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801363,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801364,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2801570,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3711,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801378,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801379,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801380,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2801571,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3718,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801394,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801395,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801396,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2801572,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3719,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801410,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801411,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801412,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2801573,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
     ]
   },
   {
@@ -29410,8 +30965,8 @@
       {},
       {},
       {
-        "editor_name": "被网兜球捕捉",
-        "state_in_cond_id": 23110,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2303013,
         "state_out_cond_id": 1,
         "overwrite_priority": 1,
@@ -29419,8 +30974,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被好战球捕捉",
-        "state_in_cond_id": 23108,
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
         "behavior_id": 2303668,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -29493,8 +31048,8 @@
       {},
       {},
       {
-        "editor_name": "被网兜球捕捉",
-        "state_in_cond_id": 23110,
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
         "behavior_id": 2305451,
         "state_out_cond_id": 1,
         "overwrite_priority": 1,
@@ -29502,8 +31057,8 @@
         "be_interrupted_by_same_prio": true
       },
       {
-        "editor_name": "被好战球捕捉",
-        "state_in_cond_id": 23108,
+        "editor_name": "被绝缘球捕捉",
+        "state_in_cond_id": 23113,
         "behavior_id": 2305480,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
@@ -29638,7 +31193,7 @@
     "behavior_group": [
       {
         "editor_name": "击晕复写",
-        "state_in_cond_id": 23209,
+        "state_in_cond_id": 23210,
         "behavior_id": 2308354,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
@@ -29655,11 +31210,10 @@
       },
       {
         "editor_name": "新的覆写",
-        "state_in_cond_id": 23210,
-        "behavior_id": 2309013,
+        "state_in_cond_id": 23211,
+        "behavior_id": 2309028,
         "state_out_cond_id": 1,
-        "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_type": 1,
         "overwrite_group_behavior": true
       },
       {
@@ -29784,6 +31338,741 @@
         "editor_name": "被调温球捕捉",
         "state_in_cond_id": 23112,
         "behavior_id": 2306513,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3747,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23268,
+        "behavior_id": 2309269,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309270,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309271,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被好战球捕捉",
+        "state_in_cond_id": 23108,
+        "behavior_id": 2306962,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被美妙球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2306964,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
+    "id": 3748,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23268,
+        "behavior_id": 2309285,
+        "state_out_cond_id": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309286,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 23269,
+        "behavior_id": 2309287,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23284,
+        "behavior_id": 2309888,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "被好战球捕捉",
+        "state_in_cond_id": 23108,
+        "behavior_id": 2306963,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被美妙球捕捉",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2306965,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23270,
+        "behavior_id": 2309730,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23271,
+        "behavior_id": 2309731,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3749,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309301,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309302,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309303,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309761,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3750,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309317,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309318,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309319,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309320,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3751,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309334,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309335,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309762,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309763,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3752,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309349,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309350,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309351,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2309784,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309785,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3753,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309365,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309366,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309367,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2309786,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309787,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3754,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309461,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309462,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309463,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309820,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3755,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309477,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309478,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309479,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309821,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23279,
+        "overwrite_state": [
+          8
+        ],
+        "behavior_id": 2309827,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3756,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309493,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309494,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309495,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2309822,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23278,
+        "behavior_id": 2309823,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3757,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309509,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309510,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309511,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2309716,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3758,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309525,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309526,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309527,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23107,
+        "behavior_id": 2309905,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 3759,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801298,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801299,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801300,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801574,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2801575,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 3760,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2801314,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2801315,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2801316,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2801576,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23112,
+        "behavior_id": 2801577,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -30045,7 +32334,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308898,
+        "behavior_id": 2308829,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30058,7 +32347,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308899,
+        "behavior_id": 2308830,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30071,9 +32360,43 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308900,
+        "behavior_id": 2308831,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5078,
+    "behavior_group": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "editor_name": "风场赋能",
+        "state_in_cond_id": 53043,
+        "behavior_id": 2309626,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5079,
+    "behavior_group": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "editor_name": "风场赋能",
+        "state_in_cond_id": 53043,
+        "behavior_id": 2309627,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 73,
         "overwrite_group_behavior": true
       }
     ]
@@ -30112,7 +32435,7 @@
           6,
           5
         ],
-        "behavior_id": 2306963,
+        "behavior_id": 2309756,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 55,
@@ -30136,7 +32459,7 @@
           6,
           5
         ],
-        "behavior_id": 2309024,
+        "behavior_id": 2309758,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 55,
@@ -30151,7 +32474,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308901,
+        "behavior_id": 2308847,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30164,7 +32487,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308904,
+        "behavior_id": 2308857,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30177,7 +32500,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308907,
+        "behavior_id": 2308867,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30190,7 +32513,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308902,
+        "behavior_id": 2308833,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30203,7 +32526,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308905,
+        "behavior_id": 2308836,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30216,7 +32539,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308908,
+        "behavior_id": 2308839,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30229,7 +32552,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308903,
+        "behavior_id": 2308834,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30242,7 +32565,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308906,
+        "behavior_id": 2308837,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30255,39 +32578,7 @@
       {
         "editor_name": "新的覆写",
         "state_in_cond_id": 23202,
-        "behavior_id": 2308909,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_group_behavior": true
-      }
-    ]
-  },
-  {
-    "id": 5405,
-    "behavior_group": [
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 43,
-        "overwrite_state": [
-          3
-        ],
-        "behavior_id": 2308897,
-        "state_out_cond_id": 1,
-        "state_out_return_type": 1,
-        "overwrite_group_behavior": true
-      }
-    ]
-  },
-  {
-    "id": 5482,
-    "behavior_group": [
-      {
-        "editor_name": "新的覆写",
-        "state_in_cond_id": 43,
-        "overwrite_state": [
-          3
-        ],
-        "behavior_id": 2307097,
+        "behavior_id": 2308840,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_group_behavior": true
@@ -30372,6 +32663,68 @@
         "state_out_return_type": 1,
         "state_out_return_num": 183,
         "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5743,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23268,
+        "behavior_id": 2306966,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 5744,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23268,
+        "behavior_id": 2309889,
+        "state_out_cond_id": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 23269,
+        "behavior_id": 2309890,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23270,
+        "behavior_id": 2309892,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23271,
+        "behavior_id": 2309893,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_group_behavior": true
       }
     ]
@@ -31489,21 +33842,47 @@
     ]
   },
   {
-    "id": 10058,
+    "id": 10083,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308460,
+        "behavior_id": 2309046,
+        "state_out_cond_id": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309047,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309048,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ]
+  },
+  {
+    "id": 10084,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309062,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -31512,146 +33891,60 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308461,
+        "behavior_id": 2309063,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308462,
+        "behavior_id": 2309064,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308463,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10059,
+    "id": 10085,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308477,
+        "behavior_id": 2309078,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
-        "state_out_return_num": 187,
+        "state_out_return_num": 186,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308478,
+        "behavior_id": 2309079,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308479,
+        "behavior_id": 2309080,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308480,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10060,
+    "id": 10086,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308494,
+        "behavior_id": 2309094,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -31660,72 +33953,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308495,
+        "behavior_id": 2309095,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308496,
+        "behavior_id": 2309096,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308497,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10061,
+    "id": 10087,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308511,
+        "behavior_id": 2309110,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -31734,95 +33984,54 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308512,
+        "behavior_id": 2309111,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308513,
+        "behavior_id": 2309112,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308514,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10062,
+    "id": 10089,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308528,
+        "behavior_id": 2309139,
         "state_out_cond_id": 1,
-        "state_out_return_type": 2,
+        "state_out_return_type": 1,
         "state_out_return_num": 187,
         "overwrite_group_behavior": true
       },
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308529,
+        "behavior_id": 2309140,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
       },
       {
+        "editor_name": "【捕尘长绒】主动清扫落点",
+        "state_in_cond_id": 26,
+        "overwrite_state": [
+          6,
+          8
+        ],
+        "behavior_id": 2309141,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "state_out_return_num": 183,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
       {
@@ -31831,16 +34040,7 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308530,
+        "behavior_id": 2309142,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
@@ -31848,32 +34048,56 @@
       {},
       {},
       {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308531,
+        "editor_name": "被淘沙球捕捉",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309143,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
+      },
+      {}
+    ]
+  },
+  {
+    "id": 10096,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309941,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309942,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309943,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
   {
-    "id": 10063,
+    "id": 10097,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308545,
+        "behavior_id": 2309989,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -31882,72 +34106,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308546,
+        "behavior_id": 2309990,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308547,
+        "behavior_id": 2309991,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308548,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10064,
+    "id": 10098,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308562,
+        "behavior_id": 2310037,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -31956,72 +34137,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308563,
+        "behavior_id": 2310038,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308564,
+        "behavior_id": 2310039,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308565,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10065,
+    "id": 10099,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308579,
+        "behavior_id": 2310085,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32030,72 +34168,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308580,
+        "behavior_id": 2310086,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308581,
+        "behavior_id": 2310087,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308582,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10066,
+    "id": 10100,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308596,
+        "behavior_id": 2309957,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32104,72 +34199,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308597,
+        "behavior_id": 2309958,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308598,
+        "behavior_id": 2309959,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308599,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10068,
+    "id": 10101,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308630,
+        "behavior_id": 2310005,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32178,72 +34230,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308631,
+        "behavior_id": 2310006,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308632,
+        "behavior_id": 2310007,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308633,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10069,
+    "id": 10102,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308647,
+        "behavior_id": 2310053,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32252,72 +34261,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308648,
+        "behavior_id": 2310054,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308649,
+        "behavior_id": 2310055,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308650,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10070,
+    "id": 10103,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308664,
+        "behavior_id": 2310101,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32326,72 +34292,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308665,
+        "behavior_id": 2310102,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308666,
+        "behavior_id": 2310103,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308667,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10071,
+    "id": 10104,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308683,
+        "behavior_id": 2309973,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32400,72 +34323,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308684,
+        "behavior_id": 2309974,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308685,
+        "behavior_id": 2309975,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308686,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10072,
+    "id": 10105,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308700,
+        "behavior_id": 2310021,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32474,72 +34354,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308701,
+        "behavior_id": 2310022,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308702,
+        "behavior_id": 2310023,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308703,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10073,
+    "id": 10106,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308717,
+        "behavior_id": 2310069,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32548,72 +34385,29 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308718,
+        "behavior_id": 2310070,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308719,
+        "behavior_id": 2310071,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308720,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
   {
-    "id": 10074,
+    "id": 10107,
     "behavior_group": [
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "overwrite_state": [
-          5,
-          6,
-          4,
-          3,
-          2,
-          1,
-          7
-        ],
-        "behavior_id": 2308734,
+        "behavior_id": 2310117,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
@@ -32622,53 +34416,19 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          7,
-          6
-        ],
-        "behavior_id": 2308735,
+        "behavior_id": 2310118,
         "state_out_cond_id": 1,
-        "overwrite_priority": 2,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       },
-      {
-        "overwrite_group_behavior": true
-      },
-      {
-        "overwrite_group_behavior": true
-      },
+      {},
+      {},
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "overwrite_state": [
-          1,
-          2,
-          3,
-          4,
-          5,
-          6,
-          7
-        ],
-        "behavior_id": 2308736,
+        "behavior_id": 2310119,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
-      },
-      {},
-      {},
-      {},
-      {
-        "editor_name": "被变幻球捕捉",
-        "state_in_cond_id": 23115,
-        "behavior_id": 2308737,
-        "state_out_cond_id": 1,
-        "overwrite_priority": 1,
-        "overwrite_group_behavior": true,
-        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -33975,6 +35735,25 @@
         "state_out_cond_id": 53056,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "风滚暮虫命中特殊物",
+        "state_in_cond_id": 12028,
+        "overwrite_state": [
+          1,
+          9,
+          16,
+          17,
+          18
+        ],
+        "behavior_id": 5700215,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
       }
     ]
   },
@@ -34513,6 +36292,19 @@
     ]
   },
   {
+    "id": 30045,
+    "behavior_group": [
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 2,
+        "behavior_id": 5700229,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
     "id": 2000056,
     "behavior_group": [
       {
@@ -34547,6 +36339,21 @@
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被淘沙球捕捉",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2306642,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -34629,6 +36436,35 @@
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 44,
+        "behavior_id": 2309663,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309926,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2309927,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
         "overwrite_group_behavior": true
       }
     ]
@@ -35089,6 +36925,19 @@
         "behavior_id": 2303025,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被淘沙球捕捉",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309725,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
       }
     ]
   },
@@ -35430,15 +37279,15 @@
       {},
       {},
       {
-        "editor_name": "被光合球捕捉",
+        "editor_name": "新的覆写",
         "state_in_cond_id": 23109,
         "behavior_id": 2308428,
         "state_out_cond_id": 1,
+        "state_out_return_type": 1,
         "overwrite_priority": 1,
         "overwrite_group_behavior": true,
         "be_interrupted_by_same_prio": true
-      },
-      {}
+      }
     ]
   },
   {
@@ -35499,7 +37348,7 @@
       {
         "editor_name": "击晕复写",
         "state_in_cond_id": 3,
-        "behavior_id": 2308855,
+        "behavior_id": 2308786,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 186,
@@ -35508,7 +37357,7 @@
       {
         "editor_name": "驱散复写",
         "state_in_cond_id": 2,
-        "behavior_id": 2308856,
+        "behavior_id": 2308787,
         "state_out_cond_id": 1,
         "overwrite_priority": 2,
         "overwrite_group_behavior": true
@@ -35519,7 +37368,7 @@
       {
         "editor_name": "幽冥眼远处投掷",
         "state_in_cond_id": 38010,
-        "behavior_id": 2308857,
+        "behavior_id": 2308788,
         "state_out_cond_id": 1,
         "state_out_return_type": 2,
         "state_out_return_num": 186,
@@ -35529,7 +37378,7 @@
       {
         "editor_name": "趔趄复写",
         "state_in_cond_id": 4,
-        "behavior_id": 2308858,
+        "behavior_id": 2308789,
         "state_out_cond_id": 1,
         "overwrite_group_behavior": true
       },
@@ -35539,7 +37388,7 @@
       {
         "editor_name": "被暗星球捕捉",
         "state_in_cond_id": 23111,
-        "behavior_id": 2308859,
+        "behavior_id": 2308790,
         "state_out_cond_id": 1,
         "state_out_return_type": 1,
         "overwrite_priority": 1,
@@ -35547,6 +37396,171 @@
         "be_interrupted_by_same_prio": true
       },
       {}
+    ]
+  },
+  {
+    "id": 23000006,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23277,
+        "behavior_id": 2309802,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23276,
+        "behavior_id": 2309803,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 23000007,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 23277,
+        "behavior_id": 2309817,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23276,
+        "behavior_id": 2309818,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_group_behavior": true
+      }
+    ]
+  },
+  {
+    "id": 23000008,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2309921,
+        "state_out_cond_id": 1,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2309922,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2309923,
+        "state_out_cond_id": 1,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "被光合球捕捉",
+        "state_in_cond_id": 23109,
+        "behavior_id": 2309924,
+        "state_out_cond_id": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      },
+      {
+        "editor_name": "被淘沙球捕捉",
+        "state_in_cond_id": 23114,
+        "behavior_id": 2309925,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true,
+        "be_interrupted_by_same_prio": true
+      }
+    ]
+  },
+  {
+    "id": 23000009,
+    "behavior_group": [
+      {
+        "editor_name": "击晕复写",
+        "state_in_cond_id": 3,
+        "behavior_id": 2310133,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "驱散复写",
+        "state_in_cond_id": 2,
+        "behavior_id": 2310134,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 2,
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "趔趄复写",
+        "state_in_cond_id": 4,
+        "behavior_id": 2310135,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 2,
+        "state_out_return_num": 187,
+        "overwrite_group_behavior": true
+      },
+      {},
+      {},
+      {},
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23110,
+        "behavior_id": 2310136,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      },
+      {
+        "editor_name": "新的覆写",
+        "state_in_cond_id": 23115,
+        "behavior_id": 2310137,
+        "state_out_cond_id": 1,
+        "state_out_return_type": 1,
+        "overwrite_priority": 1,
+        "overwrite_group_behavior": true
+      }
     ]
   },
   {

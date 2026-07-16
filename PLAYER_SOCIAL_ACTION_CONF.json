@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "social_behanvior_type": 1,
+    "desc": "正在捕捉[{0}家族]",
+    "trigger_action_type": 1,
+    "is_skip_battle_period": true,
+    "satisfy_time": 120,
+    "satisfy_action_num": 4,
+    "cancel_time": 60,
+    "cancel_action_num": 1,
+    "list_sort": 1
+  },
+  {
+    "id": 2,
+    "social_behanvior_type": 2,
+    "desc": "正在捕捉精灵",
+    "trigger_action_type": 1,
+    "is_skip_battle_period": true,
+    "satisfy_time": 120,
+    "satisfy_action_num": 6,
+    "cancel_time": 60,
+    "cancel_action_num": 1,
+    "list_sort": 2
+  },
+  {
+    "id": 3,
+    "social_behanvior_type": 3,
+    "desc": "正在采集",
+    "trigger_action_type": 2,
+    "is_skip_battle_period": true,
+    "satisfy_time": 120,
+    "satisfy_action_num": 5,
+    "cancel_time": 60,
+    "cancel_action_num": 1,
+    "list_sort": 3
+  }
+]

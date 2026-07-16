@@ -153,6 +153,48 @@
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
+    "id": 14000003,
+    "is_pet": true,
+    "editor_name": "芽眼魔-守护地特殊3C用",
+    "time": -1,
+    "model_id": 14000003,
+    "which_bantype": 65,
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 14000005,
+    "is_pet": true,
+    "editor_name": "火巨人-剧情变形专用",
+    "time": -1,
+    "model_id": 14000005,
+    "which_bantype": 65,
+    "player_story_flag": 100024,
+    "idle_anim": "Alert;Happy;Relax;Show",
+    "kill_player_when_transfrom_fail": true
+  },
+  {
+    "id": 14000006,
+    "is_pet": true,
+    "editor_name": "森巨人-剧情变形专用",
+    "time": -1,
+    "model_id": 14000006,
+    "which_bantype": 65,
+    "player_story_flag": 100025,
+    "idle_anim": "Alert;Happy;Relax;Show",
+    "kill_player_when_transfrom_fail": true
+  },
+  {
+    "id": 14000007,
+    "is_pet": true,
+    "editor_name": "雪巨人-剧情变形专用",
+    "time": -1,
+    "model_id": 14000007,
+    "which_bantype": 65,
+    "player_story_flag": 100029,
+    "idle_anim": "Alert;Happy;Relax;Show",
+    "kill_player_when_transfrom_fail": true
+  },
+  {
     "id": 16000001,
     "is_pet": true,
     "editor_name": "B1迎新晚会-GP1-春团（走路版）",
@@ -198,6 +240,7 @@
     "id": 16000005,
     "editor_name": "gameliu_A2-1_可丽希亚",
     "time": -1,
+    "area_func_id": 201031457,
     "model_id": 10012,
     "use_confirm_panel": true,
     "which_bantype": 65,
@@ -207,6 +250,7 @@
     "id": 16000006,
     "editor_name": "gameliu_A2-1_菲尔特",
     "time": -1,
+    "area_func_id": 201031457,
     "model_id": 10011,
     "use_confirm_panel": true,
     "which_bantype": 65,
@@ -217,10 +261,20 @@
     "is_pet": true,
     "editor_name": "gameliu_A2-1_迪莫",
     "time": -1,
-    "model_id": 16000007,
+    "area_func_id": 201031457,
+    "model_id": 16000004,
     "use_confirm_panel": true,
     "which_bantype": 65,
     "player_story_flag": 100023,
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 16000009,
+    "is_pet": true,
+    "editor_name": "阿瓦鲨（虎纹鲨的样子）-变形用",
+    "time": -1,
+    "model_id": 16000009,
+    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -333,5 +387,47 @@
     "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Magic/G6_Magic_Player_Tranform_Revert.G6_Magic_Player_Tranform_Revert_C",
     "idle_anim": "Alert;Happy;Relax;Show",
     "exit_cancel_transformation": true
+  },
+  {
+    "id": 32000001,
+    "is_pet": true,
+    "editor_name": "喵喵",
+    "transform_group": 1001,
+    "time": 3600000,
+    "model_id": 32000001,
+    "which_bantype": 58,
+    "player_story_flag": 100026,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OA_Liquefy.G6_Scene_OA_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OA_Revert.G6_Scene_OA_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 32000002,
+    "is_pet": true,
+    "editor_name": "火花",
+    "transform_group": 1001,
+    "time": 3600000,
+    "model_id": 32000002,
+    "which_bantype": 58,
+    "player_story_flag": 100027,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAF_Liquefy.G6_Scene_OAF_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAF_Revert.G6_Scene_OAF_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 32000003,
+    "is_pet": true,
+    "editor_name": "水蓝蓝",
+    "transform_group": 1001,
+    "time": 3600000,
+    "model_id": 32000003,
+    "which_bantype": 58,
+    "player_story_flag": 100028,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAW_Liquefy.G6_Scene_OAW_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAW_Revert.G6_Scene_OAW_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
   }
 ]

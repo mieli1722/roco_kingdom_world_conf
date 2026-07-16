@@ -222,7 +222,7 @@
     "event_sub_type": 24,
     "bb_pos_name": "Global_Lightdrop",
     "spread_dis": [
-      1000
+      1500
     ],
     "percep_effect_val": [
       100
@@ -430,6 +430,18 @@
     ]
   },
   {
+    "id": 1000054,
+    "editor_name": "首领命中可交互场景物体",
+    "sense_event_type": 3,
+    "event_sub_type": 54
+  },
+  {
+    "id": 1000055,
+    "editor_name": "首领被召唤物技能命中",
+    "sense_event_type": 3,
+    "event_sub_type": 55
+  },
+  {
     "id": 1000059,
     "editor_name": "家园.精灵收到呼唤",
     "sense_event_type": 3,
@@ -559,6 +571,18 @@
     "sense_event_type": 3,
     "event_sub_type": 69,
     "bb_pos_name": "Global_RunAwayLoc"
+  },
+  {
+    "id": 1000071,
+    "editor_name": "DAWET_ROLEPLAY_MUSIC",
+    "sense_event_type": 3,
+    "event_sub_type": 71,
+    "spread_dis": [
+      0
+    ],
+    "percep_effect_val": [
+      100
+    ]
   },
   {
     "id": 2000003,
@@ -806,7 +830,7 @@
   },
   {
     "id": 4010077,
-    "editor_name": "魔法星星炸宠物",
+    "editor_name": "魔法星星炸精灵",
     "sense_event_type": 2,
     "event_sub_type": 10077,
     "bb_pos_name": "Global_Heavydrop"

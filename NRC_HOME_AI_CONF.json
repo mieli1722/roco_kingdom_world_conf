@@ -2705,5 +2705,162 @@
     "group_configuration_id": 280021,
     "group_event_id": 280218,
     "group_initiator_role_type": 103
+  },
+  {
+    "id": 28033,
+    "editor_name": "S3赛季魔法餐桌1",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7006,
+    "group_configuration_id": 280021,
+    "group_event_id": 280230,
+    "group_initiator_role_type": 7006
+  },
+  {
+    "id": 28034,
+    "editor_name": "S3赛季魔法餐桌2",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7006,
+    "group_configuration_id": 280021,
+    "group_event_id": 280231,
+    "group_initiator_role_type": 7006
+  },
+  {
+    "id": 28035,
+    "editor_name": "S3赛季魔法盆栽",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 14,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7007,
+    "group_configuration_id": 280021,
+    "group_event_id": 280232,
+    "group_initiator_role_type": 7007
+  },
+  {
+    "id": 28036,
+    "editor_name": "S3赛季魔法盆栽-飞行精灵休憩",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 14,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 32,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7007,
+    "group_configuration_id": 280021,
+    "group_event_id": 280235,
+    "group_initiator_role_type": 7007
+  },
+  {
+    "id": 28037,
+    "editor_name": "S3赛季魔法餐车",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 7,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7008,
+    "group_configuration_id": 280021,
+    "group_event_id": 280234,
+    "group_initiator_role_type": 7008
+  },
+  {
+    "id": 28038,
+    "editor_name": "S3赛季-宝藏小狐专属画框",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 16,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 119,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 18,
+    "fn_role_id": 7501,
+    "group_configuration_id": 280021,
+    "group_event_id": 280236,
+    "group_initiator_role_type": 7501
   }
 ]

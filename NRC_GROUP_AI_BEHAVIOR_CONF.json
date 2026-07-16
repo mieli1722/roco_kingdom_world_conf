@@ -1511,7 +1511,7 @@
     "editor_name": "好斗-好斗",
     "behavior_type": 4,
     "behavior_ids": [
-      2308922
+      2308878
     ],
     "exec_type": 9
   },
@@ -1691,8 +1691,8 @@
     "editor_name": "好斗-好斗_起手",
     "behavior_type": 6,
     "behavior_ids": [
-      2308923,
-      2308924
+      2308879,
+      2308880
     ],
     "exec_type": 9
   },
@@ -1876,8 +1876,8 @@
       2
     ],
     "behavior_ids": [
-      2308668,
-      2308669
+      2308629,
+      2308630
     ],
     "exec_type": 9
   },
@@ -1893,11 +1893,11 @@
       5
     ],
     "behavior_ids": [
-      2308738,
-      2308739,
-      2308740,
-      2308741,
-      2308742
+      2308670,
+      2308671,
+      2308672,
+      2308673,
+      2308674
     ],
     "exec_type": 9
   },
@@ -1906,7 +1906,7 @@
     "editor_name": "赛季大厅巡游召集",
     "behavior_type": 4,
     "behavior_ids": [
-      2308834
+      2308753
     ],
     "exec_type": 9
   },
@@ -1921,10 +1921,10 @@
       5
     ],
     "behavior_ids": [
-      2308835,
-      2308836,
-      2308837,
-      2308839
+      2308754,
+      2308755,
+      2308756,
+      2308757
     ],
     "exec_type": 9
   },
@@ -1963,8 +1963,8 @@
     "editor_name": "友好-友好/胆小-开始",
     "behavior_type": 6,
     "behavior_ids": [
-      2308363,
-      2308613
+      2309020,
+      2309021
     ],
     "exec_type": 9
   },
@@ -1973,8 +1973,8 @@
     "editor_name": "友好-友好/胆小-途中",
     "behavior_type": 6,
     "behavior_ids": [
-      2308614,
-      2308615
+      2309023,
+      2309024
     ],
     "exec_type": 9
   },
@@ -1983,8 +1983,365 @@
     "editor_name": "友好-友好/胆小-结束",
     "behavior_type": 6,
     "behavior_ids": [
-      2308616,
-      2309011
+      2309025,
+      2309026
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230046,
+    "editor_name": "【群落】紧密跟随首领_2阶",
+    "behavior_type": 5,
+    "extra_params": [
+      3,
+      1
+    ],
+    "behavior_ids": [
+      2309631,
+      2309632
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230047,
+    "editor_name": "【群落】紧密跟随首领_3阶",
+    "behavior_type": 5,
+    "extra_params": [
+      2,
+      3,
+      1
+    ],
+    "behavior_ids": [
+      2309628,
+      2309629,
+      2309630
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230048,
+    "editor_name": "【群落】蝙蝠出击",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309668
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230049,
+    "editor_name": "【群落】蝙蝠巡航",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309669
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230050,
+    "editor_name": "【世界梦游】异地世界催眠",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2302966
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230051,
+    "editor_name": "【珀尔鼬】大扫除",
+    "behavior_type": 5,
+    "extra_params": [
+      4,
+      5,
+      11,
+      8,
+      9,
+      10
+    ],
+    "behavior_ids": [
+      2309717,
+      2309719,
+      2309721,
+      2309718,
+      2309720,
+      2309722
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230052,
+    "editor_name": "【跟随】首领化抵抗野外攻击",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309732
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230053,
+    "editor_name": "莫比乌乌的召唤对象",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309733
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230054,
+    "editor_name": "吹飞精灵",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309734
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230055,
+    "editor_name": "被钟表吓到",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309735
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230056,
+    "editor_name": "【群落】森巨人仪式",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309764
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230057,
+    "editor_name": "【群落】森巨人仪式_开心",
+    "behavior_type": 5,
+    "extra_params": [
+      2,
+      3
+    ],
+    "behavior_ids": [
+      2309765,
+      2309766
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230058,
+    "editor_name": "【群落】森巨人仪式_失落",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309767
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230059,
+    "editor_name": "【群落】友爱线性飞行",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309768
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230060,
+    "editor_name": "【骑乘】抵抗野外攻击-友爱",
+    "behavior_type": 6,
+    "behavior_ids": [
+      2309769,
+      3006598
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230061,
+    "editor_name": "【骑乘】友爱抵抗野外攻击-攻击中",
+    "behavior_type": 6,
+    "behavior_ids": [
+      2309769,
+      2309771
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230062,
+    "editor_name": "【群落】叮叮飞飞线性飞行",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309788
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230063,
+    "editor_name": "【群落】火豆丁飞扑",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309819
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230064,
+    "editor_name": "【群落】被斗舞-火蛮人",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309824
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230065,
+    "editor_name": "【群落】被斗舞-火巨人",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309825
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230066,
+    "editor_name": "【群落】被斗舞-雷神之子",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309826
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230067,
+    "editor_name": "【群落】雷神乐团",
+    "behavior_type": 5,
+    "extra_params": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "behavior_ids": [
+      2309830,
+      2309830,
+      2309831,
+      2309831,
+      2309832
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230068,
+    "editor_name": "【群落】雷神摩擦",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309833
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230069,
+    "editor_name": "雷神蹦迪",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309828
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230070,
+    "editor_name": "眼魔聚集",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309899
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230071,
+    "editor_name": "眼魔向玩家聚集",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309850
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230072,
+    "editor_name": "【群落】叮叮飞飞环形飞行",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309884
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230073,
+    "editor_name": "不咕钟悬挂吸附日常",
+    "behavior_type": 5,
+    "extra_params": [
+      1,
+      3
+    ],
+    "behavior_ids": [
+      2309885,
+      2309886
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230074,
+    "editor_name": "不咕钟攻击模式",
+    "behavior_type": 5,
+    "extra_params": [
+      1,
+      3,
+      2
+    ],
+    "behavior_ids": [
+      2309885,
+      2309886,
+      2309887
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230075,
+    "editor_name": "眼魔跟随",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309891
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230076,
+    "editor_name": "眼魔仪式",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2309900
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230077,
+    "editor_name": "眼魔攻击",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2305632
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 230078,
+    "editor_name": "【群落】紧密跟随首领_3阶_跟随",
+    "behavior_type": 5,
+    "extra_params": [
+      2,
+      3
+    ],
+    "behavior_ids": [
+      2309628,
+      2309629
     ],
     "exec_type": 9
   },
@@ -4484,6 +4841,211 @@
     "exec_type": 9
   },
   {
+    "id": 280208,
+    "editor_name": "【稻草人】护主",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801255
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280209,
+    "editor_name": "【炮米花】组装大炮",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801274
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280210,
+    "editor_name": "【半朽蜜果灵】甜甜蜜果",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801275
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280211,
+    "editor_name": "【胡桃王子】仪仗队",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801276
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280212,
+    "editor_name": "【足尖舞者】天鹅舞",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801277
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280213,
+    "editor_name": "【深渊蛙】小蝌蚪找妈妈",
+    "behavior_type": 5,
+    "extra_params": [
+      109,
+      111
+    ],
+    "behavior_ids": [
+      2801278,
+      2801531
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280214,
+    "editor_name": "【深渊蛙】找回小蝌蚪",
+    "behavior_type": 5,
+    "extra_params": [
+      110,
+      109,
+      111
+    ],
+    "behavior_ids": [
+      2801280,
+      2801281,
+      2801282
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280215,
+    "editor_name": "【卡拉波斯】成功催眠",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801283
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280216,
+    "editor_name": "【卡拉波斯】失败催眠揍晕精灵",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801284
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280217,
+    "editor_name": "【炮米花】发射苞米仔",
+    "behavior_type": 6,
+    "behavior_ids": [
+      2801529,
+      2801530
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280218,
+    "editor_name": "【家园】变小跑圈",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2801532
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280219,
+    "editor_name": "【家园】变小害怕",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2801533
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280220,
+    "editor_name": "【家园】s3魔法盆栽-事件开启",
+    "behavior_type": 5,
+    "extra_params": [
+      21,
+      50
+    ],
+    "behavior_ids": [
+      2801534,
+      2801535
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280221,
+    "editor_name": "【家园】s3魔法盆栽-事件结束",
+    "behavior_type": 5,
+    "extra_params": [
+      21,
+      50
+    ],
+    "behavior_ids": [
+      2801536,
+      2801537
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280222,
+    "editor_name": "【家园】s3魔法餐车",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2801538
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280223,
+    "editor_name": "【家园】s3魔法盆栽-飞行精灵休憩",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2801539
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280224,
+    "editor_name": "【家园】宝藏小狐",
+    "behavior_type": 3,
+    "behavior_ids": [
+      2801579
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280225,
+    "editor_name": "【蜜果骸】变成蜜果",
+    "behavior_type": 4,
+    "behavior_ids": [
+      2801582
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280226,
+    "editor_name": "【蜜果骸】到场表演",
+    "behavior_type": 6,
+    "behavior_ids": [
+      2801597,
+      2801598
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 280227,
+    "editor_name": "【半朽蜜果灵】到场惊吓",
+    "behavior_type": 6,
+    "behavior_ids": [
+      2801599,
+      2801600
+    ],
+    "exec_type": 9
+  },
+  {
     "id": 300000,
     "editor_name": "【蹦床松鼠】结束跳跃驱散",
     "exec_type": 1
@@ -5473,7 +6035,7 @@
       13
     ],
     "behavior_ids": [
-      3006596,
+      2309906,
       3010932
     ],
     "exec_type": 9
@@ -7198,7 +7760,7 @@
   },
   {
     "id": 530012,
-    "editor_name": "【风铃鲨】所有成员进行求雨",
+    "editor_name": "【风铃鲨】所有成员进行祈雨",
     "behavior_type": 4,
     "behavior_ids": [
       5300131
@@ -7557,6 +8119,33 @@
     "behavior_type": 4,
     "behavior_ids": [
       5300563
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 530049,
+    "editor_name": "【BOSS】夜枭分身释放幽灵子弹",
+    "behavior_type": 4,
+    "behavior_ids": [
+      5700315
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 530050,
+    "editor_name": "【BOSS】夜枭分身传送",
+    "behavior_type": 4,
+    "behavior_ids": [
+      5700335
+    ],
+    "exec_type": 9
+  },
+  {
+    "id": 530051,
+    "editor_name": "虚影毒王引爆花朵",
+    "behavior_type": 4,
+    "behavior_ids": [
+      8000212
     ],
     "exec_type": 9
   }

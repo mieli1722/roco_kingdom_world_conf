@@ -6,7 +6,7 @@
     "type_advantage_resource": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/DepartmentBg/img_huo.img_huo'",
     "type_advantage_depict": "火",
     "list_order": 1,
-    "unlock_display": "捕捉3只不同种类的火系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的火系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "火系",
     "type_display": "火系精灵总是有着强大的攻击力！",
     "type_advantage_train": [
@@ -22,7 +22,7 @@
     "type_advantage_depict": "水",
     "list_order": 2,
     "should_count_different_evo_chain": true,
-    "unlock_display": "捕捉3只不同种类的水系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的水系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "水系",
     "type_display": "水系精灵往往可以减少技能能耗",
     "type_advantage_train": [
@@ -38,7 +38,7 @@
     "type_advantage_depict": "草",
     "list_order": 3,
     "should_count_different_evo_chain": true,
-    "unlock_display": "捕捉3只不同种类的草系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的草系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "草系",
     "type_display": "草系精灵拥有着顽强的生命力",
     "type_advantage_train": [
@@ -61,7 +61,7 @@
     "type_advantage_unlock_type_param2": [
       5
     ],
-    "unlock_display": "捕捉5只不同种类的光系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉5只不同种类的光系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "光系",
     "type_display": "光系精灵可以借助来自其他系别的力量！",
     "type_advantage_train": [
@@ -84,7 +84,7 @@
     "type_advantage_unlock_type_param2": [
       3
     ],
-    "unlock_display": "捕捉3只不同种类的恶系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的恶系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "恶系",
     "type_display": "恶系精灵总是攻击敌人，温暖自己！",
     "type_advantage_train": [
@@ -107,7 +107,7 @@
     "type_advantage_unlock_type_param2": [
       4
     ],
-    "unlock_display": "捕捉4只不同种类的幽系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉4只不同种类的幽系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "幽系",
     "type_display": "幽系精灵总是可以偷取能量！",
     "type_advantage_train": [
@@ -130,7 +130,7 @@
     "type_advantage_unlock_type_param2": [
       3
     ],
-    "unlock_display": "捕捉3只不同种类的普通系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的普通系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "普通系",
     "type_display": "普通系精灵大多都与世无争！",
     "type_advantage_train": [
@@ -152,7 +152,7 @@
     "type_advantage_unlock_type_param2": [
       3
     ],
-    "unlock_display": "捕捉3只不同种类的地系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的地系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "地系",
     "type_display": "地系精灵有着最为坚硬的护甲！",
     "type_advantage_train": [
@@ -175,7 +175,7 @@
     "type_advantage_unlock_type_param2": [
       4
     ],
-    "unlock_display": "捕捉4只不同种类的冰系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉4只不同种类的冰系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "冰系",
     "type_display": "冰系精灵最擅长加重敌人的负担！",
     "type_advantage_train": [
@@ -198,7 +198,7 @@
     "type_advantage_unlock_type_param2": [
       3
     ],
-    "unlock_display": "捕捉3只不同种类的龙系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的龙系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "龙系",
     "type_display": "龙系精灵拥有着威力强大的技能！",
     "type_advantage_train": [
@@ -221,7 +221,7 @@
     "type_advantage_unlock_type_param2": [
       3
     ],
-    "unlock_display": "捕捉3只不同种类的电系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉3只不同种类的电系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "电系",
     "type_display": "电系精灵总是需要多次出场！",
     "type_advantage_train": [
@@ -244,7 +244,7 @@
     "type_advantage_unlock_type_param2": [
       4
     ],
-    "unlock_display": "捕捉4只不同种类的毒系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉4只不同种类的毒系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "毒系",
     "type_display": "毒系精灵最擅长慢慢削弱对手！",
     "type_advantage_train": [
@@ -267,7 +267,7 @@
     "type_advantage_unlock_type_param2": [
       5
     ],
-    "unlock_display": "捕捉5只不同种类的虫系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉5只不同种类的虫系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "虫系",
     "type_display": "虫系是最有奉献精神的精灵系别！",
     "type_advantage_train": [
@@ -290,7 +290,7 @@
     "type_advantage_unlock_type_param2": [
       5
     ],
-    "unlock_display": "捕捉5只不同种类的武系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉5只不同种类的武系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "武系",
     "type_display": "武系精灵在战斗时总有各种应对之法！",
     "type_advantage_train": [
@@ -313,7 +313,7 @@
     "type_advantage_unlock_type_param2": [
       4
     ],
-    "unlock_display": "捕捉4只不同种类的翼系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉4只不同种类的翼系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "翼系",
     "type_display": "翼系精灵总是可以不停攻击对手！",
     "type_advantage_train": [
@@ -336,7 +336,7 @@
     "type_advantage_unlock_type_param2": [
       5
     ],
-    "unlock_display": "捕捉5只不同种类的萌系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉5只不同种类的萌系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "萌系",
     "type_display": "在萌系精灵可爱的外表下，隐藏着强大的威力！",
     "type_advantage_train": [
@@ -359,7 +359,7 @@
     "type_advantage_unlock_type_param2": [
       5
     ],
-    "unlock_display": "捕捉5只不同种类的机械系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉5只不同种类的机械系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "机械系",
     "type_display": "机械精灵的技能顺序总是不可预测！",
     "type_advantage_train": [
@@ -382,7 +382,7 @@
     "type_advantage_unlock_type_param2": [
       4
     ],
-    "unlock_display": "捕捉4只不同种类的幻系精灵解锁该课程（%d/%d）",
+    "unlock_display": "捕捉4只不同种类的幻系精灵解锁该课程（{0:d}/{1:d}）",
     "type_battle_display_name": "幻系",
     "type_display": "幻系精灵的攻击总是附带着危险的信号！",
     "type_advantage_train": [

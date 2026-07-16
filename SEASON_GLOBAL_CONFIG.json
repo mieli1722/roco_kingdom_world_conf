@@ -212,12 +212,58 @@
     "key": "tips_belong_scene_event_type",
     "numList": [
       4,
-      5
+      5,
+      6,
+      9
+    ]
+  },
+  {
+    "id": 14,
+    "key": "pet_vacant_material",
+    "str": "MaterialInstanceConstant'/Game/ArtRes/Material/Characters/MaterialInstance/MI_PC_Gho_Skeletal.MI_PC_Gho_Skeletal'"
+  },
+  {
+    "id": 15,
+    "key": "battle_hide_npc",
+    "numList": [
+      292001,
+      292002,
+      292003,
+      292004,
+      292005,
+      292006,
+      293003
     ]
   },
   {
     "id": 16,
     "key": "season_coin_by_catch_limit",
     "num": 4
+  },
+  {
+    "id": 17,
+    "key": "bonus_pet_area_ids",
+    "numList": [
+      291030290,
+      291030291,
+      291030292,
+      291030293,
+      291030294,
+      291030295,
+      291030296,
+      291030297,
+      291030298,
+      291030299
+    ]
+  },
+  {
+    "id": 18,
+    "key": "bonus_talent_ratio",
+    "num": 800
+  },
+  {
+    "id": 24,
+    "key": "season_token_daily_limit",
+    "num": 360
   }
 ]

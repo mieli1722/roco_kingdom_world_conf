@@ -1,7 +1,6 @@
 [
   {
     "id": 10010101,
-    "editor_name": "主界面",
     "panel_name": "UMG_LobbyMain",
     "anim_names": [
       "Appear",
@@ -10,12 +9,10 @@
   },
   {
     "id": 10010102,
-    "editor_name": "主界面罗盘",
     "panel_name": "UMG_CompassIcon"
   },
   {
     "id": 10010103,
-    "editor_name": "罗盘圈",
     "panel_name": "UMG_LobbyMainInner",
     "anim_names": [
       "Open_Luopan"
@@ -23,7 +20,6 @@
   },
   {
     "id": 10010201,
-    "editor_name": "图鉴封面",
     "panel_name": "UMG_Handbook1",
     "anim_names": [
       "Open",
@@ -33,7 +29,6 @@
   },
   {
     "id": 10010301,
-    "editor_name": "图鉴",
     "panel_name": "UMG_Handbook",
     "anim_names": [
       "Book_Open",
@@ -50,7 +45,6 @@
   },
   {
     "id": 20010101,
-    "editor_name": "宠物",
     "panel_name": "UMG_PetPortableBag",
     "anim_names": [
       "In",
@@ -67,7 +61,6 @@
   },
   {
     "id": 20010103,
-    "editor_name": "精灵资质",
     "panel_name": "UMG_Pass_PetDetail",
     "anim_names": [
       "In",
@@ -76,7 +69,6 @@
   },
   {
     "id": 20020201,
-    "editor_name": "轮盘",
     "panel_name": "UMG_RolePlayMainPanel",
     "anim_names": [
       "Open",
@@ -85,7 +77,6 @@
   },
   {
     "id": 20020202,
-    "editor_name": "背包tab栏",
     "panel_name": "UMG_Bag",
     "anim_names": [
       "Open",
@@ -94,7 +85,6 @@
   },
   {
     "id": 20040201,
-    "editor_name": "手册",
     "panel_name": "UMG_MagicManual_Main",
     "anim_names": [
       "In",
@@ -103,7 +93,6 @@
   },
   {
     "id": 20070201,
-    "editor_name": "魔法列表",
     "panel_name": "UMG_SimpleUseList",
     "anim_names": [
       "open",
@@ -114,7 +103,6 @@
   },
   {
     "id": 70000001,
-    "editor_name": "战斗主页面",
     "panel_name": "UMG_BattleMainWindow",
     "anim_names": [
       "openInfo",
@@ -126,7 +114,6 @@
   },
   {
     "id": 70000002,
-    "editor_name": "技能列表",
     "panel_name": "UMG_Battle_Skill_Item",
     "anim_names": [
       "open",

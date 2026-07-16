@@ -87,7 +87,9 @@
       4078
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 5969,
+    "suiteffect4_callout_skill": [
+      5969
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 5970
   },
@@ -130,7 +132,9 @@
       4074
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 5973,
+    "suiteffect4_callout_skill": [
+      5973
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 5974
   },
@@ -200,7 +204,9 @@
       4021
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 5980,
+    "suiteffect4_callout_skill": [
+      5980
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 5981
   },
@@ -229,8 +235,7 @@
   {
     "id": 10010,
     "petbase3_id": [
-      3141,
-      8006
+      3141
     ],
     "suiteffect3_rest_name": "大世界休闲",
     "suiteffect3_rest_skill": 5921,
@@ -398,7 +403,9 @@
       4022
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 5958
+    "suiteffect4_callout_skill": [
+      5958
+    ]
   },
   {
     "id": 10019,
@@ -422,7 +429,9 @@
       13000170
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6169
+    "suiteffect4_callout_skill": [
+      6169
+    ]
   },
   {
     "id": 10020,
@@ -499,7 +508,9 @@
       4099
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 5996
+    "suiteffect4_callout_skill": [
+      5996
+    ]
   },
   {
     "id": 10024,
@@ -547,7 +558,9 @@
       4088
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6018,
+    "suiteffect4_callout_skill": [
+      6018
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 6019
   },
@@ -607,7 +620,9 @@
       4019
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6029,
+    "suiteffect4_callout_skill": [
+      6029
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 6030
   },
@@ -648,7 +663,9 @@
       4094
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6039,
+    "suiteffect4_callout_skill": [
+      6039
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 6040
   },
@@ -750,10 +767,25 @@
     "suiteffect3_callout_skill": 6055,
     "petbase4_id": [
       5025,
-      3048
+      3048,
+      3051,
+      3514,
+      3515,
+      5026,
+      5027,
+      5028
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6056
+    "suiteffect4_callout_skill": [
+      6056,
+      6056,
+      6145,
+      6147,
+      6146,
+      6145,
+      6146,
+      6147
+    ]
   },
   {
     "id": 10036,
@@ -920,7 +952,9 @@
       5029
     ],
     "suiteffect4_callout_name": "战斗中换宠",
-    "suiteffect4_callout_skill": 6089,
+    "suiteffect4_callout_skill": [
+      6089
+    ],
     "suiteffect4_win_name": "PVP胜利结算",
     "suiteffect4_win_skill": 6090
   },
@@ -940,5 +974,310 @@
     ],
     "suiteffect1_callout_name": "战斗中换宠",
     "suiteffect1_callout_skill": 6094
+  },
+  {
+    "id": 10046,
+    "petbase3_id": [
+      3144
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6095,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6098,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6099,
+    "petbase2_id": [
+      3143
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6097,
+    "petbase1_id": [
+      3142
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6096
+  },
+  {
+    "id": 10047,
+    "petbase3_id": [
+      3538,
+      3541
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6100,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6103,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6104,
+    "petbase2_id": [
+      3537,
+      3540
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6102,
+    "petbase1_id": [
+      3536,
+      3539
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6101
+  },
+  {
+    "id": 10048,
+    "petbase3_id": [
+      3156
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6105,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6108,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6109,
+    "petbase2_id": [
+      3155
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6107,
+    "petbase1_id": [
+      3154
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6106
+  },
+  {
+    "id": 10049,
+    "petbase3_id": [
+      3612
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6110,
+    "petbase2_id": [
+      3611
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6111,
+    "petbase1_id": [
+      3610
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6112
+  },
+  {
+    "id": 10050,
+    "petbase3_id": [
+      3613
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6113,
+    "petbase2_id": [
+      3611
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6111,
+    "petbase1_id": [
+      3610
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6112
+  },
+  {
+    "id": 10051,
+    "petbase3_id": [
+      3608
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6114,
+    "petbase2_id": [
+      3607
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6116,
+    "petbase1_id": [
+      3606
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6115
+  },
+  {
+    "id": 10052,
+    "petbase3_id": [
+      3609
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6117,
+    "petbase2_id": [
+      3607
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6116,
+    "petbase1_id": [
+      3606
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6115
+  },
+  {
+    "id": 10053,
+    "petbase3_id": [
+      3605
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6119,
+    "petbase1_id": [
+      3603
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6120
+  },
+  {
+    "id": 10054,
+    "petbase3_id": [
+      3604
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6118,
+    "petbase1_id": [
+      3603
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6120
+  },
+  {
+    "id": 10055,
+    "petbase3_id": [
+      3579
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6122,
+    "petbase1_id": [
+      3577
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6123
+  },
+  {
+    "id": 10056,
+    "petbase3_id": [
+      3578
+    ],
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6121,
+    "petbase1_id": [
+      3577
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6123
+  },
+  {
+    "id": 10057,
+    "petbase3_id": [
+      3007
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6124,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6125,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6126,
+    "petbase2_id": [
+      3025
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6128,
+    "petbase1_id": [
+      3001
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6127,
+    "petbase4_id": [
+      4007,
+      5003,
+      8103,
+      13000151
+    ],
+    "suiteffect4_callout_name": "战斗中换宠",
+    "suiteffect4_callout_skill": [
+      6129
+    ],
+    "suiteffect4_win_name": "PVP胜利结算",
+    "suiteffect4_win_skill": 6130
+  },
+  {
+    "id": 10058,
+    "petbase3_id": [
+      3006
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6131,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6132,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6133,
+    "petbase2_id": [
+      3032
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6135,
+    "petbase1_id": [
+      3003
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6134,
+    "petbase4_id": [
+      4006,
+      5017,
+      8102
+    ],
+    "suiteffect4_callout_name": "战斗中换宠",
+    "suiteffect4_callout_skill": [
+      6136
+    ],
+    "suiteffect4_win_name": "PVP胜利结算",
+    "suiteffect4_win_skill": 6137
+  },
+  {
+    "id": 10059,
+    "petbase3_id": [
+      3005
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6138,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6139,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6140,
+    "petbase2_id": [
+      3033
+    ],
+    "suiteffect2_callout_name": "战斗中换宠",
+    "suiteffect2_callout_skill": 6142,
+    "petbase1_id": [
+      3002
+    ],
+    "suiteffect1_callout_name": "战斗中换宠",
+    "suiteffect1_callout_skill": 6141,
+    "petbase4_id": [
+      4005,
+      5010,
+      8101
+    ],
+    "suiteffect4_callout_name": "战斗中换宠",
+    "suiteffect4_callout_skill": [
+      6143
+    ],
+    "suiteffect4_win_name": "PVP胜利结算",
+    "suiteffect4_win_skill": 6144
+  },
+  {
+    "id": 10060,
+    "petbase3_id": [
+      3746
+    ],
+    "suiteffect3_rest_name": "大世界休闲",
+    "suiteffect3_rest_skill": 6148,
+    "suiteffect3_callout_name": "战斗中换宠",
+    "suiteffect3_callout_skill": 6149,
+    "suiteffect3_win_name": "PVP胜利结算",
+    "suiteffect3_win_skill": 6150
   }
 ]

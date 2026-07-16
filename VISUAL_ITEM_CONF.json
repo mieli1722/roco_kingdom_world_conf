@@ -474,6 +474,7 @@
   {
     "id": 6,
     "displayName": "星光",
+    "discription": "可以凝结成许愿星。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100893.100893'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100893.100893'",
     "item_quality": 5,
@@ -556,7 +557,7 @@
   {
     "id": 51,
     "displayName": "非凡之羽",
-    "discription": "「凡羽掠影」活动中兑换代币。\n可在非凡商店中兑换各种限定奖励，活动结束后会被自动转换为洛克贝。",
+    "discription": "「凡羽掠影」活动中兑换代币。\n可在非凡商店中兑换各种限定奖励，活动结束后会被自动转化为洛克贝。",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100921.100921'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100921.100921'",
     "item_quality": 4,
@@ -589,12 +590,97 @@
     ]
   },
   {
+    "id": 52,
+    "displayName": "律动星币",
+    "discription": "「拾音律动」活动中兑换代币。\n可在拾音商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100957.100957'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100957.100957'",
+    "item_quality": 4,
+    "type_desc": "活动货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「拾音律动」活动获得"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "displayName": "幸运代币",
+    "discription": "用来在幸运商店中随机奖品的兑换代币。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "珍稀道具城购买"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "sort_id": 1000304,
+    "displayName": "幻梦代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季露天对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
     "id": 53,
     "displayName": "重逢手册经验",
-    "discription": "用于在“重逢契约”回流活动中的“契约手册”提升等级",
+    "discription": "用于在“重逢契约”回流活动中提升“重逢手册”的等级",
     "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100937.100937'",
     "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100937.100937'",
     "item_quality": 4,
     "type_desc": "活动货币"
+  },
+  {
+    "id": 78,
+    "displayName": "露天对战积分A2-2（隐藏任务统计进度用）",
+    "is_no_display_in_main": 1,
+    "is_hidetips": true
+  },
+  {
+    "id": 79,
+    "sort_id": 109104,
+    "displayName": "光明徽记",
+    "discription": "印有古老图案的徽记，用来与洛克里安北部区域的人民兑换物品。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100512.100512'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100512.100512'",
+    "item_quality": 4,
+    "type_desc": "地区货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "洛克里安北部区域探索获得"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "sort_id": 109105,
+    "displayName": "美好祈愿",
+    "discription": "纯净无暇的结晶，可以用来升级美愿树或某些眠枭庇护所。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101019.101019'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101019.101019'",
+    "item_quality": 4,
+    "type_desc": "地区货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "捕捉或击败巨人裂谷地区精灵获得"
+      }
+    ]
   }
 ]

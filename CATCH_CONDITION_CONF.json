@@ -4,7 +4,7 @@
     "name": "通用配置",
     "des": "被攻击",
     "res_id": "Sad",
-    "flavor_text": "%s很伤心！",
+    "flavor_text": "{0}很伤心！",
     "effect_order": 11
   },
   {
@@ -12,7 +12,7 @@
     "name": "喜欢唱歌",
     "des": "更换宠物时，捕捉阈值提升X。",
     "res_id": "Happy",
-    "flavor_text": "%s看起来非常高兴",
+    "flavor_text": "{0}看起来非常高兴",
     "effect_order": 5,
     "condition_param": [
       {
@@ -26,7 +26,7 @@
     "id": 10002,
     "name": "爱吃",
     "res_id": "Happy",
-    "flavor_text": "%s最爱甜食！",
+    "flavor_text": "{0}最爱甜食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -40,7 +40,7 @@
     "id": 10003,
     "name": "不爱吃",
     "res_id": "Sad",
-    "flavor_text": "这不是%s想要的……",
+    "flavor_text": "这不是{0}想要的……",
     "effect_order": 6,
     "condition_param": [
       {
@@ -54,7 +54,7 @@
     "id": 10004,
     "name": "一般",
     "res_id": "Alert",
-    "flavor_text": "%s想吃更好吃的",
+    "flavor_text": "{0}想吃更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -82,7 +82,7 @@
     "id": 10006,
     "name": "一般",
     "res_id": "Becute",
-    "flavor_text": "%s觉得一般",
+    "flavor_text": "{0}觉得一般",
     "effect_order": 6,
     "condition_param": [
       {
@@ -96,7 +96,7 @@
     "id": 10007,
     "name": "一般",
     "res_id": "Becute",
-    "flavor_text": "%s觉得还行",
+    "flavor_text": "{0}觉得还行",
     "effect_order": 6,
     "condition_param": [
       {
@@ -344,7 +344,7 @@
     "name": "喵呜",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s很爱吃！",
+    "flavor_text": "{0}很爱吃！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -359,7 +359,7 @@
     "name": "喵呜",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s想吃更好吃的",
+    "flavor_text": "{0}想吃更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -374,7 +374,7 @@
     "name": "喵呜",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "这不是%s想要的……",
+    "flavor_text": "这不是{0}想要的……",
     "effect_order": 6,
     "condition_param": [
       {
@@ -389,7 +389,7 @@
     "name": "绿草精灵",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s吃光了",
+    "flavor_text": "{0}吃光了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -404,7 +404,7 @@
     "name": "绿草精灵",
     "des": "甜还行",
     "res_id": "Alert",
-    "flavor_text": "%s很期待下一个果子",
+    "flavor_text": "{0}很期待下一个果子",
     "effect_order": 6,
     "condition_param": [
       {
@@ -419,7 +419,7 @@
     "name": "绿草精灵",
     "des": "辣还行",
     "res_id": "Alert",
-    "flavor_text": "%s很期待下一个果子",
+    "flavor_text": "{0}很期待下一个果子",
     "effect_order": 6,
     "condition_param": [
       {
@@ -434,7 +434,7 @@
     "name": "绿草精灵",
     "des": "魔攻技能",
     "res_id": "Becute",
-    "flavor_text": "%s想学这一招",
+    "flavor_text": "{0}想学这一招",
     "effect_order": 7,
     "condition_param": [
       {
@@ -459,7 +459,7 @@
     "name": "蒲公英娃娃",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s满意地飘飘荡荡",
+    "flavor_text": "{0}满意地飘飘荡荡",
     "effect_order": 6,
     "condition_param": [
       {
@@ -474,7 +474,7 @@
     "name": "蒲公英娃娃",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地转着圈儿",
+    "flavor_text": "{0}平静地转着圈儿",
     "effect_order": 6,
     "condition_param": [
       {
@@ -489,7 +489,7 @@
     "name": "蒲公英娃娃",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s反感地上下摆动",
+    "flavor_text": "{0}反感地上下摆动",
     "effect_order": 6,
     "condition_param": [
       {
@@ -504,7 +504,7 @@
     "name": "冬羽雀",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s开心地转圈致意",
+    "flavor_text": "{0}开心地转圈致意",
     "effect_order": 6,
     "condition_param": [
       {
@@ -519,7 +519,7 @@
     "name": "冬羽雀",
     "des": "苦一般",
     "res_id": "Alert",
-    "flavor_text": "%s平静地抖了抖毛",
+    "flavor_text": "{0}平静地抖了抖毛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -534,7 +534,7 @@
     "name": "冬羽雀",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s为难地啄了几口",
+    "flavor_text": "{0}为难地啄了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -549,7 +549,7 @@
     "name": "冬羽雀",
     "des": "喜欢场地",
     "res_id": "Happy",
-    "flavor_text": "%s想要飞的更远",
+    "flavor_text": "{0}想要飞的更远",
     "effect_order": 4
   },
   {
@@ -557,7 +557,7 @@
     "name": "冬羽雀",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -565,7 +565,7 @@
     "name": "冬羽雀",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -573,7 +573,7 @@
     "name": "喵喵",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s很爱吃！",
+    "flavor_text": "{0}很爱吃！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -588,7 +588,7 @@
     "name": "喵喵",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s想吃更好吃的",
+    "flavor_text": "{0}想吃更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -603,7 +603,7 @@
     "name": "喵喵",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "这不是%s想要的……",
+    "flavor_text": "这不是{0}想要的……",
     "effect_order": 6,
     "condition_param": [
       {
@@ -618,7 +618,7 @@
     "name": "水蓝蓝",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s充满了水流之力",
+    "flavor_text": "{0}充满了水流之力",
     "effect_order": 6,
     "condition_param": [
       {
@@ -633,7 +633,7 @@
     "name": "水蓝蓝",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s不满地鼓起脸颊",
+    "flavor_text": "{0}不满地鼓起脸颊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -648,7 +648,7 @@
     "name": "水蓝蓝",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s泄气地躺在地上",
+    "flavor_text": "{0}泄气地躺在地上",
     "effect_order": 6,
     "condition_param": [
       {
@@ -663,7 +663,7 @@
     "name": "水蓝蓝",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -671,7 +671,7 @@
     "name": "水蓝蓝",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -679,7 +679,7 @@
     "name": "火花",
     "des": "辣喜欢",
     "res_id": "Show",
-    "flavor_text": "%s火力全开！",
+    "flavor_text": "{0}火力全开！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -694,7 +694,7 @@
     "name": "火花",
     "des": "苦一般",
     "res_id": "Happy",
-    "flavor_text": "%s有点燃起来了",
+    "flavor_text": "{0}有点燃起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -709,7 +709,7 @@
     "name": "火花",
     "des": "甜讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s怏怏地揉揉眼睛",
+    "flavor_text": "{0}怏怏地揉揉眼睛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -724,7 +724,7 @@
     "name": "迪莫",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s光速吃光了",
+    "flavor_text": "{0}光速吃光了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -739,7 +739,7 @@
     "name": "迪莫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s能吃苦！",
+    "flavor_text": "{0}能吃苦！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -754,7 +754,7 @@
     "name": "迪莫",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s被辣得竖起尾巴",
+    "flavor_text": "{0}被辣得竖起尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -769,7 +769,7 @@
     "name": "水灵",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s充满了水流之力",
+    "flavor_text": "{0}充满了水流之力",
     "effect_order": 6,
     "condition_param": [
       {
@@ -784,7 +784,7 @@
     "name": "水灵",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s不满地鼓起脸颊",
+    "flavor_text": "{0}不满地鼓起脸颊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -799,7 +799,7 @@
     "name": "水灵",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s泄气地躺在地上",
+    "flavor_text": "{0}泄气地躺在地上",
     "effect_order": 6,
     "condition_param": [
       {
@@ -814,7 +814,7 @@
     "name": "火神",
     "des": "辣喜欢",
     "res_id": "Show",
-    "flavor_text": "%s火力全开！",
+    "flavor_text": "{0}火力全开！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -829,7 +829,7 @@
     "name": "火神",
     "des": "苦一般",
     "res_id": "Happy",
-    "flavor_text": "%s有点燃起来了",
+    "flavor_text": "{0}有点燃起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -844,7 +844,7 @@
     "name": "火神",
     "des": "甜讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s怏怏地揉揉眼睛",
+    "flavor_text": "{0}怏怏地揉揉眼睛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -859,7 +859,7 @@
     "name": "草头鸭",
     "des": "被克制",
     "res_id": "Happy",
-    "flavor_text": "%s对你十分认同",
+    "flavor_text": "{0}对你十分认同",
     "effect_order": 3,
     "condition_param": [
       {
@@ -874,7 +874,7 @@
     "name": "草头鸭",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s全吃掉了",
+    "flavor_text": "{0}全吃掉了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -889,7 +889,7 @@
     "name": "草头鸭",
     "des": "苦一般",
     "res_id": "Alert",
-    "flavor_text": "%s没吃完",
+    "flavor_text": "{0}没吃完",
     "effect_order": 6,
     "condition_param": [
       {
@@ -904,7 +904,7 @@
     "name": "草头鸭",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s很失望",
+    "flavor_text": "{0}很失望",
     "effect_order": 6,
     "condition_param": [
       {
@@ -919,7 +919,7 @@
     "name": "草头鸭",
     "des": "喜欢被打",
     "res_id": "Happy",
-    "flavor_text": "%s喜欢挑战！",
+    "flavor_text": "{0}喜欢挑战！",
     "effect_order": 11
   },
   {
@@ -966,7 +966,7 @@
     "name": "恶魔叮",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s满足地扑扇翅膀",
+    "flavor_text": "{0}满足地扑扇翅膀",
     "effect_order": 6,
     "condition_param": [
       {
@@ -981,7 +981,7 @@
     "name": "恶魔叮",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s绅士力充能一半",
+    "flavor_text": "{0}绅士力充能一半",
     "effect_order": 6,
     "condition_param": [
       {
@@ -996,7 +996,7 @@
     "name": "恶魔叮",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s绅士力充能一半",
+    "flavor_text": "{0}绅士力充能一半",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1011,7 +1011,7 @@
     "name": "恶魔狼",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s畅快地长啸一声",
+    "flavor_text": "{0}畅快地长啸一声",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1026,7 +1026,7 @@
     "name": "恶魔狼",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地抖抖耳朵",
+    "flavor_text": "{0}平静地抖抖耳朵",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1041,7 +1041,7 @@
     "name": "恶魔狼",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地抖抖耳朵",
+    "flavor_text": "{0}平静地抖抖耳朵",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1056,7 +1056,7 @@
     "name": "鸭吉吉",
     "des": "喜欢吼叫",
     "res_id": "Happy",
-    "flavor_text": "%s觉得很好听！",
+    "flavor_text": "{0}觉得很好听！",
     "effect_order": 5,
     "condition_param": [
       {
@@ -1071,7 +1071,7 @@
     "name": "鸭吉吉",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s觉得好吃！",
+    "flavor_text": "{0}觉得好吃！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1086,7 +1086,7 @@
     "name": "鸭吉吉",
     "des": "甜还行",
     "res_id": "Becute",
-    "flavor_text": "%s觉得一般",
+    "flavor_text": "{0}觉得一般",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1101,7 +1101,7 @@
     "name": "鸭吉吉",
     "des": "辣还行",
     "res_id": "Becute",
-    "flavor_text": "%s觉得还行",
+    "flavor_text": "{0}觉得还行",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1116,7 +1116,7 @@
     "name": "铠甲虫",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s夸赞是顶级粪球",
+    "flavor_text": "{0}夸赞是顶级粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1131,7 +1131,7 @@
     "name": "铠甲虫",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s感觉不如粪球",
+    "flavor_text": "{0}感觉不如粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1146,7 +1146,7 @@
     "name": "铠甲虫",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s感觉不如粪球",
+    "flavor_text": "{0}感觉不如粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1311,7 +1311,7 @@
     "name": "蹦蹦种子",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "很合%s的口味！",
+    "flavor_text": "很合{0}的口味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1326,7 +1326,7 @@
     "name": "蹦蹦种子",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s期待更好吃的",
+    "flavor_text": "{0}期待更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1341,7 +1341,7 @@
     "name": "蹦蹦种子",
     "des": "辣讨厌",
     "res_id": "Relax",
-    "flavor_text": "%s被辣晕了",
+    "flavor_text": "{0}被辣晕了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1356,7 +1356,7 @@
     "name": "蹦蹦种子",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -1364,7 +1364,7 @@
     "name": "蹦蹦种子",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -1372,7 +1372,7 @@
     "name": "蹦蹦草",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "很合%s的口味！",
+    "flavor_text": "很合{0}的口味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1387,7 +1387,7 @@
     "name": "蹦蹦草",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s期待更好吃的",
+    "flavor_text": "{0}期待更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1402,7 +1402,7 @@
     "name": "蹦蹦草",
     "des": "辣讨厌",
     "res_id": "Relax",
-    "flavor_text": "%s被辣晕了",
+    "flavor_text": "{0}被辣晕了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1417,7 +1417,7 @@
     "name": "蹦蹦花",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "很合%s的口味！",
+    "flavor_text": "很合{0}的口味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1432,7 +1432,7 @@
     "name": "蹦蹦花",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s期待更好吃的",
+    "flavor_text": "{0}期待更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1447,7 +1447,7 @@
     "name": "蹦蹦花",
     "des": "辣讨厌",
     "res_id": "Relax",
-    "flavor_text": "%s被辣晕了",
+    "flavor_text": "{0}被辣晕了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1462,7 +1462,7 @@
     "name": "地鼠",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙轻啃了几口",
+    "flavor_text": "{0}用门牙轻啃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1477,7 +1477,7 @@
     "name": "地鼠",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s喜欢得合不上嘴",
+    "flavor_text": "{0}喜欢得合不上嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1492,7 +1492,7 @@
     "name": "地鼠",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙咬了两下",
+    "flavor_text": "{0}用门牙咬了两下",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1507,7 +1507,7 @@
     "name": "大地鼠",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙轻啃了几口",
+    "flavor_text": "{0}用门牙轻啃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1522,7 +1522,7 @@
     "name": "大地鼠",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s喜欢得合不上嘴",
+    "flavor_text": "{0}喜欢得合不上嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1537,7 +1537,7 @@
     "name": "大地鼠",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙咬了两下",
+    "flavor_text": "{0}用门牙咬了两下",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1552,7 +1552,7 @@
     "name": "遁鼠",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙轻啃了几口",
+    "flavor_text": "{0}用门牙轻啃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1567,7 +1567,7 @@
     "name": "遁鼠",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s喜欢得合不上嘴",
+    "flavor_text": "{0}喜欢得合不上嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1582,7 +1582,7 @@
     "name": "遁鼠",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s用门牙咬了两下",
+    "flavor_text": "{0}用门牙咬了两下",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1597,7 +1597,7 @@
     "name": "赤毛鸡仔",
     "des": "甜讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s不屑吃甜食！",
+    "flavor_text": "{0}不屑吃甜食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1612,7 +1612,7 @@
     "name": "赤毛鸡仔",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s用翅膀擦擦嘴",
+    "flavor_text": "{0}用翅膀擦擦嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1627,7 +1627,7 @@
     "name": "赤毛鸡仔",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s兴奋得火力加倍！",
+    "flavor_text": "{0}兴奋得火力加倍！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1642,7 +1642,7 @@
     "name": "伊丽莎白",
     "des": "甜讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s不屑吃甜食！",
+    "flavor_text": "{0}不屑吃甜食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1657,7 +1657,7 @@
     "name": "伊丽莎白",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s用翅膀擦擦嘴",
+    "flavor_text": "{0}用翅膀擦擦嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1672,7 +1672,7 @@
     "name": "伊丽莎白",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s兴奋得火力加倍！",
+    "flavor_text": "{0}兴奋得火力加倍！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1687,7 +1687,7 @@
     "name": "奇丽草",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s乐开了花！",
+    "flavor_text": "{0}乐开了花！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1702,7 +1702,7 @@
     "name": "奇丽草",
     "des": "苦一般",
     "res_id": "Fear",
-    "flavor_text": "%s拒绝了",
+    "flavor_text": "{0}拒绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1717,7 +1717,7 @@
     "name": "奇丽草",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s受到了冲击",
+    "flavor_text": "{0}受到了冲击",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1732,7 +1732,7 @@
     "name": "奇丽草",
     "des": "爱场地",
     "res_id": "Show",
-    "flavor_text": "%s很羡慕",
+    "flavor_text": "{0}很羡慕",
     "effect_order": 4,
     "condition_param": [
       {
@@ -1747,7 +1747,7 @@
     "name": "奇丽叶",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s乐开了花！",
+    "flavor_text": "{0}乐开了花！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1762,7 +1762,7 @@
     "name": "奇丽叶",
     "des": "苦一般",
     "res_id": "Fear",
-    "flavor_text": "%s拒绝了",
+    "flavor_text": "{0}拒绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1777,7 +1777,7 @@
     "name": "奇丽叶",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s受到了冲击",
+    "flavor_text": "{0}受到了冲击",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1792,7 +1792,7 @@
     "name": "奇丽花",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s乐开了花！",
+    "flavor_text": "{0}乐开了花！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1807,7 +1807,7 @@
     "name": "奇丽花",
     "des": "苦一般",
     "res_id": "Fear",
-    "flavor_text": "%s拒绝了",
+    "flavor_text": "{0}拒绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1822,7 +1822,7 @@
     "name": "奇丽花",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s受到了冲击",
+    "flavor_text": "{0}受到了冲击",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1837,7 +1837,7 @@
     "name": "焰火",
     "des": "辣喜欢",
     "res_id": "Show",
-    "flavor_text": "%s火力全开！",
+    "flavor_text": "{0}火力全开！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1852,7 +1852,7 @@
     "name": "焰火",
     "des": "苦一般",
     "res_id": "Happy",
-    "flavor_text": "%s有点燃起来了",
+    "flavor_text": "{0}有点燃起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1867,7 +1867,7 @@
     "name": "焰火",
     "des": "甜讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s怏怏地揉揉眼睛",
+    "flavor_text": "{0}怏怏地揉揉眼睛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1882,7 +1882,7 @@
     "name": "波波拉",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s充满了水流之力",
+    "flavor_text": "{0}充满了水流之力",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1897,7 +1897,7 @@
     "name": "波波拉",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s不满地鼓起脸颊",
+    "flavor_text": "{0}不满地鼓起脸颊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1912,7 +1912,7 @@
     "name": "波波拉",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s泄气地躺在地上",
+    "flavor_text": "{0}泄气地躺在地上",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1927,7 +1927,7 @@
     "name": "蒲公英",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心地转圈圈",
+    "flavor_text": "{0}开心地转圈圈",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1942,7 +1942,7 @@
     "name": "蒲公英",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s分三份吃完了",
+    "flavor_text": "{0}分三份吃完了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1957,7 +1957,7 @@
     "name": "蒲公英",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s辣出了眼泪",
+    "flavor_text": "{0}辣出了眼泪",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1972,7 +1972,7 @@
     "name": "魔草巫灵",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s吃光了",
+    "flavor_text": "{0}吃光了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -1987,7 +1987,7 @@
     "name": "魔草巫灵",
     "des": "甜还行",
     "res_id": "Alert",
-    "flavor_text": "%s很期待下一个果子",
+    "flavor_text": "{0}很期待下一个果子",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2002,7 +2002,7 @@
     "name": "魔草巫灵",
     "des": "辣还行",
     "res_id": "Alert",
-    "flavor_text": "%s很期待下一个果子",
+    "flavor_text": "{0}很期待下一个果子",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2017,7 +2017,7 @@
     "name": "魔草巫灵",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -2025,7 +2025,7 @@
     "name": "魔草巫灵",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -2033,7 +2033,7 @@
     "name": "鸭吉吉",
     "des": "喜欢唱歌",
     "res_id": "Happy",
-    "flavor_text": "%s觉得很好听！",
+    "flavor_text": "{0}觉得很好听！",
     "effect_order": 5,
     "condition_param": [
       {
@@ -2048,7 +2048,7 @@
     "name": "鸭吉吉",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s觉得好吃！",
+    "flavor_text": "{0}觉得好吃！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2063,7 +2063,7 @@
     "name": "鸭吉吉",
     "des": "甜还行",
     "res_id": "Becute",
-    "flavor_text": "%s觉得一般",
+    "flavor_text": "{0}觉得一般",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2078,7 +2078,7 @@
     "name": "鸭吉吉",
     "des": "辣还行",
     "res_id": "Becute",
-    "flavor_text": "%s觉得还行",
+    "flavor_text": "{0}觉得还行",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2093,7 +2093,7 @@
     "name": "岚鸟",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s开心地转圈致意",
+    "flavor_text": "{0}开心地转圈致意",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2108,7 +2108,7 @@
     "name": "岚鸟",
     "des": "苦一般",
     "res_id": "Alert",
-    "flavor_text": "%s平静地抖了抖毛",
+    "flavor_text": "{0}平静地抖了抖毛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2123,7 +2123,7 @@
     "name": "岚鸟",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s为难地啄了几口",
+    "flavor_text": "{0}为难地啄了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2138,7 +2138,7 @@
     "name": "小甲虫",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s夸赞是顶级粪球",
+    "flavor_text": "{0}夸赞是顶级粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2153,7 +2153,7 @@
     "name": "小甲虫",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s感觉不如粪球",
+    "flavor_text": "{0}感觉不如粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2168,7 +2168,7 @@
     "name": "小甲虫",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s感觉不如粪球",
+    "flavor_text": "{0}感觉不如粪球",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2183,7 +2183,7 @@
     "name": "叮叮恶魔",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s满足地扑扇翅膀",
+    "flavor_text": "{0}满足地扑扇翅膀",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2198,7 +2198,7 @@
     "name": "叮叮恶魔",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s绅士力充能一半",
+    "flavor_text": "{0}绅士力充能一半",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2213,7 +2213,7 @@
     "name": "叮叮恶魔",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s绅士力充能一半",
+    "flavor_text": "{0}绅士力充能一半",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2228,7 +2228,7 @@
     "name": "丢丢",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2243,7 +2243,7 @@
     "name": "丢丢",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2258,7 +2258,7 @@
     "name": "丢丢",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2273,7 +2273,7 @@
     "name": "丢丢",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -2281,7 +2281,7 @@
     "name": "丢丢",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -2289,7 +2289,7 @@
     "name": "卡卡虫",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2304,7 +2304,7 @@
     "name": "卡卡虫",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2319,7 +2319,7 @@
     "name": "卡卡虫",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2334,7 +2334,7 @@
     "name": "卡瓦重",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2349,7 +2349,7 @@
     "name": "卡瓦重",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2364,7 +2364,7 @@
     "name": "卡瓦重",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2379,7 +2379,7 @@
     "name": "伊贝尔",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s对你表示过感谢",
+    "flavor_text": "{0}对你表示过感谢",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2394,7 +2394,7 @@
     "name": "伊贝尔",
     "des": "苦一般",
     "res_id": "Alert",
-    "flavor_text": "%s不是很感兴趣",
+    "flavor_text": "{0}不是很感兴趣",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2409,7 +2409,7 @@
     "name": "伊贝尔",
     "des": "辣讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s脸都辣红了",
+    "flavor_text": "{0}脸都辣红了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2424,7 +2424,7 @@
     "name": "伊贝尔",
     "des": "喜欢加血",
     "res_id": "Sad",
-    "flavor_text": "%s很羡慕",
+    "flavor_text": "{0}很羡慕",
     "effect_order": 8
   },
   {
@@ -2432,7 +2432,7 @@
     "name": "伊贝尔",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -2440,7 +2440,7 @@
     "name": "伊贝尔",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -2448,7 +2448,7 @@
     "name": "伊贝粉粉",
     "des": "喜欢甜",
     "res_id": "Happy",
-    "flavor_text": "%s对你表示过感谢",
+    "flavor_text": "{0}对你表示过感谢",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2463,7 +2463,7 @@
     "name": "伊贝粉粉",
     "des": "苦一般",
     "res_id": "Alert",
-    "flavor_text": "%s不是很感兴趣",
+    "flavor_text": "{0}不是很感兴趣",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2478,7 +2478,7 @@
     "name": "伊贝粉粉",
     "des": "辣讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s脸都辣红了",
+    "flavor_text": "{0}脸都辣红了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2493,7 +2493,7 @@
     "name": "锥尾羊",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s很喜欢这个味道",
+    "flavor_text": "{0}很喜欢这个味道",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2508,7 +2508,7 @@
     "name": "锥尾羊",
     "des": "甜还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2523,7 +2523,7 @@
     "name": "锥尾羊",
     "des": "辣还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2538,7 +2538,7 @@
     "name": "锥尾羊",
     "des": "喜欢草场",
     "res_id": "Becute",
-    "flavor_text": "%s饿得咩咩叫",
+    "flavor_text": "{0}饿得咩咩叫",
     "effect_order": 4,
     "condition_param": [
       {
@@ -2553,7 +2553,7 @@
     "name": "锥尾羊",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -2561,7 +2561,7 @@
     "name": "锥尾羊",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -2569,7 +2569,7 @@
     "name": "铃兰羊",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s很喜欢这个味道",
+    "flavor_text": "{0}很喜欢这个味道",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2584,7 +2584,7 @@
     "name": "铃兰羊",
     "des": "甜还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2599,7 +2599,7 @@
     "name": "铃兰羊",
     "des": "辣还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2614,7 +2614,7 @@
     "name": "花影羚羊",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s很喜欢这个味道",
+    "flavor_text": "{0}很喜欢这个味道",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2629,7 +2629,7 @@
     "name": "花影羚羊",
     "des": "甜还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2644,7 +2644,7 @@
     "name": "花影羚羊",
     "des": "辣还行",
     "res_id": "Relax",
-    "flavor_text": "%s吃了两口",
+    "flavor_text": "{0}吃了两口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2659,7 +2659,7 @@
     "name": "圣光迪莫",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s光速吃光了",
+    "flavor_text": "{0}光速吃光了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2674,7 +2674,7 @@
     "name": "圣光迪莫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s能吃苦！",
+    "flavor_text": "{0}能吃苦！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2689,7 +2689,7 @@
     "name": "圣光迪莫",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s被辣得竖起尾巴",
+    "flavor_text": "{0}被辣得竖起尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2704,7 +2704,7 @@
     "name": "白发懒人",
     "des": "甜一般",
     "res_id": "happy",
-    "flavor_text": "%s来者不拒！",
+    "flavor_text": "{0}来者不拒！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2719,7 +2719,7 @@
     "name": "白发懒人",
     "des": "苦一般",
     "res_id": "happy",
-    "flavor_text": "%s来者不拒！",
+    "flavor_text": "{0}来者不拒！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2734,7 +2734,7 @@
     "name": "白发懒人",
     "des": "辣一般",
     "res_id": "happy",
-    "flavor_text": "%s来者不拒！",
+    "flavor_text": "{0}来者不拒！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2749,7 +2749,7 @@
     "name": "记忆石",
     "des": "不吃果子",
     "res_id": "Alert",
-    "flavor_text": "%s已经尝不出味道了。",
+    "flavor_text": "{0}已经尝不出味道了。",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2764,7 +2764,7 @@
     "name": "记忆石",
     "des": "不吃果子",
     "res_id": "Alert",
-    "flavor_text": "%s已经尝不出味道了。",
+    "flavor_text": "{0}已经尝不出味道了。",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2779,7 +2779,7 @@
     "name": "记忆石",
     "des": "不吃果子",
     "res_id": "Alert",
-    "flavor_text": "%s已经尝不出味道了。",
+    "flavor_text": "{0}已经尝不出味道了。",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2794,7 +2794,7 @@
     "name": "记忆石",
     "des": "喜欢加BUFF",
     "res_id": "Happy",
-    "flavor_text": "%s想与你一起冒险",
+    "flavor_text": "{0}想与你一起冒险",
     "effect_order": 9,
     "condition_param": [
       {
@@ -2809,7 +2809,7 @@
     "name": "圣草迪莫",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s光速吃光了",
+    "flavor_text": "{0}光速吃光了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2824,7 +2824,7 @@
     "name": "圣草迪莫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s能吃苦！",
+    "flavor_text": "{0}能吃苦！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2839,7 +2839,7 @@
     "name": "圣草迪莫",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s被辣得竖起尾巴",
+    "flavor_text": "{0}被辣得竖起尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2854,7 +2854,7 @@
     "name": "煤球憨憨",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s冷静了下来",
+    "flavor_text": "{0}冷静了下来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2869,7 +2869,7 @@
     "name": "煤球憨憨",
     "des": "甜还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2884,7 +2884,7 @@
     "name": "煤球憨憨",
     "des": "辣还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2899,7 +2899,7 @@
     "name": "煤球憨憨",
     "des": "喜欢锐利眼神",
     "res_id": "Becute",
-    "flavor_text": "%s在努力地不要眨眼",
+    "flavor_text": "{0}在努力地不要眨眼",
     "effect_order": 5,
     "condition_param": [
       {
@@ -2914,7 +2914,7 @@
     "name": "害羞球球",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s冷静了下来",
+    "flavor_text": "{0}冷静了下来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2929,7 +2929,7 @@
     "name": "害羞球球",
     "des": "甜还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2944,7 +2944,7 @@
     "name": "害羞球球",
     "des": "辣还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2959,7 +2959,7 @@
     "name": "蓝衣夜灵",
     "des": "喜欢苦",
     "res_id": "Happy",
-    "flavor_text": "%s冷静了下来",
+    "flavor_text": "{0}冷静了下来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2974,7 +2974,7 @@
     "name": "蓝衣夜灵",
     "des": "甜还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -2989,7 +2989,7 @@
     "name": "蓝衣夜灵",
     "des": "辣还行",
     "res_id": "Alert",
-    "flavor_text": "%s觉得很热",
+    "flavor_text": "{0}觉得很热",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3004,7 +3004,7 @@
     "name": "蓝衣夜灵",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -3012,7 +3012,7 @@
     "name": "蓝衣夜灵",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -3020,7 +3020,7 @@
     "name": "板板壳",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s吃了又吃",
+    "flavor_text": "{0}吃了又吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3035,7 +3035,7 @@
     "name": "板板壳",
     "des": "苦一般",
     "res_id": "Sad",
-    "flavor_text": "%s有点迷惑",
+    "flavor_text": "{0}有点迷惑",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3050,7 +3050,7 @@
     "name": "板板壳",
     "des": "辣讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s躲起来了",
+    "flavor_text": "{0}躲起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3065,7 +3065,7 @@
     "name": "板板壳",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -3073,7 +3073,7 @@
     "name": "板板壳",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -3081,7 +3081,7 @@
     "name": "咔咔壳",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s吃了又吃",
+    "flavor_text": "{0}吃了又吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3096,7 +3096,7 @@
     "name": "咔咔壳",
     "des": "苦一般",
     "res_id": "Sad",
-    "flavor_text": "%s有点迷惑",
+    "flavor_text": "{0}有点迷惑",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3111,7 +3111,7 @@
     "name": "咔咔壳",
     "des": "辣讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s躲起来了",
+    "flavor_text": "{0}躲起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3126,7 +3126,7 @@
     "name": "水泡壳",
     "des": "喜欢甜",
     "res_id": "Becute",
-    "flavor_text": "%s吃了又吃",
+    "flavor_text": "{0}吃了又吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3141,7 +3141,7 @@
     "name": "水泡壳",
     "des": "苦一般",
     "res_id": "Sad",
-    "flavor_text": "%s有点迷惑",
+    "flavor_text": "{0}有点迷惑",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3156,7 +3156,7 @@
     "name": "水泡壳",
     "des": "辣讨厌",
     "res_id": "Fear",
-    "flavor_text": "%s躲起来了",
+    "flavor_text": "{0}躲起来了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3171,7 +3171,7 @@
     "name": "一窝蜂",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心地互相交流",
+    "flavor_text": "{0}开心地互相交流",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3186,7 +3186,7 @@
     "name": "一窝蜂",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地浮在空中",
+    "flavor_text": "{0}平静地浮在空中",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3201,7 +3201,7 @@
     "name": "一窝蜂",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s幸福感为0",
+    "flavor_text": "{0}幸福感为0",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3216,7 +3216,7 @@
     "name": "黄蜂后",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心地互相交流",
+    "flavor_text": "{0}开心地互相交流",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3231,7 +3231,7 @@
     "name": "黄蜂后",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地浮在空中",
+    "flavor_text": "{0}平静地浮在空中",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3246,7 +3246,7 @@
     "name": "黄蜂后",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s幸福感为0",
+    "flavor_text": "{0}幸福感为0",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3261,7 +3261,7 @@
     "name": "小灵面",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s心中满溢着幸福",
+    "flavor_text": "{0}心中满溢着幸福",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3276,7 +3276,7 @@
     "name": "小灵面",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s内心波澜不惊",
+    "flavor_text": "{0}内心波澜不惊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3291,7 +3291,7 @@
     "name": "小灵面",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s内心波澜不惊",
+    "flavor_text": "{0}内心波澜不惊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3306,7 +3306,7 @@
     "name": "暗影灵面",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s心中满溢着幸福",
+    "flavor_text": "{0}心中满溢着幸福",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3321,7 +3321,7 @@
     "name": "暗影灵面",
     "des": "甜一般",
     "res_id": "Becute",
-    "flavor_text": "%s内心波澜不惊",
+    "flavor_text": "{0}内心波澜不惊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3336,7 +3336,7 @@
     "name": "暗影灵面",
     "des": "辣一般",
     "res_id": "Becute",
-    "flavor_text": "%s内心波澜不惊",
+    "flavor_text": "{0}内心波澜不惊",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3351,7 +3351,7 @@
     "name": "小独角兽",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s美滋滋摆起造型",
+    "flavor_text": "{0}美滋滋摆起造型",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3366,7 +3366,7 @@
     "name": "小独角兽",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s咂咂嘴未置可否",
+    "flavor_text": "{0}咂咂嘴未置可否",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3381,7 +3381,7 @@
     "name": "小独角兽",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s晕晕地抬起前蹄",
+    "flavor_text": "{0}晕晕地抬起前蹄",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3396,7 +3396,7 @@
     "name": "白金独角兽",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s美滋滋摆起造型",
+    "flavor_text": "{0}美滋滋摆起造型",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3411,7 +3411,7 @@
     "name": "白金独角兽",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s咂咂嘴未置可否",
+    "flavor_text": "{0}咂咂嘴未置可否",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3426,7 +3426,7 @@
     "name": "白金独角兽",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s晕晕地抬起前蹄",
+    "flavor_text": "{0}晕晕地抬起前蹄",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3441,7 +3441,7 @@
     "name": "幽影树",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s自信地转起圈圈",
+    "flavor_text": "{0}自信地转起圈圈",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3456,7 +3456,7 @@
     "name": "幽影树",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s泄气地耷拉双锤",
+    "flavor_text": "{0}泄气地耷拉双锤",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3471,7 +3471,7 @@
     "name": "幽影树",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s泄气地耷拉双锤",
+    "flavor_text": "{0}泄气地耷拉双锤",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3486,7 +3486,7 @@
     "name": "忽幽狸",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s满意地上蹿下跳",
+    "flavor_text": "{0}满意地上蹿下跳",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3501,7 +3501,7 @@
     "name": "忽幽狸",
     "des": "甜一般",
     "res_id": "Happy",
-    "flavor_text": "%s平静地摇着尾巴",
+    "flavor_text": "{0}平静地摇着尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3516,7 +3516,7 @@
     "name": "忽幽狸",
     "des": "辣一般",
     "res_id": "Happy",
-    "flavor_text": "%s平静地摇着尾巴",
+    "flavor_text": "{0}平静地摇着尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3531,7 +3531,7 @@
     "name": "影狸",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s满意地上蹿下跳",
+    "flavor_text": "{0}满意地上蹿下跳",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3546,7 +3546,7 @@
     "name": "影狸",
     "des": "甜一般",
     "res_id": "Happy",
-    "flavor_text": "%s平静地摇着尾巴",
+    "flavor_text": "{0}平静地摇着尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3561,7 +3561,7 @@
     "name": "影狸",
     "des": "辣一般",
     "res_id": "Happy",
-    "flavor_text": "%s平静地摇着尾巴",
+    "flavor_text": "{0}平静地摇着尾巴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3576,7 +3576,7 @@
     "name": "卷毛鸭",
     "des": "被克制",
     "res_id": "Happy",
-    "flavor_text": "%s对你十分认同",
+    "flavor_text": "{0}对你十分认同",
     "effect_order": 3,
     "condition_param": [
       {
@@ -3591,7 +3591,7 @@
     "name": "卷毛鸭",
     "des": "喜欢辣",
     "res_id": "Happy",
-    "flavor_text": "%s充满了力量！！！",
+    "flavor_text": "{0}充满了力量！！！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3606,7 +3606,7 @@
     "name": "卷毛鸭",
     "des": "苦一般",
     "res_id": "Relax",
-    "flavor_text": "%s勉强吃完了",
+    "flavor_text": "{0}勉强吃完了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3621,7 +3621,7 @@
     "name": "卷毛鸭",
     "des": "讨厌甜",
     "res_id": "Alert",
-    "flavor_text": "%s很不屑",
+    "flavor_text": "{0}很不屑",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3636,7 +3636,7 @@
     "name": "灵蔓草王",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s感觉一般般……",
+    "flavor_text": "{0}感觉一般般……",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3651,7 +3651,7 @@
     "name": "灵蔓草王",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s满意地眯起眼睛",
+    "flavor_text": "{0}满意地眯起眼睛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3666,7 +3666,7 @@
     "name": "灵蔓草王",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s感觉不够劲",
+    "flavor_text": "{0}感觉不够劲",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3681,7 +3681,7 @@
     "name": "锤头鹳",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s喜悦地叽叽喳喳",
+    "flavor_text": "{0}喜悦地叽叽喳喳",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3696,7 +3696,7 @@
     "name": "锤头鹳",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s呆呆地伫立原地",
+    "flavor_text": "{0}呆呆地伫立原地",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3711,7 +3711,7 @@
     "name": "锤头鹳",
     "des": "甜讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s中毒般向后退缩",
+    "flavor_text": "{0}中毒般向后退缩",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3726,7 +3726,7 @@
     "name": "护主犬",
     "des": "甜讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s吃完后有点儿头痛",
+    "flavor_text": "{0}吃完后有点儿头痛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3741,7 +3741,7 @@
     "name": "护主犬",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s想请你换个口味",
+    "flavor_text": "{0}想请你换个口味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3756,7 +3756,7 @@
     "name": "护主犬",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s朝你开心地汪汪叫",
+    "flavor_text": "{0}朝你开心地汪汪叫",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3771,7 +3771,7 @@
     "name": "护主犬",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -3779,7 +3779,7 @@
     "name": "护主犬",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -3787,7 +3787,7 @@
     "name": "音速犬",
     "des": "甜讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s吃完后有点儿头痛",
+    "flavor_text": "{0}吃完后有点儿头痛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3802,7 +3802,7 @@
     "name": "音速犬",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s想请你换个口味",
+    "flavor_text": "{0}想请你换个口味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3817,7 +3817,7 @@
     "name": "音速犬",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s朝你开心地汪汪叫",
+    "flavor_text": "{0}朝你开心地汪汪叫",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3832,7 +3832,7 @@
     "name": "音速犬",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -3840,7 +3840,7 @@
     "name": "音速犬",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -3848,7 +3848,7 @@
     "name": "格兰种子",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3863,7 +3863,7 @@
     "name": "格兰种子",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3878,7 +3878,7 @@
     "name": "格兰种子",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3893,7 +3893,7 @@
     "name": "格兰球",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3908,7 +3908,7 @@
     "name": "格兰球",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3923,7 +3923,7 @@
     "name": "格兰球",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3938,7 +3938,7 @@
     "name": "格兰球",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -3946,7 +3946,7 @@
     "name": "格兰球",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -3954,7 +3954,7 @@
     "name": "格兰花",
     "des": "甜喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3969,7 +3969,7 @@
     "name": "格兰花",
     "des": "苦喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3984,7 +3984,7 @@
     "name": "格兰花",
     "des": "辣喜欢",
     "res_id": "Becute",
-    "flavor_text": "%s不挑食！",
+    "flavor_text": "{0}不挑食！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -3999,7 +3999,7 @@
     "name": "格兰花",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4007,7 +4007,7 @@
     "name": "格兰花",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4015,7 +4015,7 @@
     "name": "灵狐",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4030,7 +4030,7 @@
     "name": "灵狐",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s细细地回味",
+    "flavor_text": "{0}细细地回味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4045,7 +4045,7 @@
     "name": "灵狐",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4060,7 +4060,7 @@
     "name": "九尾狐",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4075,7 +4075,7 @@
     "name": "九尾狐",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s细细地回味",
+    "flavor_text": "{0}细细地回味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4090,7 +4090,7 @@
     "name": "九尾狐",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4105,7 +4105,7 @@
     "name": "尖嘴狐仙",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4120,7 +4120,7 @@
     "name": "尖嘴狐仙",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s细细地回味",
+    "flavor_text": "{0}细细地回味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4135,7 +4135,7 @@
     "name": "尖嘴狐仙",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s觉得没什么滋味",
+    "flavor_text": "{0}觉得没什么滋味",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4150,7 +4150,7 @@
     "name": "烈钻鸟",
     "des": "甜讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s不满地竖起羽毛",
+    "flavor_text": "{0}不满地竖起羽毛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4165,7 +4165,7 @@
     "name": "烈钻鸟",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s慢慢地吞了下去",
+    "flavor_text": "{0}慢慢地吞了下去",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4180,7 +4180,7 @@
     "name": "烈钻鸟",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s一口气全吃光",
+    "flavor_text": "{0}一口气全吃光",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4195,7 +4195,7 @@
     "name": "长尾火鸟",
     "des": "甜讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s不满地竖起羽毛",
+    "flavor_text": "{0}不满地竖起羽毛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4210,7 +4210,7 @@
     "name": "长尾火鸟",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s慢慢地吞了下去",
+    "flavor_text": "{0}慢慢地吞了下去",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4225,7 +4225,7 @@
     "name": "长尾火鸟",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s一口气全吃光",
+    "flavor_text": "{0}一口气全吃光",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4240,7 +4240,7 @@
     "name": "长尾火鸟",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4248,7 +4248,7 @@
     "name": "长尾火鸟",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4256,7 +4256,7 @@
     "name": "火羽",
     "des": "甜讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s不满地竖起羽毛",
+    "flavor_text": "{0}不满地竖起羽毛",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4271,7 +4271,7 @@
     "name": "火羽",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s慢慢地吞了下去",
+    "flavor_text": "{0}慢慢地吞了下去",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4286,7 +4286,7 @@
     "name": "火羽",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s一口气全吃光",
+    "flavor_text": "{0}一口气全吃光",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4301,7 +4301,7 @@
     "name": "治愈兔",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s幸福地跳着舞",
+    "flavor_text": "{0}幸福地跳着舞",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4316,7 +4316,7 @@
     "name": "治愈兔",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s礼貌地吃了几口",
+    "flavor_text": "{0}礼貌地吃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4331,7 +4331,7 @@
     "name": "治愈兔",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得差点摔倒！",
+    "flavor_text": "{0}辣得差点摔倒！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4346,7 +4346,7 @@
     "name": "治愈兔",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4354,7 +4354,7 @@
     "name": "治愈兔",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4362,7 +4362,7 @@
     "name": "红丝绒",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s幸福地跳着舞",
+    "flavor_text": "{0}幸福地跳着舞",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4377,7 +4377,7 @@
     "name": "红丝绒",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s礼貌地吃了几口",
+    "flavor_text": "{0}礼貌地吃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4392,7 +4392,7 @@
     "name": "红丝绒",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得差点摔倒！",
+    "flavor_text": "{0}辣得差点摔倒！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4407,7 +4407,7 @@
     "name": "红丝绒",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4415,7 +4415,7 @@
     "name": "红丝绒",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4423,7 +4423,7 @@
     "name": "可爱猿",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s喜欢甜甜的",
+    "flavor_text": "{0}喜欢甜甜的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4438,7 +4438,7 @@
     "name": "可爱猿",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s受不了苦",
+    "flavor_text": "{0}受不了苦",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4453,7 +4453,7 @@
     "name": "可爱猿",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s吃不下辣",
+    "flavor_text": "{0}吃不下辣",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4468,7 +4468,7 @@
     "name": "可爱猿",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4476,7 +4476,7 @@
     "name": "可爱猿",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4484,7 +4484,7 @@
     "name": "可立鸡",
     "des": "甜讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿被知道爱吃甜食",
+    "flavor_text": "{0}不愿被知道爱吃甜食",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4499,7 +4499,7 @@
     "name": "可立鸡",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s装作自然地咽下去了",
+    "flavor_text": "{0}装作自然地咽下去了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4514,7 +4514,7 @@
     "name": "可立鸡",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s故意表现得能吃辣！",
+    "flavor_text": "{0}故意表现得能吃辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4529,7 +4529,7 @@
     "name": "晕晕鸡",
     "des": "甜讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿被知道爱吃甜食",
+    "flavor_text": "{0}不愿被知道爱吃甜食",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4544,7 +4544,7 @@
     "name": "晕晕鸡",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s装作自然地咽下去了",
+    "flavor_text": "{0}装作自然地咽下去了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4559,7 +4559,7 @@
     "name": "晕晕鸡",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s故意表现得能吃辣！",
+    "flavor_text": "{0}故意表现得能吃辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4574,7 +4574,7 @@
     "name": "晕晕鸡",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4582,7 +4582,7 @@
     "name": "晕晕鸡",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4590,7 +4590,7 @@
     "name": "绅士鸡",
     "des": "甜讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿被知道爱吃甜食",
+    "flavor_text": "{0}不愿被知道爱吃甜食",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4605,7 +4605,7 @@
     "name": "绅士鸡",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s装作自然地咽下去了",
+    "flavor_text": "{0}装作自然地咽下去了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4620,7 +4620,7 @@
     "name": "绅士鸡",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s故意表现得能吃辣！",
+    "flavor_text": "{0}故意表现得能吃辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4635,7 +4635,7 @@
     "name": "绅士鸡",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4643,7 +4643,7 @@
     "name": "绅士鸡",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4651,7 +4651,7 @@
     "name": "武者鸡",
     "des": "甜讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿被知道爱吃甜食",
+    "flavor_text": "{0}不愿被知道爱吃甜食",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4666,7 +4666,7 @@
     "name": "武者鸡",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s装作自然地咽下去了",
+    "flavor_text": "{0}装作自然地咽下去了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4681,7 +4681,7 @@
     "name": "武者鸡",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s故意表现得能吃辣！",
+    "flavor_text": "{0}故意表现得能吃辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4696,7 +4696,7 @@
     "name": "火尾瓦特",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4711,7 +4711,7 @@
     "name": "火尾瓦特",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s就爱这种醍醐味！",
+    "flavor_text": "{0}就爱这种醍醐味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4726,7 +4726,7 @@
     "name": "火尾瓦特",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4741,7 +4741,7 @@
     "name": "火尾战士",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4756,7 +4756,7 @@
     "name": "火尾战士",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s就爱这种醍醐味！",
+    "flavor_text": "{0}就爱这种醍醐味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4771,7 +4771,7 @@
     "name": "火尾战士",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4786,7 +4786,7 @@
     "name": "烈火守护",
     "des": "甜一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4801,7 +4801,7 @@
     "name": "烈火守护",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s就爱这种醍醐味！",
+    "flavor_text": "{0}就爱这种醍醐味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4816,7 +4816,7 @@
     "name": "烈火守护",
     "des": "辣一般",
     "res_id": "Sad",
-    "flavor_text": "%s吃得兴致缺缺",
+    "flavor_text": "{0}吃得兴致缺缺",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4831,7 +4831,7 @@
     "name": "舞动路路",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s感谢地收下了",
+    "flavor_text": "{0}感谢地收下了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4846,7 +4846,7 @@
     "name": "舞动路路",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "比起果子%s更喜欢你！",
+    "flavor_text": "比起果子{0}更喜欢你！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4861,7 +4861,7 @@
     "name": "舞动路路",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "比起果子%s更喜欢你！",
+    "flavor_text": "比起果子{0}更喜欢你！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4876,7 +4876,7 @@
     "name": "绿耳松鼠",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "比%s家里的还甜！",
+    "flavor_text": "比{0}家里的还甜！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4891,7 +4891,7 @@
     "name": "绿耳松鼠",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦哭了",
+    "flavor_text": "{0}苦哭了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4906,7 +4906,7 @@
     "name": "绿耳松鼠",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得跳起来",
+    "flavor_text": "{0}辣得跳起来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4921,7 +4921,7 @@
     "name": "绿耳松鼠",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4929,7 +4929,7 @@
     "name": "绿耳松鼠",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4937,7 +4937,7 @@
     "name": "抱枕松鼠",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "比%s家里的还甜！",
+    "flavor_text": "比{0}家里的还甜！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4952,7 +4952,7 @@
     "name": "抱枕松鼠",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦哭了",
+    "flavor_text": "{0}苦哭了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4967,7 +4967,7 @@
     "name": "抱枕松鼠",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得跳起来",
+    "flavor_text": "{0}辣得跳起来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -4982,7 +4982,7 @@
     "name": "抱枕松鼠",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -4990,7 +4990,7 @@
     "name": "抱枕松鼠",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -4998,7 +4998,7 @@
     "name": "蹦床松鼠",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "比%s家里的还甜！",
+    "flavor_text": "比{0}家里的还甜！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5013,7 +5013,7 @@
     "name": "蹦床松鼠",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦哭了",
+    "flavor_text": "{0}苦哭了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5028,7 +5028,7 @@
     "name": "蹦床松鼠",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得跳起来",
+    "flavor_text": "{0}辣得跳起来",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5043,7 +5043,7 @@
     "name": "蹦床松鼠",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5051,7 +5051,7 @@
     "name": "蹦床松鼠",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5059,7 +5059,7 @@
     "name": "布是石",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5074,7 +5074,7 @@
     "name": "布是石",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5089,7 +5089,7 @@
     "name": "布是石",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5104,7 +5104,7 @@
     "name": "布是岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5119,7 +5119,7 @@
     "name": "布是岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5134,7 +5134,7 @@
     "name": "布是岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5149,7 +5149,7 @@
     "name": "布是岩",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5157,7 +5157,7 @@
     "name": "布是岩",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5165,7 +5165,7 @@
     "name": "布克棱岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5180,7 +5180,7 @@
     "name": "布克棱岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5195,7 +5195,7 @@
     "name": "布克棱岩",
     "des": "不吃果子",
     "res_id": "Sad",
-    "flavor_text": "%s无从下口！",
+    "flavor_text": "{0}无从下口！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5210,7 +5210,7 @@
     "name": "布克棱岩",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5218,7 +5218,7 @@
     "name": "布克棱岩",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5226,7 +5226,7 @@
     "name": "甜田螺",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s求你再给一个！",
+    "flavor_text": "{0}求你再给一个！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5241,7 +5241,7 @@
     "name": "甜田螺",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s不喜欢苦味！",
+    "flavor_text": "{0}不喜欢苦味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5256,7 +5256,7 @@
     "name": "甜田螺",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s从没吃过辣！",
+    "flavor_text": "{0}从没吃过辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5271,7 +5271,7 @@
     "name": "甜田螺",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5279,7 +5279,7 @@
     "name": "甜田螺",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5287,7 +5287,7 @@
     "name": "卡洛儿",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s求你再给一个！",
+    "flavor_text": "{0}求你再给一个！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5302,7 +5302,7 @@
     "name": "卡洛儿",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s不喜欢苦味！",
+    "flavor_text": "{0}不喜欢苦味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5317,7 +5317,7 @@
     "name": "卡洛儿",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s从没吃过辣！",
+    "flavor_text": "{0}从没吃过辣！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5332,7 +5332,7 @@
     "name": "卡洛儿",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5340,7 +5340,7 @@
     "name": "卡洛儿",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5348,7 +5348,7 @@
     "name": "风铃鲨",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心得合不拢嘴",
+    "flavor_text": "{0}开心得合不拢嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5363,7 +5363,7 @@
     "name": "风铃鲨",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦得垂下了头",
+    "flavor_text": "{0}苦得垂下了头",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5378,7 +5378,7 @@
     "name": "风铃鲨",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得睁不开眼",
+    "flavor_text": "{0}辣得睁不开眼",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5393,7 +5393,7 @@
     "name": "蓝蝶鲨",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心得合不拢嘴",
+    "flavor_text": "{0}开心得合不拢嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5408,7 +5408,7 @@
     "name": "蓝蝶鲨",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦得垂下了头",
+    "flavor_text": "{0}苦得垂下了头",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5423,7 +5423,7 @@
     "name": "蓝蝶鲨",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得睁不开眼",
+    "flavor_text": "{0}辣得睁不开眼",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5438,7 +5438,7 @@
     "name": "蓝蝶鲨",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5446,7 +5446,7 @@
     "name": "蓝蝶鲨",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5454,7 +5454,7 @@
     "name": "彩蝶鲨",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心得合不拢嘴",
+    "flavor_text": "{0}开心得合不拢嘴",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5469,7 +5469,7 @@
     "name": "彩蝶鲨",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s苦得垂下了头",
+    "flavor_text": "{0}苦得垂下了头",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5484,7 +5484,7 @@
     "name": "彩蝶鲨",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s辣得睁不开眼",
+    "flavor_text": "{0}辣得睁不开眼",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5499,7 +5499,7 @@
     "name": "彩蝶鲨",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5507,7 +5507,7 @@
     "name": "彩蝶鲨",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5515,7 +5515,7 @@
     "name": "果冻",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5530,7 +5530,7 @@
     "name": "果冻",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s吃得无比开心！",
+    "flavor_text": "{0}吃得无比开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5545,7 +5545,7 @@
     "name": "果冻",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5560,7 +5560,7 @@
     "name": "果冻",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5568,7 +5568,7 @@
     "name": "果冻",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5576,7 +5576,7 @@
     "name": "翡翠水母",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5591,7 +5591,7 @@
     "name": "翡翠水母",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s吃得无比开心！",
+    "flavor_text": "{0}吃得无比开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5606,7 +5606,7 @@
     "name": "翡翠水母",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5621,7 +5621,7 @@
     "name": "翡翠水母",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5629,7 +5629,7 @@
     "name": "翡翠水母",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5637,7 +5637,7 @@
     "name": "琉璃水母",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5652,7 +5652,7 @@
     "name": "琉璃水母",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s吃得无比开心！",
+    "flavor_text": "{0}吃得无比开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5667,7 +5667,7 @@
     "name": "琉璃水母",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s吃什么都开心！",
+    "flavor_text": "{0}吃什么都开心！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5682,7 +5682,7 @@
     "name": "琉璃水母",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5690,7 +5690,7 @@
     "name": "琉璃水母",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5698,7 +5698,7 @@
     "name": "大耳帽兜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s想起小时候的幸福",
+    "flavor_text": "{0}想起小时候的幸福",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5713,7 +5713,7 @@
     "name": "大耳帽兜",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "苦味才不适合%s！",
+    "flavor_text": "苦味才不适合{0}！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5728,7 +5728,7 @@
     "name": "大耳帽兜",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s还不到吃辣的年纪",
+    "flavor_text": "{0}还不到吃辣的年纪",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5743,7 +5743,7 @@
     "name": "大耳帽兜",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5751,7 +5751,7 @@
     "name": "大耳帽兜",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5759,7 +5759,7 @@
     "name": "帽兜娃娃",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s想起小时候的幸福",
+    "flavor_text": "{0}想起小时候的幸福",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5774,7 +5774,7 @@
     "name": "帽兜娃娃",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "苦味才不适合%s！",
+    "flavor_text": "苦味才不适合{0}！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5789,7 +5789,7 @@
     "name": "帽兜娃娃",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s还不到吃辣的年纪",
+    "flavor_text": "{0}还不到吃辣的年纪",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5804,7 +5804,7 @@
     "name": "帽兜娃娃",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5812,7 +5812,7 @@
     "name": "帽兜娃娃",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5820,7 +5820,7 @@
     "name": "雪影娃娃",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s想起小时候的幸福",
+    "flavor_text": "{0}想起小时候的幸福",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5835,7 +5835,7 @@
     "name": "雪影娃娃",
     "des": "苦讨厌",
     "res_id": "Sad",
-    "flavor_text": "苦味才不适合%s！",
+    "flavor_text": "苦味才不适合{0}！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5850,7 +5850,7 @@
     "name": "雪影娃娃",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s还不到吃辣的年纪",
+    "flavor_text": "{0}还不到吃辣的年纪",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5865,7 +5865,7 @@
     "name": "雪影娃娃",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5873,7 +5873,7 @@
     "name": "雪影娃娃",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5881,7 +5881,7 @@
     "name": "脆筒甜甜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "在%s上点缀了甜果子！",
+    "flavor_text": "在{0}上点缀了甜果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5896,7 +5896,7 @@
     "name": "脆筒甜甜",
     "des": "苦讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了苦果子！",
+    "flavor_text": "在{0}上点缀了苦果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5911,7 +5911,7 @@
     "name": "脆筒甜甜",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了辣果子！",
+    "flavor_text": "在{0}上点缀了辣果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5926,7 +5926,7 @@
     "name": "脆筒甜甜",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5934,7 +5934,7 @@
     "name": "脆筒甜甜",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -5942,7 +5942,7 @@
     "name": "香草甜甜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "在%s上点缀了甜果子！",
+    "flavor_text": "在{0}上点缀了甜果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5957,7 +5957,7 @@
     "name": "香草甜甜",
     "des": "苦讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了苦果子！",
+    "flavor_text": "在{0}上点缀了苦果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5972,7 +5972,7 @@
     "name": "香草甜甜",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了辣果子！",
+    "flavor_text": "在{0}上点缀了辣果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -5987,7 +5987,7 @@
     "name": "香草甜甜",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -5995,7 +5995,7 @@
     "name": "香草甜甜",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6003,7 +6003,7 @@
     "name": "圣代甜甜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "在%s上点缀了甜果子！",
+    "flavor_text": "在{0}上点缀了甜果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6018,7 +6018,7 @@
     "name": "圣代甜甜",
     "des": "苦讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了苦果子！",
+    "flavor_text": "在{0}上点缀了苦果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6033,7 +6033,7 @@
     "name": "圣代甜甜",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "在%s上点缀了辣果子！",
+    "flavor_text": "在{0}上点缀了辣果子！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6048,7 +6048,7 @@
     "name": "圣代甜甜",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6056,7 +6056,7 @@
     "name": "圣代甜甜",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6064,7 +6064,7 @@
     "name": "小狮鹫",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了友谊的味道！",
+    "flavor_text": "{0}品出了友谊的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6079,7 +6079,7 @@
     "name": "小狮鹫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了勇气的味道！",
+    "flavor_text": "{0}品出了勇气的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6094,7 +6094,7 @@
     "name": "小狮鹫",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了热情的味道！",
+    "flavor_text": "{0}品出了热情的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6109,7 +6109,7 @@
     "name": "小狮鹫",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6117,7 +6117,7 @@
     "name": "小狮鹫",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6125,7 +6125,7 @@
     "name": "神圣狮鹫",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了友谊的味道！",
+    "flavor_text": "{0}品出了友谊的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6140,7 +6140,7 @@
     "name": "神圣狮鹫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了勇气的味道！",
+    "flavor_text": "{0}品出了勇气的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6155,7 +6155,7 @@
     "name": "神圣狮鹫",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了热情的味道！",
+    "flavor_text": "{0}品出了热情的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6170,7 +6170,7 @@
     "name": "神圣狮鹫",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6178,7 +6178,7 @@
     "name": "神圣狮鹫",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6186,7 +6186,7 @@
     "name": "皇家狮鹫",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了友谊的味道！",
+    "flavor_text": "{0}品出了友谊的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6201,7 +6201,7 @@
     "name": "皇家狮鹫",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了勇气的味道！",
+    "flavor_text": "{0}品出了勇气的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6216,7 +6216,7 @@
     "name": "皇家狮鹫",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s品出了热情的味道！",
+    "flavor_text": "{0}品出了热情的味道！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6231,7 +6231,7 @@
     "name": "皇家狮鹫",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6239,7 +6239,7 @@
     "name": "皇家狮鹫",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6247,7 +6247,7 @@
     "name": "圆眼蜘蛛",
     "des": "甜喜欢",
     "res_id": "Relax",
-    "flavor_text": "%s吃得肚子圆圆的",
+    "flavor_text": "{0}吃得肚子圆圆的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6262,7 +6262,7 @@
     "name": "圆眼蜘蛛",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s勉强地吃下了",
+    "flavor_text": "{0}勉强地吃下了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6277,7 +6277,7 @@
     "name": "圆眼蜘蛛",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s把果子拨开了",
+    "flavor_text": "{0}把果子拨开了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6292,7 +6292,7 @@
     "name": "圆眼蜘蛛",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6300,7 +6300,7 @@
     "name": "圆眼蜘蛛",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6308,7 +6308,7 @@
     "name": "毛毛",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s张开嘴还想接着吃",
+    "flavor_text": "{0}张开嘴还想接着吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6323,7 +6323,7 @@
     "name": "毛毛",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s感觉和平时吃的差不多",
+    "flavor_text": "{0}感觉和平时吃的差不多",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6338,7 +6338,7 @@
     "name": "毛毛",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s感觉不如平时吃的",
+    "flavor_text": "{0}感觉不如平时吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6353,7 +6353,7 @@
     "name": "爬爬",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s张开嘴还想接着吃",
+    "flavor_text": "{0}张开嘴还想接着吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6368,7 +6368,7 @@
     "name": "爬爬",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s感觉和平时吃的差不多",
+    "flavor_text": "{0}感觉和平时吃的差不多",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6383,7 +6383,7 @@
     "name": "爬爬",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s感觉不如平时吃的",
+    "flavor_text": "{0}感觉不如平时吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6398,7 +6398,7 @@
     "name": "爬爬",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6406,7 +6406,7 @@
     "name": "爬爬",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6414,7 +6414,7 @@
     "name": "化蝶",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s张开嘴还想接着吃",
+    "flavor_text": "{0}张开嘴还想接着吃",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6429,7 +6429,7 @@
     "name": "化蝶",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s感觉和平时吃的差不多",
+    "flavor_text": "{0}感觉和平时吃的差不多",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6444,7 +6444,7 @@
     "name": "化蝶",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s感觉不如平时吃的",
+    "flavor_text": "{0}感觉不如平时吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6459,7 +6459,7 @@
     "name": "化蝶",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6467,7 +6467,7 @@
     "name": "化蝶",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6475,7 +6475,7 @@
     "name": "小夜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s优雅地吃完了",
+    "flavor_text": "{0}优雅地吃完了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6490,7 +6490,7 @@
     "name": "小夜",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s优雅地收好了",
+    "flavor_text": "{0}优雅地收好了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6505,7 +6505,7 @@
     "name": "小夜",
     "des": "辣讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s优雅地回绝了",
+    "flavor_text": "{0}优雅地回绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6520,7 +6520,7 @@
     "name": "紫夜",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s优雅地吃完了",
+    "flavor_text": "{0}优雅地吃完了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6535,7 +6535,7 @@
     "name": "紫夜",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s优雅地收好了",
+    "flavor_text": "{0}优雅地收好了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6550,7 +6550,7 @@
     "name": "紫夜",
     "des": "辣讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s优雅地回绝了",
+    "flavor_text": "{0}优雅地回绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6565,7 +6565,7 @@
     "name": "朔夜伊芙",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s优雅地吃完了",
+    "flavor_text": "{0}优雅地吃完了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6580,7 +6580,7 @@
     "name": "朔夜伊芙",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s优雅地收好了",
+    "flavor_text": "{0}优雅地收好了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6595,7 +6595,7 @@
     "name": "朔夜伊芙",
     "des": "辣讨厌",
     "res_id": "Anger",
-    "flavor_text": "%s优雅地回绝了",
+    "flavor_text": "{0}优雅地回绝了",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6610,7 +6610,7 @@
     "name": "多多",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s想要更好吃的",
+    "flavor_text": "{0}想要更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6625,7 +6625,7 @@
     "name": "多多",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s大快朵颐",
+    "flavor_text": "{0}大快朵颐",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6640,7 +6640,7 @@
     "name": "多多",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s想要更好吃的",
+    "flavor_text": "{0}想要更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6655,7 +6655,7 @@
     "name": "多多",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6663,7 +6663,7 @@
     "name": "多多",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6671,7 +6671,7 @@
     "name": "多啦多",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s想要更好吃的",
+    "flavor_text": "{0}想要更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6686,7 +6686,7 @@
     "name": "多啦多",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s大快朵颐",
+    "flavor_text": "{0}大快朵颐",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6701,7 +6701,7 @@
     "name": "多啦多",
     "des": "辣一般",
     "res_id": "Show",
-    "flavor_text": "%s想要更好吃的",
+    "flavor_text": "{0}想要更好吃的",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6716,7 +6716,7 @@
     "name": "多啦多",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6724,7 +6724,7 @@
     "name": "多啦多",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6732,7 +6732,7 @@
     "name": "花魁蜂后",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s开心地互相交流",
+    "flavor_text": "{0}开心地互相交流",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6747,7 +6747,7 @@
     "name": "花魁蜂后",
     "des": "苦一般",
     "res_id": "Becute",
-    "flavor_text": "%s平静地浮在空中",
+    "flavor_text": "{0}平静地浮在空中",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6762,7 +6762,7 @@
     "name": "花魁蜂后",
     "des": "辣讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s幸福感为0",
+    "flavor_text": "{0}幸福感为0",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6777,7 +6777,7 @@
     "name": "花魁蜂后",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6785,7 +6785,7 @@
     "name": "花魁蜂后",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6793,7 +6793,7 @@
     "name": "春团",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s想跟你一起旅行！",
+    "flavor_text": "{0}想跟你一起旅行！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6808,7 +6808,7 @@
     "name": "春团",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s懂事地吃了几口",
+    "flavor_text": "{0}懂事地吃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6823,7 +6823,7 @@
     "name": "春团",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿再吃一口",
+    "flavor_text": "{0}不愿再吃一口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6838,7 +6838,7 @@
     "name": "春团",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6846,7 +6846,7 @@
     "name": "春团",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6854,7 +6854,7 @@
     "name": "春兔",
     "des": "甜喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s想跟你一起旅行！",
+    "flavor_text": "{0}想跟你一起旅行！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6869,7 +6869,7 @@
     "name": "春兔",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s懂事地吃了几口",
+    "flavor_text": "{0}懂事地吃了几口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6884,7 +6884,7 @@
     "name": "春兔",
     "des": "辣讨厌",
     "res_id": "Shock",
-    "flavor_text": "%s不愿再吃一口",
+    "flavor_text": "{0}不愿再吃一口",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6899,7 +6899,7 @@
     "name": "春兔",
     "des": "不喜欢被打",
     "res_id": "Sad",
-    "flavor_text": "%s被攻击了,伤心！",
+    "flavor_text": "{0}被攻击了,伤心！",
     "effect_order": 11
   },
   {
@@ -6907,7 +6907,7 @@
     "name": "春兔",
     "des": "喜欢不被打",
     "res_id": "Happy",
-    "flavor_text": "%s没被攻击，开心！",
+    "flavor_text": "{0}没被攻击，开心！",
     "effect_order": 16
   },
   {
@@ -6915,7 +6915,7 @@
     "name": "伏地兽",
     "des": "甜一般",
     "res_id": "Relax",
-    "flavor_text": "%s抿了抿舌头",
+    "flavor_text": "{0}抿了抿舌头",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6930,7 +6930,7 @@
     "name": "伏地兽",
     "des": "苦喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s不停咂舌回味！",
+    "flavor_text": "{0}不停咂舌回味！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6945,7 +6945,7 @@
     "name": "伏地兽",
     "des": "辣一般",
     "res_id": "Relax",
-    "flavor_text": "%s抿了抿舌头",
+    "flavor_text": "{0}抿了抿舌头",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6960,7 +6960,7 @@
     "name": "雪豆丁",
     "des": "甜讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s想吃更暖的！",
+    "flavor_text": "{0}想吃更暖的！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6975,7 +6975,7 @@
     "name": "雪豆丁",
     "des": "苦讨厌",
     "res_id": "Show",
-    "flavor_text": "%s想吃更暖的！",
+    "flavor_text": "{0}想吃更暖的！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -6990,7 +6990,7 @@
     "name": "雪豆丁",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s感到内心火热！",
+    "flavor_text": "{0}感到内心火热！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7005,7 +7005,7 @@
     "name": "雪巨人",
     "des": "甜讨厌",
     "res_id": "Sad",
-    "flavor_text": "%s想吃更暖的！",
+    "flavor_text": "{0}想吃更暖的！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7020,7 +7020,7 @@
     "name": "雪巨人",
     "des": "苦讨厌",
     "res_id": "Show",
-    "flavor_text": "%s想吃更暖的！",
+    "flavor_text": "{0}想吃更暖的！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7035,7 +7035,7 @@
     "name": "雪巨人",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s感到内心火热！",
+    "flavor_text": "{0}感到内心火热！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7050,7 +7050,7 @@
     "name": "机械方方",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s把果子转化为能量",
+    "flavor_text": "{0}把果子转化为能量",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7065,7 +7065,7 @@
     "name": "机械方方",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s把果子转化为能量",
+    "flavor_text": "{0}把果子转化为能量",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7080,7 +7080,7 @@
     "name": "机械方方",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s获得了大量能量！",
+    "flavor_text": "{0}获得了大量能量！",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7095,7 +7095,7 @@
     "name": "立方人",
     "des": "甜一般",
     "res_id": "Show",
-    "flavor_text": "%s把果子转化为能量",
+    "flavor_text": "{0}把果子转化为能量",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7110,7 +7110,7 @@
     "name": "立方人",
     "des": "苦一般",
     "res_id": "Show",
-    "flavor_text": "%s把果子转化为能量",
+    "flavor_text": "{0}把果子转化为能量",
     "effect_order": 6,
     "condition_param": [
       {
@@ -7125,7 +7125,7 @@
     "name": "立方人",
     "des": "辣喜欢",
     "res_id": "Happy",
-    "flavor_text": "%s获得了大量能量！",
+    "flavor_text": "{0}获得了大量能量！",
     "effect_order": 6,
     "condition_param": [
       {

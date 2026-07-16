@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1001,
+    "goods_name": "迪莫物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910001,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 300,
+    "price_max": 787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 1002,
+    "goods_name": "喵喵物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910002,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 1003,
+    "goods_name": "火花物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910003,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 1004,
+    "goods_name": "水蓝蓝物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910004,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 1005,
+    "goods_name": "果冻物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910005,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 1561,
+    "price_max": 2525,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 1006,
+    "goods_name": "大耳帽兜物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910006,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 3,
+    "price_min": 904,
+    "price_max": 3878,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 1007,
+    "goods_name": "小黑猫物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910007,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 1008,
+    "goods_name": "机械方方物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910008,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 1009,
+    "goods_name": "护主犬物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910009,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3123,
+    "price_max": 5050,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 1010,
+    "goods_name": "厉毒小萝物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910010,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 810,
+    "price_max": 9610,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 1011,
+    "goods_name": "小翼龙物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910011,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3904,
+    "price_max": 6312,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 1012,
+    "goods_name": "奔波鼠物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910012,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 2998,
+    "price_max": 7868,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 1013,
+    "goods_name": "脆筒甜甜物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910013,
+    "unlock_rank": 6,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 4684,
+    "price_max": 7575,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 1014,
+    "goods_name": "火尾瓦特物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910014,
+    "unlock_rank": 7,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 3598,
+    "price_max": 9441,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 1015,
+    "goods_name": "小独角兽物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910015,
+    "unlock_rank": 8,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 6246,
+    "price_max": 10100,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  },
+  {
+    "id": 1016,
+    "goods_name": "鸭吉吉物资包",
+    "shop_id": 11001,
+    "goods_bagitem_id": 910016,
+    "unlock_rank": 9,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 1620,
+    "price_max": 19220,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606233
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  },
+  {
+    "id": 2001,
+    "goods_name": "迪莫物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910001,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 300,
+    "price_max": 787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 2002,
+    "goods_name": "喵喵物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910002,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 2003,
+    "goods_name": "火花物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910003,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 2004,
+    "goods_name": "水蓝蓝物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910004,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 2005,
+    "goods_name": "果冻物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910005,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 1561,
+    "price_max": 2525,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 2006,
+    "goods_name": "大耳帽兜物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910006,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 3,
+    "price_min": 904,
+    "price_max": 3878,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 2007,
+    "goods_name": "小黑猫物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910007,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 2008,
+    "goods_name": "机械方方物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910008,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 2009,
+    "goods_name": "护主犬物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910009,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3123,
+    "price_max": 5050,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 2010,
+    "goods_name": "厉毒小萝物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910010,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 810,
+    "price_max": 9610,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 2011,
+    "goods_name": "小翼龙物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910011,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3904,
+    "price_max": 6312,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 2012,
+    "goods_name": "奔波鼠物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910012,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 2998,
+    "price_max": 7868,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 2013,
+    "goods_name": "脆筒甜甜物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910013,
+    "unlock_rank": 6,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 4684,
+    "price_max": 7575,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 2014,
+    "goods_name": "火尾瓦特物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910014,
+    "unlock_rank": 7,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 3598,
+    "price_max": 9441,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 2015,
+    "goods_name": "小独角兽物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910015,
+    "unlock_rank": 8,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 6246,
+    "price_max": 10100,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  },
+  {
+    "id": 2016,
+    "goods_name": "鸭吉吉物资包",
+    "shop_id": 11002,
+    "goods_bagitem_id": 910016,
+    "unlock_rank": 9,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 1620,
+    "price_max": 19220,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606237
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  },
+  {
+    "id": 3001,
+    "goods_name": "迪莫物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910001,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 300,
+    "price_max": 787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 3002,
+    "goods_name": "喵喵物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910002,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 3003,
+    "goods_name": "火花物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910003,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 3004,
+    "goods_name": "水蓝蓝物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910004,
+    "unlock_rank": 1,
+    "reference_price": 500,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 390,
+    "price_max": 631,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 250,
+    "price_img_max": 750
+  },
+  {
+    "id": 3005,
+    "goods_name": "果冻物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910005,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 1561,
+    "price_max": 2525,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 3006,
+    "goods_name": "大耳帽兜物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910006,
+    "unlock_rank": 2,
+    "reference_price": 2000,
+    "exit_price": 500,
+    "change_percent_rank": 3,
+    "price_min": 904,
+    "price_max": 3878,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 1000,
+    "price_img_max": 3000
+  },
+  {
+    "id": 3007,
+    "goods_name": "小黑猫物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910007,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 3008,
+    "goods_name": "机械方方物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910008,
+    "unlock_rank": 3,
+    "reference_price": 3000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 2342,
+    "price_max": 3787,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 1500,
+    "price_img_max": 4500
+  },
+  {
+    "id": 3009,
+    "goods_name": "护主犬物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910009,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3123,
+    "price_max": 5050,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 3010,
+    "goods_name": "厉毒小萝物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910010,
+    "unlock_rank": 4,
+    "reference_price": 4000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 810,
+    "price_max": 9610,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 2000,
+    "price_img_max": 6000
+  },
+  {
+    "id": 3011,
+    "goods_name": "小翼龙物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910011,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 3904,
+    "price_max": 6312,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 3012,
+    "goods_name": "奔波鼠物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910012,
+    "unlock_rank": 5,
+    "reference_price": 5000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 2998,
+    "price_max": 7868,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 2500,
+    "price_img_max": 7500
+  },
+  {
+    "id": 3013,
+    "goods_name": "脆筒甜甜物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910013,
+    "unlock_rank": 6,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 4684,
+    "price_max": 7575,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 3014,
+    "goods_name": "火尾瓦特物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910014,
+    "unlock_rank": 7,
+    "reference_price": 6000,
+    "exit_price": 500,
+    "change_percent_rank": 2,
+    "price_min": 3598,
+    "price_max": 9441,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 3000,
+    "price_img_max": 9000
+  },
+  {
+    "id": 3015,
+    "goods_name": "小独角兽物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910015,
+    "unlock_rank": 8,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 1,
+    "price_min": 6246,
+    "price_max": 10100,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  },
+  {
+    "id": 3016,
+    "goods_name": "鸭吉吉物资包",
+    "shop_id": 11003,
+    "goods_bagitem_id": 910016,
+    "unlock_rank": 9,
+    "reference_price": 8000,
+    "exit_price": 500,
+    "change_percent_rank": 4,
+    "price_min": 1620,
+    "price_max": 19220,
+    "buy_extra_bagitem_num": 6,
+    "sale_extra_bagitem_num": 1,
+    "exchange_num_limit": 99,
+    "content_id": [
+      2606235
+    ],
+    "price_img_min": 4000,
+    "price_img_max": 12000
+  }
+]

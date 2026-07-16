@@ -4,8 +4,9 @@
     "name": "<span color=\"#eebf31\">暗夜拾光</>",
     "type": 2,
     "active_season": 1,
-    "weight": 100,
-    "season_pet": 3182,
+    "season_pet": [
+      3182
+    ],
     "glass_color_1": [
       0.07,
       0.03,
@@ -140,15 +141,17 @@
     "headicon_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season1.MI_UI_PetDazz_Season1'",
     "pet_art_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetCloseUp.MI_UI_PetCloseUp'",
     "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetCloseUp2.MI_UI_PetCloseUp2'",
-    "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'"
+    "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'",
+    "fashion_glass_id": 1
   },
   {
     "id": 2,
     "name": "<span color=\"#c63e2c\">狂欢怪谈</>",
     "type": 2,
     "active_season": 2,
-    "weight": 100,
-    "season_pet": 3735,
+    "season_pet": [
+      3735
+    ],
     "glass_color_1": [
       0.4,
       0.04,
@@ -268,10 +271,216 @@
     "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS2_003.T_PetGlassyNoiseS2_003'"
   },
   {
+    "id": 3,
+    "name": "<span color=\"#c9d828\">铅字幻梦</>",
+    "type": 2,
+    "active_season": 3,
+    "season_pet": [
+      3230,
+      3231,
+      3232,
+      3233
+    ],
+    "mat_suffixes": [
+      "by",
+      "by1",
+      "es"
+    ],
+    "glass_color_1": [
+      1.0,
+      1.5,
+      0.1,
+      1.0
+    ],
+    "glass_color_2": [
+      1.0,
+      0.16,
+      0.45,
+      1.0
+    ],
+    "egg_icon_mat": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_RandomEgg_Season3.MI_UI_RandomEgg_Season3'",
+    "tex_param": [
+      {
+        "tex_param_name": "MainTex",
+        "tex_param_comment": "材质贴图",
+        "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS3_001.T_PetGlassyNoiseS3_001'"
+      },
+      {
+        "tex_param_name": "StarStickTex",
+        "tex_param_comment": "粒子贴图",
+        "tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/T_PetGlassyStarS3_001.T_PetGlassyStarS3_001'"
+      }
+    ],
+    "color_param": [
+      {
+        "color_param_name": "RedChannel",
+        "color_param_comment": "材质颜色1",
+        "color_param_value": [
+          1.0,
+          1.5,
+          0.1,
+          1.0
+        ]
+      },
+      {
+        "color_param_name": "GreenChannel",
+        "color_param_comment": "材质颜色2",
+        "color_param_value": [
+          1.0,
+          0.16,
+          0.45,
+          1.0
+        ]
+      },
+      {
+        "color_param_name": "StickRandomColor02",
+        "color_param_comment": "粒子颜色2",
+        "color_param_value": [
+          0.67,
+          1.0,
+          0.49,
+          1.0
+        ]
+      },
+      {
+        "color_param_name": "StickRandomColor03",
+        "color_param_comment": "粒子颜色3",
+        "color_param_value": [
+          1.0,
+          0.45,
+          0.91,
+          1.0
+        ]
+      },
+      {
+        "color_param_name": "StickRandomColor04",
+        "color_param_comment": "粒子颜色4",
+        "color_param_value": [
+          0.55,
+          1.0,
+          0.19,
+          1.0
+        ]
+      }
+    ],
+    "num_param": [
+      {
+        "num_param_name": "GlobalDepth",
+        "num_param_comment": "纹理缩放深度",
+        "num_param_value": 100.0
+      },
+      {
+        "num_param_name": "GlobalRefraction",
+        "num_param_comment": "反射强度"
+      },
+      {
+        "num_param_name": "MainTexFlowSpeedY",
+        "num_param_comment": "Y轴流动速度"
+      },
+      {
+        "num_param_name": "MainTexTiling",
+        "num_param_comment": "贴图缩放",
+        "num_param_value": 3.0
+      },
+      {
+        "num_param_name": "NormalEffectAmount",
+        "num_param_comment": "法线"
+      },
+      {
+        "num_param_name": "BaseColorDetail",
+        "num_param_comment": "颜色细节",
+        "num_param_value": 0.3
+      }
+    ],
+    "ball_fx": "S3",
+    "hatch_fx": "S3",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_S3Dazzling_png.img_S3Dazzling_png'",
+    "long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_S3DazzlingColors_png.img_S3DazzlingColors_png'",
+    "stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_xuancai_s3_png.img_xuancai_s3_png'",
+    "stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_S3Dazzling_png.img_S3Dazzling_png'",
+    "glass_tips_pic": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_dazzling_Bg11_png.img_dazzling_Bg11_png'",
+    "particle_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/AppearanceNew/Frames/img_Star_S4_png.img_Star_S4_png'",
+    "yise_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/CommonStatic/Frames/img_S3DazzlingYise_png.img_S3DazzlingYise_png'",
+    "yise_long_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_S3DazzlingColors_yise_png.img_S3DazzlingColors_yise_png'",
+    "yise_stroke_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_yisexuancai_s3_png.img_yisexuancai_s3_png'",
+    "yise_stroke_small_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_S3DazzlingYise_png.img_S3DazzlingYise_png'",
+    "headicon_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season3.MI_UI_PetDazz_Season3'",
+    "pet_art_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season3CloseUp.MI_UI_PetDazz_Season3CloseUp'",
+    "main_ui_tips_mat_path": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetDazz_Season3CloseUp2.MI_UI_PetDazz_Season3CloseUp2'",
+    "main_tex": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS3_001.T_PetGlassyNoiseS3_001'",
+    "season_pet_tex": [
+      {
+        "season_pet_base_id": 3230,
+        "season_pet_tex_name": "MainTex",
+        "season_pet_tex_commnet": "炫彩贴图",
+        "season_pet_tex_path": [
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing1_001/SJ/T_Com_JiaLing1_201_By_D.T_Com_JiaLing1_201_By_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing1_001/SJ/T_Com_JiaLing1_201_Es_D.T_Com_JiaLing1_201_Es_D'"
+        ]
+      },
+      {
+        "season_pet_base_id": 3231,
+        "season_pet_tex_name": "MainTex",
+        "season_pet_tex_commnet": "炫彩贴图",
+        "season_pet_tex_path": [
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing2_001/SJ/T_Com_JiaLing2_201_By_D.T_Com_JiaLing2_201_By_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing2_001/SJ/T_Com_JiaLing2_201_Es_D.T_Com_JiaLing2_201_Es_D'"
+        ]
+      },
+      {
+        "season_pet_base_id": 3232,
+        "season_pet_tex_name": "MainTex",
+        "season_pet_tex_commnet": "炫彩贴图",
+        "season_pet_tex_path": [
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing3_001/SJ/T_Com_JiaLing3_201_By1_D.T_Com_JiaLing3_201_By1_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing3_001/SJ/T_Com_JiaLing3_201_By_D.T_Com_JiaLing3_201_By_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Com_JiaLing3_001/SJ/T_Com_JiaLing3_201_Es_D.T_Com_JiaLing3_201_Es_D'"
+        ]
+      },
+      {
+        "season_pet_base_id": 3233,
+        "season_pet_tex_name": "MainTex",
+        "season_pet_tex_commnet": "炫彩贴图",
+        "season_pet_tex_path": [
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Gho_JiaLing3_001/SJ/T_Gho_JiaLing3_201_By1_D.T_Gho_JiaLing3_201_By1_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Gho_JiaLing3_001/SJ/T_Gho_JiaLing3_201_By_D.T_Gho_JiaLing3_201_By_D'",
+          "Texture2D'/Game/ArtRes/AnimSequence/Pets/Gho_JiaLing3_001/SJ/T_Gho_JiaLing3_201_Es_D.T_Gho_JiaLing3_201_Es_D'"
+        ]
+      }
+    ],
+    "season_pet_stroke_param": [
+      {
+        "season_pet_stroke_param_name": "OutlineWidth",
+        "season_pet_stroke_param_comment": "轮廓宽度",
+        "season_pet_stroke_param_value": 40.0
+      },
+      {
+        "season_pet_stroke_param_name": "DistanceUniform",
+        "season_pet_stroke_param_comment": "均匀间距",
+        "season_pet_stroke_param_value": 0.5
+      },
+      {
+        "season_pet_stroke_param_name": "MaxWidthScale",
+        "season_pet_stroke_param_comment": "最大宽度比例",
+        "season_pet_stroke_param_value": 2.0
+      },
+      {
+        "season_pet_stroke_param_name": "描边中心剔除范围",
+        "season_pet_stroke_param_comment": "描边中心剔除范围",
+        "season_pet_stroke_param_value": 0.5
+      },
+      {
+        "season_pet_stroke_param_name": "OutlineWidthPC",
+        "season_pet_stroke_param_comment": "PC端轮廓宽度",
+        "season_pet_stroke_param_value": 40.0
+      }
+    ],
+    "fashion_glass_id": 3
+  },
+  {
     "id": 1000,
     "name": "<span color=\"#f4eee1\">黑白</>",
     "type": 1,
-    "weight": 100,
     "glass_color_1": [
       0.6,
       0.6,

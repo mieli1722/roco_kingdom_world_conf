@@ -2072,7 +2072,7 @@
   {
     "id": 347,
     "tab_id": 8,
-    "button_name": "增加宠物互动量",
+    "button_name": "增加精灵互动量",
     "gm_group": "gm AddInteractionQuantity"
   },
   {
@@ -2918,7 +2918,7 @@
   {
     "id": 488,
     "tab_id": 114,
-    "button_name": "水面平台跟随宠物移动",
+    "button_name": "水面平台跟随精灵移动",
     "gm_group": "gm OnWaterPlaformFollowBattlePet"
   },
   {
@@ -2936,13 +2936,13 @@
   {
     "id": 492,
     "tab_id": 114,
-    "button_name": "开启自适应宠物站位",
+    "button_name": "开启自适应精灵站位",
     "gm_group": "gm EnableAdaptiveBattlePetPos"
   },
   {
     "id": 493,
     "tab_id": 114,
-    "button_name": "显示自适应宠物站位调整线",
+    "button_name": "显示自适应精灵站位调整线",
     "gm_group": "gm OnShowAdaptiveLine"
   },
   {
@@ -3188,7 +3188,7 @@
   {
     "id": 536,
     "tab_id": 115,
-    "button_name": "调试宠物坡度",
+    "button_name": "调试精灵坡度",
     "gm_group": "gm DebugPetSlope"
   },
   {
@@ -3308,7 +3308,7 @@
   {
     "id": 556,
     "tab_id": 115,
-    "button_name": "打印宠物站位、碰撞信息",
+    "button_name": "打印精灵站位、碰撞信息",
     "gm_group": "gm PrintPetPointAndCollision"
   },
   {
@@ -3644,7 +3644,7 @@
   {
     "id": 613,
     "tab_id": 121,
-    "button_name": "添加宠物",
+    "button_name": "添加精灵",
     "gm_group": "gm AddSmallPet"
   },
   {
@@ -3680,7 +3680,7 @@
   {
     "id": 619,
     "tab_id": 121,
-    "button_name": "添加宠物(参数)",
+    "button_name": "添加精灵(参数)",
     "gm_group": "gm AddPetByParam"
   },
   {
@@ -5948,7 +5948,7 @@
   {
     "id": 1096,
     "tab_id": 157,
-    "button_name": "设置已有宠物等级",
+    "button_name": "设置已有精灵等级",
     "gm_group": "gm SetPetLevel"
   },
   {
@@ -5966,13 +5966,13 @@
   {
     "id": 1099,
     "tab_id": 157,
-    "button_name": "打开宠物升级界面",
+    "button_name": "打开精灵升级界面",
     "gm_group": "gm OpenPetUpgrade"
   },
   {
     "id": 1100,
     "tab_id": 157,
-    "button_name": "打开宠物随身背包界面",
+    "button_name": "打开精灵随身背包界面",
     "gm_group": "gm OpenPetBag"
   },
   {
@@ -8673,6 +8673,129 @@
   },
   {
     "id": 1681,
+    "tab_id": 129,
+    "button_name": "场景跑测",
+    "gm_group": "gm SceneRunAutoTest"
+  },
+  {
+    "id": 1682,
+    "tab_id": 131,
+    "button_name": "V110-B1-怪谈社密室",
+    "gm_group": "gm IntoGTSMS",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1683,
+    "tab_id": 131,
+    "button_name": "V110-A2-圣锤遗迹",
+    "gm_group": "gm IntoSCYJ",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1684,
+    "tab_id": 131,
+    "button_name": "V110-A2-鱼腹",
+    "gm_group": "gm IntoYF",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1685,
+    "tab_id": 131,
+    "button_name": "V110-A2-变形关卡屋顶",
+    "gm_group": "gm IntoBXGQWD",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1686,
+    "tab_id": 131,
+    "button_name": "V110-A2-变形关卡横版",
+    "gm_group": "gm IntoBXGQHB",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1687,
+    "tab_id": 131,
+    "button_name": "V110-A2-变形关卡钟内",
+    "gm_group": "gm IntoBXGQZN",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1688,
+    "tab_id": 131,
+    "button_name": "V110-A2-王国监狱",
+    "gm_group": "gm IntoWGJY",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1689,
+    "tab_id": 131,
+    "button_name": "V110-A2-沉船旋涡",
+    "gm_group": "gm IntoCCXW",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1690,
+    "tab_id": 131,
+    "button_name": "V110-A2-光系灵魂之河",
+    "gm_group": "gm IntoGXLHZH",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1691,
+    "tab_id": 130,
+    "button_name": "传送至S3赛季智慧出版社",
+    "gm_group": "gm IntoZHCBS",
+    "owner": "alinqiu",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1692,
+    "tab_id": 131,
+    "button_name": "V110-A2-威廉古堡",
+    "gm_group": "gm IntoWLGB",
+    "owner": "roccofan",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1693,
+    "tab_id": 192,
+    "button_name": "生成技能压测精灵",
+    "gm_group": "gm GenerateSkillLoadTestNpc",
+    "owner": "timzwhuang"
+  },
+  {
+    "id": 1694,
+    "tab_id": 192,
+    "button_name": "压测触发技能",
+    "gm_group": "gm TriggerLoadTestSkill",
+    "owner": "timzwhuang"
+  },
+  {
+    "id": 1695,
+    "tab_id": 192,
+    "button_name": "压测切换匿踪",
+    "gm_group": "gm ToggleLoadTestHidden",
+    "owner": "timzwhuang"
+  },
+  {
+    "id": 1696,
+    "tab_id": 131,
+    "button_name": "V110-A2-圣剑异空间",
+    "gm_group": "gm IntoSJYKJ",
+    "owner": "penelopeli",
+    "text": "传送至对应场景"
+  },
+  {
+    "id": 1697,
     "tab_id": 101,
     "button_name": "时装跑测",
     "gm_group": "gm FashionRunAutoTest"

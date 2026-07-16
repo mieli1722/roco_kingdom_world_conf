@@ -285,7 +285,7 @@
   {
     "id": 178,
     "key": "star_buytext_diamond",
-    "str": "消耗<span size=\"24\" color=\"#D56C1F\">%s洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">%s契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">%s次</>。",
+    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。",
     "is_loc": 1
   },
   {
@@ -506,13 +506,13 @@
   {
     "id": 203,
     "key": "roleplay_reward_toast_text1",
-    "str": "点击查看新的动作。（%s秒）",
+    "str": "点击查看新的动作。（{0}秒）",
     "is_loc": 1
   },
   {
     "id": 204,
     "key": "roleplay_reward_toast_text2",
-    "str": "点击查看新的模仿叫声。（%s秒）",
+    "str": "点击查看新的模仿叫声。（{0}秒）",
     "is_loc": 1
   },
   {
@@ -530,7 +530,7 @@
   {
     "id": 207,
     "key": "fashion_suits_reward_toast",
-    "str": "点击查看新套装。（%s秒）",
+    "str": "点击查看新套装。（{0}秒）",
     "is_loc": 1
   },
   {
@@ -840,13 +840,13 @@
   {
     "id": 262,
     "key": "stamina_exchange_text2",
-    "str": "消耗<span size=\"24\" color=\"#D56C1F\">%s洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">%s契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">%s次</>。",
+    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。",
     "is_loc": 1
   },
   {
     "id": 263,
     "key": "roleplay_reward_toast_text3",
-    "str": "点击查看新的道具。（%s秒）",
+    "str": "点击查看新的道具。（{0}秒）",
     "is_loc": 1
   },
   {
@@ -1128,6 +1128,17 @@
     "key": "fashion_bagcharm_normal_effect",
     "str": "SkillBlueprint'/Game/ArtRes/Effects/Particle/Scene/Avatar/BaoGua/G6_BaoGua_Common.G6_BaoGua_Common'",
     "is_loc": 2
+  },
+  {
+    "id": 291,
+    "key": "idle_super_suits_weight",
+    "num": 100,
+    "is_loc": 2
+  },
+  {
+    "id": 292,
+    "key": "chat_bubble_setting_cd",
+    "num": 1000
   },
   {
     "id": 293,

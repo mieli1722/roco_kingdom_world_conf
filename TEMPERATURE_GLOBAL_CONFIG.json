@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "key": "env_temp_hot_range",
+    "numList": [
+      80,
+      200
+    ]
+  },
+  {
+    "id": 2,
+    "key": "env_temp_cold_range",
+    "numList": [
+      -70,
+      20
+    ]
+  },
+  {
+    "id": 3,
+    "key": "temp_pre_hurt_count",
+    "num": 10000
+  },
+  {
+    "id": 4,
+    "key": "temp_hurt_count_per_hp",
+    "num": 10000
+  },
+  {
+    "id": 5,
+    "key": "env_temp_min",
+    "num": -70
+  },
+  {
+    "id": 6,
+    "key": "env_temp_max",
+    "num": 200
+  },
+  {
+    "id": 7,
+    "key": "env_base_temp_constant",
+    "num": 50
+  }
+]

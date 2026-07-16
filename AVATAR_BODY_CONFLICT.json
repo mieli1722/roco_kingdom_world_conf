@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "key": 13,
+    "conflict_bodies": [
+      21,
+      27,
+      28,
+      14,
+      15
+    ]
+  },
+  {
+    "id": 2,
+    "key": 21,
+    "conflict_bodies": [
+      13,
+      27,
+      28,
+      14,
+      15
+    ]
+  },
+  {
+    "id": 3,
+    "key": 26,
+    "conflict_bodies": [
+      22,
+      28
+    ]
+  },
+  {
+    "id": 4,
+    "key": 22,
+    "conflict_bodies": [
+      26,
+      28
+    ]
+  },
+  {
+    "id": 5,
+    "key": 1,
+    "conflict_bodies": [
+      27,
+      28,
+      14,
+      15
+    ]
+  },
+  {
+    "id": 6,
+    "key": 27,
+    "conflict_bodies": [
+      13,
+      21,
+      1,
+      28,
+      14,
+      15,
+      16
+    ],
+    "cache_bodies": [
+      1,
+      16
+    ]
+  },
+  {
+    "id": 7,
+    "key": 28,
+    "conflict_bodies": [
+      13,
+      21,
+      26,
+      22,
+      1,
+      27,
+      14,
+      15,
+      16
+    ],
+    "cache_bodies": [
+      1,
+      26,
+      22,
+      16
+    ]
+  },
+  {
+    "id": 8,
+    "key": 14,
+    "conflict_bodies": [
+      1,
+      13,
+      21,
+      7,
+      9,
+      27,
+      28,
+      15,
+      16
+    ],
+    "cache_bodies": [
+      1,
+      16
+    ]
+  },
+  {
+    "id": 9,
+    "key": 15,
+    "conflict_bodies": [
+      1,
+      13,
+      21,
+      7,
+      9,
+      10,
+      11,
+      8,
+      27,
+      28,
+      14,
+      16
+    ],
+    "cache_bodies": [
+      1,
+      10,
+      16
+    ]
+  },
+  {
+    "id": 10,
+    "key": 8,
+    "conflict_bodies": [
+      15,
+      16
+    ],
+    "cache_bodies": [
+      16
+    ]
+  },
+  {
+    "id": 11,
+    "key": 11,
+    "conflict_bodies": [
+      15,
+      16
+    ],
+    "cache_bodies": [
+      16
+    ]
+  },
+  {
+    "id": 12,
+    "key": 7,
+    "conflict_bodies": [
+      14,
+      15,
+      16
+    ],
+    "cache_bodies": [
+      16
+    ]
+  },
+  {
+    "id": 13,
+    "key": 9,
+    "conflict_bodies": [
+      14,
+      15,
+      16
+    ],
+    "cache_bodies": [
+      16
+    ]
+  },
+  {
+    "id": 14,
+    "key": 10,
+    "conflict_bodies": [
+      15,
+      16
+    ],
+    "cache_bodies": [
+      16
+    ]
+  },
+  {
+    "id": 15,
+    "key": 16,
+    "conflict_bodies": [
+      7,
+      9,
+      8,
+      10,
+      11,
+      14,
+      15,
+      27,
+      28
+    ]
+  }
+]

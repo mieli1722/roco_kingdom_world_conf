@@ -48,5 +48,29 @@
     "frame_1": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/img_shenshou_png.img_shenshou_png'",
     "frame_2": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_shenshou.img_shenshou'",
     "is_indoor": true
+  },
+  {
+    "id": 1003,
+    "quest_name": "限时调查·加尔",
+    "start_time": "2026-07-31 04:00:00",
+    "duration": "3542399",
+    "story_flag": [
+      1735
+    ],
+    "world_level": 1,
+    "refresh_content_id_2": 32000008,
+    "pet_base_id": 3232,
+    "battle_key": "jiaer_battle",
+    "start_difficulty": 1,
+    "battle_id": [
+      200043,
+      200044,
+      200045
+    ],
+    "title": "传说精灵",
+    "is_season": 1,
+    "desc": "加尔遗留的信物，触碰后可以和传说精灵产生共鸣。",
+    "frame_1": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_shenshoupiaogenS3.img_shenshoupiaogenS3'",
+    "frame_2": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_shenshouS3.img_shenshouS3'"
   }
 ]

@@ -330,11 +330,6 @@
     "charge_type": 1,
     "vitality_cost_minimum": 80,
     "vitality_cost_perscond": 215,
-    "vitality_cost_charge": [
-      100,
-      215,
-      384
-    ],
     "charge_time": [
       465,
       534,
@@ -403,6 +398,33 @@
     "localization_id": "umg_magic_learned_5",
     "get_path": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/T_UI_WZ_022.T_UI_WZ_022'",
     "magic_type": 3,
+    "child_magic_associate": [
+      202,
+      203,
+      204,
+      205,
+      206,
+      207
+    ],
+    "charge_type": 1,
+    "sceneability": 1300080,
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          801195
+        ]
+      }
+    ]
+  },
+  {
+    "id": 202,
+    "name": "创造传送枢纽",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-1",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100883.100883'",
+    "magic_type": 3,
+    "is_child_magic": 1,
     "charge_type": 1,
     "cost_bag_item": [
       100729,
@@ -414,6 +436,160 @@
         "effect": 5,
         "effect_params_1": [
           801195
+        ],
+        "effect_params_2": [
+          101
+        ]
+      }
+    ]
+  },
+  {
+    "id": 203,
+    "name": "创造魔力之源",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-2",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100826.100826'",
+    "magic_type": 3,
+    "is_child_magic": 1,
+    "charge_type": 1,
+    "cost_bag_item": [
+      100731,
+      1
+    ],
+    "sceneability": 1300080,
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          801196
+        ],
+        "effect_params_2": [
+          103
+        ]
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "name": "创造炼金锅",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-3",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100827.100827'",
+    "magic_type": 3,
+    "is_child_magic": 1,
+    "charge_type": 1,
+    "cost_bag_item": [
+      100730,
+      1
+    ],
+    "sceneability": 1300080,
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          801197
+        ],
+        "effect_params_2": [
+          102
+        ]
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "name": "创造星霜灯",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-4",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101023.101023'",
+    "magic_type": 8,
+    "is_child_magic": 1,
+    "charge_type": 1,
+    "cost_bag_item": [
+      100737,
+      1
+    ],
+    "sceneability": 1300080,
+    "allowed_area": [
+      700400,
+      700401,
+      700402,
+      700403,
+      700404,
+      700405,
+      700406,
+      700407
+    ],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          1002666
+        ]
+      }
+    ]
+  },
+  {
+    "id": 206,
+    "name": "创造星火灯",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-5",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101022.101022'",
+    "magic_type": 9,
+    "is_child_magic": 1,
+    "charge_type": 1,
+    "cost_bag_item": [
+      100738,
+      1
+    ],
+    "sceneability": 1300080,
+    "allowed_area": [
+      700400,
+      700401,
+      700402,
+      700403,
+      700404,
+      700405,
+      700406,
+      700407
+    ],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          1002667
+        ]
+      }
+    ]
+  },
+  {
+    "id": 207,
+    "name": "创造南瓜灯",
+    "magic_priority": 4,
+    "localization_id": "umg_magic_learned_5-6",
+    "get_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101024.101024'",
+    "magic_type": 10,
+    "is_child_magic": 1,
+    "charge_type": 1,
+    "cost_bag_item": [
+      100739,
+      1
+    ],
+    "sceneability": 1300080,
+    "allowed_area": [
+      700400,
+      700401,
+      700402,
+      700403,
+      700404,
+      700405,
+      700406,
+      700407
+    ],
+    "effect_struct": [
+      {
+        "effect": 5,
+        "effect_params_1": [
+          1002668
         ]
       }
     ]

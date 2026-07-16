@@ -463,6 +463,72 @@
     ]
   },
   {
+    "id": 11021,
+    "group_id": 5500008,
+    "contents": [
+      {
+        "npc_cfg_id": 52091,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 11022,
+    "group_id": 5500009,
+    "contents": [
+      {
+        "npc_cfg_id": 52143,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 11023,
+    "group_id": 5500010,
+    "contents": [
+      {
+        "npc_cfg_id": 52143,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 11024,
+    "group_id": 5500011,
+    "contents": [
+      {
+        "npc_cfg_id": 52143,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 11025,
+    "group_id": 5500012,
+    "contents": [
+      {
+        "npc_cfg_id": 52091,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 11026,
+    "group_id": 5500013,
+    "contents": [
+      {
+        "npc_cfg_id": 52091,
+        "timer_goal": 5,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
     "id": 20001,
     "group_id": 2001001,
     "contents": [
@@ -621,6 +687,60 @@
         "npc_cfg_id": 52143,
         "timer_goal": 10,
         "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 30004,
+    "group_id": 1003076,
+    "contents": [
+      {
+        "npc_cfg_id": 55643,
+        "timer_goal": 10,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 30005,
+    "refresh_rule": 1003003,
+    "contents": [
+      {
+        "npc_cfg_id": 55646,
+        "timer_goal": 50,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 30006,
+    "group_id": 1003077,
+    "contents": [
+      {
+        "npc_cfg_id": 166238,
+        "timer_goal": 10,
+        "effect_type": 3
+      },
+      {
+        "end_type": 4
+      }
+    ]
+  },
+  {
+    "id": 60001,
+    "refresh_rule": 1003004,
+    "contents": [
+      {
+        "end_type": 3
+      }
+    ]
+  },
+  {
+    "id": 60002,
+    "refresh_rule": 1003004,
+    "contents": [
+      {
+        "end_type": 3
       }
     ]
   },
@@ -987,6 +1107,78 @@
     "contents": [
       {
         "npc_cfg_id": 55570,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004301,
+    "group_id": 1003078,
+    "world_combat_id": 18,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004402,
+    "group_id": 1003079,
+    "world_combat_id": 29,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004503,
+    "group_id": 1003080,
+    "world_combat_id": 30,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004601,
+    "group_id": 1003081,
+    "world_combat_id": 17,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004602,
+    "group_id": 1003082,
+    "world_combat_id": 31,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
+        "timer_goal": 1,
+        "effect_type": 1
+      }
+    ]
+  },
+  {
+    "id": 1004603,
+    "group_id": 1003083,
+    "world_combat_id": 32,
+    "contents": [
+      {
+        "npc_cfg_id": 55294,
         "timer_goal": 1,
         "effect_type": 1
       }

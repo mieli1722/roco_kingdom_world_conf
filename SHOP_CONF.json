@@ -258,7 +258,6 @@
     "id": 1011,
     "shop_name": "动作",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-21 04:00:00",
@@ -273,7 +272,6 @@
     "id": 1012,
     "shop_name": "动作",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-22 04:00:00",
@@ -288,7 +286,6 @@
     "id": 1013,
     "shop_name": "动作",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-29 04:00:00",
@@ -303,7 +300,6 @@
     "id": 1014,
     "shop_name": "动作",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-06-05 04:00:00",
@@ -318,7 +314,6 @@
     "id": 1015,
     "shop_name": "时装",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-06-05 04:00:00",
@@ -337,7 +332,6 @@
     "id": 1016,
     "shop_name": "玩具",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-22 04:00:00",
@@ -352,7 +346,6 @@
     "id": 1017,
     "shop_name": "玩具",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-29 04:00:00",
@@ -367,7 +360,6 @@
     "id": 1018,
     "shop_name": "玩具",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
-    "shop_location": "箱中研究室",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "enable_time": "2026-05-21 04:00:00",
@@ -401,6 +393,137 @@
     "is_enable": true,
     "enable_time": "2026-05-21 04:00:00",
     "disable_time": "2026-07-16 03:59:59",
+    "purchase_limit": 99,
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 1
+      }
+    ]
+  },
+  {
+    "id": 1021,
+    "shop_name": "动作",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1022,
+    "shop_name": "动作",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-17 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1023,
+    "shop_name": "动作",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-31 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1024,
+    "shop_name": "动作",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-24 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1025,
+    "shop_name": "时装",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-31 04:00:00",
+    "disable_time": "2026-09-10 03:59:59",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1026,
+    "shop_name": "玩具",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-17 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1027,
+    "shop_name": "玩具",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1028,
+    "shop_name": "玩具",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-24 04:00:00",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 1029,
+    "shop_name": "咕噜球",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "智慧出版社",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "disable_time": "2026-09-10 03:59:59",
+    "purchase_limit": 99,
     "goods": [
       {
         "goods_type": 2,
@@ -522,6 +645,7 @@
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S2SeasonIntegration/Frames/img_biaoti_png.img_biaoti_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
+    "enable_time": "2026-05-21 04:00:00",
     "disable_time": "2026-07-16 03:59:59",
     "goods": [
       {
@@ -584,6 +708,21 @@
       {
         "goods_type": 2,
         "goods_id": 41
+      }
+    ]
+  },
+  {
+    "id": 2013,
+    "shop_name": "幻梦代币商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S3SeasonIntegration/Frames/img_biaoti_png.img_biaoti_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "disable_time": "2026-09-10 03:59:59",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 77
       }
     ]
   },
@@ -683,7 +822,27 @@
     "refresh_time_slot": 427,
     "content_id": [
       1001993,
-      5400314
+      5400314,
+      5400315,
+      1002001,
+      5400317,
+      5400301,
+      1002004,
+      5400303,
+      5400319,
+      5400304,
+      5400320,
+      5400322,
+      5400305,
+      5400306,
+      5400327,
+      5400329,
+      5400307,
+      1002002,
+      1012104,
+      1012105,
+      1012106,
+      1012107
     ],
     "goods": [
       {
@@ -697,14 +856,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400315
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -717,15 +872,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      1002001,
-      5400317
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -742,9 +892,6 @@
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400325
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -757,14 +904,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400301
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -777,14 +920,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      1002004
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -797,15 +936,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400303,
-      5400319
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -818,15 +952,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400304,
-      5400320
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -839,15 +968,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400322,
-      5400305
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -860,14 +984,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400306
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -880,16 +1000,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      5400327,
-      5400329,
-      5400307
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -902,14 +1016,10 @@
     "shop_name": "远行商人",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_TravellingMerchant_png.Img_NPCShop_TravellingMerchant_png'",
-    "is_enable": true,
     "shop_type": 6,
     "refresh_time": "2025-07-08 04:00:00",
     "duration": "0 4:00:00",
     "refresh_time_slot": 427,
-    "content_id": [
-      1002002
-    ],
     "goods": [
       {
         "goods_type": 2,
@@ -966,6 +1076,7 @@
     "shop_location": "商店街",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Seal_png.Img_NPCShop_Seal_png'",
     "is_enable": true,
+    "purchase_limit": 999,
     "goods": [
       {
         "goods_type": 2,
@@ -1027,15 +1138,34 @@
   },
   {
     "id": 3028,
-    "shop_name": "狐主任的博物馆",
-    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_xuefenshangdian_png.Img_NPCShop_Title_xuefenshangdian_png'",
-    "shop_location": "狐主任的博物馆",
-    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_xuefenshangdian_png.Img_NPCShop_xuefenshangdian_png'",
+    "shop_name": "调查团杂货店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_huzhu_png.Img_NPCShop_Title_huzhu_png'",
+    "shop_location": "调查团杂货店",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_huzhu_png.Img_NPCShop_huzhu_png'",
     "is_enable": true,
+    "content_id": [
+      2650029
+    ],
     "goods": [
       {
         "goods_type": 1,
         "goods_id": 320039
+      }
+    ]
+  },
+  {
+    "id": 3029,
+    "shop_name": "拾音商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_Music_png.Img_NPCShop_Title_Music_png'",
+    "shop_location": "拾音商店",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Music_png.Img_NPCShop_Music_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "disable_time": "2026-07-31 03:59:59",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 52
       }
     ]
   },
@@ -1226,6 +1356,36 @@
     "shop_name": "阵营商店",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
     "shop_location": "彼得大道",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 43
+      }
+    ]
+  },
+  {
+    "id": 3045,
+    "shop_name": "友谊商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_zhucehuodong_png.Img_NPCShop_Title_zhucehuodong_png'",
+    "shop_location": "友谊商店",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_zhucehuodong_png.Img_NPCShop_zhucehuodong_png'",
+    "is_enable": true,
+    "enable_time": "2026-07-16 04:00:00",
+    "disable_time": "2026-08-07 03:59:59",
+    "goods": [
+      {
+        "goods_type": 1,
+        "goods_id": 320019
+      }
+    ]
+  },
+  {
+    "id": 3046,
+    "shop_name": "阵营商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "探险训练营",
     "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
     "is_enable": true,
     "goods": [
@@ -1506,6 +1666,44 @@
     ]
   },
   {
+    "id": 4017,
+    "shop_name": "巨人文化商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "content_id": [
+      5200389,
+      1012360
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 4018,
+    "shop_name": "探险用品商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "content_id": [
+      5200389,
+      1012360
+    ],
+    "goods": [
+      {
+        "goods_type": 1,
+        "goods_id": 101056
+      },
+      {
+        "goods_type": 1,
+        "goods_id": 100858
+      }
+    ]
+  },
+  {
     "id": 5001,
     "shop_name": "活动商店",
     "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_maotouying_png.Img_NPCShop_Title_maotouying_png'",
@@ -1561,6 +1759,21 @@
     "multi_buy": true,
     "enable_time": "2026-05-22 04:00:00",
     "disable_time": "2026-07-16 03:59:59",
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 44
+      }
+    ]
+  },
+  {
+    "id": 6004,
+    "shop_name": "古拉拉家具店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "古拉拉家具店",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_District_png.Img_NPCShop_District_png'",
+    "is_enable": true,
+    "multi_buy": true,
     "goods": [
       {
         "goods_type": 2,
@@ -1696,6 +1909,105 @@
       {
         "goods_type": 2,
         "goods_id": 3
+      }
+    ]
+  },
+  {
+    "id": 11001,
+    "shop_name": "潮汐集市兑奖处",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_yuanxung_png.Img_NPCShop_Title_yuanxung_png'",
+    "shop_location": "潮汐集市兑奖处",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_SummerTides_png.Img_NPCShop_SummerTides_png'",
+    "is_enable": true,
+    "enable_time": "2026-08-21 04:00:00",
+    "disable_time": "2026-09-18 03:59:59",
+    "goods": [
+      {
+        "goods_type": 1,
+        "goods_id": 320060
+      }
+    ]
+  },
+  {
+    "id": 12001,
+    "shop_name": "远行商入",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_TravellingMerchant_png.Img_NPCShop_Title_TravellingMerchant_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_kekeguo_png.Img_NPCShop_kekeguo_png'",
+    "is_enable": true,
+    "content_id": [
+      5480001
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 1
+      }
+    ]
+  },
+  {
+    "id": 12002,
+    "shop_name": "安泥",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Seal_png.Img_NPCShop_Seal_png'",
+    "is_enable": true,
+    "content_id": [
+      5480002
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 1
+      }
+    ]
+  },
+  {
+    "id": 12003,
+    "shop_name": "华莱士商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "仪式镇",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Seal_png.Img_NPCShop_Seal_png'",
+    "is_enable": true,
+    "content_id": [
+      5490001
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 79
+      }
+    ]
+  },
+  {
+    "id": 12004,
+    "shop_name": "古拉斯商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "仪式镇",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Seal_png.Img_NPCShop_Seal_png'",
+    "is_enable": true,
+    "content_id": [
+      5490002
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 79
+      }
+    ]
+  },
+  {
+    "id": 12005,
+    "shop_name": "费什商店",
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_District_png.Img_NPCShop_Title_District_png'",
+    "shop_location": "仪式镇",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Seal_png.Img_NPCShop_Seal_png'",
+    "is_enable": true,
+    "content_id": [
+      5490003
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 79
       }
     ]
   }

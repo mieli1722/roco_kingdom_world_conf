@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "name": "暗夜拾光",
+    "fashion_tex_param": [
+      {
+        "fashion_tex_param_name": "MainTex",
+        "fashion_tex_param_comment": "材质贴图",
+        "fashion_tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS1_001.T_PetGlassyNoiseS1_001'"
+      },
+      {
+        "fashion_tex_param_name": "StarStickTex",
+        "fashion_tex_param_comment": "粒子贴图",
+        "fashion_tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/Tex_PetGlassyStarS1_001.Tex_PetGlassyStarS1_001'"
+      }
+    ],
+    "fashion_color_param": [
+      {
+        "fashion_color_param_name": "RedChannel",
+        "fashion_color_param_comment": "材质颜色1",
+        "fashion_color_param_value": [
+          0.07,
+          0.03,
+          0.15,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "GreenChannel",
+        "fashion_color_param_comment": "材质颜色2",
+        "fashion_color_param_value": [
+          0.9,
+          0.82,
+          0.3,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor01",
+        "fashion_color_param_comment": "粒子颜色1",
+        "fashion_color_param_value": [
+          1.0,
+          0.0,
+          0.7,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor02",
+        "fashion_color_param_comment": "粒子颜色2",
+        "fashion_color_param_value": [
+          0.4,
+          0.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor03",
+        "fashion_color_param_comment": "粒子颜色3",
+        "fashion_color_param_value": [
+          0.4,
+          0.42,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor04",
+        "fashion_color_param_comment": "粒子颜色4",
+        "fashion_color_param_value": [
+          1.0,
+          0.95,
+          0.45,
+          1.0
+        ]
+      }
+    ],
+    "fashion_param": [
+      {
+        "fashion_param_name": "StarIntensity",
+        "fashion_param_comment": "星星闪烁强度"
+      },
+      {
+        "fashion_param_name": "GlobalRefraction",
+        "fashion_param_comment": "反射强度",
+        "fashion_param_value": 2.0
+      },
+      {
+        "fashion_param_name": "MainTexFlowSpeedX",
+        "fashion_param_comment": "X轴流动速度",
+        "fashion_param_value": 0.1
+      },
+      {
+        "fashion_param_name": "MainTexFlowSpeedY",
+        "fashion_param_comment": "Y轴流动速度",
+        "fashion_param_value": 0.1
+      },
+      {
+        "fashion_param_name": "GlobalDepth",
+        "fashion_param_comment": "纹理缩放深度",
+        "fashion_param_value": 100.0
+      },
+      {
+        "fashion_param_name": "NormalEffectAmount",
+        "fashion_param_comment": "法线",
+        "fashion_param_value": 0.5
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "铅字幻梦",
+    "fashion_tex_param": [
+      {
+        "fashion_tex_param_name": "MainTex",
+        "fashion_tex_param_comment": "材质贴图",
+        "fashion_tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyNoise/T_PetGlassyNoiseS3_001.T_PetGlassyNoiseS3_001'"
+      },
+      {
+        "fashion_tex_param_name": "StarStickTex",
+        "fashion_tex_param_comment": "粒子贴图",
+        "fashion_tex_param_path": "Texture2D'/Game/ArtRes/BP/Texture/PetGlassyStar/T_PetGlassyStarS3_001.T_PetGlassyStarS3_001'"
+      }
+    ],
+    "fashion_color_param": [
+      {
+        "fashion_color_param_name": "RedChannel",
+        "fashion_color_param_comment": "材质颜色1",
+        "fashion_color_param_value": [
+          1.32,
+          1.12,
+          0.2
+        ]
+      },
+      {
+        "fashion_color_param_name": "GreenChannel",
+        "fashion_color_param_comment": "材质颜色2",
+        "fashion_color_param_value": [
+          0.9,
+          0.2,
+          0.4,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor02",
+        "fashion_color_param_comment": "粒子颜色2",
+        "fashion_color_param_value": [
+          0.67,
+          1.0,
+          0.5,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor03",
+        "fashion_color_param_comment": "粒子颜色3",
+        "fashion_color_param_value": [
+          1.0,
+          0.45,
+          0.9,
+          1.0
+        ]
+      },
+      {
+        "fashion_color_param_name": "StickRandomColor04",
+        "fashion_color_param_comment": "粒子颜色4",
+        "fashion_color_param_value": [
+          0.56,
+          1.0,
+          0.2,
+          1.0
+        ]
+      }
+    ],
+    "fashion_param": [
+      {
+        "fashion_param_name": "NormalEffectAmount",
+        "fashion_param_comment": "法线"
+      },
+      {
+        "fashion_param_name": "GlobalRefraction",
+        "fashion_param_comment": "反射强度",
+        "fashion_param_value": 1.0
+      },
+      {
+        "fashion_param_name": "MainTexFlowSpeedX",
+        "fashion_param_comment": "X轴流动速度"
+      },
+      {
+        "fashion_param_name": "MainTexFlowSpeedY",
+        "fashion_param_comment": "Y轴流动速度"
+      },
+      {
+        "fashion_param_name": "GlobalDepth",
+        "fashion_param_comment": "纹理缩放深度",
+        "fashion_param_value": 100.0
+      },
+      {
+        "fashion_param_name": "MainTexTiling",
+        "fashion_param_comment": "贴图缩放",
+        "fashion_param_value": 3.0
+      }
+    ]
+  }
+]

@@ -133,11 +133,60 @@
     "share_button_type": 11,
     "share_name": "邀请好友活动",
     "base_id": [
-      1002
+      1101,
+      1102
     ],
     "is_open": 1,
     "system_control_limit": [
       53090000
+    ]
+  },
+  {
+    "id": 12,
+    "share_button_type": 12,
+    "share_name": "SS套装分享",
+    "base_id": [
+      1201
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      81070000
+    ]
+  },
+  {
+    "id": 13,
+    "share_button_type": 13,
+    "share_name": "其他套装分享",
+    "base_id": [
+      1202
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      81080000
+    ]
+  },
+  {
+    "id": 14,
+    "share_button_type": 14,
+    "share_name": "主题摄影分享",
+    "base_id": [
+      1301
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53130000
+    ]
+  },
+  {
+    "id": 15,
+    "share_button_type": 15,
+    "share_name": "精灵荣誉证书分享",
+    "base_id": [
+      1501
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53140000
     ]
   }
 ]

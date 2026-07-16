@@ -1,0 +1,32 @@
+[
+  {
+    "id": 2,
+    "need_exp": 5000,
+    "need_item": 100530,
+    "need_amount": 2,
+    "model_scale": 100,
+    "reward_group": [
+      {
+        "level_reward_type": 4,
+        "level_reward_param": 1
+      }
+    ],
+    "level_reward_text_id": "level_reward_text_1",
+    "desc_note_conf_id": 3016
+  },
+  {
+    "id": 3,
+    "need_exp": 10000,
+    "need_item": 100530,
+    "need_amount": 4,
+    "model_scale": 100,
+    "reward_group": [
+      {
+        "level_reward_type": 4,
+        "level_reward_param": 2
+      }
+    ],
+    "level_reward_text_id": "level_reward_text_2",
+    "desc_note_conf_id": 3017
+  }
+]

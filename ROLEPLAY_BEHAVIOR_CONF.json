@@ -1063,7 +1063,7 @@
   },
   {
     "id": 63,
-    "name_text": "谢幕Ⅰ",
+    "name_text": "行礼",
     "behavior_type": 2,
     "RPbehavior_type": 109,
     "range": 1500,
@@ -1071,7 +1071,7 @@
       63,
       1
     ],
-    "toast_text": "谢幕Ⅰ",
+    "toast_text": "行礼",
     "ui_order": 38,
     "male_skill_id": 100065,
     "female_skill_id": 100065,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 64,
-    "name_text": "谢幕Ⅱ",
+    "name_text": "行礼Ⅱ",
     "behavior_type": 2,
     "RPbehavior_type": 110,
     "range": 1500,
@@ -1089,11 +1089,204 @@
       63,
       2
     ],
-    "toast_text": "谢幕Ⅱ",
+    "toast_text": "行礼Ⅱ",
     "ui_order": 39,
     "male_skill_id": 100065,
     "female_skill_id": 100065,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_thanks.icon_pose_thanks'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 65,
+    "name_text": "盯梢Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 121,
+    "range": 1500,
+    "star": [
+      65,
+      1
+    ],
+    "toast_text": "盯梢Ⅰ",
+    "ui_order": 40,
+    "male_skill_id": 100066,
+    "female_skill_id": 100066,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 66,
+    "name_text": "忍耐Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 123,
+    "range": 1500,
+    "star": [
+      66,
+      1
+    ],
+    "toast_text": "忍耐Ⅰ",
+    "ui_order": 42,
+    "male_skill_id": 100067,
+    "female_skill_id": 100067,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 67,
+    "name_text": "看报纸Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 125,
+    "range": 1500,
+    "star": [
+      67,
+      1
+    ],
+    "toast_text": "看报纸Ⅰ",
+    "ui_order": 44,
+    "male_skill_id": 100068,
+    "female_skill_id": 100068,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
+    "ai_type": 3,
+    "is_movable": true,
+    "is_loop": true
+  },
+  {
+    "id": 68,
+    "name_text": "放心吧Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 127,
+    "range": 1500,
+    "star": [
+      68,
+      1
+    ],
+    "toast_text": "放心吧Ⅰ",
+    "ui_order": 46,
+    "male_skill_id": 100069,
+    "female_skill_id": 100069,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 69,
+    "name_text": "盯梢Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 122,
+    "range": 1500,
+    "star": [
+      65,
+      2
+    ],
+    "toast_text": "盯梢Ⅱ",
+    "ui_order": 41,
+    "male_skill_id": 100066,
+    "female_skill_id": 100066,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 70,
+    "name_text": "忍耐Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 124,
+    "range": 1500,
+    "star": [
+      66,
+      2
+    ],
+    "toast_text": "忍耐Ⅱ",
+    "ui_order": 43,
+    "male_skill_id": 100067,
+    "female_skill_id": 100067,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 71,
+    "name_text": "看报纸Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 126,
+    "range": 1500,
+    "star": [
+      67,
+      2
+    ],
+    "toast_text": "看报纸Ⅱ",
+    "ui_order": 45,
+    "male_skill_id": 100068,
+    "female_skill_id": 100068,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 72,
+    "name_text": "放心吧Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 128,
+    "range": 1500,
+    "star": [
+      68,
+      2
+    ],
+    "toast_text": "放心吧Ⅱ",
+    "ui_order": 47,
+    "male_skill_id": 100069,
+    "female_skill_id": 100069,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 73,
+    "name_text": "蹭鼻尖",
+    "behavior_type": 2,
+    "RPbehavior_type": 118,
+    "range": 1500,
+    "toast_text": "蹭鼻尖",
+    "ui_order": 48,
+    "male_skill_id": 100070,
+    "female_skill_id": 100070,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_nose.icon_pose_nose'",
+    "card_pose_resource_path": "RolePlayNose",
+    "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 74,
+    "name_text": "碰拳",
+    "behavior_type": 2,
+    "RPbehavior_type": 119,
+    "range": 1500,
+    "toast_text": "碰拳",
+    "ui_order": 50,
+    "male_skill_id": 100071,
+    "female_skill_id": 100071,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bump.icon_pose_bump'",
+    "card_pose_resource_path": "RolePlayBump",
+    "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
+    "ai_type": 3,
+    "is_movable": true
+  },
+  {
+    "id": 75,
+    "name_text": "捶胸口",
+    "behavior_type": 2,
+    "RPbehavior_type": 120,
+    "range": 1500,
+    "toast_text": "捶胸口",
+    "ui_order": 52,
+    "male_skill_id": 100072,
+    "female_skill_id": 100072,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_Chest.icon_pose_Chest'",
+    "card_pose_resource_path": "RolePlayChest",
+    "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
     "ai_type": 3,
     "is_movable": true
   },
@@ -1212,6 +1405,30 @@
     "RPbehavior_type": 107,
     "toast_text": "南瓜墩",
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S2_PumpkinChair_001.img_S2_PumpkinChair_001'"
+  },
+  {
+    "id": 68010,
+    "name_text": "魔法绘本",
+    "behavior_type": 6,
+    "RPbehavior_type": 111,
+    "toast_text": "魔法绘本",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_MagicBook_001.img_S3_MagicBook_001'"
+  },
+  {
+    "id": 68011,
+    "name_text": "童话纸箱",
+    "behavior_type": 6,
+    "RPbehavior_type": 112,
+    "toast_text": "童话纸箱",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_CardboardBox_001.img_S3_CardboardBox_001'"
+  },
+  {
+    "id": 68012,
+    "name_text": "小风车",
+    "behavior_type": 6,
+    "RPbehavior_type": 113,
+    "toast_text": "小风车",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_Pinwheel_001.img_S3_Pinwheel_001'"
   },
   {
     "id": 640006,

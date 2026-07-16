@@ -80,5 +80,46 @@
         "spinewigetname": "SpineWidget_Pink"
       }
     ]
+  },
+  {
+    "id": 230031,
+    "theme_name": "右（主题A）",
+    "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S3bp/hutaowangzi/hutaowangzi.hutaowangzi-atlas'",
+    "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S3bp/hutaowangzi/hutaowangzi.hutaowangzi-data'",
+    "widget_group": [
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_AwardMain",
+        "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_Purchase",
+        "spinewigetname": "SpineWidget_Blue"
+      }
+    ],
+    "is_theme_a": true
+  },
+  {
+    "id": 230032,
+    "theme_name": "左（主题B）",
+    "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S3bp/lixinwuzhe/lixinwuzhe.lixinwuzhe-atlas'",
+    "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S3bp/lixinwuzhe/lixinwuzhe.lixinwuzhe-data'",
+    "widget_group": [
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_AwardMain",
+        "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_Purchase",
+        "spinewigetname": "SpineWidget_Pink"
+      }
+    ]
   }
 ]

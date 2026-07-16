@@ -52,7 +52,7 @@
   {
     "id": 9,
     "key": "takephoto_storage_num",
-    "num": 50
+    "num": 300
   },
   {
     "id": 10,
@@ -105,7 +105,8 @@
       1105,
       1106,
       1107,
-      1111
+      1111,
+      1053
     ]
   },
   {
@@ -140,7 +141,7 @@
   {
     "id": 25,
     "key": "takephoto_cloud_storage_num",
-    "num": 10
+    "num": 50
   },
   {
     "id": 26,
@@ -279,5 +280,53 @@
     "id": 51,
     "key": "takephoto_identify_pet_max",
     "num": 6
+  },
+  {
+    "id": 52,
+    "key": "takephoto_petAI_range",
+    "num": 1500
+  },
+  {
+    "id": 53,
+    "key": "takephoto_cloud_task_storage_num",
+    "num": 10
+  },
+  {
+    "id": 54,
+    "key": "takephoto_brightness",
+    "numList": [
+      10,
+      100
+    ]
+  },
+  {
+    "id": 55,
+    "key": "takephoto_auto_selfie_distance",
+    "num": 300
+  },
+  {
+    "id": 56,
+    "key": "takephoto_auto_selfie_offset_Z",
+    "num": 50
+  },
+  {
+    "id": 57,
+    "key": "takephoto_auto_selfie_rot_Z",
+    "num": -10
+  },
+  {
+    "id": 58,
+    "key": "takephoto_auto_selfie_distance_rider",
+    "num": 500
+  },
+  {
+    "id": 59,
+    "key": "takephoto_auto_selfie_rot_Z_rider",
+    "num": -10
+  },
+  {
+    "id": 60,
+    "key": "takephoto_storage_num_PC",
+    "num": 500
   }
 ]

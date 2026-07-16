@@ -1,0 +1,54 @@
+[
+  {
+    "id": 730001,
+    "scene_prop_type": 4,
+    "seat_num": 1
+  },
+  {
+    "id": 730002,
+    "scene_prop_type": 4,
+    "seat_num": 2,
+    "is_home_lie": true
+  },
+  {
+    "id": 730003,
+    "scene_prop_type": 4,
+    "seat_num": 2
+  },
+  {
+    "id": 730004,
+    "scene_prop_type": 4,
+    "seat_num": 4
+  },
+  {
+    "id": 950001,
+    "scene_prop_type": 5,
+    "seat_num": 2,
+    "seat_point": [
+      {
+        "seat_point_offset": [
+          0,
+          50,
+          55
+        ],
+        "seat_point_rotate": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "seat_point_offset": [
+          0,
+          -50,
+          55
+        ],
+        "seat_point_rotate": [
+          0,
+          0,
+          0
+        ]
+      }
+    ]
+  }
+]

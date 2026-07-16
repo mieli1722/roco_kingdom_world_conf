@@ -1,98 +1,80 @@
 [
   {
     "id": 1,
-    "editor_name": "打开图鉴",
     "ia_name": "IA_OpenHandbookUI",
     "ia_command": "HandbookModuleCmd.OpenHandbookCover"
   },
   {
     "id": 2,
-    "editor_name": "打开精灵",
     "ia_name": "IA_OpenPetUI",
     "ia_command": "PetUIModuleCmd.OpenPanelPetMain"
   },
   {
     "id": 3,
-    "editor_name": "家园-打开家具图鉴",
     "ia_name": "IA_FurnitureHandbook",
     "ia_command": "HomeModuleCmd.OpenFurnitureAtlasPanel"
   },
   {
     "id": 4,
-    "editor_name": "打开罗盘",
     "ia_name": "IA_OpenMenu",
     "ia_command": "MainUIModuleCmd.ClickOpenPanelLobbyMainInner"
   },
   {
     "id": 5,
-    "editor_name": "家园-打开家具摆放（装饰模式）",
     "ia_name": "IA_DecorateMode",
     "ia_command": "HomeModuleCmd.OpenHomeMainPanel"
   },
   {
     "id": 6,
-    "editor_name": "打开咕噜球背包",
     "ia_name": "IA_BallSelectEnd",
     "ia_command": "MainUIModuleCmd.OpenBallUseBagPanel"
   },
   {
     "id": 7,
-    "editor_name": "战斗内-打开背包",
     "ia_name": "IA_BattleBagEnd"
   },
   {
     "id": 8,
-    "editor_name": "战斗内-打开捕捉",
     "ia_name": "IA_BattleCatchEnd"
   },
   {
     "id": 9,
-    "editor_name": "战斗内-打开更换",
     "ia_name": "IA_BattleChangeEnd"
   },
   {
     "id": 10,
-    "editor_name": "战斗内-打开技能",
     "ia_name": "IA_BattleSkillEnd"
   },
   {
     "id": 11,
-    "editor_name": "战斗内-技能/精灵/道具/球1",
     "ia_name": "IA_BattleSelectItemEnd_1"
   },
   {
     "id": 12,
-    "editor_name": "战斗内-技能/精灵/道具/球2",
     "ia_name": "IA_BattleSelectItemEnd_2"
   },
   {
     "id": 13,
-    "editor_name": "战斗内-技能/精灵/道具/球3",
     "ia_name": "IA_BattleSelectItemEnd_3"
   },
   {
     "id": 14,
-    "editor_name": "战斗内-技能/精灵/道具/球4",
     "ia_name": "IA_BattleSelectItemEnd_4"
   },
   {
     "id": 15,
-    "editor_name": "战斗内-精灵/道具/球5",
     "ia_name": "IA_BattleSelectItemEnd_5"
   },
   {
     "id": 16,
-    "editor_name": "战斗内-球6",
     "ia_name": "IA_BattleSelectItemEnd_6"
   },
   {
     "id": 17,
-    "editor_name": "战斗内-聚能",
     "ia_name": "IA_BattleGlobalSkillEnd"
   },
   {
     "id": 18,
-    "editor_name": "战斗内-选择精灵",
     "ia_name": "IA_BattleSure"
   }
 ]

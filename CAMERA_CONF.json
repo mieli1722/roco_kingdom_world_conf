@@ -22,7 +22,7 @@
   },
   {
     "id": 1004,
-    "editor_name": "宠物专用正面不动",
+    "editor_name": "精灵专用正面不动",
     "interact_camera_type": 14,
     "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/Pet_Close_UP_Cam.Pet_Close_UP_Cam"
   },
@@ -39,5 +39,36 @@
     "interact_camera_type": 14,
     "interact_camera_param1": "-41",
     "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Close_UP_Cam_1.NPC_Close_UP_Cam_1"
+  },
+  {
+    "id": 1007,
+    "editor_name": "切正面不动（隐藏1号位精灵结束不恢复）",
+    "interact_camera_type": 14,
+    "interact_camera_param1": "-41",
+    "interact_camera_param2": 1.0,
+    "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Close_UP_Cam_1.NPC_Close_UP_Cam_1"
+  },
+  {
+    "id": 1008,
+    "editor_name": "切前方横拉不动（隐藏1号精灵结束不恢复）",
+    "interact_camera_type": 14,
+    "interact_camera_param1": "-41",
+    "interact_camera_param2": 1.0,
+    "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Close_UP_Cam_2.NPC_Close_UP_Cam_2"
+  },
+  {
+    "id": 1009,
+    "editor_name": "切前方缓动横拉（隐藏1号位精灵结束不恢复）",
+    "interact_camera_type": 14,
+    "interact_camera_param1": "-41",
+    "interact_camera_param2": 1.0,
+    "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Close_UP_Cam_3.NPC_Close_UP_Cam_3"
+  },
+  {
+    "id": 1010,
+    "editor_name": "显示1号位精灵(无镜头）",
+    "interact_camera_type": 14,
+    "interact_camera_param1": "-41",
+    "skill_camera_path": "/Game/ArtRes/Effects/G6Skill/NPC/NPC_Show_Cam.NPC_Show_Cam"
   }
 ]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 5400001,
+    "stock_shop_id": [
+      11001,
+      11002,
+      11003
+    ],
+    "stock_shop_skip": [
+      3001,
+      3002,
+      3003
+    ],
+    "npc_shop_skip": 3004,
+    "reset_type": 4,
+    "reset_param1": "0 4:00:00",
+    "activity_goods_type": 1,
+    "activity_goods_id": 320060,
+    "initial_num": 20000,
+    "base_num_daily": 1200,
+    "extra_num_single_daily": 50,
+    "extra_time_max_daily": 10,
+    "extra_total_max_daily": 600,
+    "max_rand_price_time": 3,
+    "max_price_trend_show_day": 5,
+    "shop_exp_goods_type": 1,
+    "shop_exp_goods_id": 320061,
+    "shop_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_Title_yuanxung_png.Img_NPCShop_Title_yuanxung_png'",
+    "shop_location": "夏日潮汐集市",
+    "checkout_icon": "PaperSprite'/Game/NewRoco/Modules/System/NPCShopUI/NPCShopUIStatic/Frames/Img_NPCShop_SummerTides_png.Img_NPCShop_SummerTides_png'",
+    "warn_event_group": [
+      {
+        "link_task": [
+          98000001,
+          98000002,
+          98000003,
+          98000004
+        ],
+        "link_stock_shop": 11002,
+        "warn_tips": "帮助迷路的小男孩"
+      },
+      {
+        "link_task": [
+          98000006
+        ],
+        "link_stock_shop": 11001,
+        "warn_tips": "比试邀约？"
+      },
+      {
+        "link_task": [
+          98000009,
+          98000010,
+          98000011,
+          98000012,
+          98000013
+        ],
+        "link_stock_shop": 11003,
+        "warn_tips": "找到遗落的物资"
+      }
+    ]
+  }
+]

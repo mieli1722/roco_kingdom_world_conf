@@ -481,10 +481,114 @@
   },
   {
     "id": 1101,
-    "sorthels": "哪一章都不是",
+    "sorthels": "格里芬的密令",
     "show_task_start": true,
-    "title": "决战王国沙巴克",
-    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+    "title": "格里芬的密令",
+    "description": "格里芬的密令",
+    "description_new": "一封密信将我引入怪谈社里间。紫花雀异变、八音盒自鸣的童谣——种种迹象表明，精灵异变绝非偶然。委任令在手，调查正式开始。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'"
+  },
+  {
+    "id": 1102,
+    "sorthels": "王城调查",
+    "show_task_start": true,
+    "title": "王城调查",
+    "description": "王城调查",
+    "description_new": "星之结下暗流涌动。呆小路失控和王城内的异变情况让可丽希亚和我都察觉到了不对劲。在一切调查都毫无进展的情况下，至少先把呆小路接回家——今夜，我们要潜入皇宫，夺回呆小路。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006000
+  },
+  {
+    "id": 1103,
+    "sorthels": "夜访星之结",
+    "show_task_start": true,
+    "title": "夜访星之结",
+    "description": "夜访星之结",
+    "description_new": "为救治呆小路，我与可丽希亚、菲尔特夜闯王国城堡。找到呆小路时紫雾涌入，我被星之结拉入阿瓦隆世界，从亚瑟残魂处得到危机线索后返回，随即借星之结光芒晃开骑士，一同逃回秘密基地。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'"
+  },
+  {
+    "id": 1104,
+    "sorthels": "魔盒之谜",
+    "show_task_start": true,
+    "title": "魔盒之谜",
+    "description": "魔盒之谜",
+    "description_new": "回到秘密基地安顿好患病精灵，我分享了阿瓦隆的见闻。治疗呆小路失败却意外激活魔盒，圣安德鲁国王到访解释线索与魔盒由来并补充能量。魔盒道出首个神器下落，木桶小队踏上集齐神器拯救王国的征途。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006001
+  },
+  {
+    "id": 1105,
+    "sorthels": "圣锤遗迹",
+    "show_task_start": true,
+    "title": "圣锤遗迹",
+    "description": "圣锤遗迹",
+    "description_new": "第一件神器的线索带我们去捞船镇会合彼得。坐上年久失修的矿车、踏过机关、护住罗达车、扛过国王棋局的挑战——三人合力，把圣锤带回了秘密基地。魔盒亮起新的指引：下一件圣器「神勺」，指向月兔酒馆。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006002
+  },
+  {
+    "id": 1106,
+    "sorthels": "沉船旋涡",
+    "show_task_start": true,
+    "title": "沉船旋涡",
+    "description": "沉船旋涡",
+    "description_new": "为寻找第二件神器，我们在斯诺克学姐的帮助下潜入海底，遭遇大阿瓦鲨化作的小鱼设下考验。菲尔特舍身救下可丽希亚，成功通过考验取得月兔神器，最终将神器带回秘密基地放入魔盒。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006003
+  },
+  {
+    "id": 1107,
+    "sorthels": "堡内告急",
+    "show_task_start": true,
+    "title": "堡内告急",
+    "description": "堡内告急",
+    "description_new": "兰斯洛的求救信送到秘密基地——王国城堡爆发异变，就连国王和简都变成了精灵！在国王精灵大军的围攻中，木桶小队和兰斯洛、麦斯威尔并肩抵抗。下一件神器的踪迹，把我们的脚步引向了王国监狱。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006004
+  },
+  {
+    "id": 1108,
+    "sorthels": "王国监狱",
+    "show_task_start": true,
+    "title": "王国监狱",
+    "description": "王国监狱",
+    "description_new": "王国监狱深处，关押着因噩梦失控的黑羽夫人。木桶小队循着乖乖鹄的感应集齐圣剑碎片，稳固传送门，揭开了玛丽女王胁迫母子的真相。深入异空间后，众人在母子之情的牵引下唤回黑羽夫人——圣剑虽已无法复原，新的可能却悄然显现。小光减轻了母子的刑罚，黑羽夫人与乖乖鹄重获自由，向木桶小队道谢后，踏上了新的旅程。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006005
+  },
+  {
+    "id": 1109,
+    "sorthels": "光的奇迹",
+    "show_task_start": true,
+    "title": "光的奇迹",
+    "description": "光的奇迹",
+    "description_new": "没想到，所有的事情都是简造成的……在迪莫和我们的努力下，虽然历经了不少艰难，但还是解决了王国的大危机，拯救了大家！只是，简带着魔盒逃走了，国王和兰斯洛不许我们擅自追捕……总觉得心里有些不安呢。",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'",
+    "Reward": 120006006
+  },
+  {
+    "id": 1110,
+    "sorthels": "王国舞会",
+    "show_task_start": true,
+    "title": "王国舞会",
+    "description": "王国舞会",
+    "description_new": "危机过去，国王邀请我前往王城晚宴。礼服、合影、与可丽希亚的一支舞——本以为可以喘口气。但夜深时分，八音盒里再度响起紫雀花的童谣，但无论接下来要面对什么敌人，木桶小队都会一一击溃！",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie6.img_zhangjie6'"
+  },
+  {
+    "id": 1111,
+    "sorthels": "旅途仍将继续",
+    "title": "旅途仍将继续",
+    "description_new": "看！星空中出现了崭新的轨迹。精灵们聚集在你身边，眼中闪烁着期待的光。星光指引的方向，正传来熟悉又新鲜的呼唤——是时候出发了！",
+    "paragraph_background": "Texture2D'/Game/NewRoco/Modules/System/Task/Res/NewTask1/img_zhangjie5.img_zhangjie5'"
+  },
+  {
+    "id": 1140,
+    "sorthels": "V110测试节",
+    "show_task_start": true,
+    "title": "V110测试节",
+    "description": "V110测试节"
   },
   {
     "id": 1301,
@@ -507,7 +611,7 @@
   {
     "id": 1304,
     "sorthels": "决斗的殿堂",
-    "unit_id": 93002,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "对战剧场",
     "description": "对战剧场"
@@ -515,7 +619,7 @@
   {
     "id": 1305,
     "sorthels": "战斗的艺术",
-    "unit_id": 93003,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "首领角斗",
     "description": "首领角斗"
@@ -673,7 +777,7 @@
   {
     "id": 3010,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "小脑壳，你在哪里",
     "description": "自由的船帆飘扬，这就是水手的生活——但如果没有那只又憨又绿的板板壳“小脑壳”，冒险就会变得艰涩……听说和它说“呜吼”，它就会翩翩起舞。",
@@ -796,8 +900,7 @@
   {
     "id": 5003,
     "sorthels": "哪一章都不是",
-    "unit_id": 23001,
-    "paragraph_order": 6,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "拉尔夫的委托",
     "description": "银行的拉尔夫先生忽然来到侦探社，他希望能借助侦探社的力量，收回部分申请贷款业务的洛克，用来抵押的精灵。"
@@ -805,8 +908,7 @@
   {
     "id": 5004,
     "sorthels": "哪一章都不是",
-    "unit_id": 23001,
-    "paragraph_order": 7,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "斯诺克改变生活",
     "description": "斯诺克改变生活，是往好处改，还是往坏处改？"
@@ -892,28 +994,28 @@
   },
   {
     "id": 6501,
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "精灵捕捉大比拼",
     "description_new": "要论精灵的捕捉技术，当然还是我更胜一筹！"
   },
   {
     "id": 6502,
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "精灵捕捉大比拼·续",
     "description_new": "要论精灵的捕捉技术，当然还是我更胜一筹！"
   },
   {
     "id": 6503,
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "鸡鸭不分",
     "description_new": "从没听说过有人会分不清晕晕鸡和鸭吉吉，这次算是长见识了。"
   },
   {
     "id": 6504,
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "魔法师变强秘籍",
     "description_new": "捷径多虚妄，志坚路自广。"
@@ -1028,7 +1130,7 @@
   {
     "id": 9027,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "音速犬专家",
     "description": "收到了精灵代步站站长的来信，她似乎遇到了一些麻烦。",
@@ -1205,7 +1307,7 @@
   {
     "id": 9048,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "三小儿辩日",
     "description": "三个小孩正围着黑漆漆的煤球议论纷纷，凑上去看个热闹。",
@@ -1234,7 +1336,7 @@
   {
     "id": 9051,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "和贝卡闲聊",
     "description": "和爱聊天的贝卡一起聊聊，直到他不想聊为止……",
@@ -1312,6 +1414,13 @@
     "Reward": 179000025
   },
   {
+    "id": 9061,
+    "sorthels": "哪一章都不是",
+    "unit_id": 21000,
+    "title": "睡铃花开的温柔",
+    "description_new": "花怨鳗嗓音日渐沙哑却不肯说明原因，睡铃雪影娃娃便委托我收集材料以制作润喉软糖。可软糖做好时，鳗鳗却从花园消失了。我们循着散落的睡铃一路追寻，途中意外解救了闪电鳗鱼等精灵，而后在溪流旁找到了鳗鳗。它正试图以歌声催生大树，只为给怕热的雪影遮阴。两只精灵守护彼此的心意就此交汇。回到花园后，鳗鳗吃下润喉软糖，嗓子恢复了清亮。鳗鳗的歌声使嫩芽长成参天大树，花园有了绿荫。最后，我收到了它们的礼物——一朵承载着美好祝愿的微型睡铃。"
+  },
+  {
     "id": 9062,
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
@@ -1325,7 +1434,6 @@
     "id": 9065,
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
-    "paragraph_order": 2,
     "title": "照片会记得",
     "description": "班尼斯特想要拥有一张和班班的合照……",
     "description_new": "在我的帮助下，班尼斯特终于拥有了一张和班班的合照，希望这张照片能永远留住他们之间的珍贵回忆。",
@@ -1335,7 +1443,6 @@
     "id": 9067,
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
-    "paragraph_order": 3,
     "title": "迎风再出发",
     "description": "学院学长埃克斯找不到自己和岚鸟山风初遇时的合照了……",
     "description_new": "尽管埃克斯没能找到自己和山风初遇时的合照，但新的合照已记录好他们相熟的当下和即将开启的未来。",
@@ -1345,7 +1452,6 @@
     "id": 9068,
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
-    "paragraph_order": 4,
     "title": "故乡的滋味",
     "description": "来自洛克里安的研究员比利弗发现流浪鼠包包在想念家乡的美食……",
     "description_new": "我为比利弗带回了她家乡的花星角，包包如愿吃到了故乡的双层三角花。比利弗告诉我，熟悉的乡味是他们离家千里的慰藉。",
@@ -1430,7 +1536,7 @@
   {
     "id": 9083,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "珍妮弗的请求",
     "description": "商店街的珍妮弗对你发出了请求。",
@@ -1630,8 +1736,7 @@
   {
     "id": 10035,
     "sorthels": "哪一章都不是",
-    "unit_id": 21601,
-    "paragraph_order": 1,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "黑巫师随机事件",
     "is_hide_paragraph": true,
@@ -1649,6 +1754,7 @@
   {
     "id": 10037,
     "sorthels": "哪一章都不是",
+    "unit_id": 999999,
     "title": "隐藏任务-轻风山守卫刷新option",
     "sub_disappear": true,
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1666,6 +1772,7 @@
   {
     "id": 10039,
     "sorthels": "哪一章都不是",
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "隐藏任务-岩石神使刷新option",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1673,6 +1780,7 @@
   {
     "id": 10040,
     "sorthels": "哪一章都不是",
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "隐藏任务-可丽希亚刷新option",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1680,6 +1788,7 @@
   {
     "id": 10041,
     "sorthels": "哪一章都不是",
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "隐藏任务-商会巷子刷新option",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1695,7 +1804,7 @@
   {
     "id": 10043,
     "sorthels": "哪一章都不是",
-    "unit_id": 21000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "只有萌系存在的世界",
     "sub_disappear": true,
@@ -1820,7 +1929,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "风暴战犬法尔的记忆",
-    "description_new": "一番波折后，你终于看到了有关风暴战犬法尔的过往……",
+    "description_new": "一番波折后，我终于看到了有关风暴战犬法尔的过往……",
     "Reward": 170000019
   },
   {
@@ -1828,7 +1937,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "风暴战犬法尔的记忆",
-    "description_new": "一番波折后，你终于看到了有关风暴战犬法尔的过往……",
+    "description_new": "一番波折后，我终于看到了有关风暴战犬法尔的过往……",
     "Reward": 170000019
   },
   {
@@ -1836,7 +1945,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "霜翼领主阿特岚的记忆",
-    "description_new": "一番波折后，你终于看到了有关霜翼领主阿特岚的过往……",
+    "description_new": "一番波折后，我终于看到了有关霜翼领主阿特岚的过往……",
     "Reward": 170000020
   },
   {
@@ -1844,7 +1953,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "黑猫密探芙摩甘的记忆",
-    "description_new": "一番波折后，你终于看到了有关黑猫密探芙摩甘的过往……",
+    "description_new": "一番波折后，我终于看到了有关黑猫密探芙摩甘的过往……",
     "Reward": 170000021
   },
   {
@@ -1852,7 +1961,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "雪影冰灵艾莉亚的记忆",
-    "description_new": "一番波折后，你终于看到了有关雪影冰灵艾莉亚的过往……",
+    "description_new": "一番波折后，我终于看到了有关雪影冰灵艾莉亚的过往……",
     "Reward": 170000022
   },
   {
@@ -1860,7 +1969,7 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "迷嶂布莱克的记忆",
-    "description_new": "一番波折后，你终于看到了有关迷嶂布莱克的过往……",
+    "description_new": "一番波折后，我终于看到了有关迷嶂布莱克的过往……",
     "Reward": 170000023
   },
   {
@@ -1868,8 +1977,32 @@
     "sorthels": "哪一章都不是",
     "unit_id": 21000,
     "title": "蹦蹦果多特的记忆",
-    "description_new": "一番波折后，你终于看到了有关蹦蹦果多特的过往……",
+    "description_new": "一番波折后，我终于看到了有关蹦蹦果多特的过往……",
     "Reward": 170000026
+  },
+  {
+    "id": 10200,
+    "sorthels": "哪一章都不是",
+    "unit_id": 23000,
+    "title": "奇梦咪三三的记忆",
+    "description_new": "一番波折后，我终于看到了有关奇梦咪三三的过往……",
+    "Reward": 170000029
+  },
+  {
+    "id": 10230,
+    "sorthels": "哪一章都不是",
+    "unit_id": 23000,
+    "title": "恶魔狼王克洛斯的记忆",
+    "description_new": "一番波折后，我终于看到了有关恶魔狼王克洛斯的过往……",
+    "Reward": 170000032
+  },
+  {
+    "id": 10240,
+    "sorthels": "哪一章都不是",
+    "unit_id": 23000,
+    "title": "幻影荆棘布兰索的记忆",
+    "description_new": "一番波折后，我终于看到了有关幻影荆棘布兰索的过往……",
+    "Reward": 170000033
   },
   {
     "id": 11001,
@@ -1882,7 +2015,7 @@
   {
     "id": 12002,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种",
     "description": "盛开于大地之上的神秘花种，盛开后"
@@ -1890,7 +2023,7 @@
   {
     "id": 12003,
     "sorthels": "哪一章都不是",
-    "unit_id": 91002,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "捕捉活动",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1898,7 +2031,7 @@
   {
     "id": 12004,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：甜田螺的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1906,7 +2039,7 @@
   {
     "id": 12005,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：布鲁斯的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1914,7 +2047,7 @@
   {
     "id": 12008,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：呼唤格斗小五",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1922,7 +2055,7 @@
   {
     "id": 12009,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：呼唤格斗小六",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1930,7 +2063,7 @@
   {
     "id": 12010,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：呼唤格斗小八",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1938,7 +2071,7 @@
   {
     "id": 12011,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：春团的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1946,7 +2079,7 @@
   {
     "id": 12012,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：幽星光的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1954,7 +2087,7 @@
   {
     "id": 12013,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：火尾瓦特的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1962,7 +2095,7 @@
   {
     "id": 12014,
     "sorthels": "哪一章都不是",
-    "unit_id": 91001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "稀兽花种：烈钻鸟的呼唤",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -1980,7 +2113,7 @@
   {
     "id": 44001,
     "sorthels": "哪一章都不是",
-    "unit_id": 21001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "烽火台？风火台！",
     "description": "这个描述肯定有问题，随便生成的，记得改一下",
@@ -1990,7 +2123,7 @@
   {
     "id": 44002,
     "sorthels": "哪一章都不是",
-    "unit_id": 21001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "风火台——圣羽祭台",
     "description": "这个描述肯定有问题，随便生成的，记得改一下",
@@ -2000,7 +2133,7 @@
   {
     "id": 44003,
     "sorthels": "哪一章都不是",
-    "unit_id": 21001,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "风火台——星霜崖地",
     "description": "这个描述肯定有问题，随便生成的，记得改一下",
@@ -2150,6 +2283,221 @@
     "Reward": 600552
   },
   {
+    "id": 52021,
+    "sorthels": "A2-1隐藏任务",
+    "unit_id": 23012,
+    "title": "仪式镇+威廉古堡门交互控制",
+    "is_hide_paragraph": true,
+    "description_new": "A2-1隐藏任务-仪式镇+威廉古堡门交互控制"
+  },
+  {
+    "id": 52022,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 1,
+    "title": "阵营-北境新冒险",
+    "description": "V110阵营拾遗",
+    "description_new": "假期通知把大家重新召回学院，路易斯老师宣布没有作业，却带来了格里芬院长安排的特别课外活动；怀着期待与疑惑，大家乘上飞艇，踏上前往洛克里安北部的旅程。"
+  },
+  {
+    "id": 52023,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 2,
+    "title": "阵营-探险训练营",
+    "description": "V110阵营拾遗",
+    "description_new": "抵达金水河谷后，大家一路前往仪式镇，与探险家协会会长吉洛斯老师正式会合；这场看似郊游的假期活动，也终于显露出「真正探险」的分量。",
+    "Reward": 600580
+  },
+  {
+    "id": 52024,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 3,
+    "title": "阵营-勘察巨人裂谷",
+    "description": "V110阵营拾遗",
+    "description_new": "在吉洛斯老师的带领下，大家以「溯源」的态度走访巨人裂谷的水、火、草三支部落，记录生态、图腾与地貌线索，也开始思考三族争斗和巨人王座背后尚未解开的历史。",
+    "Reward": 600581
+  },
+  {
+    "id": 52025,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 4,
+    "title": "阵营-勘察结晶森林",
+    "description": "V110阵营拾遗",
+    "description_new": "大家在结晶森林了解美愿树、愿力与美愿结晶的关系，也亲眼见到美愿结晶对当地生活的意义；盗晶者的出现让大家明白，尊重、共生与守护正是探险家「怀仁」的实践。",
+    "Reward": 600582
+  },
+  {
+    "id": 52026,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 5,
+    "title": "阵营-勘察威廉古堡",
+    "description": "V110阵营拾遗",
+    "description_new": "穿过迷雾森林后，大家进入威廉古堡，接触到传闻之外的吸血鬼、德古拉伯爵留下的文字与古堡旧影；黑夜与迷雾没有给出答案，却让「无畏」有了更真实的含义。",
+    "Reward": 600583
+  },
+  {
+    "id": 52027,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 6,
+    "title": "阵营-勘察淘晶镇",
+    "description": "V110阵营拾遗",
+    "description_new": "在淘晶镇外，大家以「洞察」的眼光调查由负面愿力凝成的愿骸，也与科林特发生冲突；这场被迫中止的勘察让大家明白，污染、贫困、执念与家乡并不是一次调查就能理清的问题。",
+    "Reward": 600584
+  },
+  {
+    "id": 52028,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 7,
+    "title": "探险家之路",
+    "is_hide_paragraph": true,
+    "description": "V110阵营拾遗",
+    "description_new": "隐藏任务专用，放置所有环境叙事交互检查的任务。"
+  },
+  {
+    "id": 52029,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 8,
+    "title": "迪莫首领化的感应",
+    "is_hide_paragraph": true,
+    "description": "V110阵营拾遗",
+    "description_new": "隐藏任务专用，用于触发巨人裂谷三副本前迪莫的反应。"
+  },
+  {
+    "id": 52030,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 9,
+    "title": "通往协作的桥梁",
+    "description": "V110阵营拾遗",
+    "description_new": "为了回馈当地人的帮助，大家协助探险家协会推进断桥重建，让巨人裂谷两侧重新连通；这座桥不只方便魔法师，也让精灵、商人和学者有了更顺畅的往来道路。",
+    "Reward": 600586
+  },
+  {
+    "id": 52031,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 10,
+    "title": "汇聚交流的营地",
+    "description": "V110阵营拾遗",
+    "description_new": "大家继续协助修缮探险家协会营地，把临时驻点逐步建设成能避风避寒、学习炼金、长期交流的大本营，也为未来更多探险者留下了可以停靠的地方。"
+  },
+  {
+    "id": 52032,
+    "sorthels": "A2-1阵营",
+    "unit_id": 23012,
+    "paragraph_order": 11,
+    "title": "愉快的…假期？",
+    "description": "V110阵营拾遗",
+    "description_new": "V110阵营拾遗"
+  },
+  {
+    "id": 52033,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23012,
+    "paragraph_order": 12,
+    "title": "煮一锅热汤",
+    "description": "A2-1大世界EQ",
+    "description_new": "营地修缮和断桥重建告一段落后，维斯塔又张罗起一锅热汤，把一路上帮过协会、也被协会帮助过的人请到一起；结晶花豆、林间香草和粗盐一同入锅，营地里终于有了第一场属于大家的热闹，那些忙碌后的疲惫也慢慢散进了汤香里。",
+    "Reward": 600589
+  },
+  {
+    "id": 52034,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 12,
+    "title": "问候的起点",
+    "description": "A2-1大世界EQ",
+    "description_new": "火豆丁第一次想和雪豆丁交朋友，却因为不懂对方的问候方式，把彼此都吓了一跳；我试着用水系部落的打招呼方式安抚雪豆丁，再教火豆丁照着做。两个小家伙终于明白，想靠近对方时，先学会对方能懂的招呼最重要。",
+    "Reward": 600590
+  },
+  {
+    "id": 52035,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 13,
+    "title": "没有言语的求救",
+    "description": "A2-1大世界EQ",
+    "description_new": "一只森豆丁贪玩走远，卡在悬崖处回不了家；我停下来帮它脱困，又把它送回草系巨人部落。它不会表达，只能干着急，但能顺利回到熟悉的地方，对它来说已经足够安心了吧。",
+    "Reward": 600591
+  },
+  {
+    "id": 52036,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 14,
+    "title": "放心，慢慢过来",
+    "description": "A2-1大世界EQ",
+    "description_new": "帕斯卡尔和大家一起修好的那座桥，终于能让更多洛克与精灵走向对岸；当一只森蛮人在桥头反复犹豫时，我没有催它，也没有牵它，只是退到一旁静静等待——克服怀疑这件事，本来就需要有人愿意守在原地。",
+    "Reward": 600592
+  },
+  {
+    "id": 52037,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 15,
+    "title": "送回一枚落种",
+    "description": "A2-1大世界EQ",
+    "description_new": "一枚遗失的结晶花落种、一只蹲在空地上发呆的精灵，构成了结晶森林边缘最不起眼的小事。",
+    "Reward": 600593
+  },
+  {
+    "id": 52038,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 16,
+    "title": "这次没吓跑",
+    "description": "A2-1大世界EQ",
+    "description_new": "古堡外那个总把精灵吓哭的吸血鬼，其实只是想送一颗可可果；我提醒她不要大声讲话，也不要从背后偷偷靠近精灵。等她学着放轻声音、从正面好好打招呼时，那只胆小的精灵终于没有再被吓跑。",
+    "Reward": 600594
+  },
+  {
+    "id": 52039,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 17,
+    "title": "画像看着我",
+    "description": "A2-1大世界EQ",
+    "description_new": "古堡里那双「会盯着人」的眼睛，最后被发现属于一只在画像后筑巢的小芽眼魔；当传闻被还原成生活，连严肃的吸血鬼也松了一口气。古堡不缺鬼故事，但更需要有人愿意走近一步，去看看真相究竟是什么。",
+    "Reward": 600595
+  },
+  {
+    "id": 52040,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 18,
+    "title": "楼上有声音",
+    "description": "A2-1大世界EQ",
+    "description_new": "楼上的脚步声并不是闹鬼，而是一名吸血鬼在小心翼翼地避开楼下的客人；当他愿意换一种更大方的方式打招呼时，那位胆怯的小洛克也终于敢抬起头。古堡里的善意有时不响亮，却会藏在一句礼貌的问候里。",
+    "Reward": 600596
+  },
+  {
+    "id": 52041,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 19,
+    "title": "对它来说并不好",
+    "description": "A2-1大世界EQ",
+    "description_new": "当地洛克以为有精灵在偷走愿骸碎片，可真正走近之后才发现，那只乌达只是讨厌这些东西的味道，才费力把它们推开；我帮它清理了三处碎片，也把一场误会轻轻放下。",
+    "Reward": 600597
+  },
+  {
+    "id": 52042,
+    "sorthels": "A2-1大世界EQ",
+    "unit_id": 23000,
+    "paragraph_order": 20,
+    "title": "不咳嗽的一分钟",
+    "description": "A2-1大世界EQ",
+    "description_new": "小发明家试过太多失败的方案，这一次他打算用结晶花当作核心，做一只属于当地的简易滤水罐；当他喝下第一口过滤水、整整一分钟都没有咳嗽时，那条街上的水缸第一次有了被信任的可能——这一次，至少比上一次又往前走了一点点。",
+    "Reward": 600598
+  },
+  {
     "id": 52802,
     "sorthels": "你好！魔法学生",
     "unit_id": 21003,
@@ -2178,7 +2526,7 @@
   {
     "id": 52806,
     "sorthels": "智慧树苗的考验·一",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·一",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2186,7 +2534,7 @@
   {
     "id": 52807,
     "sorthels": "智慧树苗的考验·二",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·二",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2194,7 +2542,7 @@
   {
     "id": 52808,
     "sorthels": "智慧树苗的考验·三",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·三",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2202,7 +2550,7 @@
   {
     "id": 52809,
     "sorthels": "智慧树苗的考验·四",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·四",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2210,7 +2558,7 @@
   {
     "id": 52810,
     "sorthels": "智慧树苗的考验·五",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·五",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2218,7 +2566,7 @@
   {
     "id": 52811,
     "sorthels": "智慧树苗的考验·六",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·六",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2226,7 +2574,7 @@
   {
     "id": 52812,
     "sorthels": "智慧树苗的考验·七",
-    "unit_id": 22001,
+    "unit_id": 999999,
     "title": "智慧树苗的考验·七",
     "sub_disappear": true,
     "description": "魔法学院的基础图鉴课程，需要通过智慧树苗的考验。"
@@ -2632,25 +2980,60 @@
   },
   {
     "id": 52970,
-    "sorthels": "珍稀精灵调查团",
+    "sorthels": "精灵调查团",
     "unit_id": 23010,
     "paragraph_order": 1,
     "show_task_start": true,
-    "title": "珍稀精灵调查团"
+    "title": "精灵调查团"
   },
   {
     "id": 52975,
-    "sorthels": "珍稀精灵调查团",
+    "sorthels": "特别调查任务",
     "unit_id": 23010,
     "paragraph_order": 2,
-    "title": "珍稀精灵调查团"
+    "title": "特别调查任务"
   },
   {
     "id": 52976,
-    "sorthels": "珍稀精灵调查团",
+    "sorthels": "精灵调查团",
     "unit_id": 23010,
     "paragraph_order": 3,
-    "title": "珍稀精灵调查团"
+    "title": "精灵调查团"
+  },
+  {
+    "id": 52977,
+    "sorthels": "小狐安家记",
+    "unit_id": 23013,
+    "paragraph_order": 1,
+    "title": "寻家小狐"
+  },
+  {
+    "id": 52978,
+    "sorthels": "小狐安家记",
+    "unit_id": 23013,
+    "paragraph_order": 2,
+    "title": "甜蜜的负担"
+  },
+  {
+    "id": 52979,
+    "sorthels": "小狐安家记",
+    "unit_id": 23013,
+    "paragraph_order": 3,
+    "title": "不速之客"
+  },
+  {
+    "id": 52980,
+    "sorthels": "小狐安家记",
+    "unit_id": 23013,
+    "paragraph_order": 4,
+    "title": "高地上的误会"
+  },
+  {
+    "id": 52981,
+    "sorthels": "小狐安家记",
+    "unit_id": 23013,
+    "paragraph_order": 5,
+    "title": "台地新居民"
   },
   {
     "id": 53501,
@@ -2687,6 +3070,23 @@
     "title": "狂欢怪谈作业"
   },
   {
+    "id": 53505,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 6,
+    "show_task_start": true,
+    "title": "铅字幻梦作业",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "学院对于魔力波动的调查仍在继续，但我的调查暂时告一段落了。\n下一次的赛季作业，又会是什么样的呢？",
+    "season_task": true
+  },
+  {
+    "id": 53506,
+    "sorthels": "狂欢怪谈作业",
+    "show_task_start": true,
+    "title": "铅字幻梦作业"
+  },
+  {
     "id": 56001,
     "sorthels": "哪一章都不是",
     "unit_id": 22000,
@@ -2714,6 +3114,16 @@
     "sub_disappear": true,
     "description": "我们曾以为凡鹰是惊扰山坡的怪客，直到并肩击退阴险的黑巫师，救回可立鸡们。凡鹰才不是那个藏在风里的威胁。它张开宽大的羽翼，同那群活泼的可立鸡们，在洒满阳光的山坡上轻快地奔跑。",
     "description_new": "我们曾以为凡鹰是惊扰山坡的怪客，直到并肩击退阴险的黑巫师，救回可立鸡们。凡鹰才不是那个藏在风里的威胁。它张开宽大的羽翼，同那群活泼的可立鸡们，在洒满阳光的山坡上轻快地奔跑。"
+  },
+  {
+    "id": 56004,
+    "sorthels": "哪一章都不是",
+    "unit_id": 23704,
+    "show_task_start": true,
+    "title": "草系徽章挑战",
+    "sub_disappear": true,
+    "description": "踏入八大徽章圣殿，启程草系徽章试炼，挑战罗兰大师。",
+    "description_new": "踏入八大徽章圣殿，启程草系徽章试炼，挑战罗兰大师。"
   },
   {
     "id": 58001,
@@ -2814,7 +3224,7 @@
   {
     "id": 60020,
     "sorthels": "哪一章都不是",
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "艺术魔法",
     "description": "实现斯科伊敦家族的守护灵想要的「有趣」",
@@ -2842,7 +3252,7 @@
   {
     "id": 60023,
     "sorthels": "哪一章都不是",
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "来杯阿卡",
     "description": "实现特伦斯家族的守护灵想要的「有趣」",
@@ -2852,7 +3262,7 @@
   {
     "id": 60024,
     "sorthels": "哪一章都不是",
-    "unit_id": 23000,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "精灵旅社",
     "description": "实现莫扎特家族的守护灵想要的「有趣」",
@@ -2862,7 +3272,7 @@
   {
     "id": 60025,
     "sorthels": "哪一章都不是",
-    "unit_id": 23004,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "新·圆桌小队",
     "description": "原来这就是骑士团。",
@@ -3072,8 +3482,7 @@
   {
     "id": 60200,
     "sorthels": "哪一章都不是",
-    "unit_id": 23009,
-    "paragraph_order": 1,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "机械精灵目击报告",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -3081,8 +3490,7 @@
   {
     "id": 60201,
     "sorthels": "哪一章都不是",
-    "unit_id": 23009,
-    "paragraph_order": 2,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "马戏团的传闻",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -3090,8 +3498,7 @@
   {
     "id": 60202,
     "sorthels": "哪一章都不是",
-    "unit_id": 23009,
-    "paragraph_order": 3,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "宫廷魔法师们",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -3099,8 +3506,7 @@
   {
     "id": 60203,
     "sorthels": "哪一章都不是",
-    "unit_id": 23009,
-    "paragraph_order": 4,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "令人担心的约定",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -3108,8 +3514,7 @@
   {
     "id": 60204,
     "sorthels": "哪一章都不是",
-    "unit_id": 23009,
-    "paragraph_order": 5,
+    "unit_id": 999999,
     "show_task_start": true,
     "title": "来自交汇镇的消息",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
@@ -3147,7 +3552,6 @@
     "paragraph_order": 1,
     "show_task_start": true,
     "title": "马戏奇缘",
-    "description": "这个描述肯定有问题，随便生成的，记得改一下",
     "description_new": "跟随神秘的宫廷魔法师希洛，我通过海报进入了传说中“机幕方舟”所创造的、只对少数人开放的马戏团。在唤醒伙伴、恢复电力的过程中，逐渐揭开了团长机幕方舟与希洛之间关于梦想的尘封约定。为了让机幕方舟的「心」重新跳动，我和希洛决定帮助马戏团排演节目。",
     "season_task": true
   },
@@ -3268,6 +3672,97 @@
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
   },
   {
+    "id": 70021,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "欢迎来到智慧出版社",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "收到莫里亚克的来信，我来到了刚开业的智慧出版社。在这里，我邂逅了精灵加尔，还有它带来的那本神奇童话集——只要拍下照片，便会发生神奇的事情。机械精灵变成的小女孩，让一旁的老人认成了自己日思夜想的「孙女」……但这一切的代价究竟是什么？我还不得而知……",
+    "season_task": true
+  },
+  {
+    "id": 70022,
+    "sorthels": "哪一章都不是",
+    "unit_id": 93005,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "童话书测试用任务",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+  },
+  {
+    "id": 70023,
+    "sorthels": "哪一章都不是",
+    "unit_id": 93005,
+    "paragraph_order": 2,
+    "show_task_start": true,
+    "title": "童话书隐藏任务",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+  },
+  {
+    "id": 70024,
+    "sorthels": "哪一章都不是",
+    "unit_id": 93005,
+    "paragraph_order": 3,
+    "show_task_start": true,
+    "title": "拍照推理测试任务",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+  },
+  {
+    "id": 70025,
+    "sorthels": "哪一章都不是",
+    "unit_id": 93005,
+    "paragraph_order": 4,
+    "show_task_start": true,
+    "title": "【S3赛季任务】【委托1】",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下"
+  },
+  {
+    "id": 70026,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 2,
+    "show_task_start": true,
+    "title": "心愿流转的彼得大道",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "跟随故事集的指引，一个个小小的心愿在光影的流转间悄悄实现。但随着愿望的达成，加尔正在逐渐变得虚弱起来，这一切似乎隐约存在着某种联系。",
+    "season_task": true
+  },
+  {
+    "id": 70027,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 3,
+    "show_task_start": true,
+    "title": "突如其来的变故",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "加尔突然的消失让我和莫里亚克都吓了一大跳。依靠魔法胶片上显示的足迹，我们一步步梳理清了所有的流程，但仍未触达真正的真相。",
+    "season_task": true
+  },
+  {
+    "id": 70028,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 4,
+    "show_task_start": true,
+    "title": "被扭曲的心愿",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "推开出版社的大门，眼前的一切竟天翻地覆。经过一番波折，我和莫里亚克一路深入那片颠倒的空间，最终与暴怒的「黑加尔」正面相对。在与莫里亚克并肩战斗之后，这场交锋画上了句点……",
+    "season_task": true
+  },
+  {
+    "id": 70029,
+    "sorthels": "哪一章都不是",
+    "unit_id": 10017,
+    "paragraph_order": 5,
+    "show_task_start": true,
+    "title": "心愿的回响",
+    "description": "这个描述肯定有问题，随便生成的，记得改一下",
+    "description_new": "头顶的星光告诉我，童话故事不是骗人的。是大家对美好的期待让美梦成真，我们彼此交换的每一个心愿，仍将熠熠生辉……",
+    "season_task": true
+  },
+  {
     "id": 70032,
     "sorthels": "哪一章都不是",
     "unit_id": 23011,
@@ -3320,5 +3815,67 @@
     "show_task_start": true,
     "title": "摄影大师",
     "description": "这个描述肯定有问题，随便生成的，记得改一下"
+  },
+  {
+    "id": 79997,
+    "sorthels": "来自花园的信",
+    "unit_id": 23014,
+    "paragraph_order": 3,
+    "title": "来自花园的信",
+    "is_hide_paragraph": true
+  },
+  {
+    "id": 79998,
+    "sorthels": "夏日潮汐集市",
+    "unit_id": 91003,
+    "paragraph_order": 3,
+    "show_task_start": true,
+    "title": "找到遗落的物资",
+    "description_new": "摊位上又摆满了整整齐齐的物资包。"
+  },
+  {
+    "id": 79999,
+    "sorthels": "夏日潮汐集市",
+    "unit_id": 91003,
+    "paragraph_order": 1,
+    "show_task_start": true,
+    "title": "帮助迷路的小男孩",
+    "sub_disappear": true,
+    "description_new": "他抱着物资包，转身蹦蹦跳跳地朝家的方向跑去。"
+  },
+  {
+    "id": 80001,
+    "sorthels": "夏日潮汐集市",
+    "unit_id": 91003,
+    "paragraph_order": 2,
+    "show_task_start": true,
+    "title": "比试邀约？",
+    "sub_disappear": true,
+    "description_new": "比试结束！1号摊助手甩了甩尾巴——看来这场对决它玩得超开心呢！"
+  },
+  {
+    "id": 80002,
+    "sorthels": "V110地区隐藏对战",
+    "unit_id": 23602,
+    "paragraph_order": 1,
+    "title": "V110地区隐藏对战",
+    "is_hide_paragraph": true,
+    "description": "用于承载AV110地区隐藏对战，隐藏任务"
+  },
+  {
+    "id": 80203,
+    "sorthels": "魔法灯的获取指引",
+    "unit_id": 21000,
+    "show_task_start": true,
+    "title": "魔法灯的获取指引",
+    "description": "魔法灯的获取指引",
+    "description_new": "吉洛斯老师的探险训练营里可以兑换到各种魔法灯，先去完成训练营的考验吧。"
+  },
+  {
+    "id": 90000,
+    "sorthels": "关卡隐藏任务",
+    "unit_id": 90000,
+    "paragraph_order": 1,
+    "is_hide_paragraph": true
   }
 ]

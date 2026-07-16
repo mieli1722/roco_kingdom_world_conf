@@ -72,7 +72,7 @@
   {
     "id": 144,
     "key": "pet_evolution_text_1",
-    "str": "……哦！？%s的样子……！似乎想要进化……！！！",
+    "str": "……哦！？{0}的样子……！似乎想要进化……！！！",
     "is_loc": 1
   },
   {
@@ -84,19 +84,19 @@
   {
     "id": 146,
     "key": "pet_evolution_text_2",
-    "str": "……太棒了！%s进化为%s了……！！！",
+    "str": "……太棒了！{0}进化为{1}了……！！！",
     "is_loc": 1
   },
   {
     "id": 147,
     "key": "pet_evolution_text_3",
-    "str": "%s现在是%s。",
+    "str": "{0}现在是{1}。",
     "is_loc": 1
   },
   {
     "id": 148,
     "key": "pet_evolution_text_4",
-    "str": "%s现在是%s和%s。",
+    "str": "{0}现在是{1}和{2}。",
     "is_loc": 1
   },
   {
@@ -132,7 +132,7 @@
   {
     "id": 154,
     "key": "pet_catch_up_desc",
-    "str": "洛克更容易捕捉到“%s”了。",
+    "str": "洛克更容易捕捉到“{0}”了。",
     "is_loc": 1
   },
   {
@@ -150,7 +150,7 @@
   {
     "id": 157,
     "key": "handbook_desc_catch",
-    "str": "更容易捕捉到“%s”了。",
+    "str": "更容易捕捉到“{0}”了。",
     "is_loc": 1
   },
   {
@@ -549,7 +549,7 @@
   {
     "id": 220,
     "key": "pet_hatch_text",
-    "str": "蛋孵化成【%s】了！",
+    "str": "蛋孵化成【{0}】了！",
     "is_loc": 1
   },
   {
@@ -989,7 +989,7 @@
   {
     "id": 265,
     "key": "team_battle_no_star",
-    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">%s</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n是否仍然参与挑战？",
+    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n是否仍然参与挑战？",
     "is_loc": 1
   },
   {
@@ -1001,7 +1001,7 @@
   {
     "id": 267,
     "key": "team_battle_no_star_ball",
-    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">%s</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？",
+    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？",
     "is_loc": 1
   },
   {
@@ -1019,7 +1019,7 @@
   {
     "id": 270,
     "key": "team_battle_text_team",
-    "str": "超时将自动拒绝邀请，点击空白处关闭。（%s秒）",
+    "str": "超时将自动拒绝邀请，点击空白处关闭。（{0}秒）",
     "is_loc": 1
   },
   {
@@ -1031,7 +1031,7 @@
   {
     "id": 272,
     "key": "team_battle_no_accepted",
-    "str": "%s未接受挑战邀请。",
+    "str": "{0}未接受挑战邀请。",
     "is_loc": 1
   },
   {
@@ -1043,13 +1043,13 @@
   {
     "id": 274,
     "key": "team_battle_cancel_challenge",
-    "str": "%s取消了挑战。",
+    "str": "{0}取消了挑战。",
     "is_loc": 1
   },
   {
     "id": 275,
     "key": "team_battle_change_pet",
-    "str": "%s更换了上场的精灵。",
+    "str": "{0}更换了上场的精灵。",
     "is_loc": 1
   },
   {
@@ -1061,7 +1061,7 @@
   {
     "id": 277,
     "key": "team_battle_catch_text",
-    "str": "本次捕捉额外消耗%s契约印记",
+    "str": "本次捕捉额外消耗{0}契约印记",
     "is_loc": 1
   },
   {
@@ -1161,13 +1161,13 @@
   {
     "id": 293,
     "key": "pet_skill_version",
-    "num": 2,
+    "num": 3,
     "is_loc": 2
   },
   {
     "id": 294,
     "key": "pet_attr_version",
-    "num": 2,
+    "num": 3,
     "is_loc": 2
   },
   {
@@ -2044,7 +2044,7 @@
   {
     "id": 401,
     "key": "mainworld_team_default_name",
-    "str": "大世界小队%d",
+    "str": "大世界小队{0:d}",
     "is_loc": 1
   },
   {
@@ -2482,7 +2482,7 @@
   {
     "id": 462,
     "key": "handbook_topic_version",
-    "num": 101001,
+    "num": 110010,
     "is_loc": 2
   },
   {
@@ -2634,7 +2634,7 @@
   {
     "id": 489,
     "key": "pet_belong_handbook_version",
-    "num": 100000
+    "num": 110002
   },
   {
     "id": 490,
@@ -2665,6 +2665,11 @@
     "id": 495,
     "key": "pet_report_amount_limit",
     "num": 1900
+  },
+  {
+    "id": 496,
+    "key": "lordevo_end_time",
+    "num": 1800
   },
   {
     "id": 497,
@@ -2711,8 +2716,45 @@
     "num": 10
   },
   {
+    "id": 502,
+    "key": "energy_loss_show_time",
+    "num": 2000
+  },
+  {
+    "id": 503,
+    "key": "chat_easter_egg_radius",
+    "num": 50
+  },
+  {
+    "id": 504,
+    "key": "highvalue_pet_need_protect",
+    "numList": [
+      1,
+      8
+    ]
+  },
+  {
+    "id": 505,
+    "key": "pet_feed_fruit",
+    "numList": [
+      100211,
+      100212,
+      100213
+    ]
+  },
+  {
+    "id": 507,
+    "key": "auto_change_team",
+    "num": 1500
+  },
+  {
     "id": 508,
     "key": "egg_name_display_max_text",
     "num": 5
+  },
+  {
+    "id": 509,
+    "key": "pet_evo_skill_times_max",
+    "num": 30
   }
 ]

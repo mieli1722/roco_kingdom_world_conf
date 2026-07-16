@@ -5,24 +5,7 @@
     "refresh_content_id": 30300501,
     "scene_id": 103,
     "world_boss_refer": 13000158,
-    "editor_name": "废弃",
-    "escape_pos_id": 130,
-    "block_id": 121030062,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ]
+    "block_id": 121030062
   },
   {
     "id": 2,
@@ -30,16 +13,8 @@
     "refresh_content_id": 1200899,
     "scene_id": 103,
     "world_boss_refer": 9801,
-    "editor_name": "废弃",
-    "escape_pos_id": 136,
     "block_id": 121030075,
-    "min_battle_distance": 20,
     "finish_type": 1,
-    "option": [
-      {
-        "stage_shield": 30012
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;Common"
   },
   {
@@ -49,32 +24,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 13000152,
-    "editor_name": "废弃",
     "sequence_id": 7,
-    "escape_pos_id": 152,
     "block_id": 121030087,
-    "min_battle_distance": 14,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Common",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Common"
   },
   {
     "id": 4,
@@ -83,41 +35,16 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4072,
-    "editor_name": "布克棱岩",
     "trophy_id": 50213,
     "sequence_id": 7,
     "task_name": "无",
-    "camp_id": 140145,
     "living_area_name": "旧飞艇航道",
-    "escape_pos_id": 153,
     "block_id": 121030079,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "reward_refresh_content_id": 30302034,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       67002,
       67003,
       67004
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -127,40 +54,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4074,
-    "editor_name": "岚鸟",
     "trophy_id": 50215,
     "sequence_id": 6,
     "task_name": "无",
-    "camp_id": 140147,
     "living_area_name": "叽叽喳喳台地",
-    "escape_pos_id": 154,
     "block_id": 101030134,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
-    "reward_refresh_content_id": 30302038,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       67000,
       67001
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -170,41 +72,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4021,
-    "editor_name": "花魁蜂后",
     "trophy_id": 50212,
     "sequence_id": 5,
     "task_name": "主线任务",
-    "camp_id": 130312,
     "living_area_name": "风息山口",
-    "escape_pos_id": 155,
     "block_id": 121030089,
-    "min_battle_distance": 10,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
-    "reward_refresh_content_id": 30302039,
     "bgm_world_combat_state": "World_Combat_Type;Easy",
     "preloading_npc": [
       65553,
       65555
-    ],
-    "prompt_banner": "worldcombat_tips_huakuifenghou",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -214,40 +90,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4022,
-    "editor_name": "奇丽花",
     "trophy_id": 50210,
     "sequence_id": 2,
     "task_name": "主线任务",
-    "camp_id": 130308,
     "living_area_name": "奥贝斯坦湖",
-    "escape_pos_id": 156,
     "block_id": 121030090,
-    "min_battle_distance": 9,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "reward_refresh_content_id": 30302030,
     "bgm_world_combat_state": "World_Combat_Type;Easy",
     "preloading_npc": [
       65557,
       65558
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone38)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -257,39 +108,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4020,
-    "editor_name": "千棘盔",
     "trophy_id": 50214,
     "sequence_id": 4,
     "task_name": "主线任务",
-    "camp_id": 130309,
     "living_area_name": "月牙湖岸",
-    "escape_pos_id": 157,
     "block_id": 121030091,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "reward_refresh_content_id": 30302036,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       67008
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_KaiJia01",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -299,39 +125,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4078,
-    "editor_name": "音速犬",
     "trophy_id": 50216,
     "sequence_id": 1,
     "task_name": "无",
-    "camp_id": 130309,
     "living_area_name": "月牙湖岸",
-    "escape_pos_id": 159,
     "block_id": 121030092,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50064
-      },
-      {
-        "stage_shield": 50064
-      },
-      {
-        "stage_shield": 50064
-      },
-      {
-        "stage_shield": 50064
-      }
-    ],
-    "reward_refresh_content_id": 30302041,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       120018
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ],
     "hit_anim_alpha": 10
   },
@@ -341,25 +142,8 @@
     "refresh_content_id": 1200819,
     "scene_id": 103,
     "world_boss_refer": 13000158,
-    "editor_name": "废弃-伊里斯",
     "task_name": "未知",
-    "escape_pos_id": 167,
     "block_id": 121030071,
-    "min_battle_distance": 30,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;YiLiSi"
   },
   {
@@ -369,40 +153,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4085,
-    "editor_name": "雪影娃娃",
     "trophy_id": 50223,
     "sequence_id": 8,
     "task_name": "未知",
-    "camp_id": 1200492,
     "living_area_name": "星霜崖地",
-    "escape_pos_id": 175,
     "block_id": 101030118,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
-    "reward_refresh_content_id": 30302037,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       120021
-    ],
-    "prompt_banner": "worldcombat_tips_xueyingwawa",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Head)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -412,28 +170,10 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 13000156,
-    "editor_name": "奇谭任务千棘盔",
     "sequence_id": 3,
     "task_name": "未知",
-    "camp_id": 130309,
     "living_area_name": "月牙湖岸",
-    "escape_pos_id": 187,
     "block_id": 121030076,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       67008
@@ -446,25 +186,8 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3071,
-    "editor_name": "黑巫师之影-小咪",
     "whether_nightmare": true,
-    "escape_pos_id": 191,
     "block_id": 101030124,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       53050,
@@ -472,12 +195,6 @@
       53052,
       67010,
       67011
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -487,33 +204,10 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4019,
-    "editor_name": "废弃",
     "whether_nightmare": true,
     "area_func": 1010010,
-    "escape_pos_id": 197,
     "block_id": 121030093,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone001",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 15,
@@ -522,32 +216,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3308,
-    "editor_name": "噩梦晶石蜗（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 201,
     "block_id": 101030127,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 16,
@@ -556,32 +227,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "废弃",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030063,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 17,
@@ -590,36 +238,13 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3263,
-    "editor_name": "噩梦奇丽花（初级）",
     "whether_nightmare": true,
     "area_func": 1010011,
-    "escape_pos_id": 203,
-    "block_id": 101030126,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
+    "block_id": 101030144,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67033,
       67034
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone38)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -629,34 +254,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦岚鸟（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
-    "block_id": 101030125,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
+    "block_id": 101030142,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Head)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -666,41 +268,16 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4090,
-    "editor_name": "伊兰亚龙",
     "trophy_id": 50224,
     "sequence_id": 11,
     "task_name": "未知",
-    "camp_id": 130164,
     "living_area_name": "咕噜咕噜浅滩",
-    "escape_pos_id": 211,
     "block_id": 101030065,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
-    "reward_refresh_content_id": 30302045,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       67027,
       67028,
       67029
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_Head_001",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -710,37 +287,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4088,
-    "editor_name": "爵士鹿",
     "trophy_id": 50225,
     "sequence_id": 15,
     "task_name": "未知",
-    "camp_id": 130169,
     "living_area_name": "彼得大道",
-    "escape_pos_id": 212,
     "block_id": 101030066,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "reward_refresh_content_id": 30302043,
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 21,
@@ -749,30 +301,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4086,
-    "editor_name": "棋契陛下",
     "trophy_id": 50228,
     "sequence_id": 10,
     "task_name": "未知",
-    "camp_id": 130166,
     "living_area_name": "王国城堡",
-    "escape_pos_id": 213,
     "block_id": 101030067,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50061
-      },
-      {
-        "stage_shield": 50061
-      },
-      {
-        "stage_shield": 50061
-      },
-      {
-        "stage_shield": 50061
-      }
-    ],
-    "reward_refresh_content_id": 30302046,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       65579,
@@ -786,13 +319,6 @@
       65587,
       65588,
       120022
-    ],
-    "prompt_banner": "worldcombat_tips_qiqibixia",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone_M_Head01)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -802,40 +328,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4079,
-    "editor_name": "钻石蜗",
     "trophy_id": 50221,
     "sequence_id": 12,
     "task_name": "未知",
-    "camp_id": 130159,
     "living_area_name": "采邑地",
-    "escape_pos_id": 214,
     "block_id": 431030012,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "reward_refresh_content_id": 30302029,
     "bgm_world_combat_state": "World_Combat_Type;Easy",
     "preloading_npc": [
       67005,
       67006
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -846,39 +347,14 @@
     "whether_display": 1,
     "world_boss_refer": 4019,
     "background_color": 12,
-    "editor_name": "蹦蹦花",
     "trophy_id": 50226,
     "sequence_id": 16,
     "task_name": "未知",
-    "camp_id": 130173,
     "living_area_name": "晨曦山",
-    "escape_pos_id": 215,
     "block_id": 101030069,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "reward_refresh_content_id": 30302031,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       67035
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone001",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -888,39 +364,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4089,
-    "editor_name": "圣剑-X",
     "trophy_id": 50233,
     "sequence_id": 19,
     "task_name": "未知",
-    "camp_id": 130171,
     "living_area_name": "监管区",
-    "escape_pos_id": 216,
     "block_id": 101030072,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "reward_refresh_content_id": 30302044,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       120006
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -930,41 +381,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4064,
-    "editor_name": "幽影树",
     "trophy_id": 50231,
     "sequence_id": 18,
     "task_name": "未知",
-    "camp_id": 130162,
     "living_area_name": "黑水峡",
-    "escape_pos_id": 217,
     "block_id": 101030071,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "reward_refresh_content_id": 30302042,
     "bgm_world_combat_state": "World_Combat_Type;Easy",
     "preloading_npc": [
       120014,
       65574
-    ],
-    "prompt_banner": "worldcombat_tips_youyingshu",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -974,40 +399,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4011,
-    "editor_name": "恶魔狼",
     "trophy_id": 50232,
     "sequence_id": 14,
     "task_name": "未知",
-    "camp_id": 130161,
     "living_area_name": "恶水沼泽",
-    "escape_pos_id": 218,
     "block_id": 101030070,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "reward_refresh_content_id": 30302040,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       65571
-    ],
-    "prompt_banner": "worldcombat_tips_emolang",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1018,39 +417,14 @@
     "whether_display": 1,
     "world_boss_refer": 4084,
     "background_color": 20,
-    "editor_name": "仪式巨像",
     "trophy_id": 50234,
     "sequence_id": 13,
     "task_name": "未知",
-    "camp_id": 130175,
     "living_area_name": "望风半岛",
-    "escape_pos_id": 219,
     "block_id": 101030073,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
-    "reward_refresh_content_id": 30302035,
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       120011
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_PengZhuang",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1060,41 +434,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4087,
-    "editor_name": "奇梦咪",
     "trophy_id": 50230,
     "sequence_id": 17,
     "task_name": "未知",
-    "camp_id": 130163,
     "living_area_name": "甜水农庄",
-    "escape_pos_id": 220,
     "block_id": 101030074,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "reward_refresh_content_id": 30302032,
     "bgm_world_combat_state": "World_Combat_Type;Easy",
     "preloading_npc": [
       120007,
       65572
-    ],
-    "prompt_banner": "worldcombat_tips_qimengmi",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1104,34 +452,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦岚鸟（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
-    "block_id": 101030125,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
+    "block_id": 101030142,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Head)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1141,34 +466,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦岚鸟（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
-    "block_id": 101030125,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      },
-      {
-        "stage_shield": 50057
-      }
-    ],
+    "block_id": 101030142,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67036
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Head)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1178,35 +480,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦奇丽花（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
-    "block_id": 101030126,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
+    "block_id": 101030144,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67033,
       67034
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone38)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1216,35 +495,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦奇丽花（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
-    "block_id": 101030126,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
+    "block_id": 101030144,
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67033,
       67034
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone38)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1254,32 +510,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦晶石蜗（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
     "block_id": 101030127,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 34,
@@ -1288,32 +521,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3278,
-    "editor_name": "噩梦晶石蜗（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 200,
     "block_id": 101030127,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 35,
@@ -1322,35 +532,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦千棘盔（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030128,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67018,
       67020
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_KaiJia01",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1360,35 +547,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦千棘盔（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030128,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67018,
       67020
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_KaiJia01",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1398,35 +562,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦千棘盔（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030128,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67018,
       67020
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_KaiJia01",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1436,32 +577,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦蹦蹦花（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030129,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone001",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 39,
@@ -1470,32 +588,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦蹦蹦花（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030129,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone001",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 40,
@@ -1504,32 +599,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦蹦蹦花（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030129,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone001",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 41,
@@ -1538,37 +610,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦布莱克岩（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030133,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67023,
       67024,
       67025,
       67026
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1578,37 +627,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦布莱克岩（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030133,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67023,
       67024,
       67025,
       67026
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1618,37 +644,14 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦布莱克岩（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030133,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67023,
       67024,
       67025,
       67026
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1658,34 +661,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦花魁蜂后（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030130,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1695,34 +675,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦花魁蜂后（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030130,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1732,34 +689,11 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦花魁蜂后（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030130,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1769,35 +703,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦音速犬（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030131,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67010,
       67011
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1807,35 +718,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦音速犬（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030131,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67010,
       67011
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1845,35 +733,12 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦音速犬（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030131,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67010,
       67011
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -1883,32 +748,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦圣剑X（初级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030132,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 51,
@@ -1917,32 +759,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦圣剑X（中级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030132,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 52,
@@ -1951,32 +770,9 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 3102,
-    "editor_name": "噩梦圣剑X（高级）",
     "whether_nightmare": true,
-    "escape_pos_id": 202,
     "block_id": 101030132,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;EMeng_Space"
   },
   {
     "id": 53,
@@ -1985,40 +781,15 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4083,
-    "editor_name": "黑猫巫师",
     "trophy_id": 50217,
     "sequence_id": 9,
     "task_name": "未知",
-    "camp_id": 140143,
     "living_area_name": "岚语峰西侧",
-    "escape_pos_id": 221,
     "block_id": 101030119,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "reward_refresh_content_id": 30302033,
     "bgm_world_combat_state": "World_Combat_Type;Common",
     "preloading_npc": [
       67016,
       67017
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -2028,37 +799,14 @@
     "scene_id": 131,
     "whether_display": 1,
     "world_boss_refer": 3156,
-    "editor_name": "剧情裘卡",
     "whether_nightmare": true,
     "sequence_id": 9,
     "task_name": "未知",
     "living_area_name": "裘卡的幻境",
-    "escape_pos_id": 502,
     "block_id": 121030094,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;QiuKa",
     "preloading_npc": [
       120020
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -2067,39 +815,14 @@
     "refresh_content_id": 31000051,
     "scene_id": 103,
     "world_boss_refer": 3102,
-    "editor_name": "主线-花魁蜂后",
     "whether_nightmare": true,
     "sequence_id": 5,
     "task_name": "主线任务",
-    "camp_id": 130312,
     "living_area_name": "风息山口",
-    "escape_pos_id": 155,
     "block_id": 121030089,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67037
-    ],
-    "prompt_banner": "worldcombat_tips_huakuifenghou",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -2108,39 +831,15 @@
     "refresh_content_id": 31000052,
     "scene_id": 103,
     "world_boss_refer": 3278,
-    "editor_name": "主线-奇丽花",
     "whether_nightmare": true,
     "sequence_id": 4,
     "task_name": "主线任务",
-    "camp_id": 130308,
     "living_area_name": "奥贝斯坦湖",
-    "escape_pos_id": 156,
     "block_id": 121030090,
-    "min_battle_distance": 9,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67033,
       67034
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bone38)",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -2149,39 +848,15 @@
     "refresh_content_id": 31000053,
     "scene_id": 103,
     "world_boss_refer": 3102,
-    "editor_name": "主线-千棘盔",
     "whether_nightmare": true,
     "sequence_id": 2,
     "task_name": "主线任务",
-    "camp_id": 130309,
     "living_area_name": "月牙湖岸",
-    "escape_pos_id": 157,
     "block_id": 121030091,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;EMeng_Space",
     "preloading_npc": [
       67018,
       67020
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_M_KaiJia01",
-        "weakness_ratio": 200
-      }
     ]
   },
   {
@@ -2191,33 +866,10 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4007,
-    "editor_name": "叶冕魔力猫",
     "sequence_id": 20,
     "task_name": "无",
-    "escape_pos_id": 153,
     "block_id": 101030135,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;YuSanJia"
   },
   {
     "id": 63,
@@ -2226,33 +878,10 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4005,
-    "editor_name": "圣水守护",
     "sequence_id": 21,
     "task_name": "无",
-    "escape_pos_id": 153,
     "block_id": 101030135,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone008",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;YuSanJia"
   },
   {
     "id": 64,
@@ -2261,33 +890,71 @@
     "scene_id": 103,
     "whether_display": 1,
     "world_boss_refer": 4006,
-    "editor_name": "烈火战神",
     "sequence_id": 22,
     "task_name": "无",
-    "escape_pos_id": 153,
     "block_id": 101030135,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      },
-      {
-        "stage_shield": 50059
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;YuSanJia",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
+    "bgm_world_combat_state": "World_Combat_Type;YuSanJia"
+  },
+  {
+    "id": 65,
+    "npc_id": 67043,
+    "refresh_content_id": 1002655,
+    "scene_id": 103,
+    "whether_display": 1,
+    "world_boss_refer": 4101,
+    "trophy_id": 50235,
+    "sequence_id": 23,
+    "living_area_name": "结晶森林",
+    "block_id": 671030002,
+    "bgm_world_combat_state": "World_Combat_Type;Easy",
+    "preloading_npc": [
+      65553,
+      65555
     ]
+  },
+  {
+    "id": 66,
+    "npc_id": 67045,
+    "refresh_content_id": 1002656,
+    "scene_id": 103,
+    "whether_display": 1,
+    "world_boss_refer": 4102,
+    "trophy_id": 50236,
+    "sequence_id": 24,
+    "living_area_name": "陶晶镇",
+    "block_id": 671030003,
+    "bgm_world_combat_state": "World_Combat_Type;Hard",
+    "preloading_npc": [
+      67002,
+      67003,
+      67004
+    ]
+  },
+  {
+    "id": 67,
+    "npc_id": 67044,
+    "refresh_content_id": 1002657,
+    "scene_id": 103,
+    "whether_display": 1,
+    "world_boss_refer": 4104,
+    "trophy_id": 50237,
+    "sequence_id": 25,
+    "living_area_name": "威廉古堡",
+    "block_id": 671030004,
+    "bgm_world_combat_state": "World_Combat_Type;Common",
+    "preloading_npc": [
+      67008
+    ]
+  },
+  {
+    "id": 68,
+    "npc_id": 53068,
+    "refresh_content_id": 1002672,
+    "scene_id": 103,
+    "whether_display": 1,
+    "world_boss_refer": 3564,
+    "block_id": 101030067,
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 800,
@@ -2296,31 +963,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7001,
-    "editor_name": "首领角斗-恶魔狼-1",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 801,
@@ -2329,31 +973,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7002,
-    "editor_name": "首领角斗-恶魔狼-2",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 802,
@@ -2362,31 +983,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7003,
-    "editor_name": "首领角斗-恶魔狼-3",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 803,
@@ -2395,31 +993,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7004,
-    "editor_name": "首领角斗-恶魔狼-4",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bip001-Head",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 804,
@@ -2428,31 +1003,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7005,
-    "editor_name": "首领角斗-圣剑-X-1",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 805,
@@ -2461,31 +1013,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7006,
-    "editor_name": "首领角斗-圣剑-X-2",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 806,
@@ -2494,31 +1023,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7007,
-    "editor_name": "首领角斗-圣剑-X-3",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 807,
@@ -2527,31 +1033,8 @@
     "scene_id": 401,
     "whether_display": 1,
     "world_boss_refer": 7008,
-    "editor_name": "首领角斗-圣剑-X-4",
-    "escape_pos_id": 218,
     "block_id": 244010006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      },
-      {
-        "stage_shield": 50060
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "(Bip001-Spine)",
-        "weakness_ratio": 200
-      }
-    ]
+    "bgm_world_combat_state": "World_Combat_Type;Hard"
   },
   {
     "id": 8000,
@@ -2559,146 +1042,12 @@
     "refresh_content_id": 29000101,
     "scene_id": 116,
     "world_boss_refer": 4090,
-    "editor_name": "ai 首领战测试npc",
-    "escape_pos_id": 211,
     "block_id": 541160004,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
     "bgm_world_combat_state": "World_Combat_Type;Hard",
     "preloading_npc": [
       67027,
       67028,
       67029
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_Head_01",
-        "weakness_ratio": 200
-      }
-    ]
-  },
-  {
-    "id": 8001,
-    "npc_id": 67043,
-    "refresh_content_id": 1002655,
-    "scene_id": 116,
-    "world_boss_refer": 4090,
-    "editor_name": "ai 首领战测试npc2",
-    "escape_pos_id": 211,
-    "block_id": 541160006,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "preloading_npc": [
-      67027,
-      67028,
-      67029
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_Head_01",
-        "weakness_ratio": 200
-      }
-    ]
-  },
-  {
-    "id": 8002,
-    "npc_id": 67044,
-    "refresh_content_id": 1002656,
-    "scene_id": 116,
-    "world_boss_refer": 4090,
-    "editor_name": "ai 首领战测试npc3",
-    "escape_pos_id": 211,
-    "block_id": 541160007,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "preloading_npc": [
-      67027,
-      67028,
-      67029
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_Head_01",
-        "weakness_ratio": 200
-      }
-    ]
-  },
-  {
-    "id": 8003,
-    "npc_id": 67045,
-    "refresh_content_id": 1002657,
-    "scene_id": 116,
-    "world_boss_refer": 4090,
-    "editor_name": "ai 首领战测试npc4",
-    "escape_pos_id": 211,
-    "block_id": 541160008,
-    "min_battle_distance": 20,
-    "option": [
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      },
-      {
-        "stage_shield": 50058
-      }
-    ],
-    "bgm_world_combat_state": "World_Combat_Type;Hard",
-    "preloading_npc": [
-      67027,
-      67028,
-      67029
-    ],
-    "boss_weakness_group": [
-      {
-        "boss_weakness": "Bone_Head_01",
-        "weakness_ratio": 200
-      }
     ]
   }
 ]

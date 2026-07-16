@@ -115,7 +115,9 @@
       10003
     ],
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian2_png.img_xiayutian2_png'",
-    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian_png.img_xiayutian_png'"
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian_png.img_xiayutian_png'",
+    "name_for_battle": "雨天",
+    "desc_for_battle": "双方的水系技能威力+75%。"
   },
   {
     "id": 4,
@@ -158,7 +160,9 @@
       10003
     ],
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian2_png.img_xiayutian2_png'",
-    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian_png.img_xiayutian_png'"
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xiayutian_png.img_xiayutian_png'",
+    "name_for_battle": "雨天",
+    "desc_for_battle": "双方的水系技能威力+75%。"
   },
   {
     "id": 5,
@@ -198,7 +202,9 @@
     ],
     "report_tip": "开始下大雪了",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian2_png.img_xuetian2_png'",
-    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian_png.img_xuetian_png'"
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian_png.img_xuetian_png'",
+    "name_for_battle": "暴风雪",
+    "desc_for_battle": "双方每回合结束获得2层冻结。（冰系精灵免疫此效果）"
   },
   {
     "id": 6,
@@ -242,7 +248,9 @@
       10008
     ],
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_shabaotian2_png.img_shabaotian2_png'",
-    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_shabaotian_png.img_shabaotian_png'"
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_shabaotian_png.img_shabaotian_png'",
+    "name_for_battle": "沙暴",
+    "desc_for_battle": "双方的地系技能能耗减半。"
   },
   {
     "id": 7,
@@ -353,7 +361,9 @@
     ],
     "report_tip": "开始下小雪了",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian2_png.img_xuetian2_png'",
-    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian_png.img_xuetian_png'"
+    "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_xuetian_png.img_xuetian_png'",
+    "name_for_battle": "暴风雪",
+    "desc_for_battle": "双方每回合结束获得2层冻结。（冰系精灵免疫此效果）"
   },
   {
     "id": 10,
@@ -497,5 +507,77 @@
     ],
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_emengtian2_png.img_emengtian2_png'",
     "show_icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_emengtian_png.img_emengtian_png'"
+  },
+  {
+    "id": 14,
+    "weather_type": 14,
+    "name": "雷鸣",
+    "weather_params": "ThunderStormData",
+    "tod_param": [
+      {
+        "available_time_enum": 1,
+        "field_type": 11,
+        "field_layer": 1,
+        "des": "雷鸣"
+      },
+      {
+        "available_time_enum": 2,
+        "field_type": 11,
+        "field_layer": 1,
+        "des": "雷鸣"
+      },
+      {
+        "available_time_enum": 3,
+        "field_type": 11,
+        "field_layer": 1,
+        "des": "雷鸣"
+      },
+      {
+        "available_time_enum": 4,
+        "field_type": 11,
+        "field_layer": 1,
+        "des": "雷鸣"
+      }
+    ],
+    "weather_buff": [
+      20170930,
+      20173420
+    ],
+    "report_tip": "开始雷鸣了",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/Combat/Frames/img_leidian2_png.img_leidian2_png'",
+    "name_for_battle": "雷鸣",
+    "desc_for_battle": "双方每回合结束获得1层引电。（电系精灵免疫此效果）"
+  },
+  {
+    "id": 15,
+    "weather_type": 15,
+    "name": "永夜",
+    "weather_params": "EternalNightData",
+    "tod_param": [
+      {
+        "available_time_enum": 1,
+        "field_type": 17,
+        "field_layer": 1,
+        "des": "晴天"
+      },
+      {
+        "available_time_enum": 2,
+        "field_type": 17,
+        "field_layer": 1,
+        "des": "晴天"
+      },
+      {
+        "available_time_enum": 3,
+        "field_type": 17,
+        "field_layer": 1,
+        "des": "晴天"
+      },
+      {
+        "available_time_enum": 4,
+        "field_type": 17,
+        "field_layer": 1,
+        "des": "夜晚"
+      }
+    ]
   }
 ]

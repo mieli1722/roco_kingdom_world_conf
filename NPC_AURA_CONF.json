@@ -600,6 +600,88 @@
     ]
   },
   {
+    "id": 10043,
+    "aura_type": 6,
+    "editor_name": "星霜灯降低气温1级",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 7,
+        "params": [
+          -75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10044,
+    "aura_type": 6,
+    "editor_name": "星霜灯降低气温2级",
+    "aura_area_type": 1,
+    "aura_distance": [
+      2000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 7,
+        "params": [
+          -75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10045,
+    "aura_type": 6,
+    "editor_name": "星火灯提高气温1级",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 7,
+        "params": [
+          75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10046,
+    "aura_type": 6,
+    "editor_name": "星火灯提高气温2级",
+    "aura_area_type": 1,
+    "aura_distance": [
+      2000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 7,
+        "params": [
+          75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10047,
+    "aura_type": 6,
+    "editor_name": "瞬间回满魔力与能量",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10010
+      }
+    ]
+  },
+  {
     "id": 20001,
     "aura_type": 6,
     "editor_name": "枯枝附近温度稳定",
@@ -2084,10 +2166,243 @@
     ],
     "aura_effect": [
       {
-        "aura_effect_type": 9,
+        "aura_effect_type": 7,
         "params": [
-          50
+          30
         ]
+      }
+    ]
+  },
+  {
+    "id": 670000001,
+    "aura_type": 6,
+    "editor_name": "1级南瓜灯-检测玩家位置暂停能量流失光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      120,
+      1500,
+      1600
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10012,
+        "params": [
+          60001
+        ],
+        "params_2": [
+          60002
+        ],
+        "params_3": [
+          1034
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000002,
+    "aura_type": 6,
+    "editor_name": "1级南瓜灯-检测精灵解除阴影光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      120,
+      1500,
+      1600
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10011
+      }
+    ]
+  },
+  {
+    "id": 670000003,
+    "aura_type": 6,
+    "editor_name": "2级南瓜灯-检测玩家位置暂停能量流失光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      150,
+      2500,
+      5000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10012,
+        "params": [
+          60001
+        ],
+        "params_2": [
+          60003
+        ],
+        "params_3": [
+          1035
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000004,
+    "aura_type": 6,
+    "editor_name": "2级南瓜灯-检测精灵解除阴影光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      150,
+      2500,
+      5000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10011
+      }
+    ]
+  },
+  {
+    "id": 670000005,
+    "aura_type": 6,
+    "editor_name": "3级南瓜灯-检测玩家位置暂停能量流失光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      150,
+      2500,
+      5000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10012,
+        "params": [
+          60001
+        ],
+        "params_2": [
+          60004
+        ],
+        "params_3": [
+          1036
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000006,
+    "aura_type": 6,
+    "editor_name": "3级南瓜灯-检测精灵解除阴影光环",
+    "aura_area_type": 5,
+    "aura_distance": [
+      150,
+      2500,
+      5000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10011
+      }
+    ]
+  },
+  {
+    "id": 670000007,
+    "aura_type": 6,
+    "editor_name": "永夜-精灵检测玩家位置解除阴影光环",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1500
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10013,
+        "params": [
+          1500
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000008,
+    "aura_type": 6,
+    "editor_name": "魔力之源-球形1级南瓜灯-检测玩家位置暂停能量流失光环",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10012,
+        "params": [
+          60001
+        ],
+        "params_2": [
+          60002
+        ],
+        "params_3": [
+          1034
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000009,
+    "aura_type": 6,
+    "editor_name": "魔力之源-球形1级南瓜灯-检测精灵解除阴影光环",
+    "aura_area_type": 1,
+    "aura_distance": [
+      1000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10011
+      }
+    ]
+  },
+  {
+    "id": 670000011,
+    "aura_type": 6,
+    "editor_name": "永夜-维持最低能量为99",
+    "aura_area_type": 1,
+    "aura_distance": [
+      600
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10009,
+        "params": [
+          60005
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000012,
+    "aura_type": 6,
+    "editor_name": "淘晶镇-方形1级南瓜灯-检测玩家位置暂停能量流失光环",
+    "aura_area_type": 6,
+    "aura_distance": [
+      11500,
+      16000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10012,
+        "params": [
+          60001
+        ],
+        "params_2": [
+          60002
+        ],
+        "params_3": [
+          1034
+        ]
+      }
+    ]
+  },
+  {
+    "id": 670000013,
+    "aura_type": 6,
+    "editor_name": "淘晶镇-方形1级南瓜灯-检测精灵解除阴影光环",
+    "aura_area_type": 6,
+    "aura_distance": [
+      11500,
+      16000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10011
       }
     ]
   }

@@ -130,7 +130,7 @@
     "id": 21,
     "option_type": 2,
     "option_param2": "NPCShopUIModuleCmd.OpenShopById",
-    "option_param3": "3028"
+    "option_param3": "3045"
   },
   {
     "id": 22,
@@ -214,6 +214,20 @@
     "option_param4": "0.4"
   },
   {
+    "id": 34,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "710005",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 35,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "710006",
+    "option_param4": "0.4"
+  },
+  {
     "id": 38,
     "option_type": 1,
     "option_param1": "立即参与",
@@ -226,6 +240,19 @@
     "option_param1": "立即参与",
     "option_param2": "https://rocom.qq.com/m/m202507/sub/detail.html?newsid=18805008",
     "option_param3": "1"
+  },
+  {
+    "id": 901,
+    "option_type": 2,
+    "option_param1": "睡铃雪影娃娃礼包",
+    "option_param2": "ActivityModuleCmd.OpenTryOnShopPreview",
+    "option_param3": "18051;18052"
+  },
+  {
+    "id": 902,
+    "option_type": 2,
+    "option_param2": "ActivityModuleCmd.OpenShiningMedalDetailPanel",
+    "option_param3": "305091"
   },
   {
     "id": 1001,
@@ -444,6 +471,22 @@
     "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityEveningRest/Frames/img_baitian_huangjiabanshichu_png.img_baitian_huangjiabanshichu_png'"
   },
   {
+    "id": 1028,
+    "option_type": 3,
+    "option_param1": "拾音律动",
+    "option_param2": "910039",
+    "option_param3": "前往失败，请返回自己世界或重新进入活动界面尝试，活动于每日10:00-23:00开启",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 1029,
+    "option_type": 3,
+    "option_param1": "仪式镇",
+    "option_param2": "10000026",
+    "option_param4": "0.4",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityEveningRest/Frames/img_baitian_shangdianjie_png.img_baitian_shangdianjie_png'"
+  },
+  {
     "id": 2001,
     "option_type": 3,
     "option_param1": "解忧扭蛋机",
@@ -568,6 +611,39 @@
     "option_param3": "70036"
   },
   {
+    "id": 3001,
+    "option_type": 3,
+    "option_param1": "1号摊",
+    "option_param2": "910036",
+    "option_param4": "0.4",
+    "option_param5": "当前世界暂未解锁潮汐集市",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummerTides/Frames/img_chuanzhang1_png.img_chuanzhang1_png'"
+  },
+  {
+    "id": 3002,
+    "option_type": 3,
+    "option_param1": "2号摊",
+    "option_param2": "910038",
+    "option_param4": "0.4",
+    "option_param5": "当前世界暂未解锁潮汐集市",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummerTides/Frames/img_chuanzhang2_png.img_chuanzhang2_png'"
+  },
+  {
+    "id": 3003,
+    "option_type": 3,
+    "option_param1": "3号摊",
+    "option_param2": "910037",
+    "option_param4": "0.4",
+    "option_param5": "当前世界暂未解锁潮汐集市",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummerTides/Frames/img_chuanzhang3_png.img_chuanzhang3_png'"
+  },
+  {
+    "id": 3004,
+    "option_type": 2,
+    "option_param2": "NPCShopUIModuleCmd.OpenShopById",
+    "option_param3": "11001"
+  },
+  {
     "id": 10001,
     "option_type": 4,
     "option_param1": "前往",
@@ -618,6 +694,19 @@
     "option_param4": "1"
   },
   {
+    "id": 10008,
+    "option_type": 6,
+    "option_param1": "查看证书可获得",
+    "option_param2": "15",
+    "option_param3": "1501"
+  },
+  {
+    "id": 10009,
+    "option_type": 2,
+    "option_param2": "TaskModuleCmd.OpenClientPublicCMD",
+    "option_param3": "10221"
+  },
+  {
     "id": 10011,
     "option_type": 2,
     "option_param1": "前往",
@@ -637,9 +726,8 @@
   },
   {
     "id": 10016,
-    "option_type": 2,
-    "option_param2": "NPCShopUIModuleCmd.OpenShopById",
-    "option_param3": "3028"
+    "option_type": 3,
+    "option_param2": "910030"
   },
   {
     "id": 10017,
@@ -737,6 +825,104 @@
     "option_type": 4,
     "option_param1": "前往",
     "option_param2": "2606230",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10031,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606397",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10032,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606398",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10033,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606399",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10034,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606400",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10035,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606401",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10036,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606402",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10037,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606403",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10038,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606404",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10039,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606405",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10040,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606406",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10041,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606407",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10042,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606408",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10043,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606409",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10044,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606410",
     "option_param4": "0.4"
   },
   {
@@ -946,6 +1132,13 @@
     "option_param3": "MMT_FLOWER_PANEL"
   },
   {
+    "id": 20029,
+    "option_type": 2,
+    "option_param2": "NPCShopUIModuleCmd.OpenShopById",
+    "option_param3": "2013",
+    "option_param4": "600415"
+  },
+  {
     "id": 20030,
     "option_type": 4,
     "option_param1": "前往",
@@ -1008,5 +1201,85 @@
     "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
     "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
     "option_param4": "0.4"
+  },
+  {
+    "id": 20038,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20039,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20040,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20041,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20042,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20043,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20044,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20045,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20046,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "1012104;1012105;1012106;1012107;1001993;1002001;1002002;1002004;5400301;5400303;5400304;5400305;5400306;5400307;5400314;5400315;5400317;5400319;5400320;5400322;5400327;5400329",
+    "option_param3": "咦，远行商人似乎休息了，换个时间再来呢~",
+    "option_param4": "0.4",
+    "option_param5": "咦，远行商人似乎休息了，换个时间再来呢~"
+  },
+  {
+    "id": 20047,
+    "option_type": 2,
+    "option_param1": "去看看",
+    "option_param2": "ShopModuleCmd.OpenMainPanel",
+    "option_param3": "2"
   }
 ]

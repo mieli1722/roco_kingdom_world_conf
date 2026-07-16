@@ -1,28 +1,5 @@
 [
   {
-    "id": 3500001,
-    "unopen_option_txt": "11月21号0点后开启抽奖",
-    "option_open_time": "2025-11-21 00:00:00",
-    "option_txt": "前往抽奖",
-    "track_type": 1,
-    "track_type_param1": [
-      8121
-    ],
-    "star_rewards": [
-      {
-        "condition_reward_id": 1600042
-      },
-      {
-        "condition_reward_id": 1600043
-      },
-      {
-        "condition_reward_id": 1600044
-      }
-    ],
-    "petbase_id": 3168,
-    "lottery_reward_id": 1001
-  },
-  {
     "id": 3500002,
     "star_rewards": [
       {
@@ -37,7 +14,41 @@
         "reset_type": 2
       }
     ],
-    "petbase_id": 3168,
-    "stage_reward_group_id": 3500002
+    "stage_reward_group_id": 3500002,
+    "reward_text": "研学奖励",
+    "reward_count_text": "研学绩点"
+  },
+  {
+    "id": 3500003,
+    "track_type": 3,
+    "track_type_param1": [
+      901,
+      902
+    ],
+    "star_rewards": [
+      {
+        "condition_reward_id": 1600209
+      },
+      {
+        "condition_reward_id": 1600210,
+        "reset_type": 1
+      },
+      {
+        "reset_type": 2,
+        "condition_reward_id_selector": [
+          1600229,
+          1600230,
+          1600231,
+          1600232,
+          1600233,
+          1600234,
+          1600235,
+          1600236
+        ]
+      }
+    ],
+    "stage_reward_group_id": 3500003,
+    "reward_text": "睡铃奖励",
+    "reward_count_text": "睡铃心意"
   }
 ]

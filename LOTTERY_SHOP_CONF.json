@@ -1,0 +1,30 @@
+[
+  {
+    "id": 10001,
+    "shop_name": "草系转盘商店",
+    "shop_pos": 1,
+    "enable_time": "2026-07-16 04:00:00",
+    "disable_time": "2026-09-10 04:00:00",
+    "kv_path": [
+      {
+        "gender": 1,
+        "image_kv": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/CostumeBg/Activity/img_FashionMall_activity_11301.img_FashionMall_activity_11301'"
+      },
+      {
+        "gender": 2,
+        "image_kv": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/CostumeBg/Activity/img_FashionMall_activity_11302.img_FashionMall_activity_11302'"
+      }
+    ],
+    "goods": [
+      {
+        "goods_type": 2,
+        "goods_id": 2
+      },
+      {
+        "goods_type": 2,
+        "goods_id": 75
+      }
+    ],
+    "mail_reward": 6000006
+  }
+]

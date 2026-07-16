@@ -329,5 +329,14 @@
     "SpaceActionType_string": "client_operation",
     "mask_type": 1,
     "tips": "动作"
+  },
+  {
+    "id": 1038,
+    "protocol_id": 1044,
+    "protocol_string": "ZoneScenePlayActsNotify",
+    "SpaceActionType": 451,
+    "SpaceActionType_string": "ai_state_notify ",
+    "mask_type": 2,
+    "tips": "AI"
   }
 ]

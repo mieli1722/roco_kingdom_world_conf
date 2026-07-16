@@ -62,7 +62,7 @@
   {
     "id": 1013,
     "note": "减益",
-    "desc": "降低属性、技能威力、连击数，以及增加能耗、中毒、灼烧、寄生、冻结、萌化等效果。（不包括类型为“印记”、“特性”、“其他”的效果）"
+    "desc": "降低属性、技能威力、连击数，以及增加能耗、中毒、灼烧、寄生、冻结、萌化、引电等效果。（不包括类型为“印记”、“特性”、“其他”的效果）"
   },
   {
     "id": 1014,
@@ -906,10 +906,46 @@
     "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/gongce_shanshanlingyu.gongce_shanshanlingyu'"
   },
   {
+    "id": 2122,
+    "note": "常驻首领化",
+    "desc": "许多精灵精灵进化至最终形态后，若其本身拥有首领血脉，且小洛克持有对应的首领进化信物，即可以激活精灵的远古血脉。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_dashijieshoulinghua.shouce_dashijieshoulinghua'"
+  },
+  {
+    "id": 2123,
+    "note": "探险家协会",
+    "desc": "探险家协会是遍布各地的专业组织，为小洛克们提供导览与冒险指引。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_tanxianxiehui.shouce_tanxianxiehui'"
+  },
+  {
+    "id": 2124,
+    "note": "艾米结晶",
+    "desc": "散落在世界各地的古老结晶体，收集光明徽记可以修复它们。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/mofashouce.mofashouce'"
+  },
+  {
+    "id": 2125,
+    "note": "美愿树",
+    "desc": "生长在营地中的神奇树木，修复它可以解锁更多功能和奖励。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_meiyuanshu.shouce_meiyuanshu'"
+  },
+  {
+    "id": 2126,
+    "note": "魔法灯",
+    "desc": "蕴含魔力的灯具，有星霜灯、星火灯、南瓜灯等不同类型。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_mofafeng.shouce_mofafeng'"
+  },
+  {
+    "id": 2127,
+    "note": "女神祭坛",
+    "desc": "古老的女神祭坛，升级它可以获得女神的祝福和丰厚奖励。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/shouce_nvshenjitan.shouce_nvshenjitan'"
+  },
+  {
     "id": 2301,
     "note": "赛季奇遇",
     "desc": "赛季持续期间，捕捉精灵有概率触发赛季奇遇。小洛克们会因此遇到各式各样仅在赛季期间才会出现的稀有精灵，甚至有机会见到更为稀有的异色精灵。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c02.s3_c02'"
   },
   {
     "id": 2302,
@@ -945,13 +981,13 @@
     "id": 2307,
     "note": "赛季传说精灵",
     "desc": "与镇守一方的精灵王不同，传说中的精灵可能会因为各种各样的原因出现在卡洛西亚大陆。\n赛季持续期间，小洛克们有机会与强大的赛季传说精灵成为伙伴。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c04.s2_c04'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c04.s3_c04'"
   },
   {
     "id": 2308,
     "note": "奇遇精灵",
-    "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">猴麦仔</>、<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">加油海葵</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">咕咕帽</>、<span color=\"#7f4dffff\">小丑豆豆</>、<span color=\"#7f4dffff\">小鼓象</>、<span color=\"#7f4dffff\">牵线木偶</>。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+    "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">苞米仔</>、<span color=\"#7f4dffff\">守夜烛</>、<span color=\"#7f4dffff\">十字蝌蚪</>、<span color=\"#7f4dffff\">栗鼠</>、<span color=\"#7f4dffff\">蝴蝶陶陶</>、<span color=\"#7f4dffff\">稻草人</>、<span color=\"#7f4dffff\">蜜果骸</>、<span color=\"#7f4dffff\">卡波</>。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
   },
   {
     "id": 2309,
@@ -1010,13 +1046,13 @@
   {
     "id": 2318,
     "note": "赛季大厅",
-    "desc": "赛季持续期间，小洛克们可以前往方舟马戏团协助开展魔力波动与传说精灵的调查。\n并可在这个特殊的空间种选购全新藏品、与各种可爱的精灵互动。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_saijidating.s2_saijidating'"
+    "desc": "赛季持续期间，小洛克们可以前往赛季大厅——「智慧出版社」，完成与赛季传说精灵「加尔」相关的委托，并解锁、购买赛季藏品。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
   },
   {
     "id": 2319,
     "note": "奇异血脉精灵",
-    "desc": "奇异血脉拥有额外的「奇异技能」，这是由于血脉突变，精灵学会了原本无法习得的技能。\n赛季奇遇中，幸运惊喜盒有概率出现野生的奇异血脉精灵。",
+    "desc": "奇异血脉拥有额外的「奇异技能」，这是由于血脉突变，精灵学会了原本无法习得的技能。\n赛季奇遇中有概率出现野生的奇异血脉精灵。",
     "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_qiyi.ZS1_DESC_qiyi'"
   },
   {
@@ -1028,38 +1064,38 @@
   {
     "id": 2321,
     "note": "赛季代币",
-    "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取狂欢代币。\n本赛季中，还可通过捕捉奇遇精灵和奇遇限定异色精灵来获取更多的代币。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c01.s2_c01'"
+    "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取幻梦代币。\n还可通过在赛季奇遇中捕捉异色精灵来获取更多的代币。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
   },
   {
     "id": 2322,
     "note": "代币商店",
-    "desc": "代币商店中，可使用狂欢代币兑换拥有赛季炫彩外观的随机精灵蛋、8种赛季奇遇的珍贵精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外无限兑换「奇趣球」和「方舟印记」。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/ZS1_DESC_tokenshop.ZS1_DESC_tokenshop'"
+    "desc": "代币商店中，可使用幻梦代币兑换拥有赛季炫彩外观的随机精灵蛋、8种赛季新奇遇的珍贵精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外兑换「过往异色蛋礼包」、「童话球」和「加尔印记」。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
   },
   {
     "id": 2323,
     "note": "赛季纪念咕噜球",
-    "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的奇趣球。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和方舟马戏团的兑换商店购买获得。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_ball.s2_ball'"
+    "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的童话球。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和智慧出版社的兑换商店购买获得。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_ball.s3_ball'"
   },
   {
     "id": 2324,
     "note": "惊喜奇遇精灵",
     "desc": "一些奇遇精灵的出现方式更为特殊，本赛季的<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">小丑豆豆</>需要用更特殊的手段才能在奇遇中与它们相遇。\n也许，它们与奇遇中出现的幸运惊喜盒有些关系？",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c03.s2_c03'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
   },
   {
     "id": 2325,
     "note": "赛季大厅藏品",
-    "desc": "赛季持续期间，小洛克们可以在方舟马戏团中选购全新的时装、动作和玩具。多多留意方舟马戏团里的新货品吧~~",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_saijidating.s2_saijidating'"
+    "desc": "赛季持续期间，小洛克们可以在智慧出版社中选购全新的时装、动作和玩具。多多留意出版社里的新货品吧~",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
   },
   {
     "id": 2326,
     "note": "赛季传说精灵挑战",
-    "desc": "赛季委托达到一定进度后，会开启「机幕方舟」的传说精灵挑战，通过消耗「契约印记」或「方舟印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s2_c05.s2_c05'"
+    "desc": "赛季委托达到一定进度后，会开启「加尔」的传说精灵挑战，通过消耗「契约印记」或「加尔印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c05.s3_c05'"
   },
   {
     "id": 3003,
@@ -1120,5 +1156,50 @@
     "id": 3015,
     "note": "混血精灵",
     "desc": "非本系血脉的精灵，包括非本系的系别血脉、首领血脉、奇异血脉、污染血脉等。"
+  },
+  {
+    "id": 3016,
+    "note": "与野生精灵自动战斗",
+    "desc": "解锁此能力后：将精灵投出时，若检测范围内存在野生精灵，则首领化后的精灵会自动向其发起战斗。战斗胜利后将其击晕。"
+  },
+  {
+    "id": 3017,
+    "note": "与首领精灵自动战斗",
+    "desc": "解锁此能力后：可以在与大世界首领精灵战斗时将首领化后的精灵投出。首领化后的精灵将协助小洛克削减敌方的护盾。"
+  },
+  {
+    "id": 3018,
+    "note": "属性减益",
+    "desc": "减益的其中一种类型，指降低物攻、魔攻、物防、魔防、速度的减益。"
+  },
+  {
+    "id": 3019,
+    "note": "选择",
+    "desc": "可以从2个效果中选择1个使用。（2个效果视为相同技能，分别记为「明」和「暗」）"
+  },
+  {
+    "id": 3020,
+    "note": "暗涌印记",
+    "desc": "<desc_id=3010>印记</>效果，场上的精灵<desc_id=3009>离场</>后，更换入场的精灵获得随机5层属性减益。"
+  },
+  {
+    "id": 3021,
+    "note": "雷鸣",
+    "desc": "天气为雷鸣时，双方每回合结束获得1层<desc_id=3022>引电</>。（电系精灵免疫此效果）"
+  },
+  {
+    "id": 3022,
+    "note": "引电",
+    "desc": "获得2层引电时，立即受到25%生命的电系伤害，并失去2层引电。（电系精灵免疫此效果）"
+  },
+  {
+    "id": 3023,
+    "note": "禁足",
+    "desc": "处于禁足状态时，精灵无法<desc_id=3009>离场</>，且无法获得新的禁足状态。"
+  },
+  {
+    "id": 8001,
+    "note": "无法叠加",
+    "desc": "该特性在获得多个时不会重复生效。"
   }
 ]
