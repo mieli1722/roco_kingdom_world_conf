@@ -13139,7 +13139,7 @@
     "target_type": 9,
     "target_count": 1,
     "cd_round": [
-      0,
+      99,
       0
     ],
     "hit_para": 10000,
@@ -56152,6 +56152,13 @@
         "cast_moment": 6,
         "success_rate": 10000,
         "buff_group_level": 1
+      },
+      {
+        "effect_id": 20173610,
+        "result_target_type": 1,
+        "cast_moment": 24,
+        "success_rate": 10000,
+        "buff_group_level": 1
       }
     ],
     "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Lig_JGQ_205018",
@@ -57330,17 +57337,17 @@
   {
     "id": 7070200,
     "name": "六自由度",
-    "desc": "造成魔伤，威力额外增加两侧技能威力差的二分之一，<desc_id=1033>传动</>1。",
+    "desc": "造成魔伤，威力额外增加两侧技能威力差的四分之一，<desc_id=1033>传动</>1。",
     "flavor_text": "勇敢地走向任何想去的地方吧。",
     "can_changed": 1,
     "energy_cost": [
-      3
+      4
     ],
     "damage_rule": 24,
     "dam_para": [
-      50,
+      30,
       0,
-      50
+      25
     ],
     "type": 1,
     "Skill_Type": 1,
