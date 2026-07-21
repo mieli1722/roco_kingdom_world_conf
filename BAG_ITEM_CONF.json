@@ -47574,9 +47574,9 @@
     "id": 150118,
     "sort_id": 650225,
     "npcid": 930225,
-    "name": "精灵蛋",
+    "name": "大块头精灵蛋",
     "is_release": true,
-    "description": "某种精灵的蛋，通过观察其花纹可以获得一些头绪。",
+    "description": "从西西那获得的大块头雪灵兽的蛋，经过孵化可以得到大块头的雪灵兽。",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_xuelingshou.egg_xuelingshou'",
     "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_xuelingshou.egg_xuelingshou'",
     "type": 8,
@@ -47594,16 +47594,16 @@
       }
     ],
     "item_quality": 4,
-    "known_name": "{0}的蛋",
-    "known_description": "通过观察其花纹可以看出，这是{0}的蛋。"
+    "known_name": "大块头雪灵兽的蛋",
+    "known_description": "从西西那获得的大块头雪灵兽的蛋，经过孵化可以得到大块头的雪灵兽。"
   },
   {
     "id": 150119,
     "sort_id": 650225,
     "npcid": 930225,
-    "name": "精灵蛋",
+    "name": "小不点精灵蛋",
     "is_release": true,
-    "description": "某种精灵的蛋，通过观察其花纹可以获得一些头绪。",
+    "description": "从西西那获得的小不点雪灵兽的蛋，经过孵化可以得到小不点的雪灵兽。",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_xuelingshou.egg_xuelingshou'",
     "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_xuelingshou.egg_xuelingshou'",
     "type": 8,
@@ -47621,8 +47621,8 @@
       }
     ],
     "item_quality": 4,
-    "known_name": "{0}的蛋",
-    "known_description": "通过观察其花纹可以看出，这是{0}的蛋。"
+    "known_name": "小不点雪灵兽的蛋",
+    "known_description": "从西西那获得的小不点雪灵兽的蛋，经过孵化可以得到小不点的雪灵兽。"
   },
   {
     "id": 150120,
@@ -119408,6 +119408,7 @@
   },
   {
     "id": 750001,
+    "sort_id": 162006,
     "name": "四叶草童话集",
     "is_release": true,
     "description": "一本奇怪的童话集，封面上绘制着一棵巨大的四叶草。",
