@@ -87115,7 +87115,7 @@
     "overlap_processing_type": 2,
     "refresh_type": 6,
     "refresh_rule": 3,
-    "npc_id": 10782,
+    "npc_id": 10785,
     "survive_time": 14400,
     "npc_level_script": 4,
     "level_param": [
@@ -92314,7 +92314,7 @@
     "overlap_processing_type": 2,
     "refresh_type": 6,
     "refresh_rule": 3,
-    "npc_id": 10782,
+    "npc_id": 10785,
     "survive_time": 14400,
     "npc_level_script": 4,
     "level_param": [
@@ -102712,7 +102712,7 @@
     "overlap_processing_type": 2,
     "refresh_type": 6,
     "refresh_rule": 3,
-    "npc_id": 10782,
+    "npc_id": 10785,
     "survive_time": 14400,
     "npc_level_script": 4,
     "level_param": [
@@ -258619,6 +258619,7 @@
   },
   {
     "id": 1002591,
+    "version": 2026071601,
     "refresh_type": 1,
     "refresh_param": 101036427,
     "refresh_rule": 2,
@@ -350274,10 +350275,12 @@
   },
   {
     "id": 2302579,
+    "disable": true,
+    "version": 2026071404,
     "Application_type": 1,
     "refresh_type": 1,
     "refresh_param": 191030680,
-    "refresh_rule": 2,
+    "refresh_rule": 5,
     "npc_id": 65712,
     "npc_level_script": 1,
     "level_param": [
@@ -351315,7 +351318,7 @@
       1,
       1
     ],
-    "lock_on_ground": -1,
+    "lock_on_ground": 1,
     "model_scale": 100,
     "voice_percent": [
       0,
@@ -596436,6 +596439,32 @@
     ]
   },
   {
+    "id": 4100009,
+    "refresh_type": 1,
+    "refresh_param": 411030015,
+    "refresh_rule": 384,
+    "npc_id": 63046,
+    "lock_on_ground": -1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 4100012,
+    "refresh_type": 1,
+    "refresh_param": 411030018,
+    "refresh_rule": 384,
+    "npc_id": 63047,
+    "lock_on_ground": -1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
     "id": 4300007,
     "disable": true,
     "refresh_type": 1,
@@ -716029,6 +716058,22 @@
     "Application_type": 1,
     "refresh_type": 1,
     "refresh_param": 566060003,
+    "refresh_rule": 5,
+    "npc_id": 560191,
+    "lock_on_ground": -1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 5600698,
+    "version": 2026072101,
+    "overlap_processing_type": 3,
+    "Application_type": 1,
+    "refresh_type": 1,
+    "refresh_param": 566010005,
     "refresh_rule": 5,
     "npc_id": 560191,
     "lock_on_ground": -1,

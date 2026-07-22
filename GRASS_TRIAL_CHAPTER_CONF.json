@@ -311,7 +311,7 @@
         "event_num": 3,
         "pet_level": 40,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 2,
@@ -319,7 +319,7 @@
         "event_num": 3,
         "pet_level": 41,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 3,
@@ -327,7 +327,7 @@
         "event_num": 3,
         "pet_level": 42,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 4,
@@ -359,7 +359,7 @@
         "event_num": 3,
         "pet_level": 43,
         "select_option": 8600001,
-        "reward_point": 25,
+        "reward_point": 50,
         "starlight_base": 120,
         "price_base": 22500
       },
@@ -369,7 +369,7 @@
         "event_num": 3,
         "pet_level": 44,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 6,
@@ -381,7 +381,7 @@
         "event_num": 2,
         "pet_level": 44,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 7,
@@ -393,7 +393,7 @@
         "event_num": 1,
         "pet_level": 45,
         "select_option": 8600003,
-        "reward_point": 50,
+        "reward_point": 100,
         "starlight_base": 240,
         "price_base": 45000
       }
@@ -883,7 +883,7 @@
         "event_num": 3,
         "pet_level": 46,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 2,
@@ -891,7 +891,7 @@
         "event_num": 3,
         "pet_level": 47,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 3,
@@ -899,7 +899,7 @@
         "event_num": 3,
         "pet_level": 48,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 4,
@@ -931,7 +931,7 @@
         "event_num": 3,
         "pet_level": 49,
         "select_option": 8600001,
-        "reward_point": 25,
+        "reward_point": 50,
         "starlight_base": 120,
         "price_base": 22500
       },
@@ -941,7 +941,7 @@
         "event_num": 3,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 6,
@@ -953,7 +953,7 @@
         "event_num": 2,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 7,
@@ -965,7 +965,7 @@
         "event_num": 1,
         "pet_level": 55,
         "select_option": 8600009,
-        "reward_point": 50,
+        "reward_point": 100,
         "starlight_base": 240,
         "price_base": 45000
       }
@@ -1387,7 +1387,7 @@
         "event_num": 3,
         "pet_level": 56,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 2,
@@ -1395,7 +1395,7 @@
         "event_num": 3,
         "pet_level": 57,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 3,
@@ -1403,7 +1403,7 @@
         "event_num": 3,
         "pet_level": 58,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 4,
@@ -1435,7 +1435,7 @@
         "event_num": 3,
         "pet_level": 59,
         "select_option": 8600001,
-        "reward_point": 25,
+        "reward_point": 50,
         "starlight_base": 120,
         "price_base": 22500
       },
@@ -1445,7 +1445,7 @@
         "event_num": 3,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 6,
@@ -1457,7 +1457,7 @@
         "event_num": 2,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 7,
@@ -1468,9 +1468,10 @@
         "event_num": 1,
         "pet_level": 65,
         "select_option": 8600004,
-        "reward_point": 50,
+        "reward_point": 100,
         "starlight_base": 240,
-        "price_base": 45000
+        "price_base": 45000,
+        "pet_difficulty": 34
       }
     ]
   },
@@ -1786,7 +1787,7 @@
         "event_num": 3,
         "pet_level": 40,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 2,
@@ -1794,7 +1795,7 @@
         "event_num": 3,
         "pet_level": 41,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 3,
@@ -1802,7 +1803,7 @@
         "event_num": 3,
         "pet_level": 42,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 4,
@@ -1834,7 +1835,7 @@
         "event_num": 3,
         "pet_level": 43,
         "select_option": 8600001,
-        "reward_point": 50,
+        "reward_point": 75,
         "starlight_base": 120,
         "price_base": 45000
       },
@@ -1844,7 +1845,7 @@
         "event_num": 3,
         "pet_level": 44,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 6,
@@ -1856,7 +1857,7 @@
         "event_num": 2,
         "pet_level": 44,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 7,
@@ -1870,7 +1871,7 @@
         "event_num": 1,
         "pet_level": 45,
         "select_option": 8600003,
-        "reward_point": 100,
+        "reward_point": 150,
         "starlight_base": 240,
         "price_base": 90000
       }
@@ -2360,7 +2361,7 @@
         "event_num": 3,
         "pet_level": 46,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 2,
@@ -2368,7 +2369,7 @@
         "event_num": 3,
         "pet_level": 47,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 3,
@@ -2376,7 +2377,7 @@
         "event_num": 3,
         "pet_level": 48,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 4,
@@ -2408,7 +2409,7 @@
         "event_num": 3,
         "pet_level": 49,
         "select_option": 8600001,
-        "reward_point": 50,
+        "reward_point": 75,
         "starlight_base": 120,
         "price_base": 45000
       },
@@ -2418,7 +2419,7 @@
         "event_num": 3,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 6,
@@ -2430,7 +2431,7 @@
         "event_num": 2,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 7,
@@ -2444,7 +2445,7 @@
         "event_num": 1,
         "pet_level": 55,
         "select_option": 8600009,
-        "reward_point": 100,
+        "reward_point": 150,
         "starlight_base": 240,
         "price_base": 90000
       }
@@ -2866,7 +2867,7 @@
         "event_num": 3,
         "pet_level": 56,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 2,
@@ -2874,7 +2875,7 @@
         "event_num": 3,
         "pet_level": 57,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 3,
@@ -2882,7 +2883,7 @@
         "event_num": 3,
         "pet_level": 58,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 4,
@@ -2914,7 +2915,7 @@
         "event_num": 3,
         "pet_level": 59,
         "select_option": 8600001,
-        "reward_point": 50,
+        "reward_point": 75,
         "starlight_base": 120,
         "price_base": 45000
       },
@@ -2924,7 +2925,7 @@
         "event_num": 3,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 6,
@@ -2936,7 +2937,7 @@
         "event_num": 2,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 10
+        "reward_point": 15
       },
       {
         "node": 7,
@@ -2947,9 +2948,10 @@
         "event_num": 1,
         "pet_level": 65,
         "select_option": 8600004,
-        "reward_point": 100,
+        "reward_point": 150,
         "starlight_base": 240,
-        "price_base": 90000
+        "price_base": 90000,
+        "pet_difficulty": 34
       }
     ]
   },
@@ -3353,7 +3355,7 @@
         "select_option": 8600003,
         "reward_point": 200,
         "starlight_base": 240,
-        "price_base": 18000
+        "price_base": 180000
       }
     ]
   },
@@ -3929,7 +3931,7 @@
         "select_option": 8600009,
         "reward_point": 200,
         "starlight_base": 240,
-        "price_base": 18000
+        "price_base": 180000
       }
     ]
   },
@@ -4432,7 +4434,8 @@
         "select_option": 8600004,
         "reward_point": 200,
         "starlight_base": 240,
-        "price_base": 18000
+        "price_base": 180000,
+        "pet_difficulty": 34
       }
     ]
   },
@@ -4906,7 +4909,7 @@
         "event_num": 3,
         "pet_level": 46,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 2,
@@ -4914,7 +4917,7 @@
         "event_num": 3,
         "pet_level": 47,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 3,
@@ -4922,7 +4925,7 @@
         "event_num": 3,
         "pet_level": 48,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 4,
@@ -4954,7 +4957,7 @@
         "event_num": 3,
         "pet_level": 49,
         "select_option": 8600001,
-        "reward_point": 25,
+        "reward_point": 50,
         "starlight_base": 120,
         "price_base": 22500
       },
@@ -4964,7 +4967,7 @@
         "event_num": 3,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 6,
@@ -4976,7 +4979,7 @@
         "event_num": 2,
         "pet_level": 50,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 7,
@@ -4992,7 +4995,7 @@
         "event_num": 1,
         "pet_level": 55,
         "select_option": 8600009,
-        "reward_point": 50,
+        "reward_point": 100,
         "starlight_base": 240,
         "price_base": 45000
       }
@@ -5402,7 +5405,7 @@
         "event_num": 3,
         "pet_level": 56,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 2,
@@ -5410,7 +5413,7 @@
         "event_num": 3,
         "pet_level": 57,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 3,
@@ -5418,7 +5421,7 @@
         "event_num": 3,
         "pet_level": 58,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 4,
@@ -5450,7 +5453,7 @@
         "event_num": 3,
         "pet_level": 59,
         "select_option": 8600001,
-        "reward_point": 25,
+        "reward_point": 50,
         "starlight_base": 120,
         "price_base": 22500
       },
@@ -5460,7 +5463,7 @@
         "event_num": 3,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 6,
@@ -5472,7 +5475,7 @@
         "event_num": 2,
         "pet_level": 60,
         "select_option": 8600001,
-        "reward_point": 5
+        "reward_point": 10
       },
       {
         "node": 7,
@@ -5483,7 +5486,7 @@
         "event_num": 1,
         "pet_level": 65,
         "select_option": 8600004,
-        "reward_point": 50,
+        "reward_point": 100,
         "starlight_base": 240,
         "price_base": 45000
       }

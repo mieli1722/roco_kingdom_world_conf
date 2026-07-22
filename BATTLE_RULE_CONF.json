@@ -1873,9 +1873,48 @@
     ]
   },
   {
+    "id": 10187,
+    "title": "<span color=\"#FFC65F\">节奏混乱</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>所有技能，释放后冷却<span color=\"#AF3D3E\">+1</>",
+    "rank": 1,
+    "buff": [
+      20350640
+    ]
+  },
+  {
+    "id": 10188,
+    "title": "<span color=\"#FFC65F\">汲取</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>应对成功时，偷取敌人<span color=\"#AF3D3E\">10</>能量",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20670330
+    ]
+  },
+  {
+    "id": 10189,
+    "title": "<span color=\"#FFC65F\">铭记</>",
+    "desc": "<span color=\"#AF3D3E\">【己方】</>使用与上回合不同的技能，攻击永久降低<span color=\"#AF3D3E\">20%</>",
+    "target": 1,
+    "rank": 1,
+    "buff": [
+      21030070
+    ]
+  },
+  {
+    "id": 10190,
+    "title": "<span color=\"#FFC65F\">警戒</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>速度增加<span color=\"#AF3D3E\">50%</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20010097
+    ]
+  },
+  {
     "id": 20001,
     "title": "<span color=\"#FFC65F\">极夜</>",
-    "desc": "<span color=\"#AF3D3E\">【全体】</>回合结束，损失<span color=\"#AF3D3E\">1</>能量",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>回合结束，损失<span color=\"#AF3D3E\">3</>能量",
     "rank": 1,
     "buff": [
       21520030
@@ -1909,7 +1948,7 @@
   {
     "id": 20004,
     "title": "<span color=\"#FFC65F\">南瓜灯</>",
-    "desc": "<span color=\"#AF3D3E\">【全体】</>回合结束，获得<span color=\"#73C615\">1</>能量",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>回合结束，获得<span color=\"#73C615\">5</>能量",
     "rank": 1,
     "buff": [
       20170013
@@ -1928,7 +1967,7 @@
   {
     "id": 80002,
     "title": "<span color=\"#FFC65F\">青草祝福</>",
-    "desc": "受到攻击后，恢复<span color=\"#AF3D3E\">20%</>生命值",
+    "desc": "受到攻击后，恢复<span color=\"#AF3D3E\">5%</>生命值",
     "rank": 1,
     "buff": [
       28810005
@@ -1951,7 +1990,7 @@
     "desc": "系别克制效果<span color=\"#73C615\">翻倍</>",
     "rank": 1,
     "buff": [
-      20420080
+      28810044
     ],
     "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/200114.200114'"
   },
@@ -1998,7 +2037,7 @@
   {
     "id": 80009,
     "title": "<span color=\"#FFC65F\">正向激励</>",
-    "desc": "击败对手，回复<span color=\"#AF3D3E\">40%</>生命",
+    "desc": "击败对手，回复<span color=\"#AF3D3E\">15%</>生命",
     "rank": 1,
     "buff": [
       28810003
@@ -2018,7 +2057,7 @@
   {
     "id": 80011,
     "title": "<span color=\"#FFC65F\">草系魔法</>",
-    "desc": "回合结束恢复<span color=\"#73C615\">20%</>生命值",
+    "desc": "回合结束恢复<span color=\"#73C615\">5%</>生命值",
     "rank": 1,
     "buff": [
       28810004
@@ -2028,7 +2067,7 @@
   {
     "id": 80012,
     "title": "<span color=\"#FFC65F\">岩土祝福</>",
-    "desc": "受到攻击后，获得物防<span color=\"#AF3D3E\">+20%</>",
+    "desc": "受到攻击后，获得双防<span color=\"#AF3D3E\">+10%</>",
     "rank": 1,
     "buff": [
       28810006
@@ -2058,7 +2097,7 @@
   {
     "id": 80015,
     "title": "<span color=\"#FFC65F\">连击抗性</>",
-    "desc": "<span color=\"#AF3D3E\">【敌人】</>每次受击后增加<span color=\"#AF3D3E\">10%</>对应技能系别的抗性",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>每次受击后增加<span color=\"#AF3D3E\">20%</>对应技能系别的抗性",
     "target": 2,
     "rank": 1,
     "buff": [
@@ -2260,6 +2299,15 @@
     ]
   },
   {
+    "id": 81004,
+    "target": 1,
+    "rank": 1,
+    "buff": [
+      20401010,
+      20401020
+    ]
+  },
+  {
     "id": 82000,
     "title": "<span color=\"#FFC65F\">养分汲取</>",
     "desc": "生命值低于50%时偷取敌方<span color=\"#AF3D3E\">所有能量</>",
@@ -2292,7 +2340,7 @@
   {
     "id": 82003,
     "title": "<span color=\"#FFC65F\">灵魂颤动</>",
-    "desc": "每次攻击获得双防-<span color=\"#AF3D3E\">10%</>，技能威力+<span color=\"#AF3D3E\">40</>",
+    "desc": "每次攻击获得双防-<span color=\"#AF3D3E\">10%</>，技能威力+<span color=\"#AF3D3E\">30</>",
     "rank": 1,
     "buff": [
       28810015
@@ -2302,7 +2350,7 @@
   {
     "id": 82004,
     "title": "<span color=\"#FFC65F\">快速生长</>",
-    "desc": "回合结束时，获得技能威力+<span color=\"#AF3D3E\">10</>",
+    "desc": "回合结束时，获得技能威力+<span color=\"#AF3D3E\">5</>",
     "rank": 1,
     "buff": [
       28810036
@@ -2312,7 +2360,7 @@
   {
     "id": 82005,
     "title": "<span color=\"#FFC65F\">族群守护</>",
-    "desc": "进入战斗时，随机获得<span color=\"#AF3D3E\">20</>次奉献效果",
+    "desc": "进入战斗时，随机获得<span color=\"#AF3D3E\">15</>次奉献效果",
     "rank": 1,
     "buff": [
       28810029
@@ -2392,7 +2440,7 @@
   {
     "id": 82013,
     "title": "<span color=\"#FFC65F\">执子定谋</>",
-    "desc": "应对成功后根据自身释放的技能类型获得60%相应属性增益",
+    "desc": "应对成功后根据自身释放的技能类型获得30%相应属性增益",
     "rank": 1,
     "buff": [
       28810022
@@ -2442,7 +2490,7 @@
   {
     "id": 82018,
     "title": "<span color=\"#FFC65F\">入梦</>",
-    "desc": "在战斗开始<span color=\"#AF3D3E\">6</>回合后提升<span color=\"#AF3D3E\">20%</>全属性",
+    "desc": "在战斗开始<span color=\"#AF3D3E\">6</>回合后提升<span color=\"#AF3D3E\">15%</>全属性",
     "rank": 1,
     "buff": [
       28810039

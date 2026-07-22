@@ -40,13 +40,13 @@
   },
   {
     "id": 200,
-    "text": "我方精灵<span color=\"#D56C1F\">生命上限</>提升20%",
+    "text": "我方精灵<span color=\"#D56C1F\">生命上限</>提升10%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_4_png.img_zhufu_4_png'",
     "effect_struct": [
       {
         "effect": 3,
         "param1": [
-          2000
+          1000
         ]
       }
     ]
@@ -148,7 +148,7 @@
   },
   {
     "id": 400,
-    "text": "回复全部生命值，<span color=\"#D56C1F\">生命上限</>提升10%",
+    "text": "回复全部生命值，<span color=\"#D56C1F\">生命上限</>提升5%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/HerbologyBadge/BestWishes/Frames/img_zhufu_4_png.img_zhufu_4_png'",
     "effect_struct": [
       {
@@ -160,7 +160,7 @@
       {
         "effect": 3,
         "param1": [
-          1000
+          500
         ]
       }
     ]

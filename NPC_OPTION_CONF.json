@@ -163872,10 +163872,10 @@
   {
     "id": 70103,
     "npc_aim_display": 1,
-    "online_process": 3,
+    "online_process": 4,
     "IgnoreTaskVisitRules": true,
     "option_priority": 1,
-    "option_radius": 250,
+    "option_radius": 200,
     "npc_interact_type": 1,
     "unmount_type": 1,
     "action": {
@@ -163899,10 +163899,10 @@
   },
   {
     "id": 70104,
-    "online_process": 3,
+    "online_process": 4,
     "IgnoreTaskVisitRules": true,
     "option_priority": 1,
-    "option_radius": 250,
+    "option_radius": 200,
     "npc_interact_type": 1,
     "unmount_type": 1,
     "action": {
@@ -163918,10 +163918,10 @@
   {
     "id": 70105,
     "npc_aim_display": 1,
-    "online_process": 3,
+    "online_process": 4,
     "IgnoreTaskVisitRules": true,
     "option_priority": 1,
-    "option_radius": 250,
+    "option_radius": 150,
     "npc_interact_type": 1,
     "unmount_type": 1,
     "action": {
@@ -163945,10 +163945,10 @@
   },
   {
     "id": 70106,
-    "online_process": 3,
+    "online_process": 4,
     "IgnoreTaskVisitRules": true,
     "option_priority": 1,
-    "option_radius": 250,
+    "option_radius": 150,
     "npc_interact_type": 1,
     "unmount_type": 1,
     "action": {
@@ -231207,6 +231207,44 @@
     "wild_action": {}
   },
   {
+    "id": 6304601,
+    "online_process": 2,
+    "option_priority": 1,
+    "option_radius": 300,
+    "vision_range": 180,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "63046051"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "system_control_id": 6120000
+  },
+  {
+    "id": 6304701,
+    "online_process": 2,
+    "option_priority": 1,
+    "option_radius": 300,
+    "vision_range": 180,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "button_text": "对话",
+    "unmount_type": 1,
+    "action": {
+      "action_type": 21,
+      "action_param1": "63047051"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {},
+    "system_control_id": 6130000
+  },
+  {
     "id": 6547501,
     "npc_aim_display": 3,
     "online_process": 3,
@@ -278856,6 +278894,7 @@
     "option_priority": 1,
     "option_radius": 500,
     "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
     "button_text": "躲藏",
     "unmount_type": 1,
     "action": {

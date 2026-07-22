@@ -69609,6 +69609,124 @@
     "select_next_dialogue": 63045054
   },
   {
+    "id": 63046011,
+    "text": "寻找对手！",
+    "opt_dia_relate": [
+      6304601
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63046011
+  },
+  {
+    "id": 63046012,
+    "text": "精灵编队",
+    "opt_dia_relate": [
+      6304601
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_jinglingbiandui_png.img_jinglingbiandui_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63046021
+  },
+  {
+    "id": 63046021,
+    "online_process": 3,
+    "text": "取消",
+    "opt_dia_relate": [
+      6304501
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63046010
+  },
+  {
+    "id": 63046022,
+    "online_process": 3,
+    "text": "确认",
+    "opt_dia_relate": [
+      6304501
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63046013
+  },
+  {
+    "id": 63046023,
+    "online_process": 3,
+    "text": "离开",
+    "opt_dia_relate": [
+      6304601
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_fanhui_png.img_fanhui_png'",
+    "times": -1,
+    "obtain_story_flags": [
+      9
+    ]
+  },
+  {
+    "id": 63047011,
+    "text": "寻找对手！",
+    "opt_dia_relate": [
+      6304701
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63047011
+  },
+  {
+    "id": 63047012,
+    "text": "精灵编队",
+    "opt_dia_relate": [
+      6304701
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_jinglingbiandui_png.img_jinglingbiandui_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63047021
+  },
+  {
+    "id": 63047021,
+    "online_process": 3,
+    "text": "取消",
+    "opt_dia_relate": [
+      6304701
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63047010
+  },
+  {
+    "id": 63047022,
+    "online_process": 3,
+    "text": "确认",
+    "opt_dia_relate": [
+      6304701
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63047013
+  },
+  {
+    "id": 63047023,
+    "online_process": 3,
+    "text": "离开",
+    "opt_dia_relate": [
+      6304701
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_fanhui_png.img_fanhui_png'",
+    "times": -1,
+    "obtain_story_flags": [
+      9
+    ]
+  },
+  {
     "id": 73100310,
     "online_process": 3,
     "text": "炼金造物",
@@ -96200,7 +96318,7 @@
     "text": "果然……是噩梦",
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
     "times": -1,
-    "select_next_dialogue": 202214687,
+    "select_next_dialogue": 202214688,
     "select_skip": true
   },
   {
@@ -96209,7 +96327,7 @@
     "text": "你怎么知道的？",
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
-    "select_next_dialogue": 202214687
+    "select_next_dialogue": 202214688
   },
   {
     "id": 221100918,
@@ -96217,7 +96335,7 @@
     "text": "有这个可能……",
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
     "times": -1,
-    "select_next_dialogue": 202214689,
+    "select_next_dialogue": 202214690,
     "select_skip": true
   },
   {
@@ -96226,7 +96344,7 @@
     "text": "好残酷的条件",
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
-    "select_next_dialogue": 202214689
+    "select_next_dialogue": 202214690
   },
   {
     "id": 221100920,
@@ -113856,7 +113974,7 @@
   {
     "id": 560000550,
     "online_process": 3,
-    "text": "赫拉？",
+    "text": "肥草球？",
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
     "select_next_dialogue": 420001965,
@@ -124243,7 +124361,7 @@
   {
     "id": 2100000787,
     "online_process": 3,
-    "text": "真爱魔法？",
+    "text": "真心魔法？",
     "opt_dia_relate": [
       810000240
     ],

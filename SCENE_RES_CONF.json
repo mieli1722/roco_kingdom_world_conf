@@ -3440,8 +3440,10 @@
     "scene_id": 603,
     "scene_export_id": 1035,
     "scene_res_name": "记忆中的索米亚草原",
+    "root_scene_res_id": 10018,
     "ban_magic": [
-      1
+      1,
+      3
     ],
     "source": "/Game/ArtRes/Level/Game/Gameplay/Grasstrial/Gameplay_Grasstrial_SMYCY_Platform/Gameplay_Grasstrial_SMYCY_Platform_Release",
     "main_source": "Gameplay_Grasstrial_SMYCY_Platform_Release",
@@ -3469,8 +3471,10 @@
     "scene_id": 605,
     "scene_export_id": 605,
     "scene_res_name": "记忆中的巨石阵",
+    "root_scene_res_id": 10018,
     "ban_magic": [
-      1
+      1,
+      3
     ],
     "source": "/Game/ArtRes/Level/Game/Gameplay/Grasstrial/Gameplay_Grasstrial_JSZ_Platform/Gameplay_Grasstrial_JSZ_Platform_Release",
     "main_source": "Gameplay_Grasstrial_JSZ_Platform_Release",
@@ -3498,8 +3502,10 @@
     "scene_id": 606,
     "scene_export_id": 606,
     "scene_res_name": "记忆中的普拉塔草原",
+    "root_scene_res_id": 10018,
     "ban_magic": [
-      1
+      1,
+      3
     ],
     "source": "/Game/ArtRes/Level/Game/Gameplay/Grasstrial/Gameplay_Grasstrial_PLTCY_Platform/Gameplay_Grasstrial_PLTCY_Platform_Release",
     "main_source": "Gameplay_Grasstrial_PLTCY_Platform_Release",
@@ -3527,6 +3533,8 @@
     "scene_id": 601,
     "scene_export_id": 1036,
     "scene_res_name": "草系徽章-野外研究院",
+    "root_scene_res_id": 10018,
+    "world_map_entry_npc_content_id": 2400578,
     "main_map_res_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_A2wangguojun_png.img_A2wangguojun_png'",
     "source": "/Game/ArtRes/Level/Game/Gameplay/Grasstrial/Gameplay_Grasstrial_YWYJY/Gameplay_Grasstrial_YWYJY_Release",
     "main_source": "Gameplay_Grasstrial_YWYJY_Release",
@@ -3542,7 +3550,11 @@
     "scene_id": 602,
     "scene_export_id": 1037,
     "scene_res_name": "草系徽章-野外研究院BOSS战",
+    "root_scene_res_id": 10018,
     "main_map_res_path": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUIStatic/Frames/img_A2wangguojun_png.img_A2wangguojun_png'",
+    "ban_magic": [
+      3
+    ],
     "source": "/Game/ArtRes/Level/Game/Gameplay/Grasstrial/Gameplay_Grasstrial_YWYJY_Battle/Gameplay_Grasstrial_YWYJY_Battle_Release",
     "main_source": "Gameplay_Grasstrial_YWYJY_Battle_Release",
     "build_battlefield_and_envinfo": true,

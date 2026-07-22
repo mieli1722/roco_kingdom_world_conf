@@ -242195,7 +242195,6 @@
   },
   {
     "id": 55603,
-    "genre": 26,
     "reward_drop_type": 1,
     "name": "结晶封印-小",
     "model_conf": 55576,
@@ -242215,7 +242214,6 @@
   },
   {
     "id": 55604,
-    "genre": 26,
     "reward_drop_type": 1,
     "name": "结晶封印-中",
     "model_conf": 55577,
@@ -242235,7 +242233,6 @@
   },
   {
     "id": 55605,
-    "genre": 26,
     "reward_drop_type": 1,
     "name": "结晶封印-大",
     "model_conf": 55578,
@@ -267958,6 +267955,54 @@
     "option_id": [
       6304501,
       6304503,
+      6304500
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "freeze_movement_when_spawn": true
+  },
+  {
+    "id": 63046,
+    "reward_drop_type": 1,
+    "name": "「极速对决」导师",
+    "model_conf": 10198,
+    "original_action": "Relax1",
+    "ai_perform_group": 50,
+    "bulky": 2,
+    "show_name": 1,
+    "title_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_pvp_RandomJinling_png.img_pvp_RandomJinling_png'",
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      6304601,
+      6304500
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "freeze_movement_when_spawn": true
+  },
+  {
+    "id": 63047,
+    "reward_drop_type": 1,
+    "name": "「极速对决」导师",
+    "model_conf": 10118,
+    "original_action": "Relax1",
+    "ai_perform_group": 50,
+    "bulky": 2,
+    "show_name": 1,
+    "title_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_pvp_RandomJinling_png.img_pvp_RandomJinling_png'",
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      6304701,
       6304500
     ],
     "can_hide_in_sequence": 1,

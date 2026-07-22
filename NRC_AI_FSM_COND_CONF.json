@@ -16633,6 +16633,65 @@
     ]
   },
   {
+    "id": 28095,
+    "name": "睡铃雪影白天感知星星魔法落地",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 21,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 700
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 4,
+        "cond_value": 20,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 6,
+        "cond_value": 4,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
+    "id": 28096,
+    "name": "睡铃雪影夜晚感知星星魔法落地",
+    "fsm_cond": [
+      {
+        "cond_type": 53,
+        "sub_cond_type": 21,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 11,
+        "cond_op": 4,
+        "cond_value": 700
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 5,
+        "cond_value": 20,
+        "delta_indent": 1
+      },
+      {
+        "cond_type": 101,
+        "cond_op": 3,
+        "cond_value": 4,
+        "operand": 1,
+        "delta_indent": -1
+      }
+    ]
+  },
+  {
     "id": 30000,
     "name": "对峙通用条件_甜田螺",
     "fsm_cond": [

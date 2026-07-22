@@ -41732,7 +41732,6 @@
         ]
       }
     ],
-    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {
@@ -44146,6 +44145,98 @@
     "id": 20560500,
     "buff_base_ids": [
       2056050
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20560510,
+    "buff_base_ids": [
+      2056051
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20560520,
+    "buff_base_ids": [
+      2056052
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20560530,
+    "buff_base_ids": [
+      2056053
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 20560540,
+    "buff_base_ids": [
+      2056054
     ],
     "buff_list_priority": 3,
     "buff_groupsigns": [
@@ -62900,7 +62991,7 @@
     "name": "状态良好",
     "type_id": "3",
     "type": 3,
-    "add_max": 1,
+    "add_max": 99,
     "desc": "生命高于50%造成伤害+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
@@ -62926,8 +63017,8 @@
     "name": "坚毅品格",
     "type_id": "3",
     "type": 3,
-    "add_max": 1,
-    "desc": "生命低于50%受到伤害-20%。",
+    "add_max": 99,
+    "desc": "生命低于50%受到伤害-20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -62952,7 +63043,7 @@
     "name": "续航提升",
     "type_id": "3",
     "type": 3,
-    "add_max": 1,
+    "add_max": 99,
     "desc": "击败对手后恢复5能量",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
@@ -62978,7 +63069,7 @@
     "name": "正向激励",
     "type_id": "3",
     "type": 3,
-    "add_max": 1,
+    "add_max": 99,
     "desc": "击败对手后恢复15%生命值",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
@@ -63057,7 +63148,7 @@
     "type_id": "3",
     "type": 3,
     "add_max": 20,
-    "desc": "受到伤害后，物防+20%",
+    "desc": "受到伤害后，双防+10%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63291,7 +63382,7 @@
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "每次攻击获得双防-10%，技能威力+40。",
+    "desc": "每次攻击获得双防-10%，技能威力+30。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63319,7 +63410,7 @@
     "add_icon": 6,
     "type": 3,
     "add_max": 99,
-    "desc": "技能威力+40",
+    "desc": "技能威力+30",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800035_png.800035_png'",
     "buff_group_reduce": [
       {
@@ -63486,7 +63577,7 @@
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "攻击技能应对成功物防+60%；防御技能应对成功物攻+60%；状态技能应对成功速度+60%。",
+    "desc": "攻击技能应对成功物防+30%；防御技能应对成功物攻+30%；状态技能应对成功速度+30%。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63514,7 +63605,7 @@
     "add_icon": 1,
     "type": 3,
     "add_max": 99,
-    "desc": "物防+<span color=\"#73c715\">60%</>。",
+    "desc": "物防+<span color=\"#73c715\">30%</>。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810021_png.810021_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
     "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -63544,7 +63635,7 @@
     "add_icon": 1,
     "type": 3,
     "add_max": 99,
-    "desc": "物攻+<span color=\"#73c715\">60%</>。",
+    "desc": "物攻+<span color=\"#73c715\">30%</>。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810023_png.810023_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
     "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -63574,7 +63665,7 @@
     "add_icon": 1,
     "type": 3,
     "add_max": 99,
-    "desc": "速度+<span color=\"#73c715\">60%</>。",
+    "desc": "速度+<span color=\"#73c715\">30%</>。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810029_png.810029_png'",
     "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
     "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
@@ -63687,7 +63778,7 @@
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "进入战斗时随机获得20次奉献效果。",
+    "desc": "进入战斗时随机获得15次奉献效果。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63872,7 +63963,7 @@
     "add_icon": 6,
     "type": 3,
     "add_max": 99,
-    "desc": "回合结束时，获得技能威力+10。",
+    "desc": "回合结束时，获得技能威力+5。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63947,7 +64038,7 @@
   {
     "id": 28810039,
     "buff_base_ids": [
-      2017141
+      2800051
     ],
     "buff_list_priority": 4,
     "buff_groupsigns": [
@@ -63959,7 +64050,7 @@
     "add_icon": 6,
     "type": 3,
     "add_max": 99,
-    "desc": "战斗开始6回合后全属性+20%。",
+    "desc": "战斗开始6回合后全属性+15%。",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
     "buff_group_reduce": [
       {
@@ -63988,8 +64079,266 @@
     "add_icon": 6,
     "type": 3,
     "add_max": 99,
-    "desc": "技能威力+10",
+    "desc": "技能威力+5",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810016_png.810016_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810041,
+    "buff_base_ids": [
+      2001081
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 6,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800002_png.800002_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "MAX_EFFECTIVE": [
+      28810042,
+      28810043
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810042,
+    "buff_base_ids": [
+      2800052,
+      2800053,
+      2800054,
+      2800055,
+      2800056
+    ],
+    "buff_list_priority": 3,
+    "buff_groupsigns": [
+      0
+    ],
+    "name": "属性提升",
+    "type_id": "3",
+    "add_des": "属性提升",
+    "add_icon": 1,
+    "type": 3,
+    "add_max": 99,
+    "desc": "全属性+<span color=\"#73c715\">15%</>。",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810015_png.810015_png'",
+    "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800035",
+    "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800035",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810043,
+    "buff_base_ids": [
+      2800057
+    ],
+    "buff_list_priority": 4,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 1,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810044,
+    "buff_base_ids": [
+      2042008
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 4,
+    "add_max": 99,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810045,
+    "buff_base_ids": [
+      2800058
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810046,
+    "buff_base_ids": [
+      2800059
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810047,
+    "buff_base_ids": [
+      2800060
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810048,
+    "buff_base_ids": [
+      2800061
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810049,
+    "buff_base_ids": [
+      2001067
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      1
+    ],
+    "name": "物防等级提升",
+    "type_id": "3",
+    "add_des": "物理防御",
+    "add_icon": 1,
+    "type": 3,
+    "add_max": 99,
+    "desc": "物防+<span color=\"#73c715\">10%</>。",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810021_png.810021_png'",
+    "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
+    "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810050,
+    "buff_base_ids": [
+      2001068
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      1
+    ],
+    "name": "魔防等级提升",
+    "type_id": "3",
+    "add_des": "魔法防御",
+    "add_icon": 1,
+    "type": 3,
+    "add_max": 99,
+    "desc": "魔防+<span color=\"#73c715\">10%</>。",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810022_png.810022_png'",
+    "res_id_0": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
+    "res_id_1": "/Game/ArtRes/Effects/G6Skill/Buff/800001",
     "buff_group_reduce": [
       {
         "reduce_type": 13,
@@ -65993,7 +66342,7 @@
   {
     "id": 28910082,
     "buff_base_ids": [
-      2093012
+      2810020
     ],
     "buff_list_priority": 3,
     "buff_groupsigns": [
@@ -70150,7 +70499,7 @@
   {
     "id": 28910252,
     "buff_base_ids": [
-      2093013
+      2810021
     ],
     "buff_list_priority": 3,
     "buff_groupsigns": [
@@ -73109,7 +73458,7 @@
     "type_id": "3",
     "type": 3,
     "add_max": 1,
-    "desc": "受到攻击后增加10%对应系别抗性",
+    "desc": "受到攻击后增加20%对应系别抗性",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800021_png.800021_png'",
     "buff_group_reduce": [
       {
@@ -73248,11 +73597,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "普通系系别抗性+10%",
+    "name": "普通系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "普通系系别抗性+10%",
+    "desc": "普通系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73275,11 +73624,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "草系系别抗性+10%",
+    "name": "草系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "草系系别抗性+10%",
+    "desc": "草系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73302,11 +73651,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "火系系别抗性+10%",
+    "name": "火系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "火系系别抗性+10%",
+    "desc": "火系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73329,11 +73678,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "水系系别抗性+10%",
+    "name": "水系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "水系系别抗性+10%",
+    "desc": "水系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73356,11 +73705,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "光系系别抗性+10%",
+    "name": "光系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "光系系别抗性+10%",
+    "desc": "光系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73383,11 +73732,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "地系系别抗性+10%",
+    "name": "地系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "地系系别抗性+10%",
+    "desc": "地系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73410,11 +73759,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "冰系系别抗性+10%",
+    "name": "冰系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "冰系系别抗性+10%",
+    "desc": "冰系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73437,11 +73786,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "龙系系别抗性+10%",
+    "name": "龙系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "龙系系别抗性+10%",
+    "desc": "龙系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73464,11 +73813,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "电系系别抗性+10%",
+    "name": "电系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "电系系别抗性+10%",
+    "desc": "电系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73491,11 +73840,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "毒系系别抗性+10%",
+    "name": "毒系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "毒系系别抗性+10%",
+    "desc": "毒系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73518,11 +73867,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "虫系系别抗性+10%",
+    "name": "虫系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "虫系系别抗性+10%",
+    "desc": "虫系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73545,11 +73894,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "武系系别抗性+10%",
+    "name": "武系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "武系系别抗性+10%",
+    "desc": "武系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73572,11 +73921,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "翼系系别抗性+10%",
+    "name": "翼系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "翼系系别抗性+10%",
+    "desc": "翼系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73599,11 +73948,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "萌系系别抗性+10%",
+    "name": "萌系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "萌系系别抗性+10%",
+    "desc": "萌系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73626,11 +73975,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "幽系系别抗性+10%",
+    "name": "幽系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "幽系系别抗性+10%",
+    "desc": "幽系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73653,11 +74002,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "恶魔系系别抗性+10%",
+    "name": "恶魔系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "恶魔系系别抗性+10%",
+    "desc": "恶魔系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73680,11 +74029,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "机械系系别抗性+10%",
+    "name": "机械系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "机械系系别抗性+10%",
+    "desc": "机械系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -73707,11 +74056,11 @@
     "buff_groupsigns": [
       0
     ],
-    "name": "幻系系别抗性+10%",
+    "name": "幻系系别抗性+20%",
     "type_id": "3",
     "type": 3,
     "add_max": 99,
-    "desc": "幻系系别抗性+10%",
+    "desc": "幻系系别抗性+20%",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/810020_png.810020_png'",
     "buff_group_reduce": [
       {
@@ -76016,9 +76365,7 @@
       2017009,
       2063008,
       2040099,
-      2040100,
-      2040101,
-      2040102
+      2040100
     ],
     "buff_list_priority": 3,
     "buff_groupsigns": [
@@ -76039,7 +76386,6 @@
         ]
       }
     ],
-    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {
@@ -76071,7 +76417,6 @@
         ]
       }
     ],
-    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {
@@ -76102,7 +76447,6 @@
         ]
       }
     ],
-    "is_clean_when_rest": 1,
     "buff_trigger_priority": 1
   },
   {

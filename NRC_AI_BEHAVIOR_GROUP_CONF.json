@@ -171209,7 +171209,10 @@
     "id": 2308189,
     "editor_name": "通用安静表演",
     "begin_end_behavior_info": [
-      {},
+      {
+        "behavior_id": 5300050,
+        "behavior_editor_name": "【清理】仅移除逻辑状态1403"
+      },
       {}
     ],
     "behavior_info": [
@@ -189195,8 +189198,14 @@
     "id": 2309259,
     "editor_name": "归位",
     "begin_end_behavior_info": [
-      {},
-      {}
+      {
+        "behavior_id": 5300050,
+        "behavior_editor_name": "【清理】仅移除逻辑状态1403"
+      },
+      {
+        "behavior_id": 3000,
+        "behavior_editor_name": "【清理】群落事件全部清理"
+      }
     ],
     "behavior_info": [
       {
@@ -251407,7 +251416,10 @@
     "id": 2801559,
     "editor_name": "通用跟随移动",
     "begin_end_behavior_info": [
-      {},
+      {
+        "behavior_id": 3000,
+        "behavior_editor_name": "【清理】群落事件全部清理"
+      },
       {}
     ],
     "behavior_info": [
@@ -251542,10 +251554,28 @@
   },
   {
     "id": 2801565,
-    "editor_name": "备用状态2",
+    "editor_name": "哄睡其他精灵",
     "begin_end_behavior_info": [
-      {},
+      {
+        "behavior_id": 3000,
+        "behavior_editor_name": "【清理】群落事件全部清理"
+      },
       {}
+    ],
+    "behavior_info": [
+      {
+        "behavior_id": 2800669,
+        "editor_name": "【睡铃雪影】哄睡准备",
+        "cond_type": [
+          1
+        ],
+        "exec_count": 1
+      },
+      {
+        "behavior_id": 10,
+        "editor_name": "跳过步骤#用于短路状态机，以省略某些步骤或表现",
+        "exec_count": 1
+      }
     ]
   },
   {
@@ -252056,6 +252086,109 @@
       {
         "behavior_id": 2800664,
         "editor_name": "【蜜果骸】被吸引的精灵-被吓",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801601,
+    "behavior_info": [
+      {
+        "behavior_id": 2800665,
+        "editor_name": "【睡铃雪影】载歌载舞准备",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801602,
+    "behavior_info": [
+      {
+        "behavior_id": 2800666,
+        "editor_name": "【睡铃雪影】其他精灵载歌载舞准备",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801603,
+    "behavior_info": [
+      {
+        "behavior_id": 2800667,
+        "editor_name": "【睡铃雪影】载歌载舞",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801604,
+    "behavior_info": [
+      {
+        "behavior_id": 2800668,
+        "editor_name": "【睡铃雪影】其他精灵载歌载舞",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801605,
+    "behavior_info": [
+      {
+        "behavior_id": 2800669,
+        "editor_name": "【睡铃雪影】哄睡准备",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801606,
+    "behavior_info": [
+      {
+        "behavior_id": 2800671,
+        "editor_name": "【睡铃雪影】其他精灵哄睡准备",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801607,
+    "behavior_info": [
+      {
+        "behavior_id": 2800670,
+        "editor_name": "【睡铃雪影】哄睡",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801608,
+    "behavior_info": [
+      {
+        "behavior_id": 2800672,
+        "editor_name": "【睡铃雪影】其他精灵哄睡准备",
+        "exec_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2801649,
+    "editor_name": "雪影载歌载舞",
+    "begin_end_behavior_info": [
+      {
+        "behavior_id": 3000,
+        "behavior_editor_name": "【清理】群落事件全部清理"
+      },
+      {}
+    ],
+    "behavior_info": [
+      {
+        "behavior_id": 2800665,
+        "editor_name": "【睡铃雪影】载歌载舞准备",
+        "exec_count": 1
+      },
+      {
+        "behavior_id": 10,
+        "editor_name": "跳过步骤#用于短路状态机，以省略某些步骤或表现",
         "exec_count": 1
       }
     ]
@@ -342950,7 +343083,10 @@
         "behavior_id": 3010,
         "behavior_editor_name": "【清理】隐身清理"
       },
-      {}
+      {
+        "behavior_id": 5300050,
+        "behavior_editor_name": "【清理】仅移除逻辑状态1403"
+      }
     ],
     "behavior_info": [
       {
@@ -408904,7 +409040,10 @@
         "behavior_id": 3010,
         "behavior_editor_name": "【清理】隐身清理"
       },
-      {}
+      {
+        "behavior_id": 5300050,
+        "behavior_editor_name": "【清理】仅移除逻辑状态1403"
+      }
     ],
     "behavior_info": [
       {

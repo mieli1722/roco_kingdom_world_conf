@@ -13123,7 +13123,7 @@
   {
     "id": 200246,
     "name": "整点报时",
-    "desc": "回合​结束​时，​若本场战斗累计消耗的能量恰好为12，则回满能量和生命。",
+    "desc": "每场战斗1次，回合​结束​时，​若自己累计消耗的能量恰好为12，则回满能量和生命。",
     "energy_cost": [
       0
     ],
@@ -18538,10 +18538,11 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 1027009,
+        "effect_id": 20560510,
         "result_target_type": 1,
         "cast_moment": 11,
-        "success_rate": 10000
+        "success_rate": 10000,
+        "buff_group_level": 1
       },
       {
         "effect_id": 20350801,
@@ -18611,10 +18612,11 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 1027010,
+        "effect_id": 20560520,
         "result_target_type": 1,
         "cast_moment": 11,
-        "success_rate": 10000
+        "success_rate": 10000,
+        "buff_group_level": 1
       },
       {
         "effect_id": 20350802,
@@ -18684,10 +18686,11 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 1027011,
+        "effect_id": 20560530,
         "result_target_type": 1,
         "cast_moment": 11,
-        "success_rate": 10000
+        "success_rate": 10000,
+        "buff_group_level": 1
       },
       {
         "effect_id": 20350803,
@@ -18757,10 +18760,11 @@
     "hit_para": 10000,
     "skill_result": [
       {
-        "effect_id": 1027012,
+        "effect_id": 20560540,
         "result_target_type": 1,
         "cast_moment": 11,
-        "success_rate": 10000
+        "success_rate": 10000,
+        "buff_group_level": 1
       },
       {
         "effect_id": 20350804,
@@ -28864,7 +28868,7 @@
   {
     "id": 288170,
     "name": "长久保存制法",
-    "desc": "自己的聚能获得<desc_id=3019>选择</>：敌方失去3能量。",
+    "desc": "自己的聚能获得<desc_id=3019>选择</>：偷取敌方3能量。",
     "energy_cost": [
       0
     ],
@@ -31727,12 +31731,7 @@
     ],
     "hit_para": 10000,
     "skill_result": [
-      {
-        "effect_id": 1880048,
-        "result_target_type": 1,
-        "cast_moment": 11,
-        "success_rate": 10000
-      },
+      {},
       {
         "effect_id": 28910251,
         "result_target_type": 1,
@@ -43876,8 +43875,8 @@
       65,
       1,
       2,
-      0,
-      260
+      1,
+      400
     ],
     "type": 1,
     "Skill_Type": 1,
@@ -65780,7 +65779,7 @@
       {
         "effect_id": 1028006,
         "result_target_type": 1,
-        "cast_moment": 11,
+        "cast_moment": 12,
         "success_rate": 10000,
         "buff_group_level": 1
       }
@@ -68785,7 +68784,6 @@
     "id": 7130331,
     "name": "应对！虫云",
     "desc": "<desc_id=3019>殊途</>：<span fork_road=\"begin\"/>己方队伍​获得​1​次​<desc_id=1009>奉献</>：​能​耗​-2<span fork_road=\"or\">或</>​威力​+20。<span fork_road=\"end\"/>",
-    "can_changed": 1,
     "energy_cost": [
       3
     ],
@@ -74425,7 +74423,6 @@
     "id": 7160400,
     "name": "做好事",
     "desc": "造成​魔伤，​自己每​使用过1​次​<desc_id=3019>选择</>​技能，​​自己​获得3层随机永久​<desc_id=1012>增益</>，​使用后​重置。​",
-    "can_changed": 1,
     "energy_cost": [
       3
     ],
@@ -91248,7 +91245,6 @@
     "id": 7880054,
     "name": "滚雪球",
     "desc": "造成物伤，敌方获得2层冻结，<desc_id=1015>应对状态</>：额外获得2层，本次技能威力翻倍。",
-    "can_changed": 1,
     "energy_cost": [
       3
     ],
@@ -91352,7 +91348,6 @@
     "id": 7880056,
     "name": "暴风雪",
     "desc": "造成物伤，敌方获得1层<desc_id=1004>冻结</>。",
-    "can_changed": 1,
     "energy_cost": [
       3
     ],
@@ -91395,7 +91390,6 @@
     "id": 7880057,
     "name": "孢子",
     "desc": "敌方获得2层<desc_id=1008>寄生</>。",
-    "can_changed": 1,
     "energy_cost": [
       3
     ],
@@ -91431,6 +91425,52 @@
       12,
       10,
       16
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880058,
+    "name": "魔能爆",
+    "desc": "造成魔伤，使用时消耗所有能量，消耗越高，伤害越高。",
+    "energy_rule": 1,
+    "energy_cost": [
+      0
+    ],
+    "damage_rule": 36,
+    "dam_para": [
+      10,
+      45000,
+      70000,
+      90000,
+      110000,
+      135000,
+      155000,
+      165000,
+      180000,
+      190000,
+      200000,
+      210000
+    ],
+    "type": 1,
+    "Skill_Type": 1,
+    "skill_dam_type": 2,
+    "skill_feature": 4,
+    "damage_type": 3,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Nor_XXZD_702061",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/702061.702061'",
+    "describe_type": [
+      5
     ],
     "target_blood_limit": [
       0

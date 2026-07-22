@@ -1061,8 +1061,8 @@
     "activity_name": "QQ音乐联动礼包",
     "prompt_text": "联动礼包上新\n特惠直购，低至五折\n兑换联动时装「心跳节拍」",
     "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n2026年7月31日-2026年12月31日\n\n<span color=\"#d56c1f\">参与方式</>\n活动期间，点击“前往购买”按钮即可在活动页面内购买QQ音乐超级会员x洛克王国：世界联动礼包，购买后可获得对应天数超级会员、游戏道具，并额外赠送兑换商城道具「悦听券」\n消耗指定数量「悦听券」即可在活动页面中兑换对应道具",
-    "appear_time": "2026-07-31 04:00:00",
-    "disappear_time": "2026-12-31 23:59:59",
+    "appear_time": "2025-07-31 04:00:00",
+    "disappear_time": "2025-12-31 23:59:59",
     "maintab_id": 3,
     "belong_system": 1,
     "priority": 55,
@@ -5172,7 +5172,7 @@
     ],
     "activity_name": "花园里的秘密礼物",
     "prompt_text": "信纸上散发着淡淡的睡铃香气\n不知道是谁发来的邀请\n顺着光影，去找寻这串小脚印吧",
-    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n完成任务，获得「印着精灵的小卡」，达到积分档位要求即可兑换奖励。\n登录状态将会在每日04:00刷新，每周任务将在每周一04:00刷新。\n",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n完成任务，获得「印着精灵的小卡」，达到积分档位要求即可兑换奖励。\n登录状态将会在每日04:00刷新，每周任务将在每周一04:00刷新。\n活动结束后，剩余的「印着精灵的小卡」将转化为洛克贝。",
     "appear_time": "2026-07-24 04:00:00",
     "disappear_time": "2026-09-10 03:59:59",
     "world_level_required": 1,
@@ -15108,6 +15108,64 @@
           5800145,
           5800146,
           5800148
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59000001,
+    "activity_type": 16,
+    "base_id": [
+      1600501,
+      1600502,
+      1600503,
+      1600504,
+      1600505
+    ],
+    "activity_name": "极速对决",
+    "prompt_text": "极速「精灵3v3」，畅爽对局！\n可同步增加每周挑战胜场次数\n本期挑战主题：首领化精灵！\n上阵3只首领血脉精灵进行对决！",
+    "activity_txt": "由魔法学院举办的「极速对决」活动火热进行中，提升战斗技巧的好机会！\n\n<span color=\"#d56c1f\">活动时间</>\n2026年07月27日04:00-2026年08月10日03:59(UTC+8)\n\n<span color=\"#d56c1f\">活动规则</>\n参与「极速对决」，达成对应「参与次数」与「胜利次数」可获得活动奖励。\n根据对战结果还可获得与「闪耀大赛」一致的星光值、奖牌与洛克贝奖励，洛克贝获取规则与「闪耀大赛」一致；获胜可同步增加每周挑战胜场次数。\n<span color=\"#d56c1f\">常见问题</>\n\nQ：怎么参加「极速对决」？\nA：点击【魔法师手册】-【精灵对战】分页，传送「极速对决」，与「『极速对决』导师」对话，即可参与对局。",
+    "appear_time": "2026-07-27 04:00:00",
+    "disappear_time": "2026-08-10 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 95,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_3v3.UMG_Activity_3v3_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue2_png.img_duijue2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue1_png.img_duijue1_png'",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          4100009
+        ]
+      }
+    ]
+  },
+  {
+    "id": 59000002,
+    "activity_type": 16,
+    "base_id": [
+      1600401,
+      1600402,
+      1600403,
+      1600404,
+      1600405
+    ],
+    "activity_name": "极速对决",
+    "prompt_text": "极速「精灵3v3」，畅爽对局！\n可同步增加每周挑战胜场次数\n本期挑战主题：最初的伙伴！\n至少上阵1只「魔力猫」「水灵」「火神」进行对决！",
+    "activity_txt": "由魔法学院举办的「极速对决」活动火热进行中，提升战斗技巧的好机会！\n\n<span color=\"#d56c1f\">活动时间</>\n2026年08月17日04:00-2026年08月31日03:59(UTC+8)\n\n<span color=\"#d56c1f\">活动规则</>\n参与「极速对决」，达成对应「参与次数」与「胜利次数」可获得活动奖励。\n根据对战结果还可获得与「闪耀大赛」一致的星光值、奖牌与洛克贝奖励，洛克贝获取规则与「闪耀大赛」一致；获胜可同步增加每周挑战胜场次数。\n<span color=\"#d56c1f\">常见问题</>\n\nQ：怎么参加「极速对决」？\nA：点击【魔法师手册】-【精灵对战】分页，传送「极速对决」，与「『极速对决』导师」对话，即可参与对局。",
+    "appear_time": "2026-08-17 04:00:00",
+    "disappear_time": "2026-08-31 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 95,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_3v3.UMG_Activity_3v3_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue2_png.img_duijue2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_duijue1_png.img_duijue1_png'",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          4100012
         ]
       }
     ]

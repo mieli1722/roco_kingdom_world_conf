@@ -25342,7 +25342,7 @@
       87,
       1000
     ],
-    "task_special_structure_dungeon": 120202,
+    "task_special_structure_dungeon": 120401,
     "next_task": [
       1101010
     ],
@@ -56074,7 +56074,9 @@
           3001,
           4001,
           5001,
-          6001
+          6001,
+          7001,
+          8001
         ],
         "data2": [
           1
@@ -186214,7 +186216,15 @@
       }
     ],
     "auto_finish": 1,
-    "npc_option": {}
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          5600698
+        ]
+      }
+    ]
   },
   {
     "id": 70000510,
@@ -186237,6 +186247,13 @@
     ],
     "go_guide": [
       {
+        "type": 8,
+        "data1": [
+          5600698
+        ],
+        "data2": [
+          600
+        ],
         "show_text": "在罗兰处选择精灵后进入画板进行挑战"
       }
     ],
@@ -186385,6 +186402,12 @@
         ],
         "data2": [
           5600074
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          5600698
         ]
       }
     ]
@@ -237395,7 +237418,9 @@
           3001,
           4001,
           5001,
-          6001
+          6001,
+          7001,
+          8001
         ],
         "data2": [
           1
@@ -239050,7 +239075,9 @@
           3001,
           4001,
           5001,
-          6001
+          6001,
+          7001,
+          8001
         ],
         "data2": [
           0
@@ -248015,7 +248042,9 @@
           3001,
           4001,
           5001,
-          6001
+          6001,
+          7001,
+          8001
         ],
         "data2": [
           1
@@ -254149,6 +254178,286 @@
       }
     ],
     "is_para_done": true
+  },
+  {
+    "id": 110000061,
+    "name": "「首领对决」累计参与1次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          7001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100009"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000062,
+    "name": "「首领对决」累计参与3次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          7001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100009"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000063,
+    "name": "「首领对决」累计参与5次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          7001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100009"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000064,
+    "name": "「首领对决」取得1次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          7001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100009"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000065,
+    "name": "「首领对决」取得3次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          7001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100009"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000071,
+    "name": "「伙伴对决」累计参与1次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          8001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100012"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000072,
+    "name": "「伙伴对决」累计参与3次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          8001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100012"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000073,
+    "name": "「伙伴对决」累计参与5次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          8001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100012"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000074,
+    "name": "「伙伴对决」取得1次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          8001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100012"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000075,
+    "name": "「伙伴对决」取得3次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          8001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100012"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
   },
   {
     "id": 110000080,

@@ -3376,7 +3376,7 @@
   {
     "id": 807,
     "key": "recover_all_interval",
-    "num": 3600
+    "num": 1800
   },
   {
     "id": 808,
@@ -3584,5 +3584,17 @@
     "id": 862,
     "key": "facephoto_max_count",
     "num": 2
+  },
+  {
+    "id": 863,
+    "key": "share_pet_upper_limit_game1",
+    "num": 3,
+    "is_loc": 2
+  },
+  {
+    "id": 864,
+    "key": "share_pet_upper_limit_game2",
+    "num": 3,
+    "is_loc": 2
   }
 ]

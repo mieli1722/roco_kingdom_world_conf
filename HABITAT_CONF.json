@@ -56409,7 +56409,7 @@
       },
       {
         "other_habitat_id": 10038,
-        "distance": 3842
+        "distance": 3858
       },
       {
         "other_habitat_id": 2566,
@@ -56513,7 +56513,7 @@
       },
       {
         "other_habitat_id": 10038,
-        "distance": 3986
+        "distance": 3982
       },
       {
         "other_habitat_id": 2566,
@@ -56891,15 +56891,15 @@
         ]
       },
       {
-        "other_habitat_id": 10038,
-        "distance": 4025
-      },
-      {
         "other_habitat_id": 2567,
         "distance": 4081,
         "relation": [
           15
         ]
+      },
+      {
+        "other_habitat_id": 10038,
+        "distance": 4098
       },
       {
         "other_habitat_id": 2555,
@@ -67602,11 +67602,11 @@
       },
       {
         "other_habitat_id": 10088,
-        "distance": 4868
+        "distance": 4630
       },
       {
         "other_habitat_id": 10089,
-        "distance": 4868
+        "distance": 4630
       }
     ]
   },
@@ -81821,11 +81821,11 @@
       },
       {
         "other_habitat_id": 10088,
-        "distance": 2964
+        "distance": 3067
       },
       {
         "other_habitat_id": 10089,
-        "distance": 2964
+        "distance": 3067
       },
       {
         "other_habitat_id": 3191,
@@ -84465,11 +84465,11 @@
       },
       {
         "other_habitat_id": 10088,
-        "distance": 3123
+        "distance": 3018
       },
       {
         "other_habitat_id": 10089,
-        "distance": 3123
+        "distance": 3018
       },
       {
         "other_habitat_id": 2799,
@@ -85156,16 +85156,16 @@
         ]
       },
       {
-        "other_habitat_id": 3188,
-        "distance": 4870,
-        "relation": [
-          5,
-          4
-        ]
+        "other_habitat_id": 10088,
+        "distance": 4782
       },
       {
-        "other_habitat_id": 3191,
-        "distance": 4970,
+        "other_habitat_id": 10089,
+        "distance": 4782
+      },
+      {
+        "other_habitat_id": 3188,
+        "distance": 4870,
         "relation": [
           5,
           4
@@ -87435,11 +87435,11 @@
     "relevance": [
       {
         "other_habitat_id": 10088,
-        "distance": 2961
+        "distance": 2933
       },
       {
         "other_habitat_id": 10089,
-        "distance": 2961
+        "distance": 2933
       },
       {
         "other_habitat_id": 3085,
@@ -99390,23 +99390,23 @@
   {
     "id": 10038,
     "mid_position": [
-      520304,
-      582269,
-      4210
+      520394,
+      582299,
+      4233
     ],
     "belong_camp": 130160,
     "relevance": [
       {
         "other_habitat_id": 2555,
-        "distance": 3842
+        "distance": 3858
       },
       {
         "other_habitat_id": 2557,
-        "distance": 3986
+        "distance": 3982
       },
       {
         "other_habitat_id": 2566,
-        "distance": 4025
+        "distance": 4098
       }
     ]
   },
@@ -100675,9 +100675,9 @@
   {
     "id": 10088,
     "mid_position": [
-      544988,
-      538046,
-      13469
+      544919,
+      537778,
+      13503
     ],
     "belong_camp": 5400469,
     "relevance": [
@@ -100686,28 +100686,32 @@
       },
       {
         "other_habitat_id": 3159,
-        "distance": 2961
-      },
-      {
-        "other_habitat_id": 3057,
-        "distance": 2964
+        "distance": 2933
       },
       {
         "other_habitat_id": 3105,
-        "distance": 3123
+        "distance": 3018
+      },
+      {
+        "other_habitat_id": 3057,
+        "distance": 3067
       },
       {
         "other_habitat_id": 2799,
-        "distance": 4868
+        "distance": 4630
+      },
+      {
+        "other_habitat_id": 3116,
+        "distance": 4782
       }
     ]
   },
   {
     "id": 10089,
     "mid_position": [
-      544988,
-      538046,
-      13469
+      544919,
+      537778,
+      13503
     ],
     "belong_camp": 5400469,
     "relevance": [
@@ -100716,19 +100720,23 @@
       },
       {
         "other_habitat_id": 3159,
-        "distance": 2961
-      },
-      {
-        "other_habitat_id": 3057,
-        "distance": 2964
+        "distance": 2933
       },
       {
         "other_habitat_id": 3105,
-        "distance": 3123
+        "distance": 3018
+      },
+      {
+        "other_habitat_id": 3057,
+        "distance": 3067
       },
       {
         "other_habitat_id": 2799,
-        "distance": 4868
+        "distance": 4630
+      },
+      {
+        "other_habitat_id": 3116,
+        "distance": 4782
       }
     ]
   },

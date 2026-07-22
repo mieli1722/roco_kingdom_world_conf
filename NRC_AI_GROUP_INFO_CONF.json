@@ -102982,11 +102982,23 @@
       },
       {
         "state_id": 55,
-        "behavior_id": 2801559
+        "behavior_id": 2801559,
+        "cond_ids": [
+          0,
+          28096,
+          0,
+          28095
+        ]
       },
       {
         "state_id": 62,
-        "behavior_id": 2801560
+        "behavior_id": 2801560,
+        "cond_ids": [
+          0,
+          28096,
+          0,
+          28095
+        ]
       },
       {
         "state_id": 69,
@@ -103006,11 +103018,21 @@
       },
       {
         "state_id": 73,
-        "behavior_id": 2801565
+        "behavior_id": 2801565,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 74,
         "behavior_id": 2801566
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 2801649,
+        "cond_ids": [
+          1
+        ]
       }
     ]
   },

@@ -172,7 +172,7 @@
   {
     "id": 2001,
     "name": "岩土祝福",
-    "info": "受到攻击后，获得物防<span color=\"#5CA011\">+20%</>",
+    "info": "受到攻击后，获得双防<span color=\"#5CA011\">+10%</>",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
@@ -381,14 +381,14 @@
   {
     "id": 2020,
     "name": "生命特调",
-    "info": "最大生命值<span color=\"#5CA011\">+80</>",
+    "info": "最大生命值<span color=\"#5CA011\">+70</>",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161038.161038'",
     "type": 1,
     "trial_effect": [
       4
     ],
     "param1": 1,
-    "param2": 80,
+    "param2": 70,
     "price": 4
   },
   {
@@ -427,7 +427,7 @@
   {
     "id": 3003,
     "name": "灵魂颤动",
-    "info": "每次攻击获得双防-<span color=\"#5CA011\">10%</>，技能威力+<span color=\"#5CA011\">40</>",
+    "info": "每次攻击获得双防-<span color=\"#5CA011\">10%</>，技能威力+<span color=\"#5CA011\">30</>",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
@@ -438,7 +438,7 @@
   {
     "id": 3004,
     "name": "快速生长",
-    "info": "回合结束时，获得技能威力+<span color=\"#5CA011\">10</>",
+    "info": "回合结束时，获得技能威力+<span color=\"#5CA011\">5</>",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
@@ -537,7 +537,7 @@
   {
     "id": 3013,
     "name": "执子定谋",
-    "info": "应对成功后根据自身释放的技能类型获得60%相应属性增益",
+    "info": "应对成功后根据自身释放的技能类型获得30%相应属性增益",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
@@ -592,7 +592,7 @@
   {
     "id": 3018,
     "name": "入梦",
-    "info": "在战斗开始<span color=\"#5CA011\">6</>回合后提升<span color=\"#5CA011\">20%</>全属性",
+    "info": "在战斗开始<span color=\"#5CA011\">6</>回合后提升<span color=\"#5CA011\">15%</>全属性",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
