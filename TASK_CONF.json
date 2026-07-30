@@ -195930,6 +195930,45 @@
     "clear_data_when_expired": true
   },
   {
+    "id": 70021010,
+    "name": "【隐藏】开启手册第一章的前置",
+    "task_class": 2,
+    "paragraph_id": 70021,
+    "task_structure_type": 4,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70021004
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 202,
+        "data1": [
+          10
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceParagraphByID",
+        "args": "70021"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
+    "expire_time_type": 3,
+    "expire_time_param": 3,
+    "auto_done_when_expired": true,
+    "clear_data_when_expired": true
+  },
+  {
     "id": 70022001,
     "name": "【重拍测试】拍下一张莫里亚克的照片",
     "task_class": 2,
@@ -198528,6 +198567,45 @@
     "clear_data_when_expired": true
   },
   {
+    "id": 70026023,
+    "name": "【隐藏】开启手册第二章的前置",
+    "task_class": 2,
+    "paragraph_id": 70026,
+    "task_structure_type": 4,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70026014
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 202,
+        "data1": [
+          10
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceParagraphByID",
+        "args": "70026"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
+    "expire_time_type": 3,
+    "expire_time_param": 3,
+    "auto_done_when_expired": true,
+    "clear_data_when_expired": true
+  },
+  {
     "id": 70027001,
     "name": "莫里亚克的来信",
     "task_class": 2,
@@ -199920,6 +199998,45 @@
     "clear_data_when_expired": true
   },
   {
+    "id": 70027022,
+    "name": "【隐藏】开启手册第三章的前置",
+    "task_class": 2,
+    "paragraph_id": 70027,
+    "task_structure_type": 4,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70027009
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 202,
+        "data1": [
+          10
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceParagraphByID",
+        "args": "70027"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
+    "expire_time_type": 3,
+    "expire_time_param": 3,
+    "auto_done_when_expired": true,
+    "clear_data_when_expired": true
+  },
+  {
     "id": 70028001,
     "name": "【隐藏】解锁童话集故事5",
     "task_class": 2,
@@ -199980,6 +200097,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500065
         ]
       }
@@ -200041,6 +200159,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500001
         ],
         "show_text": "任务期间拍照功能已屏蔽其他玩家"
@@ -200116,6 +200235,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500065
         ]
       }
@@ -200179,6 +200299,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500039
         ]
       }
@@ -200287,6 +200408,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500040
         ]
       }
@@ -200482,6 +200604,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500044
         ]
       }
@@ -200557,6 +200680,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500045
         ]
       }
@@ -200708,6 +200832,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500053
         ]
       }
@@ -201166,6 +201291,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500055
         ]
       }
@@ -201245,6 +201371,7 @@
       {
         "type": 7,
         "data1": [
+          6400019,
           7500054
         ]
       }
@@ -201387,6 +201514,45 @@
     "online_process": 3,
     "task_system_item": 750001,
     "task_system_cmd": "TaskModuleCmd.OpenFairyTaleBookPanel,3005",
+    "expire_time_type": 3,
+    "expire_time_param": 3,
+    "auto_done_when_expired": true,
+    "clear_data_when_expired": true
+  },
+  {
+    "id": 70028024,
+    "name": "【隐藏】开启手册第四章的前置",
+    "task_class": 2,
+    "paragraph_id": 70028,
+    "task_structure_type": 4,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70028015
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 202,
+        "data1": [
+          10
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceParagraphByID",
+        "args": "70028"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
     "expire_time_type": 3,
     "expire_time_param": 3,
     "auto_done_when_expired": true,

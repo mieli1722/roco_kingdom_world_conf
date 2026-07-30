@@ -63893,7 +63893,7 @@
   {
     "id": 28810034,
     "buff_base_ids": [
-      2023096
+      2800062
     ],
     "buff_list_priority": 4,
     "buff_groupsigns": [
@@ -64210,7 +64210,7 @@
     "buff_groupsigns": [
       0
     ],
-    "type": 3,
+    "type": 4,
     "add_max": 99,
     "buff_group_reduce": [
       {
@@ -64254,7 +64254,7 @@
     "buff_groupsigns": [
       0
     ],
-    "type": 3,
+    "type": 4,
     "add_max": 99,
     "buff_group_reduce": [
       {
@@ -64349,6 +64349,50 @@
       }
     ],
     "is_clean_when_rest": 1,
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810051,
+    "buff_base_ids": [
+      2800066
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28810052,
+    "buff_base_ids": [
+      2800067
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type": 3,
+    "add_max": 99,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
     "buff_trigger_priority": 1
   },
   {
@@ -76438,6 +76482,191 @@
     "add_max": 1,
     "desc": "赫拉、武斗酷猫、卷毛鸭、格兰球、泥吼牙、奇丽花特性共享",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/800019_png.800019_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28930003,
+    "buff_base_ids": [
+      2045010
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      3
+    ],
+    "name": "无差别过滤",
+    "type": 3,
+    "add_max": 2,
+    "desc": "所有精灵技能连击数固定为2",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Icon/BuffIcon/Frames/830096_png.830096_png'",
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 1
+  },
+  {
+    "id": 28930004,
+    "buff_base_ids": [
+      2800063
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 3,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930005,
+    "buff_base_ids": [
+      2800064
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 3,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930006,
+    "buff_base_ids": [
+      2800065
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 3,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930007,
+    "buff_base_ids": [
+      2800068
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 4,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930008,
+    "buff_base_ids": [
+      2800069
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 4,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930009,
+    "buff_base_ids": [
+      2800070
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      0
+    ],
+    "type_id": "3",
+    "type": 4,
+    "add_max": 1,
+    "buff_group_reduce": [
+      {
+        "reduce_type": 13,
+        "reduce_param": [
+          999,
+          0
+        ]
+      }
+    ],
+    "buff_trigger_priority": 2
+  },
+  {
+    "id": 28930010,
+    "buff_base_ids": [
+      2045010
+    ],
+    "buff_list_priority": 1,
+    "buff_groupsigns": [
+      3
+    ],
+    "type": 3,
+    "add_max": 2,
     "buff_group_reduce": [
       {
         "reduce_type": 13,

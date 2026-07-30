@@ -205407,6 +205407,8 @@
     "model_conf": 10351,
     "bulky": 2,
     "show_name": 1,
+    "npc_worldtitle": "寻找密卷中",
+    "npc_nameplate_show_distance": 1300,
     "model_scale": 100,
     "npc_interact_type": 2,
     "option_id": [
@@ -249428,6 +249430,27 @@
     "can_hide_in_pvp": 1
   },
   {
+    "id": 56838,
+    "genre": 7,
+    "reward_drop_type": 1,
+    "name": "音乐光点",
+    "model_conf": 55501,
+    "bulky": 2,
+    "show_name_type": 1,
+    "show_name": 1,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "not_turn_face": 1,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      56838
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1
+  },
+  {
     "id": 57001,
     "genre": 2,
     "reward_drop_type": 1,
@@ -292270,7 +292293,8 @@
     ],
     "can_hide_in_sequence": 1,
     "can_hide_in_minigame": 1,
-    "can_hide_in_pvp": 1
+    "can_hide_in_pvp": 1,
+    "trace_icon_offset": -1200
   },
   {
     "id": 86011,

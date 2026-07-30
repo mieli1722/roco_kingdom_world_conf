@@ -11313,9 +11313,18 @@
       0
     ],
     "resonance_sk_black_list_feature": [
+      288147,
+      288148,
+      288149,
+      288178,
+      288179,
+      288180,
       200281,
       200282,
-      200283
+      200283,
+      200236,
+      200237,
+      200238
     ],
     "delete_resonance_sk_black_list": [
       20010012
@@ -19214,7 +19223,13 @@
         "success_rate": 10000,
         "buff_group_level": 1
       },
-      {},
+      {
+        "effect_id": 20641670,
+        "result_target_type": 3,
+        "cast_moment": 26,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      },
       {
         "effect_id": 1004117,
         "result_target_type": 1,
@@ -26542,9 +26557,18 @@
       0
     ],
     "resonance_sk_black_list_feature": [
+      288147,
+      288148,
+      288149,
+      288178,
+      288179,
+      288180,
       200281,
       200282,
-      200283
+      200283,
+      200236,
+      200237,
+      200238
     ],
     "delete_resonance_sk_black_list": [
       20010012
@@ -33275,6 +33299,376 @@
     ],
     "delete_resonance_sk_black_list_layer": [
       99
+    ]
+  },
+  {
+    "id": 289100,
+    "name": "草木苏醒时",
+    "desc": "每回复1能量，物攻和魔攻永久+20%，攻击后重置。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200076.200076'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ],
+    "resonance_sk_black_list": [
+      1004130
+    ],
+    "resonance_sk_black_list_feature": [
+      200076
+    ]
+  },
+  {
+    "id": 289101,
+    "name": "变形活画",
+    "desc": "行动时，敌方每有1层<desc_id=1012>增益</>，本次行动技能威力+10%，速度+5。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200243.200243'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289102,
+    "name": "得寸进尺",
+    "desc": "天气为<desc_id=3008>雨天</>，或处于其他水系环境中时，获得双攻+100%。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200079.200079'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289103,
+    "name": "无差别过滤",
+    "desc": "在场时，所有精灵<desc_id=3005>连击数</>固定为2。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200209.200209'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289104,
+    "name": "勇敢",
+    "desc": "携带的能耗大于3的技能，威力+40%。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "skill_feature": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200077.200077'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289105,
+    "name": "生长",
+    "desc": "回合结束时，回复12%生命。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "skill_feature": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200087.200087'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289106,
+    "name": "腐植循环",
+    "desc": "每回复1能量，同时回复5%生命。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "skill_feature": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200083.200083'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 289107,
+    "name": "养分重吸收",
+    "desc": "回合结束时，回复3能量。",
+    "energy_cost": [
+      0
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 2,
+    "skill_dam_type": 1,
+    "skill_feature": 1,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 1,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "effect_id": 1004117,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/200001",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/FeatureIcon/200080.200080'",
+    "describe_type": [
+      0
+    ],
+    "target_blood_limit": [
+      0
     ]
   },
   {
@@ -47519,15 +47913,15 @@
       55,
       0,
       0,
-      9090,
-      18180,
-      27270,
-      36360,
-      45450,
-      54540,
-      63630,
-      72720,
-      81810
+      50,
+      100,
+      150,
+      200,
+      250,
+      300,
+      350,
+      400,
+      450
     ],
     "type": 1,
     "Skill_Type": 1,
@@ -54388,12 +54782,12 @@
     "damage_rule": 36,
     "dam_para": [
       90,
-      6666,
-      5555,
-      4444,
-      3333,
-      2222,
-      1111,
+      60,
+      50,
+      40,
+      30,
+      20,
+      10,
       0,
       0,
       0,
@@ -55098,9 +55492,9 @@
     "damage_rule": 36,
     "dam_para": [
       10,
-      30000,
-      20000,
-      10000,
+      30,
+      20,
+      10,
       0,
       0,
       0,
@@ -74422,7 +74816,7 @@
   {
     "id": 7160400,
     "name": "做好事",
-    "desc": "造成​魔伤，​自己每​使用过1​次​<desc_id=3019>选择</>​技能，​​自己​获得3层随机永久​<desc_id=1012>增益</>，​使用后​重置。​",
+    "desc": "造成​魔伤，​自己每​使用过1​次​<desc_id=3019>选择</>​技能，​​自己​获得3层随机永久​<desc_id=3014>属性增益</>，​使用后​重置。​",
     "energy_cost": [
       3
     ],
@@ -75775,7 +76169,7 @@
   {
     "id": 7170310,
     "name": "吃独食",
-    "desc": "造成​魔伤，​自己每​使用过1​次​<desc_id=3019>选择</>​技能，​​敌方​获得3​层随机永久​<desc_id=1013>减益</>，​使用后​重置。​",
+    "desc": "造成​魔伤，​自己每​使用过1​次​<desc_id=3019>选择</>​技能，​​敌方​获得3​层随机永久​<desc_id=3018>属性减益</>，​使用后​重置。​",
     "energy_cost": [
       3
     ],
@@ -91414,7 +91808,7 @@
       {
         "effect_id": 20050010,
         "result_target_type": 2,
-        "cast_moment": 11,
+        "cast_moment": 23,
         "success_rate": 10000,
         "buff_group_level": 2
       }
@@ -91471,6 +91865,699 @@
     "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/702061.702061'",
     "describe_type": [
       5
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880059,
+    "name": "风起",
+    "desc": "自己获得1层<desc_id=1027>风起印记</>。",
+    "flavor_text": "吾所在即是风起之处。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 15,
+    "skill_feature": 3,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20210040,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Nor_FQ_715003",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/715003.715003'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880060,
+    "name": "主场优势",
+    "desc": "自己获得1层<desc_id=1018>攻击印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      3
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 2,
+    "skill_feature": 3,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20230020,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Nor_WGCD_702045",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/702045.702045'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880061,
+    "name": "棘刺",
+    "desc": "敌方获得1层<desc_id=1019>棘刺印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      2
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 2,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20490030,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Nor_SD_702063",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/702063.702063'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880062,
+    "name": "光合作用",
+    "desc": "自己获得1层<desc_id=1021>光合印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 3,
+    "skill_feature": 3,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20170011,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Gra_GHZY_701005",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/701005.701005'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880063,
+    "name": "打湿",
+    "desc": "自己获得1层<desc_id=1022>湿润印记</>。",
+    "flavor_text": "海风在这里留下未成熟的盐。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 5,
+    "skill_feature": 3,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20320070,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_war_DS_705012",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/705012.705012'",
+    "describe_type": [
+      12,
+      8,
+      6
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880064,
+    "name": "蓄势待发",
+    "desc": "自己获得1层<desc_id=1030>蓄势印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 8,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20210060,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Ear_NZ_307035",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/307035.307035'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880065,
+    "name": "速冻",
+    "desc": "敌方获得2层<desc_id=1032>减速印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 9,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 2,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20010090,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 2
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Ice_SD_108028",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/108028.108028'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880066,
+    "name": "龙威",
+    "desc": "自己获得1层<desc_id=1031>龙噬印记</> 。",
+    "can_changed": 1,
+    "energy_cost": [
+      3
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 10,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20530070,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Dra_LW_209014",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/209014.209014'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880067,
+    "name": "增程电池",
+    "desc": "自己获得1层<desc_id=1023>蓄电印记</>。",
+    "flavor_text": "从新型电系炼金术中得到灵感，竟然可以活用于精灵对战中。",
+    "can_changed": 1,
+    "energy_cost": [
+      2
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 11,
+    "skill_feature": 3,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20930080,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Ele_GZQH_711010",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/711004.711004'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880068,
+    "name": "疫病吐息",
+    "desc": "敌方获得1层<desc_id=1014>中毒印记</>。",
+    "can_changed": 1,
+    "energy_cost": [
+      3
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 12,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20070011,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Poi_DQMM_211021",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/211021.211021'",
+    "describe_type": [
+      12,
+      8,
+      10
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880069,
+    "name": "加油",
+    "desc": "自己获得1层<desc_id=3012>萌芽印记</>。",
+    "flavor_text": "它觉得自己帮不上什么忙，但每一句加油都是真心的。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 16,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 9,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20370200,
+        "result_target_type": 1,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Cut_ZW_115020",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/115020.115020'",
+    "describe_type": [
+      12,
+      8
+    ]
+  },
+  {
+    "id": 7880070,
+    "name": "降灵",
+    "desc": "敌方获得1层<desc_id=1028>降灵印记</>。",
+    "flavor_text": "午夜，在黑暗的教室里，两个人共同握着一根羽毛笔，嘴里念念有词，笔尖疯狂抖动。",
+    "can_changed": 1,
+    "energy_cost": [
+      2
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 17,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20490020,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Gho_XGDJ_717014",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/717014.717014'",
+    "describe_type": [
+      12,
+      8
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880071,
+    "name": "纺纱",
+    "desc": "敌方获得1层<desc_id=3020>暗涌印记</>。",
+    "flavor_text": "未来还没有被纺织，经纬仍是一团混沌。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 18,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20490390,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 1
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Dem_FS_117037",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/117037.117037'",
+    "describe_type": [
+      12,
+      8
+    ]
+  },
+  {
+    "id": 7880072,
+    "name": "二律背反",
+    "desc": "敌方获得3层<desc_id=1035>星陨印记</>，<desc_id=1017>应对防御</>：额外使敌方<desc_id=1035>星陨印记</>层数翻倍。",
+    "can_changed": 1,
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 20,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20940010,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 3
+      },
+      {
+        "effect_id": 1031114,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Cha_FKS_719010",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/719009.719009'",
+    "describe_type": [
+      12,
+      1,
+      20,
+      7,
+      10
+    ],
+    "target_blood_limit": [
+      0
+    ]
+  },
+  {
+    "id": 7880073,
+    "name": "应对！二律背反",
+    "desc": "敌方获得3层<desc_id=1035>星陨印记</>，<desc_id=1017>应对防御</>：额外使敌方<desc_id=1035>星陨印记</>层数翻倍。",
+    "energy_cost": [
+      4
+    ],
+    "dam_para": [
+      0
+    ],
+    "type": 1,
+    "Skill_Type": 2,
+    "skill_dam_type": 20,
+    "skill_feature": 4,
+    "damage_type": 1,
+    "contact_type": 1,
+    "skill_priority": 5,
+    "target_type": 1,
+    "target_count": 1,
+    "cd_round": [
+      0,
+      0
+    ],
+    "hit_para": 10000,
+    "skill_result": [
+      {
+        "effect_id": 20940010,
+        "result_target_type": 2,
+        "cast_moment": 23,
+        "success_rate": 10000,
+        "buff_group_level": 3
+      },
+      {
+        "effect_id": 1053029,
+        "result_target_type": 2,
+        "cast_moment": 12,
+        "success_rate": 10000
+      },
+      {
+        "effect_id": 1053030,
+        "result_target_type": 2,
+        "cast_moment": 12,
+        "success_rate": 10000
+      },
+      {},
+      {},
+      {
+        "effect_id": 1019047,
+        "result_target_type": 1,
+        "cast_moment": 11,
+        "success_rate": 10000
+      }
+    ],
+    "res_id": "/Game/ArtRes/Effects/G6Skill/Jineng/G6_Cha_FKS_719009",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/SkillIcon/719009.719009'",
+    "describe_type": [
+      12,
+      1,
+      20,
+      7,
+      10
     ],
     "target_blood_limit": [
       0

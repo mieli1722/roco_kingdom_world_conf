@@ -130068,6 +130068,22 @@
     "wild_action": {}
   },
   {
+    "id": 56838,
+    "online_process": 2,
+    "option_radius": 200,
+    "vision_range": 360,
+    "npc_interact_type": 2,
+    "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_yinyuelightpoint_png.img_yinyuelightpoint_png'",
+    "button_text": "收录乐谱",
+    "action": {
+      "action_type": 10040,
+      "action_param1": "601500"
+    },
+    "pet_action": {},
+    "pet_power_dash_action": {},
+    "wild_action": {}
+  },
+  {
     "id": 57001,
     "online_process": 2,
     "option_radius": 300,
@@ -167906,7 +167922,6 @@
     "online_process": 2,
     "option_radius": 600,
     "npc_interact_type": 1,
-    "unmount_type": 2,
     "action": {
       "action_type": 10125,
       "action_param1": "445"
@@ -168020,7 +168035,6 @@
     "online_process": 2,
     "option_radius": 600,
     "npc_interact_type": 1,
-    "unmount_type": 2,
     "action": {
       "action_type": 10125,
       "action_param1": "446"
@@ -219605,8 +219619,10 @@
   {
     "id": 5519503,
     "online_process": 2,
+    "show_holding_2p": true,
     "option_radius": 400,
     "npc_interact_type": 1,
+    "unmount_type": 2,
     "action": {
       "action_type": 21,
       "action_param1": "51950201"
@@ -221217,6 +221233,7 @@
   {
     "id": 5556101,
     "online_process": 3,
+    "option_sequence": -1,
     "option_radius": 200,
     "npc_interact_type": 2,
     "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_MagicMessage_png.img_MagicMessage_png'",
@@ -221805,6 +221822,7 @@
   {
     "id": 5559101,
     "online_process": 3,
+    "option_sequence": -1,
     "option_radius": 200,
     "npc_interact_type": 2,
     "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_RecordScreen_png.img_RecordScreen_png'",
@@ -222435,7 +222453,6 @@
     "online_process": 2,
     "option_radius": 600,
     "npc_interact_type": 1,
-    "unmount_type": 2,
     "action": {
       "action_type": 10125,
       "action_param1": "440"
@@ -222593,7 +222610,6 @@
     "online_process": 2,
     "option_radius": 600,
     "npc_interact_type": 1,
-    "unmount_type": 2,
     "action": {
       "action_type": 10125,
       "action_param1": "443"
@@ -284928,7 +284944,7 @@
     "unmount_type": 1,
     "action": {
       "action_type": 122,
-      "action_param1": "60141"
+      "action_param1": "60145"
     },
     "pet_action": {},
     "pet_power_dash_action": {},
@@ -284943,7 +284959,7 @@
     "vision_range": 180,
     "npc_interact_type": 2,
     "button_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
-    "button_text": "「走进月夜—吸血鬼大揭秘」",
+    "button_text": "「吸血鬼揭秘」",
     "unmount_type": 1,
     "action": {
       "action_type": 122,

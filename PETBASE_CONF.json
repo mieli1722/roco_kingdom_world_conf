@@ -160964,7 +160964,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 190,
+    "pictorial_book_id": 192,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 202,
@@ -161136,7 +161136,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 191,
+    "pictorial_book_id": 190,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 702,
@@ -161308,7 +161308,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 192,
+    "pictorial_book_id": 191,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 602,
@@ -161652,7 +161652,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 190,
+    "pictorial_book_id": 192,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 202,
@@ -161824,7 +161824,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 191,
+    "pictorial_book_id": 190,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 702,
@@ -161996,7 +161996,7 @@
     "model_conf": 16024,
     "description": "在棋盘最中央的格子是为它预留的王座，棋契陛下并非被雕刻，而是由黑白两色棋子在万夜轮转中自行“对局”而生，它不移动，却可以传令所有棋子。“当王棋离座，棋盘即终局；终局之时，所有棋子将回归石质，世界将再无边界可言。”",
     "pet_scale": 2,
-    "pictorial_book_id": 192,
+    "pictorial_book_id": 191,
     "petfree_sort": 5,
     "ban_free": 1,
     "pet_bond_id": 602,
@@ -177117,7 +177117,7 @@
   {
     "id": 8200,
     "name": "赫拉",
-    "form": "草系徽章-专属精灵",
+    "form": "草系徽章-BOSS专属精灵",
     "move_type": "步行",
     "quality": 2,
     "stength_stage": 1,
@@ -177268,6 +177268,1754 @@
     "card_res_ui_percentage": 1.129032,
     "audio_config_id": 3494,
     "falling_resistance": 100
+  },
+  {
+    "id": 8201,
+    "name": "武斗酷猫",
+    "form": "草系徽章-BOSS专属精灵",
+    "move_type": "步行",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 4,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3
+    ],
+    "ai_group_info_id": 3007,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      0,
+      12,
+      10
+    ],
+    "level_skill_conf_id": 3007,
+    "pet_feature": 289100,
+    "pet_chaos_feature": 280031,
+    "pet_glass_feature": 280031,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 16032,
+    "description": "叶脉——可有一个开端？\n枝桠——是否不断新生？\n一切关于生命的力量不断疯长，草的精灵以另一种身份与洛克重逢。",
+    "pet_scale": 2,
+    "pictorial_book_id": 4,
+    "petfree_sort": 6,
+    "ban_free": 1,
+    "pet_bond_id": 402,
+    "pet_reaction": [
+      4002,
+      1,
+      109
+    ],
+    "pet_takephoto_reaction": [
+      10024,
+      1,
+      109
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 126,
+    "phy_attack_race": 134,
+    "spe_attack_race": 57,
+    "phy_defence_race": 110,
+    "spe_defence_race": 80,
+    "speed_race": 135,
+    "SUM_race": 693,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 4,
+    "petpage_ui_percentage": 0.366956,
+    "petpage_capsule_offset": [
+      0.0,
+      0.0,
+      -0.4
+    ],
+    "handbook_ui_percentage": 0.57,
+    "handbook_capsule_offset": [
+      0.0,
+      0.0,
+      -0.4
+    ],
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "show_area": 10003,
+    "npc_id": 110053,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 65000,
+    "weight_high": 97000,
+    "height_low": 148,
+    "height_high": 175,
+    "pet_classis_id": 6,
+    "break_award_sort": 1,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_wumiao.JL_wumiao'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_wumiao.JL_wumiao'",
+    "res_horizontal_flip_data": 1,
+    "shadow_horizontal_flip_data": 1,
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn.img_Share_BgLawn'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_Lawn.img_Fg_Lawn'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lawn.img_Bg_Lawn'",
+    "pet_egg": 107001,
+    "egg_group": [
+      6,
+      9
+    ],
+    "stun_resistance": 2,
+    "axial_density": "0.5",
+    "radial_density": "0.25",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "is_boss": 1,
+    "talent_normal_chance": 10000,
+    "home_npc_id": 130053,
+    "report_res_horizontal_flip_data": 1,
+    "card_res_ui_percentage": 1.130946,
+    "card_res_offset": [
+      -10.0,
+      10.0
+    ],
+    "audio_config_id": 3158,
+    "falling_resistance": 100,
+    "pet_text": "喵~喵喵~喵!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-09-10 04:00:00",
+    "pet_lord_feature": 280031,
+    "season_version": "1.1.0"
+  },
+  {
+    "id": 8202,
+    "name": "画间沉铁兽",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 20,
+    "move_type": "步行",
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 3,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      2,
+      14
+    ],
+    "show_tag": 610,
+    "ai_group_info_id": 3609,
+    "pet_habitat_group_role_type": 1007,
+    "ecology_feature": [
+      0
+    ],
+    "level_skill_conf_id": 3609,
+    "pet_feature": 289101,
+    "pet_chaos_feature": 200243,
+    "pet_glass_feature": 200243,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14618,
+    "description": "一种沉默寡言的分支形态，稍微有些粗鲁，比起结识更多的朋友，对他来说更重要的是保护现在朋友们的安全，可能在实施保护中不小心磕到朋友的头。确定了需要保护的对象之后，就不会再四处穿梭。",
+    "pet_scale": 2,
+    "pictorial_book_id": 302,
+    "petfree_sort": 9,
+    "pet_bond_id": 102,
+    "pet_reaction": [
+      3003,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10021,
+      1
+    ],
+    "degenerate_pet_id": 3607,
+    "evolution_need_level": 36,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 7,
+        "evolution_need_data1": [
+          3
+        ],
+        "evolution_need_data2": [
+          20
+        ]
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 126,
+    "phy_attack_race": 147,
+    "spe_attack_race": 63,
+    "phy_defence_race": 100,
+    "spe_defence_race": 76,
+    "speed_race": 92,
+    "SUM_race": 625,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "common_enhance": 2500,
+    "fight_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 2,
+    "petpage_ui_percentage": 0.31153,
+    "petpage_capsule_offset": [
+      0.0,
+      -3.0,
+      -1.0
+    ],
+    "handbook_ui_percentage": 0.529601,
+    "pet_ui_percentage": 1.0,
+    "formation_ui_scale": 1.0,
+    "npc_id": 53658,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 75700,
+    "weight_high": 88020,
+    "height_low": 175,
+    "height_high": 192,
+    "pet_classis_id": 6,
+    "break_award_sort": 87,
+    "enjoy_field_type": [
+      20
+    ],
+    "hate_field_type": [
+      20
+    ],
+    "pet_settled_basic_reward": 3000,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_huajianchentieshou.JL_huajianchentieshou'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_huajianchentieshou.JL_huajianchentieshou'",
+    "res_ui_percentage": 0.985,
+    "res_offset": [
+      -3.0,
+      8.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -3.0,
+      8.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MagicAcademy.img_MagicAcademy'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MagicAcademy_NeverSee.img_MagicAcademy_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgMagicAcademy.img_Share_BgMagicAcademy'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_MagicAcademy.img_Bg_MagicAcademy'",
+    "habit_1": "咸水湾",
+    "pet_egg": 107203,
+    "custom_glass_egg_piece": 112203,
+    "egg_group": [
+      7,
+      2
+    ],
+    "stun_resistance": 1,
+    "axial_density": "0.5",
+    "radial_density": "0.25",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 3000,
+    "talent_good_chance": 2500,
+    "talent_amazing_chance": 2500,
+    "talent_perfect_chance": 2000,
+    "pet_track_npc_id": [
+      10635
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710580,
+    "wish_number": 60,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.875,
+    "report_res_offset": [
+      -80.0,
+      30.0
+    ],
+    "card_res_ui_percentage": 1.196063,
+    "card_res_offset": [
+      10.0,
+      20.0
+    ],
+    "talent_random_id": 1002,
+    "audio_config_id": 3609,
+    "falling_resistance": 100,
+    "pet_text": "嗯——!咔咔——!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词表达情况，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8203,
+    "name": "卷毛鸭",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 20,
+    "move_type": "步行",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 2,
+    "pet_scroe": 1500,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3,
+      14
+    ],
+    "show_tag": 67,
+    "ai_group_info_id": 3067,
+    "pet_habitat_group_role_type": 1006,
+    "ecology_feature": [
+      0,
+      11
+    ],
+    "level_skill_conf_id": 3067,
+    "pet_feature": 289102,
+    "pet_chaos_feature": 200213,
+    "pet_glass_feature": 200213,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14062,
+    "description": "身形与洛克近似，空洞的目光仿佛若有所思。头顶的毛发十分柔软，自然卷曲，这在鸭精灵中十分少见。",
+    "pet_scale": 2,
+    "pictorial_book_id": 180,
+    "petfree_sort": 5,
+    "pet_bond_id": 402,
+    "pet_reaction": [
+      4004,
+      1,
+      101
+    ],
+    "pet_takephoto_reaction": [
+      10026,
+      1,
+      101
+    ],
+    "degenerate_pet_id": 3008,
+    "evolution_need_level": 40,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "evolution_need_money": 12000,
+    "evolution_need_items": [
+      {
+        "evolution_need_item": 100005,
+        "number": 1
+      },
+      {
+        "evolution_need_item": 100604,
+        "number": 5
+      }
+    ],
+    "evolution_reward_items": [
+      {
+        "evolution_reward_item": 100009,
+        "reward_number": 15
+      },
+      {
+        "evolution_reward_item": 100003,
+        "reward_number": 1
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 116,
+    "phy_attack_race": 98,
+    "spe_attack_race": 29,
+    "phy_defence_race": 83,
+    "spe_defence_race": 63,
+    "speed_race": 115,
+    "SUM_race": 573,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "fight_enhance": 2500,
+    "evolution_or_not": 1,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 3,
+    "petpage_ui_percentage": 0.461,
+    "petpage_capsule_offset": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "handbook_ui_percentage": 0.7837,
+    "handbook_capsule_offset": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "ui_camera_offset": [
+      0,
+      0,
+      8
+    ],
+    "npc_id": 50409,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 35800,
+    "weight_high": 48060,
+    "height_low": 90,
+    "height_high": 129,
+    "pet_classis_id": 9,
+    "break_award_sort": 5,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "pet_settled_basic_reward": 1400,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_zhuangzhuangya.JL_zhuangzhuangya'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_zhuangzhuangya.JL_zhuangzhuangya'",
+    "res_ui_percentage": 0.95,
+    "res_offset": [
+      -43.0,
+      -11.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -43.0,
+      -11.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Lakeshore.img_Lakeshore'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Lakeshore_NeverSee.img_Lakeshore_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLakeshore.img_Share_BgLakeshore'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lakeshore.img_Bg_Lakeshore'",
+    "habit_1": "月牙湖岸、圣所前哨、叽叽喳喳台地",
+    "pet_egg": 107005,
+    "custom_glass_egg_piece": 112005,
+    "egg_group": [
+      3,
+      5
+    ],
+    "axial_density": "1",
+    "radial_density": "1",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 5000,
+    "talent_good_chance": 2000,
+    "talent_amazing_chance": 1500,
+    "talent_perfect_chance": 1500,
+    "pet_track_npc_id": [
+      10089
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710067,
+    "wish_number": 28,
+    "report_res_ui_percentage": 0.85,
+    "report_res_offset": [
+      20.0,
+      10.0
+    ],
+    "card_res_ui_percentage": 1.370968,
+    "card_res_offset": [
+      10.0,
+      25.0
+    ],
+    "talent_random_id": 1001,
+    "audio_config_id": 3067,
+    "falling_resistance": 100,
+    "pet_text": "嘎嘎~嘎嘎~",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8204,
+    "name": "泥吼牙",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 20,
+    "move_type": "地面",
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 2,
+    "pet_scroe": 1000,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      8,
+      15
+    ],
+    "show_tag": 492,
+    "ai_group_info_id": 3491,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      0
+    ],
+    "level_skill_conf_id": 3491,
+    "pet_feature": 289103,
+    "pet_chaos_feature": 200209,
+    "pet_glass_feature": 200209,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14500,
+    "description": "一口就能吞下比自己还重的淤泥，皮肤表面也有了吸收淤泥的能力，淤泥硬壳能有效保护它们脆弱的骨骼。有的时候不小心把小体型的精灵邻居吸到嘴巴里，会赶紧吐出来，连连道歉。偶尔也会用嘴巴载着小型精灵度过泥潭。",
+    "pet_scale": 2,
+    "pictorial_book_id": 288,
+    "petfree_sort": 6,
+    "pet_bond_id": 701,
+    "pet_reaction": [
+      1002,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10012,
+      1
+    ],
+    "degenerate_pet_id": 3490,
+    "bosspetbase_id_arry": [
+      5057
+    ],
+    "bosspetbase_rule": 2,
+    "bosspetbase_rule_param": [
+      20000024
+    ],
+    "evolution_need_level": 36,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 124,
+    "phy_attack_race": 112,
+    "spe_attack_race": 41,
+    "phy_defence_race": 109,
+    "spe_defence_race": 88,
+    "speed_race": 95,
+    "SUM_race": 554,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "stone_enhance": 2500,
+    "wing_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 2,
+    "petpage_ui_percentage": 0.30527,
+    "handbook_ui_percentage": 0.518959,
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "npc_id": 53540,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 21500,
+    "weight_high": 32500,
+    "height_low": 105,
+    "height_high": 145,
+    "pet_classis_id": 6,
+    "break_award_sort": 87,
+    "enjoy_field_type": [
+      20
+    ],
+    "hate_field_type": [
+      20
+    ],
+    "pet_settled_basic_reward": 3000,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_nihouya.JL_nihouya'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_nihouya.JL_nihouya'",
+    "res_ui_percentage": 0.9,
+    "res_offset": [
+      -11.0,
+      22.0
+    ],
+    "shadow_horizontal_flip_data": 1,
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -11.0,
+      22.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainPollution.img_MountainPollution'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainPollution_NeverSee.img_MountainPollution_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgMountainPollution.img_Share_BgMountainPollution'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_MountainPollution.img_Fg_MountainPollution'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_MountainPollution.img_Bg_MountainPollution'",
+    "habit_1": "叽叽喳喳台地",
+    "pet_egg": 107179,
+    "custom_glass_egg_piece": 112179,
+    "egg_group": [
+      5,
+      3
+    ],
+    "stun_resistance": 1,
+    "axial_density": "0.9",
+    "radial_density": "0.75",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 3000,
+    "talent_good_chance": 2500,
+    "talent_amazing_chance": 2500,
+    "talent_perfect_chance": 2000,
+    "pet_track_npc_id": [
+      10517
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710462,
+    "wish_number": 60,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.75,
+    "report_res_offset": [
+      -40.0,
+      20.0
+    ],
+    "card_res_ui_percentage": 1.209677,
+    "card_res_offset": [
+      -10.0,
+      20.0
+    ],
+    "talent_random_id": 1001,
+    "audio_config_id": 3491,
+    "falling_resistance": 100,
+    "pet_text": "咕噜咕噜!咔嚓咔嚓!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词表达情况，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8205,
+    "name": "蒲公英娃娃",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 20,
+    "move_type": "地面",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 2,
+    "pet_scroe": 1500,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3,
+      16
+    ],
+    "show_tag": 27,
+    "ai_group_info_id": 3027,
+    "pet_habitat_group_role_type": 1007,
+    "ecology_feature": [
+      1,
+      9
+    ],
+    "level_skill_conf_id": 3027,
+    "pet_feature": 289104,
+    "pet_chaos_feature": 200077,
+    "pet_glass_feature": 200077,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14053,
+    "description": "三个可爱的小家伙簇拥着一团轻盈的绒球，绒球的内部构造不得而知。协同发力的话，能够随心所欲地借助风力飞往任何地方。",
+    "pet_scale": 2,
+    "pictorial_book_id": 70,
+    "petfree_sort": 5,
+    "pet_bond_id": 301,
+    "pet_reaction": [
+      3002,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10020,
+      1
+    ],
+    "degenerate_pet_id": 3034,
+    "evolution_need_level": 26,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "evolution_need_money": 12000,
+    "evolution_need_items": [
+      {
+        "evolution_need_item": 100201,
+        "number": 2
+      },
+      {
+        "evolution_need_item": 100301,
+        "number": 5
+      }
+    ],
+    "evolution_reward_items": [
+      {
+        "evolution_reward_item": 100009,
+        "reward_number": 15
+      },
+      {
+        "evolution_reward_item": 100003,
+        "reward_number": 1
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 111,
+    "phy_attack_race": 123,
+    "spe_attack_race": 117,
+    "phy_defence_race": 129,
+    "spe_defence_race": 97,
+    "speed_race": 65,
+    "SUM_race": 582,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "moe_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 2,
+    "petpage_ui_percentage": 0.27283,
+    "handbook_ui_percentage": 0.463811,
+    "pet_ui_percentage": 0.6,
+    "formation_ui_scale": 1.0,
+    "ui_camera_offset": [
+      0,
+      0,
+      20
+    ],
+    "model_height": -100.0,
+    "npc_id": 50369,
+    "appearTime": 1,
+    "world_nature": 4,
+    "world_hide": 3,
+    "mimic_target": 20037,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 300,
+    "weight_high": 1350,
+    "height_low": 70,
+    "height_high": 100,
+    "pet_classis_id": 4,
+    "break_award_sort": 17,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "pet_settled_basic_reward": 2100,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_pugongyingwawa.JL_pugongyingwawa'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_pugongyingwawa.JL_pugongyingwawa'",
+    "res_ui_percentage": 0.78,
+    "res_offset": [
+      -11.0,
+      10.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -11.0,
+      10.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn.img_Share_BgLawn'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_Lawn.img_Fg_Lawn'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lawn.img_Bg_Lawn'",
+    "habit_1": "采邑地、月牙湖岸、挽风屏障",
+    "pet_egg": 107016,
+    "custom_glass_egg_piece": 112016,
+    "egg_group": [
+      8,
+      5
+    ],
+    "axial_density": "1.4",
+    "radial_density": "2",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 5000,
+    "talent_good_chance": 2000,
+    "talent_amazing_chance": 1500,
+    "talent_perfect_chance": 1500,
+    "pet_track_npc_id": [
+      10046
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710027,
+    "wish_number": 42,
+    "report_res_ui_percentage": 0.63,
+    "report_res_offset": [
+      10.0,
+      45.0
+    ],
+    "card_res_ui_percentage": 1.025316,
+    "card_res_offset": [
+      -15.0,
+      50.0
+    ],
+    "talent_random_id": 1002,
+    "audio_config_id": 3027,
+    "falling_resistance": 100,
+    "pet_text": "呼呼~沙沙~",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8206,
+    "name": "格兰球",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 20,
+    "move_type": "步行",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 3,
+    "pet_scroe": 1500,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3
+    ],
+    "show_tag": 74,
+    "ai_group_info_id": 3074,
+    "pet_habitat_group_role_type": 1006,
+    "ecology_feature": [
+      0,
+      9
+    ],
+    "level_skill_conf_id": 3074,
+    "pet_feature": 289105,
+    "pet_chaos_feature": 200087,
+    "pet_glass_feature": 200087,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14078,
+    "description": "格兰球的花瓣持续生长与更替，老化花瓣会化作鳞片般的护甲。护甲上黏附诸多致痒花粉，它们热衷于边笑边蹭其他精灵。但洛克研究学者经观察其表情和动作发现，它们坏笑时鳞片般的护甲会微微张开，让它们更好地传粉。",
+    "pet_scale": 1,
+    "pictorial_book_id": 276,
+    "petfree_sort": 6,
+    "pet_bond_id": 601,
+    "pet_reaction": [
+      4001,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10023,
+      1
+    ],
+    "degenerate_pet_id": 3073,
+    "evolution_need_level": 32,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "evolution_need_money": 50000,
+    "evolution_need_items": [
+      {
+        "evolution_need_item": 100006,
+        "number": 2
+      },
+      {
+        "evolution_need_item": 100606,
+        "number": 5
+      }
+    ],
+    "evolution_reward_items": [
+      {
+        "evolution_reward_item": 100009,
+        "reward_number": 15
+      },
+      {
+        "evolution_reward_item": 100003,
+        "reward_number": 1
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 108,
+    "phy_attack_race": 52,
+    "spe_attack_race": 124,
+    "phy_defence_race": 80,
+    "spe_defence_race": 112,
+    "speed_race": 60,
+    "SUM_race": 582,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 4,
+    "petpage_ui_percentage": 0.383821,
+    "handbook_ui_percentage": 0.652495,
+    "pet_ui_percentage": 0.67,
+    "formation_ui_scale": 1.0,
+    "ui_camera_offset": [
+      0,
+      0,
+      0
+    ],
+    "model_height": -50.0,
+    "show_area": 10003,
+    "npc_id": 50416,
+    "appearTime": 1,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 12500,
+    "weight_high": 16500,
+    "height_low": 81,
+    "height_high": 116,
+    "have_shiny": 1,
+    "belong_season": 1,
+    "pet_classis_id": 4,
+    "break_award_sort": 35,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "pet_settled_basic_reward": 2000,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_gelanqiu.JL_gelanqiu'",
+    "JL_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_gelanqiu_yise.JL_gelanqiu_yise'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_gelanqiu.JL_gelanqiu'",
+    "JL_small_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_gelanqiu_yise.JL_gelanqiu_yise'",
+    "JL_photo_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/HBPhoto/JL_gelanqiu_yise.JL_gelanqiu_yise'",
+    "res_ui_percentage": 0.84,
+    "res_offset": [
+      -50.0,
+      -29.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -2.0,
+      -68.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainForest.img_MountainForest'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainForest_NeverSee.img_MountainForest_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgMountainForest.img_Share_BgMountainForest'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_Lawn.img_Fg_Lawn'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lawn.img_Bg_Lawn'",
+    "habit_1": "挽风屏障、圣所前哨、叽叽喳喳台地",
+    "pet_egg": 107033,
+    "pet_egg_shining": 150714,
+    "custom_glass_egg_piece": 112033,
+    "egg_group": [
+      8,
+      7
+    ],
+    "stun_resistance": 2,
+    "axial_density": "1",
+    "radial_density": "1",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 3000,
+    "talent_good_chance": 2500,
+    "talent_amazing_chance": 2500,
+    "talent_perfect_chance": 2000,
+    "pet_track_npc_id": [
+      10182
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710073,
+    "wish_number": 40,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.75,
+    "report_res_offset": [
+      40.0,
+      -30.0
+    ],
+    "card_res_ui_percentage": 1.209677,
+    "card_res_offset": [
+      -15.0,
+      30.0
+    ],
+    "talent_random_id": 1001,
+    "audio_config_id": 3074,
+    "falling_resistance": 100,
+    "pet_text": "嘿嘿——!沙沙——!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8207,
+    "name": "伊贝粉粉",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 21,
+    "move_type": "步行",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 2,
+    "pet_scroe": 1500,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3
+    ],
+    "show_tag": 44,
+    "ai_group_info_id": 3044,
+    "pet_habitat_group_role_type": 1007,
+    "ecology_feature": [
+      0
+    ],
+    "level_skill_conf_id": 3044,
+    "pet_feature": 289106,
+    "pet_chaos_feature": 200083,
+    "pet_glass_feature": 200083,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14019,
+    "description": "苔藓常把眼睛遮住，因此它对细微动作的反应显得迟钝。若有洛克替它把苔藓梳理开，它会明显变得开心。进食后体型会短暂膨大一圈，随后再慢慢恢复原状。",
+    "pet_scale": 2,
+    "pictorial_book_id": 72,
+    "petfree_sort": 5,
+    "pet_bond_id": 701,
+    "pet_reaction": [
+      1002,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10012,
+      1
+    ],
+    "degenerate_pet_id": 3043,
+    "evolution_need_level": 28,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "evolution_need_money": 12000,
+    "evolution_need_items": [
+      {
+        "evolution_need_item": 100606,
+        "number": 5
+      },
+      {
+        "evolution_need_item": 100301,
+        "number": 2
+      }
+    ],
+    "evolution_reward_items": [
+      {
+        "evolution_reward_item": 100009,
+        "reward_number": 15
+      },
+      {
+        "evolution_reward_item": 100003,
+        "reward_number": 1
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 117,
+    "phy_attack_race": 91,
+    "spe_attack_race": 89,
+    "phy_defence_race": 110,
+    "spe_defence_race": 110,
+    "speed_race": 90,
+    "SUM_race": 557,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "evolution_or_not": 1,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 3,
+    "petpage_ui_percentage": 0.4105,
+    "handbook_ui_percentage": 0.69785,
+    "pet_ui_percentage": 0.6,
+    "formation_ui_scale": 1.0,
+    "ui_camera_offset": [
+      0,
+      0,
+      8
+    ],
+    "npc_id": 50386,
+    "world_nature": 3,
+    "substitute_character": 2,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 9300,
+    "weight_high": 12500,
+    "height_low": 103,
+    "height_high": 147,
+    "have_shiny": 1,
+    "belong_season": 3,
+    "pet_classis_id": 4,
+    "break_award_sort": 21,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "pet_settled_basic_reward": 1400,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_yibeifenfen.JL_yibeifenfen'",
+    "JL_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_yibeifenfen_yise.JL_yibeifenfen_yise'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_yibeifenfen.JL_yibeifenfen'",
+    "JL_small_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_yibeifenfen_yise.JL_yibeifenfen_yise'",
+    "res_ui_percentage": 0.79,
+    "res_offset": [
+      -60.0,
+      16.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      7.0,
+      9.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Lakeshore.img_Lakeshore'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Lakeshore_NeverSee.img_Lakeshore_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLakeshore.img_Share_BgLakeshore'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lakeshore.img_Bg_Lakeshore'",
+    "habit_1": "月牙湖岸",
+    "pet_egg": 107020,
+    "pet_egg_shining": 150770,
+    "custom_glass_egg_piece": 112020,
+    "egg_group": [
+      8,
+      10
+    ],
+    "stun_resistance": 1,
+    "axial_density": "1.4",
+    "radial_density": "2",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 5000,
+    "talent_good_chance": 2000,
+    "talent_amazing_chance": 1500,
+    "talent_perfect_chance": 1500,
+    "pet_track_npc_id": [
+      10066
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710044,
+    "wish_number": 28,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.69,
+    "report_res_offset": [
+      35.0,
+      30.0
+    ],
+    "card_res_ui_percentage": 1.112903,
+    "card_res_offset": [
+      -10.0,
+      87.0
+    ],
+    "talent_random_id": 1001,
+    "audio_config_id": 3044,
+    "falling_resistance": 100,
+    "pet_text": "咕咕~咕咕咕!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
+  },
+  {
+    "id": 8208,
+    "name": "奇丽花",
+    "form": "草系徽章-BOSS专属精灵",
+    "boss_type": 22,
+    "move_type": "步行",
+    "completeness": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 3,
+    "pet_scroe": 1500,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      3
+    ],
+    "show_tag": 31,
+    "ai_group_info_id": 3031,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      0,
+      9
+    ],
+    "level_skill_conf_id": 3031,
+    "pet_feature": 289107,
+    "pet_chaos_feature": 200080,
+    "pet_glass_feature": 200080,
+    "pet_idle_skill": 7000030,
+    "pet_lackenergy_skill": 7000010,
+    "model_conf": 14006,
+    "description": "巨大的花朵盛开了，花瓣像是一顶遮阳帽，粗大的花蕊像触角一样，花朵很好闻，有类似柑橘的香甜气味，对小型精灵有强烈吸引力。",
+    "pet_scale": 2,
+    "pictorial_book_id": 43,
+    "petfree_sort": 6,
+    "pet_bond_id": 402,
+    "pet_reaction": [
+      4004,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10026,
+      1
+    ],
+    "degenerate_pet_id": 3030,
+    "bosspetbase_id": 5005,
+    "bosspetbase_id_arry": [
+      5005
+    ],
+    "bosspetbase_rule": 2,
+    "bosspetbase_rule_param": [
+      20000004
+    ],
+    "evolution_need_level": 32,
+    "evolution_type": 1,
+    "evolution_need": [
+      {
+        "evolution_need_type": 1,
+        "evolution_need_data1": [
+          1
+        ]
+      }
+    ],
+    "evolution_need_money": 50000,
+    "evolution_need_items": [
+      {
+        "evolution_need_item": 100202,
+        "number": 10
+      },
+      {
+        "evolution_need_item": 100101,
+        "number": 5
+      }
+    ],
+    "evolution_reward_items": [
+      {
+        "evolution_reward_item": 100009,
+        "reward_number": 15
+      },
+      {
+        "evolution_reward_item": 100003,
+        "reward_number": 1
+      }
+    ],
+    "base_point_limit": 126,
+    "proportion_male": 5,
+    "nature_ids": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "hp_max_race": 112,
+    "phy_attack_race": 115,
+    "spe_attack_race": 115,
+    "phy_defence_race": 121,
+    "spe_defence_race": 95,
+    "speed_race": 80,
+    "SUM_race": 554,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "grass_enhance": 2500,
+    "base_point_type": 1,
+    "pet_ui_camera_type": 3,
+    "petpage_ui_percentage": 0.320117,
+    "handbook_ui_percentage": 0.544199,
+    "pet_ui_percentage": 0.45,
+    "formation_ui_scale": 1.0,
+    "ui_camera_offset": [
+      0,
+      0,
+      27
+    ],
+    "npc_id": 50373,
+    "appearTime": 1,
+    "world_nature": 1,
+    "substitute_random_skill": 2000,
+    "Catch_Threshold_Bonustime": 1,
+    "Catch_Threshold_Bonus": 10000,
+    "weight_low": 42000,
+    "weight_high": 58000,
+    "height_low": 111,
+    "height_high": 158,
+    "have_shiny": 1,
+    "belong_season": 1,
+    "pet_classis_id": 4,
+    "break_award_sort": 16,
+    "enjoy_field_type": [
+      3,
+      5
+    ],
+    "hate_field_type": [
+      4,
+      9
+    ],
+    "pet_settled_basic_reward": 3000,
+    "grow_x_individuality": 3,
+    "individuality_lower_limit": 7,
+    "individuality_upper_limit": 10,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_qilihua.JL_qilihua'",
+    "JL_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_qilihua_yise.JL_qilihua_yise'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_qilihua.JL_qilihua'",
+    "JL_small_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_qilihua_yise.JL_qilihua_yise'",
+    "JL_photo_shiny_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/HBPhoto/JL_qilihua_yise.JL_qilihua_yise'",
+    "res_ui_percentage": 0.8,
+    "res_offset": [
+      -52.0,
+      -45.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -30.0,
+      -49.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn.img_Share_BgLawn'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_Lawn.img_Fg_Lawn'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Lawn.img_Bg_Lawn'",
+    "Pet_Circadian": 2,
+    "habit_1": "挽风屏障、月牙湖岸、商店街周边",
+    "pet_egg": 107015,
+    "pet_egg_shining": 150705,
+    "custom_glass_egg_piece": 112015,
+    "egg_group": [
+      8
+    ],
+    "stun_resistance": 1,
+    "axial_density": "0.9",
+    "radial_density": "0.75",
+    "team_battle_ai": "MFBT_TeamBattle_star1",
+    "weight_compensation": 1.0,
+    "talent_normal_chance": 3000,
+    "talent_good_chance": 2500,
+    "talent_amazing_chance": 2500,
+    "talent_perfect_chance": 2000,
+    "pet_track_npc_id": [
+      10053
+    ],
+    "pet_track_fail_desc": "由于昼夜或者天气的原因，这只精灵还没有出现哦！",
+    "home_npc_id": 710031,
+    "wish_number": 60,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.7,
+    "report_res_offset": [
+      30.0,
+      0.0
+    ],
+    "card_res_ui_percentage": 1.129032,
+    "card_res_offset": [
+      0.0,
+      37.0
+    ],
+    "talent_random_id": 1002,
+    "audio_config_id": 3031,
+    "falling_resistance": 100,
+    "pet_text": "沙沙——!嘿嘿——!",
+    "pet_style": "精灵无法使用完整语言，只能发出简单音节或拟声词，和个别最简单的表意文字，部分精灵会根据精灵种族特征相关（昆虫嗡嗡、鸟类嘶鸣等）有一些拟声词口癖，会根据通过符号数量（感叹号、破折号）表达情绪强度。",
+    "available_time": "2026-03-26 04:00:00",
+    "season_version": "1.0.0"
   },
   {
     "id": 8701,

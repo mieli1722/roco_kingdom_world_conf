@@ -40,7 +40,7 @@
   {
     "id": 1004,
     "name": "初出茅庐",
-    "info": "<span color=\"#5CA011\">【初出茅庐】</> 我方精灵伤害和减伤效果提升20%",
+    "info": "<span color=\"#5CA011\">【草原守护】</> 我方精灵伤害和减伤效果提升20%",
     "visible": true,
     "battle_effect": [
       80025
@@ -49,7 +49,7 @@
   {
     "id": 1005,
     "name": "初出茅庐",
-    "info": "<span color=\"#5CA011\">【初出茅庐】</> 我方精灵伤害和减伤效果提升10%",
+    "info": "<span color=\"#5CA011\">【草原守护】</> 我方精灵伤害和减伤效果提升10%",
     "visible": true,
     "battle_effect": [
       80026
@@ -67,7 +67,7 @@
   {
     "id": 1007,
     "name": "技能冷却",
-    "info": "<span color=\"#C7494A\">【雨露均沾】</> 所有技能释放后进入4回合冷却",
+    "info": "<span color=\"#C7494A\">【异常冷却】</> 所有技能释放后进入4回合冷却",
     "visible": true,
     "battle_effect": [
       80017
@@ -183,7 +183,7 @@
   {
     "id": 2002,
     "name": "吸能之手",
-    "info": "攻击后偷取目标<span color=\"#5CA011\">2</>能量",
+    "info": "攻击时偷取目标<span color=\"#5CA011\">2</>能量",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [
@@ -449,7 +449,7 @@
   {
     "id": 3005,
     "name": "族群守护",
-    "info": "进入战斗时，随机获得<span color=\"#5CA011\">20</>次奉献效果",
+    "info": "进入战斗时，随机获得<span color=\"#5CA011\">15</>次奉献效果",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/105006.105006'",
     "type": 1,
     "battle_effect": [

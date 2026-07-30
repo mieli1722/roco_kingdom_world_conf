@@ -3022,6 +3022,36 @@
     "property_modify_speed_param_3": 1
   },
   {
+    "id": 60109,
+    "active_type": 1,
+    "vitality_cost": {
+      "min_start": 417,
+      "start_cost": 417
+    },
+    "move_param_1": "9999",
+    "move_param_2": "700",
+    "move_param_3": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Dash_Level2/ride_dash2_curve_9.ride_dash2_curve_9",
+    "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Dash_Level2/ride_dash2_angular_7.ride_dash2_angular_7",
+    "move_param_5": "300",
+    "move_param_6": "0.3",
+    "move_param_7": "0",
+    "move_param_8": "1",
+    "property_modify_speed_param_1": [
+      3
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      -2000
+    ],
+    "property_modify_speed_param_3": 1
+  },
+  {
     "id": 70001,
     "active_type": 3,
     "vitality_cost": {
