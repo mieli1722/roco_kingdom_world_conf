@@ -11520,6 +11520,37 @@
     ]
   },
   {
+    "id": 23287,
+    "name": "状态结束_在群里",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 80,
+        "cond_op": 2,
+        "operand": 1
+      }
+    ]
+  },
+  {
+    "id": 23288,
+    "name": "状态结束_不在群里",
+    "fsm_cond": [
+      {
+        "cond_type": 50,
+        "cond_op": 5,
+        "operand": 2
+      },
+      {
+        "cond_type": 80,
+        "cond_op": 1
+      }
+    ]
+  },
+  {
     "id": 26000,
     "name": "归位_最远距离&时间_加长版",
     "cond_with": 1,

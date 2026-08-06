@@ -53272,6 +53272,162 @@
     "known_description": "经过孵化可以得到“炫彩”外观、“了不起”天分的鸭吉吉（蓬松的样子）。"
   },
   {
+    "id": 151031,
+    "sort_id": 629031,
+    "name": "可立鸡的蛋",
+    "is_release": true,
+    "description": "参与活动「可立鸡大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的可立鸡。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_keliji.egg_keliji'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_keliji.egg_keliji'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3086004
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "可立鸡的蛋",
+    "known_description": "参与活动「可立鸡大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的可立鸡。"
+  },
+  {
+    "id": 151032,
+    "sort_id": 629032,
+    "name": "斑斑的蛋",
+    "is_release": true,
+    "description": "参与活动「斑斑大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的斑斑。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_banban.egg_banban'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_banban.egg_banban'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3534005
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "斑斑的蛋",
+    "known_description": "参与活动「斑斑大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的斑斑。"
+  },
+  {
+    "id": 151033,
+    "sort_id": 629033,
+    "name": "小草虫的蛋",
+    "is_release": true,
+    "description": "参与活动「小草虫大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的小草虫。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_xiaochongcao.egg_xiaochongcao'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_xiaochongcao.egg_xiaochongcao'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3139005
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "小草虫的蛋",
+    "known_description": "参与活动「小草虫大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的小草虫。"
+  },
+  {
+    "id": 151034,
+    "sort_id": 629034,
+    "name": "地鼠的蛋",
+    "is_release": true,
+    "description": "参与活动「地鼠大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的地鼠（枯水期的样子）。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_dishu.egg_dishu'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_dishu.egg_dishu'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3020005
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "地鼠的蛋",
+    "known_description": "参与活动「地鼠大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的地鼠。"
+  },
+  {
+    "id": 151035,
+    "sort_id": 629035,
+    "name": "地鼠的蛋",
+    "is_release": true,
+    "description": "参与活动「地鼠大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的地鼠（储水期的样子）。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_dishu_2.egg_dishu_2'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_dishu_2.egg_dishu_2'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3454005
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "地鼠的蛋",
+    "known_description": "参与活动「地鼠大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的地鼠。"
+  },
+  {
+    "id": 151036,
+    "sort_id": 629036,
+    "name": "豆丁鱼的蛋",
+    "is_release": true,
+    "description": "参与活动「豆丁鱼大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的豆丁鱼。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_yulongbaobao.egg_yulongbaobao'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_yulongbaobao.egg_yulongbaobao'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3384004
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "豆丁鱼的蛋",
+    "known_description": "参与活动「豆丁鱼大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的豆丁鱼。"
+  },
+  {
     "id": 160001,
     "sort_id": 501001,
     "name": "小鱼烧",

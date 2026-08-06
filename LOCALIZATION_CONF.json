@@ -19632,15 +19632,35 @@
   },
   {
     "id": "used_ball_set_button",
-    "msg": "标记为常用"
+    "msg": "常用"
   },
   {
     "id": "used_ball_cancel_button",
-    "msg": "取消标记"
+    "msg": "移除常用"
   },
   {
     "id": "used_ball_set_condition",
-    "msg": "已标记"
+    "msg": "常用"
+  },
+  {
+    "id": "locked_ball_set_button",
+    "msg": "锁定"
+  },
+  {
+    "id": "locked_ball_cancel_button",
+    "msg": "取消锁定"
+  },
+  {
+    "id": "locked_ball_set_condition",
+    "msg": "已锁定"
+  },
+  {
+    "id": "ball_lock_tips",
+    "msg": "该咕噜球已被锁定，仅能在对战中使用"
+  },
+  {
+    "id": "ball_lock_prompt",
+    "msg": "当前咕噜球已被锁定，确定要使用吗？"
   },
   {
     "id": "filter_attribute_list",
@@ -21373,6 +21393,10 @@
   {
     "id": "ERR_ZONE_GRASS_TRIAL_FUSE_SKILL_TIME_LIMIT ",
     "msg": "技能融合次数上限"
+  },
+  {
+    "id": "ERR_ZONE_GRASS_TRIAL_OPERATION_TOO_FAST",
+    "msg": "操作太频繁，请稍后重试"
   },
   {
     "id": "activity_pet_information_pet_txt",
@@ -35527,7 +35551,27 @@
     "msg": "活动积分"
   },
   {
+    "id": "grasstrial_text_24",
+    "msg": "出现了一些小问题，请尝试暂离后重新回到挑战/(ㄒoㄒ)/~~"
+  },
+  {
+    "id": "grasstrial_text_25",
+    "msg": "不能将已融合技能作为材料技能进行融合"
+  },
+  {
     "id": "pet_fruit_search_empty_tips",
     "msg": "未搜索到果实"
+  },
+  {
+    "id": "season_manual_task_type3",
+    "msg": "<span color=\"#7f4dffff\">【每周】</>"
+  },
+  {
+    "id": "challenge_again_teammate_skip",
+    "msg": "有队友跳过了动画"
+  },
+  {
+    "id": "Error_Code_2801",
+    "msg": "每周挑战已更新，请刷新页面后重试"
   }
 ]

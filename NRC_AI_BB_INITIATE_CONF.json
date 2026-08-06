@@ -200718,6 +200718,39 @@
         "blackboard_name": "[BB_Patrol]_Group_Type",
         "annotation": "寻找群组成员，从而倾向群组成员巡逻#1-首领，2-打手，3-小弟，4-宿敌A，5-宿敌B，6-亲友A，7-亲友B",
         "data_type": 1
+      },
+      {
+        "blackboard_name": "[BB_Patrol]_SoftRange",
+        "annotation": "软边界#离开出生点距离超过此数值时倾向于折返。单位为cm",
+        "data_type": 2,
+        "data": 400000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_Patrol]_MovType",
+        "annotation": "移动方式#0-根据配置速度自适应，1-走路，2-奔跑",
+        "data_type": 1,
+        "data": 1
+      },
+      {
+        "blackboard_name": "[BB_Patrol]_StepMax",
+        "annotation": "步长上限#控制单次移动时随机距离的范围。单位为cm",
+        "data_type": 2,
+        "data": 75000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "blackboard_name": "[BB_Patrol]_StepMin",
+        "annotation": "步长下限#单位为cm",
+        "data_type": 2,
+        "data": 30000,
+        "additional_para": [
+          100
+        ]
       }
     ]
   },
@@ -311914,6 +311947,12 @@
         "additional_para": [
           100
         ]
+      },
+      {
+        "blackboard_name": "[BB_PreAttack_Called_ParternerProtect]_Skill",
+        "annotation": "技能ID",
+        "data_type": 1,
+        "data": 1014
       }
     ]
   },
@@ -311961,6 +312000,12 @@
         "additional_para": [
           100
         ]
+      },
+      {
+        "blackboard_name": "[BB_PreAttack_Called_ParternerProtect]_Skill",
+        "annotation": "技能ID",
+        "data_type": 1,
+        "data": 1014
       }
     ]
   },

@@ -468,6 +468,7 @@
     "group_id": 103,
     "chapter_type": 2,
     "chapter_num": 5,
+    "next_chapter": 10306,
     "chapter_name": "幻梦最终话",
     "chapter_story_name": "愿望是果实",
     "chapter_story": "童话集中记载的或许不是真实的愿望，因为有的时候，洛克也不知道自己究竟在追求什么。\n加尔的故事告一段落了，而洛克的故事还在继续——",
@@ -503,5 +504,26 @@
       53506512
     ],
     "unlock_text": "8月7日4:00后开启赛季徽章与奇遇果实章节"
+  },
+  {
+    "id": 10306,
+    "group_id": 103,
+    "chapter_type": 3,
+    "chapter_num": 6,
+    "chapter_name": "幻梦后日谈",
+    "chapter_story_name": "每周挑战",
+    "chapter_story": "8月10日4:00开启特殊章节「每周挑战」。\n完成3个每周挑战课题即可领取章节奖励。\n「每周挑战」会在周一4:00重置课题和章节进度，未领取的奖励会通过邮件补发。",
+    "chapter_picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c05.s3_c05'",
+    "progress_text": "每周进度",
+    "rewards": 19590,
+    "pre_task": 53505009,
+    "tasks": [
+      53506601,
+      53506602,
+      53506603,
+      53506604
+    ],
+    "chapter_finish_task_num": 3,
+    "unlock_text": "8月10日4:00后开启每周挑战章节"
   }
 ]

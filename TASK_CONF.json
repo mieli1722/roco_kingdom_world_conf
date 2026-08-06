@@ -772,6 +772,44 @@
     ]
   },
   {
+    "id": 100018,
+    "name": "【隐藏任务】路易斯商店交互丢失",
+    "task_class": 1,
+    "task_des": "【隐藏任务】路易斯商店交互丢失",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          71008012
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "瞬间完成",
+        "type": 204,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 52,
+        "data1": [
+          1600422
+        ],
+        "data2": [
+          790000002
+        ]
+      }
+    ]
+  },
+  {
     "id": 100300,
     "name": "【内部测试】黑屏case1",
     "task_class": 1,
@@ -157108,6 +157146,43 @@
     "expire_time_param": 3
   },
   {
+    "id": 53505009,
+    "name": "【隐藏】监听到达赛季第26天",
+    "task_class": 2,
+    "paragraph_id": 53505,
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-08-10 04:00:00"
+      },
+      {
+        "type": 2,
+        "data1": [
+          53505004
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "完成任务",
+        "type": 202,
+        "data1": [
+          10
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
+    "expire_time_type": 3,
+    "expire_time_param": 3
+  },
+  {
     "id": 53506101,
     "name": "累计获得200枚<desc_id=2321>幻梦代币</>",
     "task_class": 21,
@@ -158245,6 +158320,108 @@
       {}
     ],
     "Reward": 19570,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 53506601,
+    "name": "通关1次任意难度草系徽章试炼",
+    "task_class": 27,
+    "paragraph_id": 53506,
+    "task_condition": [
+      {
+        "text": "通关1次任意难度草系徽章试炼",
+        "type": 387,
+        "data1": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "MagicManualModuleCmd.OpenMagicManualByIndex",
+        "args": "MMT_BADGE_CHALLENGE"
+      }
+    ],
+    "Reward": 19589,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 53506602,
+    "name": "获得任意炫彩精灵",
+    "task_class": 27,
+    "paragraph_id": 53506,
+    "task_condition": [
+      {
+        "text": "获得任意炫彩精灵",
+        "type": 370,
+        "data2": [
+          8
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 19589,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 53506603,
+    "name": "累计消耗480点<desc_id=2096>契约印记</>",
+    "task_class": 27,
+    "paragraph_id": 53506,
+    "task_condition": [
+      {
+        "text": "累计消耗480点<desc_id=2096>契约印记</>",
+        "type": 316,
+        "data1": [
+          0
+        ],
+        "data2": [
+          16
+        ],
+        "count": 480
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 19589,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 53506604,
+    "name": "累计消费60<desc_id=2072>许愿星</>",
+    "task_class": 27,
+    "paragraph_id": 53506,
+    "task_condition": [
+      {
+        "text": "累计消费60<desc_id=2072>许愿星</>",
+        "type": 316,
+        "data1": [
+          0
+        ],
+        "data2": [
+          3
+        ],
+        "count": 60
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 19589,
     "npc_option": {},
     "peer_available": true,
     "online_process": 3
@@ -164113,7 +164290,8 @@
       {
         "type": 2,
         "data1": [
-          59000325
+          59000325,
+          52080611
         ]
       },
       {
@@ -227379,7 +227557,7 @@
       -65,
       -77
     ],
-    "task_special_structure_dungeon": 120307,
+    "task_special_structure_dungeon": 120306,
     "next_task": [
       80056005
     ],
@@ -258806,7 +258984,8 @@
         "data1": [
           3086,
           3087,
-          3088
+          3088,
+          3089
         ],
         "count": 20
       }
@@ -261210,5 +261389,509 @@
     "online_process": 3,
     "expire_time_type": 2,
     "expire_time_param": 58000009
+  },
+  {
+    "id": 110000692,
+    "name": "捕捉可立鸡家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3086,
+          3087,
+          3088,
+          3089
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000693,
+    "name": "捕捉可立鸡家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3086,
+          3087,
+          3088,
+          3089
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000694,
+    "name": "捕捉可立鸡家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3086,
+          3087,
+          3088,
+          3089
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000695,
+    "name": "捕捉斑斑家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3534,
+          3535
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000696,
+    "name": "捕捉斑斑家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3534,
+          3535
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000697,
+    "name": "捕捉斑斑家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3534,
+          3535
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000698,
+    "name": "捕捉小草虫家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3139,
+          3140,
+          3141
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000699,
+    "name": "捕捉小草虫家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3139,
+          3140,
+          3141
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000700,
+    "name": "捕捉小草虫家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3139,
+          3140,
+          3141
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000701,
+    "name": "捕捉地鼠（枯水期的样子）家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3020,
+          3021,
+          3022
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000702,
+    "name": "捕捉地鼠（枯水期的样子）家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3020,
+          3021,
+          3022
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000703,
+    "name": "捕捉地鼠（枯水期的样子）家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3020,
+          3021,
+          3022
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000704,
+    "name": "捕捉地鼠（储水期的样子）家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3454,
+          3455,
+          3456
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000705,
+    "name": "捕捉地鼠（储水期的样子）家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3454,
+          3455,
+          3456
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000706,
+    "name": "捕捉地鼠（储水期的样子）家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3454,
+          3455,
+          3456
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000707,
+    "name": "捕捉豆丁鱼家族的精灵触发10次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发10次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3384,
+          3385,
+          3386
+        ],
+        "count": 10
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000708,
+    "name": "捕捉豆丁鱼家族的精灵触发20次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发20次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3384,
+          3385,
+          3386
+        ],
+        "count": 20
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000709,
+    "name": "捕捉豆丁鱼家族的精灵触发30次<desc_id=2301>赛季奇遇</>",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "捕捉精灵触发30次<desc_id=2301>赛季奇遇</>",
+        "type": 22,
+        "data1": [
+          117001,
+          117002
+        ],
+        "data2": [
+          3384,
+          3385,
+          3386
+        ],
+        "count": 30
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
   }
 ]
