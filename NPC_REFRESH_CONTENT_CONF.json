@@ -356892,6 +356892,7 @@
   },
   {
     "id": 2400580,
+    "disable": true,
     "refresh_type": 1,
     "refresh_param": 246020001,
     "refresh_rule": 2,
@@ -356908,6 +356909,7 @@
   },
   {
     "id": 2400581,
+    "disable": true,
     "refresh_type": 1,
     "refresh_param": 246020002,
     "refresh_rule": 2,
@@ -356974,6 +356976,7 @@
   },
   {
     "id": 2400585,
+    "version": 2026081301,
     "refresh_type": 1,
     "refresh_param": 246020004,
     "refresh_rule": 2,
@@ -465270,6 +465273,7 @@
   },
   {
     "id": 2606234,
+    "version": 2026080601,
     "refresh_type": 1,
     "refresh_param": 261036566,
     "refresh_rule": 3,
@@ -475448,6 +475452,36 @@
     "npc_id": 610042,
     "survive_time": 158100,
     "lock_on_ground": 1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2650056,
+    "overlap_processing_type": 3,
+    "Application_type": 1,
+    "refresh_type": 1,
+    "refresh_param": 451030185,
+    "refresh_rule": 5,
+    "npc_id": 610043,
+    "lock_on_ground": -1,
+    "model_scale": 100,
+    "voice_percent": [
+      0,
+      100
+    ]
+  },
+  {
+    "id": 2650057,
+    "overlap_processing_type": 3,
+    "Application_type": 1,
+    "refresh_type": 1,
+    "refresh_param": 451030186,
+    "refresh_rule": 5,
+    "npc_id": 610044,
+    "lock_on_ground": -1,
     "model_scale": 100,
     "voice_percent": [
       0,

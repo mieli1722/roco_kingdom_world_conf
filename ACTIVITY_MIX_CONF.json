@@ -3,9 +3,6 @@
     "id": 3400001,
     "must_do_faction_id": 10011,
     "go_faction_option_name": "选择访学方向",
-    "must_do_task": [
-      110000052
-    ],
     "must_do_task_judg": [
       110000052
     ],
@@ -83,9 +80,6 @@
   },
   {
     "id": 3400004,
-    "must_do_task": [
-      59000615
-    ],
     "must_do_task_judg": [
       59000615
     ],
@@ -202,6 +196,201 @@
         "option_id": 2005,
         "red_point_id": 215,
         "red_point_rule": "1600023;4900001;4900002;4900003"
+      }
+    ]
+  },
+  {
+    "id": 6700001,
+    "slot_group": [
+      {
+        "slot": 1,
+        "slot_des": "满足条件可获得<span color=\"#42a7cc\">水蓝蓝家族</>的赠礼",
+        "slot_function_type": 12,
+        "param": 3002,
+        "params": [
+          3002
+        ]
+      },
+      {
+        "slot": 2,
+        "slot_des": "水蓝蓝家族任一亲密度达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000551
+        ]
+      },
+      {
+        "slot": 3,
+        "option_id": 37,
+        "slot_function_type": 10,
+        "params": [
+          110000550,
+          110000551
+        ]
+      },
+      {
+        "slot": 4,
+        "option_id": 36,
+        "slot_function_type": 3,
+        "params": [
+          110000553,
+          4,
+          36
+        ]
+      },
+      {
+        "slot": 5,
+        "slot_function_type": 19,
+        "params": [
+          200000025
+        ]
+      },
+      {
+        "slot": 6,
+        "slot_function_type": 3,
+        "params": [
+          110000554
+        ]
+      },
+      {
+        "slot": 7,
+        "slot_des": "水蓝蓝家族任一成长星级达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000550
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6700002,
+    "slot_group": [
+      {
+        "slot": 1,
+        "slot_des": "满足条件可获得<span color=\"#d56c1f\">火花家族</>的赠礼",
+        "slot_function_type": 12,
+        "param": 3003,
+        "params": [
+          3003
+        ]
+      },
+      {
+        "slot": 2,
+        "slot_des": "火花家族任一亲密度达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000556
+        ]
+      },
+      {
+        "slot": 3,
+        "option_id": 37,
+        "slot_function_type": 10,
+        "params": [
+          110000555,
+          110000556
+        ]
+      },
+      {
+        "slot": 4,
+        "option_id": 36,
+        "slot_function_type": 3,
+        "params": [
+          110000558,
+          4,
+          36
+        ]
+      },
+      {
+        "slot": 5,
+        "slot_function_type": 19,
+        "params": [
+          200000026
+        ]
+      },
+      {
+        "slot": 6,
+        "slot_function_type": 3,
+        "params": [
+          110000559
+        ]
+      },
+      {
+        "slot": 7,
+        "slot_des": "火花家族任一成长星级达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000555
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6700003,
+    "slot_group": [
+      {
+        "slot": 1,
+        "slot_des": "满足条件可获得<span color=\"#73c615\">喵喵家族</>的赠礼",
+        "slot_function_type": 12,
+        "param": 3001,
+        "params": [
+          3001
+        ]
+      },
+      {
+        "slot": 2,
+        "slot_des": "喵喵家族任一亲密度达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000561
+        ]
+      },
+      {
+        "slot": 3,
+        "option_id": 37,
+        "slot_function_type": 10,
+        "params": [
+          110000560,
+          110000561
+        ]
+      },
+      {
+        "slot": 4,
+        "option_id": 36,
+        "slot_function_type": 3,
+        "params": [
+          110000563,
+          4,
+          36
+        ]
+      },
+      {
+        "slot": 5,
+        "slot_function_type": 19,
+        "params": [
+          200000027
+        ]
+      },
+      {
+        "slot": 6,
+        "slot_function_type": 3,
+        "params": [
+          110000564
+        ]
+      },
+      {
+        "slot": 7,
+        "slot_des": "喵喵家族任一成长星级达到5级",
+        "option_id": 3001,
+        "slot_function_type": 13,
+        "params": [
+          110000560
+        ]
       }
     ]
   },

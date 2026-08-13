@@ -4416,6 +4416,24 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_haidilao1_png.img_haidilao1_png'"
   },
   {
+    "id": 2600064,
+    "activity_type": 26,
+    "base_id": [
+      2600080
+    ],
+    "activity_name": "结伴同行，一起快洛",
+    "prompt_text": "结伴同行，旅途更添乐趣\n邀请好友注册领「爱心炫彩蛋」\n共赴精灵大世界冒险！",
+    "activity_txt": "结伴同行，邀请好友共赴精灵大世界冒险！\n活动分为邀请人和被邀请人，具体规则如下:\n\n<span color=\"#d56c1f\">邀请人活动说明</>\n活动期间，邀请好友注册/回归，满足条件后即可领取对应奖励：\n· 满足邀请注册条件可领取集结专属礼包，每人最多可领取3份奖励，成功邀请3位好友达成注册条件还可额外解锁完美集结礼「爱心炫彩蛋×1」；\n· 满足邀请回归条件可领取同行专属礼包，每人最多可领取3份奖励。\n\n<span color=\"#d56c1f\">被邀请人活动说明</>\n活动期间，与邀请人完成绑定，满足条件后即可领取对应注册/回归奖励：\n· 新用户：在未注册状态下与好友绑定，达成对应条件可领取专属注册礼包及红包奖励，红包数量有限，同一设备/IP仅限领取1次，先到先得，发完即止；\n· 回归用户：满足回归条件的用户通过该活动页面与好友绑定后回归游戏，可领取回归专属礼包。",
+    "appear_time": "2026-08-18 04:00:00",
+    "disappear_time": "2026-09-10 03:59:59",
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 50,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Referral.UMG_Activity_Referral_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing2_png.img_tongxing2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing1_png.img_tongxing1_png'"
+  },
+  {
     "id": 2700003,
     "activity_type": 27,
     "base_id": [
@@ -4549,6 +4567,21 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
+  },
+  {
+    "id": 2701003,
+    "activity_type": 27,
+    "base_id": [
+      2701003
+    ],
+    "activity_name": "潮汐集市-浪花币额外掉落",
+    "appear_time": "2026-08-21 04:00:00",
+    "disappear_time": "2026-09-11 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1
   },
   {
     "id": 2800001,
@@ -5178,7 +5211,7 @@
     "world_level_required": 1,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 480,
+    "priority": 40,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonSign.UMG_Activity_SeasonSign_C'",
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijiqiandao_xueying_bg1.img_saijiqiandao_xueying_bg1'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian2_png.img_zigeliebian2_png'",
@@ -6235,7 +6268,7 @@
     ],
     "activity_name": "夏日潮汐集市",
     "prompt_text": "潮汐集市，价随浪走，欢迎来买",
-    "activity_txt": "<span color=\"#d56c1f\">集市规则</>\n每位小洛克的世界中设有三个摊位。每日04:00同步刷新物资价格，三个摊位售卖的物资品类相同，但同一种物资在不同摊位的售价可能存在差异——记得货比三家！\n\n<span color=\"#d56c1f\">交易机制</>\n价格规则：同一摊位内，物资的买入价与卖出价相同。在低价摊位买入、再前往高价摊位卖出，即可赚取差价。\n互访交易：前往其他小洛克的世界，在其摊位中也能进行同样的低买高卖操作。\n购买限制：每日购买设有总次数上限（随集市等级提升而增加），每日04:00重置。无论在自己世界还是其他小洛克的世界，购买次数均计入每日总上限。卖出不限次数。\n\n<span color=\"#d56c1f\">商品波动提示</>\n·低波动：风平浪静，每日价格小幅浮动\n·中低波动：小浪微涌，每日价格有所起伏\n·中波动：浪花翻卷，每日价格波动明显\n·高波动：波涛汹涌，每日价格大幅震荡\n每日商品价格均在前一日价格的基础上产生波动。\n潮汐有涨落，价格有翻涌，买卖需谨慎。\n\n<span color=\"#d56c1f\">集市升级</>\n购买任意物资，每件可获得 6 建设值。卖出任意物资，每件可获得 1 建设值。\n当建设值攒够一定数量，潮汐集市就会升级。从 2 级到 9 级，分别需要 100、300、700、1000、1500、2000、3000、6000 集市建设值。\n集市升级后，<span color=\"#d56c1f\">每天可购买的数量上限</>会提高，<span color=\"#d56c1f\">可交易的物资品类</>也会变多。此外，每次升级都能手动领取一份升级奖励，记得及时去领喔～\n\n<span color=\"#d56c1f\">浪花币补给</>\n启动资金：活动开始时，每位小洛克获得20000浪花币\n每日基础补给：1200浪花币\n每日串门分红：前一日有其他小洛克来到我的世界交易，次日可额外获得分红：\n·单件成交分红：50浪花币\n·单名访客每日上限：500浪花币\n·每日分红总计上限：600浪花币\n\n<span color=\"#d56c1f\">兑奖处</>\n浪花币可在兑奖处兑换奖品。\n奖品需要一定运输时间，预计于2026-08-28 04:00送达。送达前可先查看样品，但样品仅供预览，暂不支持兑换。\n潮汐集市结束后，兑奖处将延长开放7天（关闭时间：2026-09-18 03:59），记得在关闭前兑换奖励，不要错过哦～\n\n<span color=\"#d56c1f\">物资包回收</>\n潮汐集市结束后，未卖出的物资包将由系统按500浪花币进行回收。\n记得在活动结束前主动交易，避免损失哦～",
+    "activity_txt": "<span color=\"#d56c1f\">集市规则</>\n每位小洛克的世界中设有三个摊位。每日04:00同步刷新物资价格，三个摊位售卖的物资品类相同，但同一种物资在不同摊位的售价可能存在差异——记得货比三家！\n\n<span color=\"#d56c1f\">交易机制</>\n价格规则：同一摊位内，物资的买入价与卖出价相同。在低价摊位买入、再前往高价摊位卖出，即可赚取差价。\n互访交易：前往其他小洛克的世界，在其摊位中也能进行同样的低买高卖操作。\n购买限制：每日购买设有总次数上限（随集市等级提升而增加），每日04:00重置。无论在自己世界还是其他小洛克的世界，购买次数均计入每日总上限。卖出不限次数。\n\n<span color=\"#d56c1f\">商品波动提示</>\n·低波动：风平浪静，每日价格小幅浮动\n·中低波动：小浪微涌，每日价格有所起伏\n·中波动：浪花翻卷，每日价格波动明显\n·高波动：波涛汹涌，每日价格大幅震荡\n每日商品价格均在前一日价格的基础上产生波动。\n潮汐有涨落，价格有翻涌，买卖需谨慎。\n\n<span color=\"#d56c1f\">集市升级</>\n购买任意物资，每件可获得 6 建设值。卖出任意物资，每件可获得 1 建设值。\n当建设值攒够一定数量，潮汐集市就会升级。从 2 级到 9 级，分别需要 100、300、700、1000、1500、2000、3000、6000 集市建设值。\n集市升级后，<span color=\"#d56c1f\">每天可购买的数量上限</>会提高，<span color=\"#d56c1f\">可交易的物资品类</>也会变多。此外，每次升级都能手动领取一份升级奖励，记得及时去领喔～\n\n<span color=\"#d56c1f\">浪花币补给</>\n启动资金：活动开始时，每位小洛克获得20000浪花币\n每日基础补给：1200浪花币\n每日串门分红：前一日有其他小洛克来到我的世界交易，次日可额外获得分红：\n·单件成交分红：50浪花币\n·单名访客每日上限：500浪花币\n·每日分红总计上限：600浪花币\n额外掉落：成功捕捉精灵后，有99%的概率获得1浪花币（每日获取上限为9999浪花币）\n\n<span color=\"#d56c1f\">兑奖处</>\n浪花币可在兑奖处兑换奖品。\n奖品需要一定运输时间，预计于2026-08-28 04:00送达。送达前可先查看样品，但样品仅供预览，暂不支持兑换。\n潮汐集市结束后，兑奖处将延长开放7天（关闭时间：2026-09-18 03:59），记得在关闭前兑换奖励，不要错过哦～\n\n<span color=\"#d56c1f\">物资包回收</>\n潮汐集市结束后，未卖出的物资包将由系统按500浪花币进行回收。\n记得在活动结束前主动交易，避免损失哦～",
     "appear_time": "2026-08-21 04:00:00",
     "disappear_time": "2026-09-11 03:59:59",
     "world_level_required": 1,
@@ -6323,6 +6356,35 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_CarnivalHorrorTales.UMG_Activity_CarnivalHorrorTales_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci2_png.img_saijichongci2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
+  },
+  {
+    "id": 6700001,
+    "activity_type": 67,
+    "base_id": [
+      6700001,
+      6700002,
+      6700003
+    ],
+    "type_param": [
+      3002,
+      3003,
+      3001
+    ],
+    "activity_name": "写给相遇的诗",
+    "prompt_text": "阳光刚刚好的午后\n精灵捧着一份小小的礼物\n想送给一起看云的你",
+    "activity_txt": "最初牵起的那只小手，已陪你走了好长一段路。这是一份小小的纪念，请您收下吧~\n\n<span color=\"#d56c1f\">活动规则</>\n初始选择的精灵中，任一精灵<span color=\"#d56c1f\">成长星级或亲密度达到5级</>，即可前往噜噜处领取属于你们的专属奖励。\n\n<span color=\"#d56c1f\">如何提升精灵成长星级</>\n打开「精灵」页面，找到精灵，选择「精灵成长」，即可消耗材料提升精灵成长等级和成长星级。\n\n<span color=\"#d56c1f\">如何提升精灵亲密度</>\n将精灵放出陪伴在身边，点击带有精灵名字的按钮，即可看到当前的亲密度等级与经验值。小洛克可通过以下方式提升精灵亲密度：\n· 并肩作战：与精灵一同战斗，并取得胜利，把每一场胜利都收入回忆\n· 结伴探索：在大世界中采集矿石、摇晃果树、开启宝箱……处处都是惊喜\n· 亲昵互动：摸摸精灵的头、送上一份小礼物，让你们的距离悄悄拉近\n· 共筑小家：家园内投喂精灵，与精灵一起浇水、施肥，打造温馨小屋\n\n<span color=\"#d56c1f\">温馨提示</>\n满足条件的精灵需要<span color=\"#d56c1f\">当前仍在你身边</>，已放生的精灵将无法计入完成进度。",
+    "appear_time": "2026-08-14 04:00:00",
+    "disappear_time": "2026-08-28 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 50,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_GosankeGiftGivingEvent.UMG_Activity_GosankeGiftGivingEvent_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_GosankeGiftGivingEventItem2_png.img_GosankeGiftGivingEventItem2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_GosankeGiftGivingEventItem1_png.img_GosankeGiftGivingEventItem1_png'",
+    "refresh_event_group": [
+      {}
+    ]
   },
   {
     "id": 50000001,

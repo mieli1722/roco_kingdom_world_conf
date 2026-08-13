@@ -250692,9 +250692,20 @@
     "npc_option": {},
     "accept_action": [
       {
-        "type": 10,
+        "type": 52,
         "data1": [
-          600112
+          2606234
+        ],
+        "data2": [
+          210065
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2606234
         ],
         "data2": [
           210065
@@ -261069,6 +261080,862 @@
     "npc_option": {},
     "peer_available": true,
     "online_process": 3
+  },
+  {
+    "id": 110000550,
+    "name": "水蓝蓝家族任一成长星级达到5级",
+    "task_class": 1,
+    "paragraph_id": 52982,
+    "next_task": [
+      110000552
+    ],
+    "task_condition": [
+      {
+        "text": "水蓝蓝家族任一成长星级达到5级",
+        "type": 212,
+        "data1": [
+          2
+        ],
+        "data2": [
+          2
+        ],
+        "data3": [
+          5
+        ],
+        "data4": "id",
+        "data5": "3002;3005;3033",
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000551,
+    "name": "水蓝蓝家族任一亲密度达到5级",
+    "task_class": 1,
+    "paragraph_id": 52982,
+    "next_task": [
+      110000552
+    ],
+    "task_condition": [
+      {
+        "text": "水蓝蓝家族任一亲密度达到5级",
+        "type": 391,
+        "data1": [
+          3002,
+          3005,
+          3033
+        ],
+        "data2": [
+          5
+        ],
+        "count": 5,
+        "count_operate": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000552,
+    "name": "条件判断（隐藏任务）",
+    "task_class": 1,
+    "paragraph_id": 52982,
+    "show": 1,
+    "task_condition": [
+      {
+        "text": "条件判断（隐藏任务）",
+        "type": 207,
+        "data1": [
+          110000550,
+          110000551
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650056
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000553,
+    "name": "与噜噜对话",
+    "task_class": 1,
+    "paragraph_id": 52982,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000552
+        ]
+      }
+    ],
+    "next_task": [
+      110000554
+    ],
+    "task_condition": [
+      {
+        "text": "与噜噜对话",
+        "type": 308,
+        "data1": [
+          590002675
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650056
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000554,
+    "name": "打开箱子",
+    "task_class": 1,
+    "paragraph_id": 52982,
+    "task_condition": [
+      {
+        "text": "打开箱子",
+        "type": 308,
+        "data1": [
+          590002685
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650057
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002685
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002685
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002680
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000555,
+    "name": "火花家族任一成长星级达到5级",
+    "task_class": 1,
+    "paragraph_id": 52983,
+    "next_task": [
+      110000557
+    ],
+    "task_condition": [
+      {
+        "text": "火花家族任一成长星级达到5级",
+        "type": 212,
+        "data1": [
+          2
+        ],
+        "data2": [
+          2
+        ],
+        "data3": [
+          5
+        ],
+        "data4": "id",
+        "data5": "3003;3006;3032",
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000556,
+    "name": "火花家族任一亲密度达到5级",
+    "task_class": 1,
+    "paragraph_id": 52983,
+    "next_task": [
+      110000557
+    ],
+    "task_condition": [
+      {
+        "text": "火花家族任一亲密度达到5级",
+        "type": 391,
+        "data1": [
+          3003,
+          3006,
+          3032
+        ],
+        "data2": [
+          5
+        ],
+        "count": 5,
+        "count_operate": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000557,
+    "name": "条件判断（隐藏任务）",
+    "task_class": 1,
+    "paragraph_id": 52983,
+    "show": 1,
+    "task_condition": [
+      {
+        "text": "条件判断（隐藏任务）",
+        "type": 207,
+        "data1": [
+          110000555,
+          110000556
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650056
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000558,
+    "name": "与噜噜对话",
+    "task_class": 1,
+    "paragraph_id": 52983,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000557
+        ]
+      }
+    ],
+    "next_task": [
+      110000559
+    ],
+    "task_condition": [
+      {
+        "text": "与噜噜对话",
+        "type": 308,
+        "data1": [
+          590002675
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650056
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000559,
+    "name": "打开箱子",
+    "task_class": 1,
+    "paragraph_id": 52983,
+    "task_condition": [
+      {
+        "text": "打开箱子",
+        "type": 308,
+        "data1": [
+          590002690
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650057
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002690
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002690
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002680
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000560,
+    "name": "喵喵家族任一成长星级达到5级",
+    "task_class": 1,
+    "paragraph_id": 52984,
+    "next_task": [
+      110000562
+    ],
+    "task_condition": [
+      {
+        "text": "喵喵家族任一成长星级达到5级",
+        "type": 212,
+        "data1": [
+          2
+        ],
+        "data2": [
+          2
+        ],
+        "data3": [
+          5
+        ],
+        "data4": "id",
+        "data5": "3001;3007;3025",
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000561,
+    "name": "喵喵家族任一亲密度达到5级",
+    "task_class": 1,
+    "paragraph_id": 52984,
+    "next_task": [
+      110000562
+    ],
+    "task_condition": [
+      {
+        "text": "喵喵家族任一亲密度达到5级",
+        "type": 391,
+        "data1": [
+          3001,
+          3007,
+          3025
+        ],
+        "data2": [
+          5
+        ],
+        "count": 5,
+        "count_operate": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3
+  },
+  {
+    "id": 110000562,
+    "name": "条件判断（隐藏任务）",
+    "task_class": 1,
+    "paragraph_id": 52984,
+    "show": 1,
+    "task_condition": [
+      {
+        "text": "条件判断（隐藏任务）",
+        "type": 207,
+        "data1": [
+          110000560,
+          110000561
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650056
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000563,
+    "name": "与噜噜对话",
+    "task_class": 1,
+    "paragraph_id": 52984,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000562
+        ]
+      }
+    ],
+    "next_task": [
+      110000564
+    ],
+    "task_condition": [
+      {
+        "text": "与噜噜对话",
+        "type": 308,
+        "data1": [
+          590002675
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650056
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002670
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002675
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000564,
+    "name": "打开箱子",
+    "task_class": 1,
+    "paragraph_id": 52984,
+    "task_condition": [
+      {
+        "text": "打开箱子",
+        "type": 308,
+        "data1": [
+          590002695
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          2650057
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002695
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          2650057
+        ],
+        "data2": [
+          590002695
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2650057
+        ]
+      },
+      {
+        "type": 53,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002676
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          2650056
+        ],
+        "data2": [
+          590002680
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 110000565,
+    "name": "【隐藏任务】删除噜噜和手提箱",
+    "task_class": 18,
+    "task_des": "【隐藏任务】删除噜噜和手提箱",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-08-28 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "【隐藏任务】删除噜噜和手提箱",
+        "type": 203,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          2650056,
+          2650057
+        ]
+      }
+    ]
   },
   {
     "id": 110000608,

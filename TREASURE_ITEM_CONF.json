@@ -402,8 +402,13 @@
       {
         "Id": 310061,
         "Count": 1
+      },
+      {
+        "Id": 310063,
+        "Count": 1
       }
-    ]
+    ],
+    "if_last_safety_net": true
   },
   {
     "id": 2007,
@@ -421,6 +426,29 @@
         "Count": 1
       }
     ]
+  },
+  {
+    "id": 2008,
+    "umg_path": "FashionRewardSelect",
+    "choose_item_group": [
+      {
+        "Id": 310098,
+        "Count": 1
+      },
+      {
+        "Id": 310099,
+        "Count": 1
+      },
+      {
+        "Id": 310100,
+        "Count": 1
+      },
+      {
+        "Id": 310063,
+        "Count": 1
+      }
+    ],
+    "if_last_safety_net": true
   },
   {
     "id": 3001,

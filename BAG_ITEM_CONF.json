@@ -96119,6 +96119,30 @@
     "item_quality": 5
   },
   {
+    "id": 310063,
+    "sort_id": 104102,
+    "name": "许愿星兑换",
+    "is_release": true,
+    "description": "魔法师们正在收集的特殊货币。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100870.100870'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100870.100870'",
+    "TUIbutton_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100870.100870'",
+    "lable_type": 3,
+    "type_desc": "珍稀货币",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200200137,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5
+  },
+  {
     "id": 310064,
     "sort_id": 104104,
     "name": "光辉印记包挂饰",
@@ -96795,6 +96819,103 @@
         "acquire_way_text": "运营活动获得"
       }
     ]
+  },
+  {
+    "id": 310097,
+    "sort_id": 103004,
+    "name": "初心的继承者兑换券",
+    "is_release": true,
+    "description": "「初心的继承者」时装自选礼券，打开后可从三套时装中选择一件。\n未使用的兑换券会自动存入背包，可随时前往使用。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100907.100907'",
+    "lable_type": 3,
+    "type_desc": "时装兑换券",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 14,
+        "ratio": [
+          2008
+        ]
+      }
+    ],
+    "can_stack": 1,
+    "item_quality": 5
+  },
+  {
+    "id": 310098,
+    "sort_id": 104101,
+    "name": "初心的继承者-水灵印象",
+    "is_release": true,
+    "description": "可获得水灵印象",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "TUIbutton_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "lable_type": 3,
+    "type_desc": "套装",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200100037,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5
+  },
+  {
+    "id": 310099,
+    "sort_id": 104102,
+    "name": "初心的继承者-火神印象",
+    "is_release": true,
+    "description": "可获得火神印象",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "TUIbutton_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "lable_type": 3,
+    "type_desc": "套装",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200100038,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5
+  },
+  {
+    "id": 310100,
+    "sort_id": 104103,
+    "name": "初心的继承者-魔力猫印象",
+    "is_release": true,
+    "description": "可获得魔力猫印象",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "TUIbutton_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100907.100907'",
+    "lable_type": 3,
+    "type_desc": "套装",
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200100039,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5
   },
   {
     "id": 320006,

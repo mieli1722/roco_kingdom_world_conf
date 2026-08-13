@@ -363061,6 +363061,27 @@
     ]
   },
   {
+    "id": 88000013,
+    "Name": "星光对决-追加奖励",
+    "Type": 1,
+    "DisplayName": "星光对决-追加奖励",
+    "Description": "星光对决-追加奖励",
+    "RewardItem": [
+      {
+        "Type": 2,
+        "Id": 77,
+        "Count": 5,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "id": 88000101,
     "Name": "对战剪影-通关奖励-1",
     "Type": 1,
@@ -378148,6 +378169,219 @@
     ]
   },
   {
+    "id": 200000025,
+    "Name": "写给相遇的诗-水蓝蓝奖励",
+    "Type": 1,
+    "Icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100725.100725'",
+    "DisplayName": "写给相遇的诗-水蓝蓝奖励",
+    "Description": "写给相遇的诗-水蓝蓝奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 13,
+        "Id": 1001016,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 15,
+        "Id": 3027,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 30,
+        "Id": 147,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 310097,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100723,
+        "Count": 20,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000026,
+    "Name": "写给相遇的诗-火花奖励",
+    "Type": 1,
+    "Icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100725.100725'",
+    "DisplayName": "写给相遇的诗-火花奖励",
+    "Description": "写给相遇的诗-火花奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 13,
+        "Id": 1001015,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 15,
+        "Id": 3026,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 30,
+        "Id": 149,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 310097,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100723,
+        "Count": 20,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000027,
+    "Name": "写给相遇的诗-喵喵奖励",
+    "Type": 1,
+    "Icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100725.100725'",
+    "DisplayName": "写给相遇的诗-喵喵奖励",
+    "Description": "写给相遇的诗-喵喵奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 13,
+        "Id": 1001017,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 15,
+        "Id": 3028,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 30,
+        "Id": 148,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 310097,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100723,
+        "Count": 20,
+        "DropWeight": [
+          1,
+          101,
+          1000,
+          100,
+          1
+        ]
+      }
+    ]
+  },
+  {
     "id": 200000041,
     "Name": "国际森林日-奖励",
     "Type": 2,
@@ -384788,6 +385022,75 @@
     ]
   },
   {
+    "id": 200000233,
+    "Name": "Q币拉新活动奖励",
+    "Type": 1,
+    "DisplayName": "Q币拉新活动奖励",
+    "Description": "Q币拉新活动奖励",
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 600002,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 2,
+        "Id": 1,
+        "Count": 12000000,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100653,
+        "Count": 12,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100736,
+        "Count": 3,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100723,
+        "Count": 15,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "id": 200000247,
     "Name": "记忆中的肤色-蓝色",
     "Type": 1,
@@ -385399,6 +385702,105 @@
       {
         "Type": 1,
         "Id": 108061,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200100037,
+    "Name": "初心守护者-水蓝蓝印象",
+    "Type": 1,
+    "DisplayName": "初心守护者-水蓝蓝印象",
+    "Description": "初心守护者-水蓝蓝印象",
+    "RewardItem": [
+      {
+        "Type": 23,
+        "Id": 209,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 23,
+        "Id": 210,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200100038,
+    "Name": "初心守护者-火花印象",
+    "Type": 1,
+    "DisplayName": "初心守护者-火花印象",
+    "Description": "初心守护者-火花印象",
+    "RewardItem": [
+      {
+        "Type": 23,
+        "Id": 207,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 23,
+        "Id": 208,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200100039,
+    "Name": "初心守护者-喵喵印象",
+    "Type": 1,
+    "DisplayName": "初心守护者-喵喵印象",
+    "Description": "初心守护者-喵喵印象",
+    "RewardItem": [
+      {
+        "Type": 23,
+        "Id": 205,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 23,
+        "Id": 206,
         "Count": 1,
         "DropWeight": [
           1,
@@ -386398,6 +386800,26 @@
         "Type": 15,
         "Id": 3031,
         "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200200137,
+    "Name": "许愿星",
+    "Type": 1,
+    "DisplayName": "许愿星",
+    "RewardItem": [
+      {
+        "Type": 2,
+        "Id": 3,
+        "Count": 195,
         "DropWeight": [
           1,
           101,

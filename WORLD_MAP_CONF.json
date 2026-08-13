@@ -13341,6 +13341,35 @@
     "dungeon_title_bg": "img_jinglingdashishangdian_png.img_jinglingdashishangdian_png"
   },
   {
+    "id": 910031,
+    "map_show_type": 1,
+    "npc_refresh_ids": [
+      2650056
+    ],
+    "auto_explored_area": 15,
+    "unexplored_in_compass": 1,
+    "explored_in_compass": 1,
+    "unexplored_in_minimap": 1,
+    "explored_in_minimap": 1,
+    "h_detection_range": "h_drange_DropBy",
+    "v_detection_range": "v_drange_DropBy",
+    "unexplored_in_map": 1,
+    "explored_in_map": 1,
+    "npcicon_unlock": "img_GosankeGiftGivingEvent_png.img_GosankeGiftGivingEvent_png",
+    "teleport_rule_id": 5,
+    "map_func_icon_group": 2,
+    "element_show_scale": 4,
+    "lock_element_show_top": 1,
+    "unlock_element_show_top": 1,
+    "map_tips_show_type": 2,
+    "element_text_name": "噜噜",
+    "world_map_NPCicon_des": "img_GosankeGiftGivingEvent_png.img_GosankeGiftGivingEvent_png",
+    "worldmap_npc_des": "噜噜正在这里等你，好像有话想跟你说咕，快去看看吧~",
+    "picked_mark_tips_icon": "img_GosankeGiftGivingEvent_png.img_GosankeGiftGivingEvent_png",
+    "unpicked_mark_tips_icon": "img_GosankeGiftGivingEvent_png.img_GosankeGiftGivingEvent_png",
+    "is_hide_init": true
+  },
+  {
     "id": 910032,
     "map_show_type": 1,
     "npc_refresh_ids": [
@@ -14138,7 +14167,7 @@
   },
   {
     "id": 4100009,
-    "map_show_type": 3,
+    "map_show_type": 1,
     "npc_refresh_ids": [
       4100009
     ],
@@ -14149,6 +14178,7 @@
     "explored_in_minimap": 1,
     "h_detection_range": "h_drange_DropBy",
     "v_detection_range": "v_drange_DropBy",
+    "unexplored_in_map": 1,
     "explored_in_map": 1,
     "npcicon_unlock": "img_pvp_RandomJinling_png.img_pvp_RandomJinling_png",
     "teleport_id": 1002,
@@ -14161,7 +14191,7 @@
   },
   {
     "id": 4100012,
-    "map_show_type": 3,
+    "map_show_type": 1,
     "npc_refresh_ids": [
       4100012
     ],
@@ -14172,6 +14202,7 @@
     "explored_in_minimap": 1,
     "h_detection_range": "h_drange_DropBy",
     "v_detection_range": "v_drange_DropBy",
+    "unexplored_in_map": 1,
     "explored_in_map": 1,
     "npcicon_unlock": "img_pvp_RandomJinling_png.img_pvp_RandomJinling_png",
     "teleport_id": 1002,
