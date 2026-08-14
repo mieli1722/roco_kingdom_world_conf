@@ -103111,6 +103111,40 @@
     "known_description": "蕴含着难以捉摸的魔力，必定孵化出“慈悲为怀”特长、“了不起”天分的精灵。"
   },
   {
+    "id": 600012,
+    "sort_id": 606002,
+    "name": "无畏炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“无畏”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          5
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "无畏炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“无畏”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
     "id": 702036,
     "name": "【测试】奇异秘药--抓挠",
     "description": "内测道具，定向获得技能：抓挠",
