@@ -103145,6 +103145,584 @@
     "known_description": "蕴含着难以捉摸的魔力，必定孵化出“无畏”特长、“炫彩”外观、“了不起”天分的精灵。"
   },
   {
+    "id": 600013,
+    "sort_id": 606002,
+    "name": "无畏精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“无畏”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          6
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "无畏精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“无畏”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600014,
+    "sort_id": 606002,
+    "name": "爱分享精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“爱分享”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          7
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "爱分享精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“爱分享”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600015,
+    "sort_id": 606002,
+    "name": "热心教精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“热心教”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          8
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "热心教精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“热心教”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600016,
+    "sort_id": 606002,
+    "name": "家里蹲精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“家里蹲”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          9
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "家里蹲精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“家里蹲”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600017,
+    "sort_id": 606002,
+    "name": "奇袭精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“奇袭”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          10
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "奇袭精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“奇袭”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600018,
+    "sort_id": 606002,
+    "name": "疾行精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“疾行”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          11
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "疾行精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“疾行”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600019,
+    "sort_id": 606002,
+    "name": "灵巧精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“灵巧”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          12
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "灵巧精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“灵巧”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600020,
+    "sort_id": 606002,
+    "name": "亲密精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“亲密”特长、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          13
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "亲密精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“亲密”特长、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600021,
+    "sort_id": 606002,
+    "name": "同乘炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“同乘”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          14
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "同乘炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“同乘”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600022,
+    "sort_id": 606002,
+    "name": "慈悲为怀炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“慈悲为怀”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          15
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "慈悲为怀炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“慈悲为怀”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600023,
+    "sort_id": 606002,
+    "name": "爱分享炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“爱分享”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          16
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "爱分享炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“爱分享”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600024,
+    "sort_id": 606002,
+    "name": "热心教炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“热心教”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          17
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "热心教炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“热心教”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600025,
+    "sort_id": 606002,
+    "name": "家里蹲炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“家里蹲”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          18
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "家里蹲炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“家里蹲”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600026,
+    "sort_id": 606002,
+    "name": "奇袭炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“奇袭”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          19
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "奇袭炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“奇袭”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600027,
+    "sort_id": 606002,
+    "name": "疾行炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“疾行”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          20
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "疾行炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“疾行”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600028,
+    "sort_id": 606002,
+    "name": "灵巧炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“灵巧”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          21
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "灵巧炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“灵巧”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
+    "id": 600029,
+    "sort_id": 606002,
+    "name": "亲密炫彩精灵蛋",
+    "is_release": true,
+    "description": "蕴含着难以捉摸的魔力，必定孵化出“亲密”特长、“炫彩”外观、“了不起”天分的精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_tongyong.egg_tongyong'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_tongyong.egg_tongyong'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          0
+        ],
+        "ratio2": [
+          22
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "运营活动获得"
+      }
+    ],
+    "known_name": "亲密炫彩精灵蛋",
+    "known_description": "蕴含着难以捉摸的魔力，必定孵化出“亲密”特长、“炫彩”外观、“了不起”天分的精灵。"
+  },
+  {
     "id": 702036,
     "name": "【测试】奇异秘药--抓挠",
     "description": "内测道具，定向获得技能：抓挠",

@@ -156,5 +156,82 @@
       }
     ],
     "manuscript_umg": "/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_S3SeasonPreheating_RecordBook"
+  },
+  {
+    "id": 3900003,
+    "pre_unlock_task": [
+      70038001,
+      70038002
+    ],
+    "option_txt": "前往了解",
+    "final_task_id": 70038013,
+    "reward_id": 200000330,
+    "final_task_title": "出版日报获得报酬",
+    "final_task_text": "解锁线索",
+    "newspaper_subtitle": "王国上空",
+    "newspaper_subheading": "为何怪事频发？",
+    "newspaper_title": "奇异传闻全记录",
+    "newspaper_txt_title_1": "流星雨将于近日降临王国上空！",
+    "newspaper_txt_1": "由「天气不准预报」栏目提供的最新消息：近日夜间将有大规模流星雨经过卡洛西亚上空。如果想看到这难得一见的奇观，记得多抬头！\n温馨提示：观星请选择开阔平坦的地方，注意脚下；若见到不明物体落地，请不要贸然靠近。如果想许愿的话，记得在流星划过之前说完——毕竟流星的速度可比你许愿的速度快多了，别等它飞走了才想起愿望还没说出口。\n另外，本栏目友情提醒各位家长，看管好自家的洛克与精灵，别让他们追着流星跑太远。毕竟流星不长眼，落地的位置，谁也说不准……\n最后，如果你在观星时看到了什么奇怪的东西——比如骑着流星的精灵、似狼非狼的影子，或者湖里倒映出不该出现的月亮——别慌，记得第一时间告诉我们「天气不准预报」栏目。",
+    "newspaper_txt_title_2": "狼出没？其实是风声！",
+    "newspaper_txt_2": "近日城中怪事频发，夜间街巷频频传出似狼非狼的诡异嘶吼，引得居民洛心惶惶。有年老的洛克提出，此事正是传说中那只「受诅咒的狼精灵」所致——每逢星落之夜，它便在山岗上对月长啸，为大地招来灾祸。 但也有洛克指出，所谓\"狼嚎\"只是居民夜间听闻风声所致的错觉，与任何精灵无关。另有不愿透露姓名的洛克向本报反映：昨夜叫声持续整晚，\"一听就不是风\"。 众说纷纭，真相暂时无人知晓。本报提醒小洛克出门时多加小心——无论是真的狼叫，抑或只是像狼叫的大风，都需要注意！",
+    "newspaper_txt_title_3": "陨石致富！神秘商人高价收购陨石碎片",
+    "newspaper_txt_3": "随流星雨一同到来的，还有一个让洛克们坐不住的消息——据悉已有神秘商人在各地高价收购陨石碎片，声称用于\"重大研究\"。有洛克凭一块拳头大的石头换得千万洛克贝，一夜之间成为街坊议论的对象。 消息传出后，当夜前往开阔地带\"碰运气\"的洛克数量激增。",
+    "newspaper_txt_title_4": "请小洛克们注意，以下情况不要回答！",
+    "newspaper_txt_4": "所有洛克请注意！王国安全部紧急通告：近日天象频发，若在野外遇到不明外星洛，请务必保持沉默，严禁擅自回应，并第一时间上报王国安全部。 重复：不要回答。不要回答。不要回答。 ",
+    "txt_max_num_characters": [
+      160,
+      200,
+      43,
+      39
+    ],
+    "reward_group": [
+      {
+        "unlock_time": "2026-08-24 04:00:00",
+        "manuscript_task_id": 70038003,
+        "option_id": 2022,
+        "manuscript_text_1": "彼得大道居民楼顶部",
+        "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
+        "manuscript_text_3": "近来坊间流传天空出现异象，莫里亚克先生委托我去搜集相关传闻线索。 \n他提到王国上空近期流传着<span color=\"#937a60\">白昼流星与奇怪月亮</>的事情，但我对此持怀疑态度。他便让我亲自前去验证。而我到了他指向的地方四处看了一圈，也都没发现任何异样。",
+        "manuscript_text_5": "发现人：{0}"
+      },
+      {
+        "unlock_time": "2026-08-25 04:00:00",
+        "manuscript_task_id": 70038004,
+        "option_id": 2023,
+        "manuscript_text_1": "王国城堡黄金巷附近",
+        "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
+        "manuscript_text_3": "我向王国城堡附近的居民打听，得到了关于流星的一小点线索。一位赶路青年称，白天曾亲眼见到流星划过天际，还为此许了愿。可寻常流星大多只在夜间显现，流星从何而来，又为何来？单凭这些线索还远远不够，我决定再去其他地方打探打探消息。",
+        "manuscript_text_5": "发现人：{0}"
+      },
+      {
+        "unlock_time": "2026-08-26 04:00:00",
+        "manuscript_task_id": 70038007,
+        "option_id": 2024,
+        "manuscript_text_1": "仪式镇内",
+        "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
+        "manuscript_text_3": "仪式镇近来似乎并没有出现天空异象，但居民每晚都能听到<span color=\"#937a60\">似狼非狼的奇怪叫声</>，以及有<span color=\"#937a60\">似狼一般的生物</>的目击报告。诅咒之狼的传说、画中的精灵——多线索交织缠绕，笼罩在天象之上的谜团愈发厚重。",
+        "manuscript_text_5": "发现人：{0}"
+      },
+      {
+        "unlock_time": "2026-08-27 04:00:00",
+        "manuscript_task_id": 70038010,
+        "option_id": 2025,
+        "manuscript_text_1": "仪式镇湖边",
+        "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
+        "manuscript_text_3": "路上遇到一位见到流星的小孩，我随他过去之后，发现所谓的流星居然只是粉星仔。\n但除此之外，这位小朋友还提到：湖面的月亮倒影看起来十分怪异，并约定我明天一起去查看。我原本对这小洛克提供的线索抱有怀疑，但湖面月影异常这件事值得调查，于是我决定再相信他一次。",
+        "manuscript_text_5": "发现人：{0}"
+      },
+      {
+        "unlock_time": "2026-08-28 04:00:00",
+        "manuscript_task_id": 70038011,
+        "option_id": 2026,
+        "manuscript_text_1": "山顶的湖泊",
+        "manuscript_text_2": "{0:d}年{1:d}月{2:d}日",
+        "manuscript_text_3": "我来到小洛克所说的湖边探查，却没有发现他提到的任何异常。目前收集到的诡异线索越来越多，可关于天空异象的真相，依旧毫无头绪、无从探寻……",
+        "manuscript_text_5": "发现人：{0}"
+      }
+    ],
+    "manuscript_umg": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_S4SeasonPreheating_RecordBook.UMG_Activity_S4SeasonPreheating_RecordBook'"
   }
 ]

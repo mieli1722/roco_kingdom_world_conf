@@ -209841,6 +209841,998 @@
     "is_para_done": true
   },
   {
+    "id": 70038001,
+    "name": "来自出版社的信件",
+    "task_class": 1,
+    "paragraph_id": 70040,
+    "task_des": "莫里亚克有一些新的线索情报，去出版社门口瞧一瞧吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-08-24 04:00:00"
+      }
+    ],
+    "next_task": [
+      70038002
+    ],
+    "task_condition": [
+      {
+        "text": "来自出版社的信件",
+        "type": 327,
+        "data1": [
+          0
+        ],
+        "data2": [
+          55002
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.lookLetter",
+        "args": "55002",
+        "show_text": "点击收信"
+      }
+    ],
+    "auto_finish": 1,
+    "message_id": 55002,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          7600001
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038002,
+    "name": "与莫里亚克对话",
+    "task_class": 1,
+    "paragraph_id": 70040,
+    "task_des": "莫里亚克有一些新的线索情报，去出版社门口瞧一瞧吧。",
+    "task_structure_type": 4,
+    "next_task": [
+      70038003
+    ],
+    "task_condition": [
+      {
+        "text": "与莫里亚克对话",
+        "type": 308,
+        "data1": [
+          280340
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600001
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600001
+        ],
+        "data2": [
+          280340
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600001
+        ],
+        "data2": [
+          280340
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038003,
+    "name": "前往楼顶查看天空",
+    "task_class": 1,
+    "paragraph_id": 70041,
+    "task_des": "莫里亚克称近期有奇异的天文情况出现，天上真的会有异象吗……",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "前往智慧出版社对面的楼顶观察",
+        "type": 308,
+        "data1": [
+          280345
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600010
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000333,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600010
+        ],
+        "data2": [
+          280345
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600010
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600010
+        ],
+        "data2": [
+          280345
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          7600010
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038004,
+    "name": "异象线索收集一",
+    "task_class": 1,
+    "paragraph_id": 70042,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-25 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向王国城堡附近的居民打听情况",
+        "type": 207,
+        "data1": [
+          70038005
+        ],
+        "data2": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "text": "向王国城堡附近的居民打听情况",
+        "type": 207,
+        "data1": [
+          70038006
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 9,
+        "data1": [
+          2
+        ],
+        "data2": [
+          70038005
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2
+        ],
+        "data2": [
+          70038006
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000334,
+    "npc_option": {},
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038005,
+    "name": "异象线索收集-王国城堡调查任务（耳背老人）",
+    "task_class": 1,
+    "paragraph_id": 70042,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-25 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向耳背的老人打听情况",
+        "type": 308,
+        "data1": [
+          280355
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600002
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600002
+        ],
+        "data2": [
+          280355
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600002
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600002
+        ],
+        "data2": [
+          280355
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038006,
+    "name": "异象线索收集-王国城堡调查任务（赶路青年）",
+    "task_class": 1,
+    "paragraph_id": 70042,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-25 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向赶路的青年打听情况",
+        "type": 308,
+        "data1": [
+          280360
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600003
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600003
+        ],
+        "data2": [
+          280360
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600003
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600003
+        ],
+        "data2": [
+          280360
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038007,
+    "name": "异象线索收集二",
+    "task_class": 1,
+    "paragraph_id": 70043,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-26 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向仪式镇附近的居民打听情况",
+        "type": 207,
+        "data1": [
+          70038008
+        ],
+        "data2": [
+          2
+        ],
+        "count": 1
+      },
+      {
+        "text": "向仪式镇附近的居民打听情况",
+        "type": 207,
+        "data1": [
+          70038009
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 9,
+        "data1": [
+          2
+        ],
+        "data2": [
+          70038008
+        ]
+      },
+      {
+        "type": 9,
+        "data1": [
+          2
+        ],
+        "data2": [
+          70038009
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000335,
+    "npc_option": {},
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038008,
+    "name": "异象线索收集-仪式镇调查任务（知识渊博的老人）",
+    "task_class": 1,
+    "paragraph_id": 70043,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-26 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向知识渊博的老人打听情况",
+        "type": 308,
+        "data1": [
+          280365
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600004
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600004
+        ],
+        "data2": [
+          280365
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600004
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600004
+        ],
+        "data2": [
+          280365
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038009,
+    "name": "异象线索收集-仪式镇调查任务（玩耍的小孩）",
+    "task_class": 1,
+    "paragraph_id": 70043,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-26 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "向玩耍的小孩打听情况",
+        "type": 308,
+        "data1": [
+          280370
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600005
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600005
+        ],
+        "data2": [
+          280370
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600005
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600005
+        ],
+        "data2": [
+          280370
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038010,
+    "name": "与看见流星的小洛克对话",
+    "task_class": 1,
+    "paragraph_id": 70044,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-27 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "与看见流星的小孩对话",
+        "type": 308,
+        "data1": [
+          280375
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600006
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "Reward": 200000336,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600006
+        ],
+        "data2": [
+          280375
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600006
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600008
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600006
+        ],
+        "data2": [
+          280375
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038011,
+    "name": "前往约定的地点",
+    "task_class": 1,
+    "paragraph_id": 70045,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "is_para_start": true,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038002
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-28 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "前往与小洛克约定的湖边",
+        "type": 308,
+        "data1": [
+          280379
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600007
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 8,
+        "data1": [
+          7600007
+        ]
+      },
+      {
+        "type": 52,
+        "data1": [
+          7600007
+        ],
+        "data2": [
+          280379
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600007
+        ],
+        "data2": [
+          280379
+        ]
+      }
+    ],
+    "online_process": 3
+  },
+  {
+    "id": 70038012,
+    "name": "与小洛克对话",
+    "task_class": 1,
+    "paragraph_id": 70045,
+    "task_des": "有了新的线索信息，去看看吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "与小洛克对话",
+        "type": 308,
+        "data1": [
+          280380
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600007
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600007
+        ],
+        "data2": [
+          280380
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600007
+        ],
+        "data2": [
+          280380
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038013,
+    "name": "和莫里亚克汇报",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "线索扑朔迷离，回去和莫里亚克报告吧。",
+    "task_structure_type": 4,
+    "task_condition": [
+      {
+        "text": "和莫里亚克汇报",
+        "type": 308,
+        "data1": [
+          280385
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600001
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600001
+        ],
+        "data2": [
+          280385
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600001
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600001
+        ],
+        "data2": [
+          280385
+        ]
+      },
+      {
+        "type": 51,
+        "data1": [
+          10218
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038014,
+    "name": "完成莫里亚克的委托",
+    "task_class": 1,
+    "paragraph_id": 70032,
+    "task_des": "完成莫里亚克的委托",
+    "task_structure_type": 4,
+    "next_task": [
+      70038013
+    ],
+    "task_condition": [
+      {
+        "text": "完成莫里亚克的委托",
+        "type": 207,
+        "data1": [
+          70038003,
+          70038004,
+          70038007,
+          70038010,
+          70038011
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "TaskModuleCmd.TraceOpenActivityPanel",
+        "args": "39",
+        "args2": "3900003",
+        "show_text": "点击查看活动详情"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038015,
+    "name": "预热活动卖陨石的路人彩蛋NPC",
+    "task_class": 18,
+    "task_des": "陨石商人！？",
+    "task_structure_type": 4,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          70038013
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-08-28 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "type": 308,
+        "data1": [
+          280390
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 7,
+        "data1": [
+          7600009
+        ]
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "accept_action": [
+      {
+        "type": 52,
+        "data1": [
+          7600009
+        ],
+        "data2": [
+          280390
+        ]
+      },
+      {
+        "type": 8,
+        "data1": [
+          7600009
+        ]
+      }
+    ],
+    "finish_action": [
+      {
+        "type": 53,
+        "data1": [
+          7600009
+        ],
+        "data2": [
+          280390
+        ]
+      }
+    ],
+    "online_process": 3,
+    "is_para_done": true
+  },
+  {
+    "id": 70038016,
+    "name": "【隐藏任务】删除预热活动内的NPC",
+    "task_class": 18,
+    "task_des": "【隐藏任务】删除预热活动内的NPC",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-09-10 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "【隐藏任务】删除预热活动内的NPC",
+        "type": 203,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "finish_action": [
+      {
+        "type": 9,
+        "data1": [
+          2650056,
+          2650057
+        ]
+      }
+    ]
+  },
+  {
     "id": 70102017,
     "story_bgm_id": 7,
     "influence_area_func_id": [
@@ -261103,7 +262095,7 @@
           5
         ],
         "data4": "id",
-        "data5": "3002;3005;3033",
+        "data5": "3002;3005;3033;5010",
         "count": 1
       }
     ],
@@ -261129,7 +262121,8 @@
         "data1": [
           3002,
           3005,
-          3033
+          3033,
+          5010
         ],
         "data2": [
           5
@@ -261377,7 +262370,7 @@
           5
         ],
         "data4": "id",
-        "data5": "3003;3006;3032",
+        "data5": "3003;3006;3032;5017",
         "count": 1
       }
     ],
@@ -261403,7 +262396,8 @@
         "data1": [
           3003,
           3006,
-          3032
+          3032,
+          5017
         ],
         "data2": [
           5
@@ -261651,7 +262645,7 @@
           5
         ],
         "data4": "id",
-        "data5": "3001;3007;3025",
+        "data5": "3001;3007;3025;5003;5061",
         "count": 1
       }
     ],
@@ -261677,7 +262671,9 @@
         "data1": [
           3001,
           3007,
-          3025
+          3025,
+          5003,
+          5061
         ],
         "data2": [
           5

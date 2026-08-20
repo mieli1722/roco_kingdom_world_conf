@@ -385521,6 +385521,148 @@
     ]
   },
   {
+    "id": 200000330,
+    "Name": "S3赛季预热活动奖励",
+    "Type": 1,
+    "Icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100725.100725'",
+    "DisplayName": "S3赛季预热活动奖励",
+    "Description": "S3赛季预热活动奖励",
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100255,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 2,
+        "Id": 1,
+        "Count": 500000,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 15,
+        "Id": 3034,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000333,
+    "Name": "S3预热活动-线索1奖励",
+    "Type": 1,
+    "DisplayName": "S3预热活动-线索1奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100003,
+        "Count": 10,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000334,
+    "Name": "S3预热活动-线索2奖励",
+    "Type": 1,
+    "DisplayName": "S3预热活动-线索2奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100667,
+        "Count": 20,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000335,
+    "Name": "S3预热活动-线索3奖励",
+    "Type": 1,
+    "DisplayName": "S3预热活动-线索3奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100694,
+        "Count": 1,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      },
+      {
+        "Type": 1,
+        "Id": 100306,
+        "Count": 10,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 200000336,
+    "Name": "S3预热活动-线索4奖励",
+    "Type": 1,
+    "DisplayName": "S3预热活动-线索4奖励",
+    "ObtainLimit": 1,
+    "RewardItem": [
+      {
+        "Type": 1,
+        "Id": 100319,
+        "Count": 10,
+        "DropWeight": [
+          1,
+          101,
+          10000,
+          100,
+          0
+        ]
+      }
+    ]
+  },
+  {
     "id": 200100020,
     "Name": "异色呼呼猪活动头像",
     "Type": 1,
