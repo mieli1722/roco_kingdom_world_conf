@@ -3291,5 +3291,46 @@
         "goods_count": 30
       }
     ]
+  },
+  {
+    "id": 1600571,
+    "part_name": "开启活动",
+    "part_desc": "开启活动",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000711
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 300030,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600572,
+    "part_name": "为精灵戴上小红花奖牌",
+    "part_desc": "为精灵戴上小红花奖牌",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000712
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320151,
+        "goods_count": 1
+      },
+      {
+        "goods_type": 1,
+        "goods_id": 320149,
+        "goods_count": 1
+      }
+    ]
   }
 ]

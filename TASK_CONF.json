@@ -164656,10 +164656,7 @@
     "task_condition": [
       {
         "text": "等待至次日与安安会合",
-        "type": 310,
-        "data1": [
-          1
-        ],
+        "type": 203,
         "count": 1
       }
     ],
@@ -165079,10 +165076,7 @@
     "task_condition": [
       {
         "text": "等待至次日与安安会合",
-        "type": 310,
-        "data1": [
-          1
-        ],
+        "type": 203,
         "count": 1
       }
     ],
@@ -165490,10 +165484,7 @@
     "task_condition": [
       {
         "text": "等待至次日与安安会合",
-        "type": 310,
-        "data1": [
-          1
-        ],
+        "type": 203,
         "count": 1
       }
     ],
@@ -165959,10 +165950,7 @@
     "task_condition": [
       {
         "text": "等待至次日与安安会合",
-        "type": 310,
-        "data1": [
-          1
-        ],
+        "type": 203,
         "count": 1
       }
     ],
@@ -263751,6 +263739,94 @@
     ],
     "go_guide": [
       {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000710,
+    "name": "同意公益相关协议",
+    "task_class": 18,
+    "show": 1,
+    "is_para_start": true,
+    "task_condition": [
+      {
+        "text": "同意公益相关协议",
+        "type": 367,
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000711,
+    "name": "开启活动",
+    "task_class": 18,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000710
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "开启活动",
+        "type": 207,
+        "data1": [
+          110000710
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000712,
+    "name": "为精灵戴上小红花奖牌",
+    "task_class": 18,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000710
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "为精灵戴上小红花奖牌",
+        "type": 393,
+        "data2": [
+          1039
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BagModuleCmd.OpenBagMainPanelByTableIndex",
+        "args2": "300030",
+        "show_text": "点击打开背包使用小红花奖牌"
+      }
     ],
     "auto_finish": 1,
     "npc_option": {},

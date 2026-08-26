@@ -392,6 +392,34 @@
     "sort_id": 20306
   },
   {
+    "id": 100021,
+    "exchange_time_limit_group": 10037,
+    "unlock_type": 8,
+    "use_type": 17,
+    "is_check_npc_near": true,
+    "exchange_time_lower_limit": 1,
+    "exchange_time_upper_limit": 99,
+    "get_item": [
+      {
+        "get_goods_type": 1,
+        "get_goods_id": 300030,
+        "get_goods_num": 1
+      }
+    ],
+    "cost_item": [
+      {
+        "cost_goods_type": 2,
+        "cost_goods_id": [
+          3
+        ],
+        "cost_goods_num": 10
+      }
+    ],
+    "is_shareable": true,
+    "is_common": true,
+    "sort_id": 20310
+  },
+  {
     "id": 350001,
     "unlock_type": 5,
     "unlock_data": 1,

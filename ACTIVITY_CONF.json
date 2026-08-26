@@ -1150,6 +1150,32 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise1_png.img_yise1_png'"
   },
   {
+    "id": 900018,
+    "activity_type": 53,
+    "base_id": [
+      900018
+    ],
+    "activity_name": "新版本预约下载",
+    "prompt_text": "预约后将在资源开放下载时自动触发下载。（仅WiFi环境）",
+    "activity_txt": "<span color=\"#d56c1f\">预下载规则说明</>\n\n·新版本资源预约下载开启后，即可预约下载更新资源。\n·资源将在新版本更新前开放，具体时间和资源大小请留意官方公告。\n·资源开放下载后，已预约的小洛克，在WiFi环境下时将自动下载资源（应用切至后台后仍能保持继续下载状态）。\n·资源开放下载期间，已预约下载的小洛克可以在界面中暂停下载。处于暂停下载状态时重新登录游戏，将自动启动资源预下载。\n·资源预下载后，将暂时储存在本地设备中，新版本更新时自动使用。\n·如果在预下载期间资源未下载完成，新版本更新时将继续更新未完成的部分，已下载的资源仍可使用，无需重复下载。\n·预下载期间下载完成新版本资源，可领取预约下载奖励。",
+    "appear_time": "2026-09-04 04:00:00",
+    "disappear_time": "2026-09-09 23:59:59",
+    "login_plat": [
+      0,
+      1,
+      12,
+      3
+    ],
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Heterochrome.UMG_Activity_Heterochrome_C'",
+    "cdn_bg": "https://video.nrc.qq.com/Activity_BG/S4/S4saijixiazai.png",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise2_png.img_yise2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise1_png.img_yise1_png'"
+  },
+  {
     "id": 1600003,
     "activity_type": 16,
     "base_id": [
@@ -4426,9 +4452,9 @@
     "activity_txt": "结伴同行，邀请好友共赴精灵大世界冒险！\n活动分为邀请人和被邀请人，具体规则如下:\n\n<span color=\"#d56c1f\">邀请人活动说明</>\n活动期间，邀请好友注册/回归，满足条件后即可领取对应奖励：\n· 满足邀请注册条件可领取集结专属礼包，每人最多可领取3份奖励，成功邀请3位好友达成注册条件还可额外解锁完美集结礼「爱心炫彩蛋×1」；\n· 满足邀请回归条件可领取同行专属礼包，每人最多可领取3份奖励。\n\n<span color=\"#d56c1f\">被邀请人活动说明</>\n活动期间，与邀请人完成绑定，满足条件后即可领取对应注册/回归奖励：\n· 新用户：在未注册状态下与好友绑定，达成对应条件可领取专属注册礼包及红包奖励，红包数量有限，同一设备/IP仅限领取1次，先到先得，发完即止；\n· 回归用户：满足回归条件的用户通过该活动页面与好友绑定后回归游戏，可领取回归专属礼包。",
     "appear_time": "2026-08-21 04:00:00",
     "disappear_time": "2026-09-10 03:59:59",
-    "maintab_id": 3,
+    "maintab_id": 1,
     "belong_system": 1,
-    "priority": 50,
+    "priority": 81,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Referral.UMG_Activity_Referral_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing2_png.img_tongxing2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing1_png.img_tongxing1_png'"
@@ -5440,7 +5466,7 @@
     ],
     "activity_name": "小狐安家记",
     "prompt_text": "阳光下，草丛里冒出方头方脑的小家伙\n它们跨越山海，终于在我们的世界停下脚步\n停下匆忙的冒险，去听听它们带来的故事吧",
-    "activity_txt": "<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">加入精灵调查团</>\n想要认识宝藏小狐？那先去加入<span color=\"#d56c1f\">精灵调查团</>吧！\n加入精灵调查团后，即可与小狐安安相遇，开启这段温馨的同行之旅。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">小小狐家在何方</>\n陪伴寻家小狐考察卡洛西亚大陆，完成每日考察可提升<span color=\"#d56c1f\">安安的好感度</>。\n好感度达到满级后，宝藏小狐家族将会来到大世界里安家落户噢！\n考察期间，调查团杂货店也会同步开启，小洛克可以前往提前选购部分限定奖励，完成全部大世界考察后，商店还将额外上架一批新货，记得到时候回来逛逛噢！\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">调查团特别活动</>\n宝藏小狐们在大世界安家后，以下四项内容将全部解锁：\n\n<span color=\"#d56c1f\">特别调查任务</>\n和查尔斯一起完成调查委托吧！\n任务完成后，即可获得神秘表情包奖励，记录这段难忘的初体验～\n\n<span color=\"#d56c1f\">获得荣誉证书</>\n获得学院颁发的荣誉证书，这是给予各位热心小洛克的最高鼓励！\n同时，分享证书即可领取证书家具奖励，挂在家里彰显荣誉，让来访的朋友都看到～\n\n<span color=\"#d56c1f\">精灵观察笔记</>\n整理精灵观察笔记，里面记录着精灵“不为洛知”的另一面噢。\n获得精灵观察笔记后，可以在「背包-重要」内再次查看笔记内容。\n同时，在商店内还能购买到小狐安安带来的家乡照片。\n在背包内使用照片道具后，可在精灵观察笔记中查看这些珍贵的照片，快去看看吧。\n\n<span color=\"#d56c1f\">调查团杂货店上新</>\n完成全部大世界考察后，调查团杂货店将迎来第二期上新，商店内将会上架宝藏小狐相关的热门奖励，快来淘一点可爱的小东西带回家吧~\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">圆满的旅途</>\n当陪伴安安完成所有大世界生态考察、解锁全部精灵观察笔记与荣誉证书，并且将调查团杂货店及所有活动页面的奖励全部兑换完毕后，活动界面将于次日04:00正式关闭。",
+    "activity_txt": "<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">加入精灵调查团</>\n想要认识宝藏小狐？那先去加入<span color=\"#d56c1f\">精灵调查团</>吧！\n加入精灵调查团后，即可与小狐安安相遇，开启这段温馨的同行之旅。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">小小狐家在何方</>\n陪伴寻家小狐考察卡洛西亚大陆，完成每日考察可提升<span color=\"#d56c1f\">安安的好感度</>。\n好感度达到满级后，宝藏小狐家族将会来到大世界里安家落户噢！\n考察期间，调查团杂货店也会同步开启，小洛克可以前往提前选购部分限定奖励，完成全部大世界考察后，商店还将额外上架一批新货，记得到时候回来逛逛噢！\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">调查团特别活动</>\n宝藏小狐们在大世界安家后，以下四项内容将全部解锁：\n\n<span color=\"#d56c1f\">特别调查任务</>\n和查尔斯一起完成调查委托吧！\n任务完成后，即可获得神秘表情包奖励，记录这段难忘的初体验～\n\n<span color=\"#d56c1f\">获得荣誉证书</>\n获得学院颁发的荣誉证书，这是给予各位热心小洛克的最高鼓励！\n同时，分享证书即可领取证书家具奖励，挂在家里彰显荣誉，让来访的朋友都看到～\n\n<span color=\"#d56c1f\">精灵观察笔记</>\n整理精灵观察笔记，里面记录着精灵“不为洛知”的另一面噢。\n获得精灵观察笔记后，可以在「背包-任务」内再次查看笔记内容。\n同时，在商店内还能购买到小狐安安带来的家乡照片。\n在背包内使用照片道具后，可在精灵观察笔记中查看这些珍贵的照片，快去看看吧。\n\n<span color=\"#d56c1f\">调查团杂货店上新</>\n完成全部大世界考察后，调查团杂货店将迎来第二期上新，商店内将会上架宝藏小狐相关的热门奖励，快来淘一点可爱的小东西带回家吧~\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">圆满的旅途</>\n当陪伴安安完成所有大世界生态考察、解锁全部精灵观察笔记与荣誉证书，并且将调查团杂货店及所有活动页面的奖励全部兑换完毕后，活动界面将于次日04:00正式关闭。",
     "appear_time": "2026-08-07 04:00:00",
     "world_level_required": 2,
     "prerequisite_task_id": [
@@ -6382,6 +6408,27 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
   },
   {
+    "id": 6300002,
+    "activity_type": 63,
+    "base_id": [
+      6300002
+    ],
+    "activity_name": "铅字幻梦赛季冲刺",
+    "prompt_text": "冲段位、抓精灵，\n赛季终章，该冲刺的别停下~",
+    "activity_txt": "赛季冲刺的号角已经吹响！闪耀大赛额外加星、赛季奇遇新精灵捕捉加速、耗球返还三重助力齐上线，助力小洛克赛季完美收官！\n以下为详细规则：\n\n<span color=\"#d56c1f\">一、赛季冲刺期</>\n【闪耀大赛，额外加星】\n活动期间，大师段位以下的小洛克在闪耀大赛排位模式中获得胜利，可额外获得1颗星级！\n●每日最多可获得3次额外加星机会，次日4:00重置，不可累积。\n●额外加星可与随机精灵加星、连胜加星等效果同时生效。\n●若胜利后所加星级已足够晋升至大师段位，则不再额外加星。达到大师及以上段位后，本模块不再提供额外加星效果。\n●精灵对战玩法未开启的小洛克暂无法参与，达到30级，晋升为精灵研究员后再来挑战吧！\n\n【奇遇新精灵，捕捉加速】\n活动期间，在庇护所放置S3赛季奇遇新精灵的果实后，刷出的精灵将更容易捕捉，且更容易遇到高阶精灵！\n●捕捉成功率、高阶精灵出现概率提升的效果，仅对本赛季的赛季奇遇新精灵生效，包含以下精灵及其家族：苞米仔家族、守夜烛家族、十字蝌蚪家族、栗鼠家族、蝴蝶陶陶家族、稻草人家族、蜜果骸家族、卡波家族。\n●可在活动页面查看当前赛季图鉴的收集进度。点击“前往”按钮可跳转至赛季图鉴界面，抓紧完成赛季精灵收集吧！\n\n【咕噜球，储备计划】\n在S3赛季冲刺期间，使用指定咕噜球完成捕捉精灵的耗球量，将在S4赛季开启后，按照1：1的比例返还相应数量的「咕噜球补给礼盒」，总返还上限为1000个。\n●可参与统计的指定咕噜球种类如下：高级咕噜球、棱镜球、织梦棱镜球、狂欢棱镜球、铅绘棱镜球、国王球、捕光球、奇趣球、童话球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n●「咕噜球补给礼盒」为自选礼盒，使用后，可从以下咕噜球中自选获得一颗：高级咕噜球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n●耗球量统计规则：需完成捕捉行为，捕捉成功、失败所消耗的咕噜球均会被计入；空掷回收、孵蛋、合成等均不计入。\n●活动页面会实时统计有效咕噜球消耗数、预计可领取的补给礼盒数量及返还上限。\n\n<span color=\"#d56c1f\">二、新赛季领奖期</>\nS4赛季开启后，在S3赛季冲刺期间消耗指定咕噜球完成精灵捕捉的小洛克，可在此活动页面中领取返还的「咕噜球补给礼盒」！\n●奖励直接进入背包，可前往背包中使用。\n●领奖完成后，活动页面将于次日4:00自动关闭。",
+    "appear_time": "2026-08-27 04:00:00",
+    "disappear_time": "2026-09-24 03:59:59",
+    "world_level_required": 1,
+    "success_if_disappear": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 460,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_CarnivalHorrorTales.UMG_Activity_CarnivalHorrorTales_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijichongci_bg1.img_saijichongci_bg1'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci2_png.img_saijichongci2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
+  },
+  {
     "id": 6700001,
     "activity_type": 67,
     "base_id": [
@@ -6409,6 +6456,24 @@
     "refresh_event_group": [
       {}
     ]
+  },
+  {
+    "id": 7200001,
+    "activity_type": 72,
+    "base_id": [
+      7200001
+    ],
+    "activity_name": "花开·卡洛西亚",
+    "prompt_text": "为精灵戴上小红花奖牌，让爱开满卡洛西亚~\n全服目标达成，将通过腾讯基金会\n支持「共同守护濒危物种」公益项目",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n2026年9月1日04:00-2026年9月14日04:00\n\n<span color=\"#d56c1f\">活动说明</>\n「花开·卡洛西亚」活动是由《洛克王国：世界》联合腾讯公益（运营方为“腾讯公益慈善基金会”）和深圳市一个地球自然基金会公益机构推出的一项公益项目活动。\n本活动旨在鼓励玩家参与公益、关注公益。活动中涉及的「共同守护濒危物种」公益项目，由深圳市一个地球自然基金会发起，旨在保护生物多样性，推动构建人与自然和谐共生的美好未来。\n\n<span color=\"#d56c1f\">玩法介绍</>\n小洛克同意协议后可开启活动，并可获得「小红花奖牌」。\n在背包选择精灵使用小红花奖牌，后在该精灵奖牌页中戴上小红花奖牌，回到活动界面领取腾讯公益平台提供的公益金捐赠资格。\n所获取的公益金将用于助力「共同守护濒危物种」公益项目，让更多人了解和关注濒危物种，为这些保护生物多样性事业带来更多助力。\n\n<span color=\"#d56c1f\">公益说明</>\n※ 公益金使用限制\n本次公益金仅可用于支持活动内的公益项目，不支持提现、兑换、转让、售卖等任何变现操作，不会直接发放至小洛克个人账户，活动期间每位小洛克仅可获得1次公益金捐赠资格。\n\n※ 善款使用说明\n本次活动中送出的所有公益金都将全额用于公益项目；\n此外，腾讯基金会将助力活动，和小洛克一起向公益项目提供更多捐赠支持，具体金额将根据本活动开展情况计算，最终请以腾讯基金会与公益机构签署的《捐赠协议》约定为准，本次活动的全部款项均由公益机构用于对应公益项目。\n玩家可在腾讯公益平台了解更多项目介绍及相关费用明细（*腾讯公益平台项目名称：共同守护濒危物种）。\n\n※ 公益金发放说明\n本次活动中通过给精灵佩戴小红花奖牌获得的公益金由腾讯公益慈善基金会（简称“腾讯基金会”）提供，将助力「共同守护濒危物种」公益项目，最后捐出的公益金总额将统一在活动结束后结算。\n公益金不支持任何提现、兑换、转让等操作。\n公益金由腾讯基金会向负责「共同守护濒危物种」公益项目的公益机构进行拨付，具体金额将根据本活动开展情况计算，以公益金形式拨付的总金额不超过200万元。\n若公益项目执行中未能将用户“送出”的公益金执行完毕的，在保证公益资金合法合规使用的前提下，公益机构会将公益金用于其他公益用途，相关资金使用情况将在腾讯公益平台公示和反馈，具体以公益机构与腾讯基金会协商确认的方案为准。\n\n※ 授权说明\n参与本活动需同意《腾讯公益平台用户服务协议》(https://ssl.gongyi.qq.com/weixin/protocol.html?type=plat)、《腾讯公益平台隐私政策》(https://ssl.gongyi.qq.com/weixin/protocol.html?id=24215)，并同意本产品将您当前登录账号的用户标识、公益行为完成情况同步至腾讯公益平台，用于识别并关联您的公益账号。\n\n※ 注意事项\n如果小洛克有下列任一行为的，主办方将取消其参与活动资格，且有权收回其通过本活动获得的公益金，并保留追究恶意刷奖者的法律责任的权利！\na.进行虚假操作/交易或恶意破坏活动的；\nb.以任何机器人软件、蜘蛛软件、爬虫软件、刷奖软件或其它任何自动方式、不正当手段等参与本活动的；\nc.有任何违反诚实信用、公序良俗、公平、公正等原则行为的；\nd.其他违反相关法规、本规则行为的。\n\n※ 免责条款\n小洛克知悉互联网存在诸多不确定性因素，因此理解并同意，如因不可抗力、网络、通讯线路故障、计算机大规模瘫痪、活动存在大面积作弊行为等非主办方原因致使本活动出现异常情况或难以继续开展的，主办方有权采取包括但不限于通过各种方式消除异常情况或调整、暂停、取消本活动等措施。",
+    "appear_time": "2026-09-01 04:00:00",
+    "disappear_time": "2026-09-14 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 470,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_RedFlower.UMG_Activity_RedFlower_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xiaohonghua2_png.img_xiaohonghua2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xiaohonghua1_png.img_xiaohonghua1_png'"
   },
   {
     "id": 50000001,

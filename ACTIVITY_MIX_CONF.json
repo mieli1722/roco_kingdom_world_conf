@@ -395,6 +395,42 @@
     ]
   },
   {
+    "id": 7200001,
+    "must_do_task_judg": [
+      110000710
+    ],
+    "go_task_option_name": "开启",
+    "unlock_tips": "同意协议后开启活动",
+    "slot_group": [
+      {
+        "slot": 1,
+        "slot_function_type": 8,
+        "params": [
+          1600571
+        ]
+      },
+      {
+        "slot": 2,
+        "slot_des": "全服佩戴小红花",
+        "slot_function_type": 17,
+        "params": [
+          1002,
+          4
+        ]
+      },
+      {
+        "slot": 3,
+        "option_id": 3018,
+        "slot_function_type": 22,
+        "params": [
+          1600572,
+          1,
+          100
+        ]
+      }
+    ]
+  },
+  {
     "id": 51000001,
     "slot_group": [
       {

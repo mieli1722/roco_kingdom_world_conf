@@ -53428,6 +53428,33 @@
     "known_description": "参与活动「豆丁鱼大量出没」获得的珍贵精灵蛋，经过孵化可以得到“炫彩”外观、“了不起”天分的豆丁鱼。"
   },
   {
+    "id": 151054,
+    "sort_id": 629054,
+    "name": "唯一小独角兽的蛋",
+    "is_release": true,
+    "description": "通过观察其花纹可以看出，这是小独角兽的蛋。必定孵化出“同乘”特长、“了不起”天分的小独角兽。",
+    "flavor_text": "全服“唯一”？等等！原来是这个“唯一”啊！",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/egg_xiaodujiaoshou.egg_xiaodujiaoshou'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/egg_xiaodujiaoshou.egg_xiaodujiaoshou'",
+    "type": 8,
+    "lable_type": 7,
+    "type_desc": "精灵蛋",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "can_use_in_pet_bag": 1,
+    "item_behavior": [
+      {
+        "use_action": 17,
+        "ratio": [
+          3062008
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "known_name": "唯一小独角兽的蛋",
+    "known_description": "通过观察其花纹可以看出，这是小独角兽的蛋。必定孵化出“同乘”特长、“了不起”天分的小独角兽。"
+  },
+  {
     "id": 160001,
     "sort_id": 501001,
     "name": "小鱼烧",
@@ -93911,6 +93938,37 @@
     ]
   },
   {
+    "id": 300030,
+    "sort_id": 107019,
+    "name": "小红花",
+    "is_release": true,
+    "description": "活动奖励。可在背包进行使用，使用后，可将「小红花」佩戴给任意精灵。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_MedalIcon_LittleRedFlower.img_MedalIcon_LittleRedFlower'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_MedalIcon_LittleRedFlower.img_MedalIcon_LittleRedFlower'",
+    "type": 3,
+    "lable_type": 3,
+    "type_desc": "精灵奖牌",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 28,
+        "ratio": [
+          1039
+        ]
+      }
+    ],
+    "can_stack": 1,
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「花开·卡洛西亚」活动获得"
+      }
+    ]
+  },
+  {
     "id": 300101,
     "sort_id": 110001,
     "name": "配方-可可果絮语",
@@ -94355,6 +94413,36 @@
     "acquire_struct": [
       {
         "acquire_way_text": "幻梦通行证获得"
+      }
+    ]
+  },
+  {
+    "id": 300122,
+    "sort_id": 110018,
+    "name": "配方-小红花",
+    "is_release": true,
+    "description": "晦涩难懂的配方，记载着「小红花」的制作方式。\n使用后可通过炼金合成「小红花」。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100911.100911'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100911.100911'",
+    "type": 3,
+    "lable_type": 3,
+    "type_desc": "奖牌合成配方",
+    "can_see": 1,
+    "can_use_in_bag": 1,
+    "is_consume": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 43,
+        "ratio": [
+          100021
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「花开·卡洛西亚」活动获得"
       }
     ]
   },
@@ -97749,7 +97837,7 @@
     "flavor_text": "在精灵研究的圈子里，这样的笔记十分抢手。",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101026.101026'",
     "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101026.101026'",
-    "lable_type": 3,
+    "lable_type": 8,
     "type_desc": "精灵笔记",
     "can_see": 1,
     "can_use_in_bag": 1,
@@ -99679,6 +99767,84 @@
       }
     ],
     "item_quality": 4
+  },
+  {
+    "id": 320149,
+    "name": "1元公益金",
+    "is_release": true,
+    "description": "1元公益金，由腾讯基金会出资",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101059.101059'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101059.101059'",
+    "type": 21,
+    "lable_type": 3,
+    "type_desc": "活动道具",
+    "tips_not_show_inventory": true,
+    "item_quality": 3,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「花开·卡洛西亚」活动获得"
+      }
+    ]
+  },
+  {
+    "id": 320151,
+    "sort_id": 104007,
+    "name": "「小红花」头像",
+    "is_release": true,
+    "description": "个人名片的头像——「小红花」。",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_1031.img_1031'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_1031.img_1031'",
+    "lable_type": 3,
+    "type_desc": "活动道具",
+    "tips_not_show_inventory": true,
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "show_quantity": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          200000251,
+          1
+        ]
+      }
+    ],
+    "item_quality": 5,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「花开·卡洛西亚」活动获得"
+      }
+    ]
+  },
+  {
+    "id": 320152,
+    "sort_id": 104007,
+    "name": "「小红花」名片",
+    "is_release": true,
+    "description": "活动限定个人名片。",
+    "flavor_text": "「让爱开满卡洛西亚」",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_jiujiugongyi_icon.img_jiujiugongyi_icon'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Friend/Raw/BusinessCard/Textures/BusinessCardBg/img_jiujiugongyi_icon2.img_jiujiugongyi_icon2'",
+    "lable_type": 3,
+    "type_desc": "纪念名片",
+    "tips_not_show_inventory": true,
+    "is_consume": 1,
+    "is_auto_use": 1,
+    "item_behavior": [
+      {
+        "use_action": 4,
+        "ratio": [
+          810099,
+          1
+        ]
+      }
+    ],
+    "item_quality": 4,
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「花开·卡洛西亚」活动获得"
+      }
+    ]
   },
   {
     "id": 330001,
