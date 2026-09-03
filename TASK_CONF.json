@@ -263799,6 +263799,86 @@
   },
   {
     "id": 110000712,
+    "name": "完成为精灵戴上小红花奖牌任一任务",
+    "task_class": 18,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000710
+        ]
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "为精灵戴上小红花奖牌",
+        "type": 207,
+        "data1": [
+          110000714,
+          110000713
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BagModuleCmd.OpenBagMainPanelByTableIndex",
+        "args2": "300030",
+        "show_text": "点击打开背包使用小红花奖牌"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000713,
+    "name": "为精灵戴上小红花奖牌2",
+    "task_class": 18,
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 2,
+        "data1": [
+          110000710
+        ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-09-02 12:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "为精灵戴上小红花奖牌",
+        "type": 338,
+        "data1": [
+          0
+        ],
+        "data2": [
+          300030
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BagModuleCmd.OpenBagMainPanelByTableIndex",
+        "args2": "300030",
+        "show_text": "点击打开背包使用小红花奖牌"
+      }
+    ],
+    "auto_finish": 1,
+    "npc_option": {},
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000714,
     "name": "为精灵戴上小红花奖牌",
     "task_class": 18,
     "show": 1,
@@ -263808,6 +263888,10 @@
         "data1": [
           110000710
         ]
+      },
+      {
+        "type": 5,
+        "available_time": "2026-09-02 12:00:00"
       }
     ],
     "task_condition": [
