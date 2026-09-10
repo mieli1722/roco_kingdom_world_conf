@@ -1258,6 +1258,40 @@
     ]
   },
   {
+    "id": 40001,
+    "aura_type": 6,
+    "editor_name": "S4连续捕捉天气",
+    "aura_area_type": 1,
+    "aura_distance": [
+      2000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10014,
+        "params": [
+          16
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40002,
+    "aura_type": 6,
+    "editor_name": "S4连续捕捉天气",
+    "aura_area_type": 1,
+    "aura_distance": [
+      5000
+    ],
+    "aura_effect": [
+      {
+        "aura_effect_type": 10014,
+        "params": [
+          17
+        ]
+      }
+    ]
+  },
+  {
     "id": 160001,
     "aura_type": 6,
     "editor_name": "序章_轻风山_三精灵选择光环驱散",

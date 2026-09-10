@@ -2,7 +2,6 @@
   {
     "id": 101,
     "share_button_type": 101,
-    "share_part_name": "精灵分享-图片",
     "tab_name": "图片",
     "share_type": 1,
     "is_need_information": true,
@@ -11,7 +10,6 @@
   {
     "id": 102,
     "share_button_type": 102,
-    "share_part_name": "精灵分享-视频",
     "tab_name": "视频",
     "share_type": 2,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_Video.UMG_ShareUI_Video_C'"
@@ -19,7 +17,6 @@
   {
     "id": 103,
     "share_button_type": 103,
-    "share_part_name": "精灵分享-卡牌",
     "tab_name": "卡牌",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_Card.UMG_ShareUI_Card_C'",
@@ -32,28 +29,24 @@
   {
     "id": 201,
     "share_button_type": 2,
-    "share_part_name": "拍照分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_TakephotoShare.UMG_TakephotoShare_C'"
   },
   {
     "id": 301,
     "share_button_type": 3,
-    "share_part_name": "截图分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUITakePhoto.UMG_ShareUITakePhoto_C'"
   },
   {
     "id": 401,
     "share_button_type": 4,
-    "share_part_name": "阵容分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_LineupSharing.UMG_LineupSharing_C'"
   },
   {
     "id": 501,
     "share_button_type": 501,
-    "share_part_name": "名片分享-精灵",
     "tab_name": "精灵收藏",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_BusinessCardShare.UMG_BusinessCardShare_C'"
@@ -61,7 +54,6 @@
   {
     "id": 502,
     "share_button_type": 502,
-    "share_part_name": "名片分享-徽章",
     "tab_name": "徽章收藏",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_BusinessCardShare.UMG_BusinessCardShare_C'"
@@ -69,7 +61,6 @@
   {
     "id": 601,
     "share_button_type": 6,
-    "share_part_name": "闪耀大赛分享",
     "tab_name": "S1-闪耀杯",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_PVPShare.UMG_PVPShare_C'"
@@ -77,14 +68,12 @@
   {
     "id": 701,
     "share_button_type": 7,
-    "share_part_name": "精灵上报分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_PetReportShare.UMG_PetReportShare_C'"
   },
   {
     "id": 801,
     "share_button_type": 8,
-    "share_part_name": "精灵合影分享",
     "share_type": 1,
     "is_need_information": true,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_PetGroupPhotoShare.UMG_PetGroupPhotoShare_C'"
@@ -92,14 +81,12 @@
   {
     "id": 901,
     "share_button_type": 9,
-    "share_part_name": "留影分享",
     "share_type": 2,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ShareUI_VideoShare.UMG_ShareUI_VideoShare_C'"
   },
   {
     "id": 1001,
     "share_button_type": 10,
-    "share_part_name": "SIM卡分享",
     "share_type": 3,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
     "wechat_applet_title": "欢迎回到洛克王国",
@@ -111,7 +98,6 @@
   {
     "id": 1003,
     "share_button_type": 10,
-    "share_part_name": "SIM卡分享",
     "share_type": 5,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
     "wechat_applet_title": "欢迎回到洛克王国",
@@ -123,7 +109,6 @@
   {
     "id": 1101,
     "share_button_type": 11,
-    "share_part_name": "邀请好友活动",
     "share_type": 3,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
     "wechat_applet_title": "洛克王国全新版本现已开启！",
@@ -133,7 +118,6 @@
   {
     "id": 1102,
     "share_button_type": 11,
-    "share_part_name": "邀请好友活动",
     "share_type": 5,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
     "wechat_applet_title": "洛克王国全新版本现已开启！",
@@ -144,29 +128,31 @@
   {
     "id": 1201,
     "share_button_type": 12,
-    "share_part_name": "SS套装分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_Shop_Share.UMG_Shop_Share_C'"
   },
   {
     "id": 1202,
     "share_button_type": 13,
-    "share_part_name": "其他套装分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_AppearanceSuit_Share1.UMG_AppearanceSuit_Share1_C'"
   },
   {
     "id": 1301,
     "share_button_type": 14,
-    "share_part_name": "主题摄影活动分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_Activity_TakePhotoCompetition_Share.UMG_Activity_TakePhotoCompetition_Share_C'"
   },
   {
     "id": 1501,
     "share_button_type": 15,
-    "share_part_name": "精灵荣誉证书分享",
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_ElvenAmbassador_SharePhoto.UMG_ElvenAmbassador_SharePhoto_C'"
+  },
+  {
+    "id": 1601,
+    "share_button_type": 16,
+    "share_type": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_SturgeonCooperation_SharePhoto.UMG_SturgeonCooperation_SharePhoto_C'"
   }
 ]

@@ -1,707 +1,369 @@
 [
   {
     "id": 1,
-    "pet_behavior_type": "alert",
-    "pet_behavior_id": "look_around",
     "ai_behavior_group_id": 9001,
-    "pet_behavior_name": "左顾右盼",
-    "pet_behavior_description": "警觉地四处张望，左看右看。",
     "nature_id": [
       8,
       15
-    ],
-    "behavior_time": [
-      400
     ]
   },
   {
     "id": 2,
-    "pet_behavior_type": "alert",
-    "pet_behavior_id": "confused",
     "ai_behavior_group_id": 9002,
-    "pet_behavior_name": "疑惑",
-    "pet_behavior_description": "疑惑地歪着脑袋，头顶冒出一个问号。",
     "nature_id": [
       11,
       13
-    ],
-    "behavior_time": [
-      400
     ]
   },
   {
     "id": 3,
-    "pet_behavior_type": "alert",
-    "pet_behavior_id": "call_out",
     "ai_behavior_group_id": 9003,
-    "pet_behavior_name": "交流",
-    "pet_behavior_description": "朝着小洛克的方向大声呼唤，试图引起注意。",
     "nature_id": [
       3,
       5
-    ],
-    "behavior_time": [
-      400
     ]
   },
   {
     "id": 4,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "anger",
     "ai_behavior_group_id": 9004,
-    "pet_behavior_name": "生气",
-    "pet_behavior_description": "生气地跺脚，脸上写满了不满。",
     "nature_id": [
       16,
       6
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 5,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "anger_1",
     "ai_behavior_group_id": 9005,
-    "pet_behavior_name": "很生气",
-    "pet_behavior_description": "非常生气，头顶连冒几个问号，表示无法理解",
     "nature_id": [
       6
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 6,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "anger_2",
     "ai_behavior_group_id": 9006,
-    "pet_behavior_name": "特别生气",
-    "pet_behavior_description": "暴怒地跳脚，周身冒着怒气特效。",
     "nature_id": [
       7,
       6
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 7,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "fear",
     "ai_behavior_group_id": 9007,
-    "pet_behavior_name": "惊恐",
-    "pet_behavior_description": "惊恐地后退，身体微微发抖。",
     "nature_id": [
       8,
       9
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 8,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "fear_1",
     "ai_behavior_group_id": 9008,
-    "pet_behavior_name": "特别惊恐",
-    "pet_behavior_description": "吓得浑身剧烈发抖，像是快要晕过去了。",
     "nature_id": [
       9
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 9,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "happy",
     "ai_behavior_group_id": 9009,
-    "pet_behavior_name": "开心",
-    "pet_behavior_description": "开心地蹦蹦跳跳，尾巴摇个不停。",
     "nature_id": [
       3
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 10,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "happy_1",
     "ai_behavior_group_id": 9010,
-    "pet_behavior_name": "很开心",
-    "pet_behavior_description": "非常开心，一边蹦跳一边哼着小曲，音符在身边飘。",
     "nature_id": [
       3,
       1
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 11,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "happy_2",
     "ai_behavior_group_id": 9011,
-    "pet_behavior_name": "超级开心",
-    "pet_behavior_description": "开心得不得了，眼睛里冒出爱心。",
     "nature_id": [
       1
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 12,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "move_left",
     "ai_behavior_group_id": 9012,
-    "pet_behavior_name": "向左移动",
-    "pet_behavior_description": "向左迈出一步。",
     "nature_id": [
       16,
       12
-    ],
-    "behavior_time": [
-      100
     ]
   },
   {
     "id": 13,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "move_right",
     "ai_behavior_group_id": 9013,
-    "pet_behavior_name": "向右移动",
-    "pet_behavior_description": "向右迈出一步。",
     "nature_id": [
       12
-    ],
-    "behavior_time": [
-      100
     ]
   },
   {
     "id": 14,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "relax",
     "ai_behavior_group_id": 9014,
-    "pet_behavior_name": "放松",
-    "pet_behavior_description": "放松地伸了个懒腰，舒展身体。",
     "nature_id": [
       14,
       10
-    ],
-    "behavior_time": [
-      500
     ]
   },
   {
     "id": 15,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "relax_1",
     "ai_behavior_group_id": 9015,
-    "pet_behavior_name": "很放松",
-    "pet_behavior_description": "非常惬意，一边伸懒腰一边哼着小曲。",
     "nature_id": [
       10
-    ],
-    "behavior_time": [
-      500
     ]
   },
   {
     "id": 16,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "sad",
     "ai_behavior_group_id": 9016,
-    "pet_behavior_name": "伤心",
-    "pet_behavior_description": "伤心地垂下脑袋，无精打采。",
     "nature_id": [
       15,
       9
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 17,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "annoyed",
     "ai_behavior_group_id": 9017,
-    "pet_behavior_name": "懊恼",
-    "pet_behavior_description": "懊恼地耷拉着脑袋，头顶冒出一圈圈线圈。",
     "nature_id": [
       11,
       13
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 18,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "disappointed",
     "ai_behavior_group_id": 9018,
-    "pet_behavior_name": "失落",
-    "pet_behavior_description": "失落地低着头，表情尴尬又无奈。",
     "nature_id": [
       1
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 19,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "shock",
     "ai_behavior_group_id": 9019,
-    "pet_behavior_name": "震惊",
-    "pet_behavior_description": "震惊地瞪大眼睛，愣在原地。",
     "nature_id": [
       4,
       11
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 20,
-    "pet_behavior_type": "emotion",
-    "pet_behavior_id": "shock_1",
     "ai_behavior_group_id": 9020,
-    "pet_behavior_name": "很震惊",
-    "pet_behavior_description": "惊得下巴都要掉了，目瞪口呆。",
     "nature_id": [
       5,
       4
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 21,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "show",
     "ai_behavior_group_id": 9021,
-    "pet_behavior_name": "秀秀",
-    "pet_behavior_description": "展示自己的身姿，摆出一个帅气姿势。",
     "nature_id": [
       15,
       7
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 22,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "show_1",
     "ai_behavior_group_id": 9022,
-    "pet_behavior_name": "炫耀",
-    "pet_behavior_description": "炫耀地摆出造型，浑身闪闪发光。",
     "nature_id": [
       7
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 23,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "dizzy",
     "ai_behavior_group_id": 9023,
-    "pet_behavior_name": "晕眩",
-    "pet_behavior_description": "在原地摇摇晃晃地打转，晕头转向站不稳。",
     "nature_id": [
       13,
       16
-    ],
-    "behavior_time": [
-      500
     ]
   },
   {
     "id": 24,
-    "pet_behavior_type": "status",
-    "pet_behavior_id": "jump",
     "ai_behavior_group_id": 9024,
-    "pet_behavior_name": "跳跃",
-    "pet_behavior_description": "兴奋地跳起来，发出一声呼唤。",
     "nature_id": [
       3,
       2
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 25,
-    "pet_behavior_type": "hit",
-    "pet_behavior_id": "hit_1",
     "ai_behavior_group_id": 9025,
-    "pet_behavior_name": "精灵被击中",
-    "pet_behavior_description": "被击中后身体轻轻后仰，吃痛。",
     "nature_id": [
       8,
       4
-    ],
-    "behavior_time": [
-      100
     ]
   },
   {
     "id": 26,
-    "pet_behavior_type": "hit",
-    "pet_behavior_id": "hit_2",
     "ai_behavior_group_id": 9026,
-    "pet_behavior_name": "精灵被击退",
-    "pet_behavior_description": "被击退好几步，踉踉跄跄差点摔倒。",
     "nature_id": [
       4
-    ],
-    "behavior_time": [
-      150
     ]
   },
   {
     "id": 27,
-    "pet_behavior_type": "hit",
-    "pet_behavior_id": "hit_3",
     "ai_behavior_group_id": 9027,
-    "pet_behavior_name": "精灵被击倒",
-    "pet_behavior_description": " 被重重击倒在地，一时爬不起来。",
     "nature_id": [
       12
-    ],
-    "behavior_time": [
-      250
     ]
   },
   {
     "id": 28,
-    "pet_behavior_type": "status",
-    "pet_behavior_id": "nap",
     "ai_behavior_group_id": 9028,
-    "pet_behavior_name": "小睡",
-    "pet_behavior_description": "找个舒服的姿势，闭眼小憩一会儿。",
     "nature_id": [
       14
-    ],
-    "behavior_time": [
-      1500
     ]
   },
   {
     "id": 29,
-    "pet_behavior_type": "status",
-    "pet_behavior_id": "deep_sleep",
     "ai_behavior_group_id": 9029,
-    "pet_behavior_name": "沉睡",
-    "pet_behavior_description": "蜷成一团，沉沉地睡了一大觉。",
     "nature_id": [
       14,
       10
-    ],
-    "behavior_time": [
-      6000
     ]
   },
   {
     "id": 30,
-    "pet_behavior_type": "attack",
-    "pet_behavior_id": "attack_1",
     "ai_behavior_group_id": 9030,
-    "pet_behavior_name": "轻轻攻击主人",
-    "pet_behavior_description": "轻轻用身体撞一下小洛克，像是在玩耍撒娇。",
     "nature_id": [
       2,
       1
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 31,
-    "pet_behavior_type": "attack",
-    "pet_behavior_id": "attack_2",
     "ai_behavior_group_id": 9031,
-    "pet_behavior_name": "大力攻击主人",
-    "pet_behavior_description": "用力扑向小洛克，撞得他疼得直吸气。",
     "nature_id": [
       2,
       6
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 32,
-    "pet_behavior_type": "attack",
-    "pet_behavior_id": "attack_3",
     "ai_behavior_group_id": 9032,
-    "pet_behavior_name": "猛烈攻击主人",
-    "pet_behavior_description": "猛烈地冲向小洛克，把他重重撞倒在地。",
     "nature_id": [
       7
-    ],
-    "behavior_time": [
-      300
     ]
   },
   {
     "id": 33,
-    "pet_behavior_type": "interact",
-    "pet_behavior_id": "heal",
     "ai_behavior_group_id": 9058,
-    "pet_behavior_name": "治愈",
-    "pet_behavior_description": "治愈玩家的伤势，给玩家加了一格血",
     "nature_id": [
       1
-    ],
-    "behavior_time": [
-      300
     ]
   },
   {
     "id": 34,
-    "pet_behavior_type": "words_text",
-    "pet_behavior_id": "words_text",
-    "ai_behavior_group_id": 9057,
-    "pet_behavior_name": "生成对话文本",
-    "pet_behavior_description": "和玩家对话，表达基础语义",
-    "behavior_time": [
-      250
-    ]
+    "ai_behavior_group_id": 9057
   },
   {
     "id": 35,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*chifan",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "吃",
-    "pet_behavior_description": "表达想吃东西的欲望，或是看到美食时的馋意",
     "nature_id": [
       8
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 36,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*aini",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "爱你",
-    "pet_behavior_description": "向玩家表达喜欢;爱意，撒娇示好，或是感谢对方后附赠暖心表达",
     "nature_id": [
       9
     ]
   },
   {
     "id": 37,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*chigua",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "吃瓜",
-    "pet_behavior_description": "围观玩家的八卦;热闹事，只看不说;单纯凑热闹",
     "nature_id": [
       8
     ]
   },
   {
     "id": 38,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*dalao",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "大佬",
-    "pet_behavior_description": "面对厉害;有实力;让人佩服的人时用，带崇拜;敬佩感",
     "nature_id": [
       4
-    ],
-    "behavior_time": [
-      400
     ]
   },
   {
     "id": 39,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*ganxie",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "感谢",
-    "pet_behavior_description": "别人帮了自己;给了好处;送了东西后用，表达感激之情",
     "nature_id": [
       8
-    ],
-    "behavior_time": [
-      3000
     ]
   },
   {
     "id": 40,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*huanying",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "欢迎",
-    "pet_behavior_description": "精灵迎接玩家到来时用，传递接纳;友好的感觉",
     "nature_id": [
       1
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 41,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*kaibai",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "开摆",
-    "pet_behavior_description": "精灵面对压力;麻烦事或不想干活时用，表达不想努力;顺其自然的摆烂心态",
     "nature_id": [
       14
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 42,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*chongya",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "冲鸭",
-    "pet_behavior_description": "元气满满的加油;往前冲，要去做某事;挑战目标;开启新任务时用",
     "nature_id": [
       4,
       13
-    ],
-    "behavior_time": [
-      200
     ]
   },
   {
     "id": 43,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*niu",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "牛逼",
-    "pet_behavior_description": "玩家完成高难度事;出超棒成绩时，精灵看到震撼;厉害的操作;结果时，极度夸赞玩家厉害",
     "nature_id": [
       7
-    ],
-    "behavior_time": [
-      1500
     ]
   },
   {
     "id": 44,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*no",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "不！",
-    "pet_behavior_description": "当精灵被玩家安排不想做的事，或者听到玩家说了意外坏消息，表示强烈拒绝;否定，或是不敢相信;不愿接受某件事时用",
     "nature_id": [
       6,
       16
-    ],
-    "behavior_time": [
-      20
     ]
   },
   {
     "id": 45,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*o",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "哦",
-    "pet_behavior_description": "平淡回应，知道了;了解了，带点敷衍;冷淡，不想多聊时的简短回复",
     "nature_id": [
       10
-    ],
-    "behavior_time": [
-      500
     ]
   },
   {
     "id": 46,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*tantou",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "在么",
-    "pet_behavior_description": "精灵找玩家聊天，比如想问事;找对方帮忙;约一起做事前先发这个搭话",
     "nature_id": [
       5
-    ],
-    "behavior_time": [
-      20
     ]
   },
   {
     "id": 47,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*wa",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "哇",
-    "pet_behavior_description": "表达惊喜;惊讶，看到新奇;好看;震撼的事物或听到意外好消息时用",
     "nature_id": [
       9
-    ],
-    "behavior_time": [
-      500
     ]
   },
   {
     "id": 48,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*wuwuwu",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "呜呜",
-    "pet_behavior_description": "表达委屈;难过;撒娇，受了小委屈;没办成事;感动，或则想要某东西没得到时用",
     "nature_id": [
       15
-    ],
-    "behavior_time": [
-      700
     ]
   },
   {
     "id": 49,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*wuyu",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "无语",
-    "pet_behavior_description": "心里无奈又没法反驳，语气带点嫌弃;无奈，懒得说话",
     "nature_id": [
       10
     ]
   },
   {
     "id": 50,
-    "pet_behavior_type": "emoji_text",
-    "pet_behavior_id": "c#%_1*guagua",
     "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "呱呱思考",
-    "pet_behavior_description": "表示遇到问题;纠结选择;琢磨事情时用，表现认真琢磨;陷入沉思的状态，语气平静.",
     "nature_id": [
       12,
       11
@@ -709,433 +371,228 @@
   },
   {
     "id": 51,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "ignite",
     "ai_behavior_group_id": 9033,
-    "pet_behavior_name": "引燃",
-    "pet_behavior_description": "火属性精灵向周围释放一道火焰波，仅火属性精灵可使用，表演技能",
     "nature_id": [
       16,
-      4
-    ],
-    "type_restricted": [
       4
     ]
   },
   {
     "id": 52,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "greed",
     "ai_behavior_group_id": 9034,
-    "pet_behavior_name": "贪婪",
-    "pet_behavior_description": "恶属性精灵对自身使用贪婪，仅恶属性精灵可使用，表演技能",
     "nature_id": [
       6,
       7
-    ],
-    "type_restricted": [
-      18
     ]
   },
   {
     "id": 53,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "sunny",
     "ai_behavior_group_id": 9035,
-    "pet_behavior_name": "放晴",
-    "pet_behavior_description": "光系精灵改变周围天气为晴天，仅光属性精灵可使用，表演技能",
     "nature_id": [
       5,
       3
-    ],
-    "type_restricted": [
-      6
     ]
   },
   {
     "id": 54,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "spike_shield",
     "ai_behavior_group_id": 9036,
-    "pet_behavior_name": "刺盾",
-    "pet_behavior_description": "地系精灵对自身释放刺盾，仅地属性精灵可使用，表演技能",
     "nature_id": [
       10,
-      8
-    ],
-    "type_restricted": [
       8
     ]
   },
   {
     "id": 55,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "snow",
     "ai_behavior_group_id": 9037,
-    "pet_behavior_name": "唤雪",
-    "pet_behavior_description": "冰系精灵改变周围天气为下雪，仅冰属性精灵可使用，表演技能",
     "nature_id": [
       15,
-      9
-    ],
-    "type_restricted": [
       9
     ]
   },
   {
     "id": 56,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "static",
     "ai_behavior_group_id": 9038,
-    "pet_behavior_name": "静电",
-    "pet_behavior_description": "电系精灵朝周围释放电波，仅电属性精灵可使用，表演技能",
     "nature_id": [
       12,
       2
-    ],
-    "type_restricted": [
-      11
     ]
   },
   {
     "id": 57,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "aroma",
     "ai_behavior_group_id": 9039,
-    "pet_behavior_name": "芳香气息",
-    "pet_behavior_description": "草系精灵释放甜甜香气，仅草属性精灵可使用，表演技能",
     "nature_id": [
       1,
-      3
-    ],
-    "type_restricted": [
       3
     ]
   },
   {
     "id": 58,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "wet",
     "ai_behavior_group_id": 9040,
-    "pet_behavior_name": "打湿",
-    "pet_behavior_description": "水系精灵降下雨水，仅水属性精灵可使用，表演技能",
     "nature_id": [
       13,
       14
-    ],
-    "type_restricted": [
-      5
     ]
   },
   {
     "id": 59,
-    "pet_behavior_type": "skill",
-    "pet_behavior_id": "Iron_streng",
-    "ai_behavior_group_id": 9104,
-    "pet_behavior_name": "机械系强化",
-    "pet_behavior_description": "用于机械系精灵大世界进化自身、强化自身、或者产生某种形态变化",
-    "type_restricted": [
-      19
-    ],
-    "behavior_time": [
-      300
+    "ai_behavior_group_id": 9041,
+    "nature_id": [
+      8,
+      11
     ]
   },
   {
     "id": 60,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "move_nearby",
-    "ai_behavior_group_id": 9041,
-    "pet_behavior_name": "自身附近移动",
-    "pet_behavior_description": "轻松闲逛;等待玩家进一步指令;对话间隙保持存在感时用，在自身附近小范围移动。",
+    "ai_behavior_group_id": 9042,
     "nature_id": [
-      8,
-      11
-    ],
-    "behavior_time": [
-      250
+      13,
+      16
     ]
   },
   {
     "id": 61,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "run_nearby",
-    "ai_behavior_group_id": 9042,
-    "pet_behavior_name": "自身附近跑动",
-    "pet_behavior_description": "情绪兴奋;催促玩家行动;需要制造活跃氛围时用，在自身附近快速跑动。",
-    "nature_id": [
-      13,
-      16
-    ],
-    "behavior_time": [
-      200
-    ]
-  },
-  {
-    "id": 62,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "walk_to_player",
     "ai_behavior_group_id": 9043,
-    "pet_behavior_name": "走动到玩家面前",
-    "pet_behavior_description": "准备认真回应;需要拉近交流距离;进入对话或互动前用，平稳走到玩家面前。",
     "nature_id": [
       1,
       5
     ]
   },
   {
-    "id": 63,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "run_to_player",
+    "id": 62,
     "ai_behavior_group_id": 9044,
-    "pet_behavior_name": "跑到玩家面前",
-    "pet_behavior_description": "急切回应玩家;听到召唤后快速靠近;需要强互动感时用，迅速跑到玩家面前。",
     "nature_id": [
       3
     ]
   },
   {
-    "id": 64,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "run_away",
+    "id": 63,
     "ai_behavior_group_id": 9045,
-    "pet_behavior_name": "远离玩家跑开",
-    "pet_behavior_description": "害怕;害羞;被拒绝或需要暂时拉开距离时用，快速远离玩家。",
     "nature_id": [
       9,
       15
-    ],
-    "behavior_time": [
-      400
+    ]
+  },
+  {
+    "id": 64,
+    "ai_behavior_group_id": 9046,
+    "nature_id": [
+      1,
+      12
     ]
   },
   {
     "id": 65,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "follow_player",
-    "ai_behavior_group_id": 9046,
-    "pet_behavior_name": "持续的跟随玩家",
-    "pet_behavior_description": "表达陪伴;护送玩家移动;玩家探索或赶路阶段时用，持续跟随一段时间。",
+    "ai_behavior_group_id": 9047,
     "nature_id": [
-      1,
-      12
-    ],
-    "behavior_time": [
-      3000
+      2,
+      4
     ]
   },
   {
     "id": 66,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "jump_to_player",
-    "ai_behavior_group_id": 9047,
-    "pet_behavior_name": "跳向玩家面前",
-    "pet_behavior_description": "想引起玩家注意;兴奋打招呼;请求互动时用，跳到玩家面前。",
+    "ai_behavior_group_id": 9048,
     "nature_id": [
-      2,
-      4
-    ],
-    "behavior_time": [
-      200
+      16
     ]
   },
   {
     "id": 67,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "jump_near_player",
-    "ai_behavior_group_id": 9048,
-    "pet_behavior_name": "跳向玩家附近",
-    "pet_behavior_description": "活泼玩闹;轻松调皮互动;不需贴脸但想靠近时用，跳到玩家附近。",
+    "ai_behavior_group_id": 9049,
     "nature_id": [
-      16
-    ],
-    "behavior_time": [
-      200
+      2,
+      7
     ]
   },
   {
     "id": 68,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "launch_player",
-    "ai_behavior_group_id": 9049,
-    "pet_behavior_name": "发射玩家",
-    "pet_behavior_description": "仅在搞怪整活;玩家明确允许的玩笑场景;需要强戏剧效果时用，把玩家弹飞。",
+    "ai_behavior_group_id": 9050,
     "nature_id": [
       2,
-      7
-    ],
-    "behavior_time": [
-      200
+      10
     ]
   },
   {
     "id": 69,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "\tcircle_player",
-    "ai_behavior_group_id": 9050,
-    "pet_behavior_name": "围着玩家绕圈",
-    "pet_behavior_description": "撒娇求关注;开心或好奇观察玩家时用，围绕玩家移动制造陪伴感。",
+    "ai_behavior_group_id": 9051,
     "nature_id": [
-      2,
-      10
-    ],
-    "behavior_time": [
-      1500
+      5,
+      11
     ]
   },
   {
     "id": 70,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "turn_to_player",
-    "ai_behavior_group_id": 9051,
-    "pet_behavior_name": "转向玩家",
-    "pet_behavior_description": "玩家发言后立即响应;需要表示“我在听”时用，瞬间转向玩家。",
+    "ai_behavior_group_id": 9052,
     "nature_id": [
-      5,
-      11
-    ],
-    "behavior_time": [
-      20
+      11,
+      6
     ]
   },
   {
     "id": 71,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "keep_turning",
-    "ai_behavior_group_id": 9052,
-    "pet_behavior_name": "持续转向玩家",
-    "pet_behavior_description": "玩家持续移动或说话时保持关注;强调专注倾听时用，短时间持续朝向玩家。",
+    "ai_behavior_group_id": 9053,
     "nature_id": [
-      11,
-      6
-    ],
-    "behavior_time": [
-      500
+      9,
+      15
     ]
   },
   {
     "id": 72,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "turn_away",
-    "ai_behavior_group_id": 9053,
-    "pet_behavior_name": "背对玩家",
-    "pet_behavior_description": "生气;闹别扭;表达拒绝交流或轻度负面情绪时用，短暂背对玩家。",
+    "ai_behavior_group_id": 9054,
     "nature_id": [
-      9,
-      15
-    ],
-    "behavior_time": [
-      20
+      6,
+      14
     ]
   },
   {
     "id": 73,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "keep_turn_away",
-    "ai_behavior_group_id": 9054,
-    "pet_behavior_name": "持续背对玩家",
-    "pet_behavior_description": "明确不满;需要强化冷淡态度时用，持续背对玩家数秒。",
+    "ai_behavior_group_id": 9055,
     "nature_id": [
-      6,
-      14
-    ],
-    "behavior_time": [
-      500
+      4,
+      5
     ]
   },
   {
     "id": 74,
-    "pet_behavior_type": "action",
-    "pet_behavior_id": "look_at_player",
-    "ai_behavior_group_id": 9055,
-    "pet_behavior_name": "看向玩家",
-    "pet_behavior_description": "日常陪伴待机;倾听玩家输入;无位移但保持互动关注时用，持续看向玩家。",
-    "nature_id": [
-      4,
-      5
-    ],
-    "behavior_time": [
-      700
-    ]
+    "ai_behavior_group_id": 9059
   },
   {
     "id": 75,
-    "pet_behavior_type": "feedback",
-    "pet_behavior_id": "feedback_positive",
-    "ai_behavior_group_id": 9059,
-    "pet_behavior_name": "通用正向反馈",
-    "pet_behavior_description": "当玩家对精灵的行为正面反馈时候，播放这个表示精灵收到反馈并且开心的动作"
+    "ai_behavior_group_id": 9060
   },
   {
     "id": 76,
-    "pet_behavior_type": "feedback",
-    "pet_behavior_id": "feedback_negative",
-    "ai_behavior_group_id": 9060,
-    "pet_behavior_name": "通用负面反馈",
-    "pet_behavior_description": "当玩家对精灵的行为进行反馈时候，播放这个表示精灵收到反馈并且失落的动作"
+    "ai_behavior_group_id": 9061
   },
   {
     "id": 77,
-    "pet_behavior_type": "feedback",
-    "pet_behavior_id": "feedback_start",
-    "ai_behavior_group_id": 9061,
-    "pet_behavior_name": "通用开始反馈",
-    "pet_behavior_description": "当LLM开始接入后，表示精灵开始听和思考，放在所有行为的开头。"
+    "ai_behavior_group_id": 9001
   },
   {
     "id": 78,
-    "pet_behavior_type": "feedback_cd",
-    "pet_behavior_id": "feedback_look_around",
-    "ai_behavior_group_id": 9001,
-    "pet_behavior_name": "左顾右盼_cd",
-    "pet_behavior_description": "LLM调用处于CD中，随机反馈的行为：警觉地四处张望，左看右看。"
+    "ai_behavior_group_id": 9028
   },
   {
     "id": 79,
-    "pet_behavior_type": "feedback_cd",
-    "pet_behavior_id": "feedback_look_nap",
-    "ai_behavior_group_id": 9028,
-    "pet_behavior_name": "小睡_cd",
-    "pet_behavior_description": "LLM调用处于CD中，随机反馈的行为：找个舒服的姿势，闭眼小憩一会儿。"
+    "ai_behavior_group_id": 9014
   },
   {
     "id": 80,
-    "pet_behavior_type": "feedback_cd",
-    "pet_behavior_id": "feedback_relax",
-    "ai_behavior_group_id": 9014,
-    "pet_behavior_name": "放松_cd",
-    "pet_behavior_description": "LLM调用处于CD中，随机反馈的行为：放松地伸了个懒腰，舒展身体。"
+    "ai_behavior_group_id": 9002
   },
   {
     "id": 81,
-    "pet_behavior_type": "feedback_fall",
-    "pet_behavior_id": "feedback_confused",
-    "ai_behavior_group_id": 9002,
-    "pet_behavior_name": "疑惑_fallback",
-    "pet_behavior_description": "当LLM调用fallback时，随机反馈的行为：疑惑地歪着脑袋，头顶冒出一个问号。"
+    "ai_behavior_group_id": 9056
   },
   {
     "id": 82,
-    "pet_behavior_type": "feedback_fall",
-    "pet_behavior_id": "c#%_1*no",
-    "ai_behavior_group_id": 9056,
-    "pet_behavior_name": "不_fallback",
-    "pet_behavior_description": "当LLM调用fallback时，随机反馈的行为：精灵被玩家安排不想做的事，或者听到玩家说了意外坏消息，表示强烈拒绝;否定"
+    "ai_behavior_group_id": 9018
   },
   {
     "id": 83,
-    "pet_behavior_type": "feedback_fall",
-    "pet_behavior_id": "feedback_disappointed",
-    "ai_behavior_group_id": 9018,
-    "pet_behavior_name": "失落_fallback",
-    "pet_behavior_description": "当LLM调用fallback时，随机反馈的行为：失落地低着头，表情尴尬又无奈。"
+    "ai_behavior_group_id": 9119
   },
   {
     "id": 84,
-    "pet_behavior_type": "clean",
-    "pet_behavior_id": "behavioral_clean",
-    "ai_behavior_group_id": 9119,
-    "pet_behavior_name": "清除精灵已有行为",
-    "pet_behavior_description": "当精灵触发新的表演时，需要清理匿踪等一些会影响表演的状态，只在特殊情况下触发"
+    "ai_behavior_group_id": 9104
   }
 ]

@@ -1,8 +1,7 @@
 [
   {
     "id": 1,
-    "ai_status": 1,
-    "buff_coexistence_group": 1
+    "ai_status": 1
   },
   {
     "id": 2,
@@ -11,9 +10,7 @@
   {
     "id": 3,
     "ai_status": 3,
-    "ai_status_trans_buff_id": 20500010,
-    "buff_priority": 2,
-    "buff_coexistence_group": 1
+    "buff_priority": 2
   },
   {
     "id": 4,
@@ -26,19 +23,16 @@
   {
     "id": 6,
     "ai_status": 6,
-    "ai_status_trans_buff_id": 20500030,
     "buff_priority": 3
   },
   {
     "id": 7,
     "ai_status": 7,
-    "ai_status_trans_buff_id": 20500040,
     "buff_priority": 3
   },
   {
     "id": 8,
     "ai_status": 8,
-    "ai_status_trans_buff_id": 20500050,
     "buff_priority": 3
   },
   {
@@ -56,7 +50,6 @@
   {
     "id": 12,
     "ai_status": 12,
-    "ai_status_trans_buff_id": 20500070,
     "buff_priority": 3
   },
   {
@@ -66,19 +59,16 @@
   {
     "id": 14,
     "ai_status": 14,
-    "ai_status_trans_buff_id": 20500090,
     "buff_priority": 3
   },
   {
     "id": 15,
     "ai_status": 15,
-    "ai_status_trans_buff_id": 20500090,
     "buff_priority": 3
   },
   {
     "id": 16,
     "ai_status": 16,
-    "ai_status_trans_buff_id": 20500100,
     "buff_priority": 3
   },
   {
@@ -88,37 +78,27 @@
   {
     "id": 18,
     "ai_status": 18,
-    "ai_status_trans_buff_id": 20330010,
-    "buff_priority": 1,
-    "buff_coexistence_group": 1
+    "buff_priority": 1
   },
   {
     "id": 19,
     "ai_status": 19,
-    "ai_status_trans_buff_id": 20500130,
-    "buff_priority": 4,
-    "buff_coexistence_group": 1
+    "buff_priority": 4
   },
   {
     "id": 20,
     "ai_status": 20,
-    "ai_status_trans_buff_id": 20500140,
-    "buff_priority": 4,
-    "buff_coexistence_group": 1
+    "buff_priority": 4
   },
   {
     "id": 21,
     "ai_status": 21,
-    "ai_status_trans_buff_id": 20500150,
-    "buff_priority": 4,
-    "buff_coexistence_group": 1
+    "buff_priority": 4
   },
   {
     "id": 22,
     "ai_status": 22,
-    "ai_status_trans_buff_id": 20500160,
-    "buff_priority": 4,
-    "buff_coexistence_group": 1
+    "buff_priority": 4
   },
   {
     "id": 23,
@@ -127,9 +107,7 @@
   {
     "id": 24,
     "ai_status": 24,
-    "ai_status_trans_buff_id": 20960020,
-    "buff_priority": 5,
-    "buff_coexistence_group": 1
+    "buff_priority": 5
   },
   {
     "id": 25,
@@ -142,29 +120,36 @@
   {
     "id": 27,
     "ai_status": 27,
-    "ai_status_trans_buff_id": 20230010,
-    "buff_priority": 1,
-    "buff_coexistence_group": 1
+    "buff_priority": 1
   },
   {
     "id": 28,
     "ai_status": 29,
-    "ai_status_trans_buff_id": 21440010,
-    "buff_priority": 5,
-    "buff_coexistence_group": 1
+    "buff_priority": 5
   },
   {
     "id": 29,
     "ai_status": 30,
-    "ai_status_trans_buff_id": 20330010,
-    "buff_priority": 4,
-    "buff_coexistence_group": 1
+    "buff_priority": 4
   },
   {
     "id": 30,
     "ai_status": 31,
-    "ai_status_trans_buff_id": 21490010,
-    "buff_priority": 5,
-    "buff_coexistence_group": 1
+    "buff_priority": 5
+  },
+  {
+    "id": 31,
+    "ai_status": 32,
+    "buff_priority": 5
+  },
+  {
+    "id": 32,
+    "ai_status": 33,
+    "buff_priority": 5
+  },
+  {
+    "id": 33,
+    "ai_status": 34,
+    "buff_priority": 5
   }
 ]

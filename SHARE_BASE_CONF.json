@@ -2,7 +2,6 @@
   {
     "id": 1,
     "share_button_type": 1,
-    "share_name": "精灵分享",
     "base_id": [
       101,
       102,
@@ -19,7 +18,6 @@
   {
     "id": 2,
     "share_button_type": 2,
-    "share_name": "拍照分享",
     "base_id": [
       201
     ],
@@ -31,7 +29,6 @@
   {
     "id": 3,
     "share_button_type": 3,
-    "share_name": "截图分享",
     "base_id": [
       301
     ],
@@ -43,7 +40,6 @@
   {
     "id": 4,
     "share_button_type": 4,
-    "share_name": "阵容分享",
     "base_id": [
       401
     ],
@@ -55,7 +51,6 @@
   {
     "id": 5,
     "share_button_type": 5,
-    "share_name": "名片分享",
     "base_id": [
       501,
       502
@@ -70,7 +65,6 @@
   {
     "id": 6,
     "share_button_type": 6,
-    "share_name": "闪耀大赛分享",
     "base_id": [
       601
     ],
@@ -82,7 +76,6 @@
   {
     "id": 7,
     "share_button_type": 7,
-    "share_name": "精灵上报分享",
     "base_id": [
       701
     ],
@@ -94,7 +87,6 @@
   {
     "id": 8,
     "share_button_type": 8,
-    "share_name": "精灵合影分享",
     "base_id": [
       801
     ],
@@ -106,7 +98,6 @@
   {
     "id": 9,
     "share_button_type": 9,
-    "share_name": "留影分享",
     "base_id": [
       901
     ],
@@ -118,7 +109,6 @@
   {
     "id": 10,
     "share_button_type": 10,
-    "share_name": "SIM卡分享",
     "base_id": [
       1001,
       1003
@@ -131,7 +121,6 @@
   {
     "id": 11,
     "share_button_type": 11,
-    "share_name": "邀请好友活动",
     "base_id": [
       1101,
       1102
@@ -144,7 +133,6 @@
   {
     "id": 12,
     "share_button_type": 12,
-    "share_name": "SS套装分享",
     "base_id": [
       1201
     ],
@@ -156,7 +144,6 @@
   {
     "id": 13,
     "share_button_type": 13,
-    "share_name": "其他套装分享",
     "base_id": [
       1202
     ],
@@ -168,7 +155,6 @@
   {
     "id": 14,
     "share_button_type": 14,
-    "share_name": "主题摄影分享",
     "base_id": [
       1301
     ],
@@ -180,13 +166,23 @@
   {
     "id": 15,
     "share_button_type": 15,
-    "share_name": "精灵荣誉证书分享",
     "base_id": [
       1501
     ],
     "is_open": 1,
     "system_control_limit": [
       53140000
+    ]
+  },
+  {
+    "id": 16,
+    "share_button_type": 16,
+    "base_id": [
+      1601
+    ],
+    "is_open": 1,
+    "system_control_limit": [
+      53150000
     ]
   }
 ]

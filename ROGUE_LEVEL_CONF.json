@@ -3,7 +3,6 @@
     "id": 1001,
     "initial_coin": 120,
     "monster_level": 50,
-    "monster_level_growth": 5,
     "event": [
       1000,
       1001,
@@ -53,63 +52,48 @@
     ],
     "node": [
       {
-        "node_id": 1,
         "level": 50
       },
       {
-        "node_id": 2,
         "level": 50
       },
       {
-        "node_id": 3,
         "level": 55
       },
       {
-        "node_id": 4,
         "level": 55
       },
       {
-        "node_id": 5,
         "level": 65
       },
       {
-        "node_id": 6,
         "level": 60
       },
       {
-        "node_id": 7,
         "level": 60
       },
       {
-        "node_id": 8,
         "level": 65
       },
       {
-        "node_id": 9,
         "level": 65
       },
       {
-        "node_id": 10,
         "level": 75
       },
       {
-        "node_id": 11,
         "level": 70
       },
       {
-        "node_id": 12,
         "level": 70
       },
       {
-        "node_id": 13,
         "level": 80
       },
       {
-        "node_id": 14,
         "level": 75
       },
       {
-        "node_id": 15,
         "event_id": [
           2203
         ],
@@ -121,7 +105,6 @@
     "id": 1002,
     "initial_coin": 120,
     "monster_level": 50,
-    "monster_level_growth": 5,
     "event": [
       1000,
       1001,
@@ -163,15 +146,12 @@
     ],
     "node": [
       {
-        "node_id": 1,
         "level": 50
       },
       {
-        "node_id": 2,
         "level": 50
       },
       {
-        "node_id": 3,
         "hide": true,
         "event_id": [
           1200,
@@ -184,11 +164,9 @@
         "level": 55
       },
       {
-        "node_id": 4,
         "level": 55
       },
       {
-        "node_id": 5,
         "hide": true,
         "event_id": [
           2000,
@@ -203,15 +181,12 @@
         "level": 65
       },
       {
-        "node_id": 6,
         "level": 60
       },
       {
-        "node_id": 7,
         "level": 60
       },
       {
-        "node_id": 8,
         "hide": true,
         "event_id": [
           1300,
@@ -224,11 +199,9 @@
         "level": 65
       },
       {
-        "node_id": 9,
         "level": 70
       },
       {
-        "node_id": 10,
         "hide": true,
         "event_id": [
           2200,
@@ -238,15 +211,12 @@
         "level": 80
       },
       {
-        "node_id": 11,
         "level": 75
       },
       {
-        "node_id": 12,
         "level": 75
       },
       {
-        "node_id": 13,
         "hide": true,
         "event_id": [
           2000,
@@ -261,11 +231,9 @@
         "level": 85
       },
       {
-        "node_id": 14,
         "level": 85
       },
       {
-        "node_id": 15,
         "event_id": [
           2203
         ],
@@ -277,10 +245,8 @@
     "id": 1003,
     "initial_coin": 120,
     "monster_level": 50,
-    "monster_level_growth": 5,
     "node": [
       {
-        "node_id": 1,
         "hide": true,
         "event_id": [
           1000,
@@ -321,7 +287,6 @@
         "level": 50
       },
       {
-        "node_id": 2,
         "hide": true,
         "event_id": [
           1000,
@@ -362,7 +327,6 @@
         "level": 50
       },
       {
-        "node_id": 3,
         "hide": true,
         "event_id": [
           1200,
@@ -374,7 +338,6 @@
         ]
       },
       {
-        "node_id": 4,
         "hide": true,
         "event_id": [
           1000,
@@ -414,7 +377,6 @@
         ]
       },
       {
-        "node_id": 5,
         "hide": true,
         "event_id": [
           2000,
@@ -428,7 +390,6 @@
         ]
       },
       {
-        "node_id": 6,
         "hide": true,
         "event_id": [
           1000,
@@ -466,7 +427,6 @@
         ]
       },
       {
-        "node_id": 7,
         "hide": true,
         "event_id": [
           1000,
@@ -504,7 +464,6 @@
         ]
       },
       {
-        "node_id": 8,
         "hide": true,
         "event_id": [
           1300,
@@ -514,7 +473,6 @@
         ]
       },
       {
-        "node_id": 9,
         "hide": true,
         "event_id": [
           1000,
@@ -552,7 +510,6 @@
         ]
       },
       {
-        "node_id": 10,
         "hide": true,
         "event_id": [
           2200,
@@ -560,7 +517,6 @@
         ]
       },
       {
-        "node_id": 11,
         "hide": true,
         "event_id": [
           1000,
@@ -602,7 +558,6 @@
         ]
       },
       {
-        "node_id": 12,
         "hide": true,
         "event_id": [
           1000,
@@ -644,7 +599,6 @@
         ]
       },
       {
-        "node_id": 13,
         "hide": true,
         "event_id": [
           3000,
@@ -657,7 +611,6 @@
         ]
       },
       {
-        "node_id": 14,
         "hide": true,
         "event_id": [
           1000,
@@ -699,7 +652,6 @@
         ]
       },
       {
-        "node_id": 15,
         "event_id": [
           2203
         ],

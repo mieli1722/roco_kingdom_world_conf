@@ -98,5 +98,33 @@
         ]
       }
     ]
+  },
+  {
+    "id": 4,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_IconTouristReward_png.img_IconTouristReward_png'",
+    "text": "月度补给待寻回",
+    "red_point_key": 605,
+    "display_condition": [
+      {
+        "display_type": 4
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/BigMapStatic/Frames/img_MapMarke_GeneralIcon_Chest1_png.img_MapMarke_GeneralIcon_Chest1_png'",
+    "text": "学期奖励待领取",
+    "map_element": [
+      910021,
+      910022,
+      910023,
+      910024
+    ],
+    "red_point_key": 603,
+    "display_condition": [
+      {
+        "display_type": 5
+      }
+    ]
   }
 ]

@@ -2392,6 +2392,20 @@
     "action_type": 10135
   },
   {
+    "id": 13001,
+    "interact_cond_group": [
+      {
+        "interact_cond": 5,
+        "interact_cond_param": [
+          "1"
+        ]
+      }
+    ],
+    "action_type": 1002,
+    "action_param1": "3",
+    "action_param2": "8"
+  },
+  {
     "id": 20001,
     "priority": 1,
     "weight": 10,
@@ -2957,6 +2971,42 @@
     ],
     "action_type": 10135,
     "action_param1": "1"
+  },
+  {
+    "id": 800001,
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_PHANTOM",
+          "SDT_GHOST"
+        ]
+      }
+    ],
+    "action_type": 10135
+  },
+  {
+    "id": 800002,
+    "priority": 1,
+    "weight": 100,
+    "cond_logic_type": 1,
+    "interact_cond_group": [
+      {
+        "interact_cond": 1,
+        "interact_cond_param": [
+          "SDT_FIRE"
+        ]
+      },
+      {
+        "interact_cond": 10,
+        "interact_cond_param": [
+          "SALS_TRIGGER_OFF"
+        ]
+      }
+    ],
+    "action_type": 20003,
+    "action_param1": "SALS_TRIGGER_ON",
+    "action_param2": "10014"
   },
   {
     "id": 1340801,

@@ -1,8 +1,9 @@
 [
   {
     "id": 1001,
-    "name": "默认气泡",
+    "name": "默认聊天气泡",
     "onboard": true,
+    "item_quality": 3,
     "bubble_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/ChatBubble/img_Bubble01.img_Bubble01'",
     "bubble_backimage": "PaperSprite'/Game/NewRoco/Modules/System/Friend/Raw/Chat/Frames/img_ChatBg01_png.img_ChatBg01_png'",
     "color_me": "#FFC65FFF",

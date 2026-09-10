@@ -64,6 +64,33 @@
     "percep_rate": 3
   },
   {
+    "id": 4,
+    "editor_name": "模糊感知锥-远",
+    "sense_cone_type": 1,
+    "enable_state_type": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      14,
+      6
+    ],
+    "start_angle": -180,
+    "end_angle": 180,
+    "percep_radius": 2000,
+    "height_modify": 100,
+    "percep_rate": 8
+  },
+  {
     "id": 6,
     "editor_name": "60米感知",
     "sense_cone_type": 2,

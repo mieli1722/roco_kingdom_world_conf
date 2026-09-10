@@ -1,2898 +1,695 @@
 [
   {
-    "id": 70001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "拾光通行证结束",
-    "mail_sender": "神秘发行方",
-    "mail_content": "亲爱的小洛克，这是您在拾光通行证中忘记领取的奖励，请查收。\n今后的旅途，也请您继续加油吧！"
-  },
-  {
-    "id": 70002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "工程部测试礼包",
-    "mail_sender": "王国工程部",
-    "mail_content": "王国工程部正在检查魔法邮件性能，检查倒计时开始，3、2、1！好运常在，一切正常！",
-    "reward_id": 670000
-  },
-  {
-    "id": 70003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "{0}余量变化通知",
-    "mail_sender": "王国工程部",
-    "mail_content": "获取{0}：{1}，当前{0}余量：{2}。余量为负数时，游戏内余量均显示为0，期间余量变化通过邮件通知，请您留意。",
-    "use_svr_data": 1
-  },
-  {
-    "id": 70004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "{0}余量变化通知",
-    "mail_sender": "王国工程部",
-    "mail_content": "获取{0}：{1}，当前{0}余量：{2}。当前{0}余量显示已恢复。",
-    "use_svr_data": 1
-  },
-  {
-    "id": 70005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "道具获取超限通知",
-    "mail_sender": "王国工程部",
-    "mail_content": "系统出现异常，无法领取以下附件中道具。王国工程部已收到反馈，异常修复或等待{0}小时后可恢复领取。",
-    "use_svr_data": 1
-  },
-  {
-    "id": 70006,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "{0}余量变化通知",
-    "mail_sender": "王国工程部",
-    "mail_content": "获取{0}：{1}，当前{0}余量：{2}。余量为负数时，游戏内余量均显示为0。为避免邮件重复打扰，今日将不再提示余量变化，您可前往客服界面查询货币或道具流水。",
-    "use_svr_data": 1
-  },
-  {
-    "id": 70008,
-    "mail_platform": 2,
-    "start_time": "2026/03/27/23/00",
-    "end_time": "2026/04/12/23/59",
-    "validity": 30,
-    "mail_title": "万物有灵，感恩同行",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克： \n \n万物有灵，感恩同行！《洛克王国：世界》登顶App  Store游戏免费榜、畅销总榜第一！这份荣誉属于所有爱着王国的小洛克，谢谢你的到来！ \n \n是你们的信任，让我们敢于坚守初心，也让王国得以稳步成长！ \n \n特此全服赠送「棱镜球」*2，「国王球」*5，4月12日24点之前注册的小洛克均可领取！ \n\n再次感谢所有小洛克的支持和喜爱，祝大家游戏愉快！\n \n \n《洛克王国：世界》项目组",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 2
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100255,
-        "goods_count": 5
-      }
-    ]
-  },
-  {
-    "id": 70009,
-    "mail_platform": 2,
-    "start_time": "2026/04/03/23/30",
-    "end_time": "2026/04/19/23/59",
-    "validity": 30,
-    "mail_title": "注册3000万心意赠礼",
-    "mail_sender": "《洛克王国：世界》项目组",
-    "mail_content": "亲爱的小洛克： \n\n《洛克王国：世界》全网注册突破3000万！\n\n这份沉甸甸的数字背后，是每一位小洛克的热爱与陪伴，我们深怀感激。\n\n随信附上一份心意赠礼「棱镜球」*1，「同乘精灵蛋」*1，称号「相伴同行」*1，4月19日24点之前注册的小洛克均可领取！ \n\n特别说明：「同乘精灵蛋」孵化的精灵必定拥有“同乘”特长。\n\n前路漫漫，魔法常新。项目组将持续优化，为大家带来更好的游戏体验。感谢您与我们并肩同行。\n",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 600006,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 15,
-        "goods_id": 3017,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70010,
-    "mail_platform": 2,
-    "start_time": "2026/04/04/08/00",
-    "end_time": "2026/04/09/03/59",
-    "validity": 30,
-    "mail_title": "临时更新完成通知",
-    "mail_sender": "《洛克王国：世界》项目组",
-    "mail_content": "亲爱的小洛克：\n\n今日临时更新已完成，详细更新内容请关注游戏公告。感谢大家积极的反馈与真挚的建议，正是你们的信任，让我们始终敢于坚持初心，也让王国得以稳步成长。\n\n随信赠送「坠星遗石」*5、「高级咕噜球」*200，感谢每一位小洛克的陪伴与喜爱，感谢与我们继续同行。\n",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100653,
-        "goods_count": 5
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100003,
-        "goods_count": 200
-      }
-    ]
-  },
-  {
-    "id": 70011,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "狂欢通行证结束",
-    "mail_sender": "神秘发行方",
-    "mail_content": "亲爱的小洛克，这是您在狂欢通行证中忘记领取的奖励，请查收。\n今后的旅途，也请您继续加油吧！"
-  },
-  {
-    "id": 70012,
-    "mail_platform": 2,
-    "start_time": "2026/04/16/10/00",
-    "end_time": "2026/04/30/23/59",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "4月16日周版本更新通知",
-    "mail_sender": "《洛克王国：世界》项目组",
-    "mail_content": "亲爱的小洛克：\n\n4月16日周版本更新已完成，详细更新内容请关注游戏公告及《致小洛克的一封信》。\n\n前路漫长，唯有诚意与行动，能回报每一份等待。我们重视每一份声音，希望每一次调整和优化都将筑造更好的洛克王国。非常抱歉优化的速度没法尽善尽美，但请相信，迭代一直在路上，不会停歇。\n\n随信赠送「异色双灯鱼的蛋」*1、「自选S1奇遇异色精灵的蛋」*1。「异色双灯鱼的蛋」拥有定制效果，必定为雄性、性格为胆小，特长为爱分享，天分为了不起。「自选S1奇遇异色精灵的蛋」，可在16个赛季异色精灵选择其一，孵化后天分为了不起，属性随机。发放后需前往背包打开，选择后将无法更换，请小洛克选择前务必谨慎。\n\n感谢每一位小洛克的陪伴与喜爱，感谢与我们继续同行。\n",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 150004,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100012,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70013,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "幻梦通行证结束",
-    "mail_sender": "神秘发行方",
-    "mail_content": "亲爱的小洛克，这是您在幻梦通行证中忘记领取的奖励，请查收。\n今后的旅途，也请您继续加油吧！"
-  },
-  {
-    "id": 70014,
-    "mail_platform": 2,
-    "start_time": "2026/05/08/23/00",
-    "end_time": "2026/05/21/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "奇丽草大量出没活动补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n“奇丽草大量出没”活动异常已修复，详细信息请关注游戏公告。现为您发送补偿「光合球」*500、「分光水晶」*200。给您带来的不便深表歉意，感谢各位小洛克的理解与支持。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/05/09/04/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100271,
-        "goods_count": 500
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100699,
-        "goods_count": 200
-      }
-    ]
-  },
-  {
-    "id": 70015,
-    "mail_platform": 2,
-    "start_time": "2026/05/21/04/00",
-    "end_time": "2026/07/16/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新版本维护补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n欢迎来到S2赛季「狂欢怪谈」，更多新版本内容详见游戏公告。\n本次停服更新补偿为「分光水晶」*300，版本更新奖励为「许愿星」*10，「S2赛季随机炫彩蛋」*1。\n祝您游戏愉快。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/05/25/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100699,
-        "goods_count": 300
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 3,
-        "goods_count": 10
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 600005,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70016,
-    "mail_platform": 2,
-    "start_time": "2026/05/22/22/00",
-    "end_time": "2026/07/16/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "S2赛季延迟开服补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n\n感谢各位小洛克对S2赛季「狂欢怪谈」维护期间的耐心等待。\n延迟开服补偿为「分光水晶」*300、「许愿星」*20，感谢您的支持与理解。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/05/25/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100699,
-        "goods_count": 300
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 3,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 70017,
-    "mail_platform": 2,
-    "start_time": "2026/05/22/22/00",
-    "end_time": "2026/07/16/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "关于近期问题补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n\n针对近期调整，因我们的沟通方式存在不足，导致大家产生困惑，并对我们的信息透明度产生疑虑，我们对此深表歉意。相关问题及后续改进计划详见官方公告。\n\n随信向全服小洛克发放补偿：「棱镜球」*2。\n\n再次为此事郑重致歉，感谢大家长久以来的支持和陪伴。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/05/31/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 2
-      }
-    ]
-  },
-  {
-    "id": 70018,
-    "mail_platform": 2,
-    "start_time": "2026/05/23/09/00",
-    "end_time": "2026/07/16/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "狂欢代币商店精灵蛋异常补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n\nS2赛季「狂欢代币商店」烟花团精灵蛋、小丑豆豆精灵蛋个体资质异常的问题现已修复。\n\n修复后对应的「烟花团的蛋」孵化后将由物攻个体资质变更为魔攻个体资质（生命、魔攻、魔防），「小丑豆豆的蛋」孵化后将由魔攻个体资质变更为物攻个体资质（生命、物攻、速度）。\n\n随信向全服小洛克发放补偿：「适格钥匙」*1，「狂欢代币」*100。\n\n已经孵化异常个体资质精灵的玩家，我们将于3个工作日内完成数据统计后发放补偿。更多内容请见游戏公告。\n\n给您带来的不便深表歉意，感谢各位小洛克的理解与支持。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/05/25/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100422,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 74,
-        "goods_count": 100
-      }
-    ]
-  },
-  {
-    "id": 70019,
-    "mail_platform": 2,
-    "start_time": "2026/05/24/20/30",
-    "end_time": "2026/07/16/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "开水的一封信",
-    "mail_sender": "开水",
-    "mail_content": "大家好，我是《洛克王国：世界》的主策划开水。\n\n非常抱歉今天以这样的方式和大家沟通。过去几天里，我和团队几乎一直在会议室、工位和线上沟通里来回切换，希望可以尽快集中讨论、定位、修复大家提到的问题。\n\n截至目前：\n1、由于我们在版本管理、需求准入等工作失误引发的多数变动，目前已在5月23日、24日两次更新后完成回退与修复（包括：精灵骑乘动画调整、炫彩部位调整、表情丢失、生态丢失等数十条问题），剩余未解决的问题也都将在本赛季期间尽早尽快解决；\n2、动作自定义功能提供设置的方案由于需要额外开发，正在加紧推进。为了不让大家继续担心，我们也协调了新的开发方案，将比原计划的28日更提前发布；\n3、由于版本设计考虑不周和S1遗留的体验问题优化方案，也已在推进中。养成材料的缓和、新的回溯机制均已进入开发阶段；\n4、所有以上问题的详情都可以查看23、24日连续两天的游戏更新公告，如有发现其他未在本轮排查中发现的问题，也感谢大家继续反馈；\n5、针对未来版本内容的公示流程我们也已进行了梳理，将在后续的版本更新中杜绝关键调整未进行公告的情况。\n\n随着反馈量级最大、最集中影响体验的问题逐步被修复，我终于有机会坐下来，认真和大家澄清一些事实，说说更多的心里话。因为感觉有些事情，如果没能在今天亲口说出来，一定会留下后悔与遗憾。\n\n<span color=\"#ADFF2F\" size=\"22\">【“为自己编织一场梦吧”】</>\n在游戏策划的身份之外我也是一位玩家，我喜欢讨论游戏：每一段故事，每一个游戏机制，每一个深藏的彩蛋。\n游戏应该是一种人与人之间愿望的交换。\n但在很长一段时间内，我不喜欢玩自己做的游戏，玩家也不喜欢我做的东西。\n后来我也只能尽可能将游戏、甚至自己都视作一段数据，因为如果不这样我会很痛苦。\n\n那段时间，我想过很多出路。\n我甚至一度觉得，也许我这样的想法其实根本不适合继续做游戏。\n但也有一个念头，始终在我脑中挥之不去：做一款大家都能喜欢的游戏就真的做不到么？\n在这之后便是《洛克王国：世界》的故事。\n\n<span color=\"#ADFF2F\" size=\"22\">【“生命应邀成为愿望的燃料”】</>\n游戏的开发过程确实很坎坷，我们与所有期待着我们的小洛克一样拼尽全力：从零开始搭建了一支有着相同理念的团队，大家也都喜欢这种“玩家许下愿望”，我们来负责实现愿望的开发模式。\n为了能够将《洛克王国：世界》做到让大家都能喜欢，我们在精灵设计、社交玩法、商业化模式的设计上都扎根于最原始也最简单的玩家诉求。\n在过程中我与团队收到了大量来自大家的正面反馈，使我们由衷的觉得：这是一个值得倾注一生的行业。\n\n游戏上线后，《洛克王国：世界》获得了超出所有人预期的欢迎与成绩。\n一方面，我们开心于很多小洛克喜欢这个世界。 \n有人在地图里闲逛一整晚，有人认真研究精灵，有人开始交朋友，有人甚至愿意把自己的情绪悄悄寄托在这个世界里。\n这些东西对我与团队来说，比任何数字都更真实。\n\n但另一方面，我们也开始越来越担心。\n因为超预期的受欢迎程度，远远超出了我们的体量与准备。\n不同生活经历，不同游戏诉求的小洛克们都有着对洛克王国未来的畅想。\n而我们犯下的最大错误，就是在冲动之下失去了对优先级、修改后可能引发的后果的妥善评估。\n\n<span color=\"#ADFF2F\" size=\"22\">【“我不知道，我将消除自己”】</>\n在修复版本问题的同时，之所以想要尽快把这封信在此时发出，是因为看到有很多离谱的传言正在发酵。\n但意外的是，其中挺多“故事”传播广泛我也可以理解，我非常理解大家宁可相信“团队换血”“空降关系户”这种狗血的情节，也不愿意相信“为什么明明S1的时候好好的，现在却出现了这么多问题？”\n\n但现实比故事无聊很多：没有换血，没有空降，没有另一个幕后团队。\n搞出这些问题的人，就是我们自己。就是那个曾经给大家带来过快乐、感动和期待的原团队。\n这件事其实比“阴谋论”更让人难受，非常抱歉辜负了大家的期待。\n\n在21日最初收到反馈问题清单，复盘好问题时，我觉得修复了这些问题就好了；\n在21日深夜最终与团队共同敲定了公告内容时，我觉得反应够快、然后尽全力完成就好了；\n\n但当我看到表达失望的小洛克，开始向自己心爱的精灵告别时，我开始和曾经的自己重叠，我开始有一个感觉，除了那些我们已经做的，如果今天还不能把未来说清楚，我们将再也无法成为我们想要成为的，而《洛克王国：世界》也再也无法是那个《洛克王国：世界》。\n\n<span color=\"#ADFF2F\" size=\"22\">【“曾有洛克企图用愿力重塑现实，但他毕竟只是凡人”】</>\n参加过过往测试的小洛克可能都知道，《洛克王国：世界》测试期的bug曾经是非常多的。因为项目成长得太快，我们希望实现的愿望太多，很多内容是在高速开发中一层层叠上去的。\n\n因此甚至出现了一些情况：公测时我们没能来得及完成的调整与资源遗留在了版本中、一些在S1紧急修复了的问题与数据没能合并回S2的版本、一些“带病上场”的顽疾在解决过程中产生了意料之外的影响等等。这也是在S2更新后出现了大量预期之外调整的真实原因。\n而S1的成功与稳定给了我们一个错觉，就是什么问题都可以靠热爱与努力解决。\n\n而自从上线以来，我们也开始进一步加速。\n为了可以用更短的时间、更敏捷地响应大家的反馈，我们对于优化的决策链条非常短，很多时候，一个反馈刚被提出，我们甚至来不及真正验证，就会立刻进入修改。\n因为团队中的所有人都知道这样一款让所有人都可以放心、开心游玩的游戏来之不易。\n\n但这其中最不应该出问题的东西却出了问题。\n我们严重低估了“对大家已经获得的内容进行无论出于任何目的的修改”时所面对的风险——因为它们从来都不是一段数据。在之后的工作中，我们会将“把确保大家已经获得的内容的安全，与游戏优化做的更好”放在同等重要的地位。\n\n<span color=\"#ADFF2F\" size=\"22\">【“你又将如何裁决，什么是正确，什么是错误？”】</>\n回顾刚刚过去的S1，我们也更充分的认识到：《洛克王国：世界》之所以可以成为一片净土，并非是我们创造了足够完美的平衡，也并非是我们满足了所有人的愿望。\n而是所有善良的小洛克都在努力一起营造与维护这个环境，规避争议。\n但，反而是因为我们的鲁莽行动打破了这来之不易的平衡。\n\n因此在未来，我们也希望将设立这样一个方针：我们会竭尽所能在第一次与大家见面时就拿出没有争议的设计，而对于已经产生的争议，我们会避免鲁莽行事，甚至宁可接受留下遗憾，也希望能够无论如何都避免让这样一份来之不易的净土沦为“战场”。\n\n<span color=\"#ADFF2F\" size=\"22\">【“走失的星星在愿力的指引下，正在寻找回去的轨道”】</>\n在和团队一同协商留下这样一份记录的目的到底是什么时，我觉得是：希望《洛克王国：世界》未来能够一直好下去。\n\n因为我希望不管是未来多久以后，无论是任何人，<span color=\"#ADFF2F\" size=\"22\">“将《洛克王国：世界》做成一款大家都能喜欢的游戏”</>，这样一份誓约已经在星之结的见证下庄重签订，而今天每一位亲历的小洛克既是见证者，也有可能在未来成为它的监护者甚至是践行者。只有如此，大家才能放心将自己的童年、自己的纯真装载进名为《洛克王国：世界》的世界中去。\n\n感谢每一位读到这里的小洛克，再次谢谢大家喜欢我们做的游戏，对于在S2版本更新期间造成的一切问题，我代表团队向大家再次诚挚致歉。也希望每一个在本次风波中感受到失望、愤怒、伤感的小洛克无论是否还愿意返回这里，都能够尽快重新振作起来。\n\n对于版本中仍然存在的问题我们会继续进行修复（包含之前公告中明确的各类优化，以及后续其他暂未发现和解决的问题），同时我们也会尝试改善研发逻辑，将有限的人力投入在更聚焦更重要的事务当中来，争取在之后的版本中更少犯错，也欢迎各位小洛克的持续的监督与反馈。\n\n最后，感谢所有“了不起的小洛克”对“一般般的我们”的包容与厚爱。正因为有大家的支撑，无论前路如何，我们才能将带着这份珍视义无反顾地走下去。\n",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100288,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100421,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100420,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 100698,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70020,
-    "mail_platform": 2,
-    "start_time": "2026/05/24/20/45",
-    "end_time": "2026/06/01/00/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "致陪伴，致未来",
-    "mail_sender": "洛克王国：世界",
-    "mail_content": "S2赛季已正式启程，这是织梦之旅的续章，也是并肩同行的永恒印记。\n感谢小洛克一直以来的包容。祝愿各位在新赛季的冒险中收获更纯粹的快乐。\n\n【领取方式】等级≥20的小洛克可于05月31日24:00前通过邮件领取\n\n附件：\n\n「棱镜球 × 10」",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/06/01/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 10
-      }
-    ]
-  },
-  {
-    "id": 70021,
-    "mail_platform": 2,
-    "start_time": "2026/07/16/04/00",
-    "end_time": "2026/09/10/03/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新版本维护补偿",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n欢迎来到S3赛季「铅字幻梦」，更多新版本内容详见游戏公告。\n本次停服更新补偿为「分光水晶」*300，版本更新奖励为「许愿星」*20，「S3赛季随机炫彩蛋」*1。\n祝您游戏愉快。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/07/20/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100699,
-        "goods_count": 300
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 3,
-        "goods_count": 20
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 600008,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70022,
-    "mail_platform": 2,
-    "start_time": "2026/07/16/10/00",
-    "end_time": "2026/09/10/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "同行快洛里程碑奖励",
-    "mail_content": "感谢各位小洛克踊跃参与「16 周年，同行快洛」活动并达成全服许愿里程碑奖励！\n\n特此全服赠送「慈悲为怀精灵蛋」*1，领取时间截至9月10日04:00。\n\n每一颗流星划过时，愿小洛克都能如愿以偿。感谢大家长久的陪伴与支持，祝大家游戏愉快！\n\n洛克王国世界",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 600009,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70023,
-    "mail_platform": 2,
-    "start_time": "2026/07/24/22/00",
-    "end_time": "2026/09/10/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "同行快洛里程碑奖励",
-    "mail_content": "感谢各位小洛克踊跃参与「16 周年，同行快洛」活动并达成全服许愿里程碑奖励！\n\n特此全服赠送「棱镜球」*1，领取时间截至9月10日04:00。\n\n每一颗流星划过时，愿小洛克都能如愿以偿。感谢大家长久的陪伴与支持，祝大家游戏愉快！\n\n洛克王国世界",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70024,
-    "mail_platform": 2,
-    "start_time": "2026/08/01/00/00",
-    "end_time": "2026/09/10/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "同行快洛里程碑奖励",
-    "mail_content": "感谢各位小洛克踊跃参与「16 周年，同行快洛」活动并达成全服许愿里程碑奖励！\n\n特此全服赠送「记忆中的肤色三选一礼包」*1，领取时间截至9月10日04:00。\n\n每一颗流星划过时，愿小洛克都能如愿以偿。感谢大家长久的陪伴与支持，祝大家游戏愉快！\n\n洛克王国世界",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320119,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70026,
-    "mail_platform": 2,
-    "start_time": "2026/08/03/04/00",
-    "end_time": "2026/08/10/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新旅途的问候1/5",
-    "mail_sender": "格里芬",
-    "mail_content": "小同学，最近辛苦了。\n\n虽然早已知道你是这一届的“新生之星”，但你的成长，依然远远超出了我的预期。\n\n现在，我终于明白，那只蓝色的小家伙为什么会选择你了。\n\n这个，你收好。难得放假，好好玩一场吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70027,
-    "mail_platform": 2,
-    "start_time": "2026/08/10/04/00",
-    "end_time": "2026/08/17/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新旅途的问候2/5",
-    "mail_sender": "罗兰",
-    "mail_content": "小同学，我是罗兰教授。\n\n草系徽章试炼进行得还顺利吗？我相信，这点考验一定难不倒你。\n\n对了，昨天我在阁楼里找到了一枚这个，就送给你吧。记得收好，也祝你玩得开心！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70028,
-    "mail_platform": 2,
-    "start_time": "2026/08/17/04/00",
-    "end_time": "2026/08/24/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新旅途的问候3/5",
-    "mail_sender": "可丽希亚",
-    "mail_content": "嗨！呆小路已经好多了，看来我们那些努力总算没有白费。\n\n写这封信，其实想和你说一声……谢谢！如果没有你，光靠我和菲尔特，一定做不到这么多。\n\n唔……我，我只是实话实说而已，你也不要太得意喔！\n\n 父王平时总是不许我乱用棱镜球，不过这个月我还是悄悄省下来了一些。喏，这个送给你啦！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70029,
-    "mail_platform": 2,
-    "start_time": "2026/08/24/04/00",
-    "end_time": "2026/08/31/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新旅途的问候4/5",
-    "mail_sender": "菲尔特",
-    "mail_content": "嗨！是我，菲尔特。\n\n最近的冒险还顺利吗？听说你已经去过不少地方了，真厉害啊！\n\n对了，可丽希亚给了我这个，说是她之前存下来的。我想了想，自己平时也不太用得上，还是送给你吧，嘿嘿。\n\n好啦，我该去做饭了。有空的话，记得常回木桶里玩哦！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70030,
-    "mail_platform": 2,
-    "start_time": "2026/08/31/04/00",
-    "end_time": "2026/09/07/04/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "新旅途的问候5/5",
-    "mail_sender": "兰斯洛",
-    "mail_content": "小同学，近来可好？\n\n经历了这次冒险，我终于明白，你们早已不再是需要躲在骑士盾牌后面的孩子了。\n\n但即便如此，白银骑士团依然会守望着你们。这个，你收下吧。\n\n前路还很长，也许还会有更大的风浪。不过不用害怕，无论遇到什么，我们都会一起克服。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70031,
-    "mail_platform": 2,
-    "start_time": "2026/08/14/18/00",
-    "end_time": "2026/08/22/00/00",
-    "level_type": 1,
-    "level": [
-      20,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "感谢有你，王国常在",
-    "mail_sender": "《洛克王国：世界》项目组",
-    "mail_content": "亲爱的小洛克：\n\n《洛克王国：世界》在今年中国市场新上线手游中取得的成绩，属于每一位热爱王国的小洛克。\n\n是你们的喜爱，让我们拥有成长的机会；是你们的信任，让我们敢于探索；是你们的陪伴，让我们坚定前行。\n\n随信附上一份心意赠礼「无畏炫彩精灵蛋」*1、称号前后缀「更多的」「风景」，8月21日24点前注册登录且等级≥20的小洛克均可领取。\n\n「无畏炫彩精灵蛋」孵化的精灵拥有“无畏”特长、\"炫彩\"外观、\"了不起\"天分，属性随机。\n\n我们深知好的开始只是遥远征程中微小的起点。前路漫漫，道阻且长，我们会心怀谦卑，用「无畏」的心态迎接未来更大的挑战。\n\n愿我们继续并肩同行，在卡洛西亚的每一段旅程里，写下更多属于我们的故事。\n\n感谢有你，王国常在。",
-    "use_svr_data": 1,
-    "reg_to_date": "2026/08/22/00/00",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 600012,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 15,
-        "goods_id": 1003,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 15,
-        "goods_id": 2003
-      }
-    ]
-  },
-  {
-    "id": 70087,
-    "mail_platform": 2,
-    "start_time": "2025/02/15/04/00",
-    "end_time": "2025/02/25/04/00",
-    "validity": 30,
-    "mail_title": "骏马踏春来,王国贺新岁",
-    "mail_sender": "王国工程部",
-    "mail_content": "嘿！亲爱的小洛克~ 爆竹声声辞旧岁，马蹄哒哒迎新春！值此马年新春，先给各位小洛克拜个年啦~祝大家在新的冒险中：抓宠一发入魂，异色随手就来，咕噜球永远够用，体力永远满格！ 话说回来，马年嘛，那必须\"马\"上有福利！\"马\"上有惊喜！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320008,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 320010,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70088,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "level": [
-      30
-    ],
-    "validity": 30,
-    "mail_title": "单个或多个等级-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320013,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70089,
-    "mail_platform": 2,
-    "start_time": "2026/02/05/16/00",
-    "end_time": "2026/02/05/17/00",
-    "validity": 30,
-    "mail_title": "定时发送-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 2,
-        "goods_count": 10000
-      }
-    ]
-  },
-  {
-    "id": 70090,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "白名单可收到-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10001,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320013,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70091,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "黑名单不可收到-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "reward_id": 670000,
-    "use_svr_data": 1,
-    "denylist": 10000
-  },
-  {
-    "id": 70092,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "注册时间-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reg_from_date": "2026/02/05/16/00",
-    "reg_to_date": "2026/02/05/16/50",
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100003,
-        "goods_count": 10
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 1,
-        "goods_count": 100
-      }
-    ]
-  },
-  {
-    "id": 70093,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "黑名单版本-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "ban_client_version": [
-      "0.501.1.287"
-    ]
-  },
-  {
-    "id": 70094,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "expire_at": "2026/02/05/17/50",
-    "mail_title": "绝对过期时间-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 2,
-        "goods_count": 10000
-      }
-    ]
-  },
-  {
-    "id": 70095,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "level_type": 1,
-    "level": [
-      20,
-      30
-    ],
-    "validity": 30,
-    "mail_title": "等级区间-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320013,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 70096,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "客户端版本-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "reward_id": 670000,
-    "use_svr_data": 1,
-    "min_client_version": "0.502.1.282",
-    "max_client_version": "0.502.1.287"
-  },
-  {
-    "id": 70097,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "特别赠礼-11-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100003,
-        "goods_count": 10
-      },
-      {
-        "goods_type": 2,
-        "goods_id": 1,
-        "goods_count": 100
-      }
-    ]
-  },
-  {
-    "id": 70098,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "特别赠礼-文本-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 70099,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/02/14/14/00",
-    "validity": 30,
-    "mail_title": "特别赠礼-2",
-    "mail_sender": "王国工程部",
-    "mail_content": "包裹中包含一份特别奖励，希望能助力阁下的冒险历程~阁下请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 2,
-        "goods_count": 10000
-      }
-    ]
-  },
-  {
-    "id": 70100,
-    "mail_platform": 2,
-    "start_time": "2026/02/03/15/00",
-    "end_time": "2026/03/20/14/00",
-    "validity": 30,
-    "mail_title": "问卷测试",
-    "mail_sender": "王国工程部",
-    "mail_content": "<a id=\"打开问卷\">https://in.weisurvey.com/v2/?sid=66ab2b362d6da3b4b30abdf9</>",
-    "use_svr_data": 1,
-    "mail_sub_type": 1
-  },
-  {
-    "id": 71001,
-    "mail_platform": 2,
-    "start_time": "2026/03/26/05/00",
-    "end_time": "2027/12/31/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "15周年·不负相遇",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克参与洛克王国15周年「老朋友，世界终相聚」活动并完成组队预约挑战，请查收你的专属名片卡「梦想勇同行」 ！",
-    "use_svr_data": 1,
-    "whitelist": 10005,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310036,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71002,
-    "mail_platform": 2,
-    "start_time": "2026/03/26/05/00",
-    "end_time": "2026/07/01/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "燃了的答谢礼鸭",
-    "mail_sender": "王国运营部",
-    "mail_content": "终于见面了！感谢千万小洛克的守候！请收下全网4000万预约福利「燃了鸭全家桶」。\n\n全新冒险即刻启程，一起举起手中的咕噜球，缔结全新契约吧！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310008,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 107210,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 108193,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 300016,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 310009,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 1,
-        "goods_id": 300113,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71003,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "start_time": "2026/03/26/05/00",
-    "end_time": "2026/05/21/04/00",
-    "validity": 30,
-    "mail_title": "周边屋·S1徽章购买凭证自选",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！恭喜你在「拾光通行证」中的通行证等级达到10级，这是您的「S1徽章购买凭证自选」奖励，请查收~\n使用该凭证后，你可以在「绒仙子」或「疾光千兽」的徽章购买凭证中任选其一。请注意，你只能购买与所选凭证对应的精灵实体徽章，且一旦选择无法重置或更改，请谨慎决定！\n若暂未使用，此凭证自选道具将存入你的背包，你可以随时前往背包查看并选择。\n\n温馨提示：徽章礼盒现货数量有限，如遇现货售罄，可选择对应的预售批次进行购买，发货时间以周边商城提示为准。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 320029,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71004,
-    "mail_platform": 2,
-    "start_time": "2026/03/30/00/00",
-    "end_time": "2026/05/01/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "「魔方周年庆」活动奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克，恭喜你在「魔方周年庆」活动中获得以下奖励：「魔方生日礼」名片*1，请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310047,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71005,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/00/00",
-    "end_time": "2026/05/03/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "「新年好礼」活动奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克，恭喜你在「新年好礼」活动中获得以下奖励：咕噜球魔法箱*1，请查收~",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310039,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71006,
-    "mail_platform": 2,
-    "start_time": "2026/03/26/05/00",
-    "end_time": "2026/04/27/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "「冬日魔法契约」活动奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克，恭喜你在「冬日魔法契约」活动中获得以下奖励：神奇的蛋*1，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10007,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310049,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71007,
-    "mail_platform": 2,
-    "start_time": "2026/03/26/05/00",
-    "end_time": "2026/05/21/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "预注册棱镜球发放",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克，感谢您一路的陪伴！预注册期间大家的热情，王国里的每一位居民都真切地感受到了。\n为表达我们诚挚的谢意，现为您赠送「棱镜球」*1，敬请查收。希望您在未来的路途中一切顺利！",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 100286,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71008,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2026/09/23/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "测试专属纪念奖励",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n感谢您在「同行测试」期间的陪伴与支持！「王国运营部」特奉上一份测试限定奖励，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10008,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 108231,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71009,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2026/09/23/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "测试专属纪念奖励",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n感谢您在「同行测试」期间的陪伴与支持！「王国运营部」特奉上一份测试限定奖励，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10009,
-    "reward_group": [
-      {
-        "goods_type": 15,
-        "goods_id": 3007,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71010,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2026/09/23/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "测试专属纪念奖励",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n感谢您在「等等鸭轻测」期间的陪伴与支持！「王国运营部」特奉上一份测试限定奖励，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10010,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 108163,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71011,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2026/09/23/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "测试专属纪念奖励",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n感谢您在「等等鸭轻测」期间的陪伴与支持！「王国运营部」特奉上一份测试限定奖励，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10011,
-    "reward_group": [
-      {
-        "goods_type": 15,
-        "goods_id": 3001,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71012,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2026/09/23/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "测试专属纪念奖励",
-    "mail_sender": "王国工程部",
-    "mail_content": "亲爱的小洛克：\n感谢您在「急急鸭测试」期间的陪伴与支持！「王国运营部」特奉上一份测试限定奖励，请查收~",
-    "use_svr_data": 1,
-    "whitelist": 10012,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 300114,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71013,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2027/12/31/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "15周年·不负相遇",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克参与洛克王国15周年「老朋友，世界终相聚」活动并完成组队预约挑战，请查收你的专属名片卡「梦想勇同行」 ！",
-    "use_svr_data": 1,
-    "whitelist": 10013,
-    "reward_group": [
-      {
-        "goods_type": 1,
-        "goods_id": 310036,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 71014,
-    "mail_platform": 2,
-    "start_time": "2026/04/02/10/00",
-    "end_time": "2027/05/01/00/00",
-    "level_type": 1,
-    "level": [
-      10,
-      999
-    ],
-    "validity": 30,
-    "mail_title": "「听歌识曲挑战」活动奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克，恭喜你在「听歌识曲挑战」活动中获得以下奖励：「绝不空耳」 称号前缀和「听到没」称号后缀！",
-    "use_svr_data": 1,
-    "whitelist": 10014,
-    "reward_group": [
-      {
-        "goods_type": 15,
-        "goods_id": 40060,
-        "goods_count": 1
-      },
-      {
-        "goods_type": 15,
-        "goods_id": 40061,
-        "goods_count": 1
-      }
-    ]
-  },
-  {
-    "id": 80001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "急急急鸭活动未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！急急急鸭活动已结束，这是你在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "问卷未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克的意见反馈！这是您未领取的奖励，请查收~"
-  },
-  {
-    "id": 80003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "问卷未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克的意见反馈！这是您未领取的奖励，请查收~"
-  },
-  {
-    "id": 80004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "问卷未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克的意见反馈！这是您未领取的奖励，请查收~"
-  },
-  {
-    "id": 80005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "问卷未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克的意见反馈！这是您未领取的奖励，请查收~"
-  },
-  {
-    "id": 80006,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "问卷未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "感谢小洛克的意见反馈！这是您未领取的奖励，请查收~"
-  },
-  {
-    "id": 80007,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "溢出道具领取",
-    "mail_sender": "噜噜",
-    "mail_content": "阁下的背包已经满了哦，只有先整理下背包才能领取这些道具~噜~"
-  },
-  {
-    "id": 80008,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「周末活动日001期」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「周末活动日001期」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80009,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「周末活动日002期」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「周末活动日002期」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80010,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「周末活动日003期」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「周末活动日003期」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80011,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「周末活动日004期」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「周末活动日004期」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80012,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「国际森林日」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「国际森林日」已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80013,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「国际地球日」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「国际地球日」已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80014,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「世界金枪鱼日」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「世界金枪鱼日」已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80015,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「魔法学院的邀请函」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「魔法学院的邀请函」已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80016,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「出发!新世界!」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「出发!新世界!」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80017,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「乙巳『蛇』年到~」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「乙巳『蛇』年到~」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80018,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「可口『可可果球』」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「可口『可可果球』」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80019,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「呀！『阿布』来咯」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「呀！『阿布』来咯」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80020,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「版更赠礼」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「版更赠礼」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80021,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「『呱呱』游学中」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「『呱呱』游学中」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80022,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「大世界观察笔记」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「大世界观察笔记」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80023,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「大世界观察笔记」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「大世界观察笔记」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80024,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「这宝，藏哪了？」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的精灵魔法师！「这宝，藏哪了？」活动已结束，这是您还遗留在我这边没有领取的寻宝报酬，我已派人转交给你。接下来本小姐要跟随祖母的脚步，去成为伟大的冒险家了！"
-  },
-  {
-    "id": 80025,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「突然间，我方了」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「突然间，我方了」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80026,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「半军出击！」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「半军出击！」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80027,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "老朋友水蓝蓝",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自水蓝蓝的礼物，请查收~",
-    "reward_id": 680020
-  },
-  {
-    "id": 80028,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "老朋友火花",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自火花的礼物，请查收~",
-    "reward_id": 680021
-  },
-  {
-    "id": 80029,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "老朋友喵喵",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自喵喵的礼物，请查收~",
-    "reward_id": 680022
-  },
-  {
-    "id": 80030,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "新朋友水蓝蓝",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自水蓝蓝的礼物，请查收~",
-    "reward_id": 680023
-  },
-  {
-    "id": 80031,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "新朋友火花",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自火花的礼物，请查收~",
-    "reward_id": 680024
-  },
-  {
-    "id": 80032,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "end_time": "2026/05/15/04/00",
-    "validity": 365,
-    "mail_title": "新朋友喵喵",
-    "mail_sender": "王国运营部",
-    "mail_content": "这是一份来自喵喵的礼物，请查收~",
-    "reward_id": 680025
-  },
-  {
-    "id": 80033,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「精灵抱抱团集合！」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「精灵抱抱团集合！」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80034,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「异色·大耳帽兜」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「异色·大耳帽兜」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80035,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「异色·恶魔狼」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「异色·恶魔狼」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80036,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 3,
-    "validity": 30,
-    "mail_title": "QQ游戏中心启动每日登录礼包",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的QQ玩家：\n感谢您使用QQ游戏中心启动游戏，每日首次登录，您将获得「分光水晶」*10，以及稀兽花种挑战的洛克贝获取加成5%",
-    "reward_id": 680026
-  },
-  {
-    "id": 80037,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 3,
-    "validity": 30,
-    "mail_title": "微信游戏中心启动每日登录礼包",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的微信玩家：\n感谢您使用微信游戏中心启动游戏，每日首次登录，您将获得「分光水晶」*10，以及稀兽花种挑战的洛克贝获取加成5%",
-    "reward_id": 680026
-  },
-  {
-    "id": 80038,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「极速对决」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「极速对决」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80040,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 90,
-    "mail_title": "「捕捉精灵」回顾奖励",
-    "mail_sender": "噜噜",
-    "mail_content": "亲爱的小洛克！\n\n由于本次回顾洛克贝已超过领取上限，噜噜已经将超出上限部分放入邮件，请查收~"
-  },
-  {
-    "id": 80042,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「同行捕捉精灵」伙伴赠与",
-    "mail_sender": "噜噜",
-    "mail_content": "亲爱的小洛克！\n\n您的同行队友{0}将同行时获得的精灵伙伴{1}寄送给你，请查收~"
-  },
-  {
-    "id": 80043,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 90,
-    "mail_title": "「同行捕捉精灵」回顾奖励",
-    "mail_sender": "噜噜",
-    "mail_content": "亲爱的小洛克！\n\n您的同行队友{0}在魔力之源回顾时针对同行捕捉的{1}只精灵伙伴进行了回顾，作为共同遇见者，您也获得同等的报酬，请查收~"
-  },
-  {
-    "id": 80044,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 4,
-    "validity": 30,
-    "mail_title": "网吧登录提醒",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的网吧用户：\n您正在网吧环境登录游戏，请注意保护账号安全！"
-  },
-  {
-    "id": 80045,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「洛克筑梦师」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「洛克筑梦师」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80046,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「小屋装修计划」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「小屋装修计划」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80047,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「新手活动」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「新手活动」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80048,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「星光补给」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「星光补给」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80049,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「绩点大赛」分院排名奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「绩点大赛」分院排行榜已结束，这是您所在分院的排名奖励，请查收~"
-  },
-  {
-    "id": 80050,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「呱呱上学记」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「呱呱上学记」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80051,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「皮卡摄影委托」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「皮卡摄影委托」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80052,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「时光梦境」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「时光梦境」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80053,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「时光梦境」未领取精灵礼物",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「时光梦境」活动已结束，这是您在本次活动中未领取的精灵礼物，请查收~"
-  },
-  {
-    "id": 80055,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「呼呼猪大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「呼呼猪大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80056,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「治愈兔大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「治愈兔大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80057,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「大耳帽兜大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「大耳帽兜大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80058,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「机械方方大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「机械方方大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80059,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「格兰种子大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「格兰种子大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80060,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「恶魔狼大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「恶魔狼大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80061,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「奇丽草大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「奇丽草大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80062,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「拉特大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「拉特大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80063,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "访学留念",
-    "mail_sender": "魔法学院",
-    "mail_content": "亲爱的小洛克！您已完成“魔法学院四大分院之旅”，「访学留念卡」请查收~",
-    "reward_id": 200000140
-  },
-  {
-    "id": 80064,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「星光漫游」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「星光漫游」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80065,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「企鹅伴坐·萌趣入怀」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「企鹅伴坐·萌趣入怀」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80066,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「解忧扭蛋机」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「解忧扭蛋机」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80067,
-    "mail_platform": 2,
-    "start_time": "2026/03/03/15/00",
-    "end_time": "2026/05/08/04/00",
-    "expire_at": "2026/05/08/04/00",
-    "mail_title": "「故乡的礼物」",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！这是来自异世界的「新生SIM卡」，请查收~",
-    "reward_id": 200000180,
-    "use_svr_data": 1,
-    "whitelist": 10006
-  },
-  {
-    "id": 80068,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「嘟嘟煲大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「嘟嘟煲大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80069,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「恶魔叮大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「恶魔叮大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80070,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「公平鸽大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「公平鸽大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80071,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「小夜大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「小夜大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80072,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「独角兽大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「独角兽大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80073,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「菊花梨大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「菊花梨大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80074,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「灵狐大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「灵狐大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80075,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「幽影树大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「幽影树大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80076,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「洛克新鲜事」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「洛克新鲜事」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80077,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「解忧扭蛋机」吱吱币转换",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「解忧扭蛋机」活动已结束，尚未使用的「吱吱币」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 80078,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「龙息帕尔再临」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「龙息帕尔再临」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80079,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「冒险补给」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「冒险补给」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80080,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「呱呱上学记」积分卡转换",
-    "mail_sender": "神秘魔法师",
-    "mail_content": "亲爱的小洛克！\n\n「呱呱上学记」活动已结束。潮流风向转变飞快，不再流行的「印着“呱呱”的小卡」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 80081,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「豆丁鱼大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「豆丁鱼大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80082,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「小鹬大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「小鹬大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80083,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「地鼠大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「地鼠大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80084,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「小草虫大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「小草虫大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80085,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「斑斑大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「斑斑大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80086,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「海盔虫大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「海盔虫大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80087,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「伊贝儿大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「伊贝儿大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80088,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「可立鸡大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「可立鸡大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80089,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「花园里的秘密礼物」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「花园里的秘密礼物」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80090,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「王国之约」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「王国之约」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80099,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「地鼠大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「地鼠大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80100,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「海盔虫大量出没」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「海盔虫大量出没」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 80102,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「夏日潮汐集市」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「夏日潮汐集市」已收摊，这是您在本次活动中未领取的奖励，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 80115,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「花园里的秘密礼物」积分卡转换",
-    "mail_sender": "神秘魔法师",
-    "mail_content": "亲爱的小洛克！\n\n「花园里的秘密礼物」活动已结束。潮流风向转变飞快，不再流行的「印着“睡铃雪影娃娃”的小卡」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 80119,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「花开·卡洛西亚」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「花开·卡洛西亚」活动已结束，这是您在本次活动中未领取的奖励，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 90001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "征稿启事！",
-    "mail_sender": "王国工程部",
-    "mail_content": "小洛克如果遇到任何问题，欢迎前往洛克王国社区，找艾迪埃批进行反馈！",
-    "use_svr_data": 1
-  },
-  {
-    "id": 90002,
-    "mail_type": 1,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "征稿启事！",
-    "mail_sender": "王国工程部",
-    "mail_content": "小洛克如果遇到任何问题，欢迎前往洛克王国社区，找艾迪埃批进行反馈！",
-    "use_svr_data": 1
-  },
-  {
-    "id": 90003,
-    "mail_type": 1,
-    "mail_platform": 1,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "征稿启事！",
-    "mail_sender": "王国工程部",
-    "mail_content": "小洛克如果遇到任何问题，欢迎前往洛克王国社区，找艾迪埃批进行反馈！",
-    "use_svr_data": 1
-  },
-  {
-    "id": 90004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "预约下载奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "这是您完成预约下载未领取的奖励，请查收~",
-    "reward_id": 200000183
-  },
-  {
-    "id": 90005,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "欢迎来到魔法学院！",
-    "mail_sender": "魔法学院",
-    "mail_content": "感谢小洛克参与「魔法学院邀请函」活动，学院为你准备了以下特殊入学奖励，请查收~\n祝你在魔法学院的求学之旅一切顺利！",
-    "reward_id": 200000201,
-    "use_svr_data": 1
-  },
-  {
-    "id": 90006,
-    "mail_platform": 2,
-    "start_time": "2026/06/26/04/00",
-    "end_time": "2026/06/27/03/59",
-    "expire_at": "2026/06/27/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90007,
-    "mail_platform": 2,
-    "start_time": "2026/06/27/04/00",
-    "end_time": "2026/06/28/03/59",
-    "expire_at": "2026/06/28/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90008,
-    "mail_platform": 2,
-    "start_time": "2026/06/28/04/00",
-    "end_time": "2026/06/29/03/59",
-    "expire_at": "2026/06/29/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90009,
-    "mail_platform": 2,
-    "start_time": "2026/06/29/04/00",
-    "end_time": "2026/06/30/03/59",
-    "expire_at": "2026/06/30/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90010,
-    "mail_platform": 2,
-    "start_time": "2026/06/30/04/00",
-    "end_time": "2026/07/01/03/59",
-    "expire_at": "2026/07/01/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90011,
-    "mail_platform": 2,
-    "start_time": "2026/07/01/04/00",
-    "end_time": "2026/07/02/03/59",
-    "expire_at": "2026/07/02/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90012,
-    "mail_platform": 2,
-    "start_time": "2026/07/02/04/00",
-    "end_time": "2026/07/03/03/59",
-    "expire_at": "2026/07/03/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90013,
-    "mail_platform": 2,
-    "start_time": "2026/07/03/04/00",
-    "end_time": "2026/07/04/03/59",
-    "expire_at": "2026/07/04/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90014,
-    "mail_platform": 2,
-    "start_time": "2026/07/04/04/00",
-    "end_time": "2026/07/05/03/59",
-    "expire_at": "2026/07/05/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90015,
-    "mail_platform": 2,
-    "start_time": "2026/07/05/04/00",
-    "end_time": "2026/07/06/03/59",
-    "expire_at": "2026/07/06/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90016,
-    "mail_platform": 2,
-    "start_time": "2026/07/06/04/00",
-    "end_time": "2026/07/07/03/59",
-    "expire_at": "2026/07/07/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90017,
-    "mail_platform": 2,
-    "start_time": "2026/07/07/04/00",
-    "end_time": "2026/07/08/03/59",
-    "expire_at": "2026/07/08/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90018,
-    "mail_platform": 2,
-    "start_time": "2026/07/08/04/00",
-    "end_time": "2026/07/09/03/59",
-    "expire_at": "2026/07/09/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90019,
-    "mail_platform": 2,
-    "start_time": "2026/07/09/04/00",
-    "end_time": "2026/07/10/03/59",
-    "expire_at": "2026/07/10/04/00",
-    "mail_title": "「凡羽掠影」凡鹰的认可",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克： \n \n当彼得大道的风起时，「非凡之羽」便会发出低鸣。这是凡鹰对小洛克的认可，也是凡鹰意志的传递。收下这份特别补给，向着更远大的目标展翅吧。",
-    "use_svr_data": 1,
-    "reward_group": [
-      {
-        "goods_type": 2,
-        "goods_id": 51,
-        "goods_count": 20
-      }
-    ]
-  },
-  {
-    "id": 90020,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "预约下载奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "这是您完成预约下载未领取的奖励，请查收~",
-    "reward_id": 200000305
-  },
-  {
-    "id": 90022,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "预约下载奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "这是您完成预约下载未领取的奖励，请查收~",
-    "reward_id": 200000305,
-    "use_svr_data": 1
-  },
-  {
-    "id": 100001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "闪耀大赛未领取奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "这是您上个赛季未领取的奖励，请查收~"
-  },
-  {
-    "id": 100002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "周挑战未领取奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "这是您周挑战未领取的奖励，请查收~"
-  },
-  {
-    "id": 200001,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「主题摄影评选赛」未领取准确度奖励",
-    "mail_sender": "神秘主办方",
-    "mail_content": "感谢您作为第{0}期主题摄影评选赛评委所付出的努力。\n这是您在本期中未领取的评选准确度奖励，请查收~"
-  },
-  {
-    "id": 200002,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「主题摄影评选赛」未领取投稿奖励",
-    "mail_sender": "神秘主办方",
-    "mail_content": "感谢您参与第{0}期主题摄影评选赛「{1}」。\n您的作品最终获得{2}点热度值，成功上榜第{3}名，实在是太厉害啦！\n\n这是您在本期中未领取的奖励，请查收~"
-  },
-  {
-    "id": 200003,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「主题摄影评选赛」未领取投稿奖励",
-    "mail_sender": "神秘主办方",
-    "mail_content": "感谢您参与第{0}期主题摄影评选赛「{1}」。\n您的作品最终获得{2}点热度值，排名前{3}。\n\n这是您在本期中未领取的奖励，请查收~"
-  },
-  {
-    "id": 200004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「主题摄影评选赛」咔嚓印章转换",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n本次的「主题摄影评选赛」已圆满结束，尚未使用的「咔嚓印章」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 200005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「凡羽掠影」非凡之羽转换",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n本次的「凡羽掠影」已圆满结束，尚未使用的「非凡之羽」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 200006,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「凡羽掠影」凡鹰印记转换",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n本次的「凡羽掠影」已圆满结束，尚未使用的「凡鹰印记」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 200007,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「时光梦境」古老零件转换",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n本次的时光梦境活动中部分奖励材料目前无法使用，已将您背包中的「古老零件」已转化为「流星兰」，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 200008,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「时光梦境」蛇蔓藤转换",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n本次的时光梦境活动中部分奖励材料目前无法使用，已将您背包中的「蛇蔓藤」已转化为「骨片」，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 900001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「捕捉作业」未领取奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "亲爱的小洛克！\n\n上期「捕捉作业」活动已结束，这是你在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 900002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「精灵调查」未领取奖励",
-    "mail_sender": "魔法学院",
-    "mail_content": "亲爱的小洛克！\n\n上期「精灵调查」活动已结束，这是你在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 900003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「应援比拼」未领取奖励",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n闪耀大赛已完美落幕，恭喜您与您支持的队伍在应援比拼中胜出！这是你在本次活动中未领取的应援奖励，请查收。\n\n今后的旅途，也请您继续闪耀吧！"
-  },
-  {
-    "id": 900004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「应援比拼」未领取奖励",
-    "mail_sender": "神秘主办方",
-    "mail_content": "亲爱的小洛克！\n\n闪耀大赛已落幕，您与您支持的队伍在应援比拼中遗憾落败。这是你在本次活动中未领取的应援奖励，请查收。\n\n但无论结果如何，今后的旅途，也请您继续闪耀吧！"
-  },
-  {
-    "id": 900005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「伙伴重聚」未领取奖励",
-    "mail_sender": "噜噜",
-    "mail_content": "亲爱的小洛克！「伙伴重聚」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 900006,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "「叮叮」的来信",
-    "mail_sender": "叮叮",
-    "mail_content": "检测到家园场景数据异常，受影响的家具和精灵已被系统强制收回。请屋主前往背包和精灵仓库查收。\n给屋主带来的不便，叮叮深感抱歉。"
-  },
-  {
-    "id": 900007,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「命定花种」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！\n\n上期「命定花种」活动已结束，这是你在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 1000001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 365,
-    "mail_title": "赠送物品退回",
-    "mail_sender": "噜噜",
-    "mail_content": "好友未领取你的礼物，已自动退回～\n\n特别说明：\n1.副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n2.过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n3.从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻，请前往背包进行查收。"
-  },
-  {
-    "id": 5000001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 14,
-    "mail_title": "「重逢契约」签到未领取奖励",
-    "mail_sender": "路易斯",
-    "mail_content": "小同学，你这次回来的签到补给忘记拿了哦，记得查收~"
-  },
-  {
-    "id": 5000002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 14,
-    "mail_title": "「重逢契约」重逢手册未领取奖励",
-    "mail_sender": "噜噜",
-    "mail_content": "阁下完成重逢手册的奖励忘记领取了哦，噜噜帮阁下带来了，这可是阁下在重逢过程中努力的见证咕~"
-  },
-  {
-    "id": 5200001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 60,
-    "mail_title": "「暗夜拾光赛季手册」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的精灵魔法师！「暗夜拾光赛季」已结束，这是您还遗留在我这边没有领取的「赛季手册」奖励，我已派人转交给你。"
-  },
-  {
-    "id": 5200002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 60,
-    "mail_title": "「狂欢赛季作业」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的精灵魔法师！「狂欢怪谈」赛季已结束，这是您还遗留在我这边没有领取的「赛季作业」奖励，我已派人转交给你。"
-  },
-  {
-    "id": 5200003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 60,
-    "mail_title": "「幻梦作业」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的精灵魔法师！「铅字幻梦」赛季已结束，这是您还遗留在我这边没有领取的「赛季作业」奖励，我已派人转交给你。"
-  },
-  {
-    "id": 5200005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 60,
-    "mail_title": "「幻梦作业」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的精灵魔法师！这是您还遗留在我这边没有领取的「赛季作业」每周奖励，我已派人转交给你。",
-    "use_svr_data": 1
-  },
-  {
-    "id": 5400000,
-    "mail_platform": 2,
-    "mail_condition": 2,
-    "validity": 365,
-    "mail_title": "「精灵知识竞赛」冠军奖励！",
-    "mail_sender": "精灵知识竞赛主办方",
-    "mail_content": "尊敬的精灵知识竞赛冠军！希望这些东西可以为你提供助力，成为最厉害的精灵研究员！！",
-    "reward_id": 670003
-  },
-  {
-    "id": 6000001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「帕尔印记」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\n赛季传说精灵「龙息帕尔」挑战时间已结束，尚未使用的「帕尔印记」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「拾光代币」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\nS1赛季「暗夜拾光」已结束，尚未使用的「拾光代币」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「方舟印记」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\n赛季传说精灵「机幕方舟」挑战时间已结束，尚未使用的「方舟印记」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「狂欢代币」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\nS2赛季「狂欢怪谈」已结束，尚未使用的「狂欢代币」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000005,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「帕尔印记」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\n「龙息帕尔再临」活动已结束，赛季传说精灵「龙息帕尔」挑战时间已同步结束，尚未使用的「帕尔印记」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000006,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「幸运商店」未领取奖励",
-    "mail_sender": "皮卡",
-    "mail_content": "亲爱的小洛克！\n\n「幸运商店」活动时间已结束，这是你在本次商店中未领取的奖励，请查收~"
-  },
-  {
-    "id": 6000007,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「幻梦代币」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\nS3赛季「铅字幻梦」已结束，尚未使用的「幻梦代币」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6000008,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "赛季「加尔印记」转换",
-    "mail_sender": "精灵研究员",
-    "mail_content": "亲爱的小洛克！\n\n赛季传说精灵「加尔」挑战时间已结束，尚未使用的「加尔印记」已转化为「洛克贝」，请查收~"
-  },
-  {
-    "id": 6300001,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「狂欢怪谈赛季冲刺」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！\n\n「狂欢怪谈赛季冲刺」活动已结束，这是你在本次活动中未领取的奖励，请查收~"
-  },
-  {
-    "id": 6300002,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「铅字幻梦赛季冲刺」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！\n\n「铅字幻梦赛季冲刺」活动已结束，这是你在本次活动中未领取的奖励，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 6300003,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「月涌狂想赛季冲刺」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！\n\n「月涌狂想赛季冲刺」活动已结束，这是你在本次活动中未领取的奖励，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 6300004,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「圣龙宝藏赛季冲刺」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！\n\n「圣龙宝藏赛季冲刺」活动已结束，这是你在本次活动中未领取的奖励，请查收~",
-    "use_svr_data": 1
-  },
-  {
-    "id": 8000000,
-    "mail_type": 1,
-    "mail_platform": 2,
-    "mail_condition": 1,
-    "validity": 30,
-    "mail_title": "「草系徽章试炼」未领取奖励",
-    "mail_sender": "王国运营部",
-    "mail_content": "亲爱的小洛克！「草系徽章试炼」活动已结束，这是您在本次活动中未领取的奖励，请查收~"
+    "id": 70001
+  },
+  {
+    "id": 70002
+  },
+  {
+    "id": 70003
+  },
+  {
+    "id": 70004
+  },
+  {
+    "id": 70005
+  },
+  {
+    "id": 70006
+  },
+  {
+    "id": 70008
+  },
+  {
+    "id": 70009
+  },
+  {
+    "id": 70010
+  },
+  {
+    "id": 70011
+  },
+  {
+    "id": 70012
+  },
+  {
+    "id": 70013
+  },
+  {
+    "id": 70014
+  },
+  {
+    "id": 70015
+  },
+  {
+    "id": 70016
+  },
+  {
+    "id": 70017
+  },
+  {
+    "id": 70018
+  },
+  {
+    "id": 70019
+  },
+  {
+    "id": 70020
+  },
+  {
+    "id": 70021
+  },
+  {
+    "id": 70022
+  },
+  {
+    "id": 70023
+  },
+  {
+    "id": 70024
+  },
+  {
+    "id": 70025
+  },
+  {
+    "id": 70026
+  },
+  {
+    "id": 70027
+  },
+  {
+    "id": 70028
+  },
+  {
+    "id": 70029
+  },
+  {
+    "id": 70030
+  },
+  {
+    "id": 70031
+  },
+  {
+    "id": 70033
+  },
+  {
+    "id": 70034
+  },
+  {
+    "id": 70087
+  },
+  {
+    "id": 70088
+  },
+  {
+    "id": 70089
+  },
+  {
+    "id": 70090
+  },
+  {
+    "id": 70091
+  },
+  {
+    "id": 70092
+  },
+  {
+    "id": 70093
+  },
+  {
+    "id": 70094
+  },
+  {
+    "id": 70095
+  },
+  {
+    "id": 70096
+  },
+  {
+    "id": 70097
+  },
+  {
+    "id": 70098
+  },
+  {
+    "id": 70099
+  },
+  {
+    "id": 70100
+  },
+  {
+    "id": 71001
+  },
+  {
+    "id": 71002
+  },
+  {
+    "id": 71003
+  },
+  {
+    "id": 71004
+  },
+  {
+    "id": 71005
+  },
+  {
+    "id": 71006
+  },
+  {
+    "id": 71007
+  },
+  {
+    "id": 71008
+  },
+  {
+    "id": 71009
+  },
+  {
+    "id": 71010
+  },
+  {
+    "id": 71011
+  },
+  {
+    "id": 71012
+  },
+  {
+    "id": 71013
+  },
+  {
+    "id": 71014
+  },
+  {
+    "id": 80001
+  },
+  {
+    "id": 80002
+  },
+  {
+    "id": 80003
+  },
+  {
+    "id": 80004
+  },
+  {
+    "id": 80005
+  },
+  {
+    "id": 80006
+  },
+  {
+    "id": 80007
+  },
+  {
+    "id": 80008
+  },
+  {
+    "id": 80009
+  },
+  {
+    "id": 80010
+  },
+  {
+    "id": 80011
+  },
+  {
+    "id": 80012
+  },
+  {
+    "id": 80013
+  },
+  {
+    "id": 80014
+  },
+  {
+    "id": 80015
+  },
+  {
+    "id": 80016
+  },
+  {
+    "id": 80017
+  },
+  {
+    "id": 80018
+  },
+  {
+    "id": 80019
+  },
+  {
+    "id": 80020
+  },
+  {
+    "id": 80021
+  },
+  {
+    "id": 80022
+  },
+  {
+    "id": 80023
+  },
+  {
+    "id": 80024
+  },
+  {
+    "id": 80025
+  },
+  {
+    "id": 80026
+  },
+  {
+    "id": 80027
+  },
+  {
+    "id": 80028
+  },
+  {
+    "id": 80029
+  },
+  {
+    "id": 80030
+  },
+  {
+    "id": 80031
+  },
+  {
+    "id": 80032
+  },
+  {
+    "id": 80033
+  },
+  {
+    "id": 80034
+  },
+  {
+    "id": 80035
+  },
+  {
+    "id": 80036
+  },
+  {
+    "id": 80037
+  },
+  {
+    "id": 80038
+  },
+  {
+    "id": 80040
+  },
+  {
+    "id": 80042
+  },
+  {
+    "id": 80043
+  },
+  {
+    "id": 80044
+  },
+  {
+    "id": 80045
+  },
+  {
+    "id": 80046
+  },
+  {
+    "id": 80047
+  },
+  {
+    "id": 80048
+  },
+  {
+    "id": 80049
+  },
+  {
+    "id": 80050
+  },
+  {
+    "id": 80051
+  },
+  {
+    "id": 80052
+  },
+  {
+    "id": 80053
+  },
+  {
+    "id": 80055
+  },
+  {
+    "id": 80056
+  },
+  {
+    "id": 80057
+  },
+  {
+    "id": 80058
+  },
+  {
+    "id": 80059
+  },
+  {
+    "id": 80060
+  },
+  {
+    "id": 80061
+  },
+  {
+    "id": 80062
+  },
+  {
+    "id": 80063
+  },
+  {
+    "id": 80064
+  },
+  {
+    "id": 80065
+  },
+  {
+    "id": 80066
+  },
+  {
+    "id": 80067
+  },
+  {
+    "id": 80068
+  },
+  {
+    "id": 80069
+  },
+  {
+    "id": 80070
+  },
+  {
+    "id": 80071
+  },
+  {
+    "id": 80072
+  },
+  {
+    "id": 80073
+  },
+  {
+    "id": 80074
+  },
+  {
+    "id": 80075
+  },
+  {
+    "id": 80076
+  },
+  {
+    "id": 80077
+  },
+  {
+    "id": 80078
+  },
+  {
+    "id": 80079
+  },
+  {
+    "id": 80080
+  },
+  {
+    "id": 80081
+  },
+  {
+    "id": 80082
+  },
+  {
+    "id": 80083
+  },
+  {
+    "id": 80084
+  },
+  {
+    "id": 80085
+  },
+  {
+    "id": 80086
+  },
+  {
+    "id": 80087
+  },
+  {
+    "id": 80088
+  },
+  {
+    "id": 80089
+  },
+  {
+    "id": 80090
+  },
+  {
+    "id": 80091
+  },
+  {
+    "id": 80092
+  },
+  {
+    "id": 80093
+  },
+  {
+    "id": 80094
+  },
+  {
+    "id": 80095
+  },
+  {
+    "id": 80096
+  },
+  {
+    "id": 80097
+  },
+  {
+    "id": 80098
+  },
+  {
+    "id": 80099
+  },
+  {
+    "id": 80100
+  },
+  {
+    "id": 80101
+  },
+  {
+    "id": 80102
+  },
+  {
+    "id": 80103
+  },
+  {
+    "id": 80104
+  },
+  {
+    "id": 80115
+  },
+  {
+    "id": 80116
+  },
+  {
+    "id": 80118
+  },
+  {
+    "id": 80119
+  },
+  {
+    "id": 80120
+  },
+  {
+    "id": 90001
+  },
+  {
+    "id": 90002
+  },
+  {
+    "id": 90003
+  },
+  {
+    "id": 90004
+  },
+  {
+    "id": 90005
+  },
+  {
+    "id": 90006
+  },
+  {
+    "id": 90007
+  },
+  {
+    "id": 90008
+  },
+  {
+    "id": 90009
+  },
+  {
+    "id": 90010
+  },
+  {
+    "id": 90011
+  },
+  {
+    "id": 90012
+  },
+  {
+    "id": 90013
+  },
+  {
+    "id": 90014
+  },
+  {
+    "id": 90015
+  },
+  {
+    "id": 90016
+  },
+  {
+    "id": 90017
+  },
+  {
+    "id": 90018
+  },
+  {
+    "id": 90019
+  },
+  {
+    "id": 90020
+  },
+  {
+    "id": 90021
+  },
+  {
+    "id": 90022
+  },
+  {
+    "id": 100001
+  },
+  {
+    "id": 100002
+  },
+  {
+    "id": 200001
+  },
+  {
+    "id": 200002
+  },
+  {
+    "id": 200003
+  },
+  {
+    "id": 200004
+  },
+  {
+    "id": 200005
+  },
+  {
+    "id": 200006
+  },
+  {
+    "id": 200007
+  },
+  {
+    "id": 200008
+  },
+  {
+    "id": 900001
+  },
+  {
+    "id": 900002
+  },
+  {
+    "id": 900003
+  },
+  {
+    "id": 900004
+  },
+  {
+    "id": 900005
+  },
+  {
+    "id": 900006
+  },
+  {
+    "id": 900007
+  },
+  {
+    "id": 900008
+  },
+  {
+    "id": 900009
+  },
+  {
+    "id": 1000001
+  },
+  {
+    "id": 5000001
+  },
+  {
+    "id": 5000002
+  },
+  {
+    "id": 5200001
+  },
+  {
+    "id": 5200002
+  },
+  {
+    "id": 5200003
+  },
+  {
+    "id": 5200004
+  },
+  {
+    "id": 5200005
+  },
+  {
+    "id": 5400000
+  },
+  {
+    "id": 6000001
+  },
+  {
+    "id": 6000002
+  },
+  {
+    "id": 6000003
+  },
+  {
+    "id": 6000004
+  },
+  {
+    "id": 6000005
+  },
+  {
+    "id": 6000006
+  },
+  {
+    "id": 6000007
+  },
+  {
+    "id": 6000008
+  },
+  {
+    "id": 6000009
+  },
+  {
+    "id": 6000010
+  },
+  {
+    "id": 6000011
+  },
+  {
+    "id": 6300001
+  },
+  {
+    "id": 6300002
+  },
+  {
+    "id": 6300003
+  },
+  {
+    "id": 8000000
   }
 ]

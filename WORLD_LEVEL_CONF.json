@@ -4,9 +4,7 @@
     "title": "学院新生",
     "pet_top_level": 20,
     "pet_level_limit": 20,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -18,20 +16,6 @@
         "promote_text": "精灵听话等级上限",
         "value": "20"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star_rule": 1,
-        "battle_star": 1,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -40,12 +24,9 @@
     "title": "见习魔法生",
     "update_grade_level": 20,
     "update_task_id": 30022001,
-    "is_auto_accept_task": true,
     "pet_top_level": 30,
     "pet_level_limit": 30,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000052,
     "promote_desc": [
       {
@@ -75,20 +56,6 @@
         "desc": "精灵听话等级提升至",
         "upvalue": "30"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star_rule": 1,
-        "battle_star": 1,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -97,12 +64,9 @@
     "title": "精灵研究员",
     "update_grade_level": 30,
     "update_task_id": 52080201,
-    "is_auto_accept_task": true,
     "pet_top_level": 40,
     "pet_level_limit": 40,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000053,
     "promote_desc": [
       {
@@ -132,20 +96,6 @@
         "desc": "精灵听话等级提升至",
         "upvalue": "40"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star_rule": 1,
-        "battle_star": 1,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -154,12 +104,9 @@
     "title": "精灵学士",
     "update_grade_level": 40,
     "update_task_id": 52080301,
-    "is_auto_accept_task": true,
     "pet_top_level": 50,
     "pet_level_limit": 50,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000054,
     "promote_desc": [
       {
@@ -189,20 +136,6 @@
         "desc": "精灵听话等级提升至",
         "upvalue": "50"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star_rule": 1,
-        "battle_star": 1,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -211,12 +144,9 @@
     "title": "精灵博学者",
     "update_grade_level": 50,
     "update_task_id": 52080401,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000063,
     "promote_desc": [
       {
@@ -246,19 +176,6 @@
         "desc": "精灵听话等级提升至",
         "upvalue": "60"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -267,12 +184,9 @@
     "title": "精灵魔法师",
     "update_grade_level": 60,
     "update_task_id": 52080501,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000064,
     "promote_desc": [
       {
@@ -297,19 +211,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -318,12 +219,9 @@
     "title": "日之魔法师",
     "update_grade_level": 90,
     "update_task_id": 30027001,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000065,
     "promote_desc": [
       {
@@ -348,19 +246,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -369,12 +254,9 @@
     "title": "月之魔法师",
     "update_grade_level": 90,
     "update_task_id": 30028001,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000066,
     "promote_desc": [
       {
@@ -399,19 +281,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -420,12 +289,9 @@
     "title": "星之魔法师",
     "update_grade_level": 90,
     "update_task_id": 30029001,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000067,
     "promote_desc": [
       {
@@ -450,19 +316,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -471,12 +324,9 @@
     "title": "梦之魔法师",
     "update_grade_level": 90,
     "update_task_id": 30029005,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "world_level_reward_show": 120000068,
     "promote_desc": [
       {
@@ -501,19 +351,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   },
   {
@@ -522,12 +359,9 @@
     "title": "大魔法师",
     "update_grade_level": 90,
     "update_task_id": 30029005,
-    "is_auto_accept_task": true,
     "pet_top_level": 60,
     "pet_level_limit": 60,
-    "pet_team_quantity": 3,
     "pet_bag_space_quantity": 3,
-    "pet_settled_basic_amplify": 15000,
     "promote_desc": [
       {
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/LevelUpUI/Raw/Atlas/LevelUpUIStatic/Frames/img_wanjia_png.img_wanjia_png'",
@@ -551,19 +385,6 @@
         "desc": "魔法等级上限提升至",
         "upvalue": "70"
       }
-    ],
-    "team_battle": [
-      {
-        "battle_star": 5,
-        "create_weight": 10000
-      }
-    ],
-    "daily_task_reward": [
-      688001,
-      688002,
-      688003,
-      688004,
-      688005
     ]
   }
 ]

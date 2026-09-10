@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "activity_id": 6600001,
+    "content_ids": [
+      149977,
+      149978,
+      149979,
+      149980,
+      149981,
+      149982,
+      149983,
+      149984,
+      149985,
+      149986,
+      149992,
+      149993,
+      149994,
+      149995,
+      149996
+    ],
+    "refresh_condition": [
+      {
+        "cond_enum": 18,
+        "cond_param": [
+          1
+        ]
+      },
+      {
+        "cond_enum": 3,
+        "cond_param": [
+          110000525
+        ]
+      },
+      {
+        "cond_enum": 19,
+        "cond_param": [
+          110000517
+        ]
+      }
+    ],
+    "interact_condition_enum": 1,
+    "param1": [
+      5207610
+    ],
+    "del_after_interact": true,
+    "reward_group": [
+      {
+        "goods_type": 3,
+        "goods_id": 750000011,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "activity_id": 6600001,
+    "content_ids": [
+      149987,
+      149988,
+      149989,
+      149990,
+      149991,
+      149997,
+      149998,
+      149999,
+      150007,
+      150008
+    ],
+    "refresh_condition": [
+      {
+        "cond_enum": 18,
+        "cond_param": [
+          2
+        ]
+      },
+      {
+        "cond_enum": 3,
+        "cond_param": [
+          110000525
+        ]
+      },
+      {
+        "cond_enum": 19,
+        "cond_param": [
+          110000517
+        ]
+      }
+    ],
+    "interact_condition_enum": 1,
+    "param1": [
+      5207610
+    ],
+    "del_after_interact": true,
+    "reward_group": [
+      {
+        "goods_type": 3,
+        "goods_id": 750000011,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "activity_id": 6600001,
+    "content_ids": [
+      150000,
+      150001,
+      150002,
+      150003,
+      150004,
+      150009
+    ],
+    "refresh_condition": [
+      {
+        "cond_enum": 18,
+        "cond_param": [
+          3
+        ]
+      },
+      {
+        "cond_enum": 3,
+        "cond_param": [
+          110000525
+        ]
+      },
+      {
+        "cond_enum": 19,
+        "cond_param": [
+          110000517
+        ]
+      }
+    ],
+    "interact_condition_enum": 1,
+    "param1": [
+      5207610
+    ],
+    "del_after_interact": true,
+    "reward_group": [
+      {
+        "goods_type": 3,
+        "goods_id": 750000011,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "activity_id": 6600001,
+    "content_ids": [
+      150005,
+      150006,
+      150012,
+      150013,
+      150010
+    ],
+    "refresh_condition": [
+      {
+        "cond_enum": 14,
+        "cond_param": [
+          4
+        ]
+      },
+      {
+        "cond_enum": 3,
+        "cond_param": [
+          110000525
+        ]
+      },
+      {
+        "cond_enum": 19,
+        "cond_param": [
+          110000517
+        ]
+      }
+    ],
+    "interact_condition_enum": 1,
+    "param1": [
+      5207610
+    ],
+    "del_after_interact": true,
+    "reward_group": [
+      {
+        "goods_type": 3,
+        "goods_id": 750000011,
+        "goods_count": 1
+      }
+    ]
+  }
+]

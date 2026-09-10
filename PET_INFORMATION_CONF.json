@@ -3,9 +3,14 @@
     "id": 1001,
     "group_id": 10001,
     "petbase_id": 3740,
+    "title": "宝藏小狐",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "宝藏小狐",
+    "unlock_condition": 1,
+    "condition_param": 59000615,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -21,8 +26,6 @@
         "story_txt": "第一次跟宝藏小狐打照面，我以为它会跑，结果它就站在那儿看我，我走它就退两步，我停它也停，还回头瞄我一眼。更神的是路过一只幻化精灵时，那只精灵居然当场现了原形。\n我趁着宝藏小狐不注意，偷偷闻了一下，它们的爪爪竟然真的是香香的糯米味道。\n我听说曾经有一个同学不小心咬了宝藏小狐一口，对方眼神清澈地回望向小洛克，看到小洛克不松口，也只是淡定地把小洛克甩来甩去，同时继续做自己的事。"
       }
     ],
-    "animal_name": "藏狐",
-    "animal_rarity_level": 7,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_005_png.img_dantiezhi_005_png'",
     "left_picture_position": 2,
@@ -31,26 +34,28 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0011.img_0011'",
     "right_txt_position": 2,
     "right_txt": "宝藏小狐",
+    "animal_name": "藏狐",
+    "animal_rarity_level": 7,
     "information_photo_group": [
       {
         "text": "1、藏狐虽然在《世界自然保护联盟(IUCN)濒危物种红色名录》评级中是无危，但其实是国家二级保护动物，《中国生物多样性红色名录—脊椎动物卷(2020)》评级为近危(NT)。\n2、藏狐标志性的“方脸”并非天生，而是颈部浓密修长的围脖状毛发修饰而成。\n3、藏狐体型其实非常小，成年体重只有4~4.5千克，不算尾巴仅有柯基犬大小。\n4、捕猎习惯沉稳，擅长趴在草丛隐蔽埋伏，凭借小巧身形紧贴地面，静待猎物靠近后瞬间出击，几乎不长距离奔袭追捕。",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg5.img_ObservationPhoto_Bg5'",
         "photo_contributor_information": "宝藏小狐家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000615,
-    "pre_unlock_text": "未记录",
-    "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    ]
   },
   {
     "id": 1002,
     "group_id": 10001,
     "petbase_id": 3330,
+    "title": "海盔虫",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "海盔虫",
+    "unlock_condition": 1,
+    "condition_param": 59000490,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -66,8 +71,6 @@
         "story_txt": "在观察海盔虫家族的途中，不知道从哪来了一个黑心商人，他拿出浅蓝色的海盔虫，说这种磨损的样子是他养出来的“变异种”，只需要99999洛克钻。\n我发现浅蓝灰海盔虫附近的藻类颜色偏浅，它吃什么颜色的藻，壳就慢慢变成对应的颜色。原来同一种精灵，换个地方住、换种东西吃，就能长成两个样！\n我没忍住摸了一下它的刺，它缩起来反扎了我一下，虽然不疼，但被精灵教训这件事本身有点丢人，幸好没被其他洛看到。"
       }
     ],
-    "animal_name": "海胆",
-    "animal_rarity_level": 6,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_003_png.img_dantiezhi_003_png'",
     "left_picture_position": 1,
@@ -78,26 +81,28 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0007.img_0007'",
     "right_txt_position": 1,
     "right_txt": "刺盔虫",
+    "animal_name": "海胆",
+    "animal_rarity_level": 6,
     "information_photo_group": [
       {
         "text": "1、欧洲可食用海胆在《世界自然保护联盟(IUCN)濒危物种红色名录》中被列为近危(NT)。国内沿海常见的口鳃海胆、马粪海胆、紫海胆、石笔海胆、光棘球海胆、白棘三列海胆等，因过度捕捞与生境退化，已被《中国物种红色名录(2004)》列为濒危(EN)。\n2、海胆是海胆纲下所有物种的统称，全球有近千种，各科各种评级差异较大。\n3、海胆的身体结构十分特殊，嘴位于下方，肛门朝向顶端；被水流打翻后，可依靠棘刺与管足自主翻转复位。\n4、海胆没有眼睛，却能借助棘刺感知光影，以此代替视觉观察周围环境。",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg4.img_ObservationPhoto_Bg4'",
         "photo_contributor_information": "海盔虫家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000490,
-    "pre_unlock_text": "未记录",
-    "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    ]
   },
   {
     "id": 1003,
     "group_id": 10001,
     "petbase_id": 3237,
+    "title": "小怂猫",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "小怂猫",
+    "unlock_condition": 1,
+    "condition_param": 59000520,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -113,8 +118,6 @@
         "story_txt": "在果园遇到那只小怂猫时，它太害怕根本不敢靠近我。我拿可可果给它，它一边害怕地发抖一边大口狂吃。我发现它无论软的硬的可可果都喜欢，只要是甜的都喜欢吃，下次我给它带点睡铃软糖试试。\n那之后，突然一只野生精灵冲我扑来，它竟然进化为怒目怂猫挤到我前面挡着，看来是把我当成要保护的对象了。太勇敢了，我得给它一个家！"
       }
     ],
-    "animal_name": "小熊猫",
-    "animal_rarity_level": 4,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_MountainForest.img_MountainForest'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_002_png.img_dantiezhi_002_png'",
     "left_picture_position": 1,
@@ -123,26 +126,28 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0009.img_0009'",
     "right_txt_position": 2,
     "right_txt": "怒目怂猫",
+    "animal_name": "小熊猫",
+    "animal_rarity_level": 4,
     "information_photo_group": [
       {
         "text": "1、小熊猫在《世界自然保护联盟(IUCN)濒危物种红色名录》中被列为濒危(EN)，同时也是国家二级保护野生动物，在《中国生物多样性红色名录—脊椎动物卷(2020)》评级为易危(VU)。\n2、小熊猫爬树能力顶尖，特殊的腕关节搭配宽大脚掌，能够头朝下倒退着从树上往下爬。\n3、小熊猫在黄昏至黎明活跃；畏高温、惧强光，正午会躲进树荫、岩洞里避暑。\n4、小熊猫同类碰面会互相碰额头，这是它们专属的友好问候方式。\n",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg2.img_ObservationPhoto_Bg2'",
         "photo_contributor_information": "小怂猫家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000520,
-    "pre_unlock_text": "未记录",
-    "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    ]
   },
   {
     "id": 1004,
     "group_id": 10001,
     "petbase_id": 3534,
+    "title": "斑斑",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "斑斑",
+    "unlock_condition": 1,
+    "condition_param": 59000550,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -158,8 +163,6 @@
         "story_txt": "一开始我真的以为斑斑是喜欢我才跟着飞，它从早跟到晚，我冲刺它也加速，我停它也停，我得意了整整一天。回去跟同学炫耀，他笑出了声：\"那是它在盯着你，怕你乱来。\"竟然是这样，我有些哭笑不得。\n后来我又仔细观察了许久，当斑斑从高空往下看，抱着精灵的洛克远远看上去，轮廓既不像精灵又不像洛克，斑斑判定这是一只大型未知入侵生物。小小的斑斑竟然是整片林子的风纪委员，了不起！"
       }
     ],
-    "animal_name": "仓鸮",
-    "animal_rarity_level": 7,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgNight.img_BgNight'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_008_png.img_dantiezhi_008_png'",
     "left_picture_position": 1,
@@ -168,26 +171,28 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0017.img_0017'",
     "right_txt_position": 2,
     "right_txt": "斑枭",
+    "animal_name": "仓鸮",
+    "animal_rarity_level": 7,
     "information_photo_group": [
       {
         "text": "1、仓鸮(xiāo)是猫头鹰的一种，在《世界自然保护联盟(IUCN)濒危物种红色名录》中全球评级为无危(LC)，但在《中国生物多样性红色名录—脊椎动物卷(2020)》评估为近危(NT)等级，现为国家二级重点保护野生动物。\n2、仓鸮是典型的夜行性动物，白天休息，夜间外出活动、觅食；飞行时几乎没有声响，也不会产生明显气流，便于高效捕猎。\n3、仓鸮眼球重量能占到自身体重的5%，夜视能力是人类的100倍；眼球无法自主转动，靠头部旋转270°调整视野。",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg1.img_ObservationPhoto_Bg1'",
         "photo_contributor_information": "斑斑家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000550,
-    "pre_unlock_text": "未记录",
-    "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    ]
   },
   {
     "id": 1005,
     "group_id": 10001,
     "petbase_id": 3434,
+    "title": "小电企鹅",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "小电企鹅",
+    "unlock_condition": 1,
+    "condition_param": 59000590,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -203,8 +208,6 @@
         "story_txt": "山道那只小电企鹅，是从更高的地方失足摔下来的，又赶上大热天，我一摸它羽毛烫得吓人，它金冠羽炸得越凶，越说明它状态越差。\n安安后来跟我说，小电企鹅只能在冰原和雪山生活，换到热的地方，它很难存活。一只精灵过得怎么样，不光看小洛克有没有爱它，还要看它待没待对地方。"
       }
     ],
-    "animal_name": "南跳岩企鹅",
-    "animal_rarity_level": 5,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgSnow.img_BgSnow'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_009_png.img_dantiezhi_009_png'",
     "left_picture_position": 1,
@@ -213,26 +216,28 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0018.img_0018'",
     "right_txt_position": 2,
     "right_txt": "电企鹅",
+    "animal_name": "南跳岩企鹅",
+    "animal_rarity_level": 5,
     "information_photo_group": [
       {
         "text": "1、南跳岩企鹅在中国并无野生分布，主要栖息在南极洲、澳大利亚等地区的岩壁礁石海岸。\n2、南跳岩企鹅眼侧长有竖立的金黄长眉羽，搭配猩红圆眼与橙红喙，发怒时头羽全部炸开。与同属的马可罗尼企鹅长相十分相似，可通过黄色眉羽区分：南跳岩企鹅的眉毛中间并不相连，且身材更为娇小。\n3、南跳岩企鹅靠双腿蹦跳前行，平地可跳30厘米，岩壁最高跃1.8米，\"跳岩\"因此得名。\n4、南跳岩企鹅是全企鹅中脾气最暴躁、攻击性最强的一种，遇到同类抢巢或天敌侵扰时，会竖羽示威、啄咬驱赶入侵者。",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg3.img_ObservationPhoto_Bg3'",
         "photo_contributor_information": "小电企鹅家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000590,
-    "pre_unlock_text": "未记录",
-    "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    ]
   },
   {
     "id": 1006,
     "group_id": 10001,
     "petbase_id": 3705,
+    "title": "绒光优优",
     "if_open": true,
     "appear_time": "2026-05-16 04:00:00",
-    "title": "绒光优优",
+    "unlock_condition": 1,
+    "condition_param": 59000615,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
     "story_page_group": [
       {
         "story_page_type": 1
@@ -248,8 +253,6 @@
         "story_txt": "叽叽喳喳台地上那只绒光优优，似乎在跳一种奇怪的舞蹈，调查之后发现原来是在给同伴发信号。可周围一个同伴都没有，它发给谁呢？\n它等了很久看起来越来越焦躁而疲惫，直到后来我尝试藏在不远的地方敲了几下地面，优优误以为这是同伴的回应信号，才肯安心蹲下来歇息。太可怜了，我要给它一个家！"
       }
     ],
-    "animal_name": "细尾獴",
-    "animal_rarity_level": 7,
     "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn.img_BgLawn'",
     "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_007_png.img_dantiezhi_007_png'",
     "left_picture_position": 1,
@@ -258,17 +261,222 @@
     "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0016.img_0016'",
     "right_txt_position": 2,
     "right_txt": "优优",
+    "animal_name": "细尾獴",
+    "animal_rarity_level": 7,
     "information_photo_group": [
       {
         "text": "1、细尾獴别名狐獴，在中国并无野生分布，主要栖息在非洲南部的干旱平原。\n2、细尾獴眼周自带黑色\"墨镜\"斑纹，能抵御荒漠强光、开阔视野。\n3、它们警惕性极高，族群成员轮流站哨，发现危险会立刻通知同伴入洞避险；面对威胁时则直立身形威慑敌人，个体独居时会时刻保持站岗姿态。\n4、细尾獴清晨会集体晒肚皮积蓄热量，还能通过身体影子判断时间与方位，据此选择在影子最短的正午集中觅食。",
         "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_ObservationPhoto_Bg6.img_ObservationPhoto_Bg6'",
         "photo_contributor_information": "优优家族的灵感来源，照片已获得使用授权"
       }
-    ],
-    "unlock_condition": 1,
-    "condition_param": 59000615,
+    ]
+  },
+  {
+    "id": 1007,
+    "group_id": 10002,
+    "petbase_id": 3784,
+    "title": "云梦豚",
+    "if_open": true,
+    "appear_time": "2026-10-23 04:00:00",
+    "if_can_see": true,
+    "unlock_condition": 2,
     "pre_unlock_text": "未记录",
     "post_unlock_text": "完成记录",
-    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。"
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
+    "story_page_group": [
+      {
+        "story_page_type": 1
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "安安对云梦豚的记录",
+        "story_txt": "云梦豚是淡水里独一份的爱笑，性情温顺，爱扎堆，出水换气都轻手轻脚，从不搞大动静。这一族每只都有自己固定的游动路线，能记上好多年：哪块石头绕左边、哪片水草钻底下，闭着眼都不会错。它们靠这条祖祖辈辈刻在水里的路认路、认家、认同伴。\n它最怕的就是水变了，水一脏云梦豚会立刻钻回水底，离开这片熟悉的水域，连自己走了半辈子的路都不敢再游。"
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "小洛克的生态观察笔记",
+        "story_txt": "我第一次听说云梦豚，是在下游山涧那次巡查。水面飘着一层脏东西，我们清着清着，忽然在水草边发现了一枚精灵蛋：蛋壳里的气息微弱。查尔斯说，云梦豚对水质要求极高，我们要改变这里的环境。\n从那天起我天天往山涧跑，捡垃圾、陪着蛋小声说说话。清了几天，水面一点点亮起来。快孵化那天，我趴在岸边小声跟蛋说话，忽然懂了：它们怕的从来不是我们，是脏水，是被扔进江里的塑料袋。只要把江打扫干净，它们就会顺着自己那条老路，一只一只回到这里来。"
+      }
+    ],
+    "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+    "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_SturgeonCooperation_png.img_dantiezhi_SturgeonCooperation_png'",
+    "left_picture_position": 1,
+    "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0019.img_0019'",
+    "left_txt": "云梦豚",
+    "right_picture_position": 1,
+    "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0020.img_0020'",
+    "right_txt_position": 2,
+    "right_txt": "云梦豚",
+    "animal_name": "江豚",
+    "animal_rarity_level": 4,
+    "information_photo_group": [
+      {
+        "text": "1、长江露脊鼠海豚通称江豚，又称江猪，是产自长江中下游水系的小型淡水鲸。\n2、2013年以来IUCN《濒危物种红色名录》评估江豚种族现状为极危（CR）。\n3、江豚的肤色在一生中没有太大变化，出生时呈浅灰色，随着年龄增长，肤色会渐渐加深，成年后通身呈灰黑色。\n4、江豚头部圆钝，前额微凸，没有突出的嘴喙。眼小，牙齿十分细小，齿冠呈匙形。背上无鳍，而有数行颗粒状的突起物，延伸至尾鳍前端，像车中的防滑垫。\n5、江豚通常以3-6头结成小群，江豚幼豚会贴着母豚背部，跟随母豚行动。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_05.img_FinlessPorpoise_05'",
+        "photo_contributor_information": "云梦豚家族的灵感来源，照片已获得使用授权"
+      },
+      {
+        "text": "1、长江露脊鼠海豚通称江豚，又称江猪，是产自长江中下游水系的小型淡水鲸。\n2、2013年以来IUCN《濒危物种红色名录》评估江豚种族现状为极危（CR）。\n3、江豚的肤色在一生中没有太大变化，出生时呈浅灰色，随着年龄增长，肤色会渐渐加深，成年后通身呈灰黑色。\n4、江豚头部圆钝，前额微凸，没有突出的嘴喙。眼小，牙齿十分细小，齿冠呈匙形。背上无鳍，而有数行颗粒状的突起物，延伸至尾鳍前端，像车中的防滑垫。\n5、江豚通常以3-6头结成小群，江豚幼豚会贴着母豚背部，跟随母豚行动。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_04.img_FinlessPorpoise_04'",
+        "photo_contributor_information": "云梦豚家族的灵感来源，照片已获得使用授权"
+      },
+      {
+        "text": "1、长江露脊鼠海豚通称江豚，又称江猪，是产自长江中下游水系的小型淡水鲸。\n2、2013年以来IUCN《濒危物种红色名录》评估江豚种族现状为极危（CR）。\n3、江豚的肤色在一生中没有太大变化，出生时呈浅灰色，随着年龄增长，肤色会渐渐加深，成年后通身呈灰黑色。\n4、江豚头部圆钝，前额微凸，没有突出的嘴喙。眼小，牙齿十分细小，齿冠呈匙形。背上无鳍，而有数行颗粒状的突起物，延伸至尾鳍前端，像车中的防滑垫。\n5、江豚通常以3-6头结成小群，江豚幼豚会贴着母豚背部，跟随母豚行动。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_08.img_FinlessPorpoise_08'",
+        "photo_contributor_information": "云梦豚家族的灵感来源，照片已获得使用授权"
+      },
+      {
+        "text": "1、长江露脊鼠海豚通称江豚，又称江猪，是产自长江中下游水系的小型淡水鲸。\n2、2013年以来IUCN《濒危物种红色名录》评估江豚种族现状为极危（CR）。\n3、江豚的肤色在一生中没有太大变化，出生时呈浅灰色，随着年龄增长，肤色会渐渐加深，成年后通身呈灰黑色。\n4、江豚头部圆钝，前额微凸，没有突出的嘴喙。眼小，牙齿十分细小，齿冠呈匙形。背上无鳍，而有数行颗粒状的突起物，延伸至尾鳍前端，像车中的防滑垫。\n5、江豚通常以3-6头结成小群，江豚幼豚会贴着母豚背部，跟随母豚行动。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_02.img_FinlessPorpoise_02'",
+        "photo_contributor_information": "云梦豚家族的灵感来源，照片已获得使用授权"
+      }
+    ],
+    "condition_param2": "2026-10-23 04:00:00"
+  },
+  {
+    "id": 1008,
+    "group_id": 10002,
+    "petbase_id": 3382,
+    "title": "双灯鱼",
+    "if_open": true,
+    "appear_time": "2026-10-25 04:00:00",
+    "if_can_see": true,
+    "unlock_condition": 2,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
+    "story_page_group": [
+      {
+        "story_page_type": 1
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "安安对双灯鱼的记录",
+        "story_txt": "双灯鱼家族头顶一盏小灯，游到哪儿都要把灯伸出水面上，那盏灯其实不是它们自己的，而是一大群会发光的小细菌寄生在头上，这个灯不是拿来照路的，是这一族在夜里认自己人的记号。同族之间靠这盏灯聚成群，落单的小双灯鱼靠远处的一点亮找回家。\n灯不亮，同族之间就认不出彼此，落单的小双灯鱼也再找不到回家的方向。\n。"
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "小洛克的生态观察笔记",
+        "story_txt": "正常情况下我看到双灯鱼都在水里游得没心没肺的。\n但是有一次，我们换了一片被油污盖住的浅滩。那儿也有一只双灯鱼，它反复把灯举出水面，却一次都没亮，油膜太厚，发光菌透不了气，它也没有办法发光。周围没有别的灯回应它，它在水面下浮了很久。\n我希望等到浅滩也在大家努力下变干净了，可以把那盏小灯还给夜里的水面，还给双灯鱼，让它们再一次亮起来。"
+      }
+    ],
+    "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+    "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_SturgeonCooperation_png.img_dantiezhi_SturgeonCooperation_png'",
+    "left_picture_position": 1,
+    "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0019.img_0019'",
+    "left_txt": "双灯鱼",
+    "right_picture_position": 1,
+    "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0020.img_0020'",
+    "right_txt_position": 2,
+    "right_txt": "利灯鱼",
+    "animal_name": "𩽾𩾌",
+    "animal_rarity_level": 4,
+    "information_photo_group": [
+      {
+        "text": "1、𩽾𩾌俗名安康鱼，是辐鳍鱼纲真鲈形系的硬骨鱼，于世界各大海洋均有分布，如大西洋、太平洋和印度洋。\n2、𩽾𩾌鱼体型大小差异很大，眼睛几乎无用武之地，不善游泳，多靠腹鳍爬行。\n3、特别之处是雌鱼有一支由前背鳍演化而成的发光钓竿，钓竿顶端内上百万只的发光菌，会发出亮光。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_03.img_FinlessPorpoise_03'",
+        "photo_contributor_information": "双灯鱼家族的灵感来源，照片已获得使用授权"
+      }
+    ],
+    "condition_param2": "2026-10-25 04:00:00"
+  },
+  {
+    "id": 1009,
+    "group_id": 10002,
+    "petbase_id": 3315,
+    "title": "小鼠獭",
+    "if_open": true,
+    "appear_time": "2026-10-24 04:00:00",
+    "if_can_see": true,
+    "unlock_condition": 2,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
+    "story_page_group": [
+      {
+        "story_page_type": 1
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "安安对小鼠獭的记录",
+        "story_txt": "小鼠獭这一族据说是王国城堡的贵族血脉。也难怪它们讲究：在浅水河滩上磨牙、梳毛、保养胡须，比谁都爱干净。\n它们真正花心思的从来不是吃，是把自己收拾得体体面面，再把一阶的小鼠獭当球在几只之间来回顶着玩。\n它们最怕的不是哪个精灵，而是河滩本身出问题，害怕上游冲下的垃圾、油污。小鼠獭用被污染的东西磨牙，牙床会一直红肿，卷胡巨獭连胡子都没法保养，油脂全糊在脏水里。"
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "小洛克的生态观察笔记",
+        "story_txt": "有一次我在河边啃可可果，可可果一滚落进水里，一只毛球从水下窜出来，用鼻尖把可可果顶回了我脚边。\n我把可可果又轻轻推回水里。它立刻又顶回来。就这样一来一回顶了七八下，它玩得尾巴都在打拍子。听说它们爱顶球和同类也是一个意思：\"这个圆的给你，你别走。\"\n后来我们走到一段被碎木和塑料堵住的河滩，那儿的小鼠獭一只也没出来翻滚，也没有和我一起玩，我把河滩边的塑料捡了一路。我知道它们不是不亲洛克，是要先好好生活，才有心情理我们。"
+      }
+    ],
+    "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+    "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_SturgeonCooperation_png.img_dantiezhi_SturgeonCooperation_png'",
+    "left_picture_position": 1,
+    "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0019.img_0019'",
+    "left_txt": "小鼠獭",
+    "right_picture_position": 1,
+    "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0020.img_0020'",
+    "right_txt_position": 2,
+    "right_txt": "燕尾獭",
+    "animal_name": "海獭、河狸",
+    "animal_rarity_level": 4,
+    "information_photo_group": [
+      {
+        "text": "1、海獭全身覆盖着浓密的毛。它们有一层紧密、呈暗褐色至红棕色的下层绒毛，而其针毛较疏松，呈浅褐色至黄棕色，特别是在脸部与头部。\n2、海獭体型比起同属鼬科的大部分动物而言都要来得大，其头部较短而宽阔，吻突较为短钝。上唇与脸颊相当发达，覆有浓密的硬须。\n3、当海獭待在海面时，几乎一直在整理毛皮，保持它的清洁与防水性。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_06.img_FinlessPorpoise_06'",
+        "photo_contributor_information": "小鼠獭家族的灵感来源，照片已获得使用授权"
+      },
+      {
+        "text": "1、河狸处于IUCN哺乳动物红色名录中的无危物种一列，在中国河狸被列为一级保护动物。\n2、河狸有“自然界水坝工程师”之称，主要分布在美洲北部，至于欧洲和亚洲的分布则较稀少。\n3、河狸能够使用树枝、灌木、石头、泥土等材料建造水坝和用于居住的小木屋。雌雄河狸可形成持续的配偶关系，它们与自己的后代一同居住。年长的后代可以帮助父母修筑水坝和木屋，甚至还会帮助照顾年幼的兄弟姐妹。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_07.img_FinlessPorpoise_07'",
+        "photo_contributor_information": "小鼠獭家族的灵感来源，照片已获得使用授权"
+      }
+    ],
+    "condition_param2": "2026-10-24 04:00:00"
+  },
+  {
+    "id": 1010,
+    "group_id": 10002,
+    "petbase_id": 3430,
+    "title": "海枝枝",
+    "if_open": true,
+    "appear_time": "2026-10-26 04:00:00",
+    "if_can_see": true,
+    "unlock_condition": 2,
+    "pre_unlock_text": "未记录",
+    "post_unlock_text": "完成记录",
+    "locked_prompt_tips": "还没观察到这只精灵呢，请先去了解它们吧。",
+    "story_page_group": [
+      {
+        "story_page_type": 1
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "安安对海枝枝的记录",
+        "story_txt": "海枝枝是珊瑚精灵，身体分泌霰石长出树枝状骨骼，这一族的活法很特别，它自己不挑颜色，是身上的共生藻替它挑：披金黄褐藻就成杏黄百合玉、住深水没藻就自分泌洋红长毒刺、裹上绿藻就靠光合变成翠绿纶布。它还爱躲在海边偷偷看洛克，学着洛克的动作跟着跳，希望被洛克夸一句好看。\n它最敏感的就是光和水质，尤其翠绿这一支，晒不到太阳、水一浑，共生藻就活不下去。"
+      },
+      {
+        "story_page_type": 1,
+        "story_title": "小洛克的生态观察笔记",
+        "story_txt": "我第一次和海枝枝玩是在一片阳光晒得透亮的浅水湾。我在岸边蹦了一下，水下一丛翠绿的海枝枝也跟着晃了一下。我又蹲下去，它也慢慢缩了缩。\n后来我们绕到一片被工船挡住阳光、水色发浑的湾里，那儿的翠绿海枝枝垂下了头，身上不再是从前那种鲜亮的绿，褪成了灰白。\n我把手轻轻探进水里。有一小丛还带着一点绿的海枝枝，跟着我的指尖慢慢晃了一下，像是它还愿意再学我一次。我把它放到了我的咕噜球里，我会找到一片让它晒得到太阳的海，它就能一点一点变回快乐的海枝枝。"
+      }
+    ],
+    "pet_backgroung_image": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgOcean.img_BgOcean'",
+    "egg_image": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_dantiezhi_SturgeonCooperation_png.img_dantiezhi_SturgeonCooperation_png'",
+    "left_picture_position": 1,
+    "left_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0019.img_0019'",
+    "left_txt": "海枝枝（碧蓝珊瑚）",
+    "right_picture_position": 1,
+    "right_picture_image": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Textures/PetSticker/img_0020.img_0020'",
+    "right_txt_position": 2,
+    "right_txt": "海枝枝（翠绿纶布）",
+    "animal_name": "珊瑚",
+    "animal_rarity_level": 4,
+    "information_photo_group": [
+      {
+        "text": "1、珊瑚并非植物，是无数珊瑚虫聚集形成的群体生物，固定附着海底岩石，终生无法自主移动。\n2、多数珊瑚体内共生虫黄藻，依靠藻类光合作用获取养分，同时自身触手捕捉浮游生物进食。\n3、对水温、水质、光照十分敏感，海水温度仅升高一两度，或者海水有污染就会大面积白化失去生机，对环境极其娇气。\n4、群居堆叠生长，长年累月不断繁衍堆积，慢慢构筑成庞大的珊瑚礁，成为海底生物家园。\n5、色彩丰富多样，颜色来自共生藻类与自身组织，健康珊瑚色泽鲜亮，枯萎后失去色彩。",
+        "animal_photo": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ObservationPhoto/img_FinlessPorpoise_01.img_FinlessPorpoise_01'",
+        "photo_contributor_information": "海枝枝家族的灵感来源，照片已获得使用授权"
+      }
+    ],
+    "condition_param2": "2026-10-26 04:00:00"
   }
 ]

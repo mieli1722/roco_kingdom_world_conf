@@ -253,6 +253,20 @@
     "option_param3": "1"
   },
   {
+    "id": 40,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "710007",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 41,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "710008",
+    "option_param4": "0.4"
+  },
+  {
     "id": 42,
     "option_type": 1,
     "option_param1": "立即参与",
@@ -272,6 +286,19 @@
     "option_type": 2,
     "option_param2": "ActivityModuleCmd.OpenShiningMedalDetailPanel",
     "option_param3": "305091"
+  },
+  {
+    "id": 903,
+    "option_type": 2,
+    "option_param1": "果实立方人礼包",
+    "option_param2": "ActivityModuleCmd.OpenTryOnShopPreview",
+    "option_param3": "18059;18060"
+  },
+  {
+    "id": 904,
+    "option_type": 2,
+    "option_param2": "ActivityModuleCmd.OpenShiningMedalDetailPanel",
+    "option_param3": "305092"
   },
   {
     "id": 1001,
@@ -660,6 +687,23 @@
     "option_param3": "70045"
   },
   {
+    "id": 2030,
+    "option_type": 2,
+    "option_param1": "前往舞会",
+    "option_param2": "TaskModuleCmd.TraceParagraphOpenTaskPanel",
+    "option_param3": "90019",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 2099,
+    "option_type": 2,
+    "option_param1": "兑换商店",
+    "option_param2": "NPCShopUIModuleCmd.OpenShopById",
+    "option_param3": "11002",
+    "option_param5": "回到自己的世界后再来吧",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityAbu/Frames/img_duihuanshangdian_png.img_duihuanshangdian_png'"
+  },
+  {
     "id": 3001,
     "option_type": 3,
     "option_param1": "1号摊",
@@ -691,6 +735,94 @@
     "option_type": 2,
     "option_param2": "NPCShopUIModuleCmd.OpenShopById",
     "option_param3": "11001"
+  },
+  {
+    "id": 3005,
+    "option_type": 2,
+    "option_param1": "月幕下的决斗",
+    "option_param2": "ActivityModuleCmd.OpenMainPanel",
+    "option_param4": "4000004",
+    "option_param5": "回到自己的世界后再来吧",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_qiuri01.img_qiuri01'"
+  },
+  {
+    "id": 3006,
+    "option_type": 2,
+    "option_param1": "可可奇妙盒",
+    "option_param2": "ActivityModuleCmd.OpenMainPanel",
+    "option_param4": "6200001",
+    "option_param5": "回到自己的世界后再来吧",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_qiuri02.img_qiuri02'"
+  },
+  {
+    "id": 3007,
+    "option_type": 3,
+    "option_param1": "秋日款留言",
+    "option_param2": "910044",
+    "option_param5": "回到自己的世界后再来吧",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_qiuri04.img_qiuri04'"
+  },
+  {
+    "id": 3008,
+    "option_type": 2,
+    "option_param2": "ActivityModuleCmd.OpenMainPanel",
+    "option_param4": "4500004"
+  },
+  {
+    "id": 3009,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000049",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3010,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000052",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3011,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000053",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3012,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000054",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3013,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000055",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3014,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000056",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
+  },
+  {
+    "id": 3015,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "10000057",
+    "option_param4": "0.4",
+    "option_param5": "回到自己的世界后再来吧"
   },
   {
     "id": 3018,
@@ -1001,6 +1133,104 @@
     "option_type": 4,
     "option_param1": "前往",
     "option_param2": "2606410",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10045,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606576",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10046,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606577",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10047,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606578",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10048,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606579",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10049,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606580",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10050,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606581",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10051,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606582",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10052,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606583",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10053,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606584",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10054,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606585",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10055,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606586",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10056,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606587",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10057,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606588",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 10058,
+    "option_type": 4,
+    "option_param1": "前往",
+    "option_param2": "2606589",
     "option_param4": "0.4"
   },
   {
@@ -1359,5 +1589,33 @@
     "option_param1": "去看看",
     "option_param2": "ShopModuleCmd.OpenMainPanel",
     "option_param3": "2"
+  },
+  {
+    "id": 20048,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "910021",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20049,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "910022",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20050,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "910023",
+    "option_param4": "0.4"
+  },
+  {
+    "id": 20051,
+    "option_type": 3,
+    "option_param1": "前往",
+    "option_param2": "910024",
+    "option_param4": "0.4"
   }
 ]

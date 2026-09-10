@@ -3590,6 +3590,24 @@
     "select_next_dialogue": 100118
   },
   {
+    "id": 131019,
+    "online_process": 2,
+    "text": "古拉拉家具店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_shangdian_png.img_shangdian_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 131020
+  },
+  {
+    "id": 131020,
+    "online_process": 2,
+    "text": "再见",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 100118
+  },
+  {
     "id": 140000,
     "online_process": 2,
     "text": "你怎么知道？",
@@ -8319,6 +8337,390 @@
     "times": -1,
     "notimes_disable": 1,
     "select_next_dialogue": 100118
+  },
+  {
+    "id": 555001,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010018
+  },
+  {
+    "id": 555002,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555011,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010029
+  },
+  {
+    "id": 555012,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555021,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010040
+  },
+  {
+    "id": 555022,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555031,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010051
+  },
+  {
+    "id": 555032,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555041,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010062
+  },
+  {
+    "id": 555042,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555051,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010073
+  },
+  {
+    "id": 555052,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555061,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010084
+  },
+  {
+    "id": 555062,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555071,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010095
+  },
+  {
+    "id": 555072,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555321,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010106
+  },
+  {
+    "id": 555322,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555331,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010114
+  },
+  {
+    "id": 555332,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555341,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010122
+  },
+  {
+    "id": 555342,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555351,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010130
+  },
+  {
+    "id": 555352,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555361,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010138
+  },
+  {
+    "id": 555362,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555371,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010146
+  },
+  {
+    "id": 555372,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555381,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010154
+  },
+  {
+    "id": 555382,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
+  },
+  {
+    "id": 555391,
+    "online_process": 2,
+    "text": "开始对战！",
+    "opt_dia_relate": [
+      540259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 55010162
+  },
+  {
+    "id": 555392,
+    "online_process": 2,
+    "text": "等等",
+    "opt_dia_relate": [
+      540259,
+      540260
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "notimes_disable": 1
   },
   {
     "id": 770000,
@@ -25746,6 +26148,468 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": 1,
     "select_next_dialogue": 6000707
+  },
+  {
+    "id": 6343801,
+    "online_process": 3,
+    "text": "打住打住……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012315,
+    "select_skip": true
+  },
+  {
+    "id": 6343802,
+    "online_process": 3,
+    "text": "所以不速之客是……流星？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012315
+  },
+  {
+    "id": 6343803,
+    "online_process": 3,
+    "text": "星型的石头？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012321,
+    "select_skip": true
+  },
+  {
+    "id": 6343804,
+    "online_process": 3,
+    "text": "总觉得在哪里见过类似的东西",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012321
+  },
+  {
+    "id": 6343805,
+    "online_process": 3,
+    "text": "打招呼？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012327,
+    "select_skip": true
+  },
+  {
+    "id": 6343806,
+    "online_process": 3,
+    "text": "像这样吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012327
+  },
+  {
+    "id": 6343807,
+    "online_process": 3,
+    "text": "是什么精灵？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012345,
+    "select_skip": true
+  },
+  {
+    "id": 6343808,
+    "online_process": 3,
+    "text": "我好像不认识",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012345
+  },
+  {
+    "id": 6343901,
+    "online_process": 3,
+    "text": "诅咒……狼灵？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012503,
+    "select_skip": true
+  },
+  {
+    "id": 6343902,
+    "online_process": 3,
+    "text": "好特别的名字",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012503
+  },
+  {
+    "id": 6343903,
+    "online_process": 3,
+    "text": "它的家在迷雾森林？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012521
+  },
+  {
+    "id": 6343904,
+    "online_process": 3,
+    "text": "小狼灵，你想去迷雾森林吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012527,
+    "select_skip": true
+  },
+  {
+    "id": 6343905,
+    "online_process": 3,
+    "text": "你是想去寻找自己的同伴？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012527
+  },
+  {
+    "id": 6343906,
+    "online_process": 3,
+    "text": "可是……迷雾森林里",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012533,
+    "select_skip": true
+  },
+  {
+    "id": 6343907,
+    "online_process": 3,
+    "text": "还有诅咒狼灵吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012533
+  },
+  {
+    "id": 6343908,
+    "online_process": 3,
+    "text": "不过要怎么做？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012539
+  },
+  {
+    "id": 6344001,
+    "online_process": 3,
+    "text": "哎呀！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012724,
+    "select_skip": true
+  },
+  {
+    "id": 6344002,
+    "online_process": 3,
+    "text": "小狼灵怎么跑过去了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012724
+  },
+  {
+    "id": 6344101,
+    "online_process": 3,
+    "text": "其实……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012909,
+    "select_skip": true
+  },
+  {
+    "id": 6344102,
+    "online_process": 3,
+    "text": "原来是未来的学弟！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012918,
+    "select_skip": true
+  },
+  {
+    "id": 6344103,
+    "online_process": 3,
+    "text": "这是什么？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012936,
+    "select_skip": true
+  },
+  {
+    "id": 6344104,
+    "online_process": 3,
+    "text": "小狼灵好像对它很感兴趣",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012936
+  },
+  {
+    "id": 6344105,
+    "online_process": 3,
+    "text": "（拿出星盘）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012941,
+    "select_skip": true
+  },
+  {
+    "id": 6344106,
+    "online_process": 3,
+    "text": "银月狼王？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012945
+  },
+  {
+    "id": 6344107,
+    "online_process": 3,
+    "text": "它往南边跑了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012957
+  },
+  {
+    "id": 6344201,
+    "online_process": 3,
+    "text": "这里有什么特别的吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013109,
+    "select_skip": true
+  },
+  {
+    "id": 6344202,
+    "online_process": 3,
+    "text": "看起来就是一片普通的湖？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013109
+  },
+  {
+    "id": 6344203,
+    "online_process": 3,
+    "text": "是愿力",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013118,
+    "select_skip": true
+  },
+  {
+    "id": 6344204,
+    "online_process": 3,
+    "text": "星盘获得了能量",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013118
+  },
+  {
+    "id": 6344205,
+    "online_process": 3,
+    "text": "这是……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013124,
+    "select_skip": true
+  },
+  {
+    "id": 6344206,
+    "online_process": 3,
+    "text": "月亮的倒影？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013124
+  },
+  {
+    "id": 6344207,
+    "online_process": 3,
+    "text": "很有可能",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013127
+  },
+  {
+    "id": 6344301,
+    "online_process": 3,
+    "text": "我们不是敌人！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013315,
+    "select_skip": true
+  },
+  {
+    "id": 6344302,
+    "online_process": 3,
+    "text": "我也想知道",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013327,
+    "select_skip": true
+  },
+  {
+    "id": 6344303,
+    "online_process": 3,
+    "text": "看起来完全不像",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013327
+  },
+  {
+    "id": 6344304,
+    "online_process": 3,
+    "text": "你们的老大是……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013348,
+    "select_skip": true
+  },
+  {
+    "id": 6344305,
+    "online_process": 3,
+    "text": "银月狼王？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013348
+  },
+  {
+    "id": 6344401,
+    "online_process": 3,
+    "text": "它是不是生病了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013415,
+    "select_skip": true
+  },
+  {
+    "id": 6344402,
+    "online_process": 3,
+    "text": "它看起来好虚弱",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013415
+  },
+  {
+    "id": 6344501,
+    "online_process": 3,
+    "text": "狼王，你醒了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013506
+  },
+  {
+    "id": 6344502,
+    "online_process": 3,
+    "text": "你的身体感觉怎么样？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013506
+  },
+  {
+    "id": 6344503,
+    "online_process": 3,
+    "text": "确实！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013518
+  },
+  {
+    "id": 6344504,
+    "online_process": 3,
+    "text": "盘到病除，太厉害了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013518
+  },
+  {
+    "id": 6344505,
+    "online_process": 3,
+    "text": "你的意思是",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013527
+  },
+  {
+    "id": 6344506,
+    "online_process": 3,
+    "text": "星盘可能跟狼王有关？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013527
+  },
+  {
+    "id": 6344507,
+    "online_process": 3,
+    "text": "明明觉得熟悉，却想不起来……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013542
+  },
+  {
+    "id": 6344508,
+    "online_process": 3,
+    "text": "为什么会这样？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013542
+  },
+  {
+    "id": 6344509,
+    "online_process": 3,
+    "text": "竟然是这样！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013548
+  },
+  {
+    "id": 6344510,
+    "online_process": 3,
+    "text": "好可怜……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013548
+  },
+  {
+    "id": 6344511,
+    "online_process": 3,
+    "text": "也许应该叫月震？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013554
+  },
+  {
+    "id": 6344512,
+    "online_process": 3,
+    "text": "这是个大发现！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013554
+  },
+  {
+    "id": 6344513,
+    "online_process": 3,
+    "text": "我好像想到一个名字……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013566,
+    "select_skip": true
+  },
+  {
+    "id": 6344601,
+    "online_process": 3,
+    "text": "月面……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013603,
+    "select_skip": true
+  },
+  {
+    "id": 6344602,
+    "online_process": 3,
+    "text": "银月狼王……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013603
+  },
+  {
+    "id": 6344603,
+    "online_process": 3,
+    "text": "小狼灵，你也在担心狼王，对吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013609,
+    "select_skip": true
   },
   {
     "id": 6532601,
@@ -60465,6 +61329,940 @@
     "select_next_dialogue": 400107560
   },
   {
+    "id": 9700894,
+    "online_process": 2,
+    "text": "有股暖融融的香气",
+    "opt_dia_relate": [
+      36258
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107620,
+    "select_skip": true
+  },
+  {
+    "id": 9700898,
+    "online_process": 2,
+    "text": "没事的呀！",
+    "opt_dia_relate": [
+      36258
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107640,
+    "select_skip": true
+  },
+  {
+    "id": 9700902,
+    "online_process": 2,
+    "text": "小事一桩！",
+    "opt_dia_relate": [
+      36258
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107670,
+    "select_skip": true
+  },
+  {
+    "id": 9700906,
+    "online_process": 2,
+    "text": "去吧，忙碌的镇长！",
+    "opt_dia_relate": [
+      36258
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107700,
+    "select_skip": true
+  },
+  {
+    "id": 9700910,
+    "online_process": 2,
+    "text": "等等……",
+    "opt_dia_relate": [
+      36259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107720,
+    "select_skip": true
+  },
+  {
+    "id": 9700914,
+    "online_process": 2,
+    "text": "这么严谨嘛",
+    "opt_dia_relate": [
+      36259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107720
+  },
+  {
+    "id": 9700918,
+    "online_process": 2,
+    "text": "了解！",
+    "opt_dia_relate": [
+      36259
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107740,
+    "select_skip": true
+  },
+  {
+    "id": 9700922,
+    "online_process": 2,
+    "text": "似乎看不出区别……",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107800,
+    "select_skip": true
+  },
+  {
+    "id": 9700923,
+    "online_process": 2,
+    "text": "第47次？",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107800
+  },
+  {
+    "id": 9700926,
+    "online_process": 2,
+    "text": "好的，质检员",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107810,
+    "select_skip": true
+  },
+  {
+    "id": 9700930,
+    "online_process": 2,
+    "text": "谢谢你，质检员",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107810
+  },
+  {
+    "id": 9700934,
+    "online_process": 2,
+    "text": "请等一下——",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107840,
+    "select_skip": true
+  },
+  {
+    "id": 9700938,
+    "online_process": 2,
+    "text": "我想多站一会儿",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107840
+  },
+  {
+    "id": 9700942,
+    "online_process": 2,
+    "text": "有太阳的味道",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107850,
+    "select_skip": true
+  },
+  {
+    "id": 9700946,
+    "online_process": 2,
+    "text": "总之，让人很安心",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107870,
+    "select_skip": true
+  },
+  {
+    "id": 9700950,
+    "online_process": 2,
+    "text": "没事的",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107910,
+    "select_skip": true
+  },
+  {
+    "id": 9700954,
+    "online_process": 2,
+    "text": "我们继续吧",
+    "opt_dia_relate": [
+      36262
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107910
+  },
+  {
+    "id": 9700958,
+    "online_process": 2,
+    "text": "好嘞，还是分工？",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107930,
+    "select_skip": true
+  },
+  {
+    "id": 9700962,
+    "online_process": 2,
+    "text": "没想到委托也要考试……",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107960,
+    "select_skip": true
+  },
+  {
+    "id": 9700966,
+    "online_process": 2,
+    "text": "捡拾果子还要考试？",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107960
+  },
+  {
+    "id": 9700970,
+    "online_process": 2,
+    "text": "出题吧",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107970,
+    "select_skip": true
+  },
+  {
+    "id": 9700971,
+    "online_process": 2,
+    "text": "紫梅",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107980,
+    "select_skip": true
+  },
+  {
+    "id": 9700972,
+    "online_process": 2,
+    "text": "酸桔",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107990
+  },
+  {
+    "id": 9700973,
+    "online_process": 2,
+    "text": "鲜杏",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400107990
+  },
+  {
+    "id": 9700974,
+    "online_process": 2,
+    "text": "左边",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108010,
+    "select_skip": true
+  },
+  {
+    "id": 9700978,
+    "online_process": 2,
+    "text": "右边",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108020
+  },
+  {
+    "id": 9700982,
+    "online_process": 2,
+    "text": "果皮颜色",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108040,
+    "select_skip": true
+  },
+  {
+    "id": 9700986,
+    "online_process": 2,
+    "text": "果柄处硬度",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108050
+  },
+  {
+    "id": 9700990,
+    "online_process": 2,
+    "text": "……",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108060,
+    "select_skip": true
+  },
+  {
+    "id": 9700994,
+    "online_process": 2,
+    "text": "选项一",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108120,
+    "select_skip": true
+  },
+  {
+    "id": 9700998,
+    "online_process": 2,
+    "text": "选项二",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108120
+  },
+  {
+    "id": 9701002,
+    "online_process": 2,
+    "text": "选项三",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108120
+  },
+  {
+    "id": 9701006,
+    "online_process": 2,
+    "text": "抱歉，请再重复一遍",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108080
+  },
+  {
+    "id": 9701010,
+    "online_process": 2,
+    "text": "遵命，长官",
+    "opt_dia_relate": [
+      36263
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108131,
+    "select_skip": true
+  },
+  {
+    "id": 9701014,
+    "online_process": 2,
+    "text": "给你~",
+    "opt_dia_relate": [
+      36267
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108210,
+    "select_skip": true
+  },
+  {
+    "id": 9701018,
+    "online_process": 2,
+    "text": "怎么了？",
+    "opt_dia_relate": [
+      36268
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108240,
+    "select_skip": true
+  },
+  {
+    "id": 9701022,
+    "online_process": 2,
+    "text": "我知道",
+    "opt_dia_relate": [
+      36268
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108270
+  },
+  {
+    "id": 9701026,
+    "online_process": 2,
+    "text": "之后我会小心的",
+    "opt_dia_relate": [
+      36268
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108270,
+    "select_skip": true
+  },
+  {
+    "id": 9701030,
+    "online_process": 2,
+    "text": "给你~",
+    "opt_dia_relate": [
+      36269
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108290,
+    "select_skip": true
+  },
+  {
+    "id": 9701034,
+    "online_process": 2,
+    "text": "给你~",
+    "opt_dia_relate": [
+      36271
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108340,
+    "select_skip": true
+  },
+  {
+    "id": 9701038,
+    "online_process": 2,
+    "text": "五瓣花托是幸运的象征！",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108380,
+    "select_skip": true
+  },
+  {
+    "id": 9701042,
+    "online_process": 2,
+    "text": "很少见的！",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108380
+  },
+  {
+    "id": 9701046,
+    "online_process": 2,
+    "text": "（还是在意的嘛）",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108400,
+    "select_skip": true
+  },
+  {
+    "id": 9701048,
+    "online_process": 2,
+    "text": "方方？你还好吗？",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108432,
+    "select_skip": true
+  },
+  {
+    "id": 9701050,
+    "online_process": 2,
+    "text": "（轻轻碰碰它）",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108432
+  },
+  {
+    "id": 9701052,
+    "online_process": 2,
+    "text": "你没事就好……",
+    "opt_dia_relate": [
+      36272
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108450,
+    "select_skip": true
+  },
+  {
+    "id": 9701054,
+    "online_process": 2,
+    "text": "好想……",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108490,
+    "select_skip": true
+  },
+  {
+    "id": 9701058,
+    "online_process": 2,
+    "text": "踩上去",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108490
+  },
+  {
+    "id": 9701062,
+    "online_process": 2,
+    "text": "只是喜欢这样做啦",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108520,
+    "select_skip": true
+  },
+  {
+    "id": 9701066,
+    "online_process": 2,
+    "text": "踩叶子很好玩的",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108520
+  },
+  {
+    "id": 9701070,
+    "online_process": 2,
+    "text": "没事啦，我会处理的！",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108530,
+    "select_skip": true
+  },
+  {
+    "id": 9701074,
+    "online_process": 2,
+    "text": "你不想试试吗？",
+    "opt_dia_relate": [
+      36274
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108530
+  },
+  {
+    "id": 9701078,
+    "online_process": 2,
+    "text": "！！",
+    "opt_dia_relate": [
+      36275
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108550,
+    "select_skip": true
+  },
+  {
+    "id": 9701082,
+    "online_process": 2,
+    "text": "对不起！",
+    "opt_dia_relate": [
+      36275
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108580,
+    "select_skip": true
+  },
+  {
+    "id": 9701086,
+    "online_process": 2,
+    "text": "骨片，我去找！",
+    "opt_dia_relate": [
+      36275
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108630,
+    "select_skip": true
+  },
+  {
+    "id": 9701090,
+    "online_process": 2,
+    "text": "拜托你了，我尽快回来！",
+    "opt_dia_relate": [
+      36275
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108650,
+    "select_skip": true
+  },
+  {
+    "id": 9701094,
+    "online_process": 2,
+    "text": "骨片找到了！",
+    "opt_dia_relate": [
+      36276
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108680,
+    "select_skip": true
+  },
+  {
+    "id": 9701098,
+    "online_process": 2,
+    "text": "给你！",
+    "opt_dia_relate": [
+      36276
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108680
+  },
+  {
+    "id": 9701102,
+    "online_process": 2,
+    "text": "真是太好了……",
+    "opt_dia_relate": [
+      36276
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108730,
+    "select_skip": true
+  },
+  {
+    "id": 9701106,
+    "online_process": 2,
+    "text": "再次道歉！",
+    "opt_dia_relate": [
+      36276
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108730
+  },
+  {
+    "id": 9701110,
+    "online_process": 2,
+    "text": "试着踩一下吧",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108800,
+    "select_skip": true
+  },
+  {
+    "id": 9701114,
+    "online_process": 2,
+    "text": "当然可以",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108801,
+    "select_skip": true
+  },
+  {
+    "id": 9701116,
+    "online_process": 2,
+    "text": "你还是你",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108810,
+    "select_skip": true
+  },
+  {
+    "id": 9701117,
+    "online_process": 2,
+    "text": "做什么不会改变这一点",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108810
+  },
+  {
+    "id": 9701118,
+    "online_process": 2,
+    "text": "秋天在告诉我们",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108840,
+    "select_skip": true
+  },
+  {
+    "id": 9701122,
+    "online_process": 2,
+    "text": "该放松下来了",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108840
+  },
+  {
+    "id": 9701126,
+    "online_process": 2,
+    "text": "是啊，有些事情，不需要意义",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108860,
+    "select_skip": true
+  },
+  {
+    "id": 9701130,
+    "online_process": 2,
+    "text": "我和你一起",
+    "opt_dia_relate": [
+      36277
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108980,
+    "select_skip": true
+  },
+  {
+    "id": 9701134,
+    "online_process": 2,
+    "text": "会的",
+    "opt_dia_relate": [
+      36278
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108940,
+    "select_skip": true
+  },
+  {
+    "id": 9701138,
+    "online_process": 2,
+    "text": "是丰盛的秋天",
+    "opt_dia_relate": [
+      36278
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108940
+  },
+  {
+    "id": 9701142,
+    "online_process": 2,
+    "text": "我们休息下吧",
+    "opt_dia_relate": [
+      36278
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108950,
+    "select_skip": true
+  },
+  {
+    "id": 9701146,
+    "online_process": 2,
+    "text": "你在做什么呀",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400108990,
+    "select_skip": true
+  },
+  {
+    "id": 9701150,
+    "online_process": 2,
+    "text": "我可以看看吗",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109000,
+    "select_skip": true
+  },
+  {
+    "id": 9701154,
+    "online_process": 2,
+    "text": "都是情感的一部分",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109040,
+    "select_skip": true
+  },
+  {
+    "id": 9701158,
+    "online_process": 2,
+    "text": "谢谢你",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109080,
+    "select_skip": true
+  },
+  {
+    "id": 9701162,
+    "online_process": 2,
+    "text": "我会好好收藏的",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109080
+  },
+  {
+    "id": 9701166,
+    "online_process": 2,
+    "text": "会的",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109100,
+    "select_skip": true
+  },
+  {
+    "id": 9701170,
+    "online_process": 2,
+    "text": "每年都会的",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109100
+  },
+  {
+    "id": 9701172,
+    "online_process": 2,
+    "text": "你会忘记今天吗？！",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109120,
+    "select_skip": true
+  },
+  {
+    "id": 9701174,
+    "online_process": 2,
+    "text": "会很快再见的",
+    "opt_dia_relate": [
+      36279
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 400109150,
+    "select_skip": true
+  },
+  {
     "id": 9799000,
     "online_process": 2,
     "text": "（沉默）",
@@ -67419,6 +69217,339 @@
     "select_next_dialogue": 320011345
   },
   {
+    "id": 30102120,
+    "online_process": 3,
+    "text": "打住打住……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012315
+  },
+  {
+    "id": 30102122,
+    "online_process": 3,
+    "text": "所以不速之客是……流星？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012315
+  },
+  {
+    "id": 30102124,
+    "online_process": 3,
+    "text": "星型的石头？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012321
+  },
+  {
+    "id": 30102126,
+    "online_process": 3,
+    "text": "总觉得在哪里见过类似的东西",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012321
+  },
+  {
+    "id": 30102128,
+    "online_process": 3,
+    "text": "打招呼？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012327
+  },
+  {
+    "id": 30102130,
+    "online_process": 3,
+    "text": "像这样吗（伸手）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012327
+  },
+  {
+    "id": 30102132,
+    "online_process": 3,
+    "text": "是什么精灵？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012345
+  },
+  {
+    "id": 30102134,
+    "online_process": 3,
+    "text": "我好像从没见过",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012345
+  },
+  {
+    "id": 30102136,
+    "online_process": 3,
+    "text": "诅咒狼灵？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012503
+  },
+  {
+    "id": 30102138,
+    "online_process": 3,
+    "text": "很稀有吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012503
+  },
+  {
+    "id": 30102140,
+    "online_process": 3,
+    "text": "它的家在迷雾森林？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012521
+  },
+  {
+    "id": 30102142,
+    "online_process": 3,
+    "text": "小狼灵，你想去迷雾森林吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012527
+  },
+  {
+    "id": 30102144,
+    "online_process": 3,
+    "text": "你是想去寻找自己的同伴？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012527
+  },
+  {
+    "id": 30102146,
+    "online_process": 3,
+    "text": "可是……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012533
+  },
+  {
+    "id": 30102148,
+    "online_process": 3,
+    "text": "迷雾森林里不是已经没有诅咒狼灵了吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012533
+  },
+  {
+    "id": 30102150,
+    "online_process": 3,
+    "text": "（静观其变）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012736
+  },
+  {
+    "id": 30102152,
+    "online_process": 3,
+    "text": "（还是躲远点）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012736
+  },
+  {
+    "id": 30102154,
+    "online_process": 3,
+    "text": "啊？我也要上吗",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 30102156,
+    "online_process": 3,
+    "text": "好吧，那就来吧！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 30102158,
+    "online_process": 3,
+    "text": "诅咒？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012909
+  },
+  {
+    "id": 30102160,
+    "online_process": 3,
+    "text": "注定堕入黑暗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012909
+  },
+  {
+    "id": 30102162,
+    "online_process": 3,
+    "text": "也许那人是在胡说",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012930
+  },
+  {
+    "id": 30102164,
+    "online_process": 3,
+    "text": "也许传说有误",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012930
+  },
+  {
+    "id": 30102166,
+    "online_process": 3,
+    "text": "准新生？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012936
+  },
+  {
+    "id": 30102168,
+    "online_process": 3,
+    "text": "原来是学弟！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012936
+  },
+  {
+    "id": 30102170,
+    "online_process": 3,
+    "text": "这是什么？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012954
+  },
+  {
+    "id": 30102172,
+    "online_process": 3,
+    "text": "小狼灵好像对它很感兴趣",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301012954
+  },
+  {
+    "id": 30102174,
+    "online_process": 3,
+    "text": "它往西边跑了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 30102176,
+    "online_process": 3,
+    "text": "追了好远，好累！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013103
+  },
+  {
+    "id": 30102178,
+    "online_process": 3,
+    "text": "还好我有精灵的帮助~",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013103
+  },
+  {
+    "id": 30102180,
+    "online_process": 3,
+    "text": "我也想知道",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013321
+  },
+  {
+    "id": 30102182,
+    "online_process": 3,
+    "text": "看起来完全不像",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013321
+  },
+  {
+    "id": 30102184,
+    "online_process": 3,
+    "text": "同族？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013342
+  },
+  {
+    "id": 30102186,
+    "online_process": 3,
+    "text": "难道，你们的老大是……？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013342
+  },
+  {
+    "id": 30102188,
+    "online_process": 3,
+    "text": "它是不是受伤了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013506
+  },
+  {
+    "id": 30102190,
+    "online_process": 3,
+    "text": "它看起来好虚弱",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013506
+  },
+  {
+    "id": 30102192,
+    "online_process": 3,
+    "text": "狼王好可怜",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013515
+  },
+  {
+    "id": 30102194,
+    "online_process": 3,
+    "text": "可恶的侵蚀",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301013515
+  },
+  {
+    "id": 30102196,
+    "online_process": 3,
+    "text": "怎么回事？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015806
+  },
+  {
+    "id": 30102198,
+    "online_process": 3,
+    "text": "星盘在震动",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015806
+  },
+  {
+    "id": 30102200,
+    "online_process": 3,
+    "text": "准备好了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015815
+  },
+  {
+    "id": 30102202,
+    "online_process": 3,
+    "text": "一起去吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015815
+  },
+  {
     "id": 35226451,
     "online_process": 2,
     "text": "兰斯洛",
@@ -70174,6 +72305,248 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_mofa_png.img_mofa_png'",
     "times": -1,
     "select_next_dialogue": 6071015
+  },
+  {
+    "id": 80006701,
+    "online_process": 3,
+    "text": "可是星盘……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015806,
+    "select_skip": true
+  },
+  {
+    "id": 80006702,
+    "online_process": 3,
+    "text": "似乎没有能量了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015806
+  },
+  {
+    "id": 80006703,
+    "online_process": 3,
+    "text": "让它们休息吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015827,
+    "select_skip": true
+  },
+  {
+    "id": 80006704,
+    "online_process": 3,
+    "text": "接下来靠我们了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015827
+  },
+  {
+    "id": 80006901,
+    "online_process": 3,
+    "text": "要相信伙伴的力量！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015933
+  },
+  {
+    "id": 80006902,
+    "online_process": 3,
+    "text": "我和尤里克一直在你身边",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015933
+  },
+  {
+    "id": 80006903,
+    "online_process": 3,
+    "text": "穆克！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016106
+  },
+  {
+    "id": 80006904,
+    "online_process": 3,
+    "text": "能听到我们说话吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016106
+  },
+  {
+    "id": 80006905,
+    "online_process": 3,
+    "text": "（难道它在利用狼王的恐惧）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016124
+  },
+  {
+    "id": 80006906,
+    "online_process": 3,
+    "text": "（这样一切就说得通了）",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016124
+  },
+  {
+    "id": 80007111,
+    "online_process": 3,
+    "text": "穆克！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016303
+  },
+  {
+    "id": 80007112,
+    "online_process": 3,
+    "text": "银月狼王！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016303
+  },
+  {
+    "id": 80007113,
+    "online_process": 3,
+    "text": "没错！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016333
+  },
+  {
+    "id": 80007114,
+    "online_process": 3,
+    "text": "我们根本就不怕！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016333
+  },
+  {
+    "id": 80007411,
+    "online_process": 3,
+    "text": "与你记忆中的应该不太一样吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016402,
+    "select_skip": true
+  },
+  {
+    "id": 80007412,
+    "online_process": 3,
+    "text": "毕竟已经过去了那么久",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016402
+  },
+  {
+    "id": 80007413,
+    "online_process": 3,
+    "text": "都过去啦……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016406,
+    "select_skip": true
+  },
+  {
+    "id": 80007414,
+    "online_process": 3,
+    "text": "现在的任务是好好休息！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016406
+  },
+  {
+    "id": 80007415,
+    "online_process": 3,
+    "text": "和朋友待在一起",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016409,
+    "select_skip": true
+  },
+  {
+    "id": 80007416,
+    "online_process": 3,
+    "text": "做自己喜欢的事",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016409
+  },
+  {
+    "id": 80007511,
+    "online_process": 3,
+    "text": "你恢复得怎么样了？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016503,
+    "select_skip": true
+  },
+  {
+    "id": 80007512,
+    "online_process": 3,
+    "text": "还习惯卡洛西亚吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016503
+  },
+  {
+    "id": 80007513,
+    "online_process": 3,
+    "text": "我来看看你",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016512,
+    "select_skip": true
+  },
+  {
+    "id": 80007514,
+    "online_process": 3,
+    "text": "我来看看穆克",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016512
+  },
+  {
+    "id": 80007515,
+    "online_process": 3,
+    "text": "当然记得",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016515,
+    "select_skip": true
+  },
+  {
+    "id": 80007516,
+    "online_process": 3,
+    "text": "怎么了？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016515
+  },
+  {
+    "id": 80007517,
+    "online_process": 3,
+    "text": "举双手赞成",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016524,
+    "select_skip": true
+  },
+  {
+    "id": 80007518,
+    "online_process": 3,
+    "text": "穆克自己好像不乐意",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301016524
+  },
+  {
+    "id": 80007519,
+    "online_process": 3,
+    "text": "准备好了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 301015833,
+    "select_skip": true
   },
   {
     "id": 100000000,
@@ -84981,6 +87354,50 @@
     "select_next_dialogue": 403002240
   },
   {
+    "id": 161000044,
+    "online_process": 2,
+    "text": "我准备好了！",
+    "opt_dia_relate": [
+      20260077
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 403010003
+  },
+  {
+    "id": 161000045,
+    "online_process": 2,
+    "text": "稍等，我换套衣服……",
+    "opt_dia_relate": [
+      20260077
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 403010004
+  },
+  {
+    "id": 161000046,
+    "online_process": 2,
+    "text": "我准备好了！",
+    "opt_dia_relate": [
+      20260077
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 403010008
+  },
+  {
+    "id": 161000047,
+    "online_process": 2,
+    "text": "稍等，我换套衣服……",
+    "opt_dia_relate": [
+      20260077
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 403010012
+  },
+  {
     "id": 168000001,
     "online_process": 2,
     "text": "发起挑战！",
@@ -96488,6 +98905,510 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
     "select_next_dialogue": 202208320
+  },
+  {
+    "id": 221100950,
+    "online_process": 2,
+    "text": "准备好啦！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912616
+  },
+  {
+    "id": 221100951,
+    "online_process": 2,
+    "text": "打声招呼",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912619,
+    "select_skip": true
+  },
+  {
+    "id": 221100952,
+    "online_process": 2,
+    "text": "准备好啦！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912629
+  },
+  {
+    "id": 221100953,
+    "online_process": 2,
+    "text": "打声招呼",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912632,
+    "select_skip": true
+  },
+  {
+    "id": 221100954,
+    "online_process": 2,
+    "text": "准备好啦！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912625
+  },
+  {
+    "id": 221100955,
+    "online_process": 2,
+    "text": "打声招呼",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912628,
+    "select_skip": true
+  },
+  {
+    "id": 221100956,
+    "online_process": 2,
+    "text": "准备好啦！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912621
+  },
+  {
+    "id": 221100957,
+    "online_process": 2,
+    "text": "打声招呼",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912624,
+    "select_skip": true
+  },
+  {
+    "id": 221100958,
+    "online_process": 2,
+    "text": "听听",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912618
+  },
+  {
+    "id": 221100959,
+    "online_process": 2,
+    "text": "→",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 203912620
+  },
+  {
+    "id": 221100960,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6031;6026;6027;6028",
+    "times": -1,
+    "select_next_dialogue": 100990701,
+    "select_mark": 15
+  },
+  {
+    "id": 221100961,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990702
+  },
+  {
+    "id": 221100962,
+    "online_process": 2,
+    "text": "明星学员",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990703
+  },
+  {
+    "id": 221100963,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6025",
+    "times": -1,
+    "select_next_dialogue": 100990704
+  },
+  {
+    "id": 221100964,
+    "online_process": 2,
+    "text": "交换学院",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990705
+  },
+  {
+    "id": 221100965,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221100970,
+    "online_process": 2,
+    "text": "还没有哦。",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221100971,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990751
+  },
+  {
+    "id": 221100972,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990761
+  },
+  {
+    "id": 221100973,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990771
+  },
+  {
+    "id": 221100974,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990781
+  },
+  {
+    "id": 221100980,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990711,
+    "select_mark": 15
+  },
+  {
+    "id": 221100981,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990712
+  },
+  {
+    "id": 221100983,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6025",
+    "times": -1,
+    "select_next_dialogue": 100990714
+  },
+  {
+    "id": 221100984,
+    "online_process": 2,
+    "text": "交换学院",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_InteractionAcademy_png.img_InteractionAcademy_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6025;6031",
+    "times": -1,
+    "select_next_dialogue": 100990715
+  },
+  {
+    "id": 221100985,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221100990,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6032;6025;6027;6028",
+    "times": -1,
+    "select_next_dialogue": 100990721,
+    "select_mark": 15
+  },
+  {
+    "id": 221100991,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990722
+  },
+  {
+    "id": 221100993,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6026",
+    "times": -1,
+    "select_next_dialogue": 100990724
+  },
+  {
+    "id": 221100995,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101000,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990731,
+    "select_mark": 15
+  },
+  {
+    "id": 221101001,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990732
+  },
+  {
+    "id": 221101003,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6026",
+    "times": -1,
+    "select_next_dialogue": 100990734
+  },
+  {
+    "id": 221101004,
+    "online_process": 2,
+    "text": "交换学院",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_InteractionAcademy_png.img_InteractionAcademy_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6026;6032",
+    "times": -1,
+    "select_next_dialogue": 100990735
+  },
+  {
+    "id": 221101005,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101010,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6033;6025;6026;6028",
+    "times": -1,
+    "select_next_dialogue": 100990801,
+    "select_mark": 15
+  },
+  {
+    "id": 221101011,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990802
+  },
+  {
+    "id": 221101013,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6027",
+    "times": -1,
+    "select_next_dialogue": 100990804
+  },
+  {
+    "id": 221101015,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101020,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990811,
+    "select_mark": 15
+  },
+  {
+    "id": 221101021,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990812
+  },
+  {
+    "id": 221101023,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6027",
+    "times": -1,
+    "select_next_dialogue": 100990814
+  },
+  {
+    "id": 221101024,
+    "online_process": 2,
+    "text": "交换学院",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_InteractionAcademy_png.img_InteractionAcademy_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6027;6033",
+    "times": -1,
+    "select_next_dialogue": 100990815
+  },
+  {
+    "id": 221101025,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101030,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6034;6025;6026;6027",
+    "times": -1,
+    "select_next_dialogue": 100990821,
+    "select_mark": 15
+  },
+  {
+    "id": 221101031,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990822
+  },
+  {
+    "id": 221101033,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6028",
+    "times": -1,
+    "select_next_dialogue": 100990824
+  },
+  {
+    "id": 221101035,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101040,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100990831,
+    "select_mark": 15
+  },
+  {
+    "id": 221101041,
+    "online_process": 2,
+    "text": "学院商店",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegeStore_png.img_CollegeStore_png'",
+    "times": -1,
+    "select_next_dialogue": 100990832
+  },
+  {
+    "id": 221101043,
+    "online_process": 2,
+    "text": "领取学期奖励",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiangli_png.img_jiangli_png'",
+    "enable_cond": 1,
+    "enable_cond_params": "15010;6028",
+    "times": -1,
+    "select_next_dialogue": 100990834
+  },
+  {
+    "id": 221101044,
+    "online_process": 2,
+    "text": "交换学院",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_InteractionAcademy_png.img_InteractionAcademy_png'",
+    "enable_cond": 4,
+    "enable_cond_params": "6028;6034",
+    "times": -1,
+    "select_next_dialogue": 100990835
+  },
+  {
+    "id": 221101045,
+    "online_process": 2,
+    "text": "离开",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 100118
+  },
+  {
+    "id": 221101050,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "times": -1,
+    "select_next_dialogue": 100990701,
+    "select_mark": 15
+  },
+  {
+    "id": 221101051,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "times": -1,
+    "select_next_dialogue": 100990721,
+    "select_mark": 15
+  },
+  {
+    "id": 221101052,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "times": -1,
+    "select_next_dialogue": 100990801,
+    "select_mark": 15
+  },
+  {
+    "id": 221101053,
+    "online_process": 2,
+    "text": "学期学分",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_CollegePoints_png.img_CollegePoints_png'",
+    "times": -1,
+    "select_next_dialogue": 100990821,
+    "select_mark": 15
   },
   {
     "id": 290000001,
@@ -114400,6 +117321,407 @@
     ]
   },
   {
+    "id": 580402001,
+    "online_process": 2,
+    "text": "星盘怎么了？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013803,
+    "select_skip": true
+  },
+  {
+    "id": 580402002,
+    "online_process": 2,
+    "text": "也许是狼王的信号？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013806,
+    "select_skip": true
+  },
+  {
+    "id": 580402003,
+    "online_process": 2,
+    "text": "我们试试吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013806
+  },
+  {
+    "id": 580402004,
+    "online_process": 2,
+    "text": "太好了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013924,
+    "select_skip": true
+  },
+  {
+    "id": 580402005,
+    "online_process": 2,
+    "text": "这下不用担心啦！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013924
+  },
+  {
+    "id": 580402006,
+    "online_process": 2,
+    "text": "记忆？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013939,
+    "select_skip": true
+  },
+  {
+    "id": 580402007,
+    "online_process": 2,
+    "text": "还是不知道怎么办",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301013939
+  },
+  {
+    "id": 580402008,
+    "online_process": 2,
+    "text": "也许每个星盘都不一样",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014103,
+    "select_skip": true
+  },
+  {
+    "id": 580402009,
+    "online_process": 2,
+    "text": "你有什么头绪吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014118,
+    "select_skip": true
+  },
+  {
+    "id": 580402010,
+    "online_process": 2,
+    "text": "我也这么觉得",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014127,
+    "select_skip": true
+  },
+  {
+    "id": 580402011,
+    "online_process": 2,
+    "text": "值得试试",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014127
+  },
+  {
+    "id": 580402012,
+    "online_process": 2,
+    "text": "击败它们",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014206,
+    "select_skip": true
+  },
+  {
+    "id": 580402013,
+    "online_process": 2,
+    "text": "便能净化它们",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014206
+  },
+  {
+    "id": 580402014,
+    "online_process": 2,
+    "text": "我很擅长对付噩梦精灵",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014212,
+    "select_skip": true
+  },
+  {
+    "id": 580402015,
+    "online_process": 2,
+    "text": "我来就行",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014212
+  },
+  {
+    "id": 580402016,
+    "online_process": 2,
+    "text": "你被噩梦侵蚀了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014412,
+    "select_skip": true
+  },
+  {
+    "id": 580402017,
+    "online_process": 2,
+    "text": "关在了月面",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014412
+  },
+  {
+    "id": 580402018,
+    "online_process": 2,
+    "text": "它也认识狼王",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014418,
+    "select_skip": true
+  },
+  {
+    "id": 580402019,
+    "online_process": 2,
+    "text": "你们认识它吗",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014418
+  },
+  {
+    "id": 580402020,
+    "online_process": 2,
+    "text": "没错",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014427,
+    "select_skip": true
+  },
+  {
+    "id": 580402021,
+    "online_process": 2,
+    "text": "快出发吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014427
+  },
+  {
+    "id": 580402022,
+    "online_process": 2,
+    "text": "画的不错",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014506
+  },
+  {
+    "id": 580402023,
+    "online_process": 2,
+    "text": "这是在……？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014506
+  },
+  {
+    "id": 580402024,
+    "online_process": 2,
+    "text": "你爷爷的爷爷",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014572,
+    "select_skip": true
+  },
+  {
+    "id": 580402025,
+    "online_process": 2,
+    "text": "是狼王的主人",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014572
+  },
+  {
+    "id": 580402026,
+    "online_process": 2,
+    "text": "回去问问狼王吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014804,
+    "select_skip": true
+  },
+  {
+    "id": 580402027,
+    "online_process": 2,
+    "text": "那要怎么办？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014936,
+    "select_skip": true
+  },
+  {
+    "id": 580402028,
+    "online_process": 2,
+    "text": "你有什么办法吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014936
+  },
+  {
+    "id": 580402029,
+    "online_process": 2,
+    "text": "是伙伴！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014945,
+    "select_skip": true
+  },
+  {
+    "id": 580402030,
+    "online_process": 2,
+    "text": "没错！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014945
+  },
+  {
+    "id": 580403001,
+    "online_process": 2,
+    "text": "真的吗？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014606,
+    "select_skip": true
+  },
+  {
+    "id": 580403002,
+    "online_process": 2,
+    "text": "那走吧",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014606
+  },
+  {
+    "id": 580403003,
+    "online_process": 2,
+    "text": "那可太好了",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014809,
+    "select_skip": true
+  },
+  {
+    "id": 580403004,
+    "online_process": 2,
+    "text": "没问题",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014818
+  },
+  {
+    "id": 580403005,
+    "online_process": 2,
+    "text": "我来帮你！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301014818
+  },
+  {
+    "id": 580403006,
+    "online_process": 2,
+    "text": "那我们一起出发吧！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_skip": true
+  },
+  {
+    "id": 580403007,
+    "online_process": 2,
+    "text": "感觉有哪里不对",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015403,
+    "select_skip": true
+  },
+  {
+    "id": 580403008,
+    "online_process": 2,
+    "text": "少了什么东西",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015403
+  },
+  {
+    "id": 580403009,
+    "online_process": 2,
+    "text": "我也担心",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015412,
+    "select_skip": true
+  },
+  {
+    "id": 580403010,
+    "online_process": 2,
+    "text": "……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015606,
+    "select_skip": true
+  },
+  {
+    "id": 580403011,
+    "online_process": 2,
+    "text": "没错",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015612,
+    "select_skip": true
+  },
+  {
+    "id": 580403012,
+    "online_process": 2,
+    "text": "我也不知道",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015612
+  },
+  {
+    "id": 580403013,
+    "online_process": 2,
+    "text": "穆克",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015639,
+    "select_skip": true
+  },
+  {
+    "id": 580403014,
+    "online_process": 2,
+    "text": "别做傻事",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015639
+  },
+  {
+    "id": 580403015,
+    "online_process": 2,
+    "text": "看来它不想连累我们",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015718,
+    "select_skip": true
+  },
+  {
+    "id": 580403016,
+    "online_process": 2,
+    "text": "这是它的决定",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015721,
+    "select_skip": true
+  },
+  {
+    "id": 580403017,
+    "online_process": 2,
+    "text": "现在也没什么别的办法",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 301015721
+  },
+  {
     "id": 583721101,
     "online_process": 3,
     "text": "你帮洛克写信的？",
@@ -115732,6 +119054,1588 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
     "select_next_dialogue": 501600756
+  },
+  {
+    "id": 590001128,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001129,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001130,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001131,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001132,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001133,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001134,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001135,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001136,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001137,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001138,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001139,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001140,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001141,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001142,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001143,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001144,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001145,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001146,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001147,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001148,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001149,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001150,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001151,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001152,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001153,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001154,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001155,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001156,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001157,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001158,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001159,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001160,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001161,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001162,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001163,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001164,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001165,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001166,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001167,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001168,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001169,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001170,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001171,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001172,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001173,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001174,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001175,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001176,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001177,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001178,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001179,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001180,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001181,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001182,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001183,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001184,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001185,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001186,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001187,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001188,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001189,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001190,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001191,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001192,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001193,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001194,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001195,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001196,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001197,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001198,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001199,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001200,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001201,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001202,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001203,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001204,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001205,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001206,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001207,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001208,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001209,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001210,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001211,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001212,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001213,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001214,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001215,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001216,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001217,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001218,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001219,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001220,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001221,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001222,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001223,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001224,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001225,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001226,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001227,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001228,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001229,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001230,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001231,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001232,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001233,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001234,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001235,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001236,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001237,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001238,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001239,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001240,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001241,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001242,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001243,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001244,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001245,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001246,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001247,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001248,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001249,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001250,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001251,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001252,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001253,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001254,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001255,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001256,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001257,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001258,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001259,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001260,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001261,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001262,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001263,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001264,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001265,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001266,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001267,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001268,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001269,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001270,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001271,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001272,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001273,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001274,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001275,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001276,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001277,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001278,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001279,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001280,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001281,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001282,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001283,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001284,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001285,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001286,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001287,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001288,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001289,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001290,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001291,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001292,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001293,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001294,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001295,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001296,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001297,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001298,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001299,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001300,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001301,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001302,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001303,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001304,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001305,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001306,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001307,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001308,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001309,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001310,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001311,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001312,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001313,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001314,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001315,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001316,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001317,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001318,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001319,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001320,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001321,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001322,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001323,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001324,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001325,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001326,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001327,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001328,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001329,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001330,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001331,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001332,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001333,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001334,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001335,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001336,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001337,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001338,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001339,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001340,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001341,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001342,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001343,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001344,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001345,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001346,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001347,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001348,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001349,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001350,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001351,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001352,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590001353,
+    "online_process": 2,
+    "text": "111",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
   },
   {
     "id": 590002000,
@@ -117133,6 +122037,350 @@
     "select_next_dialogue": 59002313
   },
   {
+    "id": 590003300,
+    "online_process": 2,
+    "text": "交给我吧！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003301,
+    "online_process": 2,
+    "text": "我查到线索就马上回来。",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003305,
+    "online_process": 2,
+    "text": "这片水域为什么会变成这样？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004045
+  },
+  {
+    "id": 590003310,
+    "online_process": 2,
+    "text": "我要！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004076,
+    "select_skip": true
+  },
+  {
+    "id": 590003311,
+    "online_process": 2,
+    "text": "必须算上我！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004076
+  },
+  {
+    "id": 590003315,
+    "online_process": 2,
+    "text": "好！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004085
+  },
+  {
+    "id": 590003319,
+    "online_process": 2,
+    "text": "这下真是悲伤逆流成河了……",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004115
+  },
+  {
+    "id": 590003320,
+    "online_process": 2,
+    "text": "收拾完一起去吃“快洛罐罐”！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003325,
+    "online_process": 2,
+    "text": "坏了，他丢的全是“噪音罐罐”。",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004160
+  },
+  {
+    "id": 590003330,
+    "online_process": 2,
+    "text": "我先去准备一下！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_skip": true
+  },
+  {
+    "id": 590003335,
+    "online_process": 2,
+    "text": "那就用对战证明！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004171
+  },
+  {
+    "id": 590003340,
+    "online_process": 2,
+    "text": "我一定会阻止你！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004171
+  },
+  {
+    "id": 590003345,
+    "online_process": 2,
+    "text": "前两天的清理没白费！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004200
+  },
+  {
+    "id": 590003350,
+    "online_process": 2,
+    "text": "加入我们吧！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004230,
+    "select_skip": true
+  },
+  {
+    "id": 590003351,
+    "online_process": 2,
+    "text": "和我们一起！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004230
+  },
+  {
+    "id": 590003355,
+    "online_process": 2,
+    "text": "出发!",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004245
+  },
+  {
+    "id": 590003359,
+    "online_process": 2,
+    "text": "又是他们！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004270
+  },
+  {
+    "id": 590003360,
+    "online_process": 2,
+    "text": "那……我也该回去洗个澡了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004291
+  },
+  {
+    "id": 590003365,
+    "online_process": 2,
+    "text": "总算没有白忙活！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004300
+  },
+  {
+    "id": 590003370,
+    "online_process": 2,
+    "text": "我们会继续守护好这里！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004310
+  },
+  {
+    "id": 590003375,
+    "online_process": 2,
+    "text": "云梦豚的蛋已经可以孵化了吗！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004320
+  },
+  {
+    "id": 590003380,
+    "online_process": 2,
+    "text": "终于等到这一刻了！",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004330
+  },
+  {
+    "id": 590003385,
+    "online_process": 2,
+    "text": "可你好像还有什么心事？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004340
+  },
+  {
+    "id": 590003390,
+    "online_process": 2,
+    "text": "是某只水系精灵？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004350
+  },
+  {
+    "id": 590003395,
+    "online_process": 2,
+    "text": "所以那只救过您的精灵，很可能就是云梦豚？",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003400,
+    "online_process": 2,
+    "text": "当年它守护了您，现在轮到我们守护它们了。",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003405,
+    "online_process": 2,
+    "text": "我会照顾好小云梦豚，也会继续守护它们的家。",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 590003500,
+    "online_process": 2,
+    "text": "云朵纹路",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004370,
+    "select_skip": true
+  },
+  {
+    "id": 590003505,
+    "online_process": 2,
+    "text": "水波纹路",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004375
+  },
+  {
+    "id": 590003510,
+    "online_process": 2,
+    "text": "方块纹路",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004375
+  },
+  {
+    "id": 590003515,
+    "online_process": 2,
+    "text": "圆圈纹路",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004375
+  },
+  {
+    "id": 590003520,
+    "online_process": 2,
+    "text": "水流速度过快",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004390
+  },
+  {
+    "id": 590003525,
+    "online_process": 2,
+    "text": "水底沙石匮乏",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004390
+  },
+  {
+    "id": 590003530,
+    "online_process": 2,
+    "text": "天气太炎热",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004390
+  },
+  {
+    "id": 590003535,
+    "online_process": 2,
+    "text": "水域被污染",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004385,
+    "select_skip": true
+  },
+  {
+    "id": 590003540,
+    "online_process": 2,
+    "text": "误饮了被污染的河水",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004400,
+    "select_skip": true
+  },
+  {
+    "id": 590003545,
+    "online_process": 2,
+    "text": "被野外精灵误伤",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004405
+  },
+  {
+    "id": 590003550,
+    "online_process": 2,
+    "text": "心情不好",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004405
+  },
+  {
+    "id": 590003555,
+    "online_process": 2,
+    "text": "昼夜温差引发不适",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004405
+  },
+  {
+    "id": 590003560,
+    "online_process": 2,
+    "text": "有人长期乱扔垃圾",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004415,
+    "select_skip": true
+  },
+  {
+    "id": 590003565,
+    "online_process": 2,
+    "text": "自然天气影响",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004420
+  },
+  {
+    "id": 590003570,
+    "online_process": 2,
+    "text": "上游泉水枯竭",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004420
+  },
+  {
+    "id": 590003575,
+    "online_process": 2,
+    "text": "野生精灵扰动泥沙",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 59004420
+  },
+  {
     "id": 590004000,
     "online_process": 2,
     "text": "嘿嘿，没有啦",
@@ -118349,6 +123597,1076 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
     "times": -1,
     "select_next_dialogue": 403800705
+  },
+  {
+    "id": 800000800,
+    "online_process": 2,
+    "text": "星盘怎么了？",
+    "opt_dia_relate": [
+      800000031
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800015
+  },
+  {
+    "id": 800000803,
+    "online_process": 2,
+    "text": "也许是狼王的信号？",
+    "opt_dia_relate": [
+      800000031
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800010
+  },
+  {
+    "id": 800000804,
+    "online_process": 2,
+    "text": "我们试试吧",
+    "opt_dia_relate": [
+      800000031
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800010
+  },
+  {
+    "id": 800000805,
+    "online_process": 2,
+    "text": "太好了！",
+    "opt_dia_relate": [
+      800000032
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800070
+  },
+  {
+    "id": 800000806,
+    "online_process": 2,
+    "text": "这下不用担心啦！",
+    "opt_dia_relate": [
+      800000032
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800070
+  },
+  {
+    "id": 800000807,
+    "online_process": 2,
+    "text": "记忆？",
+    "opt_dia_relate": [
+      800000032
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800095
+  },
+  {
+    "id": 800000810,
+    "online_process": 2,
+    "text": "还是不知道怎么办",
+    "opt_dia_relate": [
+      800000032
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800095
+  },
+  {
+    "id": 800000811,
+    "online_process": 2,
+    "text": "也许每个星盘都不一样",
+    "opt_dia_relate": [
+      800000033
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800145
+  },
+  {
+    "id": 800000812,
+    "online_process": 2,
+    "text": "你有什么头绪吗？",
+    "opt_dia_relate": [
+      800000033
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800170
+  },
+  {
+    "id": 800000815,
+    "online_process": 2,
+    "text": "我也这么觉得",
+    "opt_dia_relate": [
+      800000033
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800185
+  },
+  {
+    "id": 800000820,
+    "online_process": 2,
+    "text": "值得试试",
+    "opt_dia_relate": [
+      800000033
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800185
+  },
+  {
+    "id": 800000825,
+    "online_process": 2,
+    "text": "击败它们",
+    "opt_dia_relate": [
+      800000034
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800200
+  },
+  {
+    "id": 800000826,
+    "online_process": 2,
+    "text": "便能净化它们",
+    "opt_dia_relate": [
+      800000034
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800200
+  },
+  {
+    "id": 800000827,
+    "online_process": 2,
+    "text": "我很擅长对付噩梦精灵",
+    "opt_dia_relate": [
+      800000034
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800210
+  },
+  {
+    "id": 800000830,
+    "online_process": 2,
+    "text": "我来就行",
+    "opt_dia_relate": [
+      800000034
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800210
+  },
+  {
+    "id": 800000845,
+    "online_process": 2,
+    "text": "你被噩梦侵蚀了",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800304
+  },
+  {
+    "id": 800000846,
+    "online_process": 2,
+    "text": "关在了月面",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800304
+  },
+  {
+    "id": 800000847,
+    "online_process": 2,
+    "text": "它也认识狼王",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800306
+  },
+  {
+    "id": 800000848,
+    "online_process": 2,
+    "text": "你们认识它吗",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800306
+  },
+  {
+    "id": 800000849,
+    "online_process": 2,
+    "text": "没错",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800309
+  },
+  {
+    "id": 800000850,
+    "online_process": 2,
+    "text": "快出发吧",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800309
+  },
+  {
+    "id": 800000851,
+    "online_process": 2,
+    "text": "画的不错",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800325
+  },
+  {
+    "id": 800000852,
+    "online_process": 2,
+    "text": "这是在……？",
+    "opt_dia_relate": [
+      800000037
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800325
+  },
+  {
+    "id": 800000855,
+    "online_process": 2,
+    "text": "你爷爷的爷爷",
+    "opt_dia_relate": [
+      800000051
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800600
+  },
+  {
+    "id": 800000860,
+    "online_process": 2,
+    "text": "是狼王的主人",
+    "opt_dia_relate": [
+      800000051
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800600
+  },
+  {
+    "id": 800000865,
+    "online_process": 2,
+    "text": "回去问问狼王吧",
+    "opt_dia_relate": [
+      800000054
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800630
+  },
+  {
+    "id": 800000866,
+    "online_process": 2,
+    "text": "真的吗？",
+    "opt_dia_relate": [
+      800000055
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800750
+  },
+  {
+    "id": 800000867,
+    "online_process": 2,
+    "text": "那走吧",
+    "opt_dia_relate": [
+      800000055
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800750
+  },
+  {
+    "id": 800000868,
+    "online_process": 2,
+    "text": "那可太好了",
+    "opt_dia_relate": [
+      800000057
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800790
+  },
+  {
+    "id": 800000869,
+    "online_process": 2,
+    "text": "没问题",
+    "opt_dia_relate": [
+      800000057
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800805
+  },
+  {
+    "id": 800000870,
+    "online_process": 2,
+    "text": "我来帮你！",
+    "opt_dia_relate": [
+      800000057
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340800805
+  },
+  {
+    "id": 800000871,
+    "online_process": 2,
+    "text": "那我们一起出发吧！",
+    "opt_dia_relate": [
+      800000057
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1
+  },
+  {
+    "id": 800000875,
+    "online_process": 2,
+    "text": "感觉有哪里不对",
+    "opt_dia_relate": [
+      800000063
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800936
+  },
+  {
+    "id": 800000876,
+    "online_process": 2,
+    "text": "少了什么东西",
+    "opt_dia_relate": [
+      800000063
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340800936
+  },
+  {
+    "id": 800000880,
+    "online_process": 2,
+    "text": "我也担心",
+    "opt_dia_relate": [
+      800000063
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340800945
+  },
+  {
+    "id": 800000881,
+    "online_process": 2,
+    "text": "……",
+    "opt_dia_relate": [
+      800000065
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801005
+  },
+  {
+    "id": 800000882,
+    "online_process": 2,
+    "text": "没错",
+    "opt_dia_relate": [
+      800000065
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340801015
+  },
+  {
+    "id": 800000883,
+    "online_process": 2,
+    "text": "我也不知道",
+    "opt_dia_relate": [
+      800000065
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801015
+  },
+  {
+    "id": 800000884,
+    "online_process": 2,
+    "text": "穆克",
+    "opt_dia_relate": [
+      800000065
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340801060
+  },
+  {
+    "id": 800000885,
+    "online_process": 2,
+    "text": "别做傻事",
+    "opt_dia_relate": [
+      800000065
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801060
+  },
+  {
+    "id": 800000886,
+    "online_process": 2,
+    "text": "看来它不想连累我们",
+    "opt_dia_relate": [
+      800000066
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340801085
+  },
+  {
+    "id": 800000887,
+    "online_process": 2,
+    "text": "月面的入口打不开。",
+    "opt_dia_relate": [
+      800000066
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801090
+  },
+  {
+    "id": 800000890,
+    "online_process": 2,
+    "text": "再想想其他办法？",
+    "opt_dia_relate": [
+      800000066
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 340801090
+  },
+  {
+    "id": 800000895,
+    "online_process": 2,
+    "text": "月面……",
+    "opt_dia_relate": [
+      800000080
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801130,
+    "select_skip": true
+  },
+  {
+    "id": 800000900,
+    "online_process": 2,
+    "text": "银月狼王……",
+    "opt_dia_relate": [
+      800000080
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801130
+  },
+  {
+    "id": 800000995,
+    "online_process": 2,
+    "text": "它是想保护我们吧",
+    "opt_dia_relate": [
+      800000080
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801145,
+    "select_skip": true
+  },
+  {
+    "id": 800001000,
+    "online_process": 2,
+    "text": "有点担心它",
+    "opt_dia_relate": [
+      800000080
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801145
+  },
+  {
+    "id": 800001005,
+    "online_process": 2,
+    "text": "小狼灵，你也在担心狼王吗？",
+    "opt_dia_relate": [
+      800000080
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801155
+  },
+  {
+    "id": 800001010,
+    "online_process": 2,
+    "text": "同意",
+    "opt_dia_relate": [
+      800000081
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801180,
+    "select_skip": true
+  },
+  {
+    "id": 800001015,
+    "online_process": 2,
+    "text": "拒绝",
+    "opt_dia_relate": [
+      800000081
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801185
+  },
+  {
+    "id": 800001020,
+    "online_process": 2,
+    "text": "你喜欢光？",
+    "opt_dia_relate": [
+      800000084
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801300,
+    "select_skip": true
+  },
+  {
+    "id": 800001022,
+    "online_process": 2,
+    "text": "我看看",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801421,
+    "select_skip": true
+  },
+  {
+    "id": 800001024,
+    "online_process": 2,
+    "text": "画的是什么？",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801421
+  },
+  {
+    "id": 800001026,
+    "online_process": 2,
+    "text": "是啊",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801425,
+    "select_skip": true
+  },
+  {
+    "id": 800001028,
+    "online_process": 2,
+    "text": "因为我们在一起！",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801425
+  },
+  {
+    "id": 800001030,
+    "online_process": 2,
+    "text": "那我们呢？",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801435,
+    "select_skip": true
+  },
+  {
+    "id": 800001032,
+    "online_process": 2,
+    "text": "上面也有我呢",
+    "opt_dia_relate": [
+      800000095
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801435
+  },
+  {
+    "id": 800001036,
+    "online_process": 2,
+    "text": "你还好吧",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801441,
+    "select_skip": true
+  },
+  {
+    "id": 800001038,
+    "online_process": 2,
+    "text": "怎么跑这么远",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801441
+  },
+  {
+    "id": 800001040,
+    "online_process": 2,
+    "text": "看来讲得不错",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801445,
+    "select_skip": true
+  },
+  {
+    "id": 800001042,
+    "online_process": 2,
+    "text": "它一直在听",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801445
+  },
+  {
+    "id": 800001044,
+    "online_process": 2,
+    "text": "有可能",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801455,
+    "select_skip": true
+  },
+  {
+    "id": 800001046,
+    "online_process": 2,
+    "text": "那是很久以前了",
+    "opt_dia_relate": [
+      800000096
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801455
+  },
+  {
+    "id": 800001048,
+    "online_process": 2,
+    "text": "是海的味道",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801461,
+    "select_skip": true
+  },
+  {
+    "id": 800001050,
+    "online_process": 2,
+    "text": "你没见过海？",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801461
+  },
+  {
+    "id": 800001052,
+    "online_process": 2,
+    "text": "也许吧",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801470,
+    "select_skip": true
+  },
+  {
+    "id": 800001054,
+    "online_process": 2,
+    "text": "学院里那样的人不少",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801470
+  },
+  {
+    "id": 800001056,
+    "online_process": 2,
+    "text": "是这样没错",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801475,
+    "select_skip": true
+  },
+  {
+    "id": 800001058,
+    "online_process": 2,
+    "text": "你已经做到了",
+    "opt_dia_relate": [
+      800000097
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801475
+  },
+  {
+    "id": 800001060,
+    "online_process": 2,
+    "text": "怎么了？",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801481,
+    "select_skip": true
+  },
+  {
+    "id": 800001062,
+    "online_process": 2,
+    "text": "（点点头）",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801481
+  },
+  {
+    "id": 800001064,
+    "online_process": 2,
+    "text": "它喜欢你",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801486,
+    "select_skip": true
+  },
+  {
+    "id": 800001066,
+    "online_process": 2,
+    "text": "它有点害羞",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801486
+  },
+  {
+    "id": 800001068,
+    "online_process": 2,
+    "text": "我也这么想",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801490,
+    "select_skip": true
+  },
+  {
+    "id": 800001070,
+    "online_process": 2,
+    "text": "那就常回来看看",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801490
+  },
+  {
+    "id": 800001072,
+    "online_process": 2,
+    "text": "什么？",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801501,
+    "select_skip": true
+  },
+  {
+    "id": 800001074,
+    "online_process": 2,
+    "text": "别卖关子啦",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801501
+  },
+  {
+    "id": 800001076,
+    "online_process": 2,
+    "text": "保密",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801503,
+    "select_skip": true
+  },
+  {
+    "id": 800001078,
+    "online_process": 2,
+    "text": "我早就知道啦！",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801503
+  },
+  {
+    "id": 800001080,
+    "online_process": 2,
+    "text": "说不定是穆克",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801506,
+    "select_skip": true
+  },
+  {
+    "id": 800001082,
+    "online_process": 2,
+    "text": "也许是你自己讨喜",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801506
+  },
+  {
+    "id": 800001084,
+    "online_process": 2,
+    "text": "真好",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801515,
+    "select_skip": true
+  },
+  {
+    "id": 800001086,
+    "online_process": 2,
+    "text": "我也想摸摸",
+    "opt_dia_relate": [
+      800000099
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801515
+  },
+  {
+    "id": 800001088,
+    "online_process": 2,
+    "text": "穆克？",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801521,
+    "select_skip": true
+  },
+  {
+    "id": 800001090,
+    "online_process": 2,
+    "text": "（环顾四周）",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801521
+  },
+  {
+    "id": 800001092,
+    "online_process": 2,
+    "text": "是啊",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801524,
+    "select_skip": true
+  },
+  {
+    "id": 800001094,
+    "online_process": 2,
+    "text": "你们都走了很远",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801524
+  },
+  {
+    "id": 800001096,
+    "online_process": 2,
+    "text": "我也想听听",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801530,
+    "select_skip": true
+  },
+  {
+    "id": 800001098,
+    "online_process": 2,
+    "text": "堂堂银月狼王……",
+    "opt_dia_relate": [
+      800000100
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801530
+  },
+  {
+    "id": 800001099,
+    "online_process": 2,
+    "text": "别为没发生的事情担心",
+    "opt_dia_relate": [
+      800000086
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801350,
+    "select_skip": true
+  },
+  {
+    "id": 800001100,
+    "online_process": 2,
+    "text": "我们这不是来了吗!",
+    "opt_dia_relate": [
+      800000086
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801350
+  },
+  {
+    "id": 800001101,
+    "online_process": 2,
+    "text": "本子都快画满了",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801494,
+    "select_skip": true
+  },
+  {
+    "id": 800001102,
+    "online_process": 2,
+    "text": "接下来还想去哪儿？",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801494
+  },
+  {
+    "id": 800001103,
+    "online_process": 2,
+    "text": "当然啦！",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801497,
+    "select_skip": true
+  },
+  {
+    "id": 800001104,
+    "online_process": 2,
+    "text": "我就是从那里出发的",
+    "opt_dia_relate": [
+      800000098
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "select_next_dialogue": 340801497
   },
   {
     "id": 1001006011,
@@ -125960,6 +132278,14 @@
     "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
     "times": -1,
     "select_next_dialogue": 260002709
+  },
+  {
+    "id": 2100000956,
+    "online_process": 3,
+    "text": "领取寻回资源",
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png",
+    "times": -1,
+    "select_next_dialogue": 199810003
   },
   {
     "id": 2100000957,

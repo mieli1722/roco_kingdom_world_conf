@@ -265,6 +265,13 @@
     "force_socket_pc2": "S2_G0_Ride"
   },
   {
+    "id": 3121,
+    "editor_name": "大耳帽兜",
+    "animation_name": "Ice_DouMao1_001",
+    "force_socket_pc1": "S1_B0_Ride",
+    "force_socket_pc2": "S2_B0_Ride"
+  },
+  {
     "id": 3129,
     "editor_name": "皇家狮鹫（崖间地的样子）",
     "animation_name": "Win_ShiJiu3Ar_001",
@@ -445,6 +452,19 @@
     "double_ride_socket_pc2_2p": "S2_G0_Ride_1"
   },
   {
+    "id": 3236,
+    "editor_name": "星星眼",
+    "animation_name": "Ill_QiuQiu1_001",
+    "force_socket_pc1": "S1_C0_Ride",
+    "force_socket_pc2": "S2_C0_Ride",
+    "double_ride_socket_pc1_1p": "S1_C5_Ride_1",
+    "double_ride_socket_pc1_2p": "S1_C5_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_C5_Ride_1",
+    "double_ride_socket_pc2_2p": "S2_C5_Ride_0",
+    "skill_socket_pc1": "S1_G7_Ride_0",
+    "skill_socket_pc2": "S2_G7_Ride_0"
+  },
+  {
     "id": 3238,
     "editor_name": "怒目怂猫",
     "animation_name": "Wus_SongMao2_001",
@@ -623,6 +643,13 @@
     "double_ride_socket_pc1_2p": "S1_G0_Ride_0",
     "double_ride_socket_pc2_1p": "S2_H0_Ride",
     "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
+  },
+  {
+    "id": 3332,
+    "editor_name": "千棘盔（本来的样子）",
+    "animation_name": "Wat_HaiKuiChong3_001",
+    "force_socket_pc1": "S1_G1_Ride",
+    "force_socket_pc2": "S2_G1_Ride"
   },
   {
     "id": 3349,
@@ -873,6 +900,13 @@
     "double_ride_socket_pc2_2p": "S2_H0_Ride_1"
   },
   {
+    "id": 3477,
+    "editor_name": "千棘盔（磨损的样子）",
+    "animation_name": "Wat_HaiKuiChong3Ar_001",
+    "force_socket_pc1": "S1_G1_Ride",
+    "force_socket_pc2": "S2_G1_Ride"
+  },
+  {
     "id": 3480,
     "editor_name": "圣羽翼王(被噩梦侵蚀的样子)",
     "animation_name": "Win_LiAo3Ar_001",
@@ -966,8 +1000,8 @@
     "double_ride_socket_pc1_2p": "S1_G0_Ride_0",
     "double_ride_socket_pc2_1p": "S2_G0_Ride",
     "double_ride_socket_pc2_2p": "S2_G0_Ride_0",
-    "circus_socket_pc1": "S1_G4_Ride_1",
-    "circus_socket_pc2": "S2_G4_Ride_1"
+    "skill_socket_pc1": "S1_G4_Ride_1",
+    "skill_socket_pc2": "S2_G4_Ride_1"
   },
   {
     "id": 3538,
@@ -986,6 +1020,15 @@
     "double_ride_socket_pc1_2p": "S1_G2_Ride_0",
     "double_ride_socket_pc2_1p": "S2_G0_Ride",
     "double_ride_socket_pc2_2p": "S2_G2_Ride_0"
+  },
+  {
+    "id": 3542,
+    "editor_name": "未完虫",
+    "animation_name": "Gho_WeiWanChong1_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
   },
   {
     "id": 3546,
@@ -1083,8 +1126,30 @@
     "animation_name": "Fir_LieYanLong2_001",
     "force_socket_pc1": "S1_G0_Ride",
     "force_socket_pc2": "S2_G0_Ride",
-    "circus_socket_pc1": "S1_G4_Ride_0",
-    "circus_socket_pc2": "S2_G4_Ride_0"
+    "skill_socket_pc1": "S1_G4_Ride_0",
+    "skill_socket_pc2": "S2_G4_Ride_0"
+  },
+  {
+    "id": 3575,
+    "editor_name": "焰米龙",
+    "animation_name": "Fir_ReTuanTuan2_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3576,
+    "editor_name": "圣凯布米龙",
+    "animation_name": "Fir_ReTuanTuan3_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "double_ride_socket_pc1_1p": "S1_H0_Ride",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_H0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride_0",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
   },
   {
     "id": 3578,
@@ -1121,6 +1186,24 @@
     "double_ride_socket_pc1_2p": "S1_G0_Ride",
     "double_ride_socket_pc2_1p": "S2_G0_Ride",
     "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
+  },
+  {
+    "id": 3589,
+    "editor_name": "玳龟",
+    "animation_name": "Ill_DaiGui1_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "skill_socket_pc1": "S1_G7_Ride",
+    "skill_socket_pc2": "S2_G7_Ride"
+  },
+  {
+    "id": 3590,
+    "editor_name": "玳塔",
+    "animation_name": "Ill_DaiGui2_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "skill_socket_pc1": "S1_G7_Ride",
+    "skill_socket_pc2": "S2_G7_Ride"
   },
   {
     "id": 3596,
@@ -1186,6 +1269,13 @@
     "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
   },
   {
+    "id": 3616,
+    "editor_name": "不咕钟",
+    "animation_name": "Mac_BuGuZhong1_001",
+    "force_socket_pc1": "S1_B2_Ride",
+    "force_socket_pc2": "S2_B2_Ride"
+  },
+  {
     "id": 3617,
     "editor_name": "溯源钟",
     "animation_name": "Mac_BuGuZhong2_001",
@@ -1223,8 +1313,24 @@
     "animation_name": "Wat_JiaYouHaiKui3_001",
     "force_socket_pc1": "S1_G1_Ride",
     "force_socket_pc2": "S2_G1_Ride",
-    "circus_socket_pc1": "S1_G5_Ride_0",
-    "circus_socket_pc2": "S2_G5_Ride_0"
+    "skill_socket_pc1": "S1_G5_Ride_0",
+    "skill_socket_pc2": "S2_G5_Ride_0"
+  },
+  {
+    "id": 3663,
+    "editor_name": "量风碗",
+    "animation_name": "Win_LiangFengWan1_001",
+    "force_socket_pc1": "S1_D0_Ride",
+    "force_socket_pc2": "S2_D0_Ride"
+  },
+  {
+    "id": 3664,
+    "editor_name": "测风蝉",
+    "animation_name": "Win_LiangFengWan2_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "skill_socket_pc1": "S1_G7_Ride_0",
+    "skill_socket_pc2": "S2_G7_Ride_0"
   },
   {
     "id": 3684,
@@ -1239,8 +1345,8 @@
     "animation_name": "Mac_GuXiang1_001",
     "force_socket_pc1": "S1_G0_Ride",
     "force_socket_pc2": "S2_G0_Ride",
-    "circus_socket_pc1": "S1_G4_Ride_0",
-    "circus_socket_pc2": "S2_G4_Ride_0"
+    "skill_socket_pc1": "S1_G4_Ride_0",
+    "skill_socket_pc2": "S2_G4_Ride_0"
   },
   {
     "id": 3709,
@@ -1252,15 +1358,15 @@
     "double_ride_socket_pc1_2p": "S1_G0_Ride_1",
     "double_ride_socket_pc2_1p": "S2_G0_Ride_0",
     "double_ride_socket_pc2_2p": "S2_G0_Ride_1",
-    "circus_socket_pc1": "S1_G1_Ride_2",
-    "circus_socket_pc2": "S2_G1_Ride_2"
+    "skill_socket_pc1": "S1_G1_Ride_2",
+    "skill_socket_pc2": "S2_G1_Ride_2"
   },
   {
     "id": 3730,
     "editor_name": "音碟吼",
     "animation_name": "Com_HouMaiZai3_001",
-    "circus_socket_pc1": "S1_G1_Ride_0",
-    "circus_socket_pc2": "S2_G1_Ride_0"
+    "skill_socket_pc1": "S1_G1_Ride_0",
+    "skill_socket_pc2": "S2_G1_Ride_0"
   },
   {
     "id": 3733,
@@ -1268,8 +1374,8 @@
     "animation_name": "Mac_WuSiBB1_001",
     "force_socket_pc1": "S1_HIH_Ride",
     "force_socket_pc2": "S2_HIH_Ride",
-    "circus_socket_pc1": "S1_G5_Ride_0",
-    "circus_socket_pc2": "S2_G5_Ride_0"
+    "skill_socket_pc1": "S1_G5_Ride_0",
+    "skill_socket_pc2": "S2_G5_Ride_0"
   },
   {
     "id": 3734,
@@ -1281,8 +1387,8 @@
     "double_ride_socket_pc1_2p": "S1_G1_Ride_1",
     "double_ride_socket_pc2_1p": "S2_G1_Ride_0",
     "double_ride_socket_pc2_2p": "S2_G1_Ride_1",
-    "circus_socket_pc1": "S1_G1_Ride_2",
-    "circus_socket_pc2": "S2_G1_Ride_2"
+    "skill_socket_pc1": "S1_G1_Ride_2",
+    "skill_socket_pc2": "S2_G1_Ride_2"
   },
   {
     "id": 3735,
@@ -1294,8 +1400,8 @@
     "double_ride_socket_pc1_2p": "S1_G1_Ride_0",
     "double_ride_socket_pc2_1p": "S2_G1_Ride",
     "double_ride_socket_pc2_2p": "S2_G1_Ride_0",
-    "circus_socket_pc1": "S1_G5_Ride_0",
-    "circus_socket_pc2": "S2_G5_Ride_0"
+    "skill_socket_pc1": "S1_G5_Ride_0",
+    "skill_socket_pc2": "S2_G5_Ride_0"
   },
   {
     "id": 3736,
@@ -1303,8 +1409,8 @@
     "animation_name": "Ele_XuanGuangDD1_001",
     "force_socket_pc1": "S1_G0_Ride",
     "force_socket_pc2": "S2_G0_Ride",
-    "circus_socket_pc1": "S1_G4_Ride_0",
-    "circus_socket_pc2": "S2_G4_Ride_0"
+    "skill_socket_pc1": "S1_G4_Ride_0",
+    "skill_socket_pc2": "S2_G4_Ride_0"
   },
   {
     "id": 3737,
@@ -1312,8 +1418,8 @@
     "animation_name": "Ele_XuanGuangDD3_001",
     "force_socket_pc1": "S1_C1_Ride",
     "force_socket_pc2": "S2_C1_Ride",
-    "circus_socket_pc1": "S1_G4_Ride_0",
-    "circus_socket_pc2": "S2_G4_Ride_0"
+    "skill_socket_pc1": "S1_G4_Ride_0",
+    "skill_socket_pc2": "S2_G4_Ride_0"
   },
   {
     "id": 3739,
@@ -1330,8 +1436,15 @@
     "animation_name": "Wat_JiaYouHaiKui3Ar_001",
     "force_socket_pc1": "S1_G1_Ride",
     "force_socket_pc2": "S2_G1_Ride",
-    "circus_socket_pc1": "S1_G5_Ride_0",
-    "circus_socket_pc2": "S2_G5_Ride_0"
+    "skill_socket_pc1": "S1_G5_Ride_0",
+    "skill_socket_pc2": "S2_G5_Ride_0"
+  },
+  {
+    "id": 3747,
+    "editor_name": "莫比乌乌",
+    "animation_name": "Ill_WuWu1_001",
+    "force_socket_pc1": "S1_D0_Ride",
+    "force_socket_pc2": "S2_D0_Ride"
   },
   {
     "id": 3748,
@@ -1359,6 +1472,105 @@
     "double_ride_socket_pc1_2p": "S1_G0_Ride_1",
     "double_ride_socket_pc2_1p": "S2_G0_Ride_0",
     "double_ride_socket_pc2_2p": "S2_G0_Ride_1"
+  },
+  {
+    "id": 3762,
+    "editor_name": "新月狼灵",
+    "animation_name": "Wus_LangLing2_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "skill_socket_pc1": "S1_G7_Ride_0",
+    "skill_socket_pc2": "S2_G7_Ride_0"
+  },
+  {
+    "id": 3763,
+    "editor_name": "银月狼王",
+    "animation_name": "Wus_LangLing3_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "double_ride_socket_pc1_1p": "S1_G0_Ride",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_G0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride_0",
+    "skill_socket_pc1": "S1_G7_Ride_0",
+    "skill_socket_pc2": "S2_G7_Ride_0"
+  },
+  {
+    "id": 3765,
+    "editor_name": "月辉鹭",
+    "animation_name": "Win_XinYueLu3_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3766,
+    "editor_name": "月使鹭纳",
+    "animation_name": "Win_XinYueLu3_002",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "double_ride_socket_pc1_1p": "S1_H0_Ride",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride",
+    "double_ride_socket_pc2_1p": "S2_H0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3768,
+    "editor_name": "智辉章脑",
+    "animation_name": "Lig_ZhangNaoWan3_001",
+    "force_socket_pc1": "S1_H2_Ride",
+    "force_socket_pc2": "S2_H2_Ride",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3770,
+    "editor_name": "乌蝇飞贼",
+    "animation_name": "Wor_WuTouYing2_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "double_ride_socket_pc1_1p": "S1_H0_Ride_1",
+    "double_ride_socket_pc1_2p": "S1_H0_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_H0_Ride_1",
+    "double_ride_socket_pc2_2p": "S2_H0_Ride_0",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3774,
+    "editor_name": "摇铃魔偶",
+    "animation_name": "Gho_YouLing3_001",
+    "force_socket_pc1": "S1_H0_Ride",
+    "force_socket_pc2": "S2_H0_Ride",
+    "double_ride_socket_pc1_1p": "S1_H0_Ride_0",
+    "double_ride_socket_pc1_2p": "S1_H0_Ride_1",
+    "double_ride_socket_pc2_1p": "S2_H0_Ride_0",
+    "double_ride_socket_pc2_2p": "S2_H0_Ride_1",
+    "skill_socket_pc1": "S1_C7_Ride_0",
+    "skill_socket_pc2": "S2_C7_Ride_0"
+  },
+  {
+    "id": 3785,
+    "editor_name": "长江豚",
+    "animation_name": "Wat_ZhuZhuTun3_001",
+    "double_ride_socket_pc1_1p": "S1_G0_Ride",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_G0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
+  },
+  {
+    "id": 3796,
+    "editor_name": "果实立方人",
+    "animation_name": "Mac_FangFang3SP_001",
+    "force_socket_pc1": "S1_G0_Ride",
+    "force_socket_pc2": "S2_G0_Ride",
+    "double_ride_socket_pc1_1p": "S1_G0_Ride",
+    "double_ride_socket_pc1_2p": "S1_G2_Ride_0",
+    "double_ride_socket_pc2_1p": "S2_G0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G2_Ride_0"
   },
   {
     "id": 5001,
@@ -1470,6 +1682,13 @@
     "double_ride_socket_pc2_2p": "S2_G0_Ride_1"
   },
   {
+    "id": 5012,
+    "editor_name": "千棘海针",
+    "animation_name": "Wat_HaiKuiChongBo_001",
+    "force_socket_pc1": "S1_G1_Ride_0",
+    "force_socket_pc2": "S2_G1_Ride_0"
+  },
+  {
     "id": 5014,
     "editor_name": "霜翼领主",
     "animation_name": "Win_LanNiaoBo_001",
@@ -1579,6 +1798,13 @@
     "double_ride_socket_pc1_2p": "S1_G2_Ride_2",
     "double_ride_socket_pc2_1p": "S2_G0_Ride_1",
     "double_ride_socket_pc2_2p": "S2_G2_Ride_2"
+  },
+  {
+    "id": 5029,
+    "editor_name": "千棘海针",
+    "animation_name": "Wat_HaiKuiChongBo_001",
+    "force_socket_pc1": "S1_G1_Ride_0",
+    "force_socket_pc2": "S2_G1_Ride_0"
   },
   {
     "id": 5030,
@@ -1846,6 +2072,35 @@
     "double_ride_socket_pc2_2p": "S2_G0_Ride_1"
   },
   {
+    "id": 5063,
+    "editor_name": "烈焰狂战士",
+    "animation_name": "Fir_WaTeBo_001",
+    "force_socket_pc1": "S1_G1_Ride",
+    "force_socket_pc2": "S2_G1_Ride"
+  },
+  {
+    "id": 5064,
+    "editor_name": "满月砣",
+    "animation_name": "Poi_CiLunTuoBo_001",
+    "force_socket_pc1": "S1_G0_Ride_0",
+    "force_socket_pc2": "S2_G0_Ride",
+    "double_ride_socket_pc1_1p": "S1_G0_Ride_0",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride",
+    "double_ride_socket_pc2_1p": "S2_G0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
+  },
+  {
+    "id": 5065,
+    "editor_name": "满月砣",
+    "animation_name": "Poi_CiLunTuoBo_001",
+    "force_socket_pc1": "S1_G0_Ride_0",
+    "force_socket_pc2": "S2_G0_Ride",
+    "double_ride_socket_pc1_1p": "S1_G0_Ride_0",
+    "double_ride_socket_pc1_2p": "S1_G0_Ride",
+    "double_ride_socket_pc2_1p": "S2_G0_Ride",
+    "double_ride_socket_pc2_2p": "S2_G0_Ride_0"
+  },
+  {
     "id": 16000001,
     "editor_name": "春团-B1小游戏变形专用",
     "animation_name": "Gra_YuTu1_001",
@@ -1963,5 +2218,26 @@
     "animation_name": "Wat_ShuiLanLan1_001",
     "force_socket_pc1": "S1_G0_Ride",
     "force_socket_pc2": "S2_G0_Ride"
+  },
+  {
+    "id": 32000004,
+    "editor_name": "不咕钟",
+    "animation_name": "Mac_BuGuZhong1_001",
+    "force_socket_pc1": "S1_G0_Ride_0",
+    "force_socket_pc2": "S2_G0_Ride_0"
+  },
+  {
+    "id": 32000005,
+    "editor_name": "莫比乌乌",
+    "animation_name": "Ill_WuWu1_001",
+    "force_socket_pc1": "S1_G0_Ride_0",
+    "force_socket_pc2": "S2_G0_Ride_0"
+  },
+  {
+    "id": 32000006,
+    "editor_name": "量风碗",
+    "animation_name": "Win_LiangFengWan1_001",
+    "force_socket_pc1": "S1_G0_Ride_0",
+    "force_socket_pc2": "S2_G0_Ride_0"
   }
 ]

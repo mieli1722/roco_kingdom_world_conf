@@ -1,5 +1,350 @@
 [
   {
+    "id": 1500001,
+    "part_desc": "100",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000450
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500002,
+    "part_desc": "200",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000451
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500003,
+    "part_desc": "500",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000452
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500004,
+    "part_desc": "1000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000453
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500005,
+    "part_desc": "1500",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000454
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500006,
+    "part_desc": "2000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000455
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500007,
+    "part_desc": "3000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000456
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500008,
+    "part_desc": "4000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000457
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500009,
+    "part_desc": "5000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000458
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320133,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1500010,
+    "part_desc": "6000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000459
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500011,
+    "part_desc": "7000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000460
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500012,
+    "part_desc": "8000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000461
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 5
+      }
+    ]
+  },
+  {
+    "id": 1500013,
+    "part_desc": "9000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000462
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1500014,
+    "part_desc": "10000",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000463
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100287,
+        "goods_count": 20
+      }
+    ]
+  },
+  {
+    "id": 1600001,
+    "part_name": "累计登录15天",
+    "condition_group": [
+      {
+        "condition_enum": 4,
+        "condition_param": 15
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 108163,
+        "goods_count": 1
+      }
+    ],
+    "is_show_item": true
+  },
+  {
+    "id": 1600002,
+    "part_name": "累计登录30天",
+    "condition_group": [
+      {
+        "condition_enum": 4,
+        "condition_param": 30
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3001,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600003,
+    "part_name": "达到「中级决斗家I」段位",
+    "condition_group": [
+      {
+        "condition_enum": 9,
+        "condition_param": 50
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3002,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600004,
+    "part_name": "收集「200」个精灵图鉴",
+    "condition_group": [
+      {
+        "condition_enum": 10,
+        "condition_param": 200
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3003,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600005,
+    "part_name": "「洛克王国：世界」内测现已启程，\n邀请好友共同享受这段旅程吧~\n\n魔法学院第一课：成为「精灵研究员」",
+    "start_time": "2025-06-20 04:00:00",
+    "end_time": "2026-06-20 04:00:00",
+    "condition_group": [
+      {
+        "condition_enum": 2,
+        "condition_param": 1
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100255,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600006,
+    "part_name": "「洛克王国：世界」内测现已启程，\n邀请好友共同享受这段旅程吧~\n\n魔法学院第一课：成为「精灵研究员」",
+    "start_time": "2025-06-20 04:00:00",
+    "end_time": "2026-06-20 04:00:00",
+    "condition_group": [
+      {
+        "condition_enum": 2,
+        "condition_param": 1
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 25,
+        "goods_id": 1600006,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
     "id": 1600007,
     "part_name": "“小个子”",
     "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">身高≤50cm</>\n的精灵",
@@ -266,6 +611,114 @@
     ]
   },
   {
+    "id": 1600021,
+    "part_name": "「极速对决」",
+    "part_desc": "累计参与<span size=\"19\" color=\"#c15100\">1</>次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000015
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100213,
+        "goods_count": 100
+      }
+    ]
+  },
+  {
+    "id": 1600022,
+    "part_name": "「极速对决」",
+    "part_desc": "累计参与<span size=\"19\" color=\"#c15100\">3</>次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000016
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 102022,
+        "goods_count": 2
+      }
+    ]
+  },
+  {
+    "id": 1600023,
+    "part_name": "「极速对决」",
+    "part_desc": "累计参与<span size=\"19\" color=\"#c15100\">5</>次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000017
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 2
+      }
+    ]
+  },
+  {
+    "id": 1600024,
+    "part_name": "「极速对决」",
+    "part_desc": "取得<span size=\"19\" color=\"#c15100\">1</>次胜利",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000018
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 2
+      }
+    ]
+  },
+  {
+    "id": 1600025,
+    "part_name": "「极速对决」",
+    "part_desc": "取得<span size=\"19\" color=\"#c15100\">3</>次胜利",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000019
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100422,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600026,
+    "part_name": "获得1只「鸭吉吉-等一等鸭」",
+    "part_desc": "获得1只「鸭吉吉-等一等鸭」",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000020
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3001,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
     "id": 1600027,
     "part_name": "「魔法等级」",
     "part_desc": "提升至<span size=\"19\" color=\"#c15100\">5</>级",
@@ -380,6 +833,80 @@
     "is_realign_end": true
   },
   {
+    "id": 1600033,
+    "part_name": "累计登录\n「<span size=\"19\" color=\"#c15100\">15</>」天",
+    "part_desc": "累计登录\n「<span size=\"19\" color=\"#c15100\">15</>」天",
+    "condition_group": [
+      {
+        "condition_enum": 13,
+        "condition_param": 15,
+        "condition_param_b": 1763668800
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 108231,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600034,
+    "part_name": "累计登录\n「<span size=\"19\" color=\"#c15100\">30</>」天",
+    "part_desc": "累计登录\n「<span size=\"19\" color=\"#c15100\">30</>」天",
+    "condition_group": [
+      {
+        "condition_enum": 13,
+        "condition_param": 30,
+        "condition_param_b": 1763668800
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3007,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600035,
+    "part_name": "达到段位\n「<span size=\"19\" color=\"#c15100\">中级决斗家I</>」",
+    "part_desc": "达到段位\n「<span size=\"19\" color=\"#c15100\">中级决斗家I</>」",
+    "condition_group": [
+      {
+        "condition_enum": 9,
+        "condition_param": 37
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3002,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600036,
+    "part_name": "收集精灵图鉴\n「<span size=\"19\" color=\"#c15100\">200</>」个",
+    "part_desc": "收集精灵图鉴\n「<span size=\"19\" color=\"#c15100\">200</>」个",
+    "condition_group": [
+      {
+        "condition_enum": 10,
+        "condition_param": 200
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 15,
+        "goods_id": 3003,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
     "id": 1600037,
     "condition_group": [
       {
@@ -394,6 +921,63 @@
         "goods_count": 1
       }
     ]
+  },
+  {
+    "id": 1600038,
+    "part_name": "任意玩家抓电企鹅",
+    "part_desc": "抓1只",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000024
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100213,
+        "goods_count": 40
+      }
+    ],
+    "is_realign_end": true
+  },
+  {
+    "id": 1600039,
+    "part_name": "仅自己抓电企鹅",
+    "part_desc": "抓1只",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000025
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100213,
+        "goods_count": 40
+      }
+    ],
+    "is_realign_end": true
+  },
+  {
+    "id": 1600040,
+    "part_name": "任务测试",
+    "part_desc": "抓20只暮星辰",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000028
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100201,
+        "goods_count": 80
+      }
+    ],
+    "is_realign_end": true
   },
   {
     "id": 1600041,
@@ -810,7 +1394,7 @@
   {
     "id": 1600085,
     "part_name": "资质",
-    "part_desc": "成长星级提升2次",
+    "part_desc": "提升2只精灵的成长星级",
     "condition_group": [
       {
         "condition_enum": 3,
@@ -1090,7 +1674,7 @@
   {
     "id": 1600101,
     "part_name": "<span color=\"#d56c1f\">【每周挑战】</>开启2次惊喜盒子",
-    "part_desc": "【每周挑战】开启2次惊喜盒子",
+    "part_desc": "【每周挑战】开启2次幸运惊喜盒",
     "condition_group": [
       {
         "condition_enum": 3,
@@ -1391,6 +1975,150 @@
     ]
   },
   {
+    "id": 1600118,
+    "part_name": "【任务测试】",
+    "part_desc": "监听PVP观赛状态，闪耀大赛观战或被观战胜利5次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000300
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600119,
+    "part_name": "【任务测试】",
+    "part_desc": "激活阵容分享次数，1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000301
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600120,
+    "part_name": "【任务测试】",
+    "part_desc": "赠予精灵奖牌，1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000302
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600121,
+    "part_name": "【任务测试】",
+    "part_desc": "给精灵起名，1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000303
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600122,
+    "part_name": "【任务测试】",
+    "part_desc": "在指定的PVP活动中，完成一定场次的比赛；携带进化之力PVP胜利1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000304
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600123,
+    "part_name": "【任务测试】",
+    "part_desc": "在指定的PVP活动中，完成一定场次的比赛；携带血脉爆发PVP胜利1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000305
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600124,
+    "part_name": "【任务测试】",
+    "part_desc": "在指定位置或对指定目标拍摄，拍摄精灵并分享1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000306
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600125,
+    "part_name": "【任务测试】",
+    "part_desc": "制作1次精灵食物",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000307
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
     "id": 1600126,
     "part_name": "「魔法等级」",
     "part_desc": "提升至<span size=\"19\" color=\"#c15100\">35</>级",
@@ -1408,6 +2136,150 @@
       }
     ],
     "is_realign_end": true
+  },
+  {
+    "id": 1600127,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】拍1只喵喵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000308
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600128,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】拍1只喵喵并分享",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000309
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600129,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】拍1只精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000310
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600130,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】拍1只精灵并分享",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000311
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600131,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】闪耀大赛观战胜利1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000312
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600132,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】闪耀大赛被观战胜利1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000313
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600133,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】闪耀大赛观战1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000314
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
+  },
+  {
+    "id": 1600134,
+    "part_name": "【任务测试】",
+    "part_desc": "【任务测试】闪耀大赛被观战1次",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000315
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 1,
+        "goods_count": 10000
+      }
+    ]
   },
   {
     "id": 1600135,
@@ -2601,6 +3473,150 @@
     "is_realign_end": true
   },
   {
+    "id": 1600212,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只小黑猫家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000279
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600213,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只叮叮卯家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000280
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600214,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只刺轮砣（上弦的样子）家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000281
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600215,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只逗逗家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000282
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600216,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只瑰眼仔家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000283
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600217,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只小灵菇家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000284
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600218,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只芽眼魔家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000285
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600219,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只觅觅蝠家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000286
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
     "id": 1600229,
     "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看花园寄来的信",
     "start_time": "2026-07-24 04:00:00",
@@ -2789,6 +3805,676 @@
     ]
   },
   {
+    "id": 1600239,
+    "part_name": "牵手捕捉或自己捕捉",
+    "part_desc": "20只刺轮砣（下弦的样子）家族的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000289
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 150
+      }
+    ]
+  },
+  {
+    "id": 1600300,
+    "part_name": "罐罐清理·一",
+    "part_desc": "用星星魔法清理散落江边的罐罐",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000500
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600301,
+    "part_name": "水域巡逻·一",
+    "part_desc": "调查江边的可疑洛克",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000501
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600302,
+    "part_name": "了解云梦豚·一",
+    "part_desc": "找查尔斯了解云梦豚相关小知识",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000502
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600303,
+    "part_name": "精灵蛋互动·一",
+    "part_desc": "向云梦豚的蛋做个动作示意友好",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000503
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600304,
+    "part_name": "罐罐清理·二",
+    "part_desc": "用星星魔法清理散落江边的罐罐",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000504
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600305,
+    "part_name": "水域巡逻·二",
+    "part_desc": "调查江边的可疑洛克",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000505
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600306,
+    "part_name": "了解云梦豚·二",
+    "part_desc": "找查尔斯了解云梦豚相关小知识",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000506
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600307,
+    "part_name": "精灵蛋互动·二",
+    "part_desc": "吹笛安抚云梦豚的蛋",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000507
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600308,
+    "part_name": "罐罐清理·三",
+    "part_desc": "用星星魔法清理散落江边的罐罐",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000508
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600309,
+    "part_name": "水域巡逻·三",
+    "part_desc": "调查江边的可疑洛克",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000509
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600310,
+    "part_name": "了解云梦豚·三",
+    "part_desc": "找查尔斯了解云梦豚相关小知识",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000510
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600311,
+    "part_name": "精灵蛋互动·三",
+    "part_desc": "做个开心动作和云梦豚的蛋互动",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000511
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600312,
+    "part_name": "罐罐清理·四",
+    "part_desc": "用星星魔法清理散落江边的罐罐",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000512
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600313,
+    "part_name": "水域巡逻·四",
+    "part_desc": "调查江边的可疑洛克",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000513
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600314,
+    "part_name": "了解云梦豚·四",
+    "part_desc": "找查尔斯了解云梦豚相关小知识",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000514
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600315,
+    "part_name": "精灵蛋互动·四",
+    "part_desc": "给云梦豚的蛋起个名字",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000515
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 50
+      }
+    ]
+  },
+  {
+    "id": 1600316,
+    "part_name": "全服生态点数达1亿",
+    "condition_group": [
+      {
+        "condition_enum": 17,
+        "condition_param": 2,
+        "condition_param_b": 100000000
+      }
+    ]
+  },
+  {
+    "id": 1600317,
+    "part_name": "完成孵蛋日记中所有任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000517
+      }
+    ]
+  },
+  {
+    "id": 1600318,
+    "part_name": "完成本期4个任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000518
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100103,
+        "goods_count": 12
+      }
+    ]
+  },
+  {
+    "id": 1600319,
+    "part_name": "完成本期8个任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000519
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320141,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600320,
+    "part_name": "完成本期12个任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000520
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100103,
+        "goods_count": 24
+      }
+    ]
+  },
+  {
+    "id": 1600321,
+    "part_name": "完成本期16个任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000521
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 10,
+        "goods_id": 12150001,
+        "goods_count": 1
+      },
+      {
+        "goods_type": 10,
+        "goods_id": 22150001,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600322,
+    "part_name": "查看证书领家具",
+    "part_desc": "查看证书领家具",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000522
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 1000052,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600329,
+    "part_name": "小个子",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">身高≤50cm</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000620
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600330,
+    "part_name": "大高个",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">身高≥180cm</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000621
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600331,
+    "part_name": "轻飘飘",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">体重≤1kg</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000622
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600332,
+    "part_name": "稳当当",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">体重≥75kg</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000623
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600333,
+    "part_name": "抱满怀",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">身高100-150cm</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000624
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600334,
+    "part_name": "匀称称",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">体重15-30kg</>\n的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000625
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600335,
+    "part_name": "全部达成",
+    "part_desc": "完成本期任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000626
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 300
+      }
+    ]
+  },
+  {
+    "id": 1600336,
+    "part_name": "龙影追踪",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为龙</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000627
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600337,
+    "part_name": "电光一闪",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为电</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000628
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600338,
+    "part_name": "毒息轻绕",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为毒</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000629
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600339,
+    "part_name": "虫鸣相伴",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为虫</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000630
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100423,
+        "goods_count": 8
+      }
+    ]
+  },
+  {
+    "id": 1600340,
+    "part_name": "热血武斗",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为武</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000631
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600341,
+    "part_name": "天空来客",
+    "part_desc": "捕捉1只\n<span size=\"18\" color=\"#c15100\">系别为翼</>的精灵",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000632
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 100424,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600342,
+    "part_name": "全部达成",
+    "part_desc": "完成本期任务",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000633
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 85,
+        "goods_count": 300
+      }
+    ]
+  },
+  {
     "id": 1600401,
     "part_name": "「极速对决」",
     "part_desc": "累计参与<span size=\"19\" color=\"#c15100\">1</>次",
@@ -2965,6 +4651,212 @@
         "goods_type": 1,
         "goods_id": 100699,
         "goods_count": 40
+      }
+    ]
+  },
+  {
+    "id": 1600506,
+    "part_name": "<span color=\"#d36c2c\">轶事篇章</>\n完成「存档：一颗秋天」",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000470
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 25
+      }
+    ],
+    "is_realign_end": true
+  },
+  {
+    "id": 1600507,
+    "part_name": "<span color=\"#42a7cc\">新的一天</>\n登录游戏",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000471
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ],
+    "is_realign_end": true
+  },
+  {
+    "id": 1600508,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000472
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ],
+    "is_realign_end": true
+  },
+  {
+    "id": 1600509,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2024-09-18 04:00:00",
+    "end_time": "2024-09-21 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000473
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600510,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2024-09-21 04:00:00",
+    "end_time": "2024-09-28 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000474
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600511,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-10-01 04:00:00",
+    "end_time": "2026-10-05 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000475
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600512,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-10-05 04:00:00",
+    "end_time": "2026-10-12 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000476
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600513,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-10-12 04:00:00",
+    "end_time": "2026-10-19 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000477
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600514,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-10-19 04:00:00",
+    "end_time": "2026-10-26 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000478
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600515,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-10-26 04:00:00",
+    "end_time": "2026-11-02 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000479
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
+      }
+    ]
+  },
+  {
+    "id": 1600516,
+    "part_name": "<span color=\"#42a7cc\">每周问候</>\n查看来自远方的信",
+    "start_time": "2026-11-02 04:00:00",
+    "end_time": "2026-11-05 03:59:59",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000480
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320129,
+        "goods_count": 10
       }
     ]
   },
@@ -3329,6 +5221,191 @@
       {
         "goods_type": 1,
         "goods_id": 320149,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600573,
+    "part_name": "自己捕捉小灵菇家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000734
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151037,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600574,
+    "part_name": "自己捕捉叮叮卯家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000735
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151038,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600575,
+    "part_name": "自己捕捉刺轮砣(上弦的样子)家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000736
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151040,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600576,
+    "part_name": "自己捕捉刺轮砣(下弦的样子)家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000737
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151039,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600577,
+    "part_name": "自己捕捉逗逗家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000738
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151041,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600578,
+    "part_name": "自己捕捉瑰眼仔家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000739
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151042,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600579,
+    "part_name": "自己捕捉小黑猫家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000740
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151043,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600580,
+    "part_name": "自己捕捉芽眼魔家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000741
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151044,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600581,
+    "part_name": "自己捕捉觅觅蝠家族的精灵",
+    "part_desc": "触发10次<desc_id=2301>赛季奇遇</>",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000742
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 151045,
+        "goods_count": 1
+      }
+    ]
+  },
+  {
+    "id": 1600582,
+    "part_name": "留住长江的微笑",
+    "part_desc": "长江江豚是长江生态系统的旗舰物种和指示物种，他们的多少预示着长江生态系统的兴衰。江豚和我们人类共栖于长江，同呼吸，共命运。\n\n江豚的生存环境离不开每一位小洛克的保护，感谢阅读，获得2生态点数，并送你一笔公益金，将自动助力「留住长江的微笑」公益项目~",
+    "condition_group": [
+      {
+        "condition_enum": 3,
+        "condition_param": 110000710
+      }
+    ],
+    "reward_group": [
+      {
+        "goods_type": 1,
+        "goods_id": 320150,
+        "goods_count": 1
+      },
+      {
+        "goods_type": 3,
+        "goods_id": 750000010,
         "goods_count": 1
       }
     ]

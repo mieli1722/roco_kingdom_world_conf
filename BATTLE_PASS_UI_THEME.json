@@ -98,6 +98,10 @@
       {
         "umgname": "UMG_Pass_Purchase",
         "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Blue1"
       }
     ],
     "is_theme_a": true
@@ -119,6 +123,59 @@
       {
         "umgname": "UMG_Pass_Purchase",
         "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Pink1"
+      }
+    ]
+  },
+  {
+    "id": 230041,
+    "theme_name": "右（主题A）",
+    "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S4bp/shengkaibumilong/shengkaibumilong.shengkaibumilong-atlas'",
+    "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S4bp/shengkaibumilong/shengkaibumilong.shengkaibumilong-data'",
+    "widget_group": [
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_AwardMain",
+        "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_Purchase",
+        "spinewigetname": "SpineWidget_Blue"
+      },
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Blue1"
+      }
+    ],
+    "is_theme_a": true
+  },
+  {
+    "id": 230042,
+    "theme_name": "左（主题B）",
+    "spine_atlas": "SpineAtlasAsset'/Game/ArtRes/AnimSequence/Spine/S4bp/yueshinalu/yueshinalu.yueshinalu-atlas'",
+    "spine_skeletondata": "SpineSkeletonDataAsset'/Game/ArtRes/AnimSequence/Spine/S4bp/yueshinalu/yueshinalu.yueshinalu-data'",
+    "widget_group": [
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_AwardMain",
+        "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_Purchase",
+        "spinewigetname": "SpineWidget_Pink"
+      },
+      {
+        "umgname": "UMG_Pass_Select",
+        "spinewigetname": "SpineWidget_Pink1"
       }
     ]
   }

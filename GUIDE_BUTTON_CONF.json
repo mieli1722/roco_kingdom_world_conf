@@ -586,5 +586,26 @@
       "Btn_OneClickClaim"
     ],
     "ui_button_name": "btnLevelUp"
+  },
+  {
+    "id": 1106035,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_OnPet"
+    ],
+    "ui_button_name": "Btn_Slot"
+  },
+  {
+    "id": 1106036,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_OnPet"
+    ],
+    "ui_button_name": "Btn_Slot",
+    "watch_ia_names": [
+      "IA_PetRiddingSkillStart_OnPet"
+    ]
   }
 ]

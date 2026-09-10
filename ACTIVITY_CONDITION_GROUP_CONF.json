@@ -4,7 +4,6 @@
     "entire_reward": 200000133,
     "reward_des": "100%%完成任意1个模块后获得：{0}/{1}",
     "fashion_bond_id": 305055,
-    "required_part_num": 1,
     "part_group": [
       {
         "part_name": "探索",
@@ -104,6 +103,87 @@
       },
       {
         "dialogue_text": "毕业前…你要学会能保护本公主的魔法啊！"
+      }
+    ]
+  },
+  {
+    "id": 3200002,
+    "part_group": [
+      {
+        "part_name": "日记·一",
+        "part_enum": 1,
+        "include_condition_id": [
+          1600300,
+          1600301,
+          1600302,
+          1600303
+        ],
+        "condition_enum": 14,
+        "condition_param": 1
+      },
+      {
+        "part_name": "日记·二",
+        "part_enum": 2,
+        "include_condition_id": [
+          1600304,
+          1600305,
+          1600306,
+          1600307
+        ],
+        "condition_enum": 14,
+        "condition_param": 2
+      },
+      {
+        "part_name": "日记·三",
+        "part_enum": 3,
+        "include_condition_id": [
+          1600308,
+          1600309,
+          1600310,
+          1600311
+        ],
+        "condition_enum": 14,
+        "condition_param": 3
+      },
+      {
+        "part_name": "日记·四",
+        "part_enum": 4,
+        "include_condition_id": [
+          1600312,
+          1600313,
+          1600314,
+          1600315
+        ],
+        "condition_enum": 14,
+        "condition_param": 4
+      }
+    ]
+  },
+  {
+    "id": 3200003,
+    "part_group": [
+      {
+        "part_name": "任务进度奖励",
+        "part_enum": 1,
+        "include_condition_id": [
+          1600318,
+          1600319,
+          1600320,
+          1600321
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3200004,
+    "part_group": [
+      {
+        "part_name": "完成两个孵蛋条件",
+        "part_enum": 1,
+        "include_condition_id": [
+          1600316,
+          1600317
+        ]
       }
     ]
   }

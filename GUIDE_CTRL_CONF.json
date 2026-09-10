@@ -1815,6 +1815,29 @@
     "func_ban_id": 34
   },
   {
+    "id": 160,
+    "guide_group_id": 2021,
+    "sub_guide_id": 1,
+    "pc_show": true,
+    "mobile_show": true,
+    "guide_group_priority": 99,
+    "can_interrupt_other": true,
+    "cond_type": "and",
+    "type1": "roleplay",
+    "delay_time": 500,
+    "open": 1,
+    "finish_button_showtime": 5000,
+    "finish_overtime": 180000,
+    "reconnect": true,
+    "reset_step": 1,
+    "style_type": "GUIDE_FOCUS",
+    "type_id": 202101,
+    "done_type": "panel",
+    "done_type_data1": 10100,
+    "done_type_data2": 1,
+    "func_ban_id": 35
+  },
+  {
     "id": 300101,
     "guide_group_id": 3001,
     "sub_guide_id": 1,
@@ -3533,5 +3556,51 @@
     "type_id": 700034,
     "done_type": "ui_button",
     "done_type_data1": 600005
+  },
+  {
+    "id": 1106035,
+    "guide_group_id": 1106,
+    "sub_guide_id": 1,
+    "mobile_show": true,
+    "guide_group_priority": 50,
+    "cond_type": "and",
+    "type1": "task",
+    "type1_data_1": 1106035,
+    "res_scene_id": [
+      10050
+    ],
+    "delay_time": 500,
+    "finish_button_showtime": 5000,
+    "finish_overtime": 180000,
+    "reconnect": true,
+    "reset_step": 1,
+    "style_type": "GUIDE_FOCUS",
+    "type_id": 1106035,
+    "done_type": "task",
+    "done_type_data1": 1106035,
+    "done_type_data2": 1
+  },
+  {
+    "id": 1106036,
+    "guide_group_id": 1106,
+    "sub_guide_id": 1,
+    "pc_show": true,
+    "guide_group_priority": 50,
+    "cond_type": "and",
+    "type1": "task",
+    "type1_data_1": 1106035,
+    "res_scene_id": [
+      10050
+    ],
+    "delay_time": 500,
+    "finish_button_showtime": 5000,
+    "finish_overtime": 180000,
+    "reconnect": true,
+    "reset_step": 1,
+    "style_type": "GUIDE_FOCUS",
+    "type_id": 1106036,
+    "done_type": "task",
+    "done_type_data1": 1106035,
+    "done_type_data2": 1
   }
 ]

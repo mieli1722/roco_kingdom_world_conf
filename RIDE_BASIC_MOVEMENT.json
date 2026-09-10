@@ -626,6 +626,60 @@
     ]
   },
   {
+    "id": 10302,
+    "move_type": 1,
+    "vitality_cost": {
+      "min_start": 80,
+      "cost_per_seconds": 23,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "BaseMaxSpeed:440",
+    "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_6",
+    "move_param_4": "DeAccelerateCurve:Run_Normal/ride_deacc_curve_6",
+    "move_param_5": "LinerAngularSpeedCurve:Run_Normal/ride_angular_6",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
+    "id": 10303,
+    "move_type": 1,
+    "vitality_cost": {
+      "min_start": 80,
+      "cost_per_seconds": 26,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "BaseMaxSpeed:460",
+    "move_param_3": "AccelerateCurve:Run_Normal/ride_acc_curve_1",
+    "move_param_4": "DeAccelerateCurve:Run_Normal/ride_deacc_curve_1",
+    "move_param_5": "LinerAngularSpeedCurve:Run_Normal/ride_angular_1",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
     "id": 11001,
     "move_type": 1,
     "vitality_cost": {
@@ -1867,6 +1921,36 @@
     ]
   },
   {
+    "id": 20010,
+    "move_type": 6,
+    "vitality_cost": {
+      "min_start": 80,
+      "cost_per_seconds": 35,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "MaxAcceleration:225",
+    "move_param_2": "BaseMaxSpeed:225",
+    "move_param_3": "LinerAngularSpeedCurve:Gliding/ride_angular_Gliding_tutorial",
+    "move_param_4": "MaxFallingSpeed:350",
+    "move_param_5": "LazyModeGravityModifier:4",
+    "move_param_6": "LazyModeHorizontalVelModifier:0.4",
+    "move_param_7": "LazyModeMaxFallingSpeed:800",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
     "id": 30001,
     "move_type": 4,
     "vitality_cost": {
@@ -2188,6 +2272,34 @@
     "move_param_3": "AccelerateCurve:Swim/ride_swim_acc_curve_2",
     "move_param_4": "DeAccelerateCurve:Swim/ride_swim_deacc_curve_2",
     "move_param_5": "LinerAngularSpeedCurve:Swim/ride_swim_angular_2",
+    "property_modify_speed_param_1": [
+      1
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
+    "id": 30301,
+    "move_type": 4,
+    "vitality_cost": {
+      "min_start": 20,
+      "cost_per_seconds": 21,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "MaxAcceleration:100",
+    "move_param_2": "BaseMaxSpeed:450",
+    "move_param_3": "AccelerateCurve:Swim/ride_swim_acc_curve_3",
+    "move_param_4": "DeAccelerateCurve:Swim/ride_swim_deacc_curve_3",
+    "move_param_5": "LinerAngularSpeedCurve:Swim/ride_swim_angular_3",
     "property_modify_speed_param_1": [
       1
     ],
@@ -2567,6 +2679,23 @@
     "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Gliding/ride_angular_Gliding_tutorial.ride_angular_Gliding_tutorial",
     "move_param_5": "5",
     "move_param_6": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/FlyUp/fly_up_speed_tutorial.fly_up_speed_tutorial",
+    "move_param_7": "0",
+    "move_param_8": "1",
+    "move_param_11": "1.2"
+  },
+  {
+    "id": 50009,
+    "active_type": 4,
+    "vitality_cost": {
+      "min_start": 125,
+      "start_cost": 125
+    },
+    "move_param_1": "225",
+    "move_param_2": "225",
+    "move_param_3": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Gliding/ride_gliding_curve_1.ride_gliding_curve_1",
+    "move_param_4": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/Gliding/ride_angular_Gliding_tutorial.ride_angular_Gliding_tutorial",
+    "move_param_5": "5",
+    "move_param_6": "/Game/NewRoco/Modules/Core/Character/Rides/RideAll/RideCurve/FlyUp/fly_up_speed_tutorial_2.fly_up_speed_tutorial_2",
     "move_param_7": "0",
     "move_param_8": "1",
     "move_param_11": "1.2"
@@ -4211,5 +4340,84 @@
     "active_type": 21,
     "vitality_cost": {},
     "move_param_1": "/Game/ArtRes/AnimSequence/Pets/Wat_AWaSha1_001/Animation/World_PenShui_loop.World_PenShui_loop"
+  },
+  {
+    "id": 270001,
+    "move_type": 17,
+    "active_type": 24,
+    "vitality_cost": {
+      "min_start": 100,
+      "cost_per_seconds": 10,
+      "decay_threshold_percent": 25,
+      "decay_percent": 50
+    },
+    "move_param_1": "1500",
+    "move_param_2": "0.5",
+    "move_param_3": "3",
+    "move_param_4": "30",
+    "move_param_5": "400",
+    "move_param_6": "1",
+    "move_param_7": "2",
+    "move_param_8": "1",
+    "move_param_9": "2",
+    "move_param_10": "200",
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      8000
+    ]
+  },
+  {
+    "id": 280001,
+    "active_type": 4,
+    "vitality_cost": {
+      "min_start": 100,
+      "start_cost": 100
+    },
+    "move_param_1": "1500",
+    "move_param_2": "1500",
+    "property_modify_speed_param_1": [
+      5
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      -2000
+    ],
+    "property_modify_speed_param_3": 1
+  },
+  {
+    "id": 280002,
+    "active_type": 4,
+    "vitality_cost": {
+      "min_start": 100,
+      "start_cost": 100
+    },
+    "move_param_1": "1250",
+    "move_param_2": "1250",
+    "property_modify_speed_param_1": [
+      5
+    ],
+    "property_modify_speed_param_2": [
+      952,
+      476,
+      571,
+      4000,
+      4000,
+      2143,
+      1357,
+      -2000
+    ],
+    "property_modify_speed_param_3": 1
   }
 ]

@@ -1,15 +1,18 @@
 [
   {
     "id": 1,
+    "sort_id": 100,
     "button_action_name": "呼出鼠标",
+    "button_type": 1,
     "numList": [
       35
     ]
   },
   {
     "id": 2,
+    "sort_id": 200,
     "button_action_name": "向前移动",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       1
@@ -17,8 +20,9 @@
   },
   {
     "id": 3,
+    "sort_id": 300,
     "button_action_name": "向后移动",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       2
@@ -26,8 +30,9 @@
   },
   {
     "id": 4,
+    "sort_id": 400,
     "button_action_name": "向左移动",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       3
@@ -35,8 +40,9 @@
   },
   {
     "id": 5,
+    "sort_id": 500,
     "button_action_name": "向右移动",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       4
@@ -44,8 +50,9 @@
   },
   {
     "id": 6,
+    "sort_id": 600,
     "button_action_name": "跳跃；特定操作模式下向上移动；快捷骑乘；使用飞行骑乘技能",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       5,
@@ -60,8 +67,9 @@
   },
   {
     "id": 7,
+    "sort_id": 700,
     "button_action_name": "冲刺；使用骑乘技能",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       7,
@@ -78,8 +86,9 @@
   },
   {
     "id": 8,
+    "sort_id": 800,
     "button_action_name": "切换行走/跑步状态",
-    "button_type": 2,
+    "button_type": 3,
     "numList": [
       20
     ],
@@ -87,8 +96,9 @@
   },
   {
     "id": 10,
+    "sort_id": 900,
     "button_action_name": "交互；拾取",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       28,
@@ -97,8 +107,9 @@
   },
   {
     "id": 11,
+    "sort_id": 1000,
     "button_action_name": "取消骑乘/同行状态/攀爬/变形状态",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       16,
@@ -112,8 +123,9 @@
   },
   {
     "id": 12,
+    "sort_id": 1200,
     "button_action_name": "选择咕噜球/家园：装备食物和种植种子",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       147,
@@ -124,8 +136,9 @@
   },
   {
     "id": 13,
+    "sort_id": 1300,
     "button_action_name": "选择魔法",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       15,
@@ -134,8 +147,9 @@
   },
   {
     "id": 14,
+    "sort_id": 1400,
     "button_action_name": "进入骑乘状态；骑乘技能；对自己施法；旋转道具",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       12,
@@ -151,8 +165,9 @@
   },
   {
     "id": 15,
+    "sort_id": 1500,
     "button_action_name": "草丛中下蹲或站起/家园中呼唤/农场中铲除植物",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       17,
@@ -162,14 +177,16 @@
   },
   {
     "id": 16,
+    "sort_id": 1600,
     "button_action_name": "快速切换队伍",
-    "button_type": 2,
+    "button_type": 3,
     "special_input_action": 2
   },
   {
     "id": 17,
+    "sort_id": 1700,
     "button_action_name": "选择精灵/魔法1",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       21,
@@ -178,8 +195,9 @@
   },
   {
     "id": 18,
+    "sort_id": 1800,
     "button_action_name": "选择精灵/魔法2",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       22,
@@ -188,8 +206,9 @@
   },
   {
     "id": 19,
+    "sort_id": 1900,
     "button_action_name": "选择精灵/魔法3",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       23,
@@ -198,8 +217,9 @@
   },
   {
     "id": 20,
+    "sort_id": 2000,
     "button_action_name": "选择精灵/魔法4",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       24,
@@ -208,8 +228,9 @@
   },
   {
     "id": 21,
+    "sort_id": 2100,
     "button_action_name": "选择精灵/魔法5",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       25,
@@ -218,8 +239,9 @@
   },
   {
     "id": 22,
+    "sort_id": 2200,
     "button_action_name": "选择精灵/魔法6",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       26,
@@ -228,16 +250,18 @@
   },
   {
     "id": 23,
+    "sort_id": 2300,
     "button_action_name": "打开菜单界面/退出",
-    "button_type": 2,
+    "button_type": 3,
     "numList": [
       36
     ]
   },
   {
     "id": 24,
+    "sort_id": 2400,
     "button_action_name": "打开roleplay界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       37
@@ -245,8 +269,9 @@
   },
   {
     "id": 25,
+    "sort_id": 2500,
     "button_action_name": "进入拍照模式",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       105,
@@ -255,8 +280,9 @@
   },
   {
     "id": 26,
+    "sort_id": 2600,
     "button_action_name": "打开地图界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       41,
@@ -265,8 +291,9 @@
   },
   {
     "id": 27,
+    "sort_id": 2700,
     "button_action_name": "打开精灵界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       43,
@@ -275,8 +302,9 @@
   },
   {
     "id": 28,
+    "sort_id": 2800,
     "button_action_name": "打开任务界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       44,
@@ -285,8 +313,9 @@
   },
   {
     "id": 29,
+    "sort_id": 2900,
     "button_action_name": "打开背包界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       42,
@@ -295,8 +324,9 @@
   },
   {
     "id": 30,
+    "sort_id": 3000,
     "button_action_name": "打开教学手册",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       47,
@@ -305,8 +335,9 @@
   },
   {
     "id": 31,
+    "sort_id": 3100,
     "button_action_name": "打开好友界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       46,
@@ -315,8 +346,9 @@
   },
   {
     "id": 32,
+    "sort_id": 3200,
     "button_action_name": "打开赛季界面/快捷发言打开聊天频道",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       48,
@@ -326,8 +358,9 @@
   },
   {
     "id": 33,
+    "sort_id": 3300,
     "button_action_name": "打开活动界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       50,
@@ -337,8 +370,9 @@
   },
   {
     "id": 34,
+    "sort_id": 3400,
     "button_action_name": "打开魔法手册界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       49,
@@ -347,8 +381,9 @@
   },
   {
     "id": 35,
+    "sort_id": 3500,
     "button_action_name": "打开图鉴界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       45,
@@ -357,8 +392,9 @@
   },
   {
     "id": 36,
+    "sort_id": 3600,
     "button_action_name": "打开商店界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       51,
@@ -367,8 +403,9 @@
   },
   {
     "id": 37,
+    "sort_id": 3700,
     "button_action_name": "打开皮卡商店界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       138,
@@ -377,8 +414,9 @@
   },
   {
     "id": 38,
+    "sort_id": 3800,
     "button_action_name": "打开家具图鉴",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       164,
@@ -387,8 +425,9 @@
   },
   {
     "id": 39,
+    "sort_id": 3900,
     "button_action_name": "打开装饰模式",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       166,
@@ -397,8 +436,9 @@
   },
   {
     "id": 40,
+    "sort_id": 4000,
     "button_action_name": "离开守护地/小游戏",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       52
@@ -406,8 +446,9 @@
   },
   {
     "id": 41,
+    "sort_id": 4100,
     "button_action_name": "打开互访管理弹窗",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       53
@@ -415,8 +456,9 @@
   },
   {
     "id": 42,
+    "sort_id": 4200,
     "button_action_name": "查看任务详情",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       38,
@@ -425,8 +467,9 @@
   },
   {
     "id": 43,
+    "sort_id": 4300,
     "button_action_name": "查看新信息",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       39
@@ -434,8 +477,9 @@
   },
   {
     "id": 44,
+    "sort_id": 4400,
     "button_action_name": "打开便捷换装界面",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       143,
@@ -444,8 +488,9 @@
   },
   {
     "id": 45,
+    "sort_id": 4500,
     "button_action_name": "打开场景气泡聊天",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       163
@@ -453,8 +498,9 @@
   },
   {
     "id": 46,
+    "sort_id": 4600,
     "button_action_name": "选择技能/精灵/道具/球1/魔法",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       54,
@@ -463,8 +509,9 @@
   },
   {
     "id": 47,
+    "sort_id": 4700,
     "button_action_name": "选择技能/精灵/道具/球2",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       55,
@@ -473,8 +520,9 @@
   },
   {
     "id": 48,
+    "sort_id": 4800,
     "button_action_name": "选择技能/精灵/道具/球3",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       56,
@@ -483,8 +531,9 @@
   },
   {
     "id": 49,
+    "sort_id": 4900,
     "button_action_name": "选择技能/精灵/道具/球4",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       57,
@@ -493,8 +542,9 @@
   },
   {
     "id": 50,
+    "sort_id": 5000,
     "button_action_name": "选择精灵/道具/球5",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       58,
@@ -503,8 +553,9 @@
   },
   {
     "id": 51,
+    "sort_id": 5100,
     "button_action_name": "选择球6",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       59,
@@ -513,8 +564,9 @@
   },
   {
     "id": 52,
+    "sort_id": 5200,
     "button_action_name": "切换到背包界面",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       61,
@@ -523,8 +575,9 @@
   },
   {
     "id": 53,
+    "sort_id": 5300,
     "button_action_name": "切换到捕捉界面",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       62,
@@ -533,8 +586,9 @@
   },
   {
     "id": 54,
+    "sort_id": 5400,
     "button_action_name": "切换到更换精灵界面",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       63,
@@ -543,8 +597,9 @@
   },
   {
     "id": 55,
+    "sort_id": 5500,
     "button_action_name": "切换到技能界面",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       64,
@@ -553,8 +608,9 @@
   },
   {
     "id": 56,
+    "sort_id": 5600,
     "button_action_name": "切换释放技能的精灵",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       65
@@ -562,8 +618,9 @@
   },
   {
     "id": 57,
+    "sort_id": 5700,
     "button_action_name": "查看对战记录",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       66
@@ -571,8 +628,9 @@
   },
   {
     "id": 58,
+    "sort_id": 5800,
     "button_action_name": "聚能；战斗内获取咕噜球；战斗内选择首领信物时返回上一页",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       67,
@@ -586,8 +644,9 @@
   },
   {
     "id": 59,
+    "sort_id": 5900,
     "button_action_name": "清空技能链",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       69
@@ -595,32 +654,36 @@
   },
   {
     "id": 60,
+    "sort_id": 6000,
     "button_action_name": "向左选择",
-    "button_type": 3,
+    "button_type": 4,
     "numList": [
       70
     ]
   },
   {
     "id": 61,
+    "sort_id": 6100,
     "button_action_name": "向右选择",
-    "button_type": 3,
+    "button_type": 4,
     "numList": [
       71
     ]
   },
   {
     "id": 62,
+    "sort_id": 6200,
     "button_action_name": "确认选择",
-    "button_type": 3,
+    "button_type": 4,
     "numList": [
       72
     ]
   },
   {
     "id": 63,
+    "sort_id": 6300,
     "button_action_name": "战斗中打开聊天界面",
-    "button_type": 3,
+    "button_type": 4,
     "button_ischangeable": true,
     "numList": [
       174
@@ -628,8 +691,9 @@
   },
   {
     "id": 64,
+    "sort_id": 1100,
     "button_action_name": "取消手持状态",
-    "button_type": 2,
+    "button_type": 3,
     "button_ischangeable": true,
     "numList": [
       209

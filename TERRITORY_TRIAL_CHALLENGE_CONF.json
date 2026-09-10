@@ -4,7 +4,6 @@
     "topic": "法瑞莎莎试炼",
     "battle": 100000001,
     "boss": 1900012,
-    "boss_point": 340,
     "boss_entry": [
       298030,
       298033
@@ -94,7 +93,6 @@
     "topic": "麦克达克试炼",
     "battle": 100000002,
     "boss": 1900112,
-    "boss_point": 340,
     "boss_entry": [
       298031,
       298033
@@ -184,7 +182,6 @@
     "topic": "深渊罗隐试炼",
     "battle": 100000003,
     "boss": 1900212,
-    "boss_point": 340,
     "boss_entry": [
       298042
     ],
@@ -273,7 +270,6 @@
     "topic": "高帽鹬者试炼",
     "battle": 100000004,
     "boss": 1900312,
-    "boss_point": 340,
     "boss_entry": [
       298043
     ],
@@ -362,7 +358,6 @@
     "topic": "风暴酷拉试炼",
     "battle": 100000005,
     "boss": 1900412,
-    "boss_point": 340,
     "boss_entry": [
       298047
     ],
@@ -451,7 +446,6 @@
     "topic": "恶魔男爵试炼",
     "battle": 100000006,
     "boss": 1900512,
-    "boss_point": 340,
     "boss_entry": [
       298052
     ],
@@ -531,6 +525,182 @@
         "point": 150,
         "entry": [
           298048
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1007,
+    "topic": "满月砣试炼",
+    "battle": 100000007,
+    "boss": 1900612,
+    "boss_entry": [
+      298062
+    ],
+    "guard": [
+      {
+        "monster": 1900601,
+        "point": 80,
+        "entry": [
+          298058
+        ]
+      },
+      {
+        "monster": 1900602,
+        "point": 80,
+        "entry": [
+          298057
+        ]
+      },
+      {
+        "monster": 1900603,
+        "point": 80,
+        "entry": [
+          298059
+        ]
+      },
+      {
+        "monster": 1900604,
+        "point": 80,
+        "entry": [
+          298060
+        ]
+      },
+      {
+        "monster": 1900605,
+        "point": 100,
+        "entry": [
+          298061
+        ]
+      },
+      {
+        "monster": 1900606,
+        "point": 100,
+        "entry": [
+          298058
+        ]
+      },
+      {
+        "monster": 1900607,
+        "point": 100,
+        "entry": [
+          298060
+        ]
+      },
+      {
+        "monster": 1900608,
+        "point": 120,
+        "entry": [
+          298061
+        ]
+      },
+      {
+        "monster": 1900609,
+        "point": 120,
+        "entry": [
+          298058
+        ]
+      },
+      {
+        "monster": 1900610,
+        "point": 150,
+        "entry": [
+          298061
+        ]
+      },
+      {
+        "monster": 1900611,
+        "point": 150,
+        "entry": [
+          298059
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1008,
+    "topic": "烈焰狂战士",
+    "battle": 100000008,
+    "boss": 1900712,
+    "boss_entry": [
+      298068
+    ],
+    "guard": [
+      {
+        "monster": 1900701,
+        "point": 80,
+        "entry": [
+          298063
+        ]
+      },
+      {
+        "monster": 1900702,
+        "point": 80,
+        "entry": [
+          298064
+        ]
+      },
+      {
+        "monster": 1900703,
+        "point": 80,
+        "entry": [
+          298065
+        ]
+      },
+      {
+        "monster": 1900704,
+        "point": 80,
+        "entry": [
+          298064
+        ]
+      },
+      {
+        "monster": 1900705,
+        "point": 100,
+        "entry": [
+          298029
+        ]
+      },
+      {
+        "monster": 1900706,
+        "point": 100,
+        "entry": [
+          298065
+        ]
+      },
+      {
+        "monster": 1900707,
+        "point": 100,
+        "entry": [
+          298066
+        ]
+      },
+      {
+        "monster": 1900708,
+        "point": 120,
+        "entry": [
+          298067
+        ]
+      },
+      {
+        "monster": 1900709,
+        "point": 120,
+        "entry": [
+          298063
+        ]
+      },
+      {
+        "monster": 1900710,
+        "point": 150,
+        "entry": [
+          298066
+        ]
+      },
+      {
+        "monster": 1900711,
+        "point": 150,
+        "entry": [
+          298029
         ]
       }
     ]

@@ -1,10 +1,6 @@
 [
   {
     "id": 1001,
-    "star_total_range": [
-      0,
-      5
-    ],
     "losing_streak": [
       10000,
       10000,
@@ -15,15 +11,10 @@
       10000,
       10000
     ],
-    "ai_model_id": 100100,
     "battle_type": 22
   },
   {
     "id": 1002,
-    "star_total_range": [
-      5,
-      37
-    ],
     "losing_streak": [
       0,
       10000,
@@ -34,16 +25,10 @@
       10000,
       10000
     ],
-    "battle_before_num": 3,
-    "ai_model_id": 100201,
     "battle_type": 22
   },
   {
     "id": 1003,
-    "star_total_range": [
-      37,
-      57
-    ],
     "losing_streak": [
       500,
       1000,
@@ -54,16 +39,10 @@
       10000,
       10000
     ],
-    "ai_model_id": 100301,
-    "battle_type": 22,
-    "medal_is_open": true
+    "battle_type": 22
   },
   {
     "id": 1004,
-    "star_total_range": [
-      57,
-      80
-    ],
     "losing_streak": [
       500,
       500,
@@ -74,16 +53,10 @@
       10000,
       10000
     ],
-    "ai_model_id": 100401,
-    "battle_type": 22,
-    "medal_is_open": true
+    "battle_type": 22
   },
   {
     "id": 1005,
-    "star_total_range": [
-      80,
-      117
-    ],
     "losing_streak": [
       500,
       500,
@@ -94,16 +67,10 @@
       8000,
       10000
     ],
-    "ai_model_id": 100501,
-    "battle_type": 22,
-    "medal_is_open": true
+    "battle_type": 22
   },
   {
     "id": 1006,
-    "star_total_range": [
-      117,
-      10000
-    ],
     "losing_streak": [
       0,
       0,
@@ -114,9 +81,7 @@
       0,
       0
     ],
-    "ai_model_id": 100601,
-    "battle_type": 22,
-    "medal_is_open": true
+    "battle_type": 22
   },
   {
     "id": 7001,
@@ -130,9 +95,7 @@
       10000,
       10000
     ],
-    "ai_model_id": 100100,
-    "battle_type": 39,
-    "medal_is_open": true
+    "battle_type": 39
   },
   {
     "id": 8001,
@@ -146,8 +109,6 @@
       10000,
       10000
     ],
-    "ai_model_id": 100100,
-    "battle_type": 40,
-    "medal_is_open": true
+    "battle_type": 40
   }
 ]

@@ -147,7 +147,7 @@
   {
     "id": 1031,
     "note": "龙噬印记",
-    "desc": "<desc_id=3010>印记</>效果，释放3能耗技能后，获得双攻+30%。"
+    "desc": "<desc_id=3010>印记</>效果，释放3能耗技能后，获得双攻+40%。"
   },
   {
     "id": 1032,
@@ -945,7 +945,7 @@
     "id": 2301,
     "note": "赛季奇遇",
     "desc": "赛季持续期间，捕捉精灵有概率触发赛季奇遇。小洛克们会因此遇到各式各样仅在赛季期间才会出现的稀有精灵，甚至有机会见到更为稀有的异色精灵。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c02.s3_c02'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c02.s4_c02'"
   },
   {
     "id": 2302,
@@ -981,13 +981,13 @@
     "id": 2307,
     "note": "赛季传说精灵",
     "desc": "与镇守一方的精灵王不同，传说中的精灵可能会因为各种各样的原因出现在卡洛西亚大陆。\n赛季持续期间，小洛克们有机会与强大的赛季传说精灵成为伙伴。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c04.s3_c04'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c01.s4_c01'"
   },
   {
     "id": 2308,
     "note": "奇遇精灵",
-    "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">苞米仔</>、<span color=\"#7f4dffff\">守夜烛</>、<span color=\"#7f4dffff\">十字蝌蚪</>、<span color=\"#7f4dffff\">栗鼠</>、<span color=\"#7f4dffff\">蝴蝶陶陶</>、<span color=\"#7f4dffff\">稻草人</>、<span color=\"#7f4dffff\">蜜果骸</>、<span color=\"#7f4dffff\">卡波</>。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
+    "desc": "特定赛季中才会出现在大世界中的特殊精灵，通过连续捕捉触发赛季奇遇，就有可能与它们相遇！\n本赛季的奇遇精灵有以下8种：<span color=\"#7f4dffff\">章脑丸</>、<span color=\"#7f4dffff\">量风碗</>、<span color=\"#7f4dffff\">幽铃</>、<span color=\"#7f4dffff\">未完虫</>、<span color=\"#7f4dffff\">小浣蛋</>、<span color=\"#7f4dffff\">星星眼</>、<span color=\"#7f4dffff\">玳龟</>、<span color=\"#7f4dffff\">布灵</>。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c03.s4_c03'"
   },
   {
     "id": 2309,
@@ -1046,8 +1046,8 @@
   {
     "id": 2318,
     "note": "赛季大厅",
-    "desc": "赛季持续期间，小洛克们可以前往赛季大厅——「智慧出版社」，完成与赛季传说精灵「加尔」相关的委托，并解锁、购买赛季藏品。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
+    "desc": "赛季持续期间，完成前置委托任务的小洛克们可以前往赛季大厅——「月面」，并通过推进委托进度解锁、购买赛季藏品。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c04.s4_c04'"
   },
   {
     "id": 2319,
@@ -1064,38 +1064,38 @@
   {
     "id": 2321,
     "note": "赛季代币",
-    "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取幻梦代币。\n还可通过在赛季奇遇中捕捉异色精灵来获取更多的代币。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
+    "desc": "赛季代币可通过完成赛季作业、赛季对战、星光对决每周欢呼声奖励、闪耀大赛每周挑战来获取月涌代币。\n还可通过在赛季奇遇中捕捉异色精灵来获取更多的代币。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_coin.s4_coin'"
   },
   {
     "id": 2322,
     "note": "代币商店",
-    "desc": "代币商店中，可使用幻梦代币兑换拥有赛季炫彩外观的随机精灵蛋、8种赛季新奇遇的珍贵精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外兑换「过往异色蛋礼包」、「童话球」和「加尔印记」。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_coin.s3_coin'"
+    "desc": "代币商店中，可使用月涌代币兑换拥有各式精灵蛋、精灵养成道具。\n兑换完所有「赛季炫彩精灵蛋」后，还可额外兑换「过往异色蛋礼包」、「失重球」和「银月印记」。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_coin.s4_coin'"
   },
   {
     "id": 2323,
     "note": "赛季纪念咕噜球",
-    "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的童话球。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和智慧出版社的兑换商店购买获得。",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_ball.s3_ball'"
+    "desc": "赛季持续期间，小洛克们可获得赛季特制的纪念咕噜球，本赛季的特制咕噜球为必定捕捉精灵的「失重球」。\n可通过完成赛季作业、提升通行证等级、完成赛季对战、在赛季代币商店和「月面」的兑换商店购买获得。",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_ball.s4_ball'"
   },
   {
     "id": 2324,
     "note": "惊喜奇遇精灵",
     "desc": "一些奇遇精灵的出现方式更为特殊，本赛季的<span color=\"#7f4dffff\">烟花团</>、<span color=\"#7f4dffff\">炫光迪迪</>、<span color=\"#7f4dffff\">小丑豆豆</>需要用更特殊的手段才能在奇遇中与它们相遇。\n也许，它们与奇遇中出现的幸运惊喜盒有些关系？",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c03.s3_c03'"
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c03.s4_c03'"
   },
   {
     "id": 2325,
     "note": "赛季大厅藏品",
-    "desc": "赛季持续期间，小洛克们可以在智慧出版社中选购全新的时装、动作和玩具。多多留意出版社里的新货品吧~",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c01.s3_c01'"
+    "desc": "赛季持续期间，小洛克们可以在「月面」选购全新的时装、动作和玩具。多多留意赛季大厅里的新货品吧~",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c04.s4_c04'"
   },
   {
     "id": 2326,
     "note": "赛季传说精灵挑战",
-    "desc": "赛季委托达到一定进度后，会开启「加尔」的传说精灵挑战，通过消耗「契约印记」或「加尔印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
-    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s3_c05.s3_c05'"
+    "desc": "赛季委托达到一定进度后，会开启「银月狼王」的传说精灵挑战，通过消耗「契约印记」或「银月印记」可与其签订契约。\n千万不要错过让传说精灵成为伙伴的机会哦！",
+    "picture": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Frames/s4_c05.s4_c05'"
   },
   {
     "id": 3003,
@@ -1196,6 +1196,21 @@
     "id": 3023,
     "note": "禁足",
     "desc": "处于禁足状态时，精灵无法<desc_id=3009>离场</>，且无法获得新的禁足状态。"
+  },
+  {
+    "id": 3024,
+    "note": "木桶状态",
+    "desc": "该状态下会隐藏精灵的信息，自己行动或被敌方攻击时解除。"
+  },
+  {
+    "id": 3025,
+    "note": "月陨星状态",
+    "desc": "该状态下会隐藏精灵的信息，自己行动或被敌方攻击时解除。"
+  },
+  {
+    "id": 3026,
+    "note": "透射",
+    "desc": "光系技能，1能耗，对敌方造成60威力物伤。"
   },
   {
     "id": 8001,

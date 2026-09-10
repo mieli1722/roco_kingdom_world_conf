@@ -569,6 +569,25 @@
     ]
   },
   {
+    "id": 76,
+    "sort_id": 1000302,
+    "displayName": "记忆代币",
+    "discription": "蕴含回忆之力的神秘魔法通货。\n可在记忆代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100960.100960'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100960.100960'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "赛季通行证获得",
+        "text": "BattlePassModuleCmd.OpenBattlePass",
+        "param1": [
+          0
+        ]
+      }
+    ]
+  },
+  {
     "id": 74,
     "sort_id": 1000303,
     "displayName": "狂欢代币",
@@ -605,15 +624,13 @@
   },
   {
     "id": 75,
-    "displayName": "幸运代币",
-    "discription": "用来在幸运商店中随机奖品的兑换代币。",
-    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
-    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100782.100782'",
+    "displayName": "XXX",
+    "discription": "XXXXX",
     "item_quality": 5,
     "type_desc": "珍稀货币",
     "acquire_struct": [
       {
-        "acquire_way_text": "珍稀道具城购买"
+        "acquire_way_text": "XXXXX"
       }
     ]
   },
@@ -669,6 +686,20 @@
     ]
   },
   {
+    "id": 54,
+    "displayName": "可可果通行证积分",
+    "discription": "用于在“可可果通行证”活动中提升等级",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101041.101041'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101041.101041'",
+    "item_quality": 4,
+    "type_desc": "活动货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "「可可果通行证」活动获得"
+      }
+    ]
+  },
+  {
     "id": 80,
     "sort_id": 109105,
     "displayName": "美好祈愿",
@@ -680,6 +711,216 @@
     "acquire_struct": [
       {
         "acquire_way_text": "捕捉或击败巨人裂谷地区精灵获得"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "displayName": "精灵学分院积分卡",
+    "discription": "用于解锁精灵学院套装全新部件的积分卡。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101048.101048'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101048.101048'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成学院研究获得"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "displayName": "炼金学分院积分卡",
+    "discription": "用于解锁炼金学院套装全新部件的积分卡。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101049.101049'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101049.101049'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成学院研究获得"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "displayName": "仪典学分院积分卡",
+    "discription": "用于解锁仪典学院套装全新部件的积分卡。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101050.101050'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101050.101050'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成学院研究获得"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "displayName": "战斗学分院积分卡",
+    "discription": "用于解锁战斗学院套装全新部件的积分卡。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101051.101051'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101051.101051'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成学院研究获得"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "displayName": "学分",
+    "discription": "用于学院研究中提升科目等阶。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101045.101045'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/101045.101045'",
+    "item_quality": 5,
+    "type_desc": "珍稀货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成学院研究获得"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "sort_id": 1000310,
+    "displayName": "S9代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "sort_id": 1000309,
+    "displayName": "S8代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "sort_id": 1000308,
+    "displayName": "S7代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "sort_id": 1000307,
+    "displayName": "S6代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "sort_id": 1000306,
+    "displayName": "S5代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100979.100979'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/100979.100979'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "sort_id": 1000305,
+    "displayName": "月涌代币",
+    "discription": "响应魔力波动后可以获得的神奇魔法通货。\n可在赛季代币商店中兑换各种限定奖励。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101034.101034'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item64/101034.101034'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
+      },
+      {
+        "acquire_way_text": "赢得赛季对战获得"
+      },
+      {
+        "acquire_way_text": "参加闪耀大赛、星光对决获得"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "displayName": "神秘的可可果",
+    "discription": "蕴含神秘魔法能量的可可果，能引起某些精灵的注意。\n可在赛季代币商店兑换珍贵奇遇精灵蛋。",
+    "bigIcon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/100700.100700'",
+    "iconPath": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100700.100700'",
+    "item_quality": 4,
+    "type_desc": "赛季货币",
+    "acquire_struct": [
+      {
+        "acquire_way_text": "完成赛季作业获得"
       }
     ]
   }

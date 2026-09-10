@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "task_id": [
+      1
+    ],
+    "score": 1,
+    "icon": [
+      {
+        "achievement_name": "精灵蛋学",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_bronze_eggs_grey.img_Medal_AcademyPet_bronze_eggs_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "精灵蛋学I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_bronze_eggs.img_Medal_AcademyPet_bronze_eggs'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "精灵蛋学II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_silver_eggs.img_Medal_AcademyPet_silver_eggs'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "精灵蛋学III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_gold_eggs.img_Medal_AcademyPet_gold_eggs'",
+        "achievement_icon_animation": "T_UI_Xueyuan_eggs",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「精灵蛋学」奖章规则"
+  },
+  {
+    "id": 2,
+    "task_id": [
+      2
+    ],
+    "score": 2,
+    "icon": [
+      {
+        "achievement_name": "花种研习",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_flower_grey.img_Medal_AcademyALCHEMY_bronze_flower_grey'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "花种研习II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_flower.img_Medal_AcademyALCHEMY_silver_flower'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "花种研习III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_flower.img_Medal_AcademyALCHEMY_gold_flower'",
+        "achievement_icon_animation": "T_UI_Xueyuan_flower",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「花种研习」奖章规则"
+  },
+  {
+    "id": 3,
+    "task_id": [
+      3,
+      4
+    ],
+    "score": 3,
+    "icon": [
+      {
+        "achievement_name": "精灵馈赠",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_bronze_give_grey.img_Medal_AcademyPet_bronze_give_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "精灵馈赠I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_bronze_give.img_Medal_AcademyPet_bronze_give'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "精灵馈赠II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_silver_give.img_Medal_AcademyPet_silver_give'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "精灵馈赠III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyPet_gold_give.img_Medal_AcademyPet_gold_give'",
+        "achievement_icon_animation": "T_UI_Xueyuan_give",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「精灵馈赠」奖章规则"
+  },
+  {
+    "id": 4,
+    "task_id": [
+      5
+    ],
+    "score": 1,
+    "icon": [
+      {
+        "achievement_name": "炼金制造",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_collect_grey.img_Medal_AcademyALCHEMY_bronze_collect_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "炼金制造I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_collect.img_Medal_AcademyALCHEMY_bronze_collect'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "炼金制造II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_collect.img_Medal_AcademyALCHEMY_silver_collect'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "炼金制造III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_collect.img_Medal_AcademyALCHEMY_gold_collect'",
+        "achievement_icon_animation": "T_UI_Xueyuan_collect",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「炼金制造」奖章规则"
+  },
+  {
+    "id": 5,
+    "task_id": [
+      6
+    ],
+    "score": 2,
+    "icon": [
+      {
+        "achievement_name": "炫彩典藏",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_shinning_grey.img_Medal_AcademyALCHEMY_bronze_shinning_grey'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "炫彩典藏II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_shinning.img_Medal_AcademyALCHEMY_silver_shinning'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "炫彩典藏III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_shinning.img_Medal_AcademyALCHEMY_gold_shinning'",
+        "achievement_icon_animation": "T_UI_Xueyuan_shinning",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「炫彩典藏」奖章规则"
+  },
+  {
+    "id": 6,
+    "task_id": [
+      7
+    ],
+    "score": 3,
+    "icon": [
+      {
+        "achievement_name": "咕噜球馈赠",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_ball_grey.img_Medal_AcademyALCHEMY_bronze_ball_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "咕噜球馈赠I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_ball.img_Medal_AcademyALCHEMY_bronze_ball'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "咕噜球馈赠II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_ball.img_Medal_AcademyALCHEMY_silver_ball'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "咕噜球馈赠III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_ball.img_Medal_AcademyALCHEMY_gold_ball'",
+        "achievement_icon_animation": "T_UI_Xueyuan_ball",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「咕噜球馈赠」奖章规则"
+  },
+  {
+    "id": 7,
+    "task_id": [
+      8
+    ],
+    "score": 1,
+    "icon": [
+      {
+        "achievement_name": "星光收集",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_star_grey.img_Medal_AcademyALCHEMY_bronze_star_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "星光收集I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_star.img_Medal_AcademyALCHEMY_bronze_star'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "星光收集II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_star.img_Medal_AcademyALCHEMY_silver_star'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "星光收集III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_star.img_Medal_AcademyALCHEMY_gold_star'",
+        "achievement_icon_animation": "T_UI_Xueyuan_star",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「星光收集」奖章规则"
+  },
+  {
+    "id": 8,
+    "task_id": [
+      9
+    ],
+    "score": 2,
+    "icon": [
+      {
+        "achievement_name": "着装礼仪",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_bronze_fashion_grey.img_Medal_AcademyALCHEMY_bronze_fashion_grey'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "着装礼仪II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_silver_fashion.img_Medal_AcademyALCHEMY_silver_fashion'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "着装礼仪III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyALCHEMY_gold_fashion.img_Medal_AcademyALCHEMY_gold_fashion'",
+        "achievement_icon_animation": "T_UI_Xueyuan_fashion",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「着装礼仪」奖章规则"
+  },
+  {
+    "id": 9,
+    "task_id": [
+      10
+    ],
+    "score": 3,
+    "icon": [
+      {
+        "achievement_name": "言影往来",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyCEREMONY_bronze_message_grey.img_Medal_AcademyCEREMONY_bronze_message_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "言影往来I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyCEREMONY_bronze_message.img_Medal_AcademyCEREMONY_bronze_message'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "言影往来II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyCEREMONY_silver_message.img_Medal_AcademyCEREMONY_silver_message'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "言影往来III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyCEREMONY_gold_message.img_Medal_AcademyCEREMONY_gold_message'",
+        "achievement_icon_animation": "T_UI_Xueyuan_help",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「言影往来」奖章规则"
+  },
+  {
+    "id": 10,
+    "task_id": [
+      11
+    ],
+    "score": 1,
+    "icon": [
+      {
+        "achievement_name": "闪耀闪耀",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_bronze_battle_grey.img_Medal_AcademyBATTLE_bronze_battle_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "闪耀闪耀I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_bronze_battle.img_Medal_AcademyBATTLE_bronze_battle'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "闪耀闪耀II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_silver_battle.img_Medal_AcademyBATTLE_silver_battle'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "闪耀闪耀III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_gold_battle.img_Medal_AcademyBATTLE_gold_battle'",
+        "achievement_icon_animation": "T_UI_Xueyuan_battle",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「闪耀闪耀」奖章规则"
+  },
+  {
+    "id": 11,
+    "task_id": [
+      12
+    ],
+    "score": 2,
+    "icon": [
+      {
+        "achievement_name": "段位晋阶",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_bronze_rank_grey.img_Medal_AcademyBATTLE_bronze_rank_grey'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "段位晋阶II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_silver_rank.img_Medal_AcademyBATTLE_silver_rank'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "段位晋阶III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_gold_rank.img_Medal_AcademyBATTLE_gold_rank'",
+        "achievement_icon_animation": "T_UI_Xueyuan_rank",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「段位晋阶」奖章规则"
+  },
+  {
+    "id": 12,
+    "task_id": [
+      13
+    ],
+    "score": 3,
+    "icon": [
+      {
+        "achievement_name": "乐于分享",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_bronzer_watch_grey.img_Medal_AcademyBATTLE_bronzer_watch_grey'"
+      },
+      {
+        "achievement_level_id": 1,
+        "achievement_name": "乐于分享I",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_bronzer_watch.img_Medal_AcademyBATTLE_bronzer_watch'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg2_png.img_Medal_tongbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_tongbg1_png.img_Medal_tongbg1_png'"
+      },
+      {
+        "achievement_level_id": 2,
+        "achievement_name": "乐于分享II",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_silver_watch.img_Medal_AcademyBATTLE_silver_watch'",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg2_png.img_Medal_yinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_yinbg1_png.img_Medal_yinbg1_png'"
+      },
+      {
+        "achievement_level_id": 3,
+        "achievement_name": "乐于分享III",
+        "achievement_icon": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_Medal_AcademyBATTLE_gold_watch.img_Medal_AcademyBATTLE_gold_watch'",
+        "achievement_icon_animation": "T_UI_Xueyuan_watch",
+        "medal_bg": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg2_png.img_Medal_jinbg2_png'",
+        "medal_silk": "PaperSprite'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Frames/img_Medal_jinbg1_png.img_Medal_jinbg1_png'"
+      }
+    ],
+    "popup_title": "「乐于分享」奖章规则"
+  }
+]

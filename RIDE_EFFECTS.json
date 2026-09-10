@@ -3321,6 +3321,44 @@
     ]
   },
   {
+    "id": 307801001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          -68.0
+        ],
+        "ride_pet_fx_scale": [
+          0.647059,
+          0.647059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 307801002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          40.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.85,
+          0.85,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 307901002,
     "ride_pet_fx_id_group": [
       {
@@ -3335,6 +3373,44 @@
           0.85,
           1.1,
           0.85
+        ]
+      }
+    ]
+  },
+  {
+    "id": 307916001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie3",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -15.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.7,
+          2.2,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 307916002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.5,
+          1.0
         ]
       }
     ]
@@ -7104,6 +7180,25 @@
     ]
   },
   {
+    "id": 318401002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.1,
+          1.1,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
     "id": 318499001,
     "ride_pet_fx_id_group": [
       {
@@ -8825,6 +8920,44 @@
           0.5,
           0.5,
           0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 323699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 323699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
         ]
       }
     ]
@@ -10984,33 +11117,19 @@
     ]
   },
   {
-    "id": 329101001,
+    "id": 329101002,
     "ride_pet_fx_id_group": [
       {
-        "ride_pet_fx_name": "NS_pet_stamina01",
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
         "ride_pet_fx_attach_point": "locator_pos",
         "ride_pet_fx_offset": [
           0.0,
-          0.0,
-          60.0
+          65.0,
+          45.0
         ],
         "ride_pet_fx_scale": [
-          0.6,
-          0.6,
-          0.6
-        ]
-      },
-      {
-        "ride_pet_fx_name": "NS_pet_stamina02",
-        "ride_pet_fx_attach_point": "locator_pos",
-        "ride_pet_fx_offset": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "ride_pet_fx_scale": [
-          1.0,
-          1.0,
+          0.898677,
+          0.898677,
           1.0
         ]
       }
@@ -11235,29 +11354,15 @@
     ]
   },
   {
-    "id": 329401001,
+    "id": 329401002,
     "ride_pet_fx_id_group": [
       {
-        "ride_pet_fx_name": "NS_pet_stamina01",
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
         "ride_pet_fx_attach_point": "locator_pos",
         "ride_pet_fx_offset": [
-          0.0,
-          0.0,
-          80.0
-        ],
-        "ride_pet_fx_scale": [
-          0.7,
-          0.7,
-          0.7
-        ]
-      },
-      {
-        "ride_pet_fx_name": "NS_pet_stamina02",
-        "ride_pet_fx_attach_point": "locator_pos",
-        "ride_pet_fx_offset": [
-          0.0,
-          -8.329,
-          0.0
+          -7.0,
+          78.0,
+          125.0
         ],
         "ride_pet_fx_scale": [
           1.4,
@@ -11268,19 +11373,38 @@
     ]
   },
   {
-    "id": 329401002,
+    "id": 329416001,
     "ride_pet_fx_id_group": [
       {
-        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie3",
         "ride_pet_fx_attach_point": "locator_pos",
         "ride_pet_fx_offset": [
-          -7.0,
-          60.0,
-          155.690002
+          0.0,
+          10.0,
+          0.0
         ],
         "ride_pet_fx_scale": [
           1.0,
           1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 329416002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          40.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.470588,
+          1.470588,
           1.0
         ]
       }
@@ -12221,39 +12345,6 @@
     ]
   },
   {
-    "id": 332106001,
-    "ride_pet_fx_id_group": [
-      {
-        "ride_pet_fx_name": "NS_Scene_Fly_M_422-526",
-        "ride_pet_fx_attach_point": "Bone_L_ChiBang03",
-        "ride_pet_fx_offset": [
-          12.0,
-          0.0,
-          0.0
-        ],
-        "ride_pet_fx_scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      {
-        "ride_pet_fx_name": "NS_Scene_Fly_M_422-526",
-        "ride_pet_fx_attach_point": "Bone_R_ChiBang03",
-        "ride_pet_fx_offset": [
-          12.0,
-          0.0,
-          0.0
-        ],
-        "ride_pet_fx_scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      }
-    ]
-  },
-  {
     "id": 332199001,
     "ride_pet_fx_id_group": [
       {
@@ -12292,6 +12383,63 @@
     ]
   },
   {
+    "id": 332299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.661765,
+          0.661765,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 332399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.235294,
+          1.235294,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 332399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.235294,
+          1.235294,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 332999001,
     "ride_pet_fx_id_group": [
       {
@@ -12325,6 +12473,356 @@
           0.6,
           0.6,
           0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333004001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333004002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333004003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333104001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333104002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -60.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333104003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333204001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333204002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.7,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333204003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 333299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
         ]
       }
     ]
@@ -12401,6 +12899,63 @@
           0.5,
           0.5,
           0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 334301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          120.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 334399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 334399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
         ]
       }
     ]
@@ -12969,39 +13524,6 @@
     ]
   },
   {
-    "id": 335301001,
-    "ride_pet_fx_id_group": [
-      {
-        "ride_pet_fx_name": "NS_pet_stamina01",
-        "ride_pet_fx_attach_point": "locator_body",
-        "ride_pet_fx_offset": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "ride_pet_fx_scale": [
-          1.0,
-          1.0,
-          1.0
-        ]
-      },
-      {
-        "ride_pet_fx_name": "NS_pet_stamina02",
-        "ride_pet_fx_attach_point": "locator_pos",
-        "ride_pet_fx_offset": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "ride_pet_fx_scale": [
-          1.5,
-          1.5,
-          1.5
-        ]
-      }
-    ]
-  },
-  {
     "id": 335399001,
     "ride_pet_fx_id_group": [
       {
@@ -13329,6 +13851,44 @@
           0.75,
           0.75,
           0.75
+        ]
+      }
+    ]
+  },
+  {
+    "id": 336299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 336299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.4,
+          0.4,
+          0.4
         ]
       }
     ]
@@ -14679,6 +15239,44 @@
     ]
   },
   {
+    "id": 340301001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 340301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          75.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.4,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
     "id": 340399001,
     "ride_pet_fx_id_group": [
       {
@@ -14712,6 +15310,44 @@
           0.7,
           0.7,
           0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 340401001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -5.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 340401002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          100.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.8,
+          1.6
         ]
       }
     ]
@@ -17799,6 +18435,356 @@
     ]
   },
   {
+    "id": 347504001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347504002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347504003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347604001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347604002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -60.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347604003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347704001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347704002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.7,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347704003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.4,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347799001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 347799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 348006001,
     "ride_pet_fx_id_group": [
       {
@@ -19603,6 +20589,25 @@
     ]
   },
   {
+    "id": 354299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.735294,
+          0.735294,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 354306001,
     "ride_pet_fx_id_group": [
       {
@@ -20043,6 +21048,25 @@
     ]
   },
   {
+    "id": 356699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 357104001,
     "ride_pet_fx_id_group": [
       {
@@ -20175,6 +21199,82 @@
           0.7,
           0.7,
           0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 357599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 357599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 357699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 357699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
         ]
       }
     ]
@@ -20411,6 +21511,101 @@
           0.9,
           1.0,
           1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 358999001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.3,
+          0.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 358999002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.3,
+          0.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 359099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 359399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 359399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          0.7
         ]
       }
     ]
@@ -22096,6 +23291,267 @@
     ]
   },
   {
+    "id": 367616001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie3",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          3.0,
+          3.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 367616002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          3.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 367699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 367699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 369899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 370799001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.985294,
+          0.985294,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 370799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.985294,
+          0.985294,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 371199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.95,
+          0.95,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 371906001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Body_01",
+        "ride_pet_fx_offset": [
+          50.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Body_00",
+        "ride_pet_fx_offset": [
+          50.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 371999001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.9,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 371999002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.9,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374101002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          110.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.191176,
+          1.191176,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
     "id": 374201002,
     "ride_pet_fx_id_group": [
       {
@@ -22299,6 +23755,4456 @@
           1.3,
           1.3,
           1.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374804001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374804002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving720-800",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.470588,
+          1.470588,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.470588,
+          1.470588,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374804003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          0.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374814001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_WFl_ldieMoving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          90.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.3,
+          2.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374899001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 374899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375501001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.938235,
+          0.938235,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375501002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.2,
+          1.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375516001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie3",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          3.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375516002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.3,
+          1.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.938235,
+          0.938235,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375601001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.665882,
+          1.665882,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375601002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          110.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          2.2,
+          1.8,
+          2.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375616001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie3",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375616002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          100.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          3.0,
+          2.4,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.665882,
+          1.665882,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 375699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376099001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.455882,
+          1.455882,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.455882,
+          1.455882,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376606001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_R_CB104",
+        "ride_pet_fx_offset": [
+          60.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.559559,
+          1.559559,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_L_CB107",
+        "ride_pet_fx_offset": [
+          60.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.56,
+          1.559559,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 376899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 377099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 377499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 378504001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 378504002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          2.1,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 378504003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.170588,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 379699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500201002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          140.0,
+          165.0
+        ],
+        "ride_pet_fx_scale": [
+          0.85,
+          1.25,
+          0.85
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500301001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.7,
+          1.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          85.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.5,
+          2.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500499001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500501002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          1.1,
+          1.6,
+          1.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          20.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500601002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500604001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500604002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500604003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500801001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500801002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          70.0,
+          120.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500899001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 500899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501004001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501004002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.3,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501004003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.7,
+          1.6,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501104001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          1.3,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501104002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501104003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.8,
+          1.2,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          50.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501114001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_WFl_ldieMoving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.3,
+          0.4,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501204001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.227941,
+          2.227941,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501204002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501204003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.5,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving920-1200",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -90.0,
+          -15.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -90.0,
+          -15.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501406001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone06",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone44",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501499001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          30.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          30.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501601002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          100.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          2.2,
+          2.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501604001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.1,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501604002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -25.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.1,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.1,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501604003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.5,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -10.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -50.0,
+          -10.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501799001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.2,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.2,
+          1.2,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501804001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501804002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501804003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501816001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_ldie_M",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.564706,
+          1.564706,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501816002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_LavaSwim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501899001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 501899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502001002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          70.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.8,
+          2.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502099001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          -5.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          0.8,
+          0.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -40.0,
+          -5.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502101001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.0,
+          1.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502101002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          70.0,
+          100.0
+        ],
+        "ride_pet_fx_scale": [
+          3.0,
+          2.0,
+          2.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502204001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502204002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502204003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving720-800",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.8,
+          1.1,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          -25.0
+        ],
+        "ride_pet_fx_scale": [
+          0.4,
+          0.4,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          -25.0
+        ],
+        "ride_pet_fx_scale": [
+          0.4,
+          0.4,
+          0.4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -20.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          80.0
+        ],
+        "ride_pet_fx_scale": [
+          0.3,
+          0.3,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502506001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Lig_Wing09",
+        "ride_pet_fx_offset": [
+          30.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Lig_Wing06",
+        "ride_pet_fx_offset": [
+          30.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.952941,
+          0.952941,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502606001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Gra_Wing16",
+        "ride_pet_fx_offset": [
+          30.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Gra_Wing04",
+        "ride_pet_fx_offset": [
+          30.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.952941,
+          0.952941,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502706001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Fir_Wing06",
+        "ride_pet_fx_offset": [
+          20.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Fir_Wing14",
+        "ride_pet_fx_offset": [
+          20.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.952941,
+          0.952941,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502806001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Wat_Wing08",
+        "ride_pet_fx_offset": [
+          20.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_M_600-750",
+        "ride_pet_fx_attach_point": "Bone_Wat_Wing18",
+        "ride_pet_fx_offset": [
+          20.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.882353,
+          0.882353,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502904001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.227941,
+          2.227941,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502904002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502904003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.5,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving920-1200",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          2.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502999001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -90.0,
+          -15.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 502999002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -90.0,
+          -15.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503006001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone06",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone44",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503099001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503106001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone06",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone44",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503206001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone06",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone44",
+        "ride_pet_fx_offset": [
+          25.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.397059,
+          1.397059,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503499001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503601002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503604001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503604002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503604003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503701002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503704001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503704002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503704003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503799001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503801002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503804001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503804002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503804003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503899001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503899002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503901002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503904001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503904002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503904003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503999001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 503999002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504001002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504099001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504099002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504101002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504201002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504401002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504499001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504501002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504599001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504601002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          150.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          2.5,
+          1.8
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504699001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 504699002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_head",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -30.0
+        ],
+        "ride_pet_fx_scale": [
+          0.6,
+          0.6,
+          0.6
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505201002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          60.0,
+          60.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505204001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505204002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.6,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -5.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.8,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505204003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          10.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.441176,
+          1.441176,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur1500",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.4,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505299001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505299002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          50.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          0.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505301001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_stamina02",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.5,
+          1.5,
+          1.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505301002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          90.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          2.5,
+          2.5,
+          2.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505399001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505399002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff01",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          20.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505499001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.3,
+          0.3,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505499002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -20.0,
+          70.0
+        ],
+        "ride_pet_fx_scale": [
+          0.3,
+          0.3,
+          0.3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505599002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.7,
+          0.7,
+          0.7
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505706001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone_W_L_Chibang03",
+        "ride_pet_fx_offset": [
+          40.0,
+          -20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_Scene_Fly_L_900",
+        "ride_pet_fx_attach_point": "Bone_W_R_Chibang03",
+        "ride_pet_fx_offset": [
+          40.0,
+          20.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505799001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505799002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          0.5,
+          0.5,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505999001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -40.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 505999002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          -40.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506101002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_landward_spurt03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          120.0,
+          90.0
+        ],
+        "ride_pet_fx_scale": [
+          2.0,
+          3.3,
+          1.5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506199001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506199002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_Pet_Ride_Buff_terrain",
+        "ride_pet_fx_attach_point": "locator_body",
+        "ride_pet_fx_offset": [
+          0.0,
+          -30.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506404001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.729412,
+          1.729412,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506404002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.729412,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506404003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.2,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506504001,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_ldie03",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.729412,
+          1.729412,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506504002,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_moving480-640",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.729412,
+          1.0
+        ]
+      }
+    ]
+  },
+  {
+    "id": 506504003,
+    "ride_pet_fx_id_group": [
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spurt",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          2.0,
+          1.0
+        ]
+      },
+      {
+        "ride_pet_fx_name": "NS_pet_Swim_spur900",
+        "ride_pet_fx_attach_point": "locator_pos",
+        "ride_pet_fx_offset": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "ride_pet_fx_scale": [
+          1.0,
+          1.2,
+          1.0
         ]
       }
     ]

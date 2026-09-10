@@ -31,8 +31,8 @@
     "activity_name": "这宝，藏哪了？",
     "prompt_text": "需要借助精灵力量寻找的神秘藏宝图\n宝藏猎人能顺利破解吗？",
     "activity_txt": "为了找到祖母留下的宝藏，德雷克福德庄园的贵族小姐薇奥拉正在悬赏拥有强大实力的精灵魔法师。\n\n<span color=\"#d56c1f\">活动时间</>\n2026年5月1日04:00-2026年5月15日04:00(UTC+8)\n藏宝地点共有5个，5月1日/3日/5日04:00将会陆续解锁新区域~\n\n<span color=\"#d56c1f\">活动规则</>\n活动期间，小洛克可根据藏宝图的指示，前往埋有「宝藏」的区域寻找宝藏。\n· 每个区域都需要特定的精灵帮忙，小洛克需要骑乘对应的精灵，才能获得寻宝线索。\n· 宝藏记录册中记录了每个区域所需要骑乘的精灵，可在周围寻找精灵的踪迹~\n· 找到宝藏挖掘点后，挖出宝藏即可获得宝箱奖励。\n\n<span color=\"#d56c1f\">小提示</>\n精灵可以感应到宝藏的大致距离，并用表情提醒我们，请仔细留意精灵的变化。\n· 距离宝藏很远时，精灵没有表情变化，还要再寻找一下哦~\n· 精灵稍微感知到一点点宝藏了，但这是什么呢？精灵疑惑地冒出“问号”。\n· 好像开始接近宝藏了，但精灵还需要“思考”确认一下！\n· 很接近宝藏了！精灵开始大声叫起来，说不定是在表达这个方向没有错？\n· 发现宝藏了，精灵开心地哼起歌！这个时候小洛克可以四处走走，找一找身边异样的蓝色“光点”~\n\n<span color=\"#d56c1f\">活动奖励</>\n· 根据指示找到宝藏后，可获得宝箱奖励。\n· 藏宝区域内的藏宝点全部寻找后，将会获得薇奥拉的额外报酬。\n\n<span color=\"#d56c1f\">常见问题</>\nQ：我可以和我的朋友一起寻宝吗？\nA：当然可以！我们非常鼓励小洛克们一起解密！和好友联机解密乐趣加倍，但只有主世界的小洛克可以挖到哦~互相帮助寻宝藏效率更高，帮助完好友后，可以记下宝藏位置，让好友陪你一起挖呀挖呀挖……",
-    "appear_time": "2026-05-01 04:00:00",
-    "disappear_time": "2026-05-15 03:59:59",
+    "appear_time": "2024-05-01 04:00:00",
+    "disappear_time": "2024-05-15 03:59:59",
     "world_level_required": 2,
     "maintab_id": 1,
     "belong_system": 1,
@@ -40,6 +40,26 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_DigForTreasure.UMG_Activity_DigForTreasure_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xunbao2_png.img_xunbao2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xunbao1_png.img_xunbao1_png'"
+  },
+  {
+    "id": 2003,
+    "activity_type": 55,
+    "base_id": [
+      1001
+    ],
+    "activity_name": "龙息帕尔再临",
+    "prompt_text": "严格遵守缔结的契约，契约完成前绝不离开，甚至为此漫长的等待。",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n传说精灵「龙息帕尔」再临！活动期间，玩家参与龙息帕尔的团体战并完成捕捉后将会获得活动奖励。活动将在2026-11-05 03:59:59下线，活动下线后龙息帕尔将会常驻，不再消失。\n\n<span color=\"#d56c1f\">玩法说明</>\n龙息帕尔出现后，玩家即可参与龙息帕尔挑战，可以四名玩家组队参与，也支持一名玩家进行单人挑战。击败传说精灵后玩家需要消耗<span color=\"#d56c1f\">传说印记或契约印记</>才能领取对应奖励。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到精灵研究员后解锁调查",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 470,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_LegendPetReplication.UMG_Activity_LegendPetReplication_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/LegendaryBattle/3182/img_icon.img_icon'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/LegendaryBattle/3182/img_icon1.img_icon1'"
   },
   {
     "id": 2004,
@@ -752,6 +772,174 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
   },
   {
+    "id": 4037,
+    "activity_type": 22,
+    "base_id": [
+      1500132
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-09-14 04:00:00",
+    "disappear_time": "2026-09-21 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4038,
+    "activity_type": 22,
+    "base_id": [
+      1500133
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-09-21 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4039,
+    "activity_type": 22,
+    "base_id": [
+      1500134
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-09-28 04:00:00",
+    "disappear_time": "2026-10-05 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4040,
+    "activity_type": 22,
+    "base_id": [
+      1500135
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-10-05 04:00:00",
+    "disappear_time": "2026-10-12 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4041,
+    "activity_type": 22,
+    "base_id": [
+      1500136
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-10-12 04:00:00",
+    "disappear_time": "2026-10-19 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4042,
+    "activity_type": 22,
+    "base_id": [
+      1500137
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-10-19 04:00:00",
+    "disappear_time": "2026-10-26 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4043,
+    "activity_type": 22,
+    "base_id": [
+      1500138
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-10-26 04:00:00",
+    "disappear_time": "2026-11-02 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
+    "id": 4044,
+    "activity_type": 22,
+    "base_id": [
+      1500139
+    ],
+    "activity_name": "星光对决",
+    "tab_id": 1000,
+    "prompt_text": "不仅要赢，还要赢得漂亮！这就是星光对决！",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n星光对决将在<span color=\"#d56c1f\">每周一04:00(UTC+8)</>进行更新，每期挑战持续一周，玩家需使用<span color=\"#d56c1f\">当周获得的精灵</>参与挑战，所有参与星光对决的精灵等级、成长次数和成长值将会提升为精灵盒子中精灵养成的最高水平。\n\n<span color=\"#d56c1f\">活动规则</>\n在星光对决玩法中会统计<span color=\"#d56c1f\">精灵的欢呼声</>，使用欢呼声达标的队伍获胜可以获得对应档位的奖励。\n在星光对决中一共有<span color=\"#d56c1f\">五档挑战难度</>，当玩家进阶为更高等级的魔法师时，星光对决的挑战难度也会随之提升，可获得的奖励也会相应增加。\n在星光对决中使用欢呼声达标的队伍战胜对手即可拍摄一张<span color=\"#d56c1f\">精灵合照</>，合照拍摄完成后会自动替换到玩法首页处，首页处的合照将在每周挑战结束时自动上传至“星光回顾”系统中。",
+    "appear_time": "2026-11-02 04:00:00",
+    "disappear_time": "2026-11-09 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "达到见习魔法生后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 80,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StarlightShowdown.UMG_Activity_StarlightShowdown_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan2_png.img_jianyingduizhan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jianyingduizhan1_png.img_jianyingduizhan1_png'"
+  },
+  {
     "id": 5001,
     "activity_type": 58,
     "base_id": [
@@ -891,6 +1079,82 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao1_png.img_qiriqiandao1_png'"
   },
   {
+    "id": 200017,
+    "activity_type": 2,
+    "base_id": [
+      200016
+    ],
+    "activity_name": "王国之约",
+    "prompt_text": "一份小小赠礼，愿能陪伴您在旅途中前行",
+    "activity_txt": "<span color=\"#d56c1f\">登录奖励</>\n· 累计登录天数解锁对应奖励。\n· 每日04:00刷新奖励进度。\n· 所有奖励领取后，「王国之约」活动于04:00跨天后关闭。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "success_if_disappear": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SevenDay.UMG_Activity_SevenDay_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao2_png.img_qiriqiandao2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao1_png.img_qiriqiandao1_png'"
+  },
+  {
+    "id": 200101,
+    "activity_type": 2,
+    "base_id": [
+      200101
+    ],
+    "activity_name": "赴约王国舞会-一天登录奖励",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-10-02 03:59:59",
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 200102,
+    "activity_type": 40,
+    "base_id": [
+      4000006
+    ],
+    "activity_name": "赴约王国舞会",
+    "prompt_text": "今夜，王宫为你点亮舞池\n一支舞的时间，可丽希亚正在等你赴约",
+    "activity_txt": "王宫的舞池已经点亮，可丽希亚正等待与你共赴今夜之约。\n成为4星魔法师并完成「参与王国舞会」任务，即可领取舞会伴手礼，获得国王球×1及活动限定称号「今夜/因我闪耀」。\n换上你喜欢的装扮，前往舞会留下属于自己的闪耀时刻吧！",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-10-02 03:59:59",
+    "if_appear": true,
+    "appear_world_level_require": 4,
+    "ban_text": "完成「参加王国舞会」任务后解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 465,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_KingdomAppointmentBall.UMG_Activity_KingdomAppointmentBall_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_fuyuewangguowuhui_bg1.img_fuyuewangguowuhui_bg1'|Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_fuyuewangguowuhui_bg2.img_fuyuewangguowuhui_bg2'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_fuyuewangguowuhui2_png.img_fuyuewangguowuhui2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_fuyuewangguowuhui1_png.img_fuyuewangguowuhui1_png'"
+  },
+  {
+    "id": 200103,
+    "activity_type": 26,
+    "base_id": [
+      2600090
+    ],
+    "activity_name": "赴约王国舞会-发活动任务",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-10-02 03:59:59",
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          1600835
+        ]
+      }
+    ]
+  },
+  {
     "id": 201002,
     "activity_type": 2,
     "base_id": [
@@ -919,6 +1183,60 @@
     "activity_txt": "<span color=\"#d56c1f\">登录奖励</>\n· 累计登录天数解锁对应奖励。\n· 每日04:00(UTC+8)刷新奖励进度。\n·「重逢七日签到」活动将至少持续14天，持续时间达到14天后，活动将于下一个04:00关闭。\n· 在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。",
     "appear_time": "2026-07-16 04:00:00",
     "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 30,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowSevenDay.UMG_Activity_BackflowSevenDay_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao2_png.img_qiriqiandao2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao1_png.img_qiriqiandao1_png'"
+  },
+  {
+    "id": 201004,
+    "activity_type": 2,
+    "base_id": [
+      201004
+    ],
+    "activity_name": "重逢七日签到",
+    "prompt_text": "这一次的见面，是重逢\n也是一段新的旅程的开启。",
+    "activity_txt": "<span color=\"#d56c1f\">登录奖励</>\n· 累计登录天数解锁对应奖励。\n· 每日04:00刷新奖励进度。\n·「重逢七日签到」活动将至少持续14天，持续时间达到14天后，活动将于下一个04:00关闭。\n· 在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 30,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowSevenDay.UMG_Activity_BackflowSevenDay_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao2_png.img_qiriqiandao2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao1_png.img_qiriqiandao1_png'"
+  },
+  {
+    "id": 201005,
+    "activity_type": 2,
+    "base_id": [
+      201005
+    ],
+    "activity_name": "重逢七日签到",
+    "prompt_text": "这一次的见面，是重逢\n也是一段新的旅程的开启。",
+    "activity_txt": "<span color=\"#d56c1f\">登录奖励</>\n· 累计登录天数解锁对应奖励。\n· 每日04:00刷新奖励进度。\n·「重逢七日签到」活动将至少持续14天，持续时间达到14天后，活动将于下一个04:00关闭。\n· 在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 30,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowSevenDay.UMG_Activity_BackflowSevenDay_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao2_png.img_qiriqiandao2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiriqiandao1_png.img_qiriqiandao1_png'"
+  },
+  {
+    "id": 201006,
+    "activity_type": 2,
+    "base_id": [
+      201006
+    ],
+    "activity_name": "重逢七日签到",
+    "prompt_text": "这一次的见面，是重逢\n也是一段新的旅程的开启。",
+    "activity_txt": "<span color=\"#d56c1f\">登录奖励</>\n· 累计登录天数解锁对应奖励。\n· 每日04:00刷新奖励进度。\n·「重逢七日签到」活动将至少持续14天，持续时间达到14天后，活动将于下一个04:00关闭。\n· 在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
     "world_level_required": 1,
     "belong_system": 4,
     "priority": 30,
@@ -1053,6 +1371,28 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wenjuan1_png.img_wenjuan1_png'"
   },
   {
+    "id": 300020,
+    "activity_type": 3,
+    "base_id": [
+      320034,
+      320044,
+      320045,
+      320046,
+      320047
+    ],
+    "activity_name": "噜噜的调研时间",
+    "activity_txt": "感谢小洛克的反馈与建议，让王国得以稳步成长，感恩与你同行。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-04 03:59:59",
+    "success_if_disappear": true,
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 20,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Survey.UMG_Activity_Survey_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wenjuan2_png.img_wenjuan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wenjuan1_png.img_wenjuan1_png'"
+  },
+  {
     "id": 330013,
     "activity_type": 3,
     "base_id": [
@@ -1082,32 +1422,6 @@
     "activity_txt": "<span color=\"#d56c1f\">预下载规则说明</>\n\n·新版本资源预约下载开启后，即可预约下载更新资源。\n·资源将在新版本更新前开放，具体时间和资源大小请留意官方公告。\n·资源开放下载后，已预约的小洛克，在WiFi环境下并处于非战斗单局内或者省电模式下将自动下载资源，不会影响您的正常体验。\n·资源开放下载期间，已预约下载的小洛克可以在界面中暂停下载。暂停下载状态时重新登录游戏，将自动启动资源预下载。\n·资源预下载后，将暂时储存在本地设备中，新版本更新时自动使用。\n·如果在预下载期间资源未下载完成，新版本更新时将继续更新未完成的部分，已下载的资源仍可使用，无需重复下载。\n·预下载期间下载完成新版本资源，可领取预约下载奖励。",
     "appear_time": "2024-08-13 04:00:00",
     "disappear_time": "2026-05-20 03:59:59",
-    "login_plat": [
-      0,
-      1,
-      12,
-      3
-    ],
-    "if_hide": true,
-    "maintab_id": 1,
-    "belong_system": 1,
-    "priority": 1,
-    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Heterochrome.UMG_Activity_Heterochrome_C'",
-    "cdn_bg": "https://video.nrc.qq.com/Activity_BG/S3/S3saijixiazai.png",
-    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise2_png.img_yise2_png'",
-    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yise1_png.img_yise1_png'"
-  },
-  {
-    "id": 900015,
-    "activity_type": 53,
-    "base_id": [
-      900015
-    ],
-    "activity_name": "新版本预约下载",
-    "prompt_text": "预约后将在资源开放下载时自动触发下载。（仅WiFi环境）",
-    "activity_txt": "<span color=\"#d56c1f\">预下载规则说明</>\n\n·新版本资源预约下载开启后，即可预约下载更新资源。\n·资源将在新版本更新前开放，具体时间和资源大小请留意官方公告。\n·资源开放下载后，已预约的小洛克，在WiFi环境下并处于非战斗单局内或者省电模式下将自动下载资源，不会影响您的正常体验。\n·资源开放下载期间，已预约下载的小洛克可以在界面中暂停下载。暂停下载状态时重新登录游戏，将自动启动资源预下载。\n·资源预下载后，将暂时储存在本地设备中，新版本更新时自动使用。\n·如果在预下载期间资源未下载完成，新版本更新时将继续更新未完成的部分，已下载的资源仍可使用，无需重复下载。\n·预下载期间下载完成新版本资源，可领取预约下载奖励。",
-    "appear_time": "2024-08-13 04:00:00",
-    "disappear_time": "2026-07-05 03:59:59",
     "login_plat": [
       0,
       1,
@@ -1246,7 +1560,7 @@
     "prompt_text": "提升魔法等级，领取时装奖励!",
     "activity_txt": "欢迎来到魔法学院！准备好成为伟大的魔法师了吗？\n\n请在大世界尽情探索，努力提升「魔法等级」，获取新时装吧！",
     "success_if_disappear": true,
-    "maintab_id": 1,
+    "maintab_id": 3,
     "belong_system": 1,
     "priority": 495,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Grade.UMG_Activity_Grade_C'",
@@ -1384,13 +1698,7 @@
     "if_hide": true,
     "maintab_id": 2,
     "belong_system": 1,
-    "priority": 1,
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ]
+    "priority": 1
   },
   {
     "id": 1600024,
@@ -1504,15 +1812,83 @@
     "id": 1600028,
     "activity_type": 16,
     "base_id": [
-      1600200
+      1500001,
+      1500002,
+      1500003,
+      1500004,
+      1500005,
+      1500006,
+      1500007,
+      1500008,
+      1500009,
+      1500010,
+      1500011,
+      1500012,
+      1500013,
+      1500014
     ],
-    "activity_name": "狐主任一次性任务",
-    "appear_time": "2026-01-03 04:00:00",
-    "disappear_time": "2026-06-06 23:59:59",
+    "activity_name": "月幕下的决斗-累计奖励",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
     "if_hide": true,
-    "maintab_id": 2,
+    "maintab_id": 1,
     "belong_system": 1,
     "priority": 1
+  },
+  {
+    "id": 1600030,
+    "activity_type": 16,
+    "base_id": [
+      1600329,
+      1600330,
+      1600331,
+      1600332,
+      1600333,
+      1600334,
+      1600335
+    ],
+    "activity_name": "大世界观察笔记",
+    "prompt_text": "嘘！小声点，别吓跑了精灵们~",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n成功获得精灵后，可在【精灵界面】查看该精灵的身高体重。\n若满足任务要求，即可在「大世界观察笔记」活动界面中领取奖励。\n一起来观察不同身高体重带给精灵的影响吧~",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 48,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StageAward.UMG_Activity_StageAward_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jinglingyangcheng2_png.img_jinglingyangcheng2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jinglingyangcheng1_png.img_jinglingyangcheng1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'",
+    "title_icon_text": "课外练习"
+  },
+  {
+    "id": 1600031,
+    "activity_type": 16,
+    "base_id": [
+      1600336,
+      1600337,
+      1600338,
+      1600339,
+      1600340,
+      1600341,
+      1600342
+    ],
+    "activity_name": "大世界观察笔记",
+    "prompt_text": "嘘！小声点，别吓跑了精灵们~",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n成功获得精灵后，可在【精灵界面】查看该精灵的系别。\n若满足任务要求，即可在「大世界观察笔记」活动界面中领取奖励。\n一起来观察不同系别带给精灵的影响吧~",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-23 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 48,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_StageAward.UMG_Activity_StageAward_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jinglingyangcheng2_png.img_jinglingyangcheng2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_jinglingyangcheng1_png.img_jinglingyangcheng1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'",
+    "title_icon_text": "课外练习"
   },
   {
     "id": 1700001,
@@ -1726,6 +2102,78 @@
     "maintab_id": 3,
     "belong_system": 1,
     "priority": 11,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_FashionMall.UMG_Activity_FashionMall_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly2_png.img_PikaMonthly2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly1_png.img_PikaMonthly1_png'"
+  },
+  {
+    "id": 1700013,
+    "activity_type": 17,
+    "base_id": [
+      1700013
+    ],
+    "activity_name": "皮卡月刊上新!",
+    "prompt_text": "皮卡月刊Ver0.4.0",
+    "activity_txt": "★皮卡月刊上新，最新组合包限时售卖中★",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-09-25 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 75,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_FashionMall.UMG_Activity_FashionMall_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly2_png.img_PikaMonthly2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly1_png.img_PikaMonthly1_png'"
+  },
+  {
+    "id": 1700014,
+    "activity_type": 17,
+    "base_id": [
+      1700014
+    ],
+    "activity_name": "皮卡月刊上新!",
+    "prompt_text": "皮卡月刊Ver0.4.1",
+    "activity_txt": "★皮卡月刊上新，最新组合包限时售卖中★",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 75,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_FashionMall.UMG_Activity_FashionMall_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly2_png.img_PikaMonthly2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly1_png.img_PikaMonthly1_png'"
+  },
+  {
+    "id": 1700015,
+    "activity_type": 17,
+    "base_id": [
+      1700015
+    ],
+    "activity_name": "皮卡月刊上新!",
+    "prompt_text": "皮卡月刊Ver0.4.2",
+    "activity_txt": "★皮卡月刊上新，最新组合包限时售卖中★",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-23 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 75,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_FashionMall.UMG_Activity_FashionMall_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly2_png.img_PikaMonthly2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly1_png.img_PikaMonthly1_png'"
+  },
+  {
+    "id": 1700016,
+    "activity_type": 17,
+    "base_id": [
+      1700016
+    ],
+    "activity_name": "皮卡月刊上新!",
+    "prompt_text": "皮卡月刊Ver0.4.3",
+    "activity_txt": "★皮卡月刊上新，最新组合包限时售卖中★",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 75,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_FashionMall.UMG_Activity_FashionMall_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly2_png.img_PikaMonthly2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PikaMonthly1_png.img_PikaMonthly1_png'"
@@ -2224,6 +2672,174 @@
     "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
     "appear_time": "2026-09-04 04:00:00",
     "disappear_time": "2026-09-07 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800026,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-09-11 04:00:00",
+    "disappear_time": "2026-09-14 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800027,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-09-21 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800028,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800029,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-08 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800030,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-12 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800031,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-19 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800032,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-26 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 100,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Hatching.UMG_Activity_Hatching_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching2_png.img_hatching2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_hatching1_png.img_hatching1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件"
+  },
+  {
+    "id": 1800033,
+    "activity_type": 18,
+    "base_id": [
+      1800002
+    ],
+    "activity_name": "500%孵蛋加速日",
+    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-02 03:59:59",
     "world_level_required": 1,
     "maintab_id": 2,
     "belong_system": 1,
@@ -3233,6 +3849,347 @@
     ]
   },
   {
+    "id": 1900028,
+    "activity_type": 19,
+    "base_id": [
+      1900028
+    ],
+    "activity_name": "小黑猫大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「小黑猫」、「黑猫巫师」\n\n<span color=\"#d56c1f\">出没关键词</>\n「圣所前哨」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-19 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606415,
+          2606416,
+          2606417,
+          2606418,
+          2606419,
+          2606420,
+          2606421,
+          2606422,
+          2606423,
+          2606424,
+          2606425,
+          2606426,
+          2606427,
+          2606428
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900029,
+    "activity_type": 19,
+    "base_id": [
+      1900029
+    ],
+    "activity_name": "叮叮卯大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「叮叮卯」、「飞飞钥」\n\n<span color=\"#d56c1f\">出没关键词</>\n「仪式镇」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年09月25日04:00-2026年09月28日03:59(UTC+8) 刺轮砣大量出没\n2026年10月01日04:00-2026年10月08日03:59(UTC+8) 逗逗大量出没\n2026年10月09日04:00-2026年10月12日03:59(UTC+8) 瑰眼仔大量出没\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-09-21 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606429,
+          2606430,
+          2606431,
+          2606432,
+          2606433,
+          2606434,
+          2606435,
+          2606436,
+          2606437,
+          2606438,
+          2606439,
+          2606440,
+          2606441,
+          2606442
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900030,
+    "activity_type": 19,
+    "base_id": [
+      1900030
+    ],
+    "activity_name": "刺轮砣大量出没？！",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n刺轮砣（上弦的样子）频繁出没",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「刺轮砣（上弦的样子）」、「月亮砣（上弦的样子）」\n\n<span color=\"#d56c1f\">出没关键词</>\n「彼得大道」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月01日04:00-2026年10月08日03:59(UTC+8) 逗逗大量出没\n2026年10月09日04:00-2026年10月12日03:59(UTC+8) 瑰眼仔大量出没\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 499,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606443,
+          2606444,
+          2606445,
+          2606446,
+          2606447,
+          2606448,
+          2606449,
+          2606450,
+          2606451,
+          2606452,
+          2606453,
+          2606454,
+          2606455,
+          2606456
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900031,
+    "activity_type": 19,
+    "base_id": [
+      1900031
+    ],
+    "activity_name": "逗逗大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「逗逗」、「气球猫」、「梦想三三」\n\n<span color=\"#d56c1f\">出没关键词</>\n「晨曦山」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月09日04:00-2026年10月12日03:59(UTC+8) 瑰眼仔大量出没\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-08 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606457,
+          2606458,
+          2606459,
+          2606460,
+          2606461,
+          2606462,
+          2606463,
+          2606464,
+          2606465,
+          2606466,
+          2606467,
+          2606468,
+          2606469,
+          2606470,
+          2606471
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900032,
+    "activity_type": 19,
+    "base_id": [
+      1900032
+    ],
+    "activity_name": "瑰眼仔大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「瑰眼仔」、「耳翎瑰魅」、「邪眼巨魔」\n\n<span color=\"#d56c1f\">出没关键词</>\n「迷雾之森」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-12 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606472,
+          2606473,
+          2606474,
+          2606475,
+          2606476,
+          2606477,
+          2606478,
+          2606479,
+          2606480,
+          2606481,
+          2606482,
+          2606483,
+          2606484,
+          2606485,
+          2606486
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900033,
+    "activity_type": 19,
+    "base_id": [
+      1900033
+    ],
+    "activity_name": "小灵菇大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「小灵菇」、「幻灵菇」、「幻影灵菇」\n\n<span color=\"#d56c1f\">出没关键词</>\n「旧飞艇航道」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年09月18日04:00-2026年09月21日03:59(UTC+8) 叮叮卯大量出没\n2026年09月25日04:00-2026年09月28日03:59(UTC+8) 刺轮砣大量出没\n2026年10月01日04:00-2026年10月08日03:59(UTC+8) 逗逗大量出没\n2026年10月09日04:00-2026年10月12日03:59(UTC+8) 瑰眼仔大量出没\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-09-11 04:00:00",
+    "disappear_time": "2026-09-14 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606487,
+          2606488,
+          2606489,
+          2606490,
+          2606491,
+          2606492,
+          2606493,
+          2606494,
+          2606495,
+          2606496,
+          2606497,
+          2606498,
+          2606499,
+          2606500,
+          2606501
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900034,
+    "activity_type": 19,
+    "base_id": [
+      1900034
+    ],
+    "activity_name": "芽眼魔大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「芽眼魔」、「叶眼魔」、「障眼魔」\n\n<span color=\"#d56c1f\">出没关键词</>\n「淘晶镇」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-26 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606502,
+          2606503,
+          2606504,
+          2606505,
+          2606506,
+          2606507,
+          2606508,
+          2606509,
+          2606510,
+          2606511,
+          2606512,
+          2606513,
+          2606514,
+          2606515,
+          2606516
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900035,
+    "activity_type": 19,
+    "base_id": [
+      1900035
+    ],
+    "activity_name": "觅觅蝠大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n出现了精灵频繁出没的奇观",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「觅觅蝠」、「翻翻蝠」、「夜游魔」\n\n<span color=\"#d56c1f\">出没关键词</>\n「威廉古堡」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-02 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606517,
+          2606518,
+          2606519,
+          2606520,
+          2606521,
+          2606522,
+          2606523,
+          2606524,
+          2606525,
+          2606526,
+          2606527,
+          2606528,
+          2606529,
+          2606530,
+          2606531
+        ]
+      }
+    ]
+  },
+  {
     "id": 1900036,
     "activity_type": 19,
     "base_id": [
@@ -3314,6 +4271,48 @@
           2606559,
           2606560,
           2606561
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1900038,
+    "activity_type": 19,
+    "base_id": [
+      1900038
+    ],
+    "activity_name": "刺轮砣大量出没",
+    "prompt_text": "近期，世界某处产生了未知的魔法异动\n刺轮砣（下弦的样子）频繁出没",
+    "activity_txt": "<span color=\"#d56c1f\">活动精灵</>\n「刺轮砣（下弦的样子）」、「月亮砣（下弦的样子）」\n\n<span color=\"#d56c1f\">出没关键词</>\n「沉船旋涡」\n\n<span color=\"#d56c1f\">寻找精灵</>\n点击活动界面【寻找精灵】按钮，可以便捷找到精灵位置喔~\n\n<span color=\"#d56c1f\">活动预告</>\n2026年10月01日04:00-2026年10月08日03:59(UTC+8) 逗逗大量出没\n2026年10月09日04:00-2026年10月12日03:59(UTC+8) 瑰眼仔大量出没\n2026年10月16日04:00-2026年10月19日03:59(UTC+8) 小黑猫大量出没\n2026年10月23日04:00-2026年10月26日03:59(UTC+8) 芽眼魔大量出没\n2026年10月30日04:00-2026年11月02日03:59(UTC+8) 觅觅蝠大量出没",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Kitten.UMG_Activity_Kitten_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_BgSnow.img_BgSnow'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha2_png.img_diaocha2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_diaocha1_png.img_diaocha1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tujizuoye_png.img_tujizuoye_png'",
+    "title_icon_text": "周末事件",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2606562,
+          2606563,
+          2606564,
+          2606565,
+          2606566,
+          2606567,
+          2606568,
+          2606569,
+          2606570,
+          2606571,
+          2606572,
+          2606573,
+          2606574,
+          2606575
         ]
       }
     ]
@@ -3607,6 +4606,102 @@
     "title_icon_text": "压轴题"
   },
   {
+    "id": 2000014,
+    "activity_type": 20,
+    "base_id": [
+      2000014
+    ],
+    "activity_name": "命定花种",
+    "prompt_text": "「危险警报—————」\n高难花种来袭！！",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n点击【前往活动】，挑战置顶的「命定花种」。\n在活动期间，「命定花种」可重复挑战。\n\n<span color=\"#d56c1f\">奖励说明</>\n·首通奖励：活动期间<span color=\"#d56c1f\">首次击败</>对应的命定花种精灵后可获得。\n·奖牌奖励：活动期间使用<span color=\"#d56c1f\">尚未拥有</>此奖牌的精灵家族，满足<span color=\"#d56c1f\">单人挑战、精灵搭档未力竭、成功击败并捕捉命定花种精灵</>后获得。\n注：\n·活动期间每个命定花种的奖牌获取次数<span color=\"#d56c1f\">限1次</>。\n·本奖牌将与精灵家族绑定，后续重复遇到此家族的精灵都会拥有此奖牌。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 3,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 70,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_RoyalGriffin.UMG_Activity_RoyalGriffin_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti2_png.img_yazhouti2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti1_png.img_yazhouti1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti_png.img_yazhouti_png'",
+    "title_icon_text": "压轴题"
+  },
+  {
+    "id": 2000015,
+    "activity_type": 20,
+    "base_id": [
+      2000015
+    ],
+    "activity_name": "命定花种",
+    "prompt_text": "「危险警报—————」\n高难花种来袭！！",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n点击【前往活动】，挑战置顶的「命定花种」。\n在活动期间，「命定花种」可重复挑战。\n\n<span color=\"#d56c1f\">奖励说明</>\n·首通奖励：活动期间<span color=\"#d56c1f\">首次击败</>对应的命定花种精灵后可获得。\n·奖牌奖励：活动期间使用<span color=\"#d56c1f\">尚未拥有</>此奖牌的精灵家族，满足<span color=\"#d56c1f\">单人挑战、精灵搭档未力竭、成功击败并捕捉命定花种精灵</>后获得。\n注：\n·活动期间每个命定花种的奖牌获取次数<span color=\"#d56c1f\">限1次</>。\n·本奖牌将与精灵家族绑定，后续重复遇到此家族的精灵都会拥有此奖牌。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 3,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 70,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_RoyalGriffin.UMG_Activity_RoyalGriffin_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti2_png.img_yazhouti2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti1_png.img_yazhouti1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti_png.img_yazhouti_png'",
+    "title_icon_text": "压轴题"
+  },
+  {
+    "id": 2000016,
+    "activity_type": 20,
+    "base_id": [
+      2000016
+    ],
+    "activity_name": "命定花种",
+    "prompt_text": "「危险警报—————」\n高难花种来袭！！",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n点击【前往活动】，挑战置顶的「命定花种」。\n在活动期间，「命定花种」可重复挑战。\n\n<span color=\"#d56c1f\">奖励说明</>\n·首通奖励：活动期间<span color=\"#d56c1f\">首次击败</>对应的命定花种精灵后可获得。\n·奖牌奖励：活动期间使用<span color=\"#d56c1f\">尚未拥有</>此奖牌的精灵家族，满足<span color=\"#d56c1f\">单人挑战、精灵搭档未力竭、成功击败并捕捉命定花种精灵</>后获得。\n注：\n·活动期间每个命定花种的奖牌获取次数<span color=\"#d56c1f\">限1次</>。\n·本奖牌将与精灵家族绑定，后续重复遇到此家族的精灵都会拥有此奖牌。",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-23 03:59:59",
+    "world_level_required": 3,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 70,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_RoyalGriffin.UMG_Activity_RoyalGriffin_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti2_png.img_yazhouti2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti1_png.img_yazhouti1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti_png.img_yazhouti_png'",
+    "title_icon_text": "压轴题"
+  },
+  {
+    "id": 2000017,
+    "activity_type": 20,
+    "base_id": [
+      2000017
+    ],
+    "activity_name": "命定花种",
+    "prompt_text": "「危险警报—————」\n高难花种来袭！！",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n点击【前往活动】，挑战置顶的「命定花种」。\n在活动期间，「命定花种」可重复挑战。\n\n<span color=\"#d56c1f\">奖励说明</>\n·首通奖励：活动期间<span color=\"#d56c1f\">首次击败</>对应的命定花种精灵后可获得。\n·奖牌奖励：活动期间使用<span color=\"#d56c1f\">尚未拥有</>此奖牌的精灵家族，满足<span color=\"#d56c1f\">单人挑战、精灵搭档未力竭、成功击败并捕捉命定花种精灵</>后获得。\n注：\n·活动期间每个命定花种的奖牌获取次数<span color=\"#d56c1f\">限1次</>。\n·本奖牌将与精灵家族绑定，后续重复遇到此家族的精灵都会拥有此奖牌。",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "world_level_required": 3,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 70,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_RoyalGriffin.UMG_Activity_RoyalGriffin_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti2_png.img_yazhouti2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti1_png.img_yazhouti1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yazhouti_png.img_yazhouti_png'",
+    "title_icon_text": "压轴题"
+  },
+  {
     "id": 2100001,
     "activity_type": 21,
     "base_id": [
@@ -3731,6 +4826,48 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_baotuan1_png.img_baotuan1_png'"
   },
   {
+    "id": 2100009,
+    "activity_type": 21,
+    "base_id": [
+      2100009
+    ],
+    "activity_name": "精灵抱抱团集合!",
+    "prompt_text": "本期抱团目标——「金秋萌友会」\n集齐所有成员可获得抱团奖励",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n收集所有活动精灵，可领取抱团奖励。\n精灵立绘右下角设有两种不同的按钮：\n· 显示为【追踪】图标时，点击可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。\n· 不过身处副本时，无法追踪到精灵。可以在离开副本后，再次点击进行追踪。\n· 部分精灵被完全捕捉后，需要一定的重置时间才会刷出，可以晚点再来看看~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~\n· 显示为【线索】图标时，点击可查看精灵的踪迹线索。",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 49,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ElfCollection.UMG_Activity_ElfCollection_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_jinglingshou_bg2.img_jinglingshou_bg2'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_baotuan2_png.img_baotuan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_baotuan1_png.img_baotuan1_png'"
+  },
+  {
+    "id": 2100010,
+    "activity_type": 21,
+    "base_id": [
+      2100010
+    ],
+    "activity_name": "精灵抱抱团集合!",
+    "prompt_text": "本期抱团目标——「调皮捣蛋会​」\n集齐所有成员可获得抱团奖励",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n收集所有活动精灵，可领取抱团奖励。\n精灵立绘右下角设有两种不同的按钮：\n· 显示为【追踪】图标时，点击可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。\n· 不过身处副本时，无法追踪到精灵。可以在离开副本后，再次点击进行追踪。\n· 部分精灵被完全捕捉后，需要一定的重置时间才会刷出，可以晚点再来看看~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~\n· 显示为【线索】图标时，点击可查看精灵的踪迹线索。",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-06 03:59:59",
+    "world_level_required": 1,
+    "ban_text": "未解锁",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 49,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ElfCollection.UMG_Activity_ElfCollection_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_jinglingshou_bg2.img_jinglingshou_bg2'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_baotuan2_png.img_baotuan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_baotuan1_png.img_baotuan1_png'"
+  },
+  {
     "id": 2500001,
     "activity_type": 25,
     "base_id": [
@@ -3809,6 +4946,25 @@
     "activity_txt": "「洛克王国：世界」 典藏赛季徽章礼盒，限时火热售卖中！  \n\n<span color=\"#d56c1f\">活动时间</>\n2026年7月16日04:00-2026年9月9日21:00\n\n <span color=\"#d56c1f\">温馨提示</>\n「S3徽章购买凭证自选」道具可在「幻梦通行证」基础礼券等级达到10级后<span color=\"#d56c1f\">在活动页面领取</>。未完成选择的凭证可前往背包内完成选择。\n\n打开「S3徽章购买凭证自选」后，您可以选择胡桃王子或离心舞者购买凭证道具，一旦选择后无法重置、更改。\n选择「胡桃王子徽章购买凭证」，可前往周边商城购买「胡桃王子徽章」；选择「离心舞者徽章购买凭证」，可前往周边商城购买「离心舞者徽章」；\n每个游戏账号<span color=\"#d56c1f\">仅可购买2枚所选凭证对应的徽章</>，请谨慎选择。\n\n徽章礼盒现货数量有限，如遇现货售罄，可选择对应的预售批次进行购买，发货时间以周边商城提示为准。\n实体徽章售卖截止时间为9月9日21:00，请各位小洛克留意并提前预留周边商城选购时间。 \n\n更多详情可前往「洛克王国：世界」 周边商城查看，喜欢的小洛克不要错过~",
     "appear_time": "2026-07-16 04:00:00",
     "disappear_time": "2026-09-09 20:59:59",
+    "world_level_required": 1,
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 29,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BPBadge.UMG_Activity_BPBadge_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
+  },
+  {
+    "id": 2500005,
+    "activity_type": 25,
+    "base_id": [
+      2500005
+    ],
+    "activity_name": "周边屋·徽章上新",
+    "prompt_text": "月涌狂想「典藏赛季徽章礼盒」，限时售卖中!\n「月涌通行证」基础礼券10级解锁购买资格!\n快前往官方周边商城选购，纪念这段美好记忆",
+    "activity_txt": "「洛克王国：世界」 典藏赛季徽章礼盒，限时火热售卖中！  \n\n<span color=\"#d56c1f\">活动时间</>\n2026年9月10日04:00-2026年11月4日21:00\n\n <span color=\"#d56c1f\">温馨提示</>\n「S4徽章凭证自选」道具可在「月涌通行证」基础礼券等级达到10级后<span color=\"#d56c1f\">在活动页面领取</>。未完成选择的凭证可前往背包内完成选择。\n\n打开「S4徽章凭证自选」后，您可以选择圣凯布米龙或月使鹭纳购买凭证道具，一旦选择后无法重置、更改。\n选择「圣凯布米龙徽章凭证」，可前往周边商城购买「圣凯布米龙徽章」；选择「月使鹭纳徽章凭证」，可前往周边商城购买「月使鹭纳徽章」；\n每个游戏账号<span color=\"#d56c1f\">仅可购买2枚所选凭证对应的徽章</>，请谨慎选择。\n\n徽章礼盒现货数量有限，如遇现货售罄，可选择对应的预售批次进行购买，发货时间以周边商城提示为准。\n实体徽章售卖截止时间为11月4日21:00，请各位小洛克留意并提前预留周边商城选购时间。 \n\n更多详情可前往「洛克王国：世界」 周边商城查看，喜欢的小洛克不要错过~",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-04 20:59:59",
     "world_level_required": 1,
     "maintab_id": 3,
     "belong_system": 1,
@@ -4402,6 +5558,166 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
   },
   {
+    "id": 2600038,
+    "activity_type": 26,
+    "base_id": [
+      2600064
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "9月11日-9月13日「暗星球」大量上新\n等你来购买!",
+    "activity_txt": "9月11日-9月13日期间，远行商人每日上架200个<span color=\"#d56c1f\">「暗星球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-09-11 04:00:00",
+    "disappear_time": "2026-09-13 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600039,
+    "activity_type": 26,
+    "base_id": [
+      2600065
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "9月18日-9月20日「变幻球」、「淘沙球」大量上新\n等你来购买!",
+    "activity_txt": "9月18日-9月20日期间，远行商人每日上架100个<span color=\"#d56c1f\">「变幻球」、「淘沙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-09-20 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600040,
+    "activity_type": 26,
+    "base_id": [
+      2600066
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "9月25日-9月27日「绝缘球」、「美妙球」大量上新\n等你来购买!",
+    "activity_txt": "9月25日-9月27日期间，远行商人每日上架200个<span color=\"#d56c1f\">「绝缘球」、「美妙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-09-27 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600041,
+    "activity_type": 26,
+    "base_id": [
+      2600067
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "10月1日-10月7日「美妙球」大量上新\n等你来购买!",
+    "activity_txt": "10月1日-10月7日期间，远行商人每日上架200个<span color=\"#d56c1f\">「美妙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-07 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600042,
+    "activity_type": 26,
+    "base_id": [
+      2600068
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "10月9日-10月11日「暗星球」「淘沙球」大量上新\n等你来购买!",
+    "activity_txt": "10月9日-10月11日期间，远行商人每日上架100个<span color=\"#d56c1f\">「暗星球」、「淘沙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-11 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600043,
+    "activity_type": 26,
+    "base_id": [
+      2600069
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "10月16日-10月18日「美妙球」大量上新\n等你来购买!",
+    "activity_txt": "10月16日-10月18日期间，远行商人每日上架200个<span color=\"#d56c1f\">「美妙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-18 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600044,
+    "activity_type": 26,
+    "base_id": [
+      2600070
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "10月23日-10月25日「暗星球」「网兜球」大量上新\n等你来购买!",
+    "activity_txt": "10月23日-10月25日期间，远行商人每日上架100个<span color=\"#d56c1f\">「暗星球」、「网兜球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-25 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
+    "id": 2600045,
+    "activity_type": 26,
+    "base_id": [
+      2600071
+    ],
+    "activity_name": "远行商人上新!",
+    "prompt_text": "10月30日-11月1日「网兜球」大量上新\n等你来购买!",
+    "activity_txt": "10月30日-11月1日期间，远行商人每日上架200个<span color=\"#d56c1f\">「网兜球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-01 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 450,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Foreshow.UMG_Activity_Foreshow_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_yuanxingshangren_bg.img_yuanxingshangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshangren2_png.img_yuanxingshangren2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuanxingshengren1_png.img_yuanxingshengren1_png'"
+  },
+  {
     "id": 2600062,
     "activity_type": 26,
     "base_id": [
@@ -4451,13 +5767,35 @@
     "prompt_text": "结伴同行，旅途更添乐趣\n邀请好友注册领「爱心炫彩蛋」\n共赴精灵大世界冒险！",
     "activity_txt": "结伴同行，邀请好友共赴精灵大世界冒险！\n活动分为邀请人和被邀请人，具体规则如下:\n\n<span color=\"#d56c1f\">邀请人活动说明</>\n活动期间，邀请好友注册/回归，满足条件后即可领取对应奖励：\n· 满足邀请注册条件可领取集结专属礼包，每人最多可领取3份奖励，成功邀请3位好友达成注册条件还可额外解锁完美集结礼「爱心炫彩蛋×1」；\n· 满足邀请回归条件可领取同行专属礼包，每人最多可领取3份奖励。\n\n<span color=\"#d56c1f\">被邀请人活动说明</>\n活动期间，与邀请人完成绑定，满足条件后即可领取对应注册/回归奖励：\n· 新用户：在未注册状态下与好友绑定，达成对应条件可领取专属注册礼包及红包奖励，红包数量有限，同一设备/IP仅限领取1次，先到先得，发完即止；\n· 回归用户：满足回归条件的用户通过该活动页面与好友绑定后回归游戏，可领取回归专属礼包。",
     "appear_time": "2026-08-21 04:00:00",
-    "disappear_time": "2026-09-10 03:59:59",
+    "disappear_time": "2026-09-20 03:59:59",
     "maintab_id": 1,
     "belong_system": 1,
     "priority": 81,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_Referral.UMG_Activity_Referral_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing2_png.img_tongxing2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_tongxing1_png.img_tongxing1_png'"
+  },
+  {
+    "id": 2600081,
+    "activity_type": 26,
+    "base_id": [
+      2600081
+    ],
+    "activity_name": "留言:秋天的笔记",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2650066
+        ]
+      }
+    ]
   },
   {
     "id": 2700003,
@@ -4541,7 +5879,6 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFlowerSeed/Textures/img_FlowerSeedBg_Griffin.img_FlowerSeedBg_Griffin'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'",
-    "refresh_type": 1,
     "daily_refresh_event_group": [
       {
         "daily_refresh_start_time": "10:00:00",
@@ -4573,8 +5910,7 @@
     "priority": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
-    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'",
-    "marquee_conf_id": 1
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
   },
   {
     "id": 2701001,
@@ -4595,6 +5931,25 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
   },
   {
+    "id": 2701002,
+    "activity_type": 27,
+    "base_id": [
+      2701002
+    ],
+    "activity_name": "休憩时刻",
+    "prompt_text": "赛季大厅掉落&晚间休息",
+    "activity_txt": "赛季大厅掉落&晚间休息",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
+  },
+  {
     "id": 2701003,
     "activity_type": 27,
     "base_id": [
@@ -4603,6 +5958,21 @@
     "activity_name": "潮汐集市-浪花币额外掉落",
     "appear_time": "2026-08-21 04:00:00",
     "disappear_time": "2026-09-11 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 2701004,
+    "activity_type": 27,
+    "base_id": [
+      2701004
+    ],
+    "activity_name": "月下决斗-捕捉精灵掉落打气气球",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
@@ -4676,6 +6046,25 @@
     ]
   },
   {
+    "id": 3000001,
+    "activity_type": 30,
+    "base_id": [
+      3000001
+    ],
+    "activity_name": "【测试活动】猫头鹰商店",
+    "prompt_text": "新上架的潮流商品！\n走过路过不要错过~",
+    "activity_txt": "可前往npc处购买最新潮流商品",
+    "appear_time": "2025-06-20 00:00:00",
+    "disappear_time": "2025-07-19 23:59:59",
+    "world_level_required": 1,
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_PointsStore.UMG_Activity_PointsStore_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_maotouyingshangdian2_png.img_maotouyingshangdian2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_maotouyingshangdian1_png.img_maotouyingshangdian1_png'"
+  },
+  {
     "id": 3200001,
     "activity_type": 32,
     "base_id": [
@@ -4684,7 +6073,7 @@
     "activity_name": "新生特邀展",
     "activity_txt": "<span color=\"#d56c1f\">阶段解锁</>\n「精灵」：20级晋升见习魔法生后解锁\n「好友」：30级晋升精灵研究员后解锁\n\n<span color=\"#d56c1f\">活动结束</>\n领取完所有奖励后，活动界面将于次日04:00关闭。",
     "success_if_disappear": true,
-    "maintab_id": 1,
+    "maintab_id": 3,
     "belong_system": 1,
     "priority": 490,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_NoviceAchievement.UMG_Activity_NoviceAchievement_C'",
@@ -5175,6 +6564,158 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
   },
   {
+    "id": 3300026,
+    "activity_type": 33,
+    "base_id": [
+      3300026
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-09-11 04:00:00",
+    "disappear_time": "2026-09-14 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300027,
+    "activity_type": 33,
+    "base_id": [
+      3300027
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-09-21 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300028,
+    "activity_type": 33,
+    "base_id": [
+      3300028
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300029,
+    "activity_type": 33,
+    "base_id": [
+      3300029
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-08 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300030,
+    "activity_type": 33,
+    "base_id": [
+      3300030
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-12 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300031,
+    "activity_type": 33,
+    "base_id": [
+      3300031
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-19 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300032,
+    "activity_type": 33,
+    "base_id": [
+      3300032
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-26 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
+    "id": 3300033,
+    "activity_type": 33,
+    "base_id": [
+      3300033
+    ],
+    "activity_name": "闪耀周末",
+    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
+    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-02 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 2,
+    "belong_system": 1,
+    "priority": 300,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_ShiningWeekend.UMG_Activity_ShiningWeekend_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo2_png.img_shanyaozhoumo2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_shanyaozhoumo1_png.img_shanyaozhoumo1_png'"
+  },
+  {
     "id": 3400001,
     "activity_type": 34,
     "base_id": [
@@ -5182,7 +6723,7 @@
     ],
     "activity_name": "绩点大赛",
     "prompt_text": "记得把「好奇」别在衣领\n让「勇敢」装满行囊",
-    "activity_txt": "欢迎开启你的“魔法学院四大分院之旅”！请跟随以下指引，轻松参与并收集奖励：\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第一步：启程！领取你的绩点大赛课表</>\n完成“领取课表”任务，即可激活本周目标。你的绩点大赛课表上会出现4个课程任务，分为主课与选修。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第二步：课程进行中！大赛活跃度收集</>\n<span color=\"#d56c1f\">任务刷新</>\n· 每周一 04:00(UTC+8)所有任务会自动重置更新。\n· 每周有4次手动调整任务的机会。刷新后，新任务将替代原有任务，原任务进度清零。主课刷新后仍为主课，选修刷新后可能变为选修或主课，完成主课可积累更多活跃度。<span color=\"#d56c1f\">已完成或已领奖的任务不可刷新。</>\n<span color=\"#d56c1f\">大赛活跃奖励</>\n· 完成任务增加「大赛活跃度」，累积到指定数量可领取「绩点」奖励，累计到600可领取<span color=\"#d56c1f\">专属分院服套装​</>。\n· 「绩点」可于活动界面前往「绩点商店」兑换奖励。此外，生态园「露比」、仪式厅「瓦雷莉」、竞技场「山姆森」处均藏有特色好物，记得探索兑换~\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第三步：参与课间活动与挑战</>\n<span color=\"#d56c1f\">课间活动</>\n课间总有新奇趣事发生，跟随指引去一探究竟吧～\n<span color=\"#d56c1f\">挑战分院代表</>\n分院代表设有4个难度等级，必须从简单到困难依次解锁，不可跳级挑战。（稳扎稳打才是魔法师的修养喔～）\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第四步：交换访学！前往新分院</>\n当你获得本学院分院服套装并完成全部课间活动后，即可申请前往其他分院访学！\n<span color=\"#d56c1f\">重要提示</>\n访学后，当前积累的大赛活跃度会清零重置，需在新分院重新积攒。\n<span color=\"#d56c1f\">全新开始</>\n同时，你将收到全新的课表任务、课间活动和分院代表挑战。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">最终目标：完成之旅</>\n当你体验完四个分院、集齐4套分院服、完成所有课间活动与分院代表挑战，并兑换完绩点商店所有奖励后，活动界面将于次日04:00关闭。",
+    "activity_txt": "欢迎开启你的“魔法学院四大分院之旅”！请跟随以下指引，轻松参与并收集奖励：\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第一步：启程！领取你的绩点大赛课表</>\n完成“领取课表”任务，即可激活本周目标。你的绩点大赛课表上会出现4个课程任务，分为主课与选修。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第二步：课程进行中！大赛活跃度收集</>\n<span color=\"#d56c1f\">任务刷新</>\n· 每周一 04:00(UTC+8)所有任务会自动重置更新。\n· 每周有4次手动调整任务的机会。刷新后，新任务将替代原有任务，原任务进度清零。主课刷新后仍为主课，选修刷新后可能变为选修或主课，完成主课可积累更多活跃度。<span color=\"#d56c1f\">已完成或已领奖的任务不可刷新。</>\n<span color=\"#d56c1f\">大赛活跃奖励</>\n· 完成任务增加「大赛活跃度」，累积到指定数量可领取「绩点」奖励，累计到600可领取<span color=\"#d56c1f\">专属分院服套装​</>。\n· 「绩点」可于活动界面前往「绩点商店」兑换奖励。此外，生态园「露比」、仪式厅「瓦雷莉」、竞技场「山姆森」处均藏有特色好物，记得探索兑换~\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第三步：参与课间活动与挑战</>\n<span color=\"#d56c1f\">课间活动</>\n课间总有新奇趣事发生，跟随指引去一探究竟吧～\n<span color=\"#d56c1f\">挑战分院代表</>\n分院代表设有4个难度等级，必须从简单到困难依次解锁，不可跳级挑战。（稳扎稳打才是魔法师的修养喔～）\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">第四步：交换访学！前往新分院</>\n当你获得本学院分院服套装并完成全部课间活动后，即可申请前往其他分院访学！\n<span color=\"#d56c1f\">重要提示</>\n访学后，当前积累的大赛活跃度会清零重置，需在新分院重新积攒。\n<span color=\"#d56c1f\">全新开始</>\n同时，你将收到全新的课表任务、课间活动和分院代表挑战。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">下一步：研习开启！</>\n当你获得4套分院服后，将可以选择加入分学院，开启分学院的研习任务，解锁专属特权！\n\n当你体验完四个分院、集齐4套分院服、完成所有课间活动与分院代表挑战，并兑换完绩点商店所有奖励后，绩点大赛活动界面将于次日04:00关闭。",
     "success_if_disappear": true,
     "delete_bagitem": [
       320022
@@ -5196,6 +6737,23 @@
     "refresh_event_group": [
       {}
     ]
+  },
+  {
+    "id": 3400002,
+    "activity_type": 73,
+    "base_id": [
+      3400002
+    ],
+    "activity_name": "加入分学院!",
+    "prompt_text": "每个分学院都拥有不同的专属特权\n选择适合你的分学院，正式开始课程研习吧！",
+    "activity_txt": "欢迎各位小洛克正式加入分学院！\n\n<span color=\"#d56c1f\">研习奖章</>\n每个分学院将会有三个不同的研习奖章，完成每周研习/赛季研习/无限研习即可获得学分，进而提升对应的奖章等级。初次加入学院时所有奖章默认0级，最高可提升至III级。每个奖章等级互相独立，奖章等级仅计入从对应研习中获得的学分。奖章等级越高，可获得的奖励越丰富。\n\n<span color=\"#d56c1f\">研习任务</>\n每个学院都会有对应的每周研习、赛季研习、无限研习。完成研习任务后将会获得学分奖励和分光水晶奖励，其中学分奖励将会在完成时自动领取，而分光水晶奖励需要手动进行领取。任务刷新时，未领取的本周奖励和赛季奖励会通过邮件补发。\n\n<span color=\"#d56c1f\">学期奖励</>\n每个学期时长为两个赛季，学期结束后将会结算本学期的奖励，奖励包含学院专属名片、学期专属时装、学期专属奖励和学院积分卡等。玩家可以在学期结束后找到所在分院的分学院代表进行领取。需要注意的是，<span color=\"#d56c1f\">每个学院之间学分不会共享</>，若曾经有过多个分学院的学习经历，学期结束时<span color=\"#d56c1f\">奖励只会按照最终所在的分学院进行发放</>，记得去自己最喜欢的学院哦！\n\n<span color=\"#d56c1f\">切换学院</>\n在魔法学院中，每名小洛克都可以切换不同分学院来进行学习，每次切换学院后<span color=\"#d56c1f\">2周内不可以再次切换</>，加入学院就要认真学习！切换学院后，原学院获得的学分将会保留但不再增加，若当前存在未领取的奖励则不可以切换学院，一定要认真想好再切换喔~\n\n若在转学前已完成部分任务，继承规则如下：\n· 每周研习：转学后，当周每周任务会继承转学前已完成的对应进度；\n· 赛季研习：转学后，本学期的赛季任务将会继承转学前已完成的对应进度；\n· 无限研习：不继承转学前的任何进度。",
+    "success_if_disappear": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 460,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_JoinCollege.UMG_Activity_JoinCollege_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijixueyuan2_png.img_saijixueyuan2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijixueyuan1_png.img_saijixueyuan1_png'"
   },
   {
     "id": 3500002,
@@ -5215,13 +6773,7 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonSign.UMG_Activity_SeasonSign_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian2_png.img_zigeliebian2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian1_png.img_zigeliebian1_png'",
-    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'",
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320020
-      }
-    ]
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'"
   },
   {
     "id": 3500003,
@@ -5242,13 +6794,28 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijiqiandao_xueying_bg1.img_saijiqiandao_xueying_bg1'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian2_png.img_zigeliebian2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian1_png.img_zigeliebian1_png'",
-    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'",
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320065
-      }
-    ]
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'"
+  },
+  {
+    "id": 3500004,
+    "activity_type": 35,
+    "base_id": [
+      3500004
+    ],
+    "activity_name": "秋，丰收与机器人",
+    "prompt_text": "秋风掀起遍野麦浪，虫声浅浅，红叶翩跹\n卡洛西亚大陆迎来了满满的丰收\n秋收中的立方人似乎也有一份特别的收获",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n完成任务，获得「印着精灵的小卡」，达到积分档位要求即可兑换奖励。\n登录状态将会在每日04:00刷新，每周任务将在每周一04:00刷新。\n活动结束后，剩余的「印着精灵的小卡」将转化为洛克贝。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 499,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonSign.UMG_Activity_SeasonSign_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijiqiandao_lifangren_bg.img_saijiqiandao_lifangren_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian2_png.img_zigeliebian2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian1_png.img_zigeliebian1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'"
   },
   {
     "id": 3600001,
@@ -5504,12 +7071,6 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_GashaponMachine.UMG_Activity_GashaponMachine_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_liuyi2_png.img_liuyi2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_liuyi1_png.img_liuyi1_png'",
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ],
     "refresh_event_group": [
       {
         "refresh_content": [
@@ -5532,6 +7093,44 @@
         "end_time": "2026-06-12 03:59:59"
       }
     ]
+  },
+  {
+    "id": 4000004,
+    "activity_type": 40,
+    "base_id": [
+      4000004
+    ],
+    "activity_name": "观看:月幕下的决斗",
+    "prompt_text": "■■■欢迎锁定晚间观赛频道■■□\n■■老对手重逢，新故事开场■■\n■先把气打满，晚八点弹幕见□",
+    "activity_txt": "月幕之下，对决将启。每晚八点，不见不散。\n\n<span color=\"#d56c1f\">活动周期</>\n活动持续 14 天，每天 1 场对战，于 20:00 准时开始。\n\n<span color=\"#d56c1f\">如何获得「打气气球」</>\n每天登录：每天可领取 100 个「打气气球」。\n捕捉掉落：活动期间捕捉精灵有 50% 概率掉落1个「打气气球」（每日掉落上限 99 个）。\n\n<span color=\"#d56c1f\">比赛阶段与返还规则</>\n每场比赛分为四个阶段，不同阶段的打气返还比例不同：\n<span color=\"#d56c1f\">阶段Ⅰ选手公布</>\n开启时间：前一天 21:00（首日 04:00）\n猜中返还200% ，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅱ阵容公布</>\n开启时间：12:00\n猜中返还 180%，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅲ技能公布</>\n开启时间：16:00\n猜中返还 150%，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅳ比赛开始</>\n开启时间：20:00\n只能观战，不能打气\n*「打气气球」均在比赛结束后统一返还。\n\n<span color=\"#d56c1f\">打气规则</>\n首次打气：对某一方选手首次打气，至少投出10 个「打气气球」。\n追加打气：追加打气每次至少投出1 个。\n单场上限：单场比赛对双方选手总计最多打气 999 个「打气气球」。\n不可撤回：一旦打气，不可撤回。\n\n<span color=\"#d56c1f\">观看比赛</>\n阶段Ⅳ开启后，点击选手头像旁的【观看】按钮即可进入直播间。\n支持选择不同视角观战，切换视角需退出后重新选择。\n支持发送表情弹幕，也可选择关闭弹幕。\n可在战报中查看每回合的详细记录。\n\n<span color=\"#d56c1f\">气球收益与观赛胜场</>\n比赛结束后，返还当天的「打气气球」。\n给获胜选手打气，且在正式对战期间进行过观战的玩家，闪耀大赛每周挑战中本周胜场 +1。（观战了才算哦，记得来看~）\n周末胜场双倍计算：1 场计 2 场（到达周上限后不再增加）。\n\n<span color=\"#d56c1f\">进度奖励</>\n根据累计「打气气球」数量（累增计数，不算消耗）达到指定档位，即可领取对应奖励。\n\n<span color=\"#d56c1f\">活动结束后</>\n活动结束后，剩余的「打气气球」将按照<span color=\"#d56c1f\">1:1000</>的比例折算为 洛克贝，请前往背包查收。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 475,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_MoonCurtain.UMG_Activity_MoonCurtain_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuemu2_png.img_yuemu2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yuemu1_png.img_yuemu1_png'"
+  },
+  {
+    "id": 4000005,
+    "activity_type": 40,
+    "base_id": [
+      4000005
+    ],
+    "activity_name": "秋日漫游记·导览",
+    "prompt_text": "秋天说：可以偷懒\n于是，留言变成了秋色——\n\n可可果球是个调皮大王，蹦得很高\n一蹦，就蹦进了秋色里——",
+    "activity_txt": "<span color=\"#d56c1f\">观看:月幕下的决斗</>\n趁月亮还没升起来，先为支持的选手打气吧~\n晚八点准时开赛，14天，每晚一场，不见不散。\n<span color=\"#d56c1f\">掀开:可可奇妙盒</>\n获得秋日礼券后，可开启可可奇妙盒，随机抽取奖励。\n<span color=\"#d56c1f\">留言:秋天的笔记</>\n「留言魔法」、「留影魔法」更新秋日外观，限时生效：\n写下的话、留下的影，都会变成秋天的颜色。\n<span color=\"#d56c1f\">可可果通行证</>\n完成每日任务与活动任务，即可累积进度，获得通行证奖励。\n\n——秋天不催人，慢慢玩。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 480,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_AutumnTheme.UMG_Activity_AutumnTheme_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguide2_png.img_kekeguide2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguide1_png.img_kekeguide1_png'"
   },
   {
     "id": 4200001,
@@ -5706,6 +7305,66 @@
     ]
   },
   {
+    "id": 4200007,
+    "activity_type": 42,
+    "base_id": [
+      4200007
+    ],
+    "activity_name": "领地试炼",
+    "prompt_text": "满月砣族群出现，用觉醒精灵获得认可吧！",
+    "activity_txt": "领地试炼玩法中将会挑战特殊的精灵族群，需要击败<span color=\"#d56c1f\">所有的守卫</>后才能挑战首领。\n根据击败对手数量以及通关所使用的回合数情况，将会获取首领的认可度，如果未通关则只能通过击败对手获取认可度。\n根据本期玩法达到的<span color=\"#d56c1f\">最高认可度</>发放多个档位的奖励。\n在领地试炼玩法中，将会生效独特的<span color=\"#d56c1f\">特性共享系统</>，己方登场的两只精灵将会同时拥有彼此的特性，选择合适的阵容搭配更容易获取认可度。\n敌人会携带<span color=\"#d56c1f\">特殊的战斗效果词条</>，提前查看并做好应对策略更容易获取认可度。",
+    "appear_time": "2026-09-18 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 4,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 90,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_TerritoryTrial.UMG_Activity_TerritoryTrial_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_manyuetuo_bg.img_manyuetuo_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_TerritoryTrialIcon2_png.img_TerritoryTrialIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_TerritoryTrialIcon1_png.img_TerritoryTrialIcon1_png'",
+    "title_icon_text": "领地试炼",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          32100007
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4200008,
+    "activity_type": 42,
+    "base_id": [
+      4200008
+    ],
+    "activity_name": "领地试炼",
+    "prompt_text": "烈焰狂战士族群出现，用觉醒精灵获得认可吧！",
+    "activity_txt": "领地试炼玩法中将会挑战特殊的精灵族群，需要击败<span color=\"#d56c1f\">所有的守卫</>后才能挑战首领。\n根据击败对手数量以及通关所使用的回合数情况，将会获取首领的认可度，如果未通关则只能通过击败对手获取认可度。\n根据本期玩法达到的<span color=\"#d56c1f\">最高认可度</>发放多个档位的奖励。\n在领地试炼玩法中，将会生效独特的<span color=\"#d56c1f\">特性共享系统</>，己方登场的两只精灵将会同时拥有彼此的特性，选择合适的阵容搭配更容易获取认可度。\n敌人会携带<span color=\"#d56c1f\">特殊的战斗效果词条</>，提前查看并做好应对策略更容易获取认可度。",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-11-06 03:59:59",
+    "world_level_required": 4,
+    "if_appear": true,
+    "appear_world_level_require": 2,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 90,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_TerritoryTrial.UMG_Activity_TerritoryTrial_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_leiyankuangzhanshi_bg.img_leiyankuangzhanshi_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_TerritoryTrialIcon2_png.img_TerritoryTrialIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_TerritoryTrialIcon1_png.img_TerritoryTrialIcon1_png'",
+    "title_icon_text": "领地试炼",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          32100008
+        ]
+      }
+    ]
+  },
+  {
     "id": 4300001,
     "activity_type": 43,
     "base_id": [
@@ -5754,6 +7413,25 @@
     "activity_txt": "<span color=\"#d56c1f\">活动说明</>\n活动解锁后，小洛克们可选择一只精灵进行祝福，受祝福的精灵将会获得以下奖励：\n· 该精灵将会新增一段特殊的冒险经历：“精灵与你获得了不同寻常的羁绊，这段并肩的时光，成为彼此最珍贵的记忆。”\n· 该精灵所有形态及进化链都会获得一枚“同心相伴”奖牌以及稀有精灵卡牌。\n\n<span color=\"#d56c1f\">祝福规则</>\n· 活动每个赛季都会开启，且只有与小洛克达到满亲密度（与精灵成为亲密无间的搭档）或满星级的精灵才可接受祝福。\n· 同一个精灵家族内的精灵只可被祝福一次，例如在本期活动中为火花进行祝福，则在下期活动则无法为火神进行祝福。",
     "appear_time": "2026-07-16 04:00:00",
     "disappear_time": "2026-09-10 03:59:59",
+    "world_level_required": 2,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 39,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SeasonPetCertification.UMG_Activity_SeasonPetCertification_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PetCertificationIcon2_png.img_PetCertificationIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_PetCertificationIcon1_png.img_PetCertificationIcon1_png'"
+  },
+  {
+    "id": 4300004,
+    "activity_type": 43,
+    "base_id": [
+      4300004
+    ],
+    "activity_name": "为相伴加冕",
+    "prompt_text": "将心意写成祝福\n那些形影不离的陪伴时光\n在此刻温暖绽放~",
+    "activity_txt": "<span color=\"#d56c1f\">活动说明</>\n活动解锁后，小洛克们可选择一只精灵进行祝福，受祝福的精灵将会获得以下奖励：\n· 该精灵将会新增一段特殊的冒险经历：“精灵与你获得了不同寻常的羁绊，这段并肩的时光，成为彼此最珍贵的记忆。”\n· 该精灵所有形态及进化链都会获得一枚“同心相伴”奖牌以及稀有精灵卡牌。\n\n<span color=\"#d56c1f\">祝福规则</>\n· 活动每个赛季都会开启，且只有与小洛克达到满亲密度（与精灵成为亲密无间的搭档）或满星级的精灵才可接受祝福。\n· 同一个精灵家族内的精灵只可被祝福一次，例如在本期活动中为火花进行祝福，则在下期活动则无法为火神进行祝福。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
     "world_level_required": 2,
     "maintab_id": 1,
     "belong_system": 1,
@@ -5991,6 +7669,82 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon1_png.img_FashionPetPhotoIcon1_png'"
   },
   {
+    "id": 4400013,
+    "activity_type": 44,
+    "base_id": [
+      4400013
+    ],
+    "activity_name": "皮卡摄影委托",
+    "prompt_text": "皮卡店长的“时尚画册”，正等待一个封面\n快去捕捉精灵们的灵动瞬间吧！",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n给对应精灵进行拍照即可完成该精灵的拍摄任务（所有进化链精灵都可完成拍摄任务），完成全部拍摄任务可领取活动奖励。\n\n<span color=\"#d56c1f\">玩法说明</>\n拍照的精灵可以是大世界内的精灵或自己已拥有的精灵，还可以是好友的精灵。\n点击精灵立绘右下角的“追踪”按钮，可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。部分情况下可能无法追踪到精灵：\n· 身处副本或家园时，无法追踪到精灵。可以在离开副本或家园后，再次点击进行追踪。\n· 和精灵离的太远或是周围对应精灵已被完全捕捉，也无法追踪到精灵，可以尝试换个区域再次寻找~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 60,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_PikaFashionSurvey.UMG_Activity_PikaFashionSurvey_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon2_png.img_FashionPetPhotoIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon1_png.img_FashionPetPhotoIcon1_png'"
+  },
+  {
+    "id": 4400014,
+    "activity_type": 44,
+    "base_id": [
+      4400014
+    ],
+    "activity_name": "皮卡摄影委托",
+    "prompt_text": "皮卡店长的“时尚画册”，正等待一个封面\n快去捕捉精灵们的灵动瞬间吧！",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n给对应精灵进行拍照即可完成该精灵的拍摄任务（所有进化链精灵都可完成拍摄任务），完成全部拍摄任务可领取活动奖励。\n\n<span color=\"#d56c1f\">玩法说明</>\n拍照的精灵可以是大世界内的精灵或自己已拥有的精灵，还可以是好友的精灵。\n点击精灵立绘右下角的“追踪”按钮，可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。部分情况下可能无法追踪到精灵：\n· 身处副本或家园时，无法追踪到精灵。可以在离开副本或家园后，再次点击进行追踪。\n· 和精灵离的太远或是周围对应精灵已被完全捕捉，也无法追踪到精灵，可以尝试换个区域再次寻找~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 60,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_PikaFashionSurvey.UMG_Activity_PikaFashionSurvey_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon2_png.img_FashionPetPhotoIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon1_png.img_FashionPetPhotoIcon1_png'"
+  },
+  {
+    "id": 4400015,
+    "activity_type": 44,
+    "base_id": [
+      4400015
+    ],
+    "activity_name": "皮卡摄影委托",
+    "prompt_text": "皮卡店长的“时尚画册”，正等待一个封面\n快去捕捉精灵们的灵动瞬间吧！",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n给对应精灵进行拍照即可完成该精灵的拍摄任务（所有进化链精灵都可完成拍摄任务），完成全部拍摄任务可领取活动奖励。\n\n<span color=\"#d56c1f\">玩法说明</>\n拍照的精灵可以是大世界内的精灵或自己已拥有的精灵，还可以是好友的精灵。\n点击精灵立绘右下角的“追踪”按钮，可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。部分情况下可能无法追踪到精灵：\n· 身处副本或家园时，无法追踪到精灵。可以在离开副本或家园后，再次点击进行追踪。\n· 和精灵离的太远或是周围对应精灵已被完全捕捉，也无法追踪到精灵，可以尝试换个区域再次寻找~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-23 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 60,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_PikaFashionSurvey.UMG_Activity_PikaFashionSurvey_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon2_png.img_FashionPetPhotoIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon1_png.img_FashionPetPhotoIcon1_png'"
+  },
+  {
+    "id": 4400016,
+    "activity_type": 44,
+    "base_id": [
+      4400016
+    ],
+    "activity_name": "皮卡摄影委托",
+    "prompt_text": "皮卡店长的“时尚画册”，正等待一个封面\n快去捕捉精灵们的灵动瞬间吧！",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n给对应精灵进行拍照即可完成该精灵的拍摄任务（所有进化链精灵都可完成拍摄任务），完成全部拍摄任务可领取活动奖励。\n\n<span color=\"#d56c1f\">玩法说明</>\n拍照的精灵可以是大世界内的精灵或自己已拥有的精灵，还可以是好友的精灵。\n点击精灵立绘右下角的“追踪”按钮，可在地图上定位该精灵（所在进化链精灵都可被定位追踪）。部分情况下可能无法追踪到精灵：\n· 身处副本或家园时，无法追踪到精灵。可以在离开副本或家园后，再次点击进行追踪。\n· 和精灵离的太远或是周围对应精灵已被完全捕捉，也无法追踪到精灵，可以尝试换个区域再次寻找~\n· <span color=\"#d56c1f\">部分精灵只出没在特定时间段或特定天气</>，暂时找不到的话，可以尝试变更时间或天气后再次寻找~",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 60,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_PikaFashionSurvey.UMG_Activity_PikaFashionSurvey_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon2_png.img_FashionPetPhotoIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_FashionPetPhotoIcon1_png.img_FashionPetPhotoIcon1_png'"
+  },
+  {
     "id": 4500001,
     "activity_type": 46,
     "base_id": [
@@ -6064,7 +7818,6 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_QQMusic.UMG_Activity_QQMusic_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yinlv2_png.img_yinlv2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_yinlv1_png.img_yinlv1_png'",
-    "refresh_type": 1,
     "daily_refresh_event_group": [
       {
         "daily_refresh_start_time": "10:00:00",
@@ -6092,6 +7845,26 @@
     ]
   },
   {
+    "id": 4500004,
+    "activity_type": 61,
+    "base_id": [
+      4500004
+    ],
+    "activity_name": "可可果通行证",
+    "prompt_text": "可可果熟了，攒满一整个秋天——\n慢慢摘，都是你的。",
+    "activity_txt": "秋风把林梢染透，可可果一颗颗压弯了枝头。噜噜翻出那本收了整个秋天的册子，等你一起把它填满。\n每日在王国里走一走、练一练，就能为「可可果通行证」积攒经验、提升手册等级，免费领取养成资源与秋日限定珍品。也可消耗少量洛克钻解锁<span color=\"#d56c1f\">秋日限定手册</>，额外收获对应档位的丰厚奖励。\n\n<span color=\"#d56c1f\">活动规则</>\n<span color=\"#d56c1f\">摘取果实</>：完成「每日任务」与「秋日限定」中的任务即可获得手册经验，每日任务于每日 4:00 刷新，限定任务只需完成一次。\n<span color=\"#d56c1f\">装满行囊</>：手册等级提升后可领取对应等级奖励，免费奖励直接领取；解锁秋日限定手册后，还可领取限定专属奖励。\n\n<span color=\"#d56c1f\">秋日限定</>：「可可果球」、「可可果絮语」奖牌、「溢韵可可果」名片与可可果包挂饰等限定收藏，只在这个秋天等你。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 475,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_qiuri_bg.img_qiuri_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguojie2_png.img_kekeguojie2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguojie1_png.img_kekeguojie1_png'"
+  },
+  {
     "id": 4700001,
     "activity_type": 47,
     "base_id": [
@@ -6104,13 +7877,22 @@
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 1,
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ]
+    "priority": 1
+  },
+  {
+    "id": 4700002,
+    "activity_type": 47,
+    "base_id": [
+      4700002
+    ],
+    "activity_name": "月幕下的决斗-登陆送加气气球",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1
   },
   {
     "id": 4800001,
@@ -6148,13 +7930,7 @@
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 1,
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ]
+    "priority": 1
   },
   {
     "id": 4900002,
@@ -6173,13 +7949,7 @@
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 1,
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ]
+    "priority": 1
   },
   {
     "id": 4900003,
@@ -6198,13 +7968,7 @@
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
-    "priority": 1,
-    "reissue_reward_ignore": [
-      {
-        "goods_type": 1,
-        "goods_id": 320037
-      }
-    ]
+    "priority": 1
   },
   {
     "id": 5000002,
@@ -6235,6 +7999,60 @@
     "activity_txt": "<span color=\"#d56c1f\">一、参与条件</>\n仅对满足<span color=\"#d56c1f\">回归条件</>、成功触发<span color=\"#d56c1f\">重逢契约</>活动的小洛克开放。\n\n<span color=\"#d56c1f\">二、活动持续时间</>\n星光的祝福效果将至少持续14天，持续时间达到14天后，效果将于下一个04:00结束。\n\n<span color=\"#d56c1f\">三、活动规则</>\n活动期间，你与其他小洛克<span color=\"#d56c1f\">同行组队并进行精灵捕捉</>时（即成功触发“<span color=\"#d56c1f\">带带你</>”或“<span color=\"#d56c1f\">求带带</>”，你与队友均可获得<span color=\"#d56c1f\">星光获取效率提升25%</>效果。\n星光加成可与“学院月度补给”、“赛季徽章”中的加成<span color=\"#d56c1f\">叠加计算</>，成长效率更高。\n你可自由勾选<span color=\"#d56c1f\">点亮星光印记</>，在好友列表、大世界等场景显示回归专属星光标识。\n\n<span color=\"#d56c1f\">四、特别提示</>\n星光印记仅为身份展示，不影响其他玩法与对战平衡。\n重逢契约活动结束后，星光的祝福将同时失效。",
     "appear_time": "2026-07-16 04:00:00",
     "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 10,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowStarlight.UMG_Activity_BackflowStarlight_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu2_png.img_xingguangzhufu2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu1_png.img_xingguangzhufu1_png'"
+  },
+  {
+    "id": 5000004,
+    "activity_type": 50,
+    "base_id": [
+      5000004
+    ],
+    "activity_name": "星光的祝福",
+    "prompt_text": "与伙伴同行共沐星光\n同行捕捉共享专属星光加成！",
+    "activity_txt": "<span color=\"#d56c1f\">一、参与条件</>\n仅对满足<span color=\"#d56c1f\">回归条件</>、成功触发<span color=\"#d56c1f\">重逢契约</>活动的小洛克开放。\n\n<span color=\"#d56c1f\">二、活动持续时间</>\n星光的祝福效果将至少持续14天，持续时间达到14天后，效果将于下一个04:00结束。\n\n<span color=\"#d56c1f\">三、活动规则</>\n活动期间，你与其他小洛克<span color=\"#d56c1f\">同行组队并进行精灵捕捉</>时（即成功触发“<span color=\"#d56c1f\">带带你</>”或“<span color=\"#d56c1f\">求带带</>”，你与队友均可获得<span color=\"#d56c1f\">星光获取效率提升25%</>效果。\n星光加成可与“学院月度补给”、“赛季徽章”中的加成<span color=\"#d56c1f\">叠加计算</>，成长效率更高。\n你可自由勾选<span color=\"#d56c1f\">点亮星光印记</>，在好友列表、大世界等场景显示回归专属星光标识。\n\n<span color=\"#d56c1f\">四、特别提示</>\n星光印记仅为身份展示，不影响其他玩法与对战平衡。\n重逢契约活动结束后，星光的祝福将同时失效。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 10,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowStarlight.UMG_Activity_BackflowStarlight_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu2_png.img_xingguangzhufu2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu1_png.img_xingguangzhufu1_png'"
+  },
+  {
+    "id": 5000005,
+    "activity_type": 50,
+    "base_id": [
+      5000005
+    ],
+    "activity_name": "星光的祝福",
+    "prompt_text": "与伙伴同行共沐星光\n同行捕捉共享专属星光加成！",
+    "activity_txt": "<span color=\"#d56c1f\">一、参与条件</>\n仅对满足<span color=\"#d56c1f\">回归条件</>、成功触发<span color=\"#d56c1f\">重逢契约</>活动的小洛克开放。\n\n<span color=\"#d56c1f\">二、活动持续时间</>\n星光的祝福效果将至少持续14天，持续时间达到14天后，效果将于下一个04:00结束。\n\n<span color=\"#d56c1f\">三、活动规则</>\n活动期间，你与其他小洛克<span color=\"#d56c1f\">同行组队并进行精灵捕捉</>时（即成功触发“<span color=\"#d56c1f\">带带你</>”或“<span color=\"#d56c1f\">求带带</>”，你与队友均可获得<span color=\"#d56c1f\">星光获取效率提升25%</>效果。\n星光加成可与“学院月度补给”、“赛季徽章”中的加成<span color=\"#d56c1f\">叠加计算</>，成长效率更高。\n你可自由勾选<span color=\"#d56c1f\">点亮星光印记</>，在好友列表、大世界等场景显示回归专属星光标识。\n\n<span color=\"#d56c1f\">四、特别提示</>\n星光印记仅为身份展示，不影响其他玩法与对战平衡。\n重逢契约活动结束后，星光的祝福将同时失效。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 10,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowStarlight.UMG_Activity_BackflowStarlight_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu2_png.img_xingguangzhufu2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_xingguangzhufu1_png.img_xingguangzhufu1_png'"
+  },
+  {
+    "id": 5000006,
+    "activity_type": 50,
+    "base_id": [
+      5000006
+    ],
+    "activity_name": "星光的祝福",
+    "prompt_text": "与伙伴同行共沐星光\n同行捕捉共享专属星光加成！",
+    "activity_txt": "<span color=\"#d56c1f\">一、参与条件</>\n仅对满足<span color=\"#d56c1f\">回归条件</>、成功触发<span color=\"#d56c1f\">重逢契约</>活动的小洛克开放。\n\n<span color=\"#d56c1f\">二、活动持续时间</>\n星光的祝福效果将至少持续14天，持续时间达到14天后，效果将于下一个04:00结束。\n\n<span color=\"#d56c1f\">三、活动规则</>\n活动期间，你与其他小洛克<span color=\"#d56c1f\">同行组队并进行精灵捕捉</>时（即成功触发“<span color=\"#d56c1f\">带带你</>”或“<span color=\"#d56c1f\">求带带</>”，你与队友均可获得<span color=\"#d56c1f\">星光获取效率提升25%</>效果。\n星光加成可与“学院月度补给”、“赛季徽章”中的加成<span color=\"#d56c1f\">叠加计算</>，成长效率更高。\n你可自由勾选<span color=\"#d56c1f\">点亮星光印记</>，在好友列表、大世界等场景显示回归专属星光标识。\n\n<span color=\"#d56c1f\">四、特别提示</>\n星光印记仅为身份展示，不影响其他玩法与对战平衡。\n重逢契约活动结束后，星光的祝福将同时失效。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
     "world_level_required": 1,
     "belong_system": 4,
     "priority": 10,
@@ -6279,6 +8097,60 @@
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce1_png.img_qiyueshouce1_png'"
   },
   {
+    "id": 5100004,
+    "activity_type": 51,
+    "base_id": [
+      5100004
+    ],
+    "activity_name": "重逢手册",
+    "prompt_text": "熟悉的王国，久违的冒险\n感觉一切都回来了~",
+    "activity_txt": "欢迎回来，小洛克！噜噜为你准备了专属重逢手册，陪你快速重拾冒险、轻松养成变强。\n\n<span color=\"#d56c1f\">活动说明</>\n你已经与选定的精灵签订了重逢契约，那么接下来，尝试培养它吧！\n完成<span color=\"#d56c1f\">每日练习</>与<span color=\"#d56c1f\">最终课题</>，积攒经验提升手册等级，免费领取养成资源与珍稀道具。还可以消耗洛克钻解锁<span color=\"#d56c1f\">豪华手册</>，还能额外获取对应档位丰厚奖励。\n\n<span color=\"#d56c1f\">核心玩法</>\n<span color=\"#d56c1f\">完成任务</>：「每日练习」中的任务会于每日4点刷新；「最终课题」中的任务只需完成一次，完成均可领取手册经验。\n<span color=\"#d56c1f\">等级奖励</>：提升手册等级可领取相应等级的奖励，免费奖励可直接领取；解锁重逢豪华手册后，可领取豪华版专属奖励。\n\n<span color=\"#d56c1f\">活动时间</>\n活动至少持续 14 天，持续时间达到14天后，活动将于下一个4:00结束。在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。\n\n快翻开重逢手册，和精灵伙伴一起，重启魔法冒险吧!",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 20,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce2_png.img_qiyueshouce2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce1_png.img_qiyueshouce1_png'"
+  },
+  {
+    "id": 5100005,
+    "activity_type": 51,
+    "base_id": [
+      5100005
+    ],
+    "activity_name": "重逢手册",
+    "prompt_text": "熟悉的王国，久违的冒险\n感觉一切都回来了~",
+    "activity_txt": "欢迎回来，小洛克！噜噜为你准备了专属重逢手册，陪你快速重拾冒险、轻松养成变强。\n\n<span color=\"#d56c1f\">活动说明</>\n你已经与选定的精灵签订了重逢契约，那么接下来，尝试培养它吧！\n完成<span color=\"#d56c1f\">每日练习</>与<span color=\"#d56c1f\">最终课题</>，积攒经验提升手册等级，免费领取养成资源与珍稀道具。还可以消耗洛克钻解锁<span color=\"#d56c1f\">豪华手册</>，还能额外获取对应档位丰厚奖励。\n\n<span color=\"#d56c1f\">核心玩法</>\n<span color=\"#d56c1f\">完成任务</>：「每日练习」中的任务会于每日4点刷新；「最终课题」中的任务只需完成一次，完成均可领取手册经验。\n<span color=\"#d56c1f\">等级奖励</>：提升手册等级可领取相应等级的奖励，免费奖励可直接领取；解锁重逢豪华手册后，可领取豪华版专属奖励。\n\n<span color=\"#d56c1f\">活动时间</>\n活动至少持续 14 天，持续时间达到14天后，活动将于下一个4:00结束。在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。\n\n快翻开重逢手册，和精灵伙伴一起，重启魔法冒险吧!",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 20,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce2_png.img_qiyueshouce2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce1_png.img_qiyueshouce1_png'"
+  },
+  {
+    "id": 5100006,
+    "activity_type": 51,
+    "base_id": [
+      5100006
+    ],
+    "activity_name": "重逢手册",
+    "prompt_text": "熟悉的王国，久违的冒险\n感觉一切都回来了~",
+    "activity_txt": "欢迎回来，小洛克！噜噜为你准备了专属重逢手册，陪你快速重拾冒险、轻松养成变强。\n\n<span color=\"#d56c1f\">活动说明</>\n你已经与选定的精灵签订了重逢契约，那么接下来，尝试培养它吧！\n完成<span color=\"#d56c1f\">每日练习</>与<span color=\"#d56c1f\">最终课题</>，积攒经验提升手册等级，免费领取养成资源与珍稀道具。还可以消耗洛克钻解锁<span color=\"#d56c1f\">豪华手册</>，还能额外获取对应档位丰厚奖励。\n\n<span color=\"#d56c1f\">核心玩法</>\n<span color=\"#d56c1f\">完成任务</>：「每日练习」中的任务会于每日4点刷新；「最终课题」中的任务只需完成一次，完成均可领取手册经验。\n<span color=\"#d56c1f\">等级奖励</>：提升手册等级可领取相应等级的奖励，免费奖励可直接领取；解锁重逢豪华手册后，可领取豪华版专属奖励。\n\n<span color=\"#d56c1f\">活动时间</>\n活动至少持续 14 天，持续时间达到14天后，活动将于下一个4:00结束。在活动结束后，若仍有未领取奖励，将通过邮件发放奖励。邮件最多存在14天，请小洛克及时领取。\n\n快翻开重逢手册，和精灵伙伴一起，重启魔法冒险吧!",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
+    "world_level_required": 1,
+    "belong_system": 4,
+    "priority": 20,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BackflowContractManual.UMG_Activity_BackflowContractManual_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce2_png.img_qiyueshouce2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_qiyueshouce1_png.img_qiyueshouce1_png'"
+  },
+  {
     "id": 5200001,
     "activity_type": 52,
     "base_id": [
@@ -6305,6 +8177,22 @@
     "activity_txt": "铅字幻梦 重逢契约",
     "appear_time": "2026-07-16 04:00:00",
     "disappear_time": "2026-09-25 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 4,
+    "priority": 1
+  },
+  {
+    "id": 5200004,
+    "activity_type": 52,
+    "base_id": [
+      5200004
+    ],
+    "activity_name": "重逢契约-S4赛季（区分14天、30天、60天）",
+    "prompt_text": "月涌狂想 重逢契约（14日）",
+    "activity_txt": "月涌狂想 重逢契约（14日）",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-20 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 4,
@@ -6383,9 +8271,48 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_EveningRest.UMG_Activity_EveningRest_C'",
     "image_path": "Texture10D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_wanjianxiuxi_bg.img_wanjianxiuxi_bg'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi2_png.img_wanjianxiuxi2_png'",
-    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'",
-    "refresh_type": 2,
-    "marquee_conf_id": 1
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'"
+  },
+  {
+    "id": 5900002,
+    "activity_type": 59,
+    "base_id": [
+      5900002
+    ],
+    "type_param": [
+      2701002
+    ],
+    "activity_name": "S4晚间休息活动",
+    "prompt_text": "当钟楼指针指向23:00，王国将沉入宁静的夜色\n魔法的星光已经点亮，小魔法师，快去休息吧\n精灵们睡着了，洛克们也要回家了~\n“今晚的美梦会是什么馅的呢……”",
+    "activity_txt": "星光正在轻声呢喃，庇护所现已开启，快前往收集掉落的星光吧~\n\n<span color=\"#d56c1f\">星光收集</>\n每日18:00-次日4:00，大世界中会出现「星光庇护所」，前往休憩将会掉落“星光”奖励。\n23:00-次日4:00，在「星光庇护所」休憩时，掉落的“星光”奖励数量将会翻倍。\n每日在「星光庇护所」中可获得的星光数量上限为1200，且与「月面」共享获取上限。\n\n<span color=\"#d56c1f\">王国入夜</>\n每日23:00-次日4:00，王国将进入夜晚，此时魔力之源将暂时沉睡，时间修改功能会暂时关闭。\n嘘——静夜帷幕落下，居民们也回家休息啦！一起来享受静谧的夜晚吧。",
+    "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_EveningRest.UMG_Activity_EveningRest_C'",
+    "image_path": "Texture10D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_wanjianxiuxi_bg.img_wanjianxiuxi_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi2_png.img_wanjianxiuxi2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'"
+  },
+  {
+    "id": 6200001,
+    "activity_type": 62,
+    "base_id": [
+      6200001
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "prompt_text": "秋风染透了林梢，可可果正熟得刚好\n轻启可可奇妙盒，把这缕香甜细细藏进心底吧",
+    "activity_txt": "· 使用可可果球捕捉精灵，即可获得「秋日丰收礼券」，「秋日丰收礼券」每日获取上限为10张。\n· 开启可可奇妙盒需要消耗一张「秋日丰收礼券」，每次开启都会随机开出一个可可果图案，同时获得一份随机奖励。\n· 当集齐三个相同的可可果图案时即可获得该可可果对应品级的奖励，领取后将重置所有礼盒及收集进度并开启下一轮。\n· 单轮集齐三个相同可可果综合概率说明：\n黄金可可果：6.49%\n可可果：10.48%\n绿色可可果：83.03%\n每10轮收集必定集齐三个可可果，每14轮必定集齐三个黄金可可果！",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 475,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BlindBox.UMG_Activity_BlindBox_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_manghe2_png.img_manghe2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_menghe1_png.img_menghe1_png'"
   },
   {
     "id": 6300001,
@@ -6427,6 +8354,119 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijichongci_bg1.img_saijichongci_bg1'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci2_png.img_saijichongci2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
+  },
+  {
+    "id": 6300003,
+    "activity_type": 63,
+    "base_id": [
+      6300003
+    ],
+    "activity_name": "月涌狂想赛季冲刺",
+    "prompt_text": "冲段位、抓精灵\n赛季终章，该冲刺的别停下~",
+    "activity_txt": "赛季冲刺号角吹响！通行证经验追回、闪耀大赛额外加星、奇遇新精灵捕捉加速、耗球返还多重助力上线，助你赛季完美收官！\n以下为详细规则：\n\n<span color=\"#d56c1f\">一、赛季冲刺期</>\n【赛季通行证，经验追回】\n活动期间可补做本赛季错过的通行证任务，追回\"热力勋印\"！\n●统计范围：实时统计本赛季错过的3类通行证任务（消耗契约印记、获取洛克贝、使用罗盘凝结许愿星），活动期间新错过的任务次日计入。\n●追回方式：按原任务收益完成对应任务即可领取热力勋印——每消耗40点契约印记或20点凝练印记，可获得600热力勋印；每凝结5颗许愿星，可获得600热力勋印；每获得100000洛克贝，可获得400热力勋印。\n●追回的热力勋印数量，不受赛季通行证每周上限限制，直至领完可追回总量。\n\n【闪耀大赛，额外加星】\n活动期间，大师段位以下在闪耀大赛排位中获胜，可额外获得1颗星级。\n● 每日最多3次，次日4:00重置，不可累积。\n● 可与随机精灵加星、连胜加星等效果叠加。\n● 若胜利后星级已足够晋升大师段位，则不再额外加星；达到大师及以上段位后本模块失效。\n● 需开启精灵对战玩法（30级·精灵研究员）方可参与。\n\n【奇遇新精灵，捕捉加速】\n活动期间，在庇护所放置S4赛季奇遇新精灵果实后，刷出的精灵更易捕捉，且更易遇到高阶精灵！\n●效果仅对本赛季奇遇新精灵生效：章脑丸家族、未完虫家族、玳龟家族、量风碗家族、小浣蛋家族、幽铃家族、星星眼家族、布灵家族。\n● 活动页面可查看赛季图鉴收集进度，点击\"前往\"跳转赛季图鉴界面。\n\n【咕噜球，储备计划】\n在S4赛季冲刺期间，使用指定咕噜球完成捕捉精灵的耗球量，将在S5赛季开启后，按照1：1的比例返还相应数量的「咕噜球补给礼盒」，总返还上限为1000个。\n● 统计球种：高级咕噜球、棱镜球、织梦棱镜球、狂欢棱镜球、铅绘棱镜球、月涌棱镜球、国王球、捕光球、奇趣球、童话球、失重球、可可果球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n● 「咕噜球补给礼盒」为自选礼盒，使用后可从以下球中自选一颗：高级咕噜球、美妙球、好战球、光合球、网兜球、暗星球、调温球、绝缘球、淘沙球、变幻球。\n● 统计规则：捕捉成功/失败消耗均计入；空掷回收、孵蛋、合成等不计入。\n● 活动页面实时统计有效耗球数、预计礼盒数量及返还上限。\n\n<span color=\"#d56c1f\">二、新赛季领奖期</>\nS5赛季开启后，在S4赛季冲刺期间消耗指定咕噜球捕捉精灵的小洛克，可在活动页面领取返还的「咕噜球补给礼盒」。\n● 奖励直接进入背包。\n● 领奖完成后，活动页面于次日4:00自动关闭。",
+    "appear_time": "2026-10-22 04:00:00",
+    "disappear_time": "2026-11-19 03:59:59",
+    "world_level_required": 1,
+    "success_if_disappear": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 460,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_CarnivalHorrorTales.UMG_Activity_CarnivalHorrorTales_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijichongci_S4_bg.img_saijichongci_S4_bg'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci2_png.img_saijichongci2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijichongci1_png.img_saijichongci1_png'"
+  },
+  {
+    "id": 6500001,
+    "activity_type": 65,
+    "base_id": [
+      6500001,
+      6500002,
+      6500003,
+      6500004,
+      6500005,
+      6500006,
+      6500007,
+      6500008,
+      6500009,
+      6500010,
+      6500011,
+      6500012,
+      6500013,
+      6500014
+    ],
+    "activity_name": "月幕下的决斗-观赛竞猜",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2600018,
+          2650059,
+          2650064
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6600001,
+    "activity_type": 66,
+    "base_id": [
+      3400005
+    ],
+    "activity_name": "小豚安家记",
+    "prompt_text": "回填山涧的江风，捎来了一颗从未见过的精灵蛋\n施展星星魔法，为它创造适宜的孵化环境吧~\n全服生态点数达成100%目标将通过腾讯基金会\n支持「留住长江的微笑」公益项目",
+    "activity_txt": "<span color=\"#d56c1f\">活动时间</>\n2026年10月23日04:00-2026年11月6日03:59\n\n<span color=\"#d56c1f\">活动说明</>\n「小豚安家记」活动是由《洛克王国：世界》联合腾讯公益（运营方为“腾讯公益慈善基金会”）和长江生态保护基金会公益机构推出的一项公益项目活动。\n本活动旨在鼓励小洛克参与公益、关注公益。活动中涉及的“留住长江的微笑”公益项目，由长江生态保护基金会发起，旨在支持湖北天鹅洲迁地保护区江豚种群保护工作。\n\n<span color=\"#d56c1f\">参与条件</>\n阅读同意腾讯公益相关协议，并完成剧情「精灵调查团」，成为精灵调查团一员。\n\n<span color=\"#d56c1f\">玩法介绍</>\n※ 孵蛋日记\n查尔斯团长洋洋洒洒地记录了4天的孵蛋事项，共16条。小家伙的顺利孵化，不仅需要适宜的水域环境，也离不开小洛克的悉心呵护~\n\n※ 生态点数\n清理嗡嗡罐罐、参与水域巡逻、听听罐罐中的精灵小故事、查看「留住长江的微笑」科普，均可获得个人生态点数。\n悄悄说，江边散落的嗡嗡罐罐都可以清理，会根据小洛克清理的个数来计算生态点数哦~勤劳的小洛克，快挥动魔法棒，用星星魔法清理它们，还江域一片清净吧~\n全服生态点数进度达到100%时，将通过腾讯基金会支持「留住长江的微笑」公益项目。\n\n※ 荣誉证书\n完成孵蛋日记中的全部事项，即可领取学院颁发的专属荣誉证书，每位小洛克的证书内容都独一无二哦~\n分享证书还可领取同款家具，将它挂在家中，让来访的朋友一同见证这份荣誉！\n\n※ 精灵观察笔记\n整理精灵观察笔记，发现精灵“不为洛知”的另一面！\n获得笔记后，可前往「背包-重要」随时翻阅。\n精灵调查团还会不定期带来最新照片~\n\n<span color=\"#d56c1f\">公益说明</>\n※ 公益金使用限制\n本次公益金仅可用于支持活动内的公益项目，不支持提现、兑换、转让、售卖等任何变现操作，不会直接发放至小洛克个人账户，活动期间每位小洛克仅可获得1次公益金捐赠资格。\n\n※ 善款使用说明\n本次活动中送出的所有公益金都将全额用于公益项目；\n此外，腾讯基金会将助力活动，向公益项目提供更多捐赠支持，具体金额将根据本活动开展情况计算，最终请以腾讯基金会与公益机构签署的《捐赠协议》约定为准，本次活动的全部款项均由公益机构用于对应公益项目。\n小洛克可在腾讯公益平台了解更多项目介绍及相关费用明细（*腾讯公益平台项目名称：留住长江的微笑）。\n\n※ 公益金发放说明\n本次活动中通过阅读「留住长江的微笑」故事解锁的公益金由腾讯公益慈善基金会（简称“腾讯基金会”）提供，将助力「留住长江的微笑」公益项目，最后捐出的公益金总额将统一在活动结束后结算。\n公益金不支持任何提现、兑换、转让等操作。\n公益金由腾讯基金会向负责「留住长江的微笑」公益项目的公益机构进行拨付，具体金额将根据本活动开展情况计算，以公益金形式拨付的总金额不超过200万元。\n若公益项目执行中未能将小洛克自动“送出”的公益金执行完毕的，在保证公益资金合法合规使用的前提下，公益机构会将公益金用于其他公益用途，相关资金使用情况将在腾讯公益平台公示和反馈，具体以公益机构与腾讯基金会协商确认的方案为准。\n\n※ 授权说明\n参与本活动需同意《腾讯公益平台用户服务协议》(https://ssl.gongyi.qq.com/weixin/protocol.html?type=plat)、《腾讯公益平台隐私政策》(https://ssl.gongyi.qq.com/weixin/protocol.html?id=24215)，本产品将您当前登录账号的用户标识、公益行为完成情况同步至腾讯公益平台，用于识别并关联您的公益账号。\n\n※ 注意事项\n如果小洛克有下列任一行为的，主办方将取消其参与活动资格，且有权收回其通过本活动获得的公益金，并保留追究恶意刷奖者的法律责任的权利！\na.进行虚假操作/交易或恶意破坏活动的；\nb.以任何机器人软件、蜘蛛软件、爬虫软件、刷奖软件或其它任何自动方式、不正当手段等参与本活动的；\nc.有任何违反诚实信用、公序良俗、公平、公正等原则行为的；\nd.其他违反相关法规、本规则行为的。\n\n※ 免责条款\n小洛克知悉互联网存在诸多不确定性因素，因此理解并同意，如因不可抗力、网络、通讯线路故障、计算机大规模瘫痪、活动存在大面积作弊行为等非主办方原因致使本活动出现异常情况或难以继续开展的，主办方有权采取包括但不限于通过各种方式消除异常情况或调整、暂停、取消本活动等措施。\n\n<span color=\"#d56c1f\">注意事项</>\n※ 云梦豚的蛋和荣誉证书无法补发，请小洛克及时领奖~",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-30 03:59:59",
+    "world_level_required": 2,
+    "prerequisite_task_id": [
+      59000325
+    ],
+    "prerequisite_task_tips": "加入精灵调查团",
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 470,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SturgeonCooperation.UMG_Activity_SturgeonCooperation_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_SturgeonCooperationIcon2_png.img_SturgeonCooperationIcon2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_SturgeonCooperationIcon1_png.img_SturgeonCooperationIcon1_png'",
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityElvenAmbassador/Frames/img_xianshidiaocha_png.img_xianshidiaocha_png'",
+    "title_icon_text": "精灵调查团"
+  },
+  {
+    "id": 6600002,
+    "activity_type": 1,
+    "base_id": [
+      100004
+    ],
+    "activity_name": "小豚安家记-重度污染区",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-27 03:59:59",
+    "world_level_required": 2,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6600003,
+    "activity_type": 1,
+    "base_id": [
+      100004
+    ],
+    "activity_name": "小豚安家记-轻度污染区",
+    "appear_time": "2026-10-27 04:00:00",
+    "disappear_time": "2026-10-30 03:59:59",
+    "world_level_required": 2,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
   },
   {
     "id": 6700001,
@@ -14780,6 +16820,126 @@
     "prompt_text": "睡铃雪影娃娃和鳗鳗寄来的信，快去看看吧。",
     "appear_time": "2026-09-07 04:00:00",
     "disappear_time": "2026-09-10 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000010,
+    "activity_type": 26,
+    "base_id": [
+      2600072
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2024-09-18 04:00:00",
+    "disappear_time": "2024-09-21 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000011,
+    "activity_type": 26,
+    "base_id": [
+      2600073
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2024-09-21 04:00:00",
+    "disappear_time": "2024-09-28 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000012,
+    "activity_type": 26,
+    "base_id": [
+      2600074
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-05 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000013,
+    "activity_type": 26,
+    "base_id": [
+      2600075
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-10-05 04:00:00",
+    "disappear_time": "2026-10-12 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000014,
+    "activity_type": 26,
+    "base_id": [
+      2600076
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-10-12 04:00:00",
+    "disappear_time": "2026-10-19 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000015,
+    "activity_type": 26,
+    "base_id": [
+      2600077
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-10-19 04:00:00",
+    "disappear_time": "2026-10-26 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000016,
+    "activity_type": 26,
+    "base_id": [
+      2600078
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-10-26 04:00:00",
+    "disappear_time": "2026-11-02 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "belong_system": 1,
+    "priority": 1
+  },
+  {
+    "id": 58000017,
+    "activity_type": 26,
+    "base_id": [
+      2600079
+    ],
+    "activity_name": "来自远方的信",
+    "prompt_text": "来自远方的信",
+    "appear_time": "2026-11-02 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,

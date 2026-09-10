@@ -393,5 +393,139 @@
         ]
       }
     ]
+  },
+  {
+    "id": 2100009,
+    "name": "金秋萌友会",
+    "reward_id": 200200002,
+    "in": "In_3",
+    "Background": "Background_3",
+    "Label": "Label_3",
+    "Label2": "Label2_3",
+    "pet_group": [
+      {
+        "petbase_id": 3456,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_dundishu_xushui.JL_dundishu_xushui'",
+        "res_ui_percentage": 0.6,
+        "res_offset": [
+          0.0,
+          0.0
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3456
+        ]
+      },
+      {
+        "petbase_id": 3098,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_lversongshu.JL_lversongshu'",
+        "res_ui_percentage": 0.6,
+        "res_offset": [
+          0.0,
+          0.0
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3098
+        ]
+      },
+      {
+        "petbase_id": 3373,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_doudou.JL_doudou'",
+        "res_ui_percentage": 0.5,
+        "res_offset": [
+          0.0,
+          0.2
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3373
+        ]
+      },
+      {
+        "petbase_id": 3284,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_dongyuque_qiu.JL_dongyuque_qiu'",
+        "res_ui_percentage": 0.8,
+        "res_offset": [
+          0.0,
+          0.0
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3284
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2100010,
+    "name": "调皮捣蛋会",
+    "reward_id": 200200002,
+    "in": "In_3",
+    "Background": "Background_3",
+    "Label": "Label_3",
+    "Label2": "Label2_3",
+    "pet_group": [
+      {
+        "petbase_id": 3439,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_mengyouyou.JL_mengyouyou'",
+        "res_ui_percentage": 1.0,
+        "res_offset": [
+          0.0,
+          0.0
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3439
+        ]
+      },
+      {
+        "petbase_id": 3568,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_xiaoheimao.JL_xiaoheimao'",
+        "res_ui_percentage": 0.6,
+        "res_offset": [
+          0.0,
+          0.2
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3568
+        ]
+      },
+      {
+        "petbase_id": 3142,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_xiaoye.JL_xiaoye'",
+        "res_ui_percentage": 0.7,
+        "res_offset": [
+          0.0,
+          0.1
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3142
+        ]
+      },
+      {
+        "petbase_id": 3010,
+        "instead_reward": 200200006,
+        "img": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_emoding.JL_emoding'",
+        "res_ui_percentage": 0.6,
+        "res_offset": [
+          0.1,
+          0.0
+        ],
+        "trail_type": 1,
+        "trail_param2": [
+          3010
+        ]
+      }
+    ]
   }
 ]

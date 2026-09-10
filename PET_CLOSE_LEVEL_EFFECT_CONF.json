@@ -1,202 +1,56 @@
 [
   {
     "id": 1,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010
-      },
-      {
-        "skill_buff_id": 21280010
-      }
-    ],
     "localization_id": "pet_experience_form_close_level_0"
   },
   {
     "id": 2,
     "close_level": 1,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010
-      },
-      {
-        "skill_buff_id": 21280010
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_1",
-    "pet_top_level_add_value": 10
+    "localization_id": "pet_experience_form_close_level_1"
   },
   {
     "id": 3,
     "close_level": 2,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 100
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 100
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_2",
-    "pet_top_level_add_value": 20
+    "localization_id": "pet_experience_form_close_level_2"
   },
   {
     "id": 4,
     "close_level": 3,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 300
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 300
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_3",
-    "pet_top_level_add_value": 30
+    "localization_id": "pet_experience_form_close_level_3"
   },
   {
     "id": 5,
     "close_level": 4,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 600
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 600
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_4",
-    "pet_top_level_add_value": 40
+    "localization_id": "pet_experience_form_close_level_4"
   },
   {
     "id": 6,
     "close_level": 5,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   },
   {
     "id": 7,
     "close_level": 6,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   },
   {
     "id": 8,
     "close_level": 7,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   },
   {
     "id": 9,
     "close_level": 8,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   },
   {
     "id": 10,
     "close_level": 9,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   },
   {
     "id": 11,
     "close_level": 10,
-    "effect_group": [
-      {
-        "skill_buff_id": 21270010,
-        "buff_trigger_probability": 1000
-      },
-      {
-        "skill_buff_id": 21280010,
-        "buff_trigger_probability": 1000
-      }
-    ],
-    "localization_id": "pet_experience_form_close_level_5",
-    "pet_top_level_add_value": 50,
-    "llm_switch": [
-      1,
-      2,
-      3
-    ]
+    "localization_id": "pet_experience_form_close_level_5"
   }
 ]

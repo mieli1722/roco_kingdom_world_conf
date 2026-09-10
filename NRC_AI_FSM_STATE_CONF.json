@@ -173,7 +173,7 @@
     "editor_name": [
       "变身响应",
       "1030代通用外层",
-      "1132020536"
+      "1129857907"
     ],
     "state_type": 7,
     "level": 1,
@@ -193,7 +193,7 @@
     "editor_name": [
       "差分_自演绎",
       "【测试】行为差分内层",
-      "1170357836"
+      "1171865156"
     ],
     "state_type": 6,
     "level": 2,
@@ -204,7 +204,11 @@
       },
       {
         "next_state_id": 12,
-        "state_cond_id": 26022
+        "state_cond_id": 1
+      },
+      {
+        "next_state_id": 129,
+        "state_cond_id": 5
       }
     ]
   },
@@ -225,6 +229,10 @@
       {
         "next_state_id": 13,
         "state_cond_id": 5
+      },
+      {
+        "next_state_id": 129,
+        "state_cond_id": 5
       }
     ]
   },
@@ -233,7 +241,7 @@
     "editor_name": [
       "差分-预交互应激",
       "【测试】行为差分内层",
-      "1203256913"
+      "1207909957"
     ],
     "state_type": 8,
     "level": 2,
@@ -248,7 +256,11 @@
       },
       {
         "next_state_id": 12,
-        "state_cond_id": 26022
+        "state_cond_id": 13
+      },
+      {
+        "next_state_id": 129,
+        "state_cond_id": 5
       }
     ]
   },
@@ -273,7 +285,7 @@
     "editor_name": [
       "差分_应激",
       "【测试】行为差分内层",
-      "1209941931"
+      "1209548717"
     ],
     "state_type": 8,
     "level": 2,
@@ -281,6 +293,10 @@
       {
         "next_state_id": 12,
         "state_cond_id": 13
+      },
+      {
+        "next_state_id": 13,
+        "state_cond_id": 5
       }
     ]
   },
@@ -329,7 +345,7 @@
     "editor_name": [
       "响应行为1",
       "关卡模板内层",
-      "1137590769"
+      "1136149177"
     ],
     "state_type": 15,
     "level": 2,
@@ -457,7 +473,7 @@
     "editor_name": [
       "对峙",
       "【测试】默认内层",
-      "1133657863"
+      "1132281578"
     ],
     "state_type": 3,
     "level": 2,
@@ -485,7 +501,7 @@
     "editor_name": [
       "应激",
       "【测试】默认内层",
-      "1148207029"
+      "1148272572"
     ],
     "state_type": 8,
     "level": 2,
@@ -505,7 +521,7 @@
     "editor_name": [
       "感知",
       "【测试】默认内层",
-      "1150828041"
+      "1148468747"
     ],
     "state_type": 7,
     "level": 2,
@@ -586,7 +602,7 @@
     "editor_name": [
       "响应行为2",
       "关卡模板内层",
-      "1191920107"
+      "1187856746"
     ],
     "state_type": 15,
     "level": 2,
@@ -909,7 +925,7 @@
     "editor_name": [
       "响应行为3",
       "关卡模板内层",
-      "1190871983"
+      "1196180173"
     ],
     "state_type": 15,
     "level": 2,
@@ -933,7 +949,7 @@
     "editor_name": [
       "看天气",
       "关卡模板外层",
-      "1117930415"
+      "1118258100"
     ],
     "state_type": 9,
     "level": 1,
@@ -1017,7 +1033,7 @@
     "editor_name": [
       "晕眩",
       "关卡模板外层",
-      "1130381834"
+      "1130447474"
     ],
     "state_type": 9,
     "level": 1,
@@ -1089,7 +1105,7 @@
     "editor_name": [
       "跟随移动",
       "【上线版本】跟随日常内层",
-      "1114653337"
+      "1115046553"
     ],
     "state_type": 6,
     "level": 2,
@@ -1107,7 +1123,7 @@
         "state_cond_id": 23117
       },
       {
-        "next_state_id": 125,
+        "next_state_id": 128,
         "state_cond_id": 5
       }
     ]
@@ -1243,7 +1259,7 @@
     "editor_name": [
       "静态自循环",
       "【上线版本】跟随日常内层",
-      "1091781080"
+      "1095123411"
     ],
     "state_type": 7,
     "level": 2,
@@ -1261,7 +1277,7 @@
         "state_cond_id": 1
       },
       {
-        "next_state_id": 125,
+        "next_state_id": 128,
         "state_cond_id": 5
       }
     ]
@@ -1415,7 +1431,7 @@
     "editor_name": [
       "亲昵互动接近",
       "【上线版本】亲昵互动内层",
-      "1149649331"
+      "1149649325"
     ],
     "state_type": 6,
     "level": 2,
@@ -1439,7 +1455,7 @@
     "editor_name": [
       "宝箱互动",
       "【上线版本】亲昵互动内层",
-      "1170030763"
+      "1169768622"
     ],
     "state_type": 7,
     "level": 2,
@@ -1479,7 +1495,7 @@
     "editor_name": [
       "拍照互动",
       "【上线版本】跟随日常内层",
-      "1134838205"
+      "1133986254"
     ],
     "state_type": 10,
     "level": 2,
@@ -1495,10 +1511,6 @@
       {
         "next_state_id": 62,
         "state_cond_id": 5
-      },
-      {
-        "next_state_id": 125,
-        "state_cond_id": 5
       }
     ]
   },
@@ -1507,7 +1519,7 @@
     "editor_name": [
       "外部互动",
       "【上线版本】跟随日常内层",
-      "1108230348"
+      "1106591943"
     ],
     "state_type": 3,
     "level": 2,
@@ -1525,7 +1537,7 @@
         "state_cond_id": 5
       },
       {
-        "next_state_id": 125,
+        "next_state_id": 128,
         "state_cond_id": 5
       }
     ]
@@ -1571,7 +1583,7 @@
     "editor_name": [
       "时装响应",
       "1030代通用外层",
-      "1126974597"
+      "1127629894"
     ],
     "state_type": 7,
     "level": 1,
@@ -1605,7 +1617,7 @@
   {
     "id": 78,
     "editor_name": [
-      "拍照响应",
+      "其他响应",
       "【测试】差分行为外层",
       "1106264353"
     ],
@@ -1614,6 +1626,10 @@
     "fsm_state": [
       {
         "next_state_id": 81,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 79,
         "state_cond_id": 5
       }
     ]
@@ -1630,6 +1646,10 @@
     "fsm_state": [
       {
         "next_state_id": 81,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 78,
         "state_cond_id": 5
       }
     ]
@@ -2449,7 +2469,7 @@
       },
       {
         "next_state_id": 123,
-        "state_cond_id": 1
+        "state_cond_id": 5
       }
     ]
   },
@@ -2494,34 +2514,32 @@
       "首领化精灵野外战斗内层",
       "1119437643"
     ],
-    "state_type": 2,
-    "level": 2
-  },
-  {
-    "id": 125,
-    "editor_name": [
-      "特殊互动",
-      "【上线版本】跟随日常内层",
-      "1135558897"
-    ],
     "state_type": 7,
     "level": 2,
     "fsm_state": [
       {
-        "next_state_id": 55,
-        "state_cond_id": 5
+        "next_state_id": 125,
+        "state_cond_id": 1
       },
       {
-        "next_state_id": 72,
-        "state_cond_id": 5
-      },
+        "next_state_id": 127,
+        "state_cond_id": 30060
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "editor_name": [
+      "Unk",
+      "首领化精灵野外战斗内层",
+      "1101611693"
+    ],
+    "state_type": 6,
+    "level": 2,
+    "fsm_state": [
       {
-        "next_state_id": 73,
-        "state_cond_id": 5
-      },
-      {
-        "next_state_id": 62,
-        "state_cond_id": 5
+        "next_state_id": 124,
+        "state_cond_id": 1
       }
     ]
   },
@@ -2532,8 +2550,72 @@
       "首领化技能首领战斗内层",
       "1160659794"
     ],
-    "state_type": 2,
+    "state_type": 8,
     "level": 2
+  },
+  {
+    "id": 127,
+    "editor_name": [
+      "攻击野怪交互",
+      "首领化精灵野外战斗内层",
+      "1134117551"
+    ],
+    "state_type": 7,
+    "level": 2,
+    "fsm_state": [
+      {
+        "next_state_id": 124,
+        "state_cond_id": 1
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "editor_name": [
+      "特殊交互",
+      "【上线版本】跟随日常内层",
+      "1130512595"
+    ],
+    "state_type": 7,
+    "level": 2,
+    "fsm_state": [
+      {
+        "next_state_id": 73,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 55,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 62,
+        "state_cond_id": 5
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "editor_name": [
+      "Unk",
+      "【测试】行为差分内层",
+      "1195589411"
+    ],
+    "state_type": 7,
+    "level": 2,
+    "fsm_state": [
+      {
+        "next_state_id": 12,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 13,
+        "state_cond_id": 5
+      },
+      {
+        "next_state_id": 15,
+        "state_cond_id": 5
+      }
+    ]
   },
   {
     "id": 169,
@@ -2560,7 +2642,7 @@
     "editor_name": [
       "初始化",
       "1030代通用外层",
-      "1097876227"
+      "1096303356"
     ],
     "state_type": 1,
     "level": 1,
@@ -2603,9 +2685,9 @@
   {
     "id": 181,
     "editor_name": [
-      "拍照响应",
+      "其他响应",
       "1030代通用外层",
-      "1132937918"
+      "1133462228"
     ],
     "state_type": 7,
     "level": 1,
@@ -2625,7 +2707,7 @@
     "editor_name": [
       "骑乘响应",
       "1030代通用外层",
-      "1135034843"
+      "1134707168"
     ],
     "state_type": 7,
     "level": 1,
@@ -2645,7 +2727,7 @@
     "editor_name": [
       "归位",
       "1030代通用内层",
-      "1171669790"
+      "1172063002"
     ],
     "state_type": 5,
     "level": 2,
@@ -2669,7 +2751,7 @@
     "editor_name": [
       "日常",
       "1030代通用内层",
-      "1185169841"
+      "1180778949"
     ],
     "state_type": 6,
     "level": 2,
@@ -2693,7 +2775,7 @@
     "editor_name": [
       "感知",
       "1030代通用内层",
-      "1230455201"
+      "1228685751"
     ],
     "state_type": 7,
     "level": 2,
@@ -2717,7 +2799,7 @@
     "editor_name": [
       "对峙",
       "1030代通用内层",
-      "1210925747"
+      "1210794667"
     ],
     "state_type": 8,
     "level": 2,
@@ -2745,7 +2827,7 @@
     "editor_name": [
       "行为应激",
       "1030代通用内层",
-      "1227965325"
+      "1226195850"
     ],
     "state_type": 7,
     "level": 2,

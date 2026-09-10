@@ -23,8 +23,7 @@
       2,
       10,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 2,
@@ -36,8 +35,7 @@
       1,
       3,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 3,
@@ -65,8 +63,7 @@
       2,
       11,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 4,
@@ -92,8 +89,7 @@
       3,
       10,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 5,
@@ -105,8 +101,7 @@
       2,
       3,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 6,
@@ -134,14 +129,12 @@
       3,
       11,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 7,
     "key": "season_legendary_ticket_conversion",
-    "num": 280000,
-    "is_loc": 2
+    "num": 280000
   },
   {
     "id": 8,
@@ -183,14 +176,12 @@
       3,
       4019,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 9,
     "key": "season_popup_play_delay",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 10,
@@ -214,7 +205,9 @@
       4,
       5,
       6,
-      9
+      9,
+      10,
+      11
     ]
   },
   {
@@ -232,7 +225,8 @@
       292004,
       292005,
       292006,
-      293003
+      293003,
+      294101
     ]
   },
   {
@@ -260,6 +254,50 @@
     "id": 18,
     "key": "bonus_talent_ratio",
     "num": 800
+  },
+  {
+    "id": 19,
+    "key": "blood_star_ratio",
+    "num": 6148
+  },
+  {
+    "id": 20,
+    "key": "meteor_shower_performance",
+    "numList": [
+      2,
+      1000,
+      -1,
+      -1,
+      -1
+    ]
+  },
+  {
+    "id": 21,
+    "key": "battle_star_monster",
+    "numList": [
+      1645,
+      1644
+    ]
+  },
+  {
+    "id": 22,
+    "key": "red_star_blood_ratio",
+    "numList": [
+      3,
+      5,
+      1,
+      1
+    ]
+  },
+  {
+    "id": 23,
+    "key": "yellow_star_blood_ratio",
+    "numList": [
+      3,
+      1,
+      5,
+      1
+    ]
   },
   {
     "id": 24,

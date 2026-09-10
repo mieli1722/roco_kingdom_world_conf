@@ -145,7 +145,7 @@
       },
       {
         "slot": 6,
-        "slot_des": "狐主任的好感度",
+        "slot_des": "小狐安安的好感度",
         "initial_unlock": true,
         "slot_function_type": 9,
         "params": [
@@ -154,6 +154,134 @@
       }
     ],
     "shop_id": 3028
+  },
+  {
+    "id": 3400005,
+    "must_do_task_judg": [
+      110000525,
+      110000530,
+      110000531,
+      110000532,
+      110000533
+    ],
+    "go_task_option_name": "前往",
+    "unlock_tips": "请打开「任务」查看查尔斯的信",
+    "slot_group": [
+      {
+        "slot": 1,
+        "slot_des": "孵蛋日记",
+        "slot_function_type": 15,
+        "param": 3200002,
+        "params": [
+          3200002
+        ]
+      },
+      {
+        "slot": 2,
+        "slot_des": "任务进度",
+        "slot_function_type": 15,
+        "param": 3200003,
+        "params": [
+          3200003
+        ],
+        "red_point_id": 618,
+        "red_point_rule": "6600001;2"
+      },
+      {
+        "slot": 4,
+        "slot_des": "全服生态点数",
+        "slot_function_type": 17,
+        "param": 1001,
+        "params": [
+          1001,
+          2
+        ],
+        "red_point_id": 614,
+        "red_point_rule": "6600001;4"
+      },
+      {
+        "slot": 3,
+        "slot_des": "孵化条件",
+        "option_id": 3014,
+        "finish_get_task_id": [
+          110000523
+        ],
+        "slot_function_type": 15,
+        "param": 3200004,
+        "params": [
+          3200004
+        ],
+        "red_point_id": 611,
+        "red_point_rule": "6600001;3"
+      },
+      {
+        "slot": 5,
+        "slot_des": "荣誉证书",
+        "option_id": 10016,
+        "slot_function_type": 8,
+        "param": 1600322,
+        "params": [
+          1600322
+        ],
+        "red_point_id": 613,
+        "red_point_rule": "6600001;5"
+      },
+      {
+        "slot": 6,
+        "slot_des": "判断证书是否可分享",
+        "slot_function_type": 21,
+        "params": [
+          110000521,
+          1,
+          3
+        ],
+        "red_point_id": 612,
+        "red_point_rule": "6600001;6"
+      },
+      {
+        "slot": 7,
+        "slot_des": "个人生态点数统计",
+        "slot_function_type": 18,
+        "params": [
+          1,
+          3
+        ]
+      },
+      {
+        "slot": 8,
+        "slot_des": "判断是否可领蛋",
+        "option_id": 3015,
+        "slot_function_type": 20,
+        "params": [
+          110000523,
+          6,
+          4,
+          110000524,
+          1,
+          32,
+          36
+        ],
+        "red_point_id": 611,
+        "red_point_rule": "6600001;8"
+      },
+      {
+        "slot": 9,
+        "slot_function_type": 5,
+        "params": [
+          150006
+        ]
+      },
+      {
+        "slot": 10,
+        "slot_function_type": 23,
+        "params": [
+          1,
+          2,
+          3,
+          4
+        ]
+      }
+    ]
   },
   {
     "id": 4000003,
@@ -196,6 +324,119 @@
         "option_id": 2005,
         "red_point_id": 215,
         "red_point_rule": "1600023;4900001;4900002;4900003"
+      }
+    ]
+  },
+  {
+    "id": 4000004,
+    "slot_group": [
+      {
+        "slot": 1,
+        "initial_unlock": true,
+        "slot_function_type": 2,
+        "param": 6500001,
+        "params": [
+          6500001
+        ],
+        "red_point_id": 604,
+        "red_point_rule": "6500001"
+      },
+      {
+        "slot": 2,
+        "initial_unlock": true,
+        "slot_function_type": 2,
+        "param": 4700002,
+        "params": [
+          4700002
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "4700002"
+      },
+      {
+        "slot": 3,
+        "initial_unlock": true,
+        "slot_function_type": 2,
+        "param": 1600028,
+        "params": [
+          1600028
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "1600028"
+      },
+      {
+        "slot": 4
+      }
+    ]
+  },
+  {
+    "id": 4000005,
+    "slot_group": [
+      {
+        "slot": 1,
+        "initial_unlock": true,
+        "option_id": 3005,
+        "slot_function_type": 2,
+        "params": [
+          4000004
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "4000004"
+      },
+      {
+        "slot": 2,
+        "initial_unlock": true,
+        "option_id": 3006,
+        "slot_function_type": 2,
+        "params": [
+          6200001
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "1900035"
+      },
+      {
+        "slot": 3,
+        "initial_unlock": true,
+        "option_id": 3007,
+        "slot_function_type": 2,
+        "params": [
+          2600081
+        ]
+      },
+      {
+        "slot": 4,
+        "initial_unlock": true,
+        "option_id": 3008,
+        "slot_function_type": 2,
+        "params": [
+          4500004
+        ],
+        "red_point_id": 302,
+        "red_point_rule": "4500004"
+      },
+      {
+        "slot": 5,
+        "initial_unlock": true,
+        "option_id": 2099
+      }
+    ]
+  },
+  {
+    "id": 4000006,
+    "slot_group": [
+      {
+        "slot": 1,
+        "initial_unlock": true,
+        "option_id": 2030
+      },
+      {
+        "slot": 2,
+        "initial_unlock": true,
+        "slot_function_type": 2,
+        "params": [
+          200101
+        ],
+        "red_point_id": 215,
+        "red_point_rule": "200101"
       }
     ]
   },

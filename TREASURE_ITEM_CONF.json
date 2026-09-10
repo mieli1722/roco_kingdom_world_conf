@@ -390,6 +390,7 @@
   {
     "id": 2006,
     "umg_path": "FashionRewardSelect",
+    "if_last_safety_net": true,
     "choose_item_group": [
       {
         "Id": 310059,
@@ -407,8 +408,7 @@
         "Id": 310063,
         "Count": 1
       }
-    ],
-    "if_last_safety_net": true
+    ]
   },
   {
     "id": 2007,
@@ -430,6 +430,7 @@
   {
     "id": 2008,
     "umg_path": "FashionRewardSelect",
+    "if_last_safety_net": true,
     "choose_item_group": [
       {
         "Id": 310098,
@@ -447,8 +448,7 @@
         "Id": 310063,
         "Count": 1
       }
-    ],
-    "if_last_safety_net": true
+    ]
   },
   {
     "id": 3001,
@@ -485,6 +485,19 @@
       },
       {
         "Id": 320070,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "id": 3004,
+    "choose_item_group": [
+      {
+        "Id": 320105,
+        "Count": 1
+      },
+      {
+        "Id": 320106,
         "Count": 1
       }
     ]
@@ -628,6 +641,43 @@
       },
       {
         "Id": 150809,
+        "Count": 1
+      }
+    ]
+  },
+  {
+    "id": 4004,
+    "choose_item_group": [
+      {
+        "Id": 150842,
+        "Count": 1
+      },
+      {
+        "Id": 150846,
+        "Count": 1
+      },
+      {
+        "Id": 150850,
+        "Count": 1
+      },
+      {
+        "Id": 150851,
+        "Count": 1
+      },
+      {
+        "Id": 150853,
+        "Count": 1
+      },
+      {
+        "Id": 150854,
+        "Count": 1
+      },
+      {
+        "Id": 150855,
+        "Count": 1
+      },
+      {
+        "Id": 150856,
         "Count": 1
       }
     ]

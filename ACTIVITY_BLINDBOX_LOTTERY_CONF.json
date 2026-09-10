@@ -1,0 +1,60 @@
+[
+  {
+    "id": 6200001,
+    "goods_type": 1,
+    "item_id": 320107,
+    "item_num": 1,
+    "box_num": 12,
+    "prize_num": 3,
+    "first_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_iconguozi_jin_png.img_iconguozi_jin_png'",
+    "second_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_iconguozi_hong_png.img_iconguozi_hong_png'",
+    "third_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_iconguozi_lv_png.img_iconguozi_lv_png'",
+    "first_award": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_guozi_jin_png.img_guozi_jin_png'",
+    "second_award": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_guozi_chengshu_png.img_guozi_chengshu_png'",
+    "third_award": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySurroundingRaffle/Frames/img_guozi_weishu_png.img_guozi_weishu_png'",
+    "prize_rewards": [
+      {
+        "prize_reward": [
+          {
+            "goods_type": 1,
+            "goods_id": 600031,
+            "goods_count": 1
+          },
+          {
+            "goods_type": 2,
+            "goods_id": 3,
+            "goods_count": 2
+          }
+        ]
+      },
+      {
+        "prize_reward": [
+          {
+            "goods_type": 1,
+            "goods_id": 600030,
+            "goods_count": 1
+          },
+          {
+            "goods_type": 2,
+            "goods_id": 3,
+            "goods_count": 2
+          }
+        ]
+      },
+      {
+        "prize_reward": [
+          {
+            "goods_type": 1,
+            "goods_id": 310049,
+            "goods_count": 1
+          },
+          {
+            "goods_type": 2,
+            "goods_id": 3,
+            "goods_count": 2
+          }
+        ]
+      }
+    ]
+  }
+]

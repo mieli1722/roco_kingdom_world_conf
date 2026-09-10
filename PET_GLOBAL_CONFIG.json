@@ -2,32 +2,27 @@
   {
     "id": 58,
     "key": "level_exp_get_param",
-    "num": 2400,
-    "is_loc": 2
+    "num": 2400
   },
   {
     "id": 59,
     "key": "pet_default_ball",
-    "num": 100002,
-    "is_loc": 2
+    "num": 100002
   },
   {
     "id": 117,
     "key": "pet_exp_item_1",
-    "num": 100211,
-    "is_loc": 2
+    "num": 100211
   },
   {
     "id": 118,
     "key": "pet_exp_item_2",
-    "num": 100212,
-    "is_loc": 2
+    "num": 100212
   },
   {
     "id": 119,
     "key": "pet_exp_item_3",
-    "num": 100213,
-    "is_loc": 2
+    "num": 100213
   },
   {
     "id": 138,
@@ -36,230 +31,192 @@
       0,
       23,
       0
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 139,
     "key": "pet_initial_equip_num",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 140,
     "key": "pet_preset_team_num",
-    "num": 4,
-    "is_loc": 2
+    "num": 4
   },
   {
     "id": 141,
     "key": "team_member_num",
-    "num": 6,
-    "is_loc": 2
+    "num": 6
   },
   {
     "id": 142,
     "key": "pet_evolution_need_round",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 143,
     "key": "pet_evolution_button_1",
-    "str": "回应精灵",
-    "is_loc": 1
+    "str": "回应精灵"
   },
   {
     "id": 144,
     "key": "pet_evolution_text_1",
-    "str": "……哦！？{0}的样子……！似乎想要进化……！！！",
-    "is_loc": 1
+    "str": "……哦！？{0}的样子……！似乎想要进化……！！！"
   },
   {
     "id": 145,
     "key": "pet_evolution_button_2",
-    "str": "查看精灵",
-    "is_loc": 1
+    "str": "查看精灵"
   },
   {
     "id": 146,
     "key": "pet_evolution_text_2",
-    "str": "……太棒了！{0}进化为{1}了……！！！",
-    "is_loc": 1
+    "str": "……太棒了！{0}进化为{1}了……！！！"
   },
   {
     "id": 147,
     "key": "pet_evolution_text_3",
-    "str": "{0}现在是{1}。",
-    "is_loc": 1
+    "str": "{0}现在是{1}。"
   },
   {
     "id": 148,
     "key": "pet_evolution_text_4",
-    "str": "{0}现在是{1}和{2}。",
-    "is_loc": 1
+    "str": "{0}现在是{1}和{2}。"
   },
   {
     "id": 149,
     "key": "pet_handbook_find_distance",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 150,
     "key": "pet_max_equip_num",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 151,
     "key": "pet_equip_limit_quality",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 152,
     "key": "pet_evolution_btn1",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/btn_shuxing_png.btn_shuxing_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/btn_shuxing_png.btn_shuxing_png'"
   },
   {
     "id": 153,
     "key": "pet_evolution_btn2",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_queren_png.img_queren_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_queren_png.img_queren_png'"
   },
   {
     "id": 154,
     "key": "pet_catch_up_desc",
-    "str": "洛克更容易捕捉到“{0}”了。",
-    "is_loc": 1
+    "str": "洛克更容易捕捉到“{0}”了。"
   },
   {
     "id": 155,
     "key": "handbook_desc_item",
-    "str": "有图鉴奖励可以领取",
-    "is_loc": 1
+    "str": "有图鉴奖励可以领取"
   },
   {
     "id": 156,
     "key": "handbook_desc_skill",
-    "str": "解锁新技能",
-    "is_loc": 1
+    "str": "解锁新技能"
   },
   {
     "id": 157,
     "key": "handbook_desc_catch",
-    "str": "更容易捕捉到“{0}”了。",
-    "is_loc": 1
+    "str": "更容易捕捉到“{0}”了。"
   },
   {
     "id": 158,
     "key": "handbook_desc_new",
-    "str": "新精灵？！",
-    "is_loc": 1
+    "str": "新精灵？！"
   },
   {
     "id": 159,
     "key": "handbook_desc_lvup",
-    "str": "知识增加了！",
-    "is_loc": 1
+    "str": "知识增加了！"
   },
   {
     "id": 160,
     "key": "handbook_desc_complete",
-    "str": "研究完成了！",
-    "is_loc": 1
+    "str": "研究完成了！"
   },
   {
     "id": 161,
     "key": "pet_level_toplimit",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 162,
     "key": "evolution_interval",
-    "num": 2500,
-    "is_loc": 2
+    "num": 2500
   },
   {
     "id": 163,
     "key": "pet_role_exp_desc",
-    "str": "魔法经验，用于提升魔法等级",
-    "is_loc": 1
+    "str": "魔法经验，用于提升魔法等级"
   },
   {
     "id": 164,
     "key": "handbook_desc_role_exp",
-    "str": "魔法经验提升",
-    "is_loc": 1
+    "str": "魔法经验提升"
   },
   {
     "id": 165,
     "key": "pet_lock",
-    "str": "该宠物只能在古卡恩之灵周围进行更换",
-    "is_loc": 1
+    "str": "该宠物只能在古卡恩之灵周围进行更换"
   },
   {
     "id": 166,
     "key": "pet_level_boundary",
-    "num": 21,
-    "is_loc": 2
+    "num": 21
   },
   {
     "id": 167,
     "key": "resonance_item_id_blue",
-    "num": 100211,
-    "is_loc": 2
+    "num": 100211
   },
   {
     "id": 168,
     "key": "resonance_item_id_purple",
-    "num": 100212,
-    "is_loc": 2
+    "num": 100212
   },
   {
     "id": 169,
     "key": "resonance_item_id_orange",
-    "num": 100213,
-    "is_loc": 2
+    "num": 100213
   },
   {
     "id": 170,
     "key": "max_resonance_time",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 171,
     "key": "no_resonance_quality_max",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 172,
     "key": "pet_bag_volume",
-    "num": 9,
-    "is_loc": 2
+    "num": 9
   },
   {
     "id": 173,
     "key": "pet_settled_reward_type",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 174,
     "key": "pet_screen_desc",
-    "str": "已选择系别数量达到上限",
-    "is_loc": 1
+    "str": "已选择系别数量达到上限"
   },
   {
     "id": 175,
     "key": "pet_no_synchron",
-    "str": "请先编入至少1只精灵",
-    "is_loc": 1
+    "str": "请先编入至少1只精灵"
   },
   {
     "id": 176,
@@ -267,128 +224,107 @@
     "numList": [
       15,
       25
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 177,
     "key": "height_low_scale_percent",
-    "num": 9000,
-    "is_loc": 2
+    "num": 9000
   },
   {
     "id": 178,
     "key": "height_scale_space",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 179,
     "key": "weight_wave",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 180,
     "key": "default_pet_nature",
-    "num": 23,
-    "is_loc": 2
+    "num": 23
   },
   {
     "id": 181,
     "key": "handbook_renew_hint_time",
-    "num": 1500,
-    "is_loc": 2
+    "num": 1500
   },
   {
     "id": 182,
     "key": "handbook_renew_show_time",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 183,
     "key": "handbook_describe1_percent",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 184,
     "key": "handbook_describe2_percent",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 185,
     "key": "Equipped_ball_max",
-    "num": 999,
-    "is_loc": 2
+    "num": 999
   },
   {
     "id": 186,
     "key": "Handbook_habitat_radius_minimum",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 188,
     "key": "skill_unlock_show_time",
-    "num": 1600,
-    "is_loc": 2
+    "num": 1600
   },
   {
     "id": 189,
     "key": "pet_setich_attribute_time",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 190,
     "key": "pre_show_skill_num",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 191,
     "key": "pet_level_show_length",
-    "num": 6000,
-    "is_loc": 2
+    "num": 6000
   },
   {
     "id": 192,
     "key": "pet_level_show_width",
-    "num": 6000,
-    "is_loc": 2
+    "num": 6000
   },
   {
     "id": 193,
     "key": "catch_pet_show_time",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 194,
     "key": "pet_bond_revert",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 195,
     "key": "pet_bond_find_range",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 196,
     "key": "hatch_limit",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 197,
     "key": "hatch_increase_time",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 198,
@@ -396,24 +332,20 @@
     "numList": [
       25,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 199,
-    "key": "hatch_increase_battle",
-    "is_loc": 2
+    "key": "hatch_increase_battle"
   },
   {
     "id": 200,
-    "key": "hatch_increase_star",
-    "is_loc": 2
+    "key": "hatch_increase_star"
   },
   {
     "id": 201,
     "key": "hatch_refresh_time",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 202,
@@ -422,8 +354,7 @@
       0,
       20,
       30
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 203,
@@ -432,8 +363,7 @@
       20,
       40,
       25
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 204,
@@ -442,8 +372,7 @@
       40,
       60,
       20
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 205,
@@ -452,8 +381,7 @@
       60,
       80,
       15
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 206,
@@ -462,19 +390,16 @@
       80,
       100,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 207,
-    "key": "hatch_jump_percent",
-    "is_loc": 2
+    "key": "hatch_jump_percent"
   },
   {
     "id": 208,
     "key": "hatch_jump_cd",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 209,
@@ -483,80 +408,67 @@
       2000670,
       2000671,
       2000672
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 210,
     "key": "travel_times",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 211,
     "key": "travel_advantage_award",
-    "num": 2000,
-    "is_loc": 2
+    "num": 2000
   },
   {
     "id": 212,
     "key": "travel_advantage_lay",
-    "num": 2000,
-    "is_loc": 2
+    "num": 2000
   },
   {
     "id": 213,
     "key": "travel_inherit_blood",
-    "num": 7000,
-    "is_loc": 2
+    "num": 7000
   },
   {
     "id": 214,
     "key": "travel_inherit_nature",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 215,
     "key": "handbook_text_1",
-    "str": "这是新发现的精灵，快去捕捉吧。",
-    "is_loc": 1
+    "str": "这是新发现的精灵，快去捕捉吧。"
   },
   {
     "id": 216,
     "key": "handbook_text_2",
-    "str": "通过解决图鉴课题，将这只精灵的图鉴内容填充吧。",
-    "is_loc": 1
+    "str": "通过解决图鉴课题，将这只精灵的图鉴内容填充吧。"
   },
   {
     "id": 217,
     "key": "handbook_text_3",
-    "str": "这是尚未发现的精灵，去找一找它在哪里吧。",
-    "is_loc": 1
+    "str": "这是尚未发现的精灵，去找一找它在哪里吧。"
   },
   {
     "id": 218,
     "key": "handbook_indentation",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 219,
     "key": "hatch_interrupt_text",
-    "str": "精灵蛋被取出后，孵化进度将不会保留，是否确认将精灵蛋取回道具背包？",
-    "is_loc": 1
+    "str": "精灵蛋被取出后，孵化进度将不会保留，是否确认将精灵蛋取回道具背包？"
   },
   {
     "id": 220,
     "key": "pet_hatch_text",
-    "str": "蛋孵化成【{0}】了！",
-    "is_loc": 1
+    "str": "蛋孵化成【{0}】了！"
   },
   {
     "id": 221,
     "key": "pet_level_show_num_max",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 222,
@@ -566,8 +478,7 @@
       1,
       5,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 223,
@@ -577,8 +488,7 @@
       2,
       0,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 224,
@@ -588,8 +498,7 @@
       3,
       4,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 225,
@@ -599,8 +508,7 @@
       4,
       6,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 226,
@@ -610,8 +518,7 @@
       5,
       3,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 227,
@@ -621,8 +528,7 @@
       6,
       7,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 228,
@@ -632,8 +538,7 @@
       7,
       11,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 229,
@@ -643,8 +548,7 @@
       8,
       16,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 230,
@@ -654,8 +558,7 @@
       9,
       12,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 231,
@@ -665,8 +568,7 @@
       10,
       13,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 232,
@@ -676,8 +578,7 @@
       11,
       1,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 233,
@@ -687,8 +588,7 @@
       12,
       14,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 234,
@@ -698,8 +598,7 @@
       13,
       8,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 235,
@@ -709,8 +608,7 @@
       14,
       15,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 236,
@@ -720,8 +618,7 @@
       15,
       9,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 237,
@@ -731,8 +628,7 @@
       16,
       2,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 238,
@@ -742,8 +638,7 @@
       17,
       17,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 239,
@@ -753,32 +648,27 @@
       18,
       10,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 240,
     "key": "team_battle_starlink",
-    "num": 20,
-    "is_loc": 2
+    "num": 20
   },
   {
     "id": 241,
     "key": "team_battle_owner_wait_time",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 242,
     "key": "team_battle_teammate_wait_time",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 243,
     "key": "team_battle_urgent_time",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 244,
@@ -786,8 +676,7 @@
     "numList": [
       21001,
       21003
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 245,
@@ -796,8 +685,7 @@
     "numList": [
       510001,
       510034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 246,
@@ -806,8 +694,7 @@
     "numList": [
       511001,
       511034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 247,
@@ -816,8 +703,7 @@
     "numList": [
       512001,
       512034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 248,
@@ -826,8 +712,7 @@
     "numList": [
       513001,
       513034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 249,
@@ -836,8 +721,7 @@
     "numList": [
       514001,
       514034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 250,
@@ -846,8 +730,7 @@
     "numList": [
       515001,
       515034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 251,
@@ -856,8 +739,7 @@
     "numList": [
       516001,
       516034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 252,
@@ -865,8 +747,7 @@
     "numList": [
       517001,
       517034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 253,
@@ -874,8 +755,7 @@
     "numList": [
       518001,
       518034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 254,
@@ -883,8 +763,7 @@
     "numList": [
       519001,
       519034
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 255,
@@ -893,8 +772,7 @@
       1,
       15,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 256,
@@ -903,8 +781,7 @@
       2,
       25,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 257,
@@ -913,8 +790,7 @@
       3,
       35,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 258,
@@ -923,8 +799,7 @@
       4,
       45,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 259,
@@ -933,8 +808,7 @@
       5,
       55,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 260,
@@ -943,8 +817,7 @@
       6,
       55,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 261,
@@ -953,8 +826,7 @@
       7,
       60,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 262,
@@ -963,8 +835,7 @@
       8,
       60,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 263,
@@ -973,8 +844,7 @@
       9,
       60,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 264,
@@ -983,251 +853,210 @@
       10,
       60,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 265,
     "key": "team_battle_no_star",
-    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n是否仍然参与挑战？",
-    "is_loc": 1
+    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n是否仍然参与挑战？"
   },
   {
     "id": 266,
     "key": "team_battle_no_ball",
-    "str": "捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？",
-    "is_loc": 1
+    "str": "捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？"
   },
   {
     "id": 267,
     "key": "team_battle_no_star_ball",
-    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？",
-    "is_loc": 1
+    "str": "挑战稀兽花种需要<span size=\"24\" color=\"#af3d3e\">{0}</>契约印记，当前<span size=\"24\" color=\"#af3d3e\">没有</>契约印记。\n捕捉精灵需要<span size=\"24\" color=\"#af3d3e\">1</>枚任意咕噜球，当前<span size=\"24\" color=\"#af3d3e\">未持有</>咕噜球。\n是否仍然参与挑战？"
   },
   {
     "id": 268,
     "key": "team_battle_flower",
-    "str": "孕育着混血精灵的花种，在花种完全消失之前打倒混血精灵吧！",
-    "is_loc": 1
+    "str": "孕育着混血精灵的花种，在花种完全消失之前打倒混血精灵吧！"
   },
   {
     "id": 269,
     "key": "team_battle_text_single",
-    "str": "点击空白处关闭。",
-    "is_loc": 1
+    "str": "点击空白处关闭。"
   },
   {
     "id": 270,
     "key": "team_battle_text_team",
-    "str": "超时将自动拒绝邀请，点击空白处关闭。（{0}秒）",
-    "is_loc": 1
+    "str": "超时将自动拒绝邀请，点击空白处关闭。（{0}秒）"
   },
   {
     "id": 271,
     "key": "team_battle_single_or_team",
-    "str": "您当前处于多人游戏状态，是否邀请其他玩家一起进行挑战？",
-    "is_loc": 1
+    "str": "您当前处于多人游戏状态，是否邀请其他玩家一起进行挑战？"
   },
   {
     "id": 272,
     "key": "team_battle_no_accepted",
-    "str": "{0}未接受挑战邀请。",
-    "is_loc": 1
+    "str": "{0}未接受挑战邀请。"
   },
   {
     "id": 273,
     "key": "team_battle_ready_cant_change",
-    "str": "已准备状态下无法更换上场精灵。",
-    "is_loc": 1
+    "str": "已准备状态下无法更换上场精灵。"
   },
   {
     "id": 274,
     "key": "team_battle_cancel_challenge",
-    "str": "{0}取消了挑战。",
-    "is_loc": 1
+    "str": "{0}取消了挑战。"
   },
   {
     "id": 275,
     "key": "team_battle_change_pet",
-    "str": "{0}更换了上场的精灵。",
-    "is_loc": 1
+    "str": "{0}更换了上场的精灵。"
   },
   {
     "id": 276,
     "key": "team_battle_cost_star",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 277,
     "key": "team_battle_catch_text",
-    "str": "本次捕捉额外消耗{0}契约印记",
-    "is_loc": 1
+    "str": "本次捕捉额外消耗{0}契约印记"
   },
   {
     "id": 278,
     "key": "team_battle_catch_quit",
-    "str": "是否放弃本次捕捉机会，并退出挑战？\n放弃捕捉<span size=\"26\" color=\"#af3d3e\">不会消耗</>任何契约印记或咕噜球。",
-    "is_loc": 1
+    "str": "是否放弃本次捕捉机会，并退出挑战？\n放弃捕捉<span size=\"26\" color=\"#af3d3e\">不会消耗</>任何契约印记或咕噜球。"
   },
   {
     "id": 279,
     "key": "pet_talent_text1",
     "num": 1,
-    "str": "一般般的天分",
-    "is_loc": 1
+    "str": "一般般的天分"
   },
   {
     "id": 280,
     "key": "pet_talent_text2",
     "num": 2,
-    "str": "还不错的天分",
-    "is_loc": 1
+    "str": "还不错的天分"
   },
   {
     "id": 281,
     "key": "pet_talent_text3",
     "num": 3,
-    "str": "相当好的天分",
-    "is_loc": 1
+    "str": "相当好的天分"
   },
   {
     "id": 282,
     "key": "pet_talent_text4",
     "num": 4,
-    "str": "了不起的天分",
-    "is_loc": 1
+    "str": "了不起的天分"
   },
   {
     "id": 283,
     "key": "pet_blood_mix_prob",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 284,
     "key": "pet_blood_mix_prob_max",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 285,
     "key": "pet_name_num_max",
-    "num": 12,
-    "is_loc": 2
+    "num": 12
   },
   {
     "id": 286,
     "key": "team_battle_cant_accept",
-    "str": "当前状态无法参与挑战。",
-    "is_loc": 1
+    "str": "当前状态无法参与挑战。"
   },
   {
     "id": 287,
     "key": "Equipped_magic_max",
-    "num": 999,
-    "is_loc": 2
+    "num": 999
   },
   {
     "id": 288,
     "key": "pet_evolution_button_3",
-    "str": "回到战斗",
-    "is_loc": 1
+    "str": "回到战斗"
   },
   {
     "id": 289,
     "key": "owl_blood_mix_prob",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 290,
     "key": "owl_blood_mix_prob_max",
-    "num": 2500,
-    "is_loc": 2
+    "num": 2500
   },
   {
     "id": 291,
     "key": "handbook_topic_renew_show_time",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 292,
     "key": "pet_data_version_autofix",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 293,
     "key": "pet_skill_version",
-    "num": 3,
-    "is_loc": 2
+    "num": 4
   },
   {
     "id": 294,
     "key": "pet_attr_version",
-    "num": 4,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 295,
     "key": "collection_cant_release",
-    "str": "精灵已被标记，无法放生",
-    "is_loc": 1
+    "str": "精灵已被标记，无法放生"
   },
   {
     "id": 296,
     "key": "pet_collection_tips",
-    "str": "精灵已收藏",
-    "is_loc": 1
+    "str": "精灵已收藏"
   },
   {
     "id": 297,
     "key": "universal_growth_material",
-    "num": 100423,
-    "is_loc": 2
+    "num": 100423
   },
   {
     "id": 300,
     "key": "switch_pet_angle",
-    "num": 20,
-    "is_loc": 2
+    "num": 20
   },
   {
     "id": 301,
     "key": "open_info_pet_angle",
-    "num": -20,
-    "is_loc": 2
+    "num": -20
   },
   {
     "id": 302,
-    "key": "gradient_change_time",
-    "is_loc": 2
+    "key": "gradient_change_time"
   },
   {
     "id": 303,
     "key": "gradient_last_time_coefficient",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 304,
     "key": "pet_depot_number_max",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 305,
     "key": "pet_depot_max_hint",
-    "str": "精灵仓库的容量不太够了哦，还是先整理一下吧~",
-    "is_loc": 1
+    "str": "精灵仓库的容量不太够了哦，还是先整理一下吧~"
   },
   {
     "id": 306,
     "key": "pet_bag_number_max",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 307,
@@ -1235,32 +1064,27 @@
     "numList": [
       1,
       30
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 308,
     "key": "break_need_grow_time",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 309,
     "key": "break_common_dust_id",
-    "num": 100201,
-    "is_loc": 2
+    "num": 100201
   },
   {
     "id": 310,
     "key": "record_defeat_pet_num",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 311,
     "key": "record_defeat_pet_is_alive",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 313,
@@ -1269,8 +1093,7 @@
       90001,
       1,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 314,
@@ -1279,8 +1102,7 @@
       90002,
       2,
       0
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 315,
@@ -1289,8 +1111,7 @@
       90003,
       3,
       4
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 316,
@@ -1299,8 +1120,7 @@
       90004,
       4,
       6
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 317,
@@ -1309,8 +1129,7 @@
       90005,
       5,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 318,
@@ -1319,8 +1138,7 @@
       90006,
       6,
       7
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 319,
@@ -1329,8 +1147,7 @@
       90007,
       7,
       11
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 320,
@@ -1339,8 +1156,7 @@
       90008,
       8,
       16
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 321,
@@ -1349,8 +1165,7 @@
       90009,
       9,
       12
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 322,
@@ -1359,8 +1174,7 @@
       90010,
       10,
       13
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 323,
@@ -1369,8 +1183,7 @@
       90011,
       11,
       1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 324,
@@ -1379,8 +1192,7 @@
       90012,
       12,
       14
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 325,
@@ -1389,8 +1201,7 @@
       90013,
       13,
       8
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 326,
@@ -1399,8 +1210,7 @@
       90014,
       14,
       15
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 327,
@@ -1409,8 +1219,7 @@
       90015,
       15,
       9
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 328,
@@ -1419,8 +1228,7 @@
       90016,
       16,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 329,
@@ -1429,8 +1237,7 @@
       90017,
       17,
       17
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 330,
@@ -1439,20 +1246,17 @@
       90018,
       18,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 331,
     "key": "hb_record_nightmare_color",
-    "str": "#772478;#cd4579",
-    "is_loc": 2
+    "str": "#772478;#cd4579"
   },
   {
     "id": 332,
     "key": "hb_record_nightmare_icon",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_wemeng_png.img_wemeng_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_wemeng_png.img_wemeng_png'"
   },
   {
     "id": 333,
@@ -1460,8 +1264,7 @@
     "numList": [
       100422,
       100424
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 334,
@@ -1469,8 +1272,7 @@
     "numList": [
       100420,
       100421
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 335,
@@ -1497,64 +1299,54 @@
       102022,
       102023,
       102024
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 336,
     "key": "nightmare_blood_effect_item",
     "numList": [
       100425
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 337,
     "key": "pet_recommend_option_icon_nature_unselect",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xingge1_png.img_xingge1_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xingge1_png.img_xingge1_png'"
   },
   {
     "id": 338,
     "key": "pet_recommend_option_icon_nature_selected",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xingge2_png.img_xingge2_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xingge2_png.img_xingge2_png'"
   },
   {
     "id": 339,
     "key": "pet_recommend_option_icon_talent_unselect",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_getizhi1_png.img_getizhi1_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_getizhi1_png.img_getizhi1_png'"
   },
   {
     "id": 340,
     "key": "pet_recommend_option_icon_talent_selected",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_getizhi2_png.img_getizhi2_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_getizhi2_png.img_getizhi2_png'"
   },
   {
     "id": 341,
     "key": "pet_recommend_option_icon_blood_unselect",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xuemai1_png.img_xuemai1_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xuemai1_png.img_xuemai1_png'"
   },
   {
     "id": 342,
     "key": "pet_recommend_option_icon_blood_selected",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xuemai2_png.img_xuemai2_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_xuemai2_png.img_xuemai2_png'"
   },
   {
     "id": 343,
     "key": "pet_recommend_option_icon_skill_unselect",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_jinng1_png.img_jinng1_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_jinng1_png.img_jinng1_png'"
   },
   {
     "id": 344,
     "key": "pet_recommend_option_icon_skill_selected",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_jinng2_png.img_jinng2_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_jinng2_png.img_jinng2_png'"
   },
   {
     "id": 345,
@@ -1564,32 +1356,27 @@
       17,
       18,
       22
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 346,
     "key": "hb_boy_roco_shadow",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_ren_yinying_png.img_ren_yinying_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_ren_yinying_png.img_ren_yinying_png'"
   },
   {
     "id": 347,
     "key": "hb_girl_roco_shadow",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_ren_yinying_nv_png.img_ren_yinying_nv_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Frames/img_ren_yinying_nv_png.img_ren_yinying_nv_png'"
   },
   {
     "id": 348,
     "key": "star_debris_rule_description",
-    "str": "契约印记达到或超出上限时，将随时间恢复凝练印记。\n每满24小时恢复20点，最多储存600点。",
-    "is_loc": 1
+    "str": "契约印记达到或超出上限时，将随时间恢复凝练印记。\n每满24小时恢复20点，最多储存600点。"
   },
   {
     "id": 349,
     "key": "close_riding_moving_time",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 350,
@@ -1598,8 +1385,7 @@
       20189,
       1,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 351,
@@ -1608,8 +1394,7 @@
       20190,
       2,
       0
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 352,
@@ -1618,8 +1403,7 @@
       20191,
       3,
       4
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 353,
@@ -1628,8 +1412,7 @@
       20192,
       4,
       6
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 354,
@@ -1638,8 +1421,7 @@
       20193,
       5,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 355,
@@ -1648,8 +1430,7 @@
       20194,
       6,
       7
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 356,
@@ -1658,8 +1439,7 @@
       20195,
       7,
       11
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 357,
@@ -1668,8 +1448,7 @@
       20196,
       8,
       16
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 358,
@@ -1678,8 +1457,7 @@
       20197,
       9,
       12
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 359,
@@ -1688,8 +1466,7 @@
       20198,
       10,
       13
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 360,
@@ -1698,8 +1475,7 @@
       20199,
       11,
       1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 361,
@@ -1708,8 +1484,7 @@
       20200,
       12,
       14
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 362,
@@ -1718,8 +1493,7 @@
       20201,
       13,
       8
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 363,
@@ -1728,8 +1502,7 @@
       20202,
       14,
       15
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 364,
@@ -1738,8 +1511,7 @@
       20203,
       15,
       9
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 365,
@@ -1748,8 +1520,7 @@
       20204,
       16,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 366,
@@ -1758,8 +1529,7 @@
       20205,
       17,
       17
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 367,
@@ -1768,62 +1538,52 @@
       20206,
       18,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 368,
     "key": "pet_depot_release_maximun",
-    "num": 300,
-    "is_loc": 2
+    "num": 300
   },
   {
     "id": 369,
     "key": "team_battle_glass_pro_add",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 370,
     "key": "select_marked_pet",
-    "str": "该精灵已标记",
-    "is_loc": 1
+    "str": "该精灵已标记"
   },
   {
     "id": 371,
     "key": "pet_trial_data_version_autofix",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 372,
     "key": "pet_trial_version",
-    "num": 2,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 373,
     "key": "hd_track_world_map_id",
-    "num": 10001,
-    "is_loc": 2
+    "num": 10001
   },
   {
     "id": 374,
     "key": "hd_is_catch_show_track",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 375,
     "key": "hd_is_find_show_track",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 376,
     "key": "hd_is_notfind_show_track",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 377,
@@ -1832,8 +1592,7 @@
       700001,
       1,
       5
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 378,
@@ -1842,8 +1601,7 @@
       700002,
       2,
       0
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 379,
@@ -1852,8 +1610,7 @@
       700003,
       3,
       4
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 380,
@@ -1862,8 +1619,7 @@
       700004,
       4,
       6
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 381,
@@ -1872,8 +1628,7 @@
       700005,
       5,
       3
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 382,
@@ -1882,8 +1637,7 @@
       700006,
       6,
       7
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 383,
@@ -1892,8 +1646,7 @@
       700007,
       7,
       11
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 384,
@@ -1902,8 +1655,7 @@
       700008,
       8,
       16
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 385,
@@ -1912,8 +1664,7 @@
       700009,
       9,
       12
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 386,
@@ -1922,8 +1673,7 @@
       700010,
       10,
       13
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 387,
@@ -1932,8 +1682,7 @@
       700011,
       11,
       1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 388,
@@ -1942,8 +1691,7 @@
       700012,
       12,
       14
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 389,
@@ -1952,8 +1700,7 @@
       700013,
       13,
       8
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 390,
@@ -1962,8 +1709,7 @@
       700014,
       14,
       15
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 391,
@@ -1972,8 +1718,7 @@
       700015,
       15,
       9
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 392,
@@ -1982,8 +1727,7 @@
       700016,
       16,
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 393,
@@ -1992,8 +1736,7 @@
       700017,
       17,
       17
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 394,
@@ -2002,50 +1745,42 @@
       700018,
       18,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 395,
     "key": "pet_handbook_topic_show_num",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 396,
     "key": "pet_mainwrold_release_maximun",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 397,
     "key": "high_value_pet_rule_level",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 398,
     "key": "high_value_pet_rule_reserve_day",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 399,
     "key": "unlock_attribute_quantity",
-    "num": 8,
-    "is_loc": 2
+    "num": 8
   },
   {
     "id": 400,
     "key": "pet_recommend_data_deliver_quantity",
-    "num": 8,
-    "is_loc": 2
+    "num": 8
   },
   {
     "id": 401,
     "key": "mainworld_team_default_name",
-    "str": "大世界小队{0:d}",
-    "is_loc": 1
+    "str": "大世界小队{0:d}"
   },
   {
     "id": 402,
@@ -2056,8 +1791,7 @@
       10,
       1,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 403,
@@ -2066,199 +1800,167 @@
       10,
       10,
       -1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 404,
     "key": "magic_academy_limit",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 405,
     "key": "travel_exp_coefficient",
-    "num": 20,
-    "is_loc": 2
+    "num": 20
   },
   {
     "id": 406,
     "key": "travel_exp_level_diff",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 407,
     "key": "talent_change_rate",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 408,
     "key": "talent_change_coefficient",
-    "num": 1500,
-    "is_loc": 2
+    "num": 1500
   },
   {
     "id": 409,
     "key": "talent_change_level_diff",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 410,
     "key": "pet_travel_map_raito",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 411,
     "key": "magic_academyl_map_raito",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 412,
     "key": "pet_inheritance_personality_positive_rate",
-    "num": 30000,
-    "is_loc": 2
+    "num": 30000
   },
   {
     "id": 413,
     "key": "pet_inheritance_personality_negative_rate",
-    "num": 30000,
-    "is_loc": 2
+    "num": 30000
   },
   {
     "id": 414,
     "key": "pet_inheritance_talent_rate",
-    "num": 30000,
-    "is_loc": 2
+    "num": 30000
   },
   {
     "id": 415,
     "key": "pet_inheritance_attribute_num",
-    "num": 30000,
-    "is_loc": 2
+    "num": 30000
   },
   {
     "id": 416,
     "key": "no_pet_inheritance_attribute_rate",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 417,
     "key": "pet_inheritance_attribute_swing_rate",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 418,
     "key": "pet_inheritance_attribute_swing_range",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 419,
     "key": "chain_unit_width",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 420,
     "key": "high_value_pet_max_size",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 421,
     "key": "default_pet_info_id",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 422,
     "key": "pet_mainwrold_report_maximun",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 423,
     "key": "report_text_super",
-    "str": "#CF3D3E",
-    "is_loc": 2
+    "str": "#CF3D3E"
   },
   {
     "id": 424,
     "key": "report_text_hard",
     "num": 45,
-    "str": "#D56C1F",
-    "is_loc": 2
+    "str": "#D56C1F"
   },
   {
     "id": 425,
     "key": "report_text_middle",
     "num": 15,
-    "str": "#7F4DFF",
-    "is_loc": 2
+    "str": "#7F4DFF"
   },
   {
     "id": 426,
     "key": "report_text_easy",
     "num": 3,
-    "str": "#42A7CC",
-    "is_loc": 2
+    "str": "#42A7CC"
   },
   {
     "id": 427,
     "key": "report_title_ratio",
-    "num": 15,
-    "is_loc": 2
+    "num": 15
   },
   {
     "id": 428,
     "key": "report_res_ui_percentage",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 429,
     "key": "pet_report_page_number",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 430,
     "key": "pet_talent_version",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 431,
     "key": "harmonia_pet_star_ratio",
-    "num": 20000,
-    "is_loc": 2
+    "num": 20000
   },
   {
     "id": 432,
     "key": "lineup_code_version",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 433,
     "key": "pet_talent_random_ban",
     "numList": [
       1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 434,
     "key": "normal_talent_id",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 435,
@@ -2271,31 +1973,26 @@
       2623,
       2624,
       2625
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 436,
     "key": "peer_pet_not_give_time_limit",
-    "num": 240,
-    "is_loc": 2
+    "num": 240
   },
   {
     "id": 437,
     "key": "peer_pet_give_mail",
-    "num": 80042,
-    "is_loc": 2
+    "num": 80042
   },
   {
     "id": 438,
     "key": "peer_pet_report_mail",
-    "num": 80043,
-    "is_loc": 2
+    "num": 80043
   },
   {
     "id": 439,
-    "key": "peer_pet_not_give_evolutioncondition",
-    "is_loc": 2
+    "key": "peer_pet_not_give_evolutioncondition"
   },
   {
     "id": 440,
@@ -2307,62 +2004,52 @@
       100281,
       100282,
       280001
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 441,
     "key": "pet_lay_egg_distance",
-    "num": 340,
-    "is_loc": 2
+    "num": 340
   },
   {
     "id": 442,
     "key": "pet_lay_egg_cd",
-    "num": 1800,
-    "is_loc": 2
+    "num": 1800
   },
   {
     "id": 443,
     "key": "pet_inheritance_ex_shining_rate_male",
-    "num": 72,
-    "is_loc": 2
+    "num": 72
   },
   {
     "id": 444,
     "key": "pet_inheritance_ex_shining_rate_female",
-    "num": 72,
-    "is_loc": 2
+    "num": 72
   },
   {
     "id": 445,
     "key": "pet_inheritance_im_shining_rate",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 446,
     "key": "pet_inheritance_ex_glass_rate_male",
-    "num": 36,
-    "is_loc": 2
+    "num": 36
   },
   {
     "id": 447,
     "key": "pet_inheritance_ex_glass_rate_female",
-    "num": 36,
-    "is_loc": 2
+    "num": 36
   },
   {
     "id": 448,
     "key": "pet_inheritance_personality_rate_male",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 449,
     "key": "pet_inheritance_personality_rate_female",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 450,
@@ -2371,8 +2058,7 @@
       0,
       100,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 451,
@@ -2384,8 +2070,7 @@
       100,
       100,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 452,
@@ -2394,8 +2079,7 @@
       0,
       300,
       300
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 453,
@@ -2404,8 +2088,7 @@
       0,
       300,
       300
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 454,
@@ -2417,8 +2100,7 @@
       300,
       300,
       300
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 455,
@@ -2430,8 +2112,7 @@
       300,
       300,
       300
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 456,
@@ -2441,8 +2122,7 @@
       8,
       9,
       10
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 457,
@@ -2452,44 +2132,37 @@
       100,
       100,
       100
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 458,
     "key": "pet_lay_egg_guarantee",
-    "num": 48,
-    "is_loc": 2
+    "num": 48
   },
   {
     "id": 459,
     "key": "home_inheritance_blood",
-    "num": 7000,
-    "is_loc": 2
+    "num": 7000
   },
   {
     "id": 460,
     "key": "pet_voice_low",
-    "num": -100,
-    "is_loc": 2
+    "num": -100
   },
   {
     "id": 461,
     "key": "pet_voice_high",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 462,
     "key": "handbook_topic_version",
-    "num": 110010,
-    "is_loc": 2
+    "num": 111010
   },
   {
     "id": 463,
     "key": "home_pet_egg_info",
-    "num": 23000000,
-    "is_loc": 2
+    "num": 23000000
   },
   {
     "id": 464,
@@ -2498,20 +2171,17 @@
       3058,
       3552,
       3557
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 465,
     "key": "pet_grow_icon",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_Strive_png.ui_pet_Strive_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/BattleUI/Raw/Atlas/PetSystem/Frames/ui_pet_Strive_png.ui_pet_Strive_png'"
   },
   {
     "id": 466,
     "key": "bonus_shining_prob",
-    "num": 240,
-    "is_loc": 2
+    "num": 240
   },
   {
     "id": 467,
@@ -2519,14 +2189,12 @@
     "numList": [
       9,
       15
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 468,
     "key": "pet_tips_medal_max_num",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 469,
@@ -2634,7 +2302,7 @@
   {
     "id": 489,
     "key": "pet_belong_handbook_version",
-    "num": 110002
+    "num": 111003
   },
   {
     "id": 490,
@@ -2730,6 +2398,7 @@
     "key": "highvalue_pet_need_protect",
     "numList": [
       1,
+      4,
       8
     ]
   },
@@ -2758,9 +2427,18 @@
     "num": 30
   },
   {
+    "id": 515,
+    "key": "ai_batch_mark_maximum_quantity",
+    "num": 50
+  },
+  {
     "id": 516,
     "key": "team_battle_pet_star_ratio",
-    "num": 20000,
-    "is_loc": 2
+    "num": 20000
+  },
+  {
+    "id": 517,
+    "key": "academy_nest_nature_CD",
+    "num": 43200
   }
 ]

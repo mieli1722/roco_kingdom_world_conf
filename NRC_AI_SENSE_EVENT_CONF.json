@@ -573,12 +573,24 @@
     "bb_pos_name": "Global_RunAwayLoc"
   },
   {
+    "id": 1000070,
+    "editor_name": "有加成的球投掷捕捉失败(仅发给被捕捉NPC)",
+    "sense_event_type": 3,
+    "event_sub_type": 70,
+    "spread_dis": [
+      0
+    ],
+    "percep_effect_val": [
+      100
+    ]
+  },
+  {
     "id": 1000071,
     "editor_name": "DAWET_ROLEPLAY_MUSIC",
     "sense_event_type": 3,
     "event_sub_type": 71,
     "spread_dis": [
-      0
+      1500
     ],
     "percep_effect_val": [
       100

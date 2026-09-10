@@ -5,7 +5,7 @@
     "group_event_type": 1,
     "spread_type": 5,
     "spread_param": [
-      3000,
+      10000,
       20
     ],
     "group_ai_role_type_limit": [
@@ -91,8 +91,8 @@
     "spread_type": 5,
     "spread_param": [
       1500,
-      2,
-      3
+      4,
+      4
     ],
     "group_ai_role_type_limit": [
       2,
@@ -366,7 +366,7 @@
     "group_event_type": 1,
     "spread_type": 5,
     "spread_param": [
-      1000,
+      1500,
       4
     ],
     "group_ai_role_type_limit": [
@@ -2693,7 +2693,7 @@
   },
   {
     "id": 230072,
-    "editor_name": "抵御攻击_首领化",
+    "editor_name": "【跟随】抵御攻击_首领化",
     "group_event_type": 1,
     "spread_type": 5,
     "spread_param": [
@@ -2751,7 +2751,7 @@
     "group_event_type": 1,
     "spread_type": 5,
     "spread_param": [
-      2500,
+      1000,
       6
     ],
     "group_ai_role_type_limit": [
@@ -3096,11 +3096,13 @@
     "spread_param": [
       2000,
       4,
-      4
+      4,
+      2
     ],
     "group_ai_role_type_limit": [
       2,
-      3
+      3,
+      1
     ],
     "spread_limit_status": [
       0
@@ -3119,6 +3121,160 @@
     ],
     "group_ai_role_type_limit": [
       3,
+      2
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230096,
+    "editor_name": "圣凯喊新月鹭进化链",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4,
+      4,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      6,
+      5,
+      4
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230097,
+    "editor_name": "月使喊热团团进化链",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4,
+      4,
+      2
+    ],
+    "group_ai_role_type_limit": [
+      3,
+      2,
+      1
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230098,
+    "editor_name": "吸附鱼",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      121
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230099,
+    "editor_name": "狼王赋能-找新月鹭",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      6
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230100,
+    "editor_name": "狼王赋能-找热团团",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      3
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230101,
+    "editor_name": "太空狼嚎",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      998,
+      92,
+      88
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230102,
+    "editor_name": "未完虫虚化",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      998,
+      92,
+      88
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 230103,
+    "editor_name": "章脑神经网络",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2500,
+      4
+    ],
+    "group_ai_role_type_limit": [
       2
     ],
     "spread_limit_status": [
@@ -7246,6 +7402,265 @@
     "expire_type": 3
   },
   {
+    "id": 280244,
+    "editor_name": "【家园】云梦豚",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      122
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280245,
+    "editor_name": "【家园】测风蝉直升飞机1嬉闹",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      123,
+      70
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280246,
+    "editor_name": "【家园】小浣蛋绑架其他精灵",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "group_ai_black_role_type": [
+      124,
+      40
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280247,
+    "editor_name": "【家园】小浣熊释放其他精灵",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280248,
+    "editor_name": "【家园】未完虫靠近精灵",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "group_ai_black_role_type": [
+      125
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280249,
+    "editor_name": "【家园】未完虫控制精灵",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280250,
+    "editor_name": "【家园】玳龟加农炮",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      129
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280251,
+    "editor_name": "【家园】玳塔加农炮",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      130
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280252,
+    "editor_name": "【家园】樟脑丸检测环境",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      126
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280253,
+    "editor_name": "【家园】S4赛季机械臂表演",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      36
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280254,
+    "editor_name": "【家园】S4赛季休眠舱休息",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      50
+    ],
+    "group_ai_black_role_type": [
+      48,
+      39,
+      40,
+      998
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280255,
+    "editor_name": "【家园】S4赛季休眠舱害怕",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      48
+    ],
+    "group_ai_black_role_type": [
+      40,
+      39,
+      998
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280256,
+    "editor_name": "【家园】S4赛季精灵跳上扫地机",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      38
+    ],
+    "group_ai_black_role_type": [
+      42,
+      998
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 280257,
+    "editor_name": "【家园】S4赛季精灵跑步",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      63
+    ],
+    "group_ai_black_role_type": [
+      40,
+      42,
+      998
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
     "id": 300000,
     "editor_name": "【蹦床松鼠】结束跳跃驱散松鼠",
     "group_event_type": 1,
@@ -9234,6 +9649,62 @@
     ],
     "group_ai_role_type_limit": [
       15
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 300131,
+    "editor_name": "【家园】测风蝉直升飞机1嬉闹2",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      123,
+      72
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 300132,
+    "editor_name": "【家园】毛头小蛛家族攻击扫地机",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      131
+    ],
+    "group_ai_black_role_type": [
+      42
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 300133,
+    "editor_name": "【家园】未完虫上画",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1500,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      125
     ],
     "spread_limit_status": [
       0
@@ -11686,6 +12157,155 @@
     ],
     "group_ai_role_type_limit": [
       9
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530053,
+    "editor_name": "找光系成员",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      1
+    ],
+    "group_ai_role_type_limit": [
+      24
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530054,
+    "editor_name": "附近成员",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      3000,
+      10
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530055,
+    "editor_name": "【家园】测风蝉直升飞机2起飞",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      123
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530056,
+    "editor_name": "【家园】测风蝉直升飞机3飞行",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      123
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530057,
+    "editor_name": "【家园】测风蝉直升飞机4降落",
+    "group_event_type": 1,
+    "spread_type": 4,
+    "group_ai_role_type_limit": [
+      123
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 530058,
+    "editor_name": "幽铃相遇",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1000,
+      5
+    ],
+    "group_ai_role_type_limit": [
+      1
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 2,
+    "expire_param": [
+      1
+    ]
+  },
+  {
+    "id": 530059,
+    "editor_name": "呼唤2000范围9个成员",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      9
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 660003,
+    "editor_name": "呼唤2000范围4个成员",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      2000,
+      4
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "spread_limit_status": [
+      0
+    ],
+    "expire_type": 3
+  },
+  {
+    "id": 660008,
+    "editor_name": "手持玩具事件",
+    "group_event_type": 1,
+    "spread_type": 5,
+    "spread_param": [
+      1800,
+      6
+    ],
+    "group_ai_role_type_limit": [
+      0
+    ],
+    "group_ai_black_role_type": [
+      1004,
+      1006,
+      1008
     ],
     "spread_limit_status": [
       0

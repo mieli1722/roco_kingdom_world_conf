@@ -1,11 +1,7 @@
 [
   {
     "id": 2,
-    "lost_min_day": 14,
-    "lost_max_day": 365,
-    "duration_days": 14,
     "disposable_reward_id": 710000001,
-    "subactivity_task_condition": 110000343,
     "subactivity_ids": [
       201002,
       5000002,
@@ -16,17 +12,46 @@
   },
   {
     "id": 3,
-    "lost_min_day": 14,
-    "lost_max_day": 365,
-    "duration_days": 14,
     "disposable_reward_id": 710000001,
-    "subactivity_task_condition": 110000344,
     "subactivity_ids": [
       201003,
       5100003,
       5000003
     ],
     "sign_in_txt": "好些日子没见啦，我和精灵们一直盼着你呢。学院也备好了专属补给，回来继续冒险吧！",
+    "bp_welcome_txt": "欢迎归来小同学！快打开这份手册重拾冒险本领！还有丰厚奖励可以领取咕~"
+  },
+  {
+    "id": 4,
+    "disposable_reward_id": 710000030,
+    "subactivity_ids": [
+      201004,
+      5100004,
+      5000004
+    ],
+    "sign_in_txt": "<span color=\"#d56c1f\">两周多</>没见，精灵们一直盼着你呢。学院也备好了专属补给，回来继续冒险吧！",
+    "bp_welcome_txt": "欢迎归来小同学！快打开这份手册重拾冒险本领！还有丰厚奖励可以领取咕~"
+  },
+  {
+    "id": 5,
+    "disposable_reward_id": 710000038,
+    "subactivity_ids": [
+      201005,
+      5100005,
+      5000005
+    ],
+    "sign_in_txt": "即使阔别<span color=\"#d56c1f\">一个多月</>，魔法学院的大门也永远为你敞开，欢迎回家小洛克！",
+    "bp_welcome_txt": "欢迎归来小同学！快打开这份手册重拾冒险本领！还有丰厚奖励可以领取咕~"
+  },
+  {
+    "id": 6,
+    "disposable_reward_id": 710000046,
+    "subactivity_ids": [
+      201006,
+      5100006,
+      5000006
+    ],
+    "sign_in_txt": "小洛克，你离开洛克王国都<span color=\"#d56c1f\">超过两个月</>啦，精灵们都闹着要去找你了，你回来真好！",
     "bp_welcome_txt": "欢迎归来小同学！快打开这份手册重拾冒险本领！还有丰厚奖励可以领取咕~"
   }
 ]

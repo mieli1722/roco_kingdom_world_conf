@@ -2,8 +2,6 @@
   {
     "id": 1,
     "status_type": 1,
-    "status_priority": 300,
-    "perform_delete": true,
     "max_duration": 5000,
     "cooldown": 12000,
     "class_name": "AbnormalStatus_Hypnosis"
@@ -11,8 +9,6 @@
   {
     "id": 2,
     "status_type": 3,
-    "status_priority": 100,
-    "perform_delete": true,
     "max_duration": 10000,
     "cooldown": 12000,
     "whitelist_source_pet": [
@@ -31,8 +27,6 @@
   {
     "id": 3,
     "status_type": 3,
-    "status_priority": 100,
-    "perform_delete": true,
     "max_duration": 10000,
     "cooldown": 12000,
     "whitelist_source_pet": [
@@ -47,73 +41,61 @@
   {
     "id": 4,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Hot"
   },
   {
     "id": 5,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Cold"
   },
   {
     "id": 6,
     "status_type": 4,
-    "status_priority": 199,
     "class_name": "AbnormalStatus_EternalNight"
   },
   {
     "id": 7,
     "status_type": 4,
-    "status_priority": 199,
     "class_name": "AbnormalStatus_PumpkinLight"
   },
   {
     "id": 101,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Pre_Cold_Lv2"
   },
   {
     "id": 102,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Cold_Lv2"
   },
   {
     "id": 103,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Pre_Cold_Lv3"
   },
   {
     "id": 104,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Cold_Lv3"
   },
   {
     "id": 201,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Pre_Hot_Lv2"
   },
   {
     "id": 202,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Hot_Lv2"
   },
   {
     "id": 205,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Pre_Hot_Lv4"
   },
   {
     "id": 206,
     "status_type": 2,
-    "status_priority": 200,
     "class_name": "AbnormalStatus_Hot_Lv4"
   }
 ]

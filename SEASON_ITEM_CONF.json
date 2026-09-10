@@ -354,5 +354,119 @@
     "item_name": "赛季天赋",
     "jump_type": 3,
     "jump_param": "PVEModuleCmd.OpenPveTalentPanel"
+  },
+  {
+    "id": 4001,
+    "item_name": "通行证",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_tongxingzheng.img_tongxingzheng'",
+    "jump_type": 3,
+    "jump_param": "BattlePassModuleCmd.OpenBattlePassActivity",
+    "additional": [
+      {
+        "additional_show": 3
+      }
+    ]
+  },
+  {
+    "id": 4002,
+    "item_name": "赛季作业",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_saijizuoye.img_saijizuoye'",
+    "textbox_disable": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_saijizuoye_weikaiqi.img_saijizuoye_weikaiqi'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      9910
+    ],
+    "jump_type": 3,
+    "jump_param": "MagicManualModuleCmd.OpenMagicManualByIndex",
+    "param1": "MMT_MAGIC_SEASON",
+    "additional": [
+      {}
+    ]
+  },
+  {
+    "id": 4003,
+    "item_name": "代币商店",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_daibishangdian.img_daibishangdian'",
+    "textbox_disable": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_daibishangdian_weikaiqi.img_daibishangdian_weikaiqi'",
+    "jump_type": 3,
+    "jump_param": "NPCShopUIModuleCmd.OpenShopById",
+    "param1": "2014",
+    "additional": [
+      {
+        "additional_show": 1,
+        "param1": "85"
+      }
+    ]
+  },
+  {
+    "id": 4004,
+    "item_name": "传说精灵",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_chuanshuojingling.img_chuanshuojingling'",
+    "textbox_disable": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_chuanshuojingling_weikaiqi.img_chuanshuojingling_weikaiqi'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      10003
+    ],
+    "jump_type": 4,
+    "jump_param": "600007",
+    "param1": "完成9月25日4:00更新的赛季委托「诅咒的意义」后解锁",
+    "time_show_type": 2,
+    "time_show_param": "2026-09-25 04:00:00",
+    "additional": [
+      {}
+    ],
+    "is_go_img": true,
+    "go_img_location": 1
+  },
+  {
+    "id": 4005,
+    "item_name": "赛季大厅",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_saijidating.img_saijidating'",
+    "textbox_disable": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_saijidating_weikaiqi.img_saijidating_weikaiqi'",
+    "unlock_tips": "完成委托并到达「月面」解锁",
+    "lock_flag": [
+      10003,
+      9940
+    ],
+    "jump_type": 3,
+    "jump_param": "TaskModuleCmd.OpenSeasonTaskPanel",
+    "param1": "10000103",
+    "time_show_type": 3,
+    "time_show_param3": [
+      53505,
+      70021,
+      70026,
+      70027,
+      70028,
+      70029
+    ],
+    "additional": [
+      {},
+      {},
+      {
+        "additional_show": 2,
+        "param1": "「月面」"
+      }
+    ],
+    "is_go_img": true,
+    "go_img_location": 1
+  },
+  {
+    "id": 4006,
+    "item_name": "闪耀大赛",
+    "textbox": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_shanyaodasai.img_shanyaodasai'",
+    "textbox_disable": "Texture2D'/Game/NewRoco/Modules/System/SeasonIntegration/Raw/S4SeasonIntegration/Textures/img_shanyaodasai_weikaiqi.img_shanyaodasai_weikaiqi'",
+    "unlock_tips": "30级晋升「精灵研究员」解锁",
+    "lock_flag": [
+      10003
+    ],
+    "jump_type": 3,
+    "jump_param": "MagicManualModuleCmd.OpenMagicManualByIndex",
+    "param1": "MMT_PVP",
+    "additional": [
+      {}
+    ],
+    "is_go_img": true,
+    "go_img_location": 1
   }
 ]

@@ -1,5 +1,8 @@
 [
   {
+    "id": 27
+  },
+  {
     "id": 40,
     "blackboard_override": [
       {
@@ -1416,16 +1419,6 @@
     ]
   },
   {
-    "id": 3466,
-    "blackboard_override": [
-      {
-        "identifier": 4980736,
-        "blackboard_name": "[BB_Bird_L_FlyToPlayerFront]_IsFinish",
-        "data": 1
-      }
-    ]
-  },
-  {
     "id": 3490,
     "blackboard_override": [
       {
@@ -2411,6 +2404,15 @@
     ]
   },
   {
+    "id": 5589,
+    "blackboard_override": [
+      {
+        "identifier": 3604480,
+        "blackboard_name": "[BB_SetCollision]_CancleCollision"
+      }
+    ]
+  },
+  {
     "id": 10016,
     "blackboard_override": [
       {
@@ -2925,6 +2927,9 @@
     ]
   },
   {
+    "id": 23000027
+  },
+  {
     "id": 28000012,
     "blackboard_override": [
       {
@@ -3094,6 +3099,24 @@
   },
   {
     "id": 28000020,
+    "blackboard_override": [
+      {
+        "identifier": 7602176,
+        "blackboard_name": "[BB_Sleep]_Duration",
+        "data": 3000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "identifier": 5636096,
+        "blackboard_name": "[BB_Home_Partner]_IsExpose",
+        "data": 1
+      }
+    ]
+  },
+  {
+    "id": 28000026,
     "blackboard_override": [
       {
         "identifier": 7602176,

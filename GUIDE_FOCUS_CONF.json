@@ -388,7 +388,6 @@
       "UMG_MagicManual_Main",
       "List[1]"
     ],
-    "ui_button_name": "Bg_Special1",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
@@ -403,7 +402,6 @@
       "UMG_MagicManual_Main",
       "List[4]"
     ],
-    "ui_button_name": "Bg_Special1",
     "circle_data": "C1",
     "focus_type": 1,
     "text_pos": "down",
@@ -1024,6 +1022,25 @@
     "mobile_edior_pos": 30,
     "ignore_anims": [
       10010201
+    ]
+  },
+  {
+    "id": 202101,
+    "ui_path": [
+      "UMG_RolePlayMainPanel",
+      "ItemListBg"
+    ],
+    "rectangle_data": [
+      50,
+      40
+    ],
+    "focus_type": 1,
+    "text_pos": "down",
+    "pc_text": "已开启【常用】页签，在该页签里长按收集物可以置顶",
+    "pc_edior_pos": 60,
+    "mobile_text": "已开启【常用】页签，在该页签里长按收集物可以置顶",
+    "ignore_anims": [
+      20020201
     ]
   },
   {
@@ -2195,5 +2212,33 @@
     "pc_edior_pos": 30,
     "mobile_text": "开启后精灵将<span color=\"#FFA500\">自动前往乐园</>",
     "mobile_edior_pos": 30
+  },
+  {
+    "id": 1106035,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "UMG_PlayerAbilities",
+      "AbilitySlot_OnPet"
+    ],
+    "ui_button_name": "Btn_Slot",
+    "circle_data": "C1",
+    "focus_type": 1,
+    "text_pos": "up",
+    "mobile_text": "长按<span color=\"#FFA500\">喷水按钮</>，在种有花种的土地上浇灌",
+    "mobile_edior_pos": 40
+  },
+  {
+    "id": 1106036,
+    "ui_path": [
+      "UMG_LobbyMain",
+      "PCKeyFoundation",
+      "AbilitySlot_OnPet"
+    ],
+    "ui_button_name": "Btn_Slot",
+    "circle_data": "C1",
+    "focus_type": 1,
+    "text_pos": "left",
+    "pc_text": "长按<key=IA_PetRiddingSkillStart_OnPet><span color=\"#FFA500\">喷水按钮</>，在种有花种的土地上浇灌",
+    "pc_edior_pos": 40
   }
 ]

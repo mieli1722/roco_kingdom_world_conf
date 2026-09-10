@@ -41,7 +41,6 @@
     "qrcode_scenario": 1,
     "qrcode_link": "https://game.weixin.qq.com/cgi-bin/h5/lite/circlecenter/index.html?wechat_pkgid=lite_circlecenter&liteapp=liteapp%3A%2F%2Fwxalited17d79803d8c228a7eac78129f40484c%3Fpath%3Dpages%252Findex%252Findex&appid=wxdca9f9a612d43085&tab_id=7&ssid=22#wechat_redirect",
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Wechat_png.img_Share_Wechat_png'",
-    "unsuccess_tip": "请安装微信或更新微信后重试",
     "package_name_android": "com.tencent.mm",
     "package_name_ios": [
       "weixin",
@@ -60,7 +59,6 @@
     "system_control_limit": 53000004,
     "qrcode_scenario": 2,
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_CircleFriends_png.img_Share_CircleFriends_png'",
-    "unsuccess_tip": "请安装微信或更新微信后重试",
     "package_name_android": "com.tencent.mm",
     "package_name_ios": [
       "weixin",
@@ -81,7 +79,6 @@
     "qrcode_scenario": 1,
     "qrcode_link": "https://static.gamecenter.qq.com/xgame/gc-assets/pages/game-detail/index.html?page_name=QQGameCenterGameDetail&open_kuikly_info=%7B%22url%22%3A%22%3FFFROMSCHEMA%3D%26appid%3D1110613799%26adtag%3Dgameclient%22%2C%22page_name%22%3A%22QQGameCenterGameDetail%22%2C%22bundle_name%22%3A%22gamecenter_detail%22%7D",
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_QQ_png.img_Share_QQ_png'",
-    "unsuccess_tip": "请安装QQ或更新QQ后重试",
     "package_name_android": "com.tencent.mobileqq",
     "package_name_ios": [
       "mqq",
@@ -101,7 +98,6 @@
     "qrcode_scenario": 1,
     "qrcode_link": "https://static.gamecenter.qq.com/xgame/gc-assets/pages/game-detail/index.html?page_name=QQGameCenterGameDetail&open_kuikly_info=%7B%22url%22%3A%22%3FFFROMSCHEMA%3D%26appid%3D1110613799%26adtag%3Dgameclient%22%2C%22page_name%22%3A%22QQGameCenterGameDetail%22%2C%22bundle_name%22%3A%22gamecenter_detail%22%7D",
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Qzone_png.img_Share_Qzone_png'",
-    "unsuccess_tip": "请安装QQ或更新QQ后重试",
     "package_name_android": "com.tencent.mobileqq",
     "package_name_ios": [
       "mqq",
@@ -121,7 +117,6 @@
     "qrcode_scenario": 1,
     "qrcode_link": "https://rocom.qq.com/zlkdatasys/mct/d/play.shtml",
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Tiktok_png.img_Share_Tiktok_png'",
-    "unsuccess_tip": "请安装抖音或更新抖音后重试",
     "package_name_android": "com.ss.android.ugc.aweme",
     "package_name_ios": [
       "douyinopensdk",
@@ -141,7 +136,6 @@
     "qrcode_scenario": 1,
     "qrcode_link": "https://rocom.qq.com/zlkdatasys/mct/d/play.shtml",
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_TiktokFriends_png.img_Share_TiktokFriends_png'",
-    "unsuccess_tip": "请安装抖音或更新抖音后重试",
     "package_name_android": "com.ss.android.ugc.aweme",
     "package_name_ios": [
       "douyinopensdk",
@@ -160,7 +154,6 @@
     ],
     "system_control_limit": 53000009,
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Microblog_png.img_Share_Microblog_png'",
-    "unsuccess_tip": "请安装微博或更新微博后重试",
     "package_name_android": "com.sina.weibo",
     "package_name_ios": [
       "sinaweibo"
@@ -176,7 +169,6 @@
     ],
     "system_control_limit": 53000010,
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_RedBooklet_png.img_Share_RedBooklet_png'",
-    "unsuccess_tip": "请安装小红书或更新小红书后重试",
     "package_name_android": "com.xingin.xhs",
     "package_name_ios": [
       "xhsdiscover"
@@ -192,7 +184,6 @@
     ],
     "system_control_limit": 53000011,
     "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Frames/img_Share_Kuaishou_png.img_Share_Kuaishou_png'",
-    "unsuccess_tip": "请安装快手或更新快手后重试",
     "package_name_android": "com.smile.gifmaker",
     "package_name_ios": [
       "kwai",
@@ -208,9 +199,11 @@
     "id": 12,
     "name": "BiliBili",
     "login_required": 3,
+    "share_type": [
+      2
+    ],
     "system_control_limit": 53000016,
-    "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/ShareUI/Raw/Frames/img_Share_QRCode_png.img_Share_QRCode_png'",
-    "unsuccess_tip": "请安装Bilibili或更新Bilibili后重试",
+    "share_icon": "PaperSprite'/Game/NewRoco/Modules/System/ShareUI/Raw/Frames/img_Share_Bilibili_png.img_Share_Bilibili_png'",
     "package_name_android": "tv.danmaku.bili",
     "package_name_ios": [
       "bilibili"

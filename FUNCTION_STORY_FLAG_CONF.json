@@ -52,6 +52,10 @@
     "editor_name": "关卡-威廉古堡室内-点火后刷新精灵"
   },
   {
+    "id": 1051,
+    "editor_name": "江豚运营活动-刷云梦豚进化链"
+  },
+  {
     "id": 1099,
     "editor_name": "系统-解锁体力升级"
   },
@@ -373,6 +377,30 @@
     "editor_name": "S3-加尔团体战开启"
   },
   {
+    "id": 1736,
+    "editor_name": "S4_月面_外圈污染",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S4_Moon_02_a_Plot",
+    "action_int_param": [
+      50004
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1737,
+    "editor_name": "S4_月面_默认_内圈污染",
+    "story_flag_action_type": 8,
+    "action_string_param": "Season_S4_Moon_02_b_Plot",
+    "action_int_param": [
+      50004
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 1738,
+    "editor_name": "S4-狼王团体战开启"
+  },
+  {
     "id": 2101,
     "editor_name": "路易斯晋升任务分支选项"
   },
@@ -637,6 +665,22 @@
     "editor_name": "B1-魔法学院-分院Tag-炼金学"
   },
   {
+    "id": 6025,
+    "editor_name": "访学玩法-精灵学-同步状态SALS_PET_ACADEMY"
+  },
+  {
+    "id": 6026,
+    "editor_name": "访学玩法-战斗学-同步状态SALS_BATTLE_ACADEMY"
+  },
+  {
+    "id": 6027,
+    "editor_name": "访学玩法-仪典学-同步状态SALS_CEREMONY_ACADEMY"
+  },
+  {
+    "id": 6028,
+    "editor_name": "访学玩法-炼金学-同步状态SALS_ALCHEMY_ACADEMY"
+  },
+  {
     "id": 6030,
     "editor_name": "B1-生态园异象-加载/卸载毒雾氛围",
     "story_flag_action_type": 8,
@@ -645,6 +689,22 @@
       10022
     ],
     "apply_to_visitor": true
+  },
+  {
+    "id": 6031,
+    "editor_name": "访学玩法-精灵学-任务期间屏蔽学分select"
+  },
+  {
+    "id": 6032,
+    "editor_name": "访学玩法-战斗学-任务期间屏蔽学分select"
+  },
+  {
+    "id": 6033,
+    "editor_name": "访学玩法-仪典学-任务期间屏蔽学分select"
+  },
+  {
+    "id": 6034,
+    "editor_name": "访学玩法-炼金学-任务期间屏蔽学分select"
   },
   {
     "id": 7000,
@@ -1952,6 +2012,14 @@
     "editor_name": "S3赛季大厅传送"
   },
   {
+    "id": 9938,
+    "editor_name": "地区选择页里的S4图鉴入口- 到达S4开启时间"
+  },
+  {
+    "id": 9940,
+    "editor_name": "S4-进入月面/月面传送"
+  },
+  {
     "id": 9950,
     "editor_name": "S1赛季入口开启"
   },
@@ -2293,6 +2361,10 @@
     "editor_name": "V110-巨人裂谷冰系研究员（小不点）"
   },
   {
+    "id": 15010,
+    "editor_name": "学期奖励待领取"
+  },
+  {
     "id": 100001,
     "editor_name": "角色变身为果冻状态"
   },
@@ -2449,6 +2521,16 @@
     "action_int_param": [
       10038,
       43200
+    ],
+    "apply_to_visitor": true
+  },
+  {
+    "id": 160013,
+    "editor_name": "V110主线-皇宫-区域锁定时间（晚上）",
+    "story_flag_action_type": 11,
+    "action_int_param": [
+      10038,
+      86400
     ],
     "apply_to_visitor": true
   },
@@ -2625,5 +2707,14 @@
   {
     "id": 60280365,
     "editor_name": "【废弃】S3赛季任务-用于激活童话书逻辑的storyflag"
+  },
+  {
+    "id": 60280366,
+    "editor_name": "月卡领取的交互逻辑",
+    "story_flag_action_type": 13
+  },
+  {
+    "id": 80000000,
+    "editor_name": "S4_第二章_隔天氛围叙事阶段"
   }
 ]

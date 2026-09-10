@@ -497,5 +497,16 @@
     "end_black": 1000,
     "mute_time": 2000,
     "skippable": true
+  },
+  {
+    "id": 60,
+    "movie_path": "Movies/S4_PV.mp4",
+    "sound_id": "9013",
+    "begin_black_fade_in": 1,
+    "begin_black": 3000,
+    "mute_time": 2000,
+    "skippable": true,
+    "not_skip_check": true,
+    "not_project": true
   }
 ]

@@ -697,6 +697,130 @@
     ]
   },
   {
+    "id": 11,
+    "editor_name": [
+      "精灵行为模板",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 11,
+    "audio_id": 11,
+    "mod_id": 11,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 11,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310637,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310638,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310639,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310640
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310641,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310642,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310643
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310644,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310645
+      },
+      {
+        "state_id": 27
+      },
+      {
+        "state_id": 36
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310646
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310647
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310648
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310649
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310650
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310651
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310652
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310653,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
     "id": 18,
     "editor_name": [
       "精灵行为模板",
@@ -1282,6 +1406,59 @@
       {
         "state_id": 52,
         "behavior_id": 2306954
+      },
+      {
+        "state_id": 50,
+        "cond_ids": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "editor_name": [
+      "玩具",
+      "手持玩具"
+    ],
+    "fsm_struct_id": 49,
+    "visual_id": 27,
+    "audio_id": 27,
+    "mod_id": 27,
+    "bb_input": 27,
+    "behavior_group": [
+      {
+        "state_id": 17
+      },
+      {
+        "state_id": 18,
+        "behavior_id": 8000288
+      },
+      {
+        "state_id": 29
+      },
+      {
+        "state_id": 30,
+        "behavior_id": 8000289
+      },
+      {
+        "state_id": 46
+      },
+      {
+        "state_id": 47
+      },
+      {
+        "state_id": 49,
+        "behavior_id": 8000290
+      },
+      {
+        "state_id": 51,
+        "behavior_id": 8000291
+      },
+      {
+        "state_id": 52,
+        "behavior_id": 8000292
       },
       {
         "state_id": 50,
@@ -4137,11 +4314,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006740
+        "behavior_id": 3006740,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007399
+        "behavior_id": 3007399,
+        "cond_ids": [
+          23146,
+          23317
+        ]
       },
       {
         "state_id": 76,
@@ -4155,7 +4339,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23316,
           23239
         ]
       }
@@ -4223,11 +4407,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006767
+        "behavior_id": 3006767,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007400
+        "behavior_id": 3007400,
+        "cond_ids": [
+          23146,
+          23321
+        ]
       },
       {
         "state_id": 76,
@@ -4241,7 +4432,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23320,
           23243
         ]
       }
@@ -4326,11 +4517,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006768
+        "behavior_id": 3006768,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007401
+        "behavior_id": 3007401,
+        "cond_ids": [
+          23146,
+          23319
+        ]
       },
       {
         "state_id": 76,
@@ -4344,7 +4542,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23318,
           23241
         ]
       }
@@ -4522,7 +4720,11 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 3007403
+        "behavior_id": 3007403,
+        "cond_ids": [
+          23330,
+          23207
+        ]
       },
       {
         "state_id": 76,
@@ -4537,7 +4739,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23320,
           23243
         ]
       }
@@ -4608,7 +4810,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23318,
           23241
         ]
       },
@@ -4629,7 +4831,11 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 3007404
+        "behavior_id": 3007404,
+        "cond_ids": [
+          23329,
+          23207
+        ]
       },
       {
         "state_id": 76,
@@ -4728,7 +4934,11 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 3007405
+        "behavior_id": 3007405,
+        "cond_ids": [
+          23328,
+          23207
+        ]
       },
       {
         "state_id": 76,
@@ -4743,7 +4953,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23316,
           23239
         ]
       }
@@ -5518,14 +5728,16 @@
         "state_id": 76,
         "behavior_id": 3007933,
         "cond_ids": [
-          5
+          23309
         ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23308
         ]
       }
     ]
@@ -5624,14 +5836,16 @@
         "state_id": 76,
         "behavior_id": 3006666,
         "cond_ids": [
-          5
+          23309
         ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23308
         ]
       }
     ]
@@ -5730,14 +5944,16 @@
         "state_id": 76,
         "behavior_id": 3006663,
         "cond_ids": [
-          5
+          23309
         ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23308
         ]
       }
     ]
@@ -6536,11 +6752,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006739
+        "behavior_id": 3006739,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007415
+        "behavior_id": 3007415,
+        "cond_ids": [
+          23146,
+          23317
+        ]
       },
       {
         "state_id": 76,
@@ -6554,7 +6777,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23316,
           23239
         ]
       }
@@ -7295,11 +7518,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006788
+        "behavior_id": 3006788,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007421
+        "behavior_id": 3007421,
+        "cond_ids": [
+          23146,
+          23319
+        ]
       },
       {
         "state_id": 76,
@@ -7313,7 +7543,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23318,
           23241
         ]
       }
@@ -7381,11 +7611,18 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006789
+        "behavior_id": 3006789,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007422
+        "behavior_id": 3007422,
+        "cond_ids": [
+          23146,
+          23321
+        ]
       },
       {
         "state_id": 76,
@@ -7399,7 +7636,7 @@
         "cond_ids": [
           0,
           30062,
-          0,
+          23320,
           23243
         ]
       }
@@ -8363,7 +8600,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2302256
+        "behavior_id": 2302256,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -8439,7 +8679,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23191
@@ -14131,7 +14371,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 103541
+        "behavior_id": 103541,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -14187,7 +14430,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23189
@@ -14229,7 +14472,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 103549
+        "behavior_id": 103549,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -14288,7 +14534,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23189
@@ -14334,7 +14580,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 104667
+        "behavior_id": 104667,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -14378,7 +14627,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23189
@@ -21222,7 +21471,9 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23314
         ]
       },
       {
@@ -21237,7 +21488,7 @@
         "state_id": 76,
         "behavior_id": 2302473,
         "cond_ids": [
-          5
+          23315
         ]
       }
     ]
@@ -21321,7 +21572,9 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23314
         ]
       },
       {
@@ -21336,7 +21589,7 @@
         "state_id": 76,
         "behavior_id": 2305881,
         "cond_ids": [
-          5
+          23315
         ]
       }
     ]
@@ -23985,7 +24238,9 @@
         "state_id": 180,
         "cond_ids": [
           5,
-          30062
+          30062,
+          0,
+          23298
         ]
       },
       {
@@ -24007,7 +24262,7 @@
         "state_id": 76,
         "behavior_id": 3008084,
         "cond_ids": [
-          5
+          23299
         ]
       }
     ]
@@ -24099,7 +24354,9 @@
         "state_id": 180,
         "cond_ids": [
           5,
-          30062
+          30062,
+          0,
+          23298
         ]
       },
       {
@@ -24121,7 +24378,7 @@
         "state_id": 76,
         "behavior_id": 2303415,
         "cond_ids": [
-          5
+          23299
         ]
       }
     ]
@@ -26439,13 +26696,18 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 3008108
+        "behavior_id": 3008108,
+        "cond_ids": [
+          23301
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23207
+          23207,
+          0,
+          23300
         ]
       }
     ]
@@ -26529,13 +26791,18 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 2304084
+        "behavior_id": 2304084,
+        "cond_ids": [
+          23301
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23207
+          23207,
+          0,
+          23300
         ]
       }
     ]
@@ -27137,12 +27404,16 @@
         "behavior_id": 2601807,
         "cond_ids": [
           0,
-          19
+          29
         ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2601808
+        "behavior_id": 2601808,
+        "cond_ids": [
+          0,
+          29
+        ]
       },
       {
         "state_id": 185,
@@ -27157,7 +27428,7 @@
         "state_id": 186,
         "behavior_id": 2601810,
         "cond_ids": [
-          0,
+          5,
           18
         ]
       },
@@ -27187,7 +27458,19 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 3008116
+        "behavior_id": 3008116,
+        "cond_ids": [
+          23291
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062,
+          0,
+          23290
+        ]
       }
     ]
   },
@@ -30241,7 +30524,9 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          0,
+          23288
         ]
       },
       {
@@ -30254,7 +30539,10 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3006976
+        "behavior_id": 3006976,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
@@ -30262,7 +30550,11 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 3008139
+        "behavior_id": 3008139,
+        "cond_ids": [
+          23289,
+          53072
+        ]
       }
     ]
   },
@@ -30359,11 +30651,17 @@
         "state_id": 76,
         "behavior_id": 2305618,
         "cond_ids": [
-          30102
+          23289
         ]
       },
       {
-        "state_id": 180
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23288
+        ]
       }
     ]
   },
@@ -31750,8 +32048,6 @@
         "state_id": 185,
         "behavior_id": 2302166,
         "cond_ids": [
-          5,
-          0,
           5
         ]
       },
@@ -32055,8 +32351,6 @@
         "state_id": 185,
         "behavior_id": 2302288,
         "cond_ids": [
-          5,
-          0,
           5
         ]
       },
@@ -32334,7 +32628,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2302314
+        "behavior_id": 2302314,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -32359,8 +32656,6 @@
         "state_id": 185,
         "behavior_id": 2302318,
         "cond_ids": [
-          5,
-          0,
           5
         ]
       },
@@ -32402,7 +32697,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23191
@@ -32433,7 +32728,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2302324
+        "behavior_id": 2302324,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -32509,7 +32807,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23191
@@ -32540,7 +32838,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2302334
+        "behavior_id": 2302334,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -32616,7 +32917,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           23191
@@ -33663,7 +33964,9 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          23249
+          23249,
+          0,
+          23312
         ]
       },
       {
@@ -33678,7 +33981,7 @@
         "state_id": 76,
         "behavior_id": 2307022,
         "cond_ids": [
-          5
+          23313
         ]
       }
     ]
@@ -33767,7 +34070,9 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          23249,
+          0,
+          23312
         ]
       },
       {
@@ -33782,8 +34087,7 @@
         "state_id": 76,
         "behavior_id": 3007722,
         "cond_ids": [
-          5,
-          12
+          23313
         ]
       }
     ]
@@ -34958,27 +35262,32 @@
       },
       {
         "state_id": 183,
-        "behavior_id": 2309633,
+        "behavior_id": 2309649,
         "cond_ids": [
-          23288
+          23340
         ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309634,
+        "behavior_id": 2309650,
         "cond_ids": [
           5,
           10,
-          23287
+          23339
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2309635
+        "behavior_id": 2309651,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309636,
+        "behavior_id": 2309652,
         "cond_ids": [
           0,
           5
@@ -34986,7 +35295,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309637
+        "behavior_id": 2309653
       },
       {
         "state_id": 180,
@@ -34997,23 +35306,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309638
+        "behavior_id": 2309654
       },
       {
         "state_id": 21,
-        "behavior_id": 2309639
+        "behavior_id": 2309655
       },
       {
         "state_id": 75,
-        "behavior_id": 2309640
+        "behavior_id": 2309656
       },
       {
         "state_id": 10,
-        "behavior_id": 2309641
+        "behavior_id": 2309657
       },
       {
         "state_id": 76,
-        "behavior_id": 2309642
+        "behavior_id": 2309658
       }
     ]
   },
@@ -35053,7 +35362,7 @@
         "state_id": 183,
         "behavior_id": 2309195,
         "cond_ids": [
-          23288
+          23340
         ]
       },
       {
@@ -35062,12 +35371,17 @@
         "cond_ids": [
           5,
           10,
-          23287
+          23339
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2309197
+        "behavior_id": 2309197,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
       },
       {
         "state_id": 186,
@@ -35129,26 +35443,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309648
+        "behavior_id": 2309633
       },
       {
         "state_id": 181,
-        "behavior_id": 2309649
+        "behavior_id": 2309634
       },
       {
         "state_id": 182,
-        "behavior_id": 2309650,
+        "behavior_id": 2309635,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309651
+        "behavior_id": 2309636
       },
       {
         "state_id": 184,
-        "behavior_id": 2309652,
+        "behavior_id": 2309637,
         "cond_ids": [
           1,
           29,
@@ -35157,7 +35471,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309653,
+        "behavior_id": 2309638,
         "cond_ids": [
           0,
           23031
@@ -35165,7 +35479,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2309654,
+        "behavior_id": 2309639,
         "cond_ids": [
           0,
           5
@@ -35173,7 +35487,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309655
+        "behavior_id": 2309640
       },
       {
         "state_id": 180,
@@ -35184,23 +35498,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309656
+        "behavior_id": 2309641
       },
       {
         "state_id": 21,
-        "behavior_id": 2309657
+        "behavior_id": 2309642
       },
       {
         "state_id": 75,
-        "behavior_id": 2309658
+        "behavior_id": 2309643
       },
       {
         "state_id": 10,
-        "behavior_id": 2309659
+        "behavior_id": 2309644
       },
       {
         "state_id": 76,
-        "behavior_id": 2309660
+        "behavior_id": 2309645
       }
     ]
   },
@@ -36655,26 +36969,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309865
+        "behavior_id": 2309876
       },
       {
         "state_id": 181,
-        "behavior_id": 2309866
+        "behavior_id": 2309877
       },
       {
         "state_id": 182,
-        "behavior_id": 2309867,
+        "behavior_id": 2309878,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309868
+        "behavior_id": 2309879
       },
       {
         "state_id": 184,
-        "behavior_id": 2309869,
+        "behavior_id": 2309880,
         "cond_ids": [
           5,
           12
@@ -36682,11 +36996,16 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309870
+        "behavior_id": 2309881,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309871,
+        "behavior_id": 2309882,
         "cond_ids": [
           0,
           5
@@ -36694,27 +37013,27 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309872
+        "behavior_id": 2309883
       },
       {
         "state_id": 20,
-        "behavior_id": 2309873
+        "behavior_id": 2309884
       },
       {
         "state_id": 21,
-        "behavior_id": 2309874
+        "behavior_id": 2309885
       },
       {
         "state_id": 75,
-        "behavior_id": 2309875
+        "behavior_id": 2309886
       },
       {
         "state_id": 10,
-        "behavior_id": 2309876
+        "behavior_id": 2309887
       },
       {
         "state_id": 76,
-        "behavior_id": 2309877
+        "behavior_id": 2309888
       },
       {
         "state_id": 180,
@@ -36744,26 +37063,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2302891
+        "behavior_id": 2303535
       },
       {
         "state_id": 181,
-        "behavior_id": 2302892
+        "behavior_id": 2303536
       },
       {
         "state_id": 182,
-        "behavior_id": 2303535,
+        "behavior_id": 2304179,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2303536
+        "behavior_id": 2304180
       },
       {
         "state_id": 184,
-        "behavior_id": 2304179,
+        "behavior_id": 2309862,
         "cond_ids": [
           5,
           12
@@ -36771,11 +37090,16 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2304180
+        "behavior_id": 2309863,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309853,
+        "behavior_id": 2309864,
         "cond_ids": [
           0,
           5
@@ -36783,27 +37107,27 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309854
+        "behavior_id": 2309865
       },
       {
         "state_id": 20,
-        "behavior_id": 2309855
+        "behavior_id": 2309866
       },
       {
         "state_id": 21,
-        "behavior_id": 2309856
+        "behavior_id": 2309867
       },
       {
         "state_id": 75,
-        "behavior_id": 2309857
+        "behavior_id": 2309868
       },
       {
         "state_id": 10,
-        "behavior_id": 2309858
+        "behavior_id": 2309869
       },
       {
         "state_id": 76,
-        "behavior_id": 2309859
+        "behavior_id": 2309870
       },
       {
         "state_id": 180,
@@ -37059,7 +37383,7 @@
     "id": 3351,
     "editor_name": [
       "霹雳宝宝",
-      "超亲近-亲近类"
+      "超亲近"
     ],
     "fsm_struct_id": 179,
     "visual_id": 3351,
@@ -37078,7 +37402,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 103525
+        "behavior_id": 103525,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 182,
@@ -37157,7 +37484,7 @@
     "id": 3352,
     "editor_name": [
       "雷鸣小子",
-      "超亲近-亲近类"
+      "超亲近"
     ],
     "fsm_struct_id": 179,
     "visual_id": 3352,
@@ -37176,7 +37503,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2301325
+        "behavior_id": 2301325,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 182,
@@ -37255,7 +37585,7 @@
     "id": 3353,
     "editor_name": [
       "雷神之子",
-      "超亲近-亲近类"
+      "超亲近"
     ],
     "fsm_struct_id": 179,
     "visual_id": 3353,
@@ -37274,7 +37604,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2309397
+        "behavior_id": 2309397,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 182,
@@ -37294,33 +37627,33 @@
       },
       {
         "state_id": 184,
-        "behavior_id": 2309834,
+        "behavior_id": 2309845,
         "cond_ids": [
           23260
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2309836,
+        "behavior_id": 2309846,
         "cond_ids": [
-          5,
+          37,
           1,
           5
         ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309837,
+        "behavior_id": 2309847,
         "cond_ids": [
           36,
-          18,
+          0,
           0,
           23260
         ]
       },
       {
         "state_id": 187,
-        "behavior_id": 2309838,
+        "behavior_id": 2309848,
         "cond_ids": [
           0,
           5
@@ -37328,23 +37661,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309839
+        "behavior_id": 2309849
       },
       {
         "state_id": 21,
-        "behavior_id": 2309840
+        "behavior_id": 2309850
       },
       {
         "state_id": 75,
-        "behavior_id": 2309841
+        "behavior_id": 2309851
       },
       {
         "state_id": 10,
-        "behavior_id": 2309842
+        "behavior_id": 2309852
       },
       {
         "state_id": 76,
-        "behavior_id": 2309843
+        "behavior_id": 2309853
       },
       {
         "state_id": 180,
@@ -41779,8 +42112,7 @@
         "state_id": 185,
         "behavior_id": 2309405,
         "cond_ids": [
-          5,
-          23255
+          5
         ]
       },
       {
@@ -41815,13 +42147,18 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 2309412
+        "behavior_id": 2309412,
+        "cond_ids": [
+          23311
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23249
+          23249,
+          0,
+          23310
         ]
       }
     ]
@@ -41879,7 +42216,7 @@
         "behavior_id": 2304217,
         "cond_ids": [
           5,
-          42,
+          23255,
           23250
         ]
       },
@@ -41920,13 +42257,18 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 2309596
+        "behavior_id": 2309596,
+        "cond_ids": [
+          23311
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23249
+          23249,
+          0,
+          23310
         ]
       }
     ]
@@ -41984,7 +42326,7 @@
         "behavior_id": 2309607,
         "cond_ids": [
           5,
-          42,
+          23255,
           23250
         ]
       },
@@ -42025,13 +42367,18 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 2309614
+        "behavior_id": 2309614,
+        "cond_ids": [
+          23311
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23249
+          23249,
+          0,
+          23310
         ]
       }
     ]
@@ -45595,30 +45942,31 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2303609
+        "behavior_id": 2302966
       },
       {
         "state_id": 182,
-        "behavior_id": 2304253,
+        "behavior_id": 2303609,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2306312
+        "behavior_id": 2303610
       },
       {
         "state_id": 184,
-        "behavior_id": 2309670,
+        "behavior_id": 2304253,
         "cond_ids": [
           5,
-          5
+          5,
+          76
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2309671,
+        "behavior_id": 2304254,
         "cond_ids": [
           0,
           13,
@@ -45627,14 +45975,14 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2309672,
+        "behavior_id": 2306312,
         "cond_ids": [
           28044
         ]
       },
       {
         "state_id": 187,
-        "behavior_id": 2309673,
+        "behavior_id": 2306313,
         "cond_ids": [
           0,
           5
@@ -45642,23 +45990,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309674
+        "behavior_id": 2309670
       },
       {
         "state_id": 21,
-        "behavior_id": 2309675
+        "behavior_id": 2309671
       },
       {
         "state_id": 75,
-        "behavior_id": 2309676
+        "behavior_id": 2309672
       },
       {
         "state_id": 10,
-        "behavior_id": 2309677
+        "behavior_id": 2309673
       },
       {
         "state_id": 76,
-        "behavior_id": 2309678,
+        "behavior_id": 2309674,
         "cond_ids": [
           23154
         ]
@@ -45693,15 +46041,15 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2303610
+        "behavior_id": 2309680
       },
       {
         "state_id": 181,
-        "behavior_id": 2304254
+        "behavior_id": 2309681
       },
       {
         "state_id": 182,
-        "behavior_id": 2306313,
+        "behavior_id": 2309682,
         "cond_ids": [
           30063
         ]
@@ -45715,7 +46063,8 @@
         "behavior_id": 2309684,
         "cond_ids": [
           5,
-          5
+          5,
+          76
         ]
       },
       {
@@ -46668,11 +47017,17 @@
         "state_id": 76,
         "behavior_id": 3008274,
         "cond_ids": [
-          5
+          23295
         ]
       },
       {
-        "state_id": 180
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23294
+        ]
       }
     ]
   },
@@ -47793,7 +48148,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 3800635
+        "behavior_id": 3800635,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -47856,7 +48214,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           30062,
           0,
           30087
@@ -48375,7 +48733,7 @@
         "cond_ids": [
           38029,
           30062,
-          0,
+          53069,
           0,
           30087
         ]
@@ -48386,7 +48744,10 @@
       },
       {
         "state_id": 78,
-        "behavior_id": 3006650
+        "behavior_id": 3006650,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 79,
@@ -48525,7 +48886,7 @@
         "cond_ids": [
           38029,
           30165,
-          0,
+          53069,
           0,
           30087
         ]
@@ -48540,7 +48901,10 @@
       },
       {
         "state_id": 78,
-        "behavior_id": 3006656
+        "behavior_id": 3006656,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 79,
@@ -49260,7 +49624,7 @@
         "cond_ids": [
           5,
           0,
-          0,
+          53069,
           0,
           23193
         ]
@@ -49291,7 +49655,10 @@
       },
       {
         "state_id": 78,
-        "behavior_id": 3008623
+        "behavior_id": 3008623,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 79,
@@ -49800,7 +50167,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 2800189
+        "behavior_id": 2800189,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -49872,7 +50242,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           0,
           0,
           23187
@@ -49903,7 +50273,10 @@
       },
       {
         "state_id": 181,
-        "behavior_id": 3001025
+        "behavior_id": 3001025,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 182,
@@ -49971,7 +50344,7 @@
       {
         "state_id": 180,
         "cond_ids": [
-          0,
+          53069,
           0,
           0,
           23187
@@ -50605,7 +50978,7 @@
         "state_id": 80,
         "behavior_id": 3008700,
         "cond_ids": [
-          1
+          23220
         ]
       },
       {
@@ -51105,6 +51478,136 @@
         "behavior_id": 3008291,
         "cond_ids": [
           23220
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3542,
+    "editor_name": [
+      "未完虫",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3542,
+    "audio_id": 3542,
+    "mod_id": 3542,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3542,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310229,
+        "cond_ids": [
+          11
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310252,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310309
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310332
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310395,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310396,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310397
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310398,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310399
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310400
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310401
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310402
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310403
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310404
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310405
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310406
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310407,
+        "cond_ids": [
+          5,
+          5,
+          5
         ]
       }
     ]
@@ -53819,6 +54322,416 @@
     ]
   },
   {
+    "id": 3574,
+    "editor_name": [
+      "热团团",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3574,
+    "audio_id": 3574,
+    "mod_id": 3574,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3574,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310208
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310209,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310210,
+        "cond_ids": [
+          23332,
+          0,
+          23331
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310211,
+        "cond_ids": [
+          5,
+          1
+        ]
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310212,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310213,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310214,
+        "cond_ids": [
+          5,
+          0,
+          0,
+          23332
+        ]
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310215,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310216
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23333
+        ]
+      },
+      {
+        "state_id": 36
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310217
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310218
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310219
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310220,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310221
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310222
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310223
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310224,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3575,
+    "editor_name": [
+      "焰米龙",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3575,
+    "audio_id": 3575,
+    "mod_id": 3575,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3575,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310231,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310232,
+        "cond_ids": [
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310233,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310234
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310235,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310236,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310237
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310238,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310239
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310240
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310241
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310242
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310243
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310244
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310245
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310246
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310247,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3576,
+    "editor_name": [
+      "圣凯布米龙",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3576,
+    "audio_id": 3576,
+    "mod_id": 3576,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3576,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310254,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310255,
+        "cond_ids": [
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310256,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310257
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310258,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310293,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310294
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310295,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310296
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310297
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310298
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310299
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310300
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310301
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310302
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310303
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310304,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
     "id": 3577,
     "editor_name": [
       "墨鱿士",
@@ -54467,6 +55380,186 @@
         "cond_ids": [
           0,
           30062
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3589,
+    "editor_name": [
+      "玳龟",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3589,
+    "audio_id": 3589,
+    "mod_id": 3589,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3589,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310412
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310413
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310414,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310415
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310416
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310417
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310418
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310419,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310420
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310421
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310422
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310423
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310424,
+        "cond_ids": [
+          23297
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          23272,
+          0,
+          23296
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3590,
+    "editor_name": [
+      "玳塔",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3590,
+    "audio_id": 3590,
+    "mod_id": 3590,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3590,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310429
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310430
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310431,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310432
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310433
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310434
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310435
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310436,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310437
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310438
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310439
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310440
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310441,
+        "cond_ids": [
+          23297
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          23272,
+          0,
+          23296
         ]
       }
     ]
@@ -56796,21 +57889,33 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 3007160
+        "behavior_id": 3007160,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 3007754
+        "behavior_id": 3007754,
+        "cond_ids": [
+          23146,
+          23323
+        ]
       },
       {
         "state_id": 76,
-        "behavior_id": 3008330
+        "behavior_id": 3008330,
+        "cond_ids": [
+          23303
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23272
+          23272,
+          23322,
+          23302
         ]
       }
     ]
@@ -56834,22 +57939,22 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309737
+        "behavior_id": 2309748
       },
       {
         "state_id": 181,
-        "behavior_id": 2309738
+        "behavior_id": 2309749
       },
       {
         "state_id": 182,
-        "behavior_id": 2309739,
+        "behavior_id": 2309750,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309740,
+        "behavior_id": 2309751,
         "cond_ids": [
           0,
           19
@@ -56857,7 +57962,7 @@
       },
       {
         "state_id": 184,
-        "behavior_id": 2309741,
+        "behavior_id": 2309752,
         "cond_ids": [
           5,
           28045
@@ -56865,11 +57970,11 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309742
+        "behavior_id": 2309753
       },
       {
         "state_id": 186,
-        "behavior_id": 2309743,
+        "behavior_id": 2309754,
         "cond_ids": [
           0,
           5
@@ -56877,7 +57982,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309744,
+        "behavior_id": 2309755,
         "cond_ids": [
           0,
           5
@@ -56885,29 +57990,41 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309745
+        "behavior_id": 2309756
       },
       {
         "state_id": 21,
-        "behavior_id": 2309746
+        "behavior_id": 2309757
       },
       {
         "state_id": 75,
-        "behavior_id": 2309747
+        "behavior_id": 2309758,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 2309748
+        "behavior_id": 2309759,
+        "cond_ids": [
+          23146,
+          23323
+        ]
       },
       {
         "state_id": 76,
-        "behavior_id": 2309749
+        "behavior_id": 2309760,
+        "cond_ids": [
+          23303
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          23272
+          23272,
+          23322,
+          23302
         ]
       }
     ]
@@ -57395,6 +58512,220 @@
         "cond_ids": [
           0,
           23209
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3663,
+    "editor_name": [
+      "量风碗",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3663,
+    "audio_id": 3663,
+    "mod_id": 3663,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3663,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310446
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310447
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310448,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310449
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310450,
+        "cond_ids": [
+          5,
+          12
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310451
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310452,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310453,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310454
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310455
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310456,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310457,
+        "cond_ids": [
+          23146,
+          23327
+        ]
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310458,
+        "cond_ids": [
+          23307
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          0,
+          23326,
+          23306
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3664,
+    "editor_name": [
+      "测风蝉",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3664,
+    "audio_id": 3664,
+    "mod_id": 3664,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3664,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310463
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310464
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310465,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310466,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310467,
+        "cond_ids": [
+          5,
+          12
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310468
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310469,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310470,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310471
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310472
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310473,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310474,
+        "cond_ids": [
+          23146,
+          23327
+        ]
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310475,
+        "cond_ids": [
+          23307
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          0,
+          23326,
+          23306
         ]
       }
     ]
@@ -58747,7 +60078,7 @@
         "cond_ids": [
           23141,
           23209,
-          0,
+          53069,
           23175
         ]
       },
@@ -58768,7 +60099,10 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 2306817
+        "behavior_id": 2306817,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 76,
@@ -58849,7 +60183,7 @@
         "cond_ids": [
           23141,
           23209,
-          0,
+          53069,
           23175
         ]
       },
@@ -58870,7 +60204,10 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 2306833
+        "behavior_id": 2306833,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 76,
@@ -59294,7 +60631,10 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 2306050
+        "behavior_id": 2306050,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 76,
@@ -59303,7 +60643,9 @@
       {
         "state_id": 180,
         "cond_ids": [
-          23141
+          23141,
+          0,
+          53069
         ]
       }
     ]
@@ -59385,7 +60727,10 @@
       },
       {
         "state_id": 10,
-        "behavior_id": 2306068
+        "behavior_id": 2306068,
+        "cond_ids": [
+          53070
+        ]
       },
       {
         "state_id": 76,
@@ -59394,7 +60739,9 @@
       {
         "state_id": 180,
         "cond_ids": [
-          23141
+          23141,
+          0,
+          53069
         ]
       }
     ]
@@ -60492,21 +61839,33 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 2309266
+        "behavior_id": 2309266,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 2309267
+        "behavior_id": 2309267,
+        "cond_ids": [
+          23146,
+          23325
+        ]
       },
       {
         "state_id": 76,
-        "behavior_id": 2309268
+        "behavior_id": 2309268,
+        "cond_ids": [
+          23305
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          23324,
+          23304
         ]
       }
     ]
@@ -60560,12 +61919,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309277,
-        "cond_ids": [
-          0,
-          0,
-          5
-        ]
+        "behavior_id": 2309277
       },
       {
         "state_id": 186,
@@ -60593,21 +61947,33 @@
       },
       {
         "state_id": 75,
-        "behavior_id": 2309282
+        "behavior_id": 2309282,
+        "cond_ids": [
+          1
+        ]
       },
       {
         "state_id": 10,
-        "behavior_id": 2309283
+        "behavior_id": 2309283,
+        "cond_ids": [
+          23146,
+          23325
+        ]
       },
       {
         "state_id": 76,
-        "behavior_id": 2309284
+        "behavior_id": 2309284,
+        "cond_ids": [
+          23305
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
-          30062
+          30062,
+          23324,
+          23304
         ]
       }
     ]
@@ -61190,7 +62556,7 @@
         "state_id": 185,
         "behavior_id": 2309469,
         "cond_ids": [
-          5,
+          0,
           1,
           5
         ]
@@ -61372,7 +62738,7 @@
         "behavior_id": 2309501,
         "cond_ids": [
           5,
-          0,
+          1,
           5
         ]
       },
@@ -61685,6 +63051,1715 @@
           0,
           30062
         ]
+      }
+    ]
+  },
+  {
+    "id": 3761,
+    "editor_name": [
+      "诅咒狼灵",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3761,
+    "audio_id": 3761,
+    "mod_id": 3761,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3761,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310157
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310158
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310159,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310160
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310161
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310162
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310163
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310164
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310165
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310166
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310167
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310168
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310169
+      }
+    ]
+  },
+  {
+    "id": 3762,
+    "editor_name": [
+      "新月狼灵",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3762,
+    "audio_id": 3762,
+    "mod_id": 3762,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3762,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310174
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310175
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310176,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310177
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310178
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310179
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310180
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310181
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310182
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310183
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310184
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310185
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310186
+      }
+    ]
+  },
+  {
+    "id": 3763,
+    "editor_name": [
+      "银月狼王",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3763,
+    "audio_id": 3763,
+    "mod_id": 3763,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3763,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310191
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310192
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310193,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310194
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310195
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310196
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310197
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310198
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310199
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310200
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310201
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310202
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310203
+      }
+    ]
+  },
+  {
+    "id": 3764,
+    "editor_name": [
+      "新月鹭",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3764,
+    "audio_id": 3764,
+    "mod_id": 3764,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3764,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310311,
+        "cond_ids": [
+          23338
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310312,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310313,
+        "cond_ids": [
+          5,
+          0,
+          13,
+          23337
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310314
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310315,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310316,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310317,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310318,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310319
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062,
+          23334
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310320
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310321
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310322
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310323,
+        "cond_ids": [
+          1,
+          23337
+        ]
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310324,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310325
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310326
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310327,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
+      },
+      {
+        "state_id": 129,
+        "behavior_id": 2311014,
+        "cond_ids": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3765,
+    "editor_name": [
+      "月辉鹭",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3765,
+    "audio_id": 3765,
+    "mod_id": 3765,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3765,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310334,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310335,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310336,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310337
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310338,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310339,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310340
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310341,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310342
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310343
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310660
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310661
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310662
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310663
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310691
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310692
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310693,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3766,
+    "editor_name": [
+      "月使鹭纳",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 3766,
+    "audio_id": 3766,
+    "mod_id": 3766,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3766,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310700,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310701,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310702,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310703
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310704,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310705,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310706
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310707,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310708
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310709
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310710
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310711
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310712
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310713
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310714
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310715
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310716,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3767,
+    "editor_name": [
+      "章脑丸",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3767,
+    "audio_id": 3767,
+    "mod_id": 3767,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3767,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310259
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310260
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310261,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310262
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310263
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310264
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310265
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310266,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310267
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310268
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310269
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310270
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310271,
+        "cond_ids": [
+          23293
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062,
+          0,
+          23292
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3768,
+    "editor_name": [
+      "智辉章脑",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3768,
+    "audio_id": 3768,
+    "mod_id": 3768,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3768,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310276
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310277
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310278,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310279
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310280,
+        "cond_ids": [
+          5,
+          23336,
+          5
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310281,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310282,
+        "cond_ids": [
+          1,
+          0,
+          0,
+          10
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310283,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310284
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310285
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310286
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310287
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310288,
+        "cond_ids": [
+          23293
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          5,
+          0,
+          23292
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3771,
+    "editor_name": [
+      "小浣蛋",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3771,
+    "audio_id": 3771,
+    "mod_id": 3771,
+    "cone_ids": [
+      1,
+      2,
+      4
+    ],
+    "bb_input": 3771,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310480
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310481
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310482,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310483
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310484,
+        "cond_ids": [
+          5,
+          10
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310485
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310486,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310487
+      },
+      {
+        "state_id": 180
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310488
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310489
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310490
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310491
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310492
+      }
+    ]
+  },
+  {
+    "id": 3772,
+    "editor_name": [
+      "黑手浣熊",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3772,
+    "audio_id": 3772,
+    "mod_id": 3772,
+    "cone_ids": [
+      1,
+      2,
+      4
+    ],
+    "bb_input": 3772,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310497
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310498
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310499,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310500
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310501,
+        "cond_ids": [
+          5,
+          10
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310502
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310503,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310504
+      },
+      {
+        "state_id": 180
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310505
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310506
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310507
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310508
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310509
+      }
+    ]
+  },
+  {
+    "id": 3773,
+    "editor_name": [
+      "幽铃",
+      "基础逃跑-逃跑类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3773,
+    "audio_id": 3773,
+    "mod_id": 3773,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3773,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310514
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310515
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310516,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310517,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310518,
+        "cond_ids": [
+          5,
+          53066
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310519
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310520,
+        "cond_ids": [
+          53067,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310521
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310522
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310523
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310524
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310525
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310526
+      },
+      {
+        "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 3774,
+    "editor_name": [
+      "摇铃魔偶",
+      "基础逃跑-逃跑类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3774,
+    "audio_id": 3774,
+    "mod_id": 3774,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3774,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310531
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310532
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310533,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310534,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310535,
+        "cond_ids": [
+          5,
+          53066
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310536
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310537,
+        "cond_ids": [
+          53067,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310538
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310539
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310540
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310541
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310542
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310543
+      },
+      {
+        "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 3775,
+    "editor_name": [
+      "布灵",
+      "基础亲近-亲近类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3775,
+    "audio_id": 3775,
+    "mod_id": 3775,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3775,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310549
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310550,
+        "cond_ids": [
+          26021
+        ]
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310551,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310552,
+        "cond_ids": [
+          0,
+          0,
+          23047
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310553,
+        "cond_ids": [
+          23047
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310554,
+        "cond_ids": [
+          1,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310555,
+        "cond_ids": [
+          0,
+          5,
+          0,
+          23047
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310556,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310557
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310558
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310559
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310560
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310561
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          26022,
+          30062,
+          23260
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3776,
+    "editor_name": [
+      "布灵布灵",
+      "基础亲近-亲近类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3776,
+    "audio_id": 3776,
+    "mod_id": 3776,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3776,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310250
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310307,
+        "cond_ids": [
+          26021
+        ]
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310330,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310566,
+        "cond_ids": [
+          0,
+          0,
+          23047
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310567,
+        "cond_ids": [
+          23047
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310568,
+        "cond_ids": [
+          1,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310569,
+        "cond_ids": [
+          0,
+          5,
+          0,
+          23047
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310570,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310571
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310572
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310573
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310574
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310575
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          26022,
+          30062,
+          23260
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3784,
+    "editor_name": [
+      "云梦豚-占位",
+      "基础亲近-亲近类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3784,
+    "audio_id": 3784,
+    "mod_id": 3784,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3784,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310361
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310362
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310363,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310364,
+        "cond_ids": [
+          0,
+          0,
+          53065
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310365,
+        "cond_ids": [
+          53065,
+          5
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310366,
+        "cond_ids": [
+          53068,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310367,
+        "cond_ids": [
+          5,
+          5,
+          1,
+          53065
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310368
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310369
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310370
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310371
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310372
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310373
+      },
+      {
+        "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 3785,
+    "editor_name": [
+      "长江豚-占位",
+      "基础亲近-亲近类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3785,
+    "audio_id": 3785,
+    "mod_id": 3785,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3785,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310378
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310379
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310380,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310381,
+        "cond_ids": [
+          0,
+          5,
+          53065
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310382,
+        "cond_ids": [
+          53065,
+          5
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310383,
+        "cond_ids": [
+          53068,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310384,
+        "cond_ids": [
+          5,
+          5,
+          1,
+          53065
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310385,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310386
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310387
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310388
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310389
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310390
+      },
+      {
+        "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 3796,
+    "editor_name": [
+      "果实·立方人",
+      "基础亲近-亲近类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 3796,
+    "audio_id": 3796,
+    "mod_id": 3796,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 3796,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310344
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310345
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310346,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310347
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2310348
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2310349
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2310350
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2310351,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310352
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310353
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310354
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310355
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310356
+      },
+      {
+        "state_id": 180
       }
     ]
   },
@@ -64169,11 +67244,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3001304,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3001304
       },
       {
         "state_id": 69,
@@ -64645,11 +67716,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3001385,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3001385
       },
       {
         "state_id": 69,
@@ -66544,9 +69611,10 @@
         "behavior_id": 3001688
       },
       {
-        "state_id": 125,
-        "behavior_id": 2309647,
+        "state_id": 128,
+        "behavior_id": 2305632,
         "cond_ids": [
+          0,
           1
         ]
       }
@@ -70718,9 +73786,10 @@
         "behavior_id": 3002390
       },
       {
-        "state_id": 125,
-        "behavior_id": 2309907,
+        "state_id": 128,
+        "behavior_id": 2309913,
         "cond_ids": [
+          0,
           13
         ]
       }
@@ -73387,12 +76456,11 @@
         "behavior_id": 3002831
       },
       {
-        "state_id": 125,
-        "behavior_id": 2309755,
+        "state_id": 128,
+        "behavior_id": 2309766,
         "cond_ids": [
+          0,
           13,
-          0,
-          0,
           38111
         ]
       }
@@ -73466,12 +76534,11 @@
         "behavior_id": 2309542
       },
       {
-        "state_id": 125,
-        "behavior_id": 2309757,
+        "state_id": 128,
+        "behavior_id": 2309736,
         "cond_ids": [
+          0,
           13,
-          0,
-          0,
           38111
         ]
       }
@@ -75040,11 +78107,11 @@
     "behavior_group": [
       {
         "state_id": 37,
-        "behavior_id": 2309775
+        "behavior_id": 2309784
       },
       {
         "state_id": 55,
-        "behavior_id": 2309776,
+        "behavior_id": 2309785,
         "cond_ids": [
           0,
           23207
@@ -75052,7 +78119,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 2309777,
+        "behavior_id": 2309786,
         "cond_ids": [
           0,
           23207
@@ -75060,30 +78127,30 @@
       },
       {
         "state_id": 69,
-        "behavior_id": 2309778
+        "behavior_id": 2309787
       },
       {
         "state_id": 70,
-        "behavior_id": 2309779
+        "behavior_id": 2309788
       },
       {
         "state_id": 71,
-        "behavior_id": 2309780
+        "behavior_id": 2309789
       },
       {
         "state_id": 72,
-        "behavior_id": 2309781
+        "behavior_id": 2309790
       },
       {
         "state_id": 73,
-        "behavior_id": 2309782,
+        "behavior_id": 2309791,
         "cond_ids": [
           1
         ]
       },
       {
         "state_id": 74,
-        "behavior_id": 2309783
+        "behavior_id": 2309792
       }
     ]
   },
@@ -76120,11 +79187,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003293,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003293
       },
       {
         "state_id": 69,
@@ -77675,11 +80738,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003554,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003554
       },
       {
         "state_id": 69,
@@ -77832,11 +80891,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003581,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003581
       },
       {
         "state_id": 69,
@@ -77889,11 +80944,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003590,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003590
       },
       {
         "state_id": 69,
@@ -77946,11 +80997,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003599,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003599
       },
       {
         "state_id": 69,
@@ -78003,11 +81050,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003608,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003608
       },
       {
         "state_id": 69,
@@ -78060,11 +81103,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003617,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003617
       },
       {
         "state_id": 69,
@@ -78117,11 +81156,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3003626,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3003626
       },
       {
         "state_id": 69,
@@ -81308,11 +84343,7 @@
       },
       {
         "state_id": 55,
-        "behavior_id": 3004138,
-        "cond_ids": [
-          0,
-          5
-        ]
+        "behavior_id": 3004138
       },
       {
         "state_id": 62,
@@ -91042,11 +94073,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3005786,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3005786
       },
       {
         "state_id": 69,
@@ -91099,11 +94126,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3005795,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3005795
       },
       {
         "state_id": 69,
@@ -91156,11 +94179,7 @@
       },
       {
         "state_id": 62,
-        "behavior_id": 3005804,
-        "cond_ids": [
-          0,
-          30051
-        ]
+        "behavior_id": 3005804
       },
       {
         "state_id": 69,
@@ -91556,39 +94575,43 @@
     "behavior_group": [
       {
         "state_id": 37,
-        "behavior_id": 3005865
+        "behavior_id": 2310698
       },
       {
         "state_id": 55,
-        "behavior_id": 3005866
+        "behavior_id": 2310721
       },
       {
         "state_id": 62,
-        "behavior_id": 3005867
+        "behavior_id": 2310792
       },
       {
         "state_id": 69,
-        "behavior_id": 3005868
+        "behavior_id": 2310794
       },
       {
         "state_id": 70,
-        "behavior_id": 3005869
+        "behavior_id": 2310796
       },
       {
         "state_id": 71,
-        "behavior_id": 3005870
+        "behavior_id": 2310880
       },
       {
         "state_id": 72,
-        "behavior_id": 3005871
+        "behavior_id": 2310882
       },
       {
         "state_id": 73,
-        "behavior_id": 3005872
+        "behavior_id": 2310994
       },
       {
         "state_id": 74,
-        "behavior_id": 3005873
+        "behavior_id": 2310995
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310996
       }
     ]
   },
@@ -93270,11 +96293,23 @@
       },
       {
         "state_id": 55,
-        "behavior_id": 3006154
+        "behavior_id": 3006154,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23333
+        ]
       },
       {
         "state_id": 62,
-        "behavior_id": 3006155
+        "behavior_id": 3006155,
+        "cond_ids": [
+          0,
+          23332,
+          0,
+          23333
+        ]
       },
       {
         "state_id": 69,
@@ -93294,11 +96329,24 @@
       },
       {
         "state_id": 73,
-        "behavior_id": 3006160
+        "behavior_id": 3006160,
+        "cond_ids": [
+          0,
+          0,
+          1
+        ]
       },
       {
         "state_id": 74,
         "behavior_id": 3006161
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310985,
+        "cond_ids": [
+          0,
+          1
+        ]
       }
     ]
   },
@@ -97888,11 +100936,19 @@
       },
       {
         "state_id": 55,
-        "behavior_id": 2307468
+        "behavior_id": 2307468,
+        "cond_ids": [
+          5
+        ]
       },
       {
         "state_id": 62,
-        "behavior_id": 2307469
+        "behavior_id": 2307469,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 69,
@@ -97938,11 +100994,19 @@
       },
       {
         "state_id": 55,
-        "behavior_id": 2307477
+        "behavior_id": 2307477,
+        "cond_ids": [
+          5
+        ]
       },
       {
         "state_id": 62,
-        "behavior_id": 2307478
+        "behavior_id": 2307478,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 69,
@@ -102164,7 +105228,12 @@
       },
       {
         "state_id": 73,
-        "behavior_id": 2308194
+        "behavior_id": 2308194,
+        "cond_ids": [
+          1,
+          0,
+          23266
+        ]
       },
       {
         "state_id": 74,
@@ -103058,11 +106127,1026 @@
         "behavior_id": 2801566
       },
       {
-        "state_id": 125,
+        "state_id": 128,
         "behavior_id": 2801649,
+        "cond_ids": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5761,
+    "editor_name": [
+      "诅咒狼灵",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5761,
+    "audio_id": 5761,
+    "mod_id": 5761,
+    "bb_input": 5761,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310583
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310584,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310585,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310586
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310587
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310588
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310589
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310590,
         "cond_ids": [
           1
         ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310591
+      }
+    ]
+  },
+  {
+    "id": 5762,
+    "editor_name": [
+      "新月狼灵",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5762,
+    "audio_id": 5762,
+    "mod_id": 5762,
+    "bb_input": 5762,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310592
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310593,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310594,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310595
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310596
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310597
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310598
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310599,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310600
+      }
+    ]
+  },
+  {
+    "id": 5763,
+    "editor_name": [
+      "银月狼王",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5763,
+    "audio_id": 5763,
+    "mod_id": 5763,
+    "bb_input": 5763,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310601
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310602,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310603,
+        "cond_ids": [
+          0,
+          23335
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310604
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310605
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310606
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310607
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310608,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310609
+      }
+    ]
+  },
+  {
+    "id": 5764,
+    "editor_name": [
+      "新月鹭",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5764,
+    "audio_id": 5764,
+    "mod_id": 5764,
+    "bb_input": 5764,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310610
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310611,
+        "cond_ids": [
+          0,
+          23334
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310612,
+        "cond_ids": [
+          0,
+          23334,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310613
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310614
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310615
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310616
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310617,
+        "cond_ids": [
+          1,
+          0,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310618
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310988,
+        "cond_ids": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5765,
+    "editor_name": [
+      "月辉鹭",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5765,
+    "audio_id": 5765,
+    "mod_id": 5765,
+    "bb_input": 5765,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310619
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310620
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310621
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310622
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310623
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310624
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310625
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310626
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310627
+      }
+    ]
+  },
+  {
+    "id": 5766,
+    "editor_name": [
+      "月使鹭纳",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5766,
+    "audio_id": 5766,
+    "mod_id": 5766,
+    "bb_input": 5766,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310628
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310629
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310630
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310631
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310632
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310633
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310634
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310635
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310636
+      }
+    ]
+  },
+  {
+    "id": 5770,
+    "editor_name": [
+      "立方人-果实",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5770,
+    "audio_id": 5770,
+    "mod_id": 5770,
+    "bb_input": 5770,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310664
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310665,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310666,
+        "cond_ids": [
+          0,
+          50007
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310667
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310668
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310669
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310670
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310671
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310672
+      }
+    ]
+  },
+  {
+    "id": 5771,
+    "editor_name": [
+      "章脑丸",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5771,
+    "audio_id": 5771,
+    "mod_id": 5771,
+    "bb_input": 5771,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310673
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310674
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310675
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310676
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310677
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310678
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310679
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310680
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310681
+      }
+    ]
+  },
+  {
+    "id": 5772,
+    "editor_name": [
+      "智辉章脑",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5772,
+    "audio_id": 5772,
+    "mod_id": 5772,
+    "bb_input": 5772,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310682
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310683
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310684
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310685
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310686
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310687
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310688
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310689,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          30060
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310690
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2311012
+      }
+    ]
+  },
+  {
+    "id": 5778,
+    "editor_name": [
+      "小浣蛋",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5778,
+    "audio_id": 5778,
+    "mod_id": 5778,
+    "bb_input": 5778,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310736
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310737
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310738
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310739
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310740
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310741
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310742
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310743
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310744
+      }
+    ]
+  },
+  {
+    "id": 5779,
+    "editor_name": [
+      "黑手浣熊",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5779,
+    "audio_id": 5779,
+    "mod_id": 5779,
+    "bb_input": 5779,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310745
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310746
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310747
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310748
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310749
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310750
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310751
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310752
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310753
+      }
+    ]
+  },
+  {
+    "id": 5780,
+    "editor_name": [
+      "幽铃",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5780,
+    "audio_id": 5780,
+    "mod_id": 5780,
+    "bb_input": 5780,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310754
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310755,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310756,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310757
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310758
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310759
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310760
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310761,
+        "cond_ids": [
+          53067
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310762
+      }
+    ]
+  },
+  {
+    "id": 5781,
+    "editor_name": [
+      "摇铃魔偶",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5781,
+    "audio_id": 5781,
+    "mod_id": 5781,
+    "bb_input": 5781,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310763
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310764,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310765,
+        "cond_ids": [
+          0,
+          53066
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310766
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310767
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310768
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310769
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310770,
+        "cond_ids": [
+          53067
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310771
+      }
+    ]
+  },
+  {
+    "id": 5783,
+    "editor_name": [
+      "布灵",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5783,
+    "audio_id": 5783,
+    "mod_id": 5783,
+    "bb_input": 5783,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310781
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310782,
+        "cond_ids": [
+          0,
+          30053,
+          0,
+          26022
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310783,
+        "cond_ids": [
+          0,
+          30053,
+          0,
+          26022
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310784
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310785
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310786
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310787
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310788,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310789
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310227,
+        "cond_ids": [
+          0,
+          26021
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5784,
+    "editor_name": [
+      "布灵布灵",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5784,
+    "audio_id": 5784,
+    "mod_id": 5784,
+    "bb_input": 5784,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310580
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310581,
+        "cond_ids": [
+          0,
+          30053,
+          0,
+          26022
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310582,
+        "cond_ids": [
+          0,
+          30053,
+          0,
+          26022
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310656
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310696
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310719
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310723
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310990,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310991
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310992,
+        "cond_ids": [
+          0,
+          26021
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5785,
+    "editor_name": [
+      "云梦豚",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5785,
+    "audio_id": 5785,
+    "mod_id": 5785,
+    "bb_input": 5785,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310799
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310800,
+        "cond_ids": [
+          0,
+          53064
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310801,
+        "cond_ids": [
+          0,
+          53064
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310802
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310803
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310804
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310805
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310806,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310807
+      }
+    ]
+  },
+  {
+    "id": 5786,
+    "editor_name": [
+      "长江豚",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 5786,
+    "audio_id": 5786,
+    "mod_id": 5786,
+    "bb_input": 5786,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310808
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310809,
+        "cond_ids": [
+          0,
+          53064
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310810,
+        "cond_ids": [
+          0,
+          53064
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310811
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310812
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310813
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310814
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310815,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310816
       }
     ]
   },
@@ -110015,7 +114099,12 @@
       },
       {
         "state_id": 183,
-        "behavior_id": 2309052
+        "behavior_id": 2309052,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 184,
@@ -110029,8 +114118,8 @@
         "state_id": 185,
         "behavior_id": 2309054,
         "cond_ids": [
-          5,
-          5,
+          30153,
+          0,
           5
         ]
       },
@@ -110044,13 +114133,10 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309056
-      },
-      {
-        "state_id": 180,
+        "behavior_id": 2309056,
         "cond_ids": [
           0,
-          30062
+          5
         ]
       },
       {
@@ -110073,7 +114159,14 @@
         "state_id": 76,
         "behavior_id": 2309061,
         "cond_ids": [
-          23180
+          5
+        ]
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
         ]
       }
     ]
@@ -110332,7 +114425,11 @@
         "behavior_id": 2309104
       },
       {
-        "state_id": 180
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          5
+        ]
       },
       {
         "state_id": 20,
@@ -111160,26 +115257,31 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309928
+        "behavior_id": 2309665
       },
       {
         "state_id": 181,
-        "behavior_id": 2309929
+        "behavior_id": 2309667
       },
       {
         "state_id": 182,
-        "behavior_id": 2309930,
+        "behavior_id": 2309932,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309931
+        "behavior_id": 2309933,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309932,
+        "behavior_id": 2309934,
         "cond_ids": [
           5,
           30153
@@ -111187,16 +115289,16 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309933,
+        "behavior_id": 2309935,
         "cond_ids": [
-          5,
-          5,
+          30153,
+          0,
           5
         ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309934,
+        "behavior_id": 2309936,
         "cond_ids": [
           0,
           5
@@ -111204,36 +115306,40 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309935
+        "behavior_id": 2309937,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2309938
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2309939
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2309940
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2309941
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2309942,
+        "cond_ids": [
+          5
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
           30062
-        ]
-      },
-      {
-        "state_id": 20,
-        "behavior_id": 2309936
-      },
-      {
-        "state_id": 21,
-        "behavior_id": 2309937
-      },
-      {
-        "state_id": 75,
-        "behavior_id": 2309938
-      },
-      {
-        "state_id": 10,
-        "behavior_id": 2309939
-      },
-      {
-        "state_id": 76,
-        "behavior_id": 2309940,
-        "cond_ids": [
-          23180
         ]
       }
     ]
@@ -111257,26 +115363,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309976
+        "behavior_id": 2309946
       },
       {
         "state_id": 181,
-        "behavior_id": 2309977
+        "behavior_id": 2309947
       },
       {
         "state_id": 182,
-        "behavior_id": 2309978,
+        "behavior_id": 2309948,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309979
+        "behavior_id": 2309949
       },
       {
         "state_id": 184,
-        "behavior_id": 2309980,
+        "behavior_id": 2309950,
         "cond_ids": [
           5,
           23286
@@ -111284,7 +115390,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309981,
+        "behavior_id": 2309951,
         "cond_ids": [
           5,
           5,
@@ -111293,7 +115399,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2309982,
+        "behavior_id": 2309952,
         "cond_ids": [
           0,
           5,
@@ -111302,7 +115408,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309983
+        "behavior_id": 2309953
       },
       {
         "state_id": 180,
@@ -111313,23 +115419,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309984
+        "behavior_id": 2309954
       },
       {
         "state_id": 21,
-        "behavior_id": 2309985
+        "behavior_id": 2309955
       },
       {
         "state_id": 75,
-        "behavior_id": 2309986
+        "behavior_id": 2309956
       },
       {
         "state_id": 10,
-        "behavior_id": 2309987
+        "behavior_id": 2309957
       },
       {
         "state_id": 76,
-        "behavior_id": 2309988,
+        "behavior_id": 2309958,
         "cond_ids": [
           23180
         ]
@@ -111355,33 +115461,33 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310024
+        "behavior_id": 2309962
       },
       {
         "state_id": 181,
-        "behavior_id": 2310025
+        "behavior_id": 2309963
       },
       {
         "state_id": 182,
-        "behavior_id": 2310026,
+        "behavior_id": 2309964,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310027
+        "behavior_id": 2309965
       },
       {
         "state_id": 184,
-        "behavior_id": 2310028,
+        "behavior_id": 2309966,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2310029,
+        "behavior_id": 2309967,
         "cond_ids": [
           5,
           5,
@@ -111390,7 +115496,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310030,
+        "behavior_id": 2309968,
         "cond_ids": [
           0,
           5
@@ -111398,7 +115504,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310031
+        "behavior_id": 2309969
       },
       {
         "state_id": 180,
@@ -111409,23 +115515,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310032
+        "behavior_id": 2309970
       },
       {
         "state_id": 21,
-        "behavior_id": 2310033
+        "behavior_id": 2309971
       },
       {
         "state_id": 75,
-        "behavior_id": 2310034
+        "behavior_id": 2309972
       },
       {
         "state_id": 10,
-        "behavior_id": 2310035
+        "behavior_id": 2309973
       },
       {
         "state_id": 76,
-        "behavior_id": 2310036,
+        "behavior_id": 2309974,
         "cond_ids": [
           23180
         ]
@@ -111451,26 +115557,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310072
+        "behavior_id": 2309978
       },
       {
         "state_id": 181,
-        "behavior_id": 2310073
+        "behavior_id": 2309979
       },
       {
         "state_id": 182,
-        "behavior_id": 2310074,
+        "behavior_id": 2309980,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310075
+        "behavior_id": 2309981
       },
       {
         "state_id": 184,
-        "behavior_id": 2310076,
+        "behavior_id": 2309982,
         "cond_ids": [
           5,
           12
@@ -111478,7 +115584,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2310077,
+        "behavior_id": 2309983,
         "cond_ids": [
           5,
           5,
@@ -111487,7 +115593,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310078,
+        "behavior_id": 2309984,
         "cond_ids": [
           0,
           5
@@ -111495,7 +115601,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310079
+        "behavior_id": 2309985
       },
       {
         "state_id": 180,
@@ -111506,23 +115612,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310080
+        "behavior_id": 2309986
       },
       {
         "state_id": 21,
-        "behavior_id": 2310081
+        "behavior_id": 2309987
       },
       {
         "state_id": 75,
-        "behavior_id": 2310082
+        "behavior_id": 2309988
       },
       {
         "state_id": 10,
-        "behavior_id": 2310083
+        "behavior_id": 2309989
       },
       {
         "state_id": 76,
-        "behavior_id": 2310084,
+        "behavior_id": 2309990,
         "cond_ids": [
           23180
         ]
@@ -111548,26 +115654,31 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309944
+        "behavior_id": 2309994
       },
       {
         "state_id": 181,
-        "behavior_id": 2309945
+        "behavior_id": 2309995
       },
       {
         "state_id": 182,
-        "behavior_id": 2309946,
+        "behavior_id": 2309996,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309947
+        "behavior_id": 2309997,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309948,
+        "behavior_id": 2309998,
         "cond_ids": [
           5,
           30153
@@ -111575,16 +115686,16 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309949,
+        "behavior_id": 2309999,
         "cond_ids": [
-          5,
-          5,
+          30153,
+          0,
           5
         ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309950,
+        "behavior_id": 2310000,
         "cond_ids": [
           0,
           5
@@ -111592,36 +115703,40 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309951
+        "behavior_id": 2310001,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310002
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310003
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310004
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310005
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310006,
+        "cond_ids": [
+          5
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
           30062
-        ]
-      },
-      {
-        "state_id": 20,
-        "behavior_id": 2309952
-      },
-      {
-        "state_id": 21,
-        "behavior_id": 2309953
-      },
-      {
-        "state_id": 75,
-        "behavior_id": 2309954
-      },
-      {
-        "state_id": 10,
-        "behavior_id": 2309955
-      },
-      {
-        "state_id": 76,
-        "behavior_id": 2309956,
-        "cond_ids": [
-          23180
         ]
       }
     ]
@@ -111645,33 +115760,33 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309992
+        "behavior_id": 2310010
       },
       {
         "state_id": 181,
-        "behavior_id": 2309993
+        "behavior_id": 2310011
       },
       {
         "state_id": 182,
-        "behavior_id": 2309994,
+        "behavior_id": 2310012,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309995
+        "behavior_id": 2310013
       },
       {
         "state_id": 184,
-        "behavior_id": 2309996,
+        "behavior_id": 2310014,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2309997,
+        "behavior_id": 2310015,
         "cond_ids": [
           5,
           5,
@@ -111680,7 +115795,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2309998,
+        "behavior_id": 2310016,
         "cond_ids": [
           0,
           5
@@ -111688,7 +115803,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309999
+        "behavior_id": 2310017
       },
       {
         "state_id": 180,
@@ -111699,23 +115814,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310000
+        "behavior_id": 2310018
       },
       {
         "state_id": 21,
-        "behavior_id": 2310001
+        "behavior_id": 2310019
       },
       {
         "state_id": 75,
-        "behavior_id": 2310002
+        "behavior_id": 2310020
       },
       {
         "state_id": 10,
-        "behavior_id": 2310003
+        "behavior_id": 2310021
       },
       {
         "state_id": 76,
-        "behavior_id": 2310004,
+        "behavior_id": 2310022,
         "cond_ids": [
           23180
         ]
@@ -111741,33 +115856,33 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310040
+        "behavior_id": 2310026
       },
       {
         "state_id": 181,
-        "behavior_id": 2310041
+        "behavior_id": 2310027
       },
       {
         "state_id": 182,
-        "behavior_id": 2310042,
+        "behavior_id": 2310028,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310043
+        "behavior_id": 2310029
       },
       {
         "state_id": 184,
-        "behavior_id": 2310044,
+        "behavior_id": 2310030,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2310045,
+        "behavior_id": 2310031,
         "cond_ids": [
           5,
           5,
@@ -111776,11 +115891,11 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310046
+        "behavior_id": 2310032
       },
       {
         "state_id": 187,
-        "behavior_id": 2310047
+        "behavior_id": 2310033
       },
       {
         "state_id": 180,
@@ -111791,23 +115906,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310048
+        "behavior_id": 2310034
       },
       {
         "state_id": 21,
-        "behavior_id": 2310049
+        "behavior_id": 2310035
       },
       {
         "state_id": 75,
-        "behavior_id": 2310050
+        "behavior_id": 2310036
       },
       {
         "state_id": 10,
-        "behavior_id": 2310051
+        "behavior_id": 2310037
       },
       {
         "state_id": 76,
-        "behavior_id": 2310052,
+        "behavior_id": 2310038,
         "cond_ids": [
           23180
         ]
@@ -111833,26 +115948,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310088
+        "behavior_id": 2310042
       },
       {
         "state_id": 181,
-        "behavior_id": 2310089
+        "behavior_id": 2310043
       },
       {
         "state_id": 182,
-        "behavior_id": 2310090,
+        "behavior_id": 2310044,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310091
+        "behavior_id": 2310045
       },
       {
         "state_id": 184,
-        "behavior_id": 2310092,
+        "behavior_id": 2310046,
         "cond_ids": [
           5,
           12
@@ -111860,7 +115975,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2310093,
+        "behavior_id": 2310047,
         "cond_ids": [
           5,
           5,
@@ -111869,7 +115984,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310094,
+        "behavior_id": 2310048,
         "cond_ids": [
           0,
           5
@@ -111877,7 +115992,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310095
+        "behavior_id": 2310049
       },
       {
         "state_id": 180,
@@ -111888,23 +116003,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310096
+        "behavior_id": 2310050
       },
       {
         "state_id": 21,
-        "behavior_id": 2310097
+        "behavior_id": 2310051
       },
       {
         "state_id": 75,
-        "behavior_id": 2310098
+        "behavior_id": 2310052
       },
       {
         "state_id": 10,
-        "behavior_id": 2310099
+        "behavior_id": 2310053
       },
       {
         "state_id": 76,
-        "behavior_id": 2310100,
+        "behavior_id": 2310054,
         "cond_ids": [
           23180
         ]
@@ -111930,26 +116045,31 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309960
+        "behavior_id": 2310058
       },
       {
         "state_id": 181,
-        "behavior_id": 2309961
+        "behavior_id": 2310059
       },
       {
         "state_id": 182,
-        "behavior_id": 2309962,
+        "behavior_id": 2310060,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309963
+        "behavior_id": 2310061,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309964,
+        "behavior_id": 2310062,
         "cond_ids": [
           5,
           30153
@@ -111957,16 +116077,16 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309965,
+        "behavior_id": 2310063,
         "cond_ids": [
-          5,
-          5,
+          30153,
+          0,
           5
         ]
       },
       {
         "state_id": 186,
-        "behavior_id": 2309966,
+        "behavior_id": 2310064,
         "cond_ids": [
           0,
           5
@@ -111974,36 +116094,40 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309967
+        "behavior_id": 2310065,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2310066
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2310067
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2310068
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310069
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2310070,
+        "cond_ids": [
+          5
+        ]
       },
       {
         "state_id": 180,
         "cond_ids": [
           0,
           30062
-        ]
-      },
-      {
-        "state_id": 20,
-        "behavior_id": 2309968
-      },
-      {
-        "state_id": 21,
-        "behavior_id": 2309969
-      },
-      {
-        "state_id": 75,
-        "behavior_id": 2309970
-      },
-      {
-        "state_id": 10,
-        "behavior_id": 2309971
-      },
-      {
-        "state_id": 76,
-        "behavior_id": 2309972,
-        "cond_ids": [
-          23180
         ]
       }
     ]
@@ -112027,26 +116151,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310008
+        "behavior_id": 2310074
       },
       {
         "state_id": 181,
-        "behavior_id": 2310009
+        "behavior_id": 2310075
       },
       {
         "state_id": 182,
-        "behavior_id": 2310010,
+        "behavior_id": 2310076,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310011
+        "behavior_id": 2310077
       },
       {
         "state_id": 184,
-        "behavior_id": 2310012,
+        "behavior_id": 2310078,
         "cond_ids": [
           5,
           23286
@@ -112054,7 +116178,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2310013,
+        "behavior_id": 2310079,
         "cond_ids": [
           5,
           5,
@@ -112063,7 +116187,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310014,
+        "behavior_id": 2310080,
         "cond_ids": [
           0,
           5,
@@ -112072,7 +116196,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310015
+        "behavior_id": 2310081
       },
       {
         "state_id": 180,
@@ -112083,23 +116207,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310016
+        "behavior_id": 2310082
       },
       {
         "state_id": 21,
-        "behavior_id": 2310017
+        "behavior_id": 2310083
       },
       {
         "state_id": 75,
-        "behavior_id": 2310018
+        "behavior_id": 2310084
       },
       {
         "state_id": 10,
-        "behavior_id": 2310019
+        "behavior_id": 2310085
       },
       {
         "state_id": 76,
-        "behavior_id": 2310020,
+        "behavior_id": 2310086,
         "cond_ids": [
           23180
         ]
@@ -112125,22 +116249,22 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310056
+        "behavior_id": 2310090
       },
       {
         "state_id": 181,
-        "behavior_id": 2310057
+        "behavior_id": 2310091
       },
       {
         "state_id": 182,
-        "behavior_id": 2310058,
+        "behavior_id": 2310092,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310059,
+        "behavior_id": 2310093,
         "cond_ids": [
           0,
           19
@@ -112148,14 +116272,14 @@
       },
       {
         "state_id": 184,
-        "behavior_id": 2310060,
+        "behavior_id": 2310094,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2310061,
+        "behavior_id": 2310095,
         "cond_ids": [
           5,
           5,
@@ -112164,11 +116288,11 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310062
+        "behavior_id": 2310096
       },
       {
         "state_id": 187,
-        "behavior_id": 2310063
+        "behavior_id": 2310097
       },
       {
         "state_id": 180,
@@ -112179,23 +116303,23 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310064
+        "behavior_id": 2310098
       },
       {
         "state_id": 21,
-        "behavior_id": 2310065
+        "behavior_id": 2310099
       },
       {
         "state_id": 75,
-        "behavior_id": 2310066
+        "behavior_id": 2310100
       },
       {
         "state_id": 10,
-        "behavior_id": 2310067
+        "behavior_id": 2310101
       },
       {
         "state_id": 76,
-        "behavior_id": 2310068,
+        "behavior_id": 2310102,
         "cond_ids": [
           23180
         ]
@@ -112221,26 +116345,26 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310104
+        "behavior_id": 2310106
       },
       {
         "state_id": 181,
-        "behavior_id": 2310105
+        "behavior_id": 2310107
       },
       {
         "state_id": 182,
-        "behavior_id": 2310106,
+        "behavior_id": 2310108,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310107
+        "behavior_id": 2310109
       },
       {
         "state_id": 184,
-        "behavior_id": 2310108,
+        "behavior_id": 2310110,
         "cond_ids": [
           5,
           12
@@ -112248,7 +116372,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2310109,
+        "behavior_id": 2310111,
         "cond_ids": [
           5,
           5,
@@ -112257,7 +116381,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310110,
+        "behavior_id": 2310112,
         "cond_ids": [
           0,
           5
@@ -112265,30 +116389,34 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310111
-      },
-      {
-        "state_id": 180
-      },
-      {
-        "state_id": 20,
-        "behavior_id": 2310112
-      },
-      {
-        "state_id": 21,
         "behavior_id": 2310113
       },
       {
-        "state_id": 75,
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
         "behavior_id": 2310114
       },
       {
-        "state_id": 10,
+        "state_id": 21,
         "behavior_id": 2310115
       },
       {
+        "state_id": 75,
+        "behavior_id": 2310116
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2310117
+      },
+      {
         "state_id": 76,
-        "behavior_id": 2310116,
+        "behavior_id": 2310118,
         "cond_ids": [
           23180
         ]
@@ -126143,7 +130271,9 @@
         "state_id": 63,
         "behavior_id": 5700184,
         "cond_ids": [
-          5
+          5,
+          0,
+          1
         ]
       },
       {
@@ -126167,7 +130297,7 @@
         "behavior_id": 5700189,
         "cond_ids": [
           0,
-          5
+          53061
         ]
       },
       {
@@ -130747,6 +134877,26 @@
       {
         "state_id": 126,
         "behavior_id": 5700233
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 2309724
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 2309726
+      },
+      {
+        "state_id": 122,
+        "cond_ids": [
+          53059
+        ]
+      },
+      {
+        "state_id": 123,
+        "cond_ids": [
+          53060
+        ]
       }
     ]
   },
@@ -130773,6 +134923,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700238
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000144
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000145
       }
     ]
   },
@@ -130799,6 +134957,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700243
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 2309725
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 2309727
       }
     ]
   },
@@ -130825,6 +134991,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700248
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000146
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000179
       }
     ]
   },
@@ -130851,6 +135025,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700253
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000147
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000180
       }
     ]
   },
@@ -130877,6 +135059,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700258
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000148
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000181
       }
     ]
   },
@@ -130903,6 +135093,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700263
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000149
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000182
       }
     ]
   },
@@ -130929,6 +135127,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700268
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000150
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000183
       }
     ]
   },
@@ -130955,6 +135161,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700273
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000151
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000184
       }
     ]
   },
@@ -130981,6 +135195,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700278
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000152
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000185
       }
     ]
   },
@@ -131007,6 +135229,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700283
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000153
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000186
       }
     ]
   },
@@ -131033,6 +135263,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700288
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000154
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000187
       }
     ]
   },
@@ -131059,6 +135297,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700293
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000155
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000188
       }
     ]
   },
@@ -131085,6 +135331,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700298
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000156
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000189
       }
     ]
   },
@@ -131111,6 +135365,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700303
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000157
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000190
       }
     ]
   },
@@ -131137,6 +135399,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700308
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000158
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000191
       }
     ]
   },
@@ -131163,6 +135433,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700313
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000159
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000192
       }
     ]
   },
@@ -131189,6 +135467,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700338
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000160
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000193
       }
     ]
   },
@@ -131215,6 +135501,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700341
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000161
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000194
       }
     ]
   },
@@ -131241,6 +135535,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700344
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000162
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000195
       }
     ]
   },
@@ -131267,6 +135569,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700347
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000163
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000196
       }
     ]
   },
@@ -131293,6 +135603,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700350
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000164
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000197
       }
     ]
   },
@@ -131319,6 +135637,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700353
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000165
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000198
       }
     ]
   },
@@ -131345,6 +135671,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700356
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000166
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000199
       }
     ]
   },
@@ -131371,6 +135705,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700359
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000167
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000200
       }
     ]
   },
@@ -131397,6 +135739,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700362
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000168
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000201
       }
     ]
   },
@@ -131423,6 +135773,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700365
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000169
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000202
       }
     ]
   },
@@ -131449,6 +135807,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700368
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000170
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000203
       }
     ]
   },
@@ -131475,6 +135841,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700371
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000171
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000204
       }
     ]
   },
@@ -131501,6 +135875,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700374
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000172
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000205
       }
     ]
   },
@@ -131527,6 +135909,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700377
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000173
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000206
       }
     ]
   },
@@ -131553,6 +135943,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700380
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000174
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000207
       }
     ]
   },
@@ -131579,6 +135977,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700386
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000175
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000208
       }
     ]
   },
@@ -131605,6 +136011,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700389
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000176
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000209
       }
     ]
   },
@@ -131631,6 +136045,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700392
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000177
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000210
       }
     ]
   },
@@ -131657,6 +136079,14 @@
       {
         "state_id": 126,
         "behavior_id": 5700395
+      },
+      {
+        "state_id": 125,
+        "behavior_id": 8000178
+      },
+      {
+        "state_id": 127,
+        "behavior_id": 8000211
       }
     ]
   },
@@ -148927,29 +153357,29 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309789
+        "behavior_id": 2309800
       },
       {
         "state_id": 181,
-        "behavior_id": 2309790
+        "behavior_id": 2309801
       },
       {
         "state_id": 182,
-        "behavior_id": 2309791,
+        "behavior_id": 2309802,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309792,
+        "behavior_id": 2309803,
         "cond_ids": [
           23275
         ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309793,
+        "behavior_id": 2309804,
         "cond_ids": [
           5,
           12
@@ -148957,11 +153387,11 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309794
+        "behavior_id": 2309805
       },
       {
         "state_id": 186,
-        "behavior_id": 2309795,
+        "behavior_id": 2309806,
         "cond_ids": [
           0,
           5
@@ -148969,27 +153399,27 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309796
+        "behavior_id": 2309807
       },
       {
         "state_id": 20,
-        "behavior_id": 2309797
+        "behavior_id": 2309808
       },
       {
         "state_id": 21,
-        "behavior_id": 2309798
+        "behavior_id": 2309809
       },
       {
         "state_id": 75,
-        "behavior_id": 2309799
+        "behavior_id": 2309810
       },
       {
         "state_id": 10,
-        "behavior_id": 2309800
+        "behavior_id": 2309811
       },
       {
         "state_id": 76,
-        "behavior_id": 2309801
+        "behavior_id": 2309812
       },
       {
         "state_id": 180
@@ -149015,29 +153445,29 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309804
+        "behavior_id": 2309815
       },
       {
         "state_id": 181,
-        "behavior_id": 2309805
+        "behavior_id": 2309816
       },
       {
         "state_id": 182,
-        "behavior_id": 2309806,
+        "behavior_id": 2309817,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2309807,
+        "behavior_id": 2309818,
         "cond_ids": [
           23275
         ]
       },
       {
         "state_id": 184,
-        "behavior_id": 2309808,
+        "behavior_id": 2309819,
         "cond_ids": [
           5,
           12
@@ -149045,11 +153475,11 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309809
+        "behavior_id": 2309820
       },
       {
         "state_id": 186,
-        "behavior_id": 2309810,
+        "behavior_id": 2309821,
         "cond_ids": [
           0,
           5
@@ -149057,27 +153487,27 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309811
+        "behavior_id": 2309822
       },
       {
         "state_id": 20,
-        "behavior_id": 2309812
+        "behavior_id": 2309823
       },
       {
         "state_id": 21,
-        "behavior_id": 2309813
+        "behavior_id": 2309824
       },
       {
         "state_id": 75,
-        "behavior_id": 2309814
+        "behavior_id": 2309825
       },
       {
         "state_id": 10,
-        "behavior_id": 2309815
+        "behavior_id": 2309826
       },
       {
         "state_id": 76,
-        "behavior_id": 2309816
+        "behavior_id": 2309827
       },
       {
         "state_id": 180
@@ -149087,7 +153517,7 @@
   {
     "id": 23000008,
     "editor_name": [
-      "晶石蜗-新",
+      "晶石蜗-新款",
       "西瓜碧玺的样子-无视类"
     ],
     "fsm_struct_id": 179,
@@ -149103,11 +153533,11 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2309908
+        "behavior_id": 2309914
       },
       {
         "state_id": 181,
-        "behavior_id": 2309909,
+        "behavior_id": 2309915,
         "cond_ids": [
           1,
           12
@@ -149115,7 +153545,7 @@
       },
       {
         "state_id": 182,
-        "behavior_id": 2309910,
+        "behavior_id": 2309916,
         "cond_ids": [
           30063,
           5
@@ -149123,7 +153553,7 @@
       },
       {
         "state_id": 183,
-        "behavior_id": 2309911,
+        "behavior_id": 2309917,
         "cond_ids": [
           0,
           19
@@ -149131,7 +153561,7 @@
       },
       {
         "state_id": 184,
-        "behavior_id": 2309912,
+        "behavior_id": 2309918,
         "cond_ids": [
           23245,
           5
@@ -149139,7 +153569,7 @@
       },
       {
         "state_id": 185,
-        "behavior_id": 2309913,
+        "behavior_id": 2309919,
         "cond_ids": [
           0,
           23246,
@@ -149148,7 +153578,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2309914,
+        "behavior_id": 2309920,
         "cond_ids": [
           0,
           5
@@ -149156,7 +153586,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2309915,
+        "behavior_id": 2309921,
         "cond_ids": [
           17,
           5
@@ -149164,15 +153594,15 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2309916
+        "behavior_id": 2309922
       },
       {
         "state_id": 21,
-        "behavior_id": 2309917
+        "behavior_id": 2309923
       },
       {
         "state_id": 75,
-        "behavior_id": 2309918,
+        "behavior_id": 2309924,
         "cond_ids": [
           13
         ]
@@ -149181,12 +153611,14 @@
         "state_id": 180,
         "cond_ids": [
           0,
-          23249
+          23249,
+          0,
+          23312
         ]
       },
       {
         "state_id": 10,
-        "behavior_id": 2309919,
+        "behavior_id": 2309925,
         "cond_ids": [
           30066,
           12
@@ -149194,10 +153626,9 @@
       },
       {
         "state_id": 76,
-        "behavior_id": 2309920,
+        "behavior_id": 2309926,
         "cond_ids": [
-          5,
-          12
+          23313
         ]
       }
     ]
@@ -149221,33 +153652,33 @@
     "behavior_group": [
       {
         "state_id": 179,
-        "behavior_id": 2310120
+        "behavior_id": 2310134
       },
       {
         "state_id": 181,
-        "behavior_id": 2310121
+        "behavior_id": 2310135
       },
       {
         "state_id": 182,
-        "behavior_id": 2310122,
+        "behavior_id": 2310136,
         "cond_ids": [
           30063
         ]
       },
       {
         "state_id": 183,
-        "behavior_id": 2310123
+        "behavior_id": 2310137
       },
       {
         "state_id": 184,
-        "behavior_id": 2310124,
+        "behavior_id": 2310138,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 185,
-        "behavior_id": 2310125,
+        "behavior_id": 2310139,
         "cond_ids": [
           5,
           5,
@@ -149256,7 +153687,7 @@
       },
       {
         "state_id": 186,
-        "behavior_id": 2310126,
+        "behavior_id": 2310140,
         "cond_ids": [
           1,
           5
@@ -149264,7 +153695,7 @@
       },
       {
         "state_id": 187,
-        "behavior_id": 2310127,
+        "behavior_id": 2310141,
         "cond_ids": [
           0,
           5
@@ -149272,29 +153703,1754 @@
       },
       {
         "state_id": 20,
-        "behavior_id": 2310128
+        "behavior_id": 2310142
       },
       {
         "state_id": 21,
-        "behavior_id": 2310129
+        "behavior_id": 2310143
       },
       {
         "state_id": 75,
-        "behavior_id": 2310130
+        "behavior_id": 2310144
       },
       {
         "state_id": 10,
-        "behavior_id": 2310131
+        "behavior_id": 2310145
       },
       {
         "state_id": 76,
-        "behavior_id": 2310132,
+        "behavior_id": 2310146,
         "cond_ids": [
           5
         ]
       },
       {
         "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 23000010,
+    "editor_name": [
+      "异色热团团",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000010,
+    "audio_id": 23000010,
+    "mod_id": 23000010,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000010,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310728,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310729,
+        "cond_ids": [
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310730,
+        "cond_ids": [
+          23332,
+          0,
+          23331
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310731,
+        "cond_ids": [
+          5,
+          1
+        ]
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310732,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310733,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310734,
+        "cond_ids": [
+          5,
+          0,
+          0,
+          23332
+        ]
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310735,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310772
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          23334
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310773
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310774
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310775
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310776,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310777
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310778
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310779
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310780,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000011,
+    "editor_name": [
+      "异色焰米龙",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000011,
+    "audio_id": 23000011,
+    "mod_id": 23000011,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000011,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310797,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310798,
+        "cond_ids": [
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310817,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310818
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310819,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310820,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310821
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310822,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310823
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310824
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310825
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310826
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310827
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310828
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310829
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310830
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310831,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000012,
+    "editor_name": [
+      "异色圣凯布米龙",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000012,
+    "audio_id": 23000012,
+    "mod_id": 23000012,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000012,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310838,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310839,
+        "cond_ids": [
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310840,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310841
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310842,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310843,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310844
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310845,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310846
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310847
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310848
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310849
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310850
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310851
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310852
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310853
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310854,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000013,
+    "editor_name": [
+      "异色新月鹭",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000013,
+    "audio_id": 23000013,
+    "mod_id": 23000013,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000013,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310861,
+        "cond_ids": [
+          23338
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310862,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310863,
+        "cond_ids": [
+          5,
+          0,
+          13,
+          23337
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310864
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310865,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310866,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310867,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310868,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310869
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022,
+          30062,
+          23333
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310870
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310871
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310872
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310873,
+        "cond_ids": [
+          1,
+          23337
+        ]
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310874,
+        "cond_ids": [
+          1
+        ]
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310875
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310876
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310877,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
+      },
+      {
+        "state_id": 129,
+        "behavior_id": 2311015,
+        "cond_ids": [
+          0,
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000014,
+    "editor_name": [
+      "异色月辉鹭",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000014,
+    "audio_id": 23000014,
+    "mod_id": 23000014,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000014,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310884,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310885,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310886,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310887
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310888,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310889,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310890
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310891,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310892
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310893
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310894
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310895
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310896
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310897
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310898
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310899
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310900,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000015,
+    "editor_name": [
+      "异色月使鹭纳",
+      "昼夜模板"
+    ],
+    "fsm_struct_id": 31,
+    "visual_id": 23000015,
+    "audio_id": 23000015,
+    "mod_id": 23000015,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000015,
+    "behavior_group": [
+      {
+        "state_id": 11,
+        "behavior_id": 2310907,
+        "cond_ids": [
+          26023
+        ]
+      },
+      {
+        "state_id": 12,
+        "behavior_id": 2310908,
+        "cond_ids": [
+          0,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 13,
+        "behavior_id": 2310909,
+        "cond_ids": [
+          5,
+          0,
+          13
+        ]
+      },
+      {
+        "state_id": 15,
+        "behavior_id": 2310910
+      },
+      {
+        "state_id": 22,
+        "behavior_id": 2310911,
+        "cond_ids": [
+          0,
+          0,
+          19,
+          5
+        ]
+      },
+      {
+        "state_id": 23,
+        "behavior_id": 2310912,
+        "cond_ids": [
+          26023,
+          5
+        ]
+      },
+      {
+        "state_id": 24,
+        "behavior_id": 2310913
+      },
+      {
+        "state_id": 25,
+        "behavior_id": 2310914,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 31,
+        "behavior_id": 2310915
+      },
+      {
+        "state_id": 27,
+        "cond_ids": [
+          26021,
+          0,
+          0,
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 36,
+        "cond_ids": [
+          26022,
+          30062
+        ]
+      },
+      {
+        "state_id": 14,
+        "behavior_id": 2310916
+      },
+      {
+        "state_id": 16,
+        "behavior_id": 2310917
+      },
+      {
+        "state_id": 77,
+        "behavior_id": 2310918
+      },
+      {
+        "state_id": 78,
+        "behavior_id": 2310919
+      },
+      {
+        "state_id": 79,
+        "behavior_id": 2310920
+      },
+      {
+        "state_id": 80,
+        "behavior_id": 2310921
+      },
+      {
+        "state_id": 81,
+        "behavior_id": 2310922
+      },
+      {
+        "state_id": 26,
+        "behavior_id": 2310923,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000016,
+    "editor_name": [
+      "异色热团团跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000016,
+    "audio_id": 23000016,
+    "mod_id": 23000016,
+    "bb_input": 23000016,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310930
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310931,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          23334
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310932,
+        "cond_ids": [
+          0,
+          23332,
+          0,
+          23334
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310933
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310934
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310935
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310936
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310937,
+        "cond_ids": [
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310938
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310986,
+        "cond_ids": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000017,
+    "editor_name": [
+      "异色焰米龙跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000017,
+    "audio_id": 23000017,
+    "mod_id": 23000017,
+    "bb_input": 23000017,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310939
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310940
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310941
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310942
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310943
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310944
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310945
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310946
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310947
+      }
+    ]
+  },
+  {
+    "id": 23000018,
+    "editor_name": [
+      "异色圣凯布米龙跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000018,
+    "audio_id": 23000018,
+    "mod_id": 23000018,
+    "bb_input": 23000018,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310948
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310949
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310950
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310951
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310952
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310953
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310954
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310955
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310956
+      }
+    ]
+  },
+  {
+    "id": 23000019,
+    "editor_name": [
+      "异色新月鹭跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000019,
+    "audio_id": 23000019,
+    "mod_id": 23000019,
+    "bb_input": 23000019,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310957
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310958,
+        "cond_ids": [
+          0,
+          23333
+        ]
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310959,
+        "cond_ids": [
+          0,
+          23333,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310960
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310961
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310962
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310963
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310964,
+        "cond_ids": [
+          1,
+          0,
+          0,
+          23337
+        ]
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310965
+      },
+      {
+        "state_id": 128,
+        "behavior_id": 2310987,
+        "cond_ids": [
+          0,
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000020,
+    "editor_name": [
+      "异色月辉鹭跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000020,
+    "audio_id": 23000020,
+    "mod_id": 23000020,
+    "bb_input": 23000020,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310966
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310967
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310968
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310969
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310970
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310971
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310972
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310973
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310974
+      }
+    ]
+  },
+  {
+    "id": 23000021,
+    "editor_name": [
+      "异色月使鹭纳跟随",
+      "跟随精灵"
+    ],
+    "fsm_struct_id": 37,
+    "visual_id": 23000021,
+    "audio_id": 23000021,
+    "mod_id": 23000021,
+    "bb_input": 23000021,
+    "behavior_group": [
+      {
+        "state_id": 37,
+        "behavior_id": 2310975
+      },
+      {
+        "state_id": 55,
+        "behavior_id": 2310976
+      },
+      {
+        "state_id": 62,
+        "behavior_id": 2310977
+      },
+      {
+        "state_id": 69,
+        "behavior_id": 2310978
+      },
+      {
+        "state_id": 70,
+        "behavior_id": 2310979
+      },
+      {
+        "state_id": 71,
+        "behavior_id": 2310980
+      },
+      {
+        "state_id": 72,
+        "behavior_id": 2310981
+      },
+      {
+        "state_id": 73,
+        "behavior_id": 2310982
+      },
+      {
+        "state_id": 74,
+        "behavior_id": 2310983
+      }
+    ]
+  },
+  {
+    "id": 23000022,
+    "editor_name": [
+      "觅觅蝠大量出没",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000022,
+    "audio_id": 23000022,
+    "mod_id": 23000022,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000022,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2311001
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2311002
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2311016,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2311017
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311018,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311019,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311020
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311021
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311022
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311023
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311024
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311025
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311026
+      }
+    ]
+  },
+  {
+    "id": 23000023,
+    "editor_name": [
+      "眼魔大量出没",
+      "基础逃跑-逃跑类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000023,
+    "audio_id": 23000023,
+    "mod_id": 23000023,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000023,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2311031
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2311032
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2311033,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2311034
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311035,
+        "cond_ids": [
+          5,
+          12
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311036,
+        "cond_ids": [
+          5,
+          1,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311037,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311038
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311039
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311040
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311041
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311042
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311043
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000024,
+    "editor_name": [
+      "刺轮砣-月亮砣大量出没",
+      "潜游-逃跑"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000024,
+    "audio_id": 23000024,
+    "mod_id": 23000024,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000024,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2310903
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2310905
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2310926,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2310928,
+        "cond_ids": [
+          0,
+          19
+        ]
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311054
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311055,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311056
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311057
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311058
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311059
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311060
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311061
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311062
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000025,
+    "editor_name": [
+      "觅觅蝠-翻翻辐S4连续捕捉",
+      "基础攻击-敌对-攻击类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000025,
+    "audio_id": 23000025,
+    "mod_id": 23000025,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000025,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2311068
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2311069
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2311070,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2311071
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311072,
+        "cond_ids": [
+          5
+        ]
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311073,
+        "cond_ids": [
+          5,
+          5,
+          5
+        ]
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311074
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311075
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311076
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311077
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311078
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311079
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311080
+      }
+    ]
+  },
+  {
+    "id": 23000026,
+    "editor_name": [
+      "圆眼蜘蛛S4连续捕捉",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000026,
+    "audio_id": 23000026,
+    "mod_id": 23000026,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000026,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2311085
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2311086
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2311087,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2311088
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311089
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311090
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311091
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311092,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311093
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311094
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311095
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311096
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311097
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23000027,
+    "editor_name": [
+      "旋叶虫-蓬叶虫-风滚暮虫S4连续捕捉",
+      "基础无视-无视类"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 23000027,
+    "audio_id": 23000027,
+    "mod_id": 23000027,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 23000027,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2311102
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2311103
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2311104,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2311105
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2311106
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2311107
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2311108
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2311109,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2311110
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2311111
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2311112
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2311113
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2311114
+      },
+      {
+        "state_id": 180,
+        "cond_ids": [
+          0,
+          30062
+        ]
       }
     ]
   },
@@ -151195,6 +157351,378 @@
         "cond_ids": [
           1
         ]
+      }
+    ]
+  },
+  {
+    "id": 28000026,
+    "editor_name": [
+      "",
+      "独立型精灵"
+    ],
+    "fsm_struct_id": 86,
+    "visual_id": 28000026,
+    "audio_id": 28000026,
+    "mod_id": 28000026,
+    "cone_ids": [
+      3,
+      2,
+      1
+    ],
+    "bb_input": 28000026,
+    "behavior_group": [
+      {
+        "state_id": 86,
+        "behavior_id": 2801621,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 87,
+        "behavior_id": 2801622
+      },
+      {
+        "state_id": 89,
+        "behavior_id": 2801623
+      },
+      {
+        "state_id": 90,
+        "behavior_id": 2801624
+      },
+      {
+        "state_id": 91,
+        "behavior_id": 2801625
+      },
+      {
+        "state_id": 92,
+        "behavior_id": 2801626
+      },
+      {
+        "state_id": 93,
+        "behavior_id": 2801627
+      },
+      {
+        "state_id": 94,
+        "behavior_id": 2801628
+      },
+      {
+        "state_id": 95,
+        "behavior_id": 2801629
+      },
+      {
+        "state_id": 88,
+        "cond_ids": [
+          5,
+          0,
+          5,
+          28074
+        ]
+      },
+      {
+        "state_id": 116,
+        "behavior_id": 2801630
+      },
+      {
+        "state_id": 117,
+        "behavior_id": 2801631
+      },
+      {
+        "state_id": 118,
+        "behavior_id": 2801632
+      }
+    ]
+  },
+  {
+    "id": 28000027,
+    "editor_name": [
+      "S4赛季家具",
+      "扫地机器人"
+    ],
+    "fsm_struct_id": 49,
+    "visual_id": 28000027,
+    "audio_id": 28000027,
+    "mod_id": 28000027,
+    "bb_input": 28000027,
+    "behavior_group": [
+      {
+        "state_id": 17
+      },
+      {
+        "state_id": 18,
+        "behavior_id": 2801639
+      },
+      {
+        "state_id": 29
+      },
+      {
+        "state_id": 30,
+        "behavior_id": 2801640
+      },
+      {
+        "state_id": 46
+      },
+      {
+        "state_id": 47
+      },
+      {
+        "state_id": 49,
+        "behavior_id": 2801641
+      },
+      {
+        "state_id": 51,
+        "behavior_id": 2801642
+      },
+      {
+        "state_id": 52,
+        "behavior_id": 2801643
+      },
+      {
+        "state_id": 50,
+        "cond_ids": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28000028,
+    "editor_name": [
+      "瑰眼仔家族",
+      "大量出没特殊配置"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 28000028,
+    "audio_id": 28000028,
+    "mod_id": 28000028,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 28000028,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2801652
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2801653
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2801654,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2801655
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2801656
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2801657
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2801658
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2801659
+      },
+      {
+        "state_id": 180
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2801660
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2801661
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2801662
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2801663
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2801664
+      }
+    ]
+  },
+  {
+    "id": 28000029,
+    "editor_name": [
+      "梦想三三",
+      "大量出没特殊配置"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 28000029,
+    "audio_id": 28000029,
+    "mod_id": 28000029,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 28000029,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2801669
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2801670
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2801671,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2801672
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2801673
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2801674
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2801675
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2801676,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2801677
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2801678
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2801679
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2801680
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2801681
+      },
+      {
+        "state_id": 180
+      }
+    ]
+  },
+  {
+    "id": 28000030,
+    "editor_name": [
+      "瑰眼仔家族",
+      "瑰眼仔家族大量出没"
+    ],
+    "fsm_struct_id": 179,
+    "visual_id": 28000030,
+    "audio_id": 28000030,
+    "mod_id": 28000030,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 28000030,
+    "behavior_group": [
+      {
+        "state_id": 179,
+        "behavior_id": 2801686
+      },
+      {
+        "state_id": 181,
+        "behavior_id": 2801687
+      },
+      {
+        "state_id": 182,
+        "behavior_id": 2801688,
+        "cond_ids": [
+          30063
+        ]
+      },
+      {
+        "state_id": 183,
+        "behavior_id": 2801689
+      },
+      {
+        "state_id": 184,
+        "behavior_id": 2801690
+      },
+      {
+        "state_id": 185,
+        "behavior_id": 2801691
+      },
+      {
+        "state_id": 186,
+        "behavior_id": 2801692
+      },
+      {
+        "state_id": 187,
+        "behavior_id": 2801693,
+        "cond_ids": [
+          0,
+          5
+        ]
+      },
+      {
+        "state_id": 20,
+        "behavior_id": 2801694
+      },
+      {
+        "state_id": 21,
+        "behavior_id": 2801695
+      },
+      {
+        "state_id": 75,
+        "behavior_id": 2801696
+      },
+      {
+        "state_id": 10,
+        "behavior_id": 2801697
+      },
+      {
+        "state_id": 76,
+        "behavior_id": 2801698
+      },
+      {
+        "state_id": 180
       }
     ]
   },
@@ -163102,6 +169630,164 @@
       {
         "state_id": 76,
         "behavior_id": 5600155
+      }
+    ]
+  },
+  {
+    "id": 58000000,
+    "editor_name": [
+      "",
+      "叙事B级模板"
+    ],
+    "fsm_struct_id": 49,
+    "visual_id": 58000000,
+    "audio_id": 58000000,
+    "mod_id": 58000000,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 58000000,
+    "behavior_group": [
+      {
+        "state_id": 17,
+        "behavior_id": 5800000
+      },
+      {
+        "state_id": 18,
+        "behavior_id": 5800001
+      },
+      {
+        "state_id": 29,
+        "behavior_id": 5800002,
+        "cond_ids": [
+          0,
+          60
+        ]
+      },
+      {
+        "state_id": 30,
+        "behavior_id": 5800003,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "state_id": 46,
+        "behavior_id": 5800004,
+        "cond_ids": [
+          0,
+          1
+        ]
+      },
+      {
+        "state_id": 47,
+        "behavior_id": 5800005
+      },
+      {
+        "state_id": 49,
+        "behavior_id": 5800006
+      },
+      {
+        "state_id": 51,
+        "behavior_id": 5800007,
+        "cond_ids": [
+          6
+        ]
+      },
+      {
+        "state_id": 52,
+        "behavior_id": 5800008
+      },
+      {
+        "state_id": 50,
+        "cond_ids": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": 58000001,
+    "editor_name": [
+      "",
+      "叙事B级模板"
+    ],
+    "fsm_struct_id": 49,
+    "visual_id": 58000001,
+    "audio_id": 58000001,
+    "mod_id": 58000001,
+    "cone_ids": [
+      1,
+      2,
+      3
+    ],
+    "bb_input": 58000001,
+    "behavior_group": [
+      {
+        "state_id": 17,
+        "behavior_id": 5800009
+      },
+      {
+        "state_id": 18,
+        "behavior_id": 5800010
+      },
+      {
+        "state_id": 29,
+        "behavior_id": 5800011,
+        "cond_ids": [
+          0,
+          60
+        ]
+      },
+      {
+        "state_id": 30,
+        "behavior_id": 5800012,
+        "cond_ids": [
+          0,
+          0,
+          0,
+          1
+        ]
+      },
+      {
+        "state_id": 46,
+        "behavior_id": 5800013,
+        "cond_ids": [
+          0,
+          1
+        ]
+      },
+      {
+        "state_id": 47,
+        "behavior_id": 5800014
+      },
+      {
+        "state_id": 49,
+        "behavior_id": 5800015
+      },
+      {
+        "state_id": 51,
+        "behavior_id": 5800016,
+        "cond_ids": [
+          6
+        ]
+      },
+      {
+        "state_id": 52,
+        "behavior_id": 5800017
+      },
+      {
+        "state_id": 50,
+        "cond_ids": [
+          5,
+          5
+        ]
       }
     ]
   },

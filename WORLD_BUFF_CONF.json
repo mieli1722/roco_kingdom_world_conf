@@ -2,7 +2,6 @@
   {
     "id": 10001,
     "buff_type": 2,
-    "tick_duration": 5000,
     "buff_effect_type": 1,
     "params": [
       1
@@ -17,7 +16,6 @@
   },
   {
     "id": 10002,
-    "tick_duration": 5000,
     "buff_effect_type": 1,
     "params": [
       50
@@ -34,7 +32,6 @@
     "id": 10003,
     "time_out_duration": 5000,
     "buff_effect_type": 4,
-    "is_die_delete": true,
     "option": [
       {
         "shifting_xyz": [
@@ -46,7 +43,6 @@
   {
     "id": 10004,
     "time_out_duration": 3600000,
-    "is_die_delete": true,
     "option": [
       {
         "shifting_xyz": [
@@ -58,12 +54,10 @@
   {
     "id": 10012,
     "buff_type": 1,
-    "tick_duration": 12000,
     "buff_effect_type": 1,
     "params": [
       1
     ],
-    "is_die_delete": true,
     "option": [
       {
         "shifting_xyz": [
@@ -469,7 +463,6 @@
   {
     "id": 50007,
     "time_out_duration": 8000,
-    "tick_duration": 5000,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_Strikelock.NS_Scene_BossBattle_Strikelock'",
@@ -479,8 +472,7 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
     ]
   },
@@ -488,7 +480,6 @@
     "id": 50008,
     "time_out_duration": 3000,
     "buff_effect_type": 4,
-    "is_die_delete": true,
     "option": [
       {
         "shifting_xyz": [
@@ -509,15 +500,13 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
     ]
   },
   {
     "id": 50010,
     "time_out_duration": 50000,
-    "buff_add_mode": 1,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_Strikelock.NS_Scene_BossBattle_Strikelock'",
@@ -527,8 +516,7 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
     ]
   },
@@ -544,13 +532,7 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
-      }
-    ],
-    "jump_option": [
-      {
-        "target_buff_id": 10001
+        "is_follow": true
       }
     ]
   },
@@ -566,14 +548,7 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
-      }
-    ],
-    "jump_option": [
-      {
-        "buff_jump_type": 1,
-        "target_buff_id": 10001
+        "is_follow": true
       }
     ]
   },
@@ -589,15 +564,7 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
-      }
-    ],
-    "jump_option": [
-      {
-        "buff_jump_type": 2,
-        "trigger_buff_id": 50009,
-        "target_buff_id": 10001
+        "is_follow": true
       }
     ]
   },
@@ -613,12 +580,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 1
+    ]
   },
   {
     "id": 50015,
@@ -632,12 +596,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 2
+    ]
   },
   {
     "id": 50016,
@@ -651,12 +612,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 3
+    ]
   },
   {
     "id": 50017,
@@ -670,12 +628,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 4
+    ]
   },
   {
     "id": 50018,
@@ -689,12 +644,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 2
+    ]
   },
   {
     "id": 50019,
@@ -708,12 +660,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 3
+    ]
   },
   {
     "id": 50020,
@@ -727,12 +676,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 4
+    ]
   },
   {
     "id": 50021,
@@ -746,12 +692,9 @@
           0,
           500
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50014,
-    "reple_priority": 5
+    ]
   },
   {
     "id": 50022,
@@ -799,7 +742,6 @@
           0
         ],
         "is_follow": true,
-        "is_circulate": true,
         "line_target_link_point": "locator_body",
         "line_target_particle": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_WarningFx02.NS_Scene_BossBattle_WarningFx02'"
       }
@@ -812,7 +754,6 @@
     "params": [
       -50
     ],
-    "is_die_delete": true,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/Pet/Ecology/NS_Scence_Ecology_Toxicity01.NS_Scence_Ecology_Toxicity01'",
@@ -820,12 +761,9 @@
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50026,
-    "reple_priority": 4
+    ]
   },
   {
     "id": 50027,
@@ -842,7 +780,6 @@
           0
         ],
         "is_follow": true,
-        "is_circulate": true,
         "line_target_link_point": "locator_body",
         "line_target_particle": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_WarningFx02.NS_Scene_BossBattle_WarningFx02'"
       }
@@ -863,7 +800,6 @@
           0
         ],
         "is_follow": true,
-        "is_circulate": true,
         "line_target_link_point": "locator_body",
         "line_target_particle": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_WarningFx02.NS_Scene_BossBattle_WarningFx02'"
       }
@@ -965,10 +901,7 @@
     "buff_effect_type": 9,
     "params": [
       -50
-    ],
-    "is_die_delete": true,
-    "repel_group_id": 50026,
-    "reple_priority": 3
+    ]
   },
   {
     "id": 50035,
@@ -976,8 +909,7 @@
     "buff_effect_type": 9,
     "params": [
       25
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50036,
@@ -985,38 +917,31 @@
     "buff_effect_type": 9,
     "params": [
       50
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50037,
     "time_out_duration": 5000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       10
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50038,
     "time_out_duration": 10000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       5
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50039,
     "time_out_duration": 500,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -300
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50040,
@@ -1033,7 +958,6 @@
           0
         ],
         "is_follow": true,
-        "is_circulate": true,
         "line_target_link_point": "locator_body",
         "line_target_particle": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/BossBattle/NS_Scene_BossBattle_WarningFx02.NS_Scene_BossBattle_WarningFx02'"
       }
@@ -1046,7 +970,6 @@
     "params": [
       -30
     ],
-    "is_die_delete": true,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Skill/Ice/NS_Ice_108019_LF_Wind.NS_Ice_108019_LF_Wind'",
@@ -1054,12 +977,9 @@
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50026,
-    "reple_priority": 2
+    ]
   },
   {
     "id": 50042,
@@ -1068,7 +988,6 @@
     "params": [
       -80
     ],
-    "is_die_delete": true,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Skill/Ice/NS_Ice_108019_LF_Wind.NS_Ice_108019_LF_Wind'",
@@ -1076,22 +995,17 @@
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50026,
-    "reple_priority": 5
+    ]
   },
   {
     "id": 50043,
     "time_out_duration": 10000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       5
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50044,
@@ -1316,7 +1230,6 @@
     "params": [
       -25
     ],
-    "is_die_delete": true,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Scene/Pet/Ecology/NS_Scence_Ecology_Toxicity01.NS_Scence_Ecology_Toxicity01'",
@@ -1324,12 +1237,9 @@
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50026,
-    "reple_priority": 1
+    ]
   },
   {
     "id": 50057,
@@ -1446,7 +1356,6 @@
     "params": [
       -50
     ],
-    "is_die_delete": true,
     "option": [
       {
         "particle_name": "NiagaraSystem'/Game/ArtRes/Effects/Particle/Skill/Ice/NS_Ice_108019_LF_Wind.NS_Ice_108019_LF_Wind'",
@@ -1454,12 +1363,9 @@
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
-    ],
-    "repel_group_id": 50026,
-    "reple_priority": 2
+    ]
   },
   {
     "id": 50064,
@@ -1482,18 +1388,15 @@
   {
     "id": 50065,
     "time_out_duration": 3000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       10
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50066,
     "time_out_duration": 3500,
     "buff_effect_type": 13,
-    "is_die_delete": true,
     "option": [
       {
         "skill_name": "/Game/ArtRes/Effects/G6Skill/WorldCombat/G6_BossSkill_HMWS_MR_Hit",
@@ -1506,12 +1409,10 @@
   {
     "id": 50067,
     "time_out_duration": 3000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       10
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50068,
@@ -1520,21 +1421,18 @@
     "params": [
       -50
     ],
-    "is_die_delete": true,
     "option": [
       {
         "skill_name": "/Game/ArtRes/Effects/G6Skill/WorldCombat/G6_BossSkill_BBH_DQMM2",
         "shifting_xyz": [
           0
         ],
-        "is_follow": true,
-        "is_circulate": true
+        "is_follow": true
       }
     ]
   },
   {
     "id": 50069,
-    "buff_add_mode": 1,
     "buff_effect_type": 14,
     "params": [
       8
@@ -1543,82 +1441,61 @@
   {
     "id": 50070,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -200
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50071,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -200
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50072,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -100
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50073,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -200
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50074,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -150
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50075,
     "time_out_duration": 5000,
-    "tick_duration": 100,
     "buff_effect_type": 12,
     "params": [
       10
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50076,
     "time_out_duration": 500,
-    "buff_add_mode": 2,
-    "tick_duration": 1000,
     "buff_effect_type": 12,
     "params": [
       -150
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 50077,
-    "tick_duration": 300,
     "buff_effect_type": 15,
     "params": [
       50,
@@ -1635,51 +1512,41 @@
   {
     "id": 50078,
     "time_out_duration": 30000,
-    "buff_effect_type": 16,
-    "is_die_delete": true
+    "buff_effect_type": 16
   },
   {
     "id": 60001,
-    "tick_duration": 10000,
     "buff_effect_type": 18,
     "params": [
       6,
       5,
       5
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 60002,
-    "tick_duration": 2000,
     "buff_effect_type": 19,
     "params": [
       10
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 60003,
-    "tick_duration": 2000,
     "buff_effect_type": 19,
     "params": [
       20
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 60004,
-    "tick_duration": 1000,
     "buff_effect_type": 19,
     "params": [
       99
-    ],
-    "is_die_delete": true
+    ]
   },
   {
     "id": 60005,
     "time_out_duration": 3600000,
-    "tick_duration": 1000,
     "buff_effect_type": 17,
     "params": [
       99

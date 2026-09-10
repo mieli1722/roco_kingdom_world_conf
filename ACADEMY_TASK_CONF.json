@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "task_name": "精灵学-每周收获精灵蛋",
+    "task_des": "<span color=\"#d56c1f\">【每周】 </>家园收获10颗精灵蛋",
+    "task_type": 1,
+    "task_variable": 10,
+    "task_loop": 1,
+    "task_loop_variable": 1,
+    "get_score": 10,
+    "get_reward": 200000386,
+    "show_progress": true
+  },
+  {
+    "id": 2,
+    "task_name": "精灵学-赛季命定奖牌",
+    "task_des": "<span color=\"#d56c1f\">【赛季】 </>获得3枚命定勇者奖牌",
+    "task_type": 2,
+    "task_variable": 3,
+    "task_loop": 2,
+    "task_loop_variable": 1,
+    "get_score": 60,
+    "get_reward": 200000387,
+    "show_progress": true
+  },
+  {
+    "id": 3,
+    "task_name": "精灵学-赠送精灵蛋",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>赠送1次精灵蛋",
+    "task_type": 4,
+    "task_variable": 1,
+    "task_loop": 3,
+    "get_score": 1
+  },
+  {
+    "id": 4,
+    "task_name": "精灵学-同行赠送精灵",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>同行赠送1次精灵",
+    "task_type": 3,
+    "task_variable": 1,
+    "task_loop": 3,
+    "get_score": 1
+  },
+  {
+    "id": 5,
+    "task_name": "炼金学-每周合成条件球",
+    "task_des": "<span color=\"#d56c1f\">【每周】 </>累计合成400个条件球",
+    "task_type": 8,
+    "task_variable": 400,
+    "task_loop": 1,
+    "task_loop_variable": 1,
+    "get_score": 10,
+    "get_reward": 200000386,
+    "show_progress": true
+  },
+  {
+    "id": 6,
+    "task_name": "炼金学-赛季收集异色炫彩",
+    "task_des": "<span color=\"#d56c1f\">【赛季】 </>获得3只异色炫彩精灵",
+    "task_type": 14,
+    "task_variable": 3,
+    "task_loop": 2,
+    "task_loop_variable": 1,
+    "get_score": 60,
+    "get_reward": 200000387,
+    "show_progress": true
+  },
+  {
+    "id": 7,
+    "task_name": "炼金学-赠送咕噜球",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>赠送他人1次咕噜球",
+    "task_type": 10,
+    "task_variable": 1,
+    "task_loop": 3,
+    "get_score": 1
+  },
+  {
+    "id": 8,
+    "task_name": "仪典学-每周晚风小憩",
+    "task_des": "<span color=\"#d56c1f\">【每周】 </>晚风小憩累计获得2400星光",
+    "task_type": 11,
+    "task_variable": 2400,
+    "task_loop": 1,
+    "task_loop_variable": 1,
+    "get_score": 10,
+    "get_reward": 200000386,
+    "show_progress": true
+  },
+  {
+    "id": 9,
+    "task_name": "仪典学-赛季收集时装",
+    "task_des": "<span color=\"#d56c1f\">【赛季】 </>皮卡商店或随机商店收集任意10个时装部件",
+    "task_type": 12,
+    "task_variable": 10,
+    "task_loop": 2,
+    "task_loop_variable": 1,
+    "get_score": 60,
+    "get_reward": 200000387,
+    "show_progress": true
+  },
+  {
+    "id": 10,
+    "task_name": "仪典学-留言留影被互动",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>留言/留影被互动5次",
+    "task_type": 13,
+    "task_variable": 5,
+    "task_loop": 3,
+    "get_score": 1
+  },
+  {
+    "id": 11,
+    "task_name": "战斗学-每周闪耀大赛",
+    "task_des": "<span color=\"#d56c1f\">【每周】 </>闪耀大赛获得10场胜利",
+    "task_type": 5,
+    "task_variable": 10,
+    "task_loop": 1,
+    "task_loop_variable": 1,
+    "get_score": 10,
+    "get_reward": 200000386,
+    "show_progress": true
+  },
+  {
+    "id": 12,
+    "task_name": "战斗学-赛季达到大师",
+    "task_des": "<span color=\"#d56c1f\">【赛季】 </>闪耀大赛达到大师段位",
+    "task_type": 6,
+    "task_variable": 117,
+    "task_loop": 2,
+    "task_loop_variable": 1,
+    "get_score": 60,
+    "get_reward": 200000387
+  },
+  {
+    "id": 13,
+    "task_name": "战斗学-被观战拿洛克贝",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>给观战的小洛克累计分享500000洛克贝",
+    "task_type": 7,
+    "task_variable": 500000,
+    "task_loop": 3,
+    "get_score": 1
+  }
+]

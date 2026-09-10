@@ -11,51 +11,51 @@
   {
     "ID": 2,
     "display_order": 107,
+    "notice_display_order": 1,
     "precious_egg_type": 1,
+    "name": "珍贵精灵蛋",
     "cant_give_away": true,
     "ball_range": [
       0,
       2,
       3
     ],
-    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_png.img_Icondan_png'",
-    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan2_png.img_Icondan2_png'",
-    "name": "珍贵精灵蛋",
     "ball_range_description": "所有咕噜球",
-    "notice_display_order": 1
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_png.img_Icondan_png'",
+    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan2_png.img_Icondan2_png'"
   },
   {
     "ID": 3,
     "display_order": 104,
+    "notice_display_order": 4,
     "precious_egg_type": 2,
+    "name": "异色精灵蛋",
     "cant_give_away": true,
     "ball_range": [
       0,
       2,
       3
     ],
-    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_yise_png.img_Icondan_yise_png'",
-    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_yise2_png.img_Icondan_yise2_png'",
-    "name": "异色精灵蛋",
     "ball_range_description": "所有咕噜球",
-    "notice_display_order": 4
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_yise_png.img_Icondan_yise_png'",
+    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_yise2_png.img_Icondan_yise2_png'"
   },
   {
     "ID": 4,
     "display_order": 103,
+    "notice_display_order": 5,
     "precious_egg_type": 3,
+    "name": "异色炫彩精灵蛋",
     "cant_give_away": true,
     "ball_range": [
       0,
       2
     ],
+    "ball_range_description": "除（赛季）棱镜球外的咕噜球",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_ShiningGlass_png.img_Icondan_ShiningGlass_png'",
     "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_ShiningGlass2_png.img_Icondan_ShiningGlass2_png'",
     "model_tex": "MaterialInstanceConstant'/Game/ArtRes/Material/Characters/PetBase/MaterialInstance/Special/MI_P_EggGlassy_Outline.MI_P_EggGlassy_Outline'",
-    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'",
-    "name": "异色炫彩精灵蛋",
-    "ball_range_description": "除（赛季）棱镜球外的咕噜球",
-    "notice_display_order": 5
+    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'"
   },
   {
     "ID": 5,
@@ -74,47 +74,47 @@
   {
     "ID": 6,
     "display_order": 101,
+    "notice_display_order": 6,
     "precious_egg_type": 5,
+    "name": "唯一精灵蛋",
     "cant_give_away": true,
     "ball_range": [
       0,
       2
     ],
-    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Iconda_Only_png.img_Iconda_Only_png'",
-    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Iconda_Only2_png.img_Iconda_Only2_png'",
-    "name": "唯一精灵蛋",
     "ball_range_description": "除（赛季）棱镜球外的咕噜球",
-    "notice_display_order": 6
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Iconda_Only_png.img_Iconda_Only_png'",
+    "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Iconda_Only2_png.img_Iconda_Only2_png'"
   },
   {
     "ID": 7,
     "display_order": 105,
+    "notice_display_order": 2,
     "precious_egg_type": 6,
+    "name": "炫彩精灵蛋",
     "cant_give_away": true,
     "ball_range": [
       0,
       2
     ],
+    "ball_range_description": "除（赛季）棱镜球外的咕噜球",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_Glass_png.img_Icondan_Glass_png'",
     "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_Glass2_png.img_Icondan_Glass2_png'",
     "model_tex": "MaterialInstanceConstant'/Game/ArtRes/Material/Characters/PetBase/MaterialInstance/Special/MI_P_EggGlassy_Outline.MI_P_EggGlassy_Outline'",
-    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'",
-    "name": "炫彩精灵蛋",
-    "ball_range_description": "除（赛季）棱镜球外的咕噜球",
-    "notice_display_order": 2
+    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'"
   },
   {
     "ID": 8,
     "display_order": 1,
+    "notice_display_order": 3,
     "precious_egg_type": 7,
+    "name": "自选炫彩精灵蛋",
     "cant_give_away": true,
+    "ball_range_description": "不支持选择咕噜球",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_suipian_png.img_Icondan_suipian_png'",
     "small_icon": "PaperSprite'/Game/NewRoco/Modules/System/Common/Raw/Frames/img_Icondan_suipian2_png.img_Icondan_suipian2_png'",
     "model_tex": "MaterialInstanceConstant'/Game/ArtRes/Material/Characters/PetBase/MaterialInstance/Special/MI_P_EggGlassy_Outline.MI_P_EggGlassy_Outline'",
-    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'",
-    "name": "自选炫彩精灵蛋",
-    "ball_range_description": "不支持选择咕噜球",
-    "notice_display_order": 3
+    "icon_tex": "MaterialInstanceConstant'/Game/ArtRes/UI/TUI/Materials/MI_UI_PetEgg_Glassy.MI_UI_PetEgg_Glassy'"
   },
   {
     "ID": 9,

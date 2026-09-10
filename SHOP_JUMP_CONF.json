@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "shop_item_id": [
+      18051,
+      18052
+    ],
+    "petbase_id": [
+      3746
+    ],
+    "condition": true,
+    "jump_condition": [
+      {
+        "type": 1,
+        "item_id": 107235,
+        "condition": true
+      }
+    ],
+    "behavior_id": 3500003
+  },
+  {
+    "id": 2,
+    "shop_item_id": [
+      18059,
+      18060
+    ],
+    "petbase_id": [
+      3796
+    ],
+    "condition": true,
+    "jump_condition": [
+      {
+        "type": 1,
+        "item_id": 107250,
+        "condition": true
+      }
+    ],
+    "behavior_id": 3500004
+  }
+]

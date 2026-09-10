@@ -16,7 +16,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happy.icon_pose_happy'",
     "card_pose_resource_path": "RolePlayHappy",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -36,7 +35,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sad.icon_pose_sad'",
     "card_pose_resource_path": "RolePlaySad",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -55,8 +53,7 @@
     "female_skill_id": 100024,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_anger.icon_pose_anger'",
     "card_pose_resource_path": "RolePlayAnger",
-    "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3
+    "pose_get_ways": "尚未获得。？？？后解锁。"
   },
   {
     "id": 4,
@@ -75,7 +72,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_confus.icon_pose_confus'",
     "card_pose_resource_path": "RolePlayDoubt",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -92,7 +88,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_power.icon_pose_power'",
     "card_pose_resource_path": "RolePlayShow",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -112,7 +107,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_threaten.icon_pose_threaten'",
     "card_pose_resource_path": "RolePlayThreaten",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -131,8 +125,7 @@
     "female_skill_id": 100028,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_help.icon_pose_help'",
     "card_pose_resource_path": "RolePlayHelp",
-    "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3
+    "pose_get_ways": "尚未获得。？？？后解锁。"
   },
   {
     "id": 8,
@@ -151,7 +144,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_show.icon_pose_show'",
     "card_pose_resource_path": "RolePlayCheer",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -171,7 +163,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sick.icon_pose_sick'",
     "card_pose_resource_path": "RolePlayLaziness",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -187,7 +178,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bow.icon_pose_bow'",
     "card_pose_resource_path": "RolePlayBow",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -196,13 +186,11 @@
     "behavior_type": 4,
     "RPbehavior_type": 11,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿鸭吉吉的叫声”",
     "ui_order": 1,
     "male_skill_id": 100011,
     "female_skill_id": 100032,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3012.3012'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3012.3012'"
   },
   {
     "id": 15,
@@ -210,14 +198,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 15,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿仪式之星的叫声”",
     "ui_order": 2,
     "is_initial_unlock": true,
     "male_skill_id": 100012,
     "female_skill_id": 100033,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3110.3110'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3110.3110'"
   },
   {
     "id": 16,
@@ -225,13 +211,11 @@
     "behavior_type": 4,
     "RPbehavior_type": 16,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿深蓝鲸的叫声”",
     "ui_order": 3,
     "male_skill_id": 100013,
     "female_skill_id": 100034,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3381.3381'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3381.3381'"
   },
   {
     "id": 17,
@@ -239,14 +223,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 17,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿呼呼猪的叫声”",
     "ui_order": 4,
     "is_initial_unlock": true,
     "male_skill_id": 100014,
     "female_skill_id": 100035,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3262.3262'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3262.3262'"
   },
   {
     "id": 18,
@@ -254,14 +236,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 18,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿冬羽雀的叫声”",
     "ui_order": 5,
     "is_initial_unlock": true,
     "male_skill_id": 100015,
     "female_skill_id": 100036,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3028.3028'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3028.3028'"
   },
   {
     "id": 19,
@@ -269,14 +249,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 19,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿叮叮恶魔的叫声”",
     "ui_order": 6,
     "is_initial_unlock": true,
     "male_skill_id": 100016,
     "female_skill_id": 100037,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3039.3039'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3039.3039'"
   },
   {
     "id": 20,
@@ -284,13 +262,11 @@
     "behavior_type": 4,
     "RPbehavior_type": 20,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿音速犬的叫声”",
     "ui_order": 7,
     "male_skill_id": 100017,
     "female_skill_id": 100038,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3071.3071'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3071.3071'"
   },
   {
     "id": 21,
@@ -298,14 +274,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 21,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿电咩咩的叫声”",
     "ui_order": 8,
     "is_initial_unlock": true,
     "male_skill_id": 100018,
     "female_skill_id": 100039,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3190.3190'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3190.3190'"
   },
   {
     "id": 22,
@@ -313,14 +287,12 @@
     "behavior_type": 4,
     "RPbehavior_type": 22,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿呼啦猫的叫声”",
     "ui_order": 9,
     "is_initial_unlock": true,
     "male_skill_id": 100019,
     "female_skill_id": 100040,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3217.3217'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3217.3217'"
   },
   {
     "id": 23,
@@ -328,13 +300,11 @@
     "behavior_type": 4,
     "RPbehavior_type": 23,
     "range": 2500,
-    "call_action_speed": 1,
     "toast_text": "“模仿绿洲象的叫声”",
     "ui_order": 10,
     "male_skill_id": 100020,
     "female_skill_id": 100041,
-    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3248.3248'",
-    "ai_type": 3
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3248.3248'"
   },
   {
     "id": 24,
@@ -347,7 +317,6 @@
     "male_skill_id": 100021,
     "female_skill_id": 100042,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_PlayFlute.icon_pose_PlayFlute'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -366,7 +335,6 @@
     "female_skill_id": 100050,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_think.icon_pose_think'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -385,7 +353,6 @@
     "female_skill_id": 100051,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_command.icon_pose_command'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -404,7 +371,6 @@
     "female_skill_id": 100052,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shock.icon_pose_shock'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -423,12 +389,11 @@
     "female_skill_id": 100053,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_nono.icon_pose_nono'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
     "id": 29,
-    "name_text": "手指开枪Ⅰ",
+    "name_text": "嘭嘭Ⅰ",
     "behavior_type": 3,
     "RPbehavior_type": 63,
     "range": 1500,
@@ -436,13 +401,12 @@
       29,
       1
     ],
-    "toast_text": "手指开枪Ⅰ",
+    "toast_text": "嘭嘭Ⅰ",
     "ui_order": 19,
     "male_skill_id": 100047,
     "female_skill_id": 100054,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_biubiu.icon_pose_biubiu'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -461,7 +425,6 @@
     "female_skill_id": 100055,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_boast.icon_pose_boast'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -480,7 +443,6 @@
     "female_skill_id": 100056,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_pray.icon_pose_pray'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -500,7 +462,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happy.icon_pose_happy'",
     "card_pose_resource_path": "RolePlayHappy",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -520,7 +481,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sad.icon_pose_sad'",
     "card_pose_resource_path": "RolePlaySad",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -539,8 +499,7 @@
     "female_skill_id": 100024,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_anger.icon_pose_anger'",
     "card_pose_resource_path": "RolePlayAnger",
-    "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3
+    "pose_get_ways": "尚未获得。？？？后解锁。"
   },
   {
     "id": 35,
@@ -559,7 +518,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_confus.icon_pose_confus'",
     "card_pose_resource_path": "RolePlayDoubt",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -579,7 +537,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_threaten.icon_pose_threaten'",
     "card_pose_resource_path": "RolePlayThreaten",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -598,8 +555,7 @@
     "female_skill_id": 100028,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_help.icon_pose_help'",
     "card_pose_resource_path": "RolePlayHelp",
-    "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3
+    "pose_get_ways": "尚未获得。？？？后解锁。"
   },
   {
     "id": 38,
@@ -618,7 +574,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_show.icon_pose_show'",
     "card_pose_resource_path": "RolePlayCheer",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -638,7 +593,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sick.icon_pose_sick'",
     "card_pose_resource_path": "RolePlayLaziness",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -657,7 +611,6 @@
     "female_skill_id": 100050,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_think.icon_pose_think'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -676,7 +629,6 @@
     "female_skill_id": 100051,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_command.icon_pose_command'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -695,7 +647,6 @@
     "female_skill_id": 100052,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shock.icon_pose_shock'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -714,12 +665,11 @@
     "female_skill_id": 100053,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_nono.icon_pose_nono'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
     "id": 44,
-    "name_text": "手指开枪Ⅱ",
+    "name_text": "嘭嘭Ⅱ",
     "behavior_type": 3,
     "RPbehavior_type": 78,
     "range": 1500,
@@ -727,13 +677,12 @@
       29,
       2
     ],
-    "toast_text": "手指开枪Ⅱ",
+    "toast_text": "嘭嘭Ⅱ",
     "ui_order": 19,
     "male_skill_id": 100047,
     "female_skill_id": 100054,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_biubiu.icon_pose_biubiu'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -752,7 +701,6 @@
     "female_skill_id": 100055,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_boast.icon_pose_boast'",
     "pose_get_ways": "尚未获得。？？？后解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -770,7 +718,6 @@
     "male_skill_id": 100049,
     "female_skill_id": 100056,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_pray.icon_pose_pray'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -788,7 +735,6 @@
     "male_skill_id": 100057,
     "female_skill_id": 100057,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_come.icon_pose_come'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -806,7 +752,6 @@
     "male_skill_id": 100057,
     "female_skill_id": 100057,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_come.icon_pose_come'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -824,7 +769,6 @@
     "male_skill_id": 100058,
     "female_skill_id": 100058,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_mull.icon_pose_mull'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -842,7 +786,6 @@
     "male_skill_id": 100058,
     "female_skill_id": 100058,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_mull.icon_pose_mull'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -860,7 +803,6 @@
     "male_skill_id": 100059,
     "female_skill_id": 100059,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_got.icon_pose_got'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -878,7 +820,6 @@
     "male_skill_id": 100059,
     "female_skill_id": 100059,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_got.icon_pose_got'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -896,7 +837,6 @@
     "male_skill_id": 100060,
     "female_skill_id": 100060,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_hi.icon_pose_hi'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -914,7 +854,6 @@
     "male_skill_id": 100060,
     "female_skill_id": 100060,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_hi.icon_pose_hi'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -932,7 +871,6 @@
     "male_skill_id": 100061,
     "female_skill_id": 100061,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_seek.icon_pose_seek'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -950,7 +888,6 @@
     "male_skill_id": 100062,
     "female_skill_id": 100062,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shh.icon_pose_shh'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -968,7 +905,6 @@
     "male_skill_id": 100063,
     "female_skill_id": 100063,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_no.icon_pose_no'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -986,7 +922,6 @@
     "male_skill_id": 100064,
     "female_skill_id": 100064,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_clap.icon_pose_clap'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1004,7 +939,6 @@
     "male_skill_id": 100061,
     "female_skill_id": 100061,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_seek.icon_pose_seek'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1022,7 +956,6 @@
     "male_skill_id": 100062,
     "female_skill_id": 100062,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_shh.icon_pose_shh'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1040,7 +973,6 @@
     "male_skill_id": 100063,
     "female_skill_id": 100063,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_no.icon_pose_no'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1058,12 +990,11 @@
     "male_skill_id": 100064,
     "female_skill_id": 100064,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_clap.icon_pose_clap'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
     "id": 63,
-    "name_text": "行礼",
+    "name_text": "行礼Ⅰ",
     "behavior_type": 2,
     "RPbehavior_type": 109,
     "range": 1500,
@@ -1071,12 +1002,11 @@
       63,
       1
     ],
-    "toast_text": "行礼",
+    "toast_text": "行礼Ⅰ",
     "ui_order": 38,
     "male_skill_id": 100065,
     "female_skill_id": 100065,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_thanks.icon_pose_thanks'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1094,7 +1024,6 @@
     "male_skill_id": 100065,
     "female_skill_id": 100065,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_thanks.icon_pose_thanks'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1112,7 +1041,6 @@
     "male_skill_id": 100066,
     "female_skill_id": 100066,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1130,7 +1058,6 @@
     "male_skill_id": 100067,
     "female_skill_id": 100067,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1148,9 +1075,7 @@
     "male_skill_id": 100068,
     "female_skill_id": 100068,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
-    "ai_type": 3,
-    "is_movable": true,
-    "is_loop": true
+    "is_movable": true
   },
   {
     "id": 68,
@@ -1167,7 +1092,6 @@
     "male_skill_id": 100069,
     "female_skill_id": 100069,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1185,7 +1109,6 @@
     "male_skill_id": 100066,
     "female_skill_id": 100066,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_watch.icon_pose_watch'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1203,7 +1126,6 @@
     "male_skill_id": 100067,
     "female_skill_id": 100067,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bear.icon_pose_bear'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1221,7 +1143,6 @@
     "male_skill_id": 100068,
     "female_skill_id": 100068,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_newspaper.icon_pose_newspaper'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1239,7 +1160,6 @@
     "male_skill_id": 100069,
     "female_skill_id": 100069,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_reliable.icon_pose_reliable'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1255,7 +1175,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_nose.icon_pose_nose'",
     "card_pose_resource_path": "RolePlayNose",
     "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1271,7 +1190,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_bump.icon_pose_bump'",
     "card_pose_resource_path": "RolePlayBump",
     "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1287,7 +1205,6 @@
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_Chest.icon_pose_Chest'",
     "card_pose_resource_path": "RolePlayChest",
     "pose_get_ways": "尚未获得。吉洛斯的兑换商店解锁。",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1305,7 +1222,6 @@
     "male_skill_id": 100074,
     "female_skill_id": 100074,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happybirthday.icon_pose_happybirthday'",
-    "ai_type": 3,
     "is_movable": true
   },
   {
@@ -1323,8 +1239,191 @@
     "male_skill_id": 100074,
     "female_skill_id": 100074,
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_happybirthday.icon_pose_happybirthday'",
-    "ai_type": 3,
     "is_movable": true
+  },
+  {
+    "id": 79,
+    "name_text": "呼唤Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 148,
+    "range": 1500,
+    "star": [
+      79,
+      1
+    ],
+    "toast_text": "呼唤Ⅰ",
+    "ui_order": 57,
+    "male_skill_id": 100075,
+    "female_skill_id": 100075,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_call.icon_pose_call'",
+    "is_movable": true
+  },
+  {
+    "id": 80,
+    "name_text": "呼唤Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 149,
+    "range": 1500,
+    "star": [
+      79,
+      2
+    ],
+    "toast_text": "呼唤Ⅱ",
+    "ui_order": 58,
+    "male_skill_id": 100075,
+    "female_skill_id": 100075,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_call.icon_pose_call'",
+    "is_movable": true
+  },
+  {
+    "id": 81,
+    "name_text": "偷偷摸摸Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 150,
+    "range": 1500,
+    "star": [
+      81,
+      1
+    ],
+    "toast_text": "偷偷摸摸Ⅰ",
+    "ui_order": 59,
+    "male_skill_id": 100076,
+    "female_skill_id": 100076,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sneaky.icon_pose_sneaky'",
+    "is_movable": true
+  },
+  {
+    "id": 82,
+    "name_text": "偷偷摸摸Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 151,
+    "range": 1500,
+    "star": [
+      81,
+      2
+    ],
+    "toast_text": "偷偷摸摸Ⅱ",
+    "ui_order": 60,
+    "male_skill_id": 100076,
+    "female_skill_id": 100076,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_sneaky.icon_pose_sneaky'",
+    "is_movable": true
+  },
+  {
+    "id": 83,
+    "name_text": "惊喜Ⅰ",
+    "behavior_type": 2,
+    "RPbehavior_type": 152,
+    "range": 1500,
+    "star": [
+      83,
+      1
+    ],
+    "toast_text": "惊喜Ⅰ",
+    "ui_order": 61,
+    "male_skill_id": 100077,
+    "female_skill_id": 100077,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_surprise.icon_pose_surprise'",
+    "is_movable": true
+  },
+  {
+    "id": 84,
+    "name_text": "惊喜Ⅱ",
+    "behavior_type": 2,
+    "RPbehavior_type": 153,
+    "range": 1500,
+    "star": [
+      83,
+      2
+    ],
+    "toast_text": "惊喜Ⅱ",
+    "ui_order": 62,
+    "male_skill_id": 100077,
+    "female_skill_id": 100077,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_surprise.icon_pose_surprise'",
+    "is_movable": true
+  },
+  {
+    "id": 85,
+    "name_text": "摸摸头Ⅰ",
+    "behavior_type": 15,
+    "RPbehavior_type": 154,
+    "star": [
+      85,
+      1
+    ],
+    "toast_text": "摸摸头Ⅰ",
+    "ui_order": 63,
+    "male_skill_id": 100078,
+    "female_skill_id": 100078,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_PatHead.icon_pose_PatHead'",
+    "relationtree_anim_id": 26
+  },
+  {
+    "id": 86,
+    "name_text": "摸摸头Ⅱ",
+    "behavior_type": 15,
+    "RPbehavior_type": 155,
+    "star": [
+      85,
+      2
+    ],
+    "toast_text": "摸摸头Ⅱ",
+    "ui_order": 64,
+    "male_skill_id": 100078,
+    "female_skill_id": 100078,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/icon_pose_PatHead.icon_pose_PatHead'",
+    "relationtree_anim_id": 27
+  },
+  {
+    "id": 20001,
+    "name_text": "带带你",
+    "behavior_type": 15,
+    "RPbehavior_type": 131,
+    "toast_text": "带带你",
+    "ui_order": 1,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/img_yaoqingtongxing.img_yaoqingtongxing'",
+    "relationtree_anim_id": 2
+  },
+  {
+    "id": 20002,
+    "name_text": "切磋",
+    "behavior_type": 15,
+    "RPbehavior_type": 132,
+    "toast_text": "切磋",
+    "ui_order": 1,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/img_qiecuo.img_qiecuo'",
+    "relationtree_anim_id": 6
+  },
+  {
+    "id": 20003,
+    "name_text": "赠送精灵蛋",
+    "behavior_type": 15,
+    "RPbehavior_type": 133,
+    "toast_text": "赠送精灵蛋",
+    "ui_order": 1,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/img_songdan.img_songdan'",
+    "relationtree_anim_id": 8
+  },
+  {
+    "id": 20004,
+    "name_text": "赠送条件球",
+    "behavior_type": 15,
+    "RPbehavior_type": 134,
+    "toast_text": "赠送条件球",
+    "ui_order": 1,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/img_PresentedBall.img_PresentedBall'",
+    "relationtree_anim_id": 23
+  },
+  {
+    "id": 20005,
+    "name_text": "分享照片",
+    "behavior_type": 15,
+    "RPbehavior_type": 135,
+    "toast_text": "分享照片",
+    "ui_order": 1,
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/RolePlay/Raw/Textures/Pose/img_Share_photos.img_Share_photos'",
+    "relationtree_anim_id": 24
   },
   {
     "id": 68000,
@@ -1429,6 +1528,30 @@
     "RPbehavior_type": 113,
     "toast_text": "小风车",
     "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S3_Pinwheel_001.img_S3_Pinwheel_001'"
+  },
+  {
+    "id": 68013,
+    "name_text": "手碟",
+    "behavior_type": 6,
+    "RPbehavior_type": 139,
+    "toast_text": "手碟",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S4_Handpan_001.img_S4_Handpan_001'"
+  },
+  {
+    "id": 68014,
+    "name_text": "星陨气球",
+    "behavior_type": 6,
+    "RPbehavior_type": 140,
+    "toast_text": "星陨气球",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S4_StarBalloon_001.img_S4_StarBalloon_001'"
+  },
+  {
+    "id": 68015,
+    "name_text": "星星提灯",
+    "behavior_type": 6,
+    "RPbehavior_type": 141,
+    "toast_text": "星星提灯",
+    "icon_path": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Props/img_S4_StarLantern_001.img_S4_StarLantern_001'"
   },
   {
     "id": 640006,

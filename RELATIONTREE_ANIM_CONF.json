@@ -8,6 +8,7 @@
   {
     "id": 2,
     "interact_type": 1,
+    "allow_broadcast": true,
     "option_key": 140016,
     "name_icon_struct": [
       {},
@@ -16,7 +17,7 @@
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_yaoqingtongxing_png.img_yaoqingtongxing_png'"
       }
     ],
-    "invite_key": "InviteTogether",
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Invite_Together_Start.G6_Rltt_Invite_Together_Start'",
     "invite_tip": "已发送同行邀请",
     "receive_invite_tip": "收到了来自{0}的同行邀请",
     "cancel_tip": "同行邀请中断"
@@ -32,7 +33,7 @@
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_shenqingtongxing_png.img_shenqingtongxing_png'"
       }
     ],
-    "invite_key": "RequestTogether",
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Request_Together_Start.G6_Rltt_Request_Together_Start'",
     "invite_tip": "已发送同行申请",
     "receive_invite_tip": "收到了来自{0}的同行申请",
     "cancel_tip": "同行申请中断"
@@ -69,6 +70,7 @@
   {
     "id": 6,
     "interact_type": 8,
+    "allow_broadcast": true,
     "option_key": 140019,
     "name_icon_struct": [
       {},
@@ -90,12 +92,16 @@
       {
         "name": "加好友",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_jiahaoyou_png.img_jiahaoyou_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_jiahaoyou_png.img_jiahaoyou_png'"
       }
     ]
   },
   {
     "id": 8,
     "interact_type": 4,
+    "allow_broadcast": true,
     "option_key": 140015,
     "name_icon_struct": [
       {},
@@ -104,12 +110,13 @@
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_songdan_png.img_songdan_png'"
       }
     ],
-    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Apply_Start.G6_Rltt_Apply_Start'",
-    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Egg.G6_Rltt_Give_Egg'",
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Egg_Apply.G6_Rltt2_Give_Egg_Apply'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Egg_Receive.G6_Rltt2_Give_Egg_Receive'",
     "failed_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Lose.G6_Rltt_Give_Lose'",
     "invite_tip": "已发送赠送精灵蛋邀请",
     "receive_invite_tip": "收到了来自{0}赠送的精灵蛋",
-    "cancel_tip": "赠送精灵蛋申请中断"
+    "cancel_tip": "赠送精灵蛋申请中断",
+    "single_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Single_Give_Egg_Apply.G6_Rltt2_Single_Give_Egg_Apply'"
   },
   {
     "id": 9,
@@ -128,6 +135,9 @@
       {
         "name": "阵容镜像",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Lineup_png.img_Lineup_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Lineup_png.img_Lineup_png'"
       }
     ]
   },
@@ -143,6 +153,9 @@
       {
         "name": "碰拳",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Highfive_png.img_Highfive_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Highfive_png.img_Highfive_png'"
       }
     ],
     "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Fist_Start.G6_Interact_Fist_Start'",
@@ -164,6 +177,9 @@
       {
         "name": "拥抱",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Embrace_png.img_Embrace_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Embrace_png.img_Embrace_png'"
       }
     ],
     "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_Hug_Start.G6_Interact_Hug_Start'",
@@ -190,6 +206,9 @@
       {
         "name": "私聊",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_liaotian_png.img_liaotian_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'"
       }
     ]
   },
@@ -287,6 +306,9 @@
       {
         "name": "勾肩搭背",
         "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Arm_png.img_Arm_png'"
+      },
+      {
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_Arm_png.img_Arm_png'"
       }
     ],
     "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Interact_GJDB_Start.G6_Interact_GJDB_Start'",
@@ -294,5 +316,96 @@
     "invite_tip": "已发送勾肩搭背申请",
     "receive_invite_tip": "收到了来自{0}的勾肩搭背申请",
     "cancel_tip": "勾肩搭背申请中断"
+  },
+  {
+    "id": 23,
+    "interact_type": 11,
+    "allow_broadcast": true,
+    "option_key": 141001,
+    "name_icon_struct": [
+      {},
+      {
+        "name": "赠送条件球",
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_PresentedBall_png.img_PresentedBall_png'"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Ball_Apply.G6_Rltt2_Give_Ball_Apply'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Ball_Receive.G6_Rltt2_Give_Ball_Receive'",
+    "invite_tip": "已发送赠送条件球邀请",
+    "single_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Single_Give_Ball_Apply.G6_Rltt2_Single_Give_Ball_Apply'"
+  },
+  {
+    "id": 24,
+    "interact_type": 12,
+    "socialshare_type": 1,
+    "allow_broadcast": true,
+    "option_key": 141002,
+    "name_icon_struct": [
+      {},
+      {
+        "name": "分享照片",
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Share_photos_png.img_Share_photos_png'"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Photo_Apply.G6_Rltt2_Give_Photo_Apply'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_Give_Photo_Receive.G6_Rltt2_Give_Photo_Receive'",
+    "simple_action_id": 1,
+    "invite_tip": "已分享此照片",
+    "cancel_tip": "照片分享已收回"
+  },
+  {
+    "id": 25,
+    "interact_type": 13,
+    "option_key": 140021,
+    "name_icon_struct": [
+      {},
+      {
+        "name": "祝福",
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_Benediction_png.img_Benediction_png'"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/G6_Rltt_Give_Start.G6_Rltt_Give_Start'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt2_ZhuFu.G6_Rltt2_ZhuFu'",
+    "invite_tip": "已发送祝福申请",
+    "receive_invite_tip": "收到了来自{0}的祝福申请",
+    "cancel_tip": "祝福申请中断"
+  },
+  {
+    "id": 26,
+    "interact_type": 16,
+    "allow_broadcast": true,
+    "option_key": 141003,
+    "name_icon_struct": [
+      {},
+      {
+        "name": "摸摸头",
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_PatHead_png.img_PatHead_png'"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt_MoTou_Apply.G6_Rltt_MoTou_Apply'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Expression/S4/G6_RP_MoTou.G6_RP_MoTou'",
+    "invite_tip": "已发送摸摸头申请",
+    "receive_invite_tip": "收到了来自{0}的摸摸头申请",
+    "cancel_tip": "摸摸头申请中断",
+    "roleplay_id": 85
+  },
+  {
+    "id": 27,
+    "interact_type": 16,
+    "allow_broadcast": true,
+    "option_key": 141004,
+    "name_icon_struct": [
+      {},
+      {
+        "name": "摸摸头",
+        "icon": "PaperSprite'/Game/NewRoco/Modules/System/RelationTree/Rew/Frames/img_PatHead_png.img_PatHead_png'"
+      }
+    ],
+    "invite_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/ScenePlay/S4/G6_Rltt_MoTou_Apply.G6_Rltt_MoTou_Apply'",
+    "accept_key": "SkillBlueprint'/Game/ArtRes/Effects/G6Skill/Expression/S4/G6_RP_MoTou.G6_RP_MoTou'",
+    "invite_tip": "已发送摸摸头申请",
+    "receive_invite_tip": "收到了来自{0}的摸摸头申请",
+    "cancel_tip": "摸摸头申请中断",
+    "roleplay_id": 86
   }
 ]

@@ -3945,6 +3945,26 @@
     ]
   },
   {
+    "id": 13001,
+    "action_struct": [
+      {
+        "magic_id": 1,
+        "magic_charge_level": 1,
+        "action_type": 1001
+      },
+      {
+        "magic_id": 2,
+        "magic_charge_level": 1,
+        "action_type": 1001
+      },
+      {
+        "magic_id": 3,
+        "magic_charge_level": 1,
+        "action_type": 1001
+      }
+    ]
+  },
+  {
     "id": 20001,
     "action_struct": [
       {
@@ -6947,6 +6967,52 @@
     ]
   },
   {
+    "id": 750003,
+    "action_struct": [
+      {
+        "magic_id": 1,
+        "magic_charge_level": 1,
+        "action_type": 30003,
+        "action_param1": "1",
+        "action_param2": "1"
+      },
+      {
+        "magic_id": 2,
+        "magic_charge_level": 1,
+        "action_type": 30003,
+        "action_param1": "1",
+        "action_param2": "1"
+      },
+      {
+        "magic_id": 3,
+        "magic_charge_level": 1,
+        "action_type": 30003,
+        "action_param1": "1",
+        "action_param2": "1"
+      }
+    ]
+  },
+  {
+    "id": 800001,
+    "action_struct": [
+      {
+        "magic_id": 1,
+        "magic_charge_level": 1,
+        "action_type": 10135
+      },
+      {
+        "magic_id": 2,
+        "magic_charge_level": 1,
+        "action_type": 10135
+      },
+      {
+        "magic_id": 3,
+        "magic_charge_level": 1,
+        "action_type": 10135
+      }
+    ]
+  },
+  {
     "id": 20231160,
     "action_struct": [
       {
@@ -7124,6 +7190,26 @@
         "action_param1": "5501952",
         "action_param2": "2;110",
         "action_param3": "100;300"
+      }
+    ]
+  },
+  {
+    "id": 550000100,
+    "action_struct": [
+      {
+        "magic_id": 1,
+        "magic_charge_level": 1,
+        "action_type": 10182
+      },
+      {
+        "magic_id": 2,
+        "magic_charge_level": 1,
+        "action_type": 10182
+      },
+      {
+        "magic_id": 3,
+        "magic_charge_level": 1,
+        "action_type": 10182
       }
     ]
   }

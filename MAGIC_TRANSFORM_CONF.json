@@ -6,17 +6,14 @@
     "time": 60000,
     "model_id": 3060,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
     "id": 3118,
     "is_pet": true,
     "editor_name": "果冻",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 3118,
-    "which_bantype": 58,
     "player_story_flag": 100001,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Magic/G6_Magic_Player_Tranform_Liquefy.G6_Magic_Player_Tranform_Liquefy_C",
@@ -31,7 +28,6 @@
     "area_func_id": 132300001,
     "model_id": 3129,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -42,7 +38,6 @@
     "area_func_id": 132300001,
     "model_id": 3161,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -53,17 +48,14 @@
     "area_func_id": 132300001,
     "model_id": 3420,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
     "id": 3501,
     "is_pet": true,
     "editor_name": "嘟嘟煲",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 18000004,
-    "which_bantype": 58,
     "player_story_flag": 100004,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/Particle/Scene/Staff/AlchemyWand/G6_Scene_AWB__Liquefy.G6_Scene_AWB__Liquefy_C",
@@ -74,10 +66,8 @@
     "id": 3502,
     "is_pet": true,
     "editor_name": "多菇丁",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 3379,
-    "which_bantype": 58,
     "player_story_flag": 100005,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/Particle/Scene/Staff/AlchemyWand/G6_Scene_AWR__Liquefy.G6_Scene_AWR__Liquefy_C",
@@ -88,10 +78,8 @@
     "id": 3503,
     "is_pet": true,
     "editor_name": "翡翠水母",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 3119,
-    "which_bantype": 58,
     "player_story_flag": 100006,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/Particle/Scene/Staff/AlchemyWand/G6_Scene_AWG__Liquefy.G6_Scene_AWG__Liquefy_C",
@@ -105,7 +93,6 @@
     "time": -1,
     "model_id": 3569,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -114,7 +101,6 @@
     "editor_name": "JQ10-幻境任务-鸭吉吉-pikofeng",
     "time": -1,
     "model_id": 9801,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -123,7 +109,6 @@
     "time": -1,
     "model_id": 10049,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100002
   },
   {
@@ -139,7 +124,6 @@
     "editor_name": "果冻-剧情变形专用",
     "time": -1,
     "model_id": 14000001,
-    "which_bantype": 65,
     "player_story_flag": 100001,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
@@ -149,7 +133,6 @@
     "editor_name": "斑斑-自动变形测试",
     "time": -1,
     "model_id": 14000002,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -158,7 +141,6 @@
     "editor_name": "芽眼魔-守护地特殊3C用",
     "time": -1,
     "model_id": 14000003,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -167,7 +149,6 @@
     "editor_name": "火巨人-剧情变形专用",
     "time": -1,
     "model_id": 14000005,
-    "which_bantype": 65,
     "player_story_flag": 100024,
     "idle_anim": "Alert;Happy;Relax;Show",
     "kill_player_when_transfrom_fail": true
@@ -178,7 +159,6 @@
     "editor_name": "森巨人-剧情变形专用",
     "time": -1,
     "model_id": 14000006,
-    "which_bantype": 65,
     "player_story_flag": 100025,
     "idle_anim": "Alert;Happy;Relax;Show",
     "kill_player_when_transfrom_fail": true
@@ -189,7 +169,6 @@
     "editor_name": "雪巨人-剧情变形专用",
     "time": -1,
     "model_id": 14000007,
-    "which_bantype": 65,
     "player_story_flag": 100029,
     "idle_anim": "Alert;Happy;Relax;Show",
     "kill_player_when_transfrom_fail": true
@@ -202,7 +181,6 @@
     "area_func_id": 132300001,
     "model_id": 16000001,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -213,7 +191,6 @@
     "area_func_id": 132300001,
     "model_id": 16000002,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -223,7 +200,6 @@
     "time": -1,
     "model_id": 16000003,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -233,7 +209,6 @@
     "time": -1,
     "model_id": 16000004,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -243,7 +218,6 @@
     "area_func_id": 201031457,
     "model_id": 10012,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100021
   },
   {
@@ -253,7 +227,6 @@
     "area_func_id": 201031457,
     "model_id": 10011,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100022
   },
   {
@@ -264,7 +237,6 @@
     "area_func_id": 201031457,
     "model_id": 16000004,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100023,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
@@ -274,7 +246,6 @@
     "editor_name": "阿瓦鲨（虎纹鲨的样子）-变形用",
     "time": -1,
     "model_id": 16000009,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -285,7 +256,6 @@
     "area_func_id": 132300001,
     "model_id": 17000001,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100008,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
@@ -297,7 +267,6 @@
     "area_func_id": 132300001,
     "model_id": 17000002,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100009,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
@@ -309,7 +278,6 @@
     "area_func_id": 132300001,
     "model_id": 17000003,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "player_story_flag": 100010,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
@@ -321,7 +289,6 @@
     "area_func_id": 132300001,
     "model_id": 18000001,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -332,7 +299,6 @@
     "area_func_id": 132300001,
     "model_id": 18000002,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -343,7 +309,6 @@
     "area_func_id": 132300001,
     "model_id": 18000003,
     "use_confirm_panel": true,
-    "which_bantype": 65,
     "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
@@ -353,12 +318,10 @@
     "time": -1,
     "area_func_id": 132300002,
     "model_id": 19000004,
-    "which_bantype": 65,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Activities/G6_Fanying_Bianshen_ziliying.G6_Fanying_Bianshen_ziliying_C",
     "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Activities/G6_Fanying_Jiechu_ziliying.G6_Fanying_Jiechu_ziliying_C",
-    "idle_anim": "Alert;Happy;Relax;Show",
-    "exit_cancel_transformation": true
+    "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
     "id": 19000005,
@@ -367,12 +330,10 @@
     "time": -1,
     "area_func_id": 132300002,
     "model_id": 19000005,
-    "which_bantype": 65,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Activities/G6_Fanying_Bianshen_keliji.G6_Fanying_Bianshen_keliji_C",
     "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Activities/G6_Fanying_Jiechu_keliji.G6_Fanying_Jiechu_keliji_C",
-    "idle_anim": "Alert;Happy;Relax;Show",
-    "exit_cancel_transformation": true
+    "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
     "id": 19000006,
@@ -381,21 +342,17 @@
     "time": -1,
     "area_func_id": 132300002,
     "model_id": 19000006,
-    "which_bantype": 65,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Magic/G6_Magic_Player_Tranform_Liquefy.G6_Magic_Player_Tranform_Liquefy_C",
     "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/SceneEffect/Magic/G6_Magic_Player_Tranform_Revert.G6_Magic_Player_Tranform_Revert_C",
-    "idle_anim": "Alert;Happy;Relax;Show",
-    "exit_cancel_transformation": true
+    "idle_anim": "Alert;Happy;Relax;Show"
   },
   {
     "id": 32000001,
     "is_pet": true,
     "editor_name": "喵喵",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 32000001,
-    "which_bantype": 58,
     "player_story_flag": 100026,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OA_Liquefy.G6_Scene_OA_Liquefy_C",
@@ -406,10 +363,8 @@
     "id": 32000002,
     "is_pet": true,
     "editor_name": "火花",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 32000002,
-    "which_bantype": 58,
     "player_story_flag": 100027,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAF_Liquefy.G6_Scene_OAF_Liquefy_C",
@@ -420,14 +375,48 @@
     "id": 32000003,
     "is_pet": true,
     "editor_name": "水蓝蓝",
-    "transform_group": 1001,
     "time": 3600000,
     "model_id": 32000003,
-    "which_bantype": 58,
     "player_story_flag": 100028,
     "use_lique_fx": true,
     "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAW_Liquefy.G6_Scene_OAW_Liquefy_C",
     "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/OriginalAspiration/G6_Scene_OAW_Revert.G6_Scene_OAW_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 32000004,
+    "is_pet": true,
+    "editor_name": "不咕钟",
+    "time": 3600000,
+    "model_id": 32000004,
+    "player_story_flag": 100030,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLS_Liquefy.G6_Scene_SLS_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLS_Revert.G6_Scene_SLS_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 32000005,
+    "is_pet": true,
+    "editor_name": "莫比乌乌",
+    "time": 3600000,
+    "model_id": 32000005,
+    "player_story_flag": 100031,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLM_Liquefy.G6_Scene_SLM_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLM_Revert.G6_Scene_SLM_Revert_C",
+    "idle_anim": "Alert;Happy;Relax;Show"
+  },
+  {
+    "id": 32000006,
+    "is_pet": true,
+    "editor_name": "量风碗",
+    "time": 3600000,
+    "model_id": 32000006,
+    "player_story_flag": 100032,
+    "use_lique_fx": true,
+    "lique_start_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLC_Liquefy.G6_Scene_SLC_Liquefy_C",
+    "lique_end_fx": "/Game/ArtRes/Effects/G6Skill/Avatar/Staff/StrangeLab/G6_Scene_SLC_Revert.G6_Scene_SLC_Revert_C",
     "idle_anim": "Alert;Happy;Relax;Show"
   }
 ]

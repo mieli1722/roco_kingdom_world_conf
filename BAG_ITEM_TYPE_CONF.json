@@ -1,7 +1,6 @@
 [
   {
     "type_name": "道具",
-    "type_capacity_limit": 1200,
     "sequence": [
       0,
       1,
@@ -13,21 +12,18 @@
     "id": 1,
     "type": 1,
     "type_name": "咕噜球",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
       2
     ],
     "type_hint_limit_max": "咕噜球的容量不够啦，快去清理背包吧~",
-    "type_number_warn": 2285,
     "single_item_limit_max": 999999999
   },
   {
     "id": 2,
     "type": 2,
     "type_name": "材料",
-    "type_capacity_limit": 500,
     "sequence": [
       0,
       1,
@@ -39,7 +35,6 @@
     "id": 3,
     "type": 3,
     "type_name": "贵重",
-    "type_capacity_limit": 800,
     "sequence": [
       0,
       1,
@@ -51,7 +46,6 @@
     "id": 4,
     "type": 4,
     "type_name": "持有物",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -63,7 +57,6 @@
     "id": 5,
     "type": 5,
     "type_name": "魔法",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -75,21 +68,18 @@
     "id": 6,
     "type": 6,
     "type_name": "技能石",
-    "type_capacity_limit": 1100,
     "sequence": [
       0,
       1,
       2
     ],
     "type_hint_limit_max": "技能石的容量不够啦，快去清理背包吧~",
-    "type_number_warn": 2286,
     "single_item_limit_max": 999999999
   },
   {
     "id": 7,
     "type": 7,
     "type_name": "共鸣魔法道具",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -101,7 +91,6 @@
     "id": 8,
     "type": 8,
     "type_name": "精灵蛋",
-    "type_capacity_limit": 1100,
     "sequence": [
       0,
       1,
@@ -109,15 +98,12 @@
     ],
     "type_number_limit": 1000,
     "type_hint_limit_max": "精灵蛋的容量不够啦，快去清理背包吧~",
-    "type_number_warn": 2287,
-    "type_capacity_limit_max": 1100,
     "single_item_limit_max": 999999999
   },
   {
     "id": 9,
     "type": 9,
     "type_name": "精灵习性培养",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -129,7 +115,6 @@
     "id": 10,
     "type": 10,
     "type_name": "精灵炫彩变化",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -141,7 +126,6 @@
     "id": 11,
     "type": 11,
     "type_name": "精灵果实",
-    "type_capacity_limit": 1200,
     "sequence": [
       0,
       1,
@@ -153,7 +137,6 @@
     "id": 12,
     "type": 12,
     "type_name": "魔法徽章",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -165,7 +148,6 @@
     "id": 13,
     "type": 13,
     "type_name": "精灵奖牌",
-    "type_capacity_limit": 3000,
     "sequence": [
       0,
       1,
@@ -177,7 +159,6 @@
     "id": 15,
     "type": 15,
     "type_name": "材料",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -189,7 +170,6 @@
     "id": 16,
     "type": 16,
     "type_name": "植物种子",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -201,21 +181,18 @@
     "id": 17,
     "type": 17,
     "type_name": "家具",
-    "type_capacity_limit": 1100,
     "sequence": [
       0,
       1,
       2
     ],
     "type_hint_limit_max": "家具的容量不够啦，快去清理背包吧~",
-    "type_number_warn": 2481,
     "single_item_limit_max": 999999999
   },
   {
     "id": 18,
     "type": 18,
     "type_name": "精灵照料",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -227,7 +204,6 @@
     "id": 19,
     "type": 19,
     "type_name": "bp副券",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -240,7 +216,6 @@
     "id": 20,
     "type": 20,
     "type_name": "抽奖道具",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -252,7 +227,6 @@
     "id": 21,
     "type": 21,
     "type_name": "活动道具forIDIP查询",
-    "type_capacity_limit": 200,
     "sequence": [
       0,
       1,
@@ -264,7 +238,17 @@
     "id": 22,
     "type": 22,
     "type_name": "首领信物",
-    "type_capacity_limit": 1000,
+    "sequence": [
+      0,
+      1,
+      2
+    ],
+    "single_item_limit_max": 999999999
+  },
+  {
+    "id": 23,
+    "type": 25,
+    "type_name": "限时货币",
     "sequence": [
       0,
       1,

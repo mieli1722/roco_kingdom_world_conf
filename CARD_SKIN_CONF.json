@@ -411,7 +411,7 @@
     "item_description": "解锁了个人名片的新卡片「小狐考察团」。",
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 5,
-    "skin_get_ways": "尚未获得该主题。可在「夏日潮汐集市」活动中获取。",
+    "skin_get_ways": "尚未获得该主题。可在「小狐安家记」活动中获取。",
     "bagitem_id": 310089
   },
   {
@@ -425,6 +425,46 @@
     "bagitem_id": 310090
   },
   {
+    "id": 44,
+    "skin_resource_path": "S4tongzhishu",
+    "skin_resource_name": "入学报到函",
+    "item_description": "解锁了个人名片的新卡片「入学报到函」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 4,
+    "skin_get_ways": "尚未获得该主题。可在商城中获取。",
+    "bagitem_id": 310092
+  },
+  {
+    "id": 45,
+    "skin_resource_path": "lifangren",
+    "skin_resource_name": "果实立方人",
+    "item_description": "解锁了个人名片的新卡片「果实立方人」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在「秋，丰收与机器人」活动中获取。",
+    "bagitem_id": 320131
+  },
+  {
+    "id": 46,
+    "skin_resource_path": "ShowdownGuess",
+    "skin_resource_name": "月幕下观赛",
+    "item_description": "解锁了个人名片的新卡片「月幕下观赛」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在「观看:月幕下的决斗」活动中获取。",
+    "bagitem_id": 320133
+  },
+  {
+    "id": 47,
+    "skin_resource_path": "jiangtun",
+    "skin_resource_name": "云梦豚",
+    "item_description": "解锁了个人名片的新卡片「云梦豚」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在「小豚安家记」活动中获取。",
+    "bagitem_id": 320136
+  },
+  {
     "id": 48,
     "skin_resource_path": "jiujiugongyi",
     "skin_resource_name": "小红花",
@@ -435,6 +475,16 @@
     "bagitem_id": 320152
   },
   {
+    "id": 61,
+    "skin_resource_path": "yunying12",
+    "skin_resource_name": "日月同舟",
+    "item_description": "解锁了个人名片的新卡片「日月同舟」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。",
+    "bagitem_id": 310115
+  },
+  {
     "id": 2001,
     "skin_resource_path": "shengtai",
     "skin_resource_name": "精灵学共鸣",
@@ -442,7 +492,9 @@
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在任务中获取。",
-    "bagitem_id": 296011
+    "bagitem_id": 296011,
+    "level_up_cost": 2001,
+    "level_up_card": 2101
   },
   {
     "id": 2002,
@@ -452,7 +504,9 @@
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在任务中获取。",
-    "bagitem_id": 296012
+    "bagitem_id": 296012,
+    "level_up_cost": 2002,
+    "level_up_card": 2201
   },
   {
     "id": 2003,
@@ -462,7 +516,9 @@
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在任务中获取。",
-    "bagitem_id": 296013
+    "bagitem_id": 296013,
+    "level_up_cost": 2003,
+    "level_up_card": 2301
   },
   {
     "id": 2004,
@@ -472,7 +528,181 @@
     "bottom_description": "可在个人名片中更换新卡片啦！",
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在任务中获取。",
-    "bagitem_id": 296014
+    "bagitem_id": 296014,
+    "level_up_cost": 2004,
+    "level_up_card": 2401
+  },
+  {
+    "id": 2101,
+    "skin_resource_path": "jingling2",
+    "skin_resource_name": "精灵学共鸣",
+    "item_description": "解锁了个人名片的新卡片「精灵学共鸣」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2001,
+    "level_up_card": 2102,
+    "level_icon": "img_shuzi_1_png.img_shuzi_1_png",
+    "level_color": "3b3e19ff",
+    "umg_grade_pos_name": "jingling"
+  },
+  {
+    "id": 2102,
+    "skin_resource_path": "jingling2",
+    "skin_resource_name": "精灵学共鸣",
+    "item_description": "解锁了个人名片的新卡片「精灵学共鸣」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2001,
+    "level_up_card": 2103,
+    "level_icon": "img_shuzi_2_png.img_shuzi_2_png",
+    "level_color": "3b3e19ff",
+    "umg_grade_pos_name": "jingling",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2103,
+    "skin_resource_path": "jingling2",
+    "skin_resource_name": "精灵学共鸣",
+    "item_description": "解锁了个人名片的新卡片「精灵学共鸣」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2001,
+    "level_icon": "img_shuzi_3_png.img_shuzi_3_png",
+    "level_color": "3b3e19ff",
+    "umg_grade_pos_name": "jingling",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2201,
+    "skin_resource_path": "lianjin2",
+    "skin_resource_name": "炼金学试炼",
+    "item_description": "解锁了个人名片的新卡片「炼金学试炼」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2002,
+    "level_up_card": 2202,
+    "level_icon": "img_shuzi_1_png.img_shuzi_1_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "lianjin"
+  },
+  {
+    "id": 2202,
+    "skin_resource_path": "lianjin2",
+    "skin_resource_name": "炼金学试炼",
+    "item_description": "解锁了个人名片的新卡片「炼金学试炼」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2002,
+    "level_up_card": 2203,
+    "level_icon": "img_shuzi_2_png.img_shuzi_2_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "lianjin",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2203,
+    "skin_resource_path": "lianjin2",
+    "skin_resource_name": "炼金学试炼",
+    "item_description": "解锁了个人名片的新卡片「炼金学试炼」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2002,
+    "level_icon": "img_shuzi_3_png.img_shuzi_3_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "lianjin",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2301,
+    "skin_resource_path": "yidian2",
+    "skin_resource_name": "仪典学法则",
+    "item_description": "解锁了个人名片的新卡片「仪典学法则」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2003,
+    "level_up_card": 2302,
+    "level_icon": "img_shuzi_1_png.img_shuzi_1_png",
+    "level_color": "3a3a81ff",
+    "umg_grade_pos_name": "yidian"
+  },
+  {
+    "id": 2302,
+    "skin_resource_path": "yidian2",
+    "skin_resource_name": "仪典学法则",
+    "item_description": "解锁了个人名片的新卡片「仪典学法则」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2003,
+    "level_up_card": 2303,
+    "level_icon": "img_shuzi_2_png.img_shuzi_2_png",
+    "level_color": "3a3a81ff",
+    "umg_grade_pos_name": "yidian",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2303,
+    "skin_resource_path": "yidian2",
+    "skin_resource_name": "仪典学法则",
+    "item_description": "解锁了个人名片的新卡片「仪典学法则」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2003,
+    "level_icon": "img_shuzi_3_png.img_shuzi_3_png",
+    "level_color": "3a3a81ff",
+    "umg_grade_pos_name": "yidian",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2401,
+    "skin_resource_path": "zhandou2",
+    "skin_resource_name": "战斗学艺术",
+    "item_description": "解锁了个人名片的新卡片「战斗学艺术」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2004,
+    "level_up_card": 2402,
+    "level_icon": "img_shuzi_1_png.img_shuzi_1_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "zhandou"
+  },
+  {
+    "id": 2402,
+    "skin_resource_path": "zhandou2",
+    "skin_resource_name": "战斗学艺术",
+    "item_description": "解锁了个人名片的新卡片「战斗学艺术」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2004,
+    "level_up_card": 2403,
+    "level_icon": "img_shuzi_2_png.img_shuzi_2_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "zhandou",
+    "umg_grade_anim_name": "xueyuan"
+  },
+  {
+    "id": 2403,
+    "skin_resource_path": "zhandou2",
+    "skin_resource_name": "战斗学艺术",
+    "item_description": "解锁了个人名片的新卡片「战斗学艺术」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在学院成就中获取。",
+    "level_up_cost": 2004,
+    "level_icon": "img_shuzi_3_png.img_shuzi_3_png",
+    "level_color": "5a3726ff",
+    "umg_grade_pos_name": "zhandou",
+    "umg_grade_anim_name": "xueyuan"
   },
   {
     "id": 6001,
@@ -485,7 +715,10 @@
     "bagitem_id": 110001,
     "level_up_cost": 6,
     "level_up_card": 6002,
-    "level_icon": "img_shuzi_1_png.img_shuzi_1_png"
+    "level_icon": "img_shuzi_1_png.img_shuzi_1_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6002,
@@ -497,7 +730,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6003,
-    "level_icon": "img_shuzi_2_png.img_shuzi_2_png"
+    "level_icon": "img_shuzi_2_png.img_shuzi_2_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6003,
@@ -509,7 +745,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6004,
-    "level_icon": "img_shuzi_3_png.img_shuzi_3_png"
+    "level_icon": "img_shuzi_3_png.img_shuzi_3_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6004,
@@ -521,7 +760,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6005,
-    "level_icon": "img_shuzi_4_png.img_shuzi_4_png"
+    "level_icon": "img_shuzi_4_png.img_shuzi_4_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6005,
@@ -533,7 +775,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6006,
-    "level_icon": "img_shuzi_5_png.img_shuzi_5_png"
+    "level_icon": "img_shuzi_5_png.img_shuzi_5_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6006,
@@ -545,7 +790,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6007,
-    "level_icon": "img_shuzi_6_png.img_shuzi_6_png"
+    "level_icon": "img_shuzi_6_png.img_shuzi_6_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6007,
@@ -557,7 +805,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6008,
-    "level_icon": "img_shuzi_7_png.img_shuzi_7_png"
+    "level_icon": "img_shuzi_7_png.img_shuzi_7_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6008,
@@ -569,7 +820,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6009,
-    "level_icon": "img_shuzi_8_png.img_shuzi_8_png"
+    "level_icon": "img_shuzi_8_png.img_shuzi_8_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6009,
@@ -581,7 +835,10 @@
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
     "level_up_card": 6010,
-    "level_icon": "img_shuzi_9_png.img_shuzi_9_png"
+    "level_icon": "img_shuzi_9_png.img_shuzi_9_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 6010,
@@ -592,7 +849,10 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
     "level_up_cost": 6,
-    "level_icon": "img_shuzi_9_png.img_shuzi_9_png"
+    "level_icon": "img_shuzi_9_png.img_shuzi_9_png",
+    "level_color": "704F91ff",
+    "umg_grade_pos_name": "default",
+    "umg_grade_anim_name": "default"
   },
   {
     "id": 7001,
@@ -635,6 +895,16 @@
     "bagitem_id": 110004
   },
   {
+    "id": 10004,
+    "skin_resource_path": "Pvp004",
+    "skin_resource_name": "月涌狂想",
+    "item_description": "解锁了个人名片的新卡片「月涌狂想」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在闪耀大赛排位赛获取。",
+    "bagitem_id": 110005
+  },
+  {
     "id": 10051,
     "skin_resource_path": "S1badge",
     "skin_resource_name": "拾光精通者",
@@ -663,6 +933,16 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可通过铅字幻梦赛季作业获取。",
     "bagitem_id": 295039
+  },
+  {
+    "id": 10054,
+    "skin_resource_path": "S4badge",
+    "skin_resource_name": "月面观察员",
+    "item_description": "解锁了个人名片的新卡片「月面观察员」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可通过月涌狂想赛季作业获取。",
+    "bagitem_id": 295040
   },
   {
     "id": 20021,
@@ -703,6 +983,26 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。可在幻梦通行证获得。",
     "bagitem_id": 106029
+  },
+  {
+    "id": 20025,
+    "skin_resource_path": "shengkaibumilong",
+    "skin_resource_name": "圣凯布米龙",
+    "item_description": "解锁了个人名片的新卡片「圣凯布米龙」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在月涌通行证获得。",
+    "bagitem_id": 106034
+  },
+  {
+    "id": 20026,
+    "skin_resource_path": "yueshiluna",
+    "skin_resource_name": "月使鹭纳",
+    "item_description": "解锁了个人名片的新卡片「月使鹭纳」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。可在月涌通行证获得。",
+    "bagitem_id": 106035
   },
   {
     "id": 60001,
@@ -873,6 +1173,46 @@
     "card_quality": 5,
     "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
     "bagitem_id": 305038
+  },
+  {
+    "id": 60019,
+    "skin_resource_path": "Pika119",
+    "skin_resource_name": "宇宙拓荒者",
+    "item_description": "解锁了个人名片的新卡片「宇宙拓荒者」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305041
+  },
+  {
+    "id": 60020,
+    "skin_resource_path": "Pika120",
+    "skin_resource_name": "天空邮局",
+    "item_description": "解锁了个人名片的新卡片「天空邮局」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 4,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305042
+  },
+  {
+    "id": 60021,
+    "skin_resource_path": "Pika121",
+    "skin_resource_name": "怪奇实验室",
+    "item_description": "解锁了个人名片的新卡片「怪奇实验室」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 5,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305043
+  },
+  {
+    "id": 60022,
+    "skin_resource_path": "Pika122",
+    "skin_resource_name": "宝石狩猎",
+    "item_description": "解锁了个人名片的新卡片「宝石狩猎」。",
+    "bottom_description": "可在个人名片中更换新卡片啦！",
+    "card_quality": 4,
+    "skin_get_ways": "尚未获得该主题。？？？？后可解锁。",
+    "bagitem_id": 305044
   },
   {
     "id": 81000,

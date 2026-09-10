@@ -3,27 +3,18 @@
     "id": 1000,
     "name": "生命回复",
     "info": "<span color=\"#5CA011\">【草原活力】</> 每个章节后回复100%生命值",
-    "trial_effect": [
-      1
-    ],
     "param1": 10000
   },
   {
     "id": 1001,
     "name": "融合次数",
     "info": "每个技能最多可以融合2次",
-    "trial_effect": [
-      3
-    ],
     "param1": 2
   },
   {
     "id": 1002,
     "name": "能量充盈",
     "info": "<span color=\"#5CA011\">【能量充盈】</> 我方精灵初始能量上限为20",
-    "trial_effect": [
-      2
-    ],
     "param1": 1,
     "param2": 10
   },
@@ -31,9 +22,6 @@
     "id": 1003,
     "name": "富养环境",
     "info": "<span color=\"#5CA011\">【富养环境】</> 每个节点后，精灵回复5%生命值",
-    "trial_effect": [
-      0
-    ],
     "param1": 500,
     "visible": true
   },
@@ -86,9 +74,6 @@
     "id": 1009,
     "name": "生命回复",
     "info": "<span color=\"#C7494A\">【活力衰退】</> 每个章节后回复的生命值降低",
-    "trial_effect": [
-      1
-    ],
     "param1": 5000,
     "visible": true
   },
@@ -96,9 +81,6 @@
     "id": 1010,
     "name": "生命回复",
     "info": "<span color=\"#C7494A\">【活力衰退】</> 每个章节后不再额外回复生命值",
-    "trial_effect": [
-      1
-    ],
     "visible": true
   },
   {
@@ -384,9 +366,6 @@
     "info": "最大生命值<span color=\"#5CA011\">+70</>",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/161038.161038'",
     "type": 1,
-    "trial_effect": [
-      4
-    ],
     "param1": 1,
     "param2": 70,
     "price": 4

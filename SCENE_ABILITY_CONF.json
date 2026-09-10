@@ -715,5 +715,32 @@
       45
     ],
     "remove_sub_status": 1
+  },
+  {
+    "id": 1300134,
+    "ability_name": "社交分享邀请",
+    "skill_lua_path": "Perform.SocialShareInviteAbility",
+    "priority": 2,
+    "add_status": [
+      48
+    ],
+    "add_sub_status": 1,
+    "remove_status": [
+      48
+    ],
+    "remove_sub_status": 1
+  },
+  {
+    "id": 1300135,
+    "ability_name": "社交分享",
+    "skill_lua_path": "Perform.SocialSharePerformAbility",
+    "add_status": [
+      49
+    ],
+    "add_sub_status": 1,
+    "remove_status": [
+      49
+    ],
+    "remove_sub_status": 1
   }
 ]

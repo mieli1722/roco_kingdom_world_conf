@@ -1873,6 +1873,78 @@
     ]
   },
   {
+    "id": 10179,
+    "title": "<span color=\"#FFC65F\">异常星陨</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>附加<desc_id=1035>星陨</>时，额外附加<span color=\"#73C615\">1</>层",
+    "rank": 1,
+    "buff": [
+      20370230
+    ]
+  },
+  {
+    "id": 10180,
+    "title": "<span color=\"#FFC65F\">异常传动</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>释放技能后，所有技能<desc_id=1033>传动</><span color=\"#73C615\">1</>个位置",
+    "rank": 1,
+    "buff": [
+      20351090
+    ]
+  },
+  {
+    "id": 10181,
+    "title": "<span color=\"#FFC65F\">异常虫害</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>虫系技能，威力增加<span color=\"#73C615\">40</>",
+    "rank": 1,
+    "buff": [
+      20231300
+    ]
+  },
+  {
+    "id": 10182,
+    "title": "<span color=\"#FFC65F\">异常星群</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>回合结束时，获得<span color=\"#73C615\">1</>层<desc_id=1035>星陨</>",
+    "rank": 1,
+    "buff": [
+      20173600
+    ]
+  },
+  {
+    "id": 10183,
+    "title": "<span color=\"#FFC65F\">异常快攻</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>所有技能，能耗降低<span color=\"#73C615\">2</>",
+    "rank": 1,
+    "buff": [
+      20320072
+    ]
+  },
+  {
+    "id": 10184,
+    "title": "<span color=\"#FFC65F\">异常色彩</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>非本系技能，威力增加<span color=\"#73C615\">50%</>",
+    "rank": 1,
+    "buff": [
+      20231101
+    ]
+  },
+  {
+    "id": 10185,
+    "title": "<span color=\"#FFC65F\">异常阻力</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>使用与上回合相同的技能，能耗增加<span color=\"#AF3D3E\">2</>",
+    "rank": 1,
+    "buff": [
+      21030040
+    ]
+  },
+  {
+    "id": 10186,
+    "title": "<span color=\"#FFC65F\">异常狂热</>",
+    "desc": "<span color=\"#AF3D3E\">【全体】</>使用与上回合不同的技能，威力增加<span color=\"#73C615\">30</>",
+    "rank": 1,
+    "buff": [
+      21030050
+    ]
+  },
+  {
     "id": 10187,
     "title": "<span color=\"#FFC65F\">节奏混乱</>",
     "desc": "<span color=\"#AF3D3E\">【全体】</>所有技能，释放后冷却<span color=\"#AF3D3E\">+1</>",
@@ -1884,7 +1956,7 @@
   {
     "id": 10188,
     "title": "<span color=\"#FFC65F\">汲取</>",
-    "desc": "<span color=\"#AF3D3E\">【敌人】</>应对成功时，偷取敌人<span color=\"#AF3D3E\">10</>能量",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>应对成功时，偷取敌人最多<span color=\"#AF3D3E\">10</>能量",
     "target": 2,
     "rank": 1,
     "buff": [
@@ -1909,6 +1981,86 @@
     "rank": 1,
     "buff": [
       20010097
+    ]
+  },
+  {
+    "id": 10191,
+    "title": "<span color=\"#FFC65F\">黑手浣熊</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>非本系系别技能，威力<span color=\"#AF3D3E\">+50%</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20231102
+    ]
+  },
+  {
+    "id": 10192,
+    "title": "<span color=\"#FFC65F\">玳塔</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>防御<span color=\"#AF3D3E\">+50%</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20010106
+    ]
+  },
+  {
+    "id": 10193,
+    "title": "<span color=\"#FFC65F\">星星眼</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>受到克制伤害时，伤害<span color=\"#AF3D3E\">-50%</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20420151
+    ]
+  },
+  {
+    "id": 10194,
+    "title": "<span color=\"#FFC65F\">布灵布灵</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>使用与上回合不同的技能时，攻击<span color=\"#AF3D3E\">+30%</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      21030060
+    ]
+  },
+  {
+    "id": 10195,
+    "title": "<span color=\"#FFC65F\">智辉章脑</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>所有技能，能耗<span color=\"#AF3D3E\">减半</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20320073
+    ]
+  },
+  {
+    "id": 10196,
+    "title": "<span color=\"#FFC65F\">测风蝉</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>先手攻击时，获得<span color=\"#AF3D3E\">100%</>吸血",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20430110
+    ]
+  },
+  {
+    "id": 10197,
+    "title": "<span color=\"#FFC65F\">未完虫</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>连击<span color=\"#AF3D3E\">+3</>",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20450022
+    ]
+  },
+  {
+    "id": 10198,
+    "title": "<span color=\"#FFC65F\">摇铃魔偶</>",
+    "desc": "<span color=\"#AF3D3E\">【敌人】</>回合结束时，偷取<span color=\"#AF3D3E\">2</>能量",
+    "target": 2,
+    "rank": 1,
+    "buff": [
+      20170014
     ]
   },
   {
@@ -1952,6 +2104,15 @@
     "rank": 1,
     "buff": [
       20170013
+    ]
+  },
+  {
+    "id": 20005,
+    "title": "<span color=\"#FFC65F\">星陨流光</>",
+    "desc": "<span color=\"#AF3D3E\">【己方】</>使用攻击技能时，回合结束获得1个赤星能量；否则回合结束获得1个金星能量",
+    "rank": 1,
+    "buff": [
+      20010795
     ]
   },
   {

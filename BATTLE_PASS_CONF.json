@@ -12,7 +12,7 @@
     "open_time": "2024-07-22 04:00:00",
     "close_time": "2026-05-21 03:59:59",
     "rule_tips_id": "BP_rule_tips_23001",
-    "reward_reissue_mail_id": 70001
+    "bp_pass_select": "UMG_Pass_Select"
   },
   {
     "id": 23002,
@@ -27,7 +27,7 @@
     "open_time": "2026-05-21 04:00:00",
     "close_time": "2026-07-16 03:59:59",
     "rule_tips_id": "BP_rule_tips_23002",
-    "reward_reissue_mail_id": 70011
+    "bp_pass_select": "UMG_Pass_Select"
   },
   {
     "id": 23003,
@@ -42,6 +42,21 @@
     "open_time": "2026-07-16 04:00:00",
     "close_time": "2026-09-10 03:59:59",
     "rule_tips_id": "BP_rule_tips_23003",
-    "reward_reissue_mail_id": 70013
+    "bp_pass_select": "UMG_Pass_Select"
+  },
+  {
+    "id": 23004,
+    "bp_name": "月涌通行证",
+    "theme_id": [
+      230041,
+      230042
+    ],
+    "top_level": 100,
+    "loop_level": 999999,
+    "level_name": "礼券等级",
+    "open_time": "2026-09-10 04:00:00",
+    "close_time": "2026-11-05 03:59:59",
+    "rule_tips_id": "BP_rule_tips_23004",
+    "bp_pass_select": "UMG_Pass_Select_S4"
   }
 ]

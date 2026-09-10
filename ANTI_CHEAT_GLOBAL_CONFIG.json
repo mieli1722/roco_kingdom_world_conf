@@ -2,191 +2,159 @@
   {
     "id": 1,
     "key": "move_check_interval",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 2,
     "key": "normal_move_check_speed",
-    "num": 1500,
-    "is_loc": 2
+    "num": 1500
   },
   {
     "id": 3,
     "key": "ride_move_check_speed",
-    "num": 2500,
-    "is_loc": 2
+    "num": 2500
   },
   {
     "id": 4,
     "key": "falling_check_speed",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 5,
     "key": "speed_check_cheat_score_per_ms",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 6,
     "key": "speed_check_report_need_score",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 7,
     "key": "speed_check_threshold_speed_ratio",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 8,
     "key": "speed_check_out_of_threshold_score",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 9,
     "key": "speed_check_decay_score_per_ms",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 10,
     "key": "max_out_of_air_block_time",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 11,
     "key": "player_normal_move_check_speed",
-    "num": 1500,
-    "is_loc": 2
+    "num": 1500
   },
   {
     "id": 12,
     "key": "player_ride_move_check_speed",
-    "num": 3500,
-    "is_loc": 2
+    "num": 3500
   },
   {
     "id": 13,
     "key": "player_ride_speed_max_ratio",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 14,
     "key": "player_move_check_interval",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 15,
     "key": "player_move_check_security_speed",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 16,
     "key": "player_move_check_security_dis",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 101,
     "key": "stamina_check_upper_bound_percent",
-    "num": 30,
-    "is_loc": 2
+    "num": 30
   },
   {
     "id": 102,
     "key": "stamina_check_lower_bound_percent",
-    "num": 300,
-    "is_loc": 2
+    "num": 300
   },
   {
     "id": 103,
     "key": "stamina_check_out_of_threshold_score",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 104,
     "key": "stamina_check_cheat_score",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 105,
     "key": "stamina_check_report_need_score",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 106,
-    "key": "stamina_check_decay_score",
-    "is_loc": 2
+    "key": "stamina_check_decay_score"
   },
   {
     "id": 107,
     "key": "stamina_check_exhaust_score",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 108,
     "key": "move_merge_interval",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 1001,
     "key": "player_option_interact_distance_tolerance",
-    "num": 4000,
-    "is_loc": 2
+    "num": 4000
   },
   {
     "id": 1002,
     "key": "magic_interact_disatnce_tolerance",
-    "num": 7500,
-    "is_loc": 2
+    "num": 7500
   },
   {
     "id": 1003,
     "key": "pet_action_distance_tolerance",
-    "num": 7500,
-    "is_loc": 2
+    "num": 7500
   },
   {
     "id": 1004,
     "key": "pet_power_dash_action_tolerance",
-    "num": 4000,
-    "is_loc": 2
+    "num": 4000
   },
   {
     "id": 1005,
     "key": "illegal_action_allowance_in_ten_sec",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 1006,
     "key": "max_summon_distance",
-    "num": 2000,
-    "is_loc": 2
+    "num": 2000
   },
   {
     "id": 2001,
     "key": "transform_max_distance",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 100001,
-    "key": "ObtainLimitBySingleNpcContentMonitoringStrategy",
-    "is_loc": 2
+    "key": "ObtainLimitBySingleNpcContentMonitoringStrategy"
   }
 ]

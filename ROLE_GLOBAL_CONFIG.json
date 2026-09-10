@@ -2,144 +2,120 @@
   {
     "id": 11,
     "key": "initial_item",
-    "num": 100004,
-    "is_loc": 2
+    "num": 100004
   },
   {
     "id": 12,
     "key": "stamina_recover",
-    "num": 300,
-    "is_loc": 2
+    "num": 300
   },
   {
     "id": 13,
     "key": "stamina_recover_limit",
-    "num": 120,
-    "is_loc": 2
+    "num": 120
   },
   {
     "id": 14,
     "key": "stamina_take_limit",
-    "num": 600,
-    "is_loc": 2
+    "num": 600
   },
   {
     "id": 15,
     "key": "base_point_individual_maximum",
-    "num": 63,
-    "is_loc": 2
+    "num": 63
   },
   {
     "id": 16,
     "key": "base_point_maximum",
-    "num": 126,
-    "is_loc": 2
+    "num": 126
   },
   {
     "id": 80,
     "key": "novice_pt",
-    "num": 103,
-    "is_loc": 2
+    "num": 103
   },
   {
     "id": 81,
     "key": "character_max_vitality",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 82,
     "key": "character_dash_start_vitality_cost",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 83,
     "key": "character_vitality_recover",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 84,
     "key": "vitality_bar_fade_delay",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 85,
     "key": "vitality_bar_fade_time",
-    "num": 300,
-    "is_loc": 2
+    "num": 300
   },
   {
     "id": 96,
     "key": "role_max_level",
-    "num": 20,
-    "is_loc": 2
+    "num": 20
   },
   {
     "id": 97,
-    "key": "is_see_my_name",
-    "is_loc": 2
+    "key": "is_see_my_name"
   },
   {
     "id": 98,
     "key": "is_see_others_name",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 99,
     "key": "others_name_show_distance",
-    "num": 1500,
-    "is_loc": 2
+    "num": 1500
   },
   {
     "id": 100,
     "key": "ball_limit_num",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 101,
     "key": "register_reward_conf_id",
-    "num": 600000,
-    "is_loc": 2
+    "num": 600000
   },
   {
     "id": 102,
     "key": "register_ball_item_id",
-    "num": 100002,
-    "is_loc": 2
+    "num": 100002
   },
   {
     "id": 103,
-    "key": "register_magic_item_id",
-    "is_loc": 2
+    "key": "register_magic_item_id"
   },
   {
     "id": 104,
     "key": "role_speed",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 105,
     "key": "player_cache_npc_max_num",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 106,
     "key": "player_npc_max_num",
-    "num": 50,
-    "is_loc": 2
+    "num": 50
   },
   {
     "id": 107,
     "key": "advance_npc_max_num",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 108,
@@ -147,46 +123,39 @@
     "num": 120000097,
     "numList": [
       120000097
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 158,
     "key": "max_name_char_num",
-    "num": 12,
-    "is_loc": 2
+    "num": 12
   },
   {
     "id": 159,
     "key": "player_head_icon_man",
     "num": 10001,
-    "str": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_touxiang.img_touxiang'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_touxiang.img_touxiang'"
   },
   {
     "id": 160,
     "key": "player_head_icon_female",
     "num": 20001,
-    "str": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_Femtouxiang.img_Femtouxiang'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/MainUI/Raw/Texture/img_Femtouxiang.img_Femtouxiang'"
   },
   {
     "id": 162,
     "key": "players_title",
-    "str": "小洛克",
-    "is_loc": 1
+    "str": "小洛克"
   },
   {
     "id": 163,
     "key": "role_born_max_HP",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 164,
     "key": "battle_goodperson_role_recover_HP",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 165,
@@ -195,14 +164,12 @@
       1500,
       3000,
       6000
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 166,
     "key": "reduce_fixed_HP",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 167,
@@ -210,56 +177,47 @@
     "numList": [
       30,
       -80000
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 168,
     "key": "fall_death_max_time",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 169,
     "key": "initial_resurgence_point",
-    "num": 28,
-    "is_loc": 2
+    "num": 28
   },
   {
     "id": 170,
     "key": "bottle_item",
-    "num": 100616,
-    "is_loc": 2
+    "num": 100616
   },
   {
     "id": 171,
     "key": "reduceHP_landslide_speed_limit",
-    "num": 4000,
-    "is_loc": 2
+    "num": 4000
   },
   {
     "id": 172,
     "key": "reduceHP_landslide_speed_ptime",
-    "num": 600,
-    "is_loc": 2
+    "num": 600
   },
   {
     "id": 173,
     "key": "star_top_limit",
-    "num": 120,
-    "is_loc": 2
+    "num": 120
   },
   {
     "id": 174,
     "key": "star_recover_time",
-    "num": 720,
-    "is_loc": 2
+    "num": 720
   },
   {
     "id": 175,
     "key": "star_buytimes_perday",
-    "num": 8,
-    "is_loc": 2
+    "num": 8
   },
   {
     "id": 176,
@@ -273,34 +231,29 @@
       30000056,
       30000057,
       30000058
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 177,
     "key": "star_buytext_item",
-    "str": "补充<span size=\"24\" color=\"#D56C1F\">40契约印记</>。",
-    "is_loc": 1
+    "str": "补充<span size=\"24\" color=\"#D56C1F\">40契约印记</>。"
   },
   {
     "id": 178,
     "key": "star_buytext_diamond",
-    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。",
-    "is_loc": 1
+    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。"
   },
   {
     "id": 179,
     "key": "star_buytext_diamond_notimes",
-    "str": "今日补充次数已用尽。",
-    "is_loc": 1
+    "str": "今日补充次数已用尽。"
   },
   {
     "id": 180,
     "key": "star_item",
     "numList": [
       30000041
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 181,
@@ -322,8 +275,7 @@
       11300101,
       15,
       32500101
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 182,
@@ -341,8 +293,7 @@
       157,
       5,
       64
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 183,
@@ -364,8 +315,7 @@
       22100101,
       15,
       32500101
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 184,
@@ -383,20 +333,17 @@
       157,
       5,
       141
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 185,
     "key": "salon_default_colour",
-    "num": 105,
-    "is_loc": 2
+    "num": 105
   },
   {
     "id": 186,
     "key": "special_role_task",
-    "num": 1130015,
-    "is_loc": 2
+    "num": 1130015
   },
   {
     "id": 187,
@@ -408,19 +355,16 @@
       0,
       0,
       174
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 188,
     "key": "special_role_reward",
-    "num": 17036,
-    "is_loc": 2
+    "num": 17036
   },
   {
     "id": 189,
-    "key": "role_born_world_lv",
-    "is_loc": 2
+    "key": "role_born_world_lv"
   },
   {
     "id": 190,
@@ -428,181 +372,151 @@
     "numList": [
       1,
       1
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 191,
     "key": "Actor_MoveBackDistance",
-    "num": 1000,
-    "is_loc": 2
+    "num": 1000
   },
   {
     "id": 192,
     "key": "min_height_play_anim",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 193,
     "key": "initial_card_male",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 194,
     "key": "initial_card_female",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 195,
     "key": "initial_card_skin",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 196,
     "key": "initial_card_label_first",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 197,
     "key": "initial_card_label_last",
-    "num": 101,
-    "is_loc": 2
+    "num": 101
   },
   {
     "id": 198,
     "key": "role_rename_cd",
-    "num": 604800,
-    "is_loc": 2
+    "num": 604800
   },
   {
     "id": 199,
     "key": "role_signature_num",
-    "num": 28,
-    "is_loc": 2
+    "num": 28
   },
   {
     "id": 200,
     "key": "role_born_lv",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 201,
     "key": "born_power_max",
-    "num": 1200,
-    "is_loc": 2
+    "num": 1200
   },
   {
     "id": 202,
     "key": "player_inactivate_timeout",
-    "num": 600,
-    "is_loc": 2
+    "num": 600
   },
   {
     "id": 203,
     "key": "roleplay_reward_toast_text1",
-    "str": "点击查看新的动作。（{0}秒）",
-    "is_loc": 1
+    "str": "点击查看新的动作。（{0}秒）"
   },
   {
     "id": 204,
     "key": "roleplay_reward_toast_text2",
-    "str": "点击查看新的模仿叫声。（{0}秒）",
-    "is_loc": 1
+    "str": "点击查看新的模仿叫声。（{0}秒）"
   },
   {
     "id": 205,
     "key": "roleplay_reward_toast_time",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 206,
     "key": "roleplay_joystick_protect_time",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 207,
     "key": "fashion_suits_reward_toast",
-    "str": "点击查看新套装。（{0}秒）",
-    "is_loc": 1
+    "str": "点击查看新套装。（{0}秒）"
   },
   {
     "id": 208,
     "key": "fashion_suits_reward_toast_time",
-    "num": 5000,
-    "is_loc": 2
+    "num": 5000
   },
   {
     "id": 209,
     "key": "player_unstuck_cooldown",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 210,
-    "key": "min_land_anim_time",
-    "is_loc": 2
+    "key": "min_land_anim_time"
   },
   {
     "id": 211,
     "key": "born_power_increase_peer_max",
-    "num": 1200,
-    "is_loc": 2
+    "num": 1200
   },
   {
     "id": 213,
     "key": "starstone_use_limit",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 215,
     "key": "throw_recycle_protect_time",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 216,
     "key": "star_debris_top_limit",
-    "num": 600,
-    "is_loc": 2
+    "num": 600
   },
   {
     "id": 217,
     "key": "ftue_camera_adjust",
-    "str": "滑动屏幕来控制方向",
-    "is_loc": 1
+    "str": "滑动屏幕来控制方向"
   },
   {
     "id": 218,
     "key": "ftue_sprint",
-    "str": "点击进入疾跑",
-    "is_loc": 1
+    "str": "点击进入疾跑"
   },
   {
     "id": 219,
     "key": "ftue_jump",
-    "str": "点击进行跳跃",
-    "is_loc": 1
+    "str": "点击进行跳跃"
   },
   {
     "id": 220,
     "key": "ftue_joystick",
-    "str": "使用摇杆移动角色",
-    "is_loc": 1
+    "str": "使用摇杆移动角色"
   },
   {
     "id": 221,
     "key": "perception_movement_id",
-    "num": 7,
-    "is_loc": 2
+    "num": 7
   },
   {
     "id": 222,
@@ -612,44 +526,37 @@
       1100,
       1440,
       200000
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 223,
     "key": "dash_movement_id",
-    "num": 1,
-    "is_loc": 2
+    "num": 1
   },
   {
     "id": 224,
     "key": "swim_movement_id",
-    "num": 3,
-    "is_loc": 2
+    "num": 3
   },
   {
     "id": 225,
     "key": "swim_dash_movement_id",
-    "num": 4,
-    "is_loc": 2
+    "num": 4
   },
   {
     "id": 226,
     "key": "climb_movement_id",
-    "num": 5,
-    "is_loc": 2
+    "num": 5
   },
   {
     "id": 227,
     "key": "climb_jump_movement_id",
-    "num": 6,
-    "is_loc": 2
+    "num": 6
   },
   {
     "id": 228,
     "key": "transform_idleanim",
-    "str": "Alert;Happy;Relax;Show",
-    "is_loc": 2
+    "str": "Alert;Happy;Relax;Show"
   },
   {
     "id": 229,
@@ -657,197 +564,165 @@
     "numList": [
       86400,
       20
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 230,
     "key": "mobile_get_verification_cd_time",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 233,
     "key": "player_npc_max_num_pc",
-    "num": 125,
-    "is_loc": 2
+    "num": 125
   },
   {
     "id": 234,
     "key": "advance_npc_max_num_pc",
-    "num": 10,
-    "is_loc": 2
+    "num": 10
   },
   {
     "id": 235,
     "key": "lobby_main_inner_tag",
-    "str": "LobbyMainInner",
-    "is_loc": 2
+    "str": "LobbyMainInner"
   },
   {
     "id": 236,
     "key": "grow_power_circle",
-    "num": 2,
-    "is_loc": 2
+    "num": 2
   },
   {
     "id": 237,
     "key": "bp_week_reset_start_time",
-    "str": "2025-01-06 04:00:00",
-    "is_loc": 2
+    "str": "2025-01-06 04:00:00"
   },
   {
     "id": 238,
     "key": "bp_week_reset_start_duration",
-    "str": "7 00:00:00",
-    "is_loc": 2
+    "str": "7 00:00:00"
   },
   {
     "id": 239,
-    "key": "enable_offline_data_login_times",
-    "is_loc": 2
+    "key": "enable_offline_data_login_times"
   },
   {
     "id": 240,
     "key": "ftue_camera_adjust_PC",
-    "str": "移动鼠标来调整方向  ",
-    "is_loc": 1
+    "str": "移动鼠标来调整方向  "
   },
   {
     "id": 241,
     "key": "ftue_sprint_PC",
-    "str": "按下左Shift/鼠标右键可进入疾跑",
-    "is_loc": 1
+    "str": "按下左Shift/鼠标右键可进入疾跑"
   },
   {
     "id": 242,
     "key": "ftue_jump_PC",
-    "str": "按下空格键可进行跳跃",
-    "is_loc": 1
+    "str": "按下空格键可进行跳跃"
   },
   {
     "id": 243,
     "key": "ftue_joystick_PC",
-    "str": "使用键盘上的WASD进行移动",
-    "is_loc": 1
+    "str": "使用键盘上的WASD进行移动"
   },
   {
     "id": 244,
     "key": "ftue_entername",
-    "str": "名字需要在6个字以内",
-    "is_loc": 1
+    "str": "名字需要在6个字以内"
   },
   {
     "id": 245,
     "key": "svr_restart_offline_delay_time",
-    "num": 60,
-    "is_loc": 2
+    "num": 60
   },
   {
     "id": 246,
     "key": "pika_shop_anim_idle_a",
-    "str": "HZRelax;HZRelax02;IdleToHZIdle",
-    "is_loc": 2
+    "str": "HZRelax;HZRelax02;IdleToHZIdle"
   },
   {
     "id": 247,
     "key": "pika_shop_anim_idle_s",
-    "str": "HZLookBack;HZLookBody;HZLookFoot;HZLookHand",
-    "is_loc": 2
+    "str": "HZLookBack;HZLookBody;HZLookFoot;HZLookHand"
   },
   {
     "id": 248,
     "key": "pika_shop_trans_time",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 249,
     "key": "pika_shop_loop_cd",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 250,
     "key": "pika_shop_fade_time",
-    "num": 500,
-    "is_loc": 2
+    "num": 500
   },
   {
     "id": 251,
     "key": "pika_shop_xray_value",
-    "num": 200,
-    "is_loc": 2
+    "num": 200
   },
   {
     "id": 252,
     "key": "role_scene_name_view_distance",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 253,
     "key": "role_scene_battle_view_distance",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 255,
     "key": "star_light_share_total",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 256,
     "key": "star_light_share_single",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 257,
     "key": "second_box_delay",
-    "num": 2000,
-    "is_loc": 2
+    "num": 2000
   },
   {
     "id": 258,
     "key": "loop_box_delay",
-    "num": 4500,
-    "is_loc": 2
+    "num": 4500
   },
   {
     "id": 259,
     "key": "stamina_exchange_type1",
     "numList": [
       100653
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 260,
     "key": "stamina_exchange_type2",
     "numList": [
       2
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 261,
     "key": "stamina_exchange_text1",
-    "str": "补充<span size=\"24\" color=\"#D56C1F\">40契约印记</>。",
-    "is_loc": 1
+    "str": "补充<span size=\"24\" color=\"#D56C1F\">40契约印记</>。"
   },
   {
     "id": 262,
     "key": "stamina_exchange_text2",
-    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。",
-    "is_loc": 1
+    "str": "消耗<span size=\"24\" color=\"#D56C1F\">{0}洛克钻</>，补充<span size=\"24\" color=\"#D56C1F\">{1}契约印记</>，今日还能补充<span size=\"24\" color=\"#D56C1F\">{2}次</>。"
   },
   {
     "id": 263,
     "key": "roleplay_reward_toast_text3",
-    "str": "点击查看新的道具。（{0}秒）",
-    "is_loc": 1
+    "str": "点击查看新的道具。（{0}秒）"
   },
   {
     "id": 264,
@@ -876,8 +751,7 @@
       56,
       58,
       60
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 265,
@@ -902,8 +776,7 @@
       36,
       37,
       38
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 266,
@@ -918,14 +791,12 @@
       9,
       3,
       4
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 267,
     "key": "afk_icon_display_distance",
-    "num": 3000,
-    "is_loc": 2
+    "num": 3000
   },
   {
     "id": 268,
@@ -954,32 +825,27 @@
       36,
       37,
       38
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 269,
     "key": "player_idleaction_time",
-    "num": 30000,
-    "is_loc": 2
+    "num": 30000
   },
   {
     "id": 270,
     "key": "player_idleaction_cdtime",
-    "num": 10000,
-    "is_loc": 2
+    "num": 10000
   },
   {
     "id": 271,
     "key": "idle_action_weight",
-    "num": 20,
-    "is_loc": 2
+    "num": 20
   },
   {
     "id": 272,
     "key": "idle_closeinteract_weight",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 273,
@@ -989,8 +855,7 @@
       791339,
       791340,
       791341
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 274,
@@ -1000,8 +865,7 @@
       791343,
       791344,
       791345
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 275,
@@ -1011,8 +875,7 @@
       55,
       57,
       56
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 276,
@@ -1030,20 +893,17 @@
       54,
       55,
       61
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 277,
     "key": "name_ascii_white_list",
-    "str": "_-~·",
-    "is_loc": 2
+    "str": "_-~·"
   },
   {
     "id": 278,
     "key": "name_utf8_black_list",
-    "str": "0x0080~0x009F;0x00A0;0x00AD;0x200B~0x200F;0x2028~0x2029;0x202A~0x202E;0x2060~0x2064;0x2066~0x2069;0x3000;0xFE00~0xFE0F;0xFEFF;0xFFFC;0xFDD0~0xFDEF;0xFFF0~0xFFFF",
-    "is_loc": 2
+    "str": "0x0080~0x009F;0x00A0;0x00AD;0x200B~0x200F;0x2028~0x2029;0x202A~0x202E;0x2060~0x2064;0x2066~0x2069;0x3000;0xFE00~0xFE0F;0xFEFF;0xFFFC;0xFDD0~0xFDEF;0xFFF0~0xFFFF"
   },
   {
     "id": 279,
@@ -1051,8 +911,7 @@
     "numList": [
       3,
       141
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 280,
@@ -1060,8 +919,7 @@
     "numList": [
       9,
       142
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 281,
@@ -1069,8 +927,7 @@
     "numList": [
       791348,
       791349
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 282,
@@ -1078,62 +935,52 @@
     "numList": [
       791346,
       791347
-    ],
-    "is_loc": 2
+    ]
   },
   {
     "id": 283,
     "key": "fashion_icon_suitgrade_daily",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconDaily_png.img_IconDaily_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconDaily_png.img_IconDaily_png'"
   },
   {
     "id": 284,
     "key": "fashion_icon_suitgrade_uniform",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconProfessional_png.img_IconProfessional_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconProfessional_png.img_IconProfessional_png'"
   },
   {
     "id": 285,
     "key": "fashion_icon_suitgrade_bond",
-    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconBond_png.img_IconBond_png'",
-    "is_loc": 2
+    "str": "PaperSprite'/Game/NewRoco/Modules/System/Appearance/Raw/Frames/img_IconBond_png.img_IconBond_png'"
   },
   {
     "id": 286,
     "key": "fashion_male_suits_pants_icon",
-    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits1_999_01.suits1_999_01'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits1_999_01.suits1_999_01'"
   },
   {
     "id": 287,
     "key": "fashion_female_suits_pants_icon",
-    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits2_999_01.suits2_999_01'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/Suits/suits2_999_01.suits2_999_01'"
   },
   {
     "id": 288,
     "key": "fashion_male_suits_pants_icon_big",
-    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits1_999_01_pose.suits1_999_01_pose'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits1_999_01_pose.suits1_999_01_pose'"
   },
   {
     "id": 289,
     "key": "fashion_female_suits_pants_icon_big",
-    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits2_999_01_pose.suits2_999_01_pose'",
-    "is_loc": 2
+    "str": "Texture2D'/Game/NewRoco/Modules/System/Appearance/Raw/SuitsPose/suits2_999_01_pose.suits2_999_01_pose'"
   },
   {
     "id": 290,
     "key": "fashion_bagcharm_normal_effect",
-    "str": "SkillBlueprint'/Game/ArtRes/Effects/Particle/Scene/Avatar/BaoGua/G6_BaoGua_Common.G6_BaoGua_Common'",
-    "is_loc": 2
+    "str": "SkillBlueprint'/Game/ArtRes/Effects/Particle/Scene/Avatar/BaoGua/G6_BaoGua_Common.G6_BaoGua_Common'"
   },
   {
     "id": 291,
     "key": "idle_super_suits_weight",
-    "num": 100,
-    "is_loc": 2
+    "num": 100
   },
   {
     "id": 292,

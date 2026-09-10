@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1001,
+    "handheld_mixed_type": 3,
+    "player_attach_point": "locator_pos",
+    "playmusic_start": "WanJu_HandPan_Start",
+    "playmusic_loop": "WanJu_HandPan_Loop",
+    "playmusic_end": "WanJu_HandPan_End",
+    "playmusic_random_group": [
+      "WanJu_HandPan_Play1",
+      "WanJu_HandPan_Play2",
+      "WanJu_HandPan_Play3",
+      "WanJu_HandPan_Play4",
+      "WanJu_HandPan_Play5"
+    ],
+    "is_chord": true,
+    "music_button": [
+      {},
+      {
+        "button": 215,
+        "note_number": 60
+      },
+      {
+        "button": 217,
+        "note_number": 62
+      },
+      {
+        "button": 216,
+        "note_number": 64
+      },
+      {},
+      {
+        "button": 221,
+        "note_number": 52
+      },
+      {
+        "button": 220,
+        "note_number": 53
+      },
+      {
+        "button": 222,
+        "note_number": 55
+      },
+      {
+        "button": 223,
+        "note_number": 57
+      },
+      {
+        "button": 218,
+        "note_number": 59
+      },
+      {},
+      {},
+      {
+        "button": 219,
+        "note_number": 45
+      }
+    ]
+  }
+]

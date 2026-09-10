@@ -5,6 +5,7 @@
     "enter_ban_id": 86,
     "bg_title_color": "#e5b1e3",
     "bg_title_outline_color": "#6f7bb5",
+    "bg_name_color": "#de9fda",
     "bg_name_outline_color": "#8c75b3",
     "big_bg_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_Season1Bg.img_Season1Bg'",
     "small_bg_res": "Texture2D'/Game/NewRoco/Modules/System/ShareUI/Raw/Textures/img_PetGroupPhotoBgS1.img_PetGroupPhotoBgS1'",
@@ -41,7 +42,7 @@
       3150
     ],
     "season_normal_reward_id": 201101,
-    "bg_name_color": "#de9fda"
+    "shining_collect_task": 1150001
   },
   {
     "id": 2,
@@ -49,6 +50,7 @@
     "enter_ban_id": 87,
     "bg_title_color": "#ecbb6a",
     "bg_title_outline_color": "#cf7392",
+    "bg_name_color": "#eab85d",
     "bg_name_outline_color": "#7b84d1",
     "big_bg_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_Season2Bg.img_Season2Bg'",
     "small_bg_res": "Texture2D'/Game/NewRoco/Modules/System/ShareUI/Raw/Textures/img_PetGroupPhotoBgS2.img_PetGroupPhotoBgS2'",
@@ -82,8 +84,7 @@
       3737,
       3743
     ],
-    "season_normal_reward_id": 201102,
-    "bg_name_color": "#eab85d"
+    "season_normal_reward_id": 201102
   },
   {
     "id": 3,
@@ -91,6 +92,7 @@
     "enter_ban_id": 90,
     "bg_title_color": "#97d0b1",
     "bg_title_outline_color": "#53929a",
+    "bg_name_color": "#83d9ad",
     "bg_name_outline_color": "#62a97a",
     "big_bg_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_Season3Bg.img_Season3Bg'",
     "small_bg_res": "Texture2D'/Game/NewRoco/Modules/System/ShareUI/Raw/Textures/img_PetGroupPhotoBgS3.img_PetGroupPhotoBgS3'",
@@ -125,7 +127,46 @@
       3759,
       3760
     ],
-    "season_normal_reward_id": 201103,
-    "bg_name_color": "#83d9ad"
+    "season_normal_reward_id": 201103
+  },
+  {
+    "id": 4,
+    "handbook_icon": "PaperSprite'/Game/NewRoco/Modules/System/Handbook/Raw/Bg/Frames/img_SeasonIcon4_png.img_SeasonIcon4_png'",
+    "enter_ban_id": 5800001,
+    "bg_title_color": "#dec79c",
+    "bg_title_outline_color": "#677fbd",
+    "bg_name_color": "#dec79c",
+    "bg_name_outline_color": "#7eabd1",
+    "big_bg_res": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Images/Textures/img_Season4Bg.img_Season4Bg'",
+    "small_bg_res": "Texture2D'/Game/NewRoco/Modules/System/ShareUI/Raw/Textures/img_PetGroupPhotoBgS4.img_PetGroupPhotoBgS4'",
+    "share_umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Handbook/Res/UMG_SeasonalGroupPhoto_Pet_S4.UMG_SeasonalGroupPhoto_Pet_S4_C'",
+    "umg_path": "UMG_SeasonalGroupPhoto",
+    "season_new_pet_num": 23,
+    "season_new_pet_base_id": [
+      3236,
+      3542,
+      3574,
+      3575,
+      3576,
+      3589,
+      3590,
+      3663,
+      3664,
+      3761,
+      3762,
+      3763,
+      3764,
+      3765,
+      3766,
+      3767,
+      3768,
+      3771,
+      3772,
+      3773,
+      3774,
+      3775,
+      3776
+    ],
+    "season_normal_reward_id": 201104
   }
 ]

@@ -564,7 +564,7 @@
       },
       {
         "type_name": "Other",
-        "subtitle": "其他"
+        "subtitle": "探索"
       }
     ]
   },
@@ -753,6 +753,10 @@
       {
         "type_name": "Task",
         "subtitle": "日常任务"
+      },
+      {
+        "type_name": "SeasonShop",
+        "subtitle": "记忆商店"
       }
     ]
   },
@@ -1319,59 +1323,6 @@
     ]
   },
   {
-    "id": "HerbologyAdventureProgress",
-    "title": "草系徽章试炼",
-    "display_type": 1,
-    "subtitle": [
-      {
-        "subtitle": "冒险进度"
-      },
-      {
-        "subtitle": "奖牌统计"
-      }
-    ]
-  },
-  {
-    "id": "BadgeAdventureLogPanel",
-    "title": "草系徽章试炼",
-    "display_type": 1,
-    "subtitle": [
-      {
-        "subtitle": "冒险日志"
-      }
-    ]
-  },
-  {
-    "id": "HistoricalReview",
-    "title": "草系徽章试炼",
-    "display_type": 1,
-    "subtitle": [
-      {
-        "subtitle": "冒险回顾"
-      }
-    ]
-  },
-  {
-    "id": "HerbologyBadgeTrial",
-    "title": "草系徽章试炼",
-    "display_type": 1,
-    "subtitle": [
-      {
-        "subtitle": "难度选择"
-      }
-    ]
-  },
-  {
-    "id": "HerbologyBadgeSelectPet",
-    "title": "草系徽章试炼",
-    "display_type": 1,
-    "subtitle": [
-      {
-        "subtitle": "精灵选择"
-      }
-    ]
-  },
-  {
     "id": "HerbologyBadgeEntrance",
     "title": "草系徽章试炼",
     "display_type": 1,
@@ -1391,6 +1342,81 @@
     ]
   },
   {
+    "id": "HerbologyBadgeSelectPet",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "精灵选择"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyBadgeTrial",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "难度选择"
+      }
+    ]
+  },
+  {
+    "id": "HistoricalReview",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险回顾"
+      }
+    ]
+  },
+  {
+    "id": "BadgeAdventureLogPanel",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险日志"
+      }
+    ]
+  },
+  {
+    "id": "HerbologyAdventureProgress",
+    "title": "草系徽章试炼",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "subtitle": "冒险进度"
+      },
+      {
+        "subtitle": "奖牌统计"
+      }
+    ]
+  },
+  {
+    "id": "NightmarePrepare",
+    "title": "诅咒之路",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "type_name": "SeasonBattle",
+        "subtitle": "噩梦挑战"
+      }
+    ]
+  },
+  {
+    "id": "NightmareBlessing",
+    "title": "诅咒之路",
+    "display_type": 1,
+    "subtitle": [
+      {
+        "type_name": "Memoria",
+        "subtitle": "星盘回忆"
+      }
+    ]
+  },
+  {
     "id": "PastActivityTerritory",
     "title": "领地试炼",
     "display_type": 1,
@@ -1398,6 +1424,39 @@
     "subtitle": [
       {
         "subtitle": "往期回顾"
+      }
+    ]
+  },
+  {
+    "id": "ActivityShowdownGuess",
+    "title": "观看:月幕下的决斗",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityMoonCurtain/Frames/img_biaoti_png.img_biaoti_png'",
+    "subtitle": [
+      {
+        "subtitle": "当前赛程"
+      }
+    ]
+  },
+  {
+    "id": "CollegeDisplay",
+    "title": "活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "分学院研习"
+      }
+    ]
+  },
+  {
+    "id": "CollegePrivilegesDisplay",
+    "title": "活动",
+    "display_type": 1,
+    "head_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_huodong_png.img_huodong_png'",
+    "subtitle": [
+      {
+        "subtitle": "分学院研习"
       }
     ]
   }

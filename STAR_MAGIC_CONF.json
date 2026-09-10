@@ -1,5 +1,17 @@
 [
   {
+    "id": 4,
+    "name": "星星魔法-治愈童话书治愈魔法",
+    "effect_struct": [
+      {
+        "effect": 2
+      },
+      {
+        "effect": 8
+      }
+    ]
+  },
+  {
     "id": 5,
     "name": "星星魔法-深海的馈赠催眠魔法",
     "effect_struct": [
@@ -8,6 +20,24 @@
       },
       {
         "effect": 6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "星星魔法-宇宙拓荒者黑洞魔法",
+    "effect_struct": [
+      {
+        "effect": 2
+      },
+      {
+        "effect": 7,
+        "effect_params_1": [
+          12000
+        ],
+        "effect_params_2": [
+          4
+        ]
       }
     ]
   }

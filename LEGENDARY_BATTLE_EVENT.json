@@ -35,7 +35,6 @@
     "refresh_content_id_2": 2400122,
     "refresh_content_id_3": 2400182,
     "pet_base_id": 3182,
-    "battle_key": "longxipaer_battle",
     "start_difficulty": 1,
     "battle_id": [
       200013,
@@ -60,8 +59,7 @@
       200024,
       200025
     ],
-    "title": "传说精灵",
-    "is_refresh": true
+    "title": "传说精灵"
   },
   {
     "id": 4000004,
@@ -78,6 +76,28 @@
       200035
     ],
     "title": "传说精灵"
+  },
+  {
+    "id": 4000005,
+    "quest_name": "限时调查·龙息帕尔(返场)",
+    "quest_brief": "传说中的月光领主，恶水沼泽之上的威严兽王，只在夜幕降临后出没",
+    "start_time": "2026-10-01 04:00:00",
+    "duration": "1576800000",
+    "appear_time": "00:00:01",
+    "disappear_time": "23:59:59",
+    "world_level": 1,
+    "refresh_content_id_2": 32000011,
+    "pet_base_id": 3182,
+    "battle_key": "longxipaer_battle",
+    "start_difficulty": 1,
+    "battle_id": [
+      200013,
+      200014,
+      200015
+    ],
+    "title": "传说精灵",
+    "token_id": 280000,
+    "ticket_cost": 1
   },
   {
     "id": 4000006,
@@ -108,8 +128,25 @@
       200005
     ],
     "title": "传说精灵",
-    "is_refresh": true,
     "token_id": 280004,
+    "ticket_cost": 1
+  },
+  {
+    "id": 4000008,
+    "quest_name": "银月狼王",
+    "quest_brief": "这只是一个用于索引string的配置，无实际意义",
+    "world_level": 1,
+    "refresh_content_id_2": 32000010,
+    "pet_base_id": 3763,
+    "battle_key": "yinyuelangwang_battle",
+    "start_difficulty": 1,
+    "battle_id": [
+      200053,
+      200054,
+      200055
+    ],
+    "title": "传说精灵",
+    "token_id": 280008,
     "ticket_cost": 1
   }
 ]

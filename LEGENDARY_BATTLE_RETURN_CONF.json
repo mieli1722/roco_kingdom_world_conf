@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "id": 1001,
+    "start_time": "2026-10-01 04:00:00",
+    "battle_event_id": 4000005,
+    "banner_ui": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_Dem_PaErSaSi0_101_Egg.img_Dem_PaErSaSi0_101_Egg'",
+    "banner_des": "异色龙息帕尔",
+    "banner_text": "获取精灵蛋",
+    "option_txt": "前往挑战",
+    "hold_item": "%s/%s",
+    "Type": 1,
+    "item_id": 280006,
+    "act_option": 20029,
+    "begin_des": "开启倒计时",
+    "popup_begin_des": "%s后开启",
+    "popup": [
+      {
+        "title": "织梦棱镜球",
+        "desc": "使用织梦棱镜球捕捉传说精灵将会有更适配的炫彩外观表现",
+        "banner_title": "赛季炫彩",
+        "banner_text": "暗夜拾光",
+        "img": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_legendary_return_2.img_legendary_return_2'"
+      },
+      {
+        "title": "织梦棱镜球",
+        "desc": "使用织梦棱镜球将会把精灵外观转化为赛季限定炫彩【暗夜拾光】",
+        "banner_title": "赛季炫彩",
+        "banner_text": "暗夜拾光",
+        "img": "Texture2D'/Game/NewRoco/Modules/System/TeachingManual/Raw/Icon/img_legendary_return_1.img_legendary_return_1'"
+      }
+    ],
+    "reward_required_des_show": "已成功捕捉：%s次",
+    "reward_required_des": "捕捉%s次",
+    "reward_list": [
+      {
+        "reward_times": 1,
+        "reward": 1000041
+      },
+      {
+        "reward_times": 3,
+        "reward": 1000042
+      },
+      {
+        "reward_times": 5,
+        "reward": 1000043
+      },
+      {
+        "reward_times": 7,
+        "reward": 1000044
+      },
+      {
+        "reward_times": 10,
+        "reward": 1000045
+      }
+    ],
+    "season_id": 1,
+    "shining_collect_task": 1150001
+  }
+]

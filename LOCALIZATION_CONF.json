@@ -1716,6 +1716,10 @@
     "msg": "系统繁忙，请稍后重试（30050）"
   },
   {
+    "id": "Error_Code_50783",
+    "msg": "当前状态不允许该操作"
+  },
+  {
     "id": "Tap_SmallMap_Tips",
     "msg": "请先在世界上寻找精灵王祭坛，进行解锁~"
   },
@@ -1931,12 +1935,12 @@
     "id": "Return_Map_Guide"
   },
   {
-    "id": "buy_cond_soldout_concat",
-    "msg": "、"
-  },
-  {
     "id": "Error_Code_2112",
     "msg": "战斗已经结束"
+  },
+  {
+    "id": "buy_cond_soldout_concat",
+    "msg": "、"
   },
   {
     "id": "Battle_Skill_Prediction_Level_Max",
@@ -2068,7 +2072,7 @@
   },
   {
     "id": "2093005",
-    "msg": "能耗-1"
+    "msg": "能耗-2"
   },
   {
     "id": "2093006",
@@ -5596,7 +5600,7 @@
   },
   {
     "id": "umg_npcinfo_4",
-    "msg": "重生中：{0}分{1}秒"
+    "msg": "休整中：{0}分{1}秒"
   },
   {
     "id": "umg_npcinfo_5",
@@ -5988,7 +5992,7 @@
   },
   {
     "id": "umg_homestead_report_8",
-    "msg": "请面向举报场景，点击确认后举报场景将自动截图上报。"
+    "msg": "我愿上传游戏画面协助审核违规行为。截图需展示违规场景，点击确认自动上传。"
   },
   {
     "id": "umg_homestead_report_9",
@@ -6013,6 +6017,38 @@
   {
     "id": "umg_report_5",
     "msg": "坐挂车"
+  },
+  {
+    "id": "umg_report_6",
+    "msg": "您的举报内容已超过最大字数，请检查。"
+  },
+  {
+    "id": "umg_report_7",
+    "msg": "互动/动作骚扰"
+  },
+  {
+    "id": "umg_report_8",
+    "msg": "精灵名称违规"
+  },
+  {
+    "id": "umg_report_9",
+    "msg": "分享违规照片"
+  },
+  {
+    "id": "umg_idip_banuser_1",
+    "msg": "解除"
+  },
+  {
+    "id": "umg_idip_banuser_2",
+    "msg": "申诉"
+  },
+  {
+    "id": "umg_idip_banuser_3",
+    "msg": "跳转"
+  },
+  {
+    "id": "umg_idip_banuser_4",
+    "msg": "链接无效"
   },
   {
     "id": "umg_plane_exchangevisits_hint_1",
@@ -10499,6 +10535,14 @@
     "msg": "暂时无法追踪目标"
   },
   {
+    "id": "task_track_error12",
+    "msg": "当前地图无法追踪，请返回大世界"
+  },
+  {
+    "id": "task_track_error13",
+    "msg": "当前地图无法取消追踪，请返回大世界"
+  },
+  {
     "id": "task_track_success",
     "msg": "已开始追踪"
   },
@@ -11272,7 +11316,7 @@
   },
   {
     "id": "YueKa_Tips",
-    "msg": "<span color=\"#d56c1f\">奖励领取</>\n · 每次购买「学院月度补给」，可立即获得「洛克钻*300」与「坠星遗石*5」，与30天的「学院月度补给」生效时长。\n · 在「学院月度补给」生效期间，每日登录即可领取「分光水晶*150」，并且星光值获取效率将会额外提升30%。\n\n<span color=\"#d56c1f\">注意事项</>\n · 每日登录奖励将会在<span color=\"#d56c1f\">每日04:00</>(UTC +8)刷新。\n · 在「学院月度补给」生效期间，因为未登录游戏而未领取的奖励，将不会返还。\n · 持有「学院月度补给」的小洛克，在同行或联机时分享给同伴的星光均为加成后收益。被分享的星光收益不会再次叠加该加成。\n\n<span color=\"#d56c1f\">续购规则</>\n · 当「学院月度补给」剩余生效时间＜<span color=\"#d56c1f\">179天</>时，方可进行续购以延长总生效时长；\n · 当「学院月度补给」剩余生效时间≥<span color=\"#d56c1f\">179天</>时，将无法续购「学院月度补给」。如因特殊情况导致重复购买「学院月度补给」，总生效时间将无法延长，并将直接返还300洛克钻。"
+    "msg": "<span color=\"#d56c1f\">奖励领取</>\n · 每次购买「学院月度补给」，可立即获得「洛克钻*300」、「坠星遗石*5」、「分光水晶*100」，与30天的「学院月度补给」生效时长。\n · 在「学院月度补给」生效期间，每日登录即可领取「分光水晶*150」，并且星光值获取效率将会额外提升30%。\n\n<span color=\"#d56c1f\">注意事项</>\n · 每日登录奖励将会在<span color=\"#d56c1f\">每日04:00</>(UTC +8)刷新。\n · 在「学院月度补给」生效期间，因为未登录游戏而未领取的奖励，将不会返还。\n · 持有「学院月度补给」的小洛克，在同行或联机时分享给同伴的星光均为加成后收益。被分享的星光收益不会再次叠加该加成。\n\n<span color=\"#d56c1f\">续购规则</>\n · 当「学院月度补给」剩余生效时间＜<span color=\"#d56c1f\">179天</>时，方可进行续购以延长总生效时长；\n · 当「学院月度补给」剩余生效时间≥<span color=\"#d56c1f\">179天</>时，将无法续购「学院月度补给」。如因特殊情况导致重复购买「学院月度补给」，总生效时间将无法延长，并将直接返还300洛克钻。\n\n<span color=\"#d56c1f\">寻回月度补给</>\n若因当天未登录错过的月度补给，前往魔力之源或回到家园，与噜噜对话即可完成补领。\n<span color=\"#d56c1f\">奖励累计上限：{0}天</>"
   },
   {
     "id": "YueKa_Accumulated_Login_Tips"
@@ -11683,7 +11727,7 @@
   },
   {
     "id": "fashionmall_receipt_bonus",
-    "msg": "组合包赠送"
+    "msg": " "
   },
   {
     "id": "fashionmall_receipt_discount",
@@ -12297,6 +12341,42 @@
     "msg": "“想尝试一下骑士们真正的实训吗？”"
   },
   {
+    "id": "challenge_dialogue_30",
+    "msg": "“哼哼，又到我闪耀的时刻了吗？”"
+  },
+  {
+    "id": "challenge_dialogue_31",
+    "msg": "\"让我来教你什么叫战斗！\""
+  },
+  {
+    "id": "challenge_dialogue_32",
+    "msg": "\"你的实力让我有点期待了！\""
+  },
+  {
+    "id": "challenge_dialogue_33",
+    "msg": "\"小心了，别露出破绽！\""
+  },
+  {
+    "id": "challenge_dialogue_34",
+    "msg": "\"这里怎么会有你这样的小可爱？\""
+  },
+  {
+    "id": "challenge_dialogue_35",
+    "msg": "\"以礼相待，方显贵族之风。\""
+  },
+  {
+    "id": "challenge_dialogue_36",
+    "msg": "\"可别被我这顶可爱的魔女帽骗了哦。\""
+  },
+  {
+    "id": "challenge_dialogue_37",
+    "msg": "\"真正的宝藏，往往藏在未知的险境之中！\""
+  },
+  {
+    "id": "challenge_dialogue_38",
+    "msg": "\"我们可是共享记忆的伙伴哦！\""
+  },
+  {
     "id": "challenge_text_1",
     "msg": "推荐精灵等级"
   },
@@ -12757,7 +12837,7 @@
   },
   {
     "id": "bp_buy_level_confirm",
-    "msg": "确定消耗<span size=\"24\" color=\"#af3d3e\">{0}洛克钻</>，补充<span size=\"24\" color=\"#af3d3e\">{1}通行证等级</>？"
+    "msg": "确定消耗{0}<span size=\"24\" color=\"#af3d3e\">{1}</>，补充<span size=\"24\" color=\"#af3d3e\">{2}通行证等级</>？"
   },
   {
     "id": "ERR_SCENE_NO_MINIGAME",
@@ -13444,6 +13524,10 @@
     "msg": "烹饪"
   },
   {
+    "id": "plant_no_ride_guard_tips",
+    "msg": "暂时无法使用"
+  },
+  {
     "id": "Activity_FlowerAppearHard_BtnTxt",
     "msg": "前往活动"
   },
@@ -13953,7 +14037,7 @@
   },
   {
     "id": "Boss_Reborn_Botton_Tips",
-    "msg": "重生中"
+    "msg": "休整中"
   },
   {
     "id": "check_task_info",
@@ -15037,7 +15121,7 @@
   },
   {
     "id": "item_expired_text03",
-    "msg": "有效期至 {0}"
+    "msg": "有效期至{0}"
   },
   {
     "id": "item_expired_text04",
@@ -16063,6 +16147,14 @@
     "msg": "庇护所周边缺少两栖环境"
   },
   {
+    "id": "pet_fruit_use_tips_ban_lava",
+    "msg": "庇护所周边缺少熔岩环境"
+  },
+  {
+    "id": "pet_fruit_use_tips_ban_livable",
+    "msg": "庇护所周边缺少适宜环境"
+  },
+  {
     "id": "pet_fruit_use_tips_no_fruit",
     "msg": "还未选择要放入庇护所中的果实"
   },
@@ -16292,7 +16384,7 @@
   },
   {
     "id": "interactiontree_cifu_inf",
-    "msg": "可以通过消耗<span color=\"#d56c1f\">{0}</>，对精灵蛋进行赐福。\n精灵蛋赐福后，孵出精灵的<span color=\"#d56c1f\">性格、特长、个体资质的种类（具体数值随机）</>会与赐福的精灵保持一致。\n个体资质数值会随机生成，不会受到赐福精灵影响"
+    "msg": "可以通过消耗<span color=\"#d56c1f\">{0}</>，对精灵蛋进行赐福。\n精灵蛋赐福后，孵出精灵的<span color=\"#d56c1f\">性格、特长、个体资质的种类（具体数值随机）</>会与赐福的精灵保持一致。\n个体资质数值会随机生成，不会受到赐福精灵影响。\n神奇的蛋完成赐福后，将转化为赐福精灵进化链对应的珍贵精灵蛋。"
   },
   {
     "id": "interactiontree_cifu_req_revice",
@@ -16336,7 +16428,7 @@
   },
   {
     "id": "interactiontree_cifu_req_check",
-    "msg": "是否确定向<span color=\"#d56c1f\">{0}</>申请对此精灵蛋进行赐福。\n赐福后精灵蛋孵出精灵的<span color=\"#d56c1f\">性格、特长、个体资质的种类</>会与赐福精灵保持一致"
+    "msg": "赐福后，精灵蛋孵化出的精灵，其<span color=\"#d56c1f\">性格、特长、个体资质的种类</>将与赐福精灵保持一致"
   },
   {
     "id": "visual_item_exchange",
@@ -16692,11 +16784,11 @@
   },
   {
     "id": "repairtools_upload_5",
-    "msg": "开启后可提高日志覆盖的内容"
+    "msg": "开启后可提高日志覆盖的内容。\n操作步骤：1. 先开启深度日志； 2. 重新进行一次出现问题的步骤；3. 完成后，上报日志。"
   },
   {
     "id": "repairtools_upload_6",
-    "msg": "开启深度日志后可能会影响当前游戏性能，确定开启深度日志吗？"
+    "msg": "开启深度日志后可能会影响当前游戏性能，确定开启深度日志吗？\n操作步骤：1. 先开启深度日志； 2. 重新进行一次出现问题的步骤；3. 完成后，上报日志。"
   },
   {
     "id": "RLTT_Giftegg_text_limit",
@@ -16793,10 +16885,6 @@
   {
     "id": "interactiontree_cifu_req_check_title_self",
     "msg": "赐福"
-  },
-  {
-    "id": "interactiontree_cifu_req_check_self",
-    "msg": "是否确定对此精灵蛋进行赐福。\n赐福后精灵蛋孵出精灵的<span color=\"#d56c1f\">性格、特长、个体资质的种类</>会与赐福精灵保持一致"
   },
   {
     "id": "interactiontree_cifu_req_check_title",
@@ -17188,7 +17276,7 @@
   },
   {
     "id": "activity_qilaiya_pvprank_tips",
-    "msg": "当前："
+    "msg": "当前：%s"
   },
   {
     "id": "magicmanual_challenge_trace_confirm01",
@@ -17869,6 +17957,10 @@
   {
     "id": "Download_All_tips1",
     "msg": "亲爱的小洛克，当前下载的资源已体验完毕，请下载完整资源以继续体验您在《洛克王国：世界》的精彩旅程。下载及更新客户端资源过程中，将无法进行游戏。{0}\n资源大小：{1:.2f}G"
+  },
+  {
+    "id": "Download_All_tips4",
+    "msg": "亲爱的小洛克，需下载必备资源后即可开启《洛克王国：世界》的旅程。\n资源大小：{0:.2f}G"
   },
   {
     "id": "Download_All_button1",
@@ -19043,6 +19135,14 @@
     "msg": "暂无"
   },
   {
+    "id": "territory_trial_token_exchange_confirm",
+    "msg": "是否兑换{0}?"
+  },
+  {
+    "id": "territory_trial_token_exchange_missing",
+    "msg": "兑换道具不足"
+  },
+  {
     "id": "SIM_bagitem_conceal_state_tips",
     "msg": "出故障啦，维修中"
   },
@@ -19092,7 +19192,7 @@
   },
   {
     "id": "star_chain_module_text_8",
-    "msg": "本周传说精灵星之链可用次数已用尽"
+    "msg": "本周传说精灵契约印记可用次数已用尽"
   },
   {
     "id": "ERR_SCENE_RELATION_INTERACT_NOT_ALLOW_VISIT_IN_HOME",
@@ -20891,6 +20991,14 @@
     "msg": "说说你喜欢的精灵，我帮你搭阵容！"
   },
   {
+    "id": "ai_coach_20",
+    "msg": "帮我用迪莫推荐一套阵容吧~"
+  },
+  {
+    "id": "ai_coach_21",
+    "msg": "试用"
+  },
+  {
     "id": "relationtree_player_stranger_option",
     "msg": "你好"
   },
@@ -21351,6 +21459,18 @@
     "msg": "这只精灵正受到魔力波动的影响，无法捕捉"
   },
   {
+    "id": "cant_magic_act_bookworld",
+    "msg": "特殊的童话书星星魔法无法使其消散，请及时阅读"
+  },
+  {
+    "id": "cant_enter_bookworld",
+    "msg": "绘本中有其他故事尚未完成，请稍后再尝试吧"
+  },
+  {
+    "id": "bookworld_time_up",
+    "msg": "绘本场景即将消散，请尽快捕捉并离开场景"
+  },
+  {
     "id": "BP_rule_tips_23002",
     "msg": "<span color=\"#d56c1f\">狂欢通行证</>\n本次通行证提供了两种主题！\n盛夏主题：爆焰喷喷。\n严冬主题：雪怪。\n\n<span color=\"#d56c1f\">狂欢通行证规则说明</>\n通行证分为“盛夏”和“严冬”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束5小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过4小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。"
   },
@@ -21400,6 +21520,10 @@
   },
   {
     "id": "ERR_ZONE_GRASS_TRIAL_OPERATION_TOO_FAST",
+    "msg": "操作太频繁，请稍后重试"
+  },
+  {
+    "id": "Error_Code_3367",
     "msg": "操作太频繁，请稍后重试"
   },
   {
@@ -21639,6 +21763,18 @@
     "msg": "精灵参加的不是这只精灵的派对，请尝试别的精灵"
   },
   {
+    "id": "记忆代币",
+    "msg": "记忆代币"
+  },
+  {
+    "id": "记忆代币描述",
+    "msg": "蕴含回忆之力的神秘魔法通货。\n可在记忆代币商店中兑换各种限定奖励。"
+  },
+  {
+    "id": "记忆代币商店",
+    "msg": "记忆代币商店"
+  },
+  {
     "id": "goods_return_text",
     "msg": "已转换"
   },
@@ -21715,6 +21851,86 @@
     "msg": "徽章碎片"
   },
   {
+    "id": "grasstrial_text_2",
+    "msg": "将一个技能的能耗降低1"
+  },
+  {
+    "id": "grasstrial_text_3",
+    "msg": "选择两个同类技能进行融合"
+  },
+  {
+    "id": "grasstrial_text_4",
+    "msg": "仅可携带{0}个初始技能"
+  },
+  {
+    "id": "grasstrial_text_5",
+    "msg": "精灵只能装配{0}个技能"
+  },
+  {
+    "id": "grasstrial_text_6",
+    "msg": "请选择精灵槽位"
+  },
+  {
+    "id": "grasstrial_text_7",
+    "msg": "请选择一只精灵"
+  },
+  {
+    "id": "grasstrial_text_8",
+    "msg": "解锁难度：%s"
+  },
+  {
+    "id": "grasstrial_text_9",
+    "msg": "冒险日志解锁新条目"
+  },
+  {
+    "id": "grasstrial_text_10",
+    "msg": "冒险日志解锁新奖励"
+  },
+  {
+    "id": "grasstrial_text_11",
+    "msg": "玩法说明"
+  },
+  {
+    "id": "grasstrial_text_12",
+    "msg": "<span color=\"#d56c1f\">玩法说明</>\n八大徽章是每个魔法师的英勇证明！完成草系大魔法师罗兰的试炼即可获得草系徽章！\n\n<span color=\"#d56c1f\">基础规则</>\n·选择1只精灵并携带3个初始技能即可开始试炼，推荐使用60级5星成长的精灵，精灵觉醒数值不会生效。\n·挑战路径由3×8个挑战节点构成，节点上会出现野生精灵、首领精灵、魔力之源、远行商人等随机事件。\n·挑战过程中可以获得对手精灵的特性、技能以及具备特殊效果的碎片，此外还可以通过技能融合让精灵进一步成长。\n·最多携带6个技能进入战斗，每个技能在使用后会进入3回合CD，挑战过程中的生命回复会受到一定程度的限制。\n·完成所有节点视为挑战成功，挑战过程中精灵力竭视为挑战失败，失败后再次挑战不会继承上次进度。\n\n<span color=\"#d56c1f\">技能融合</>\n·击败对手后掉落的奖励技能可以选择直接获得或者进行技能融合。\n·技能融合需要选择1个当前技能组中的同类技能（攻击/状态/防御）作为胚子，非同类技能无法进行融合。\n·融合后的技能会继承胚子技能的系别、伤害类型（物攻/魔攻）和效果，并额外获得奖励技能的效果。\n·融合后技能的能耗和威力会继承两技能中的最高值，同类型的效果在融合后会进行加算（如连击数、威力倍数等）。\n·每个胚子技能最多只能融合2次。\n\n<span color=\"#d56c1f\">挑战说明</>\n·草系徽章试炼设有3个难度，初始仅开放默认难度，通关后自动解锁进阶难度。\n·草系徽章试炼设有18个系别挑战槽位，使用对应主系别的精灵完成挑战即可解锁奖励，完成高难度挑战自动视为完成低难度挑战。\n\n<span color=\"#d56c1f\">玩法奖励</>\n·首次通关挑战即可以获得纪念家具「草系徽章」、共鸣魔法「光合治愈」，武斗酷猫首领信物「月光罐头」。\n·完成对应系别的挑战即可累计冒险进度，完成所有18个系别槽位的冒险进度后可以获得「草系徽章背包挂饰」。\n·每次挑战结算时会根据本次进度获得洛克贝和星光，精灵越稀有，洛克贝获取效率越高。\n·洛克贝和星光均受到游戏内整体获取上限的限制。\n·使用不同精灵通关最高难度的挑战还可以获得专属精灵奖牌「草系奖牌」。\n·挑战过程中遇到新的精灵可以解锁冒险日志中的地区探索奖励，包含「分光水晶」地区主题的「名片」和「称号」。\n·草系徽章试炼活动开启期间参与试炼即可获得活动积分，完成难度1累计可以获得600积分，难度2累计可以获得900积分，难度3累计可以获得1200积分，积分达标后可以兑换相应的活动奖励，活动结束后参与挑战将不再获得活动积分。"
+  },
+  {
+    "id": "grasstrial_text_13",
+    "msg": "%s家族获得了%s"
+  },
+  {
+    "id": "grasstrial_text_14",
+    "msg": "使用%s主系别精灵通关%s"
+  },
+  {
+    "id": "grasstrial_text_15",
+    "msg": "击败奖励×%s"
+  },
+  {
+    "id": "grasstrial_text_16",
+    "msg": "请至少选择一个技能"
+  },
+  {
+    "id": "grasstrial_text_17",
+    "msg": "可选择技能已达上限"
+  },
+  {
+    "id": "grasstrial_text_18",
+    "msg": "已装备技能"
+  },
+  {
+    "id": "grasstrial_text_19",
+    "msg": "%s的玩家获得"
+  },
+  {
+    "id": "grasstrial_text_20",
+    "msg": "获得比例"
+  },
+  {
+    "id": "grasstrial_text_21",
+    "msg": "搜索精灵"
+  },
+  {
     "id": "activity_drop_tips_finish",
     "msg": "已完成"
   },
@@ -21731,7 +21947,7 @@
     "msg": "分享音乐"
   },
   {
-    "id": "Error_Code_2687",
+    "id": "Error_Code_2867",
     "msg": "暂无物品可以回溯"
   },
   {
@@ -33379,6 +33595,30 @@
     "msg": "发现<orange>异色</>精灵!"
   },
   {
+    "id": "fantastic_pet_discovered",
+    "msg": "小加尔想了想，染上了几笔<orange>奇异</>的颜色！"
+  },
+  {
+    "id": "mix_pet_discovered",
+    "msg": "小加尔想了想，染上了几笔<orange>混乱</>的颜色！"
+  },
+  {
+    "id": "nightmare_pet_discovered",
+    "msg": "小加尔想了想，染上了几笔<orange>污染</>的颜色！"
+  },
+  {
+    "id": "s4_fantastic_pet_discovered",
+    "msg": "星星为精灵赋予了<orange>奇异</>的力量！"
+  },
+  {
+    "id": "s4_mix_pet_discovered",
+    "msg": "星星为精灵赋予了<orange>混乱</>的力量！"
+  },
+  {
+    "id": "s4_nightmare_pet_discovered",
+    "msg": "星星为精灵赋予了<orange>污染</>的力量！"
+  },
+  {
     "id": "pet_report_amount_limit_desc",
     "msg": "阁下已经捕捉了太多精灵，请及时去魔力之源处上报"
   },
@@ -33580,7 +33820,7 @@
   },
   {
     "id": "activity_shock_shop_friend_popup_des4",
-    "msg": "对比成本价格"
+    "msg": "对比拥有价格"
   },
   {
     "id": "activity_shock_shop_friend_lock_des",
@@ -33912,7 +34152,7 @@
   },
   {
     "id": "BP_rule_tips_23003",
-    "msg": "<span color=\"#d56c1f\">幻梦通行证</>\n本次通行证提供了两种主题！\n守护的童话：胡桃王子。\n救赎的童话：离心舞者。\n\n<span color=\"#d56c1f\">幻梦通行证规则说明</>\n通行证分为“守护的童话”和“救赎的童话”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束5小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过4小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。\n\n"
+    "msg": "<span color=\"#d56c1f\">幻梦通行证</>\n本次通行证提供了两种主题！\n守护的童话：胡桃王子。\n救赎的童话：离心舞者。\n\n<span color=\"#d56c1f\">幻梦通行证规则说明</>\n通行证分为“守护的童话”和“救赎的童话”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束5小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过4小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。\n\n<span color=\"#d56c1f\">记忆商店</>\n受到小洛克的愿力影响，过往赛季的部分奖励将会在记忆商店中出现。各位小洛克可以用记忆代币兑换各种限定奖励，购买当期（闪耀）契约礼券可额外解锁商品兑换，记忆代币可由通行证获得。"
   },
   {
     "id": "takephoto_pic_settings",
@@ -34171,10 +34411,6 @@
     "msg": "专属待机动作"
   },
   {
-    "id": "exchange_lottery_title",
-    "msg": "兑换幸运代币"
-  },
-  {
     "id": "card_skin_luoke_name",
     "msg": "洛克"
   },
@@ -34185,22 +34421,6 @@
   {
     "id": "card_skin_show_luoke_idea",
     "msg": "百分之零魔法师"
-  },
-  {
-    "id": "lottery_rule_btn_text",
-    "msg": "概率详情"
-  },
-  {
-    "id": "lottery_rule_chance_text",
-    "msg": "规则"
-  },
-  {
-    "id": "lottery_probability_chance_text",
-    "msg": "概率"
-  },
-  {
-    "id": "lottery_shop_rule_details",
-    "msg": "具体规则详情待补充正式文本"
   },
   {
     "id": "cant_cache_S3_elite_in_battle",
@@ -34271,6 +34491,10 @@
     "msg": "离开奇遇场景后，将无法通过书本重新进入场景和捕捉精灵。你还有未捕捉完的精灵，是否确认离开？"
   },
   {
+    "id": "leave_bookworld_finish_note",
+    "msg": "离开奇遇场景后，将无法通过书本重新进入场景。是否确认离开？"
+  },
+  {
     "id": "grass_trial_lookback",
     "msg": "历史回顾"
   },
@@ -34297,6 +34521,18 @@
   {
     "id": "medal_text_12",
     "msg": "击败精灵种类"
+  },
+  {
+    "id": "medal_text_13",
+    "msg": "{0}正在佩戴<span color=\"#ffc65f\">{1}</>，战斗内登场时的称号会显示为<span color=\"#ffc65f\">{2}</>，并显示特殊的登场特效。"
+  },
+  {
+    "id": "medal_text_14",
+    "msg": "{0}正在佩戴<span color=\"#ffc65f\">{1}</>，战斗内登场时的称号会显示为<span color=\"#ffc65f\">{2}</>。"
+  },
+  {
+    "id": "medal_text_15",
+    "msg": "奖牌"
   },
   {
     "id": "navigation_text_1",
@@ -34639,6 +34875,14 @@
     "msg": "%y.%m.%d"
   },
   {
+    "id": "battle_pass_shop_switch",
+    "msg": "商店切换"
+  },
+  {
+    "id": "battle_pass_shop_own_tips",
+    "msg": "已拥有"
+  },
+  {
     "id": "cloud_message_management_title",
     "msg": "系统推送通知管理"
   },
@@ -34723,6 +34967,22 @@
     "msg": "添加数量"
   },
   {
+    "id": "owl_sanctuary_levelup_no_tools",
+    "msg": "当前道具数量不足，长按道具可查看获取方式"
+  },
+  {
+    "id": "owl_sanctuary_levelup_guest_tools_pause",
+    "msg": "暂停计时"
+  },
+  {
+    "id": "owl_sanctuary_levelup_description",
+    "msg": "当前庇护所解锁的效果：\n%s"
+  },
+  {
+    "id": "battle_pass_shop_discount_text",
+    "msg": "已拥有商品扣除"
+  },
+  {
     "id": "amycrystal_stage_name",
     "msg": "美愿树的萌芽"
   },
@@ -34793,22 +35053,6 @@
   {
     "id": "bond_diy_settings_title",
     "msg": "%s徽章自定义设置"
-  },
-  {
-    "id": "idle_acting_second_text_grass",
-    "msg": "大世界待机时随机触发"
-  },
-  {
-    "id": "catch_ball_second_text_grass",
-    "msg": "光合捕捉技能"
-  },
-  {
-    "id": "apply_all_gold_suits_settings",
-    "msg": "应用于全部金色品质套装设置"
-  },
-  {
-    "id": "apply_all_gold_bond_settings",
-    "msg": "应用于全部金色品质徽章设置"
   },
   {
     "id": "apply_all_orange_bond_settings",
@@ -34931,6 +35175,26 @@
     "msg": "挑战邀请"
   },
   {
+    "id": "month_card_accmulate_title",
+    "msg": "噜噜寻回资源"
+  },
+  {
+    "id": "month_card_accmulate_popup_rule",
+    "msg": "若因当天未登录错过的月度补给，前往魔力之源或回到家园，与噜噜对话即可完成补领\n <span color=\"#FFE15D\">存储上限：%s</>"
+  },
+  {
+    "id": "month_card_accmulate_rule",
+    "msg": "噜噜为你寻回了奖励："
+  },
+  {
+    "id": "month_card_map_rule",
+    "msg": "月度补给待寻回"
+  },
+  {
+    "id": "month_card_map_des",
+    "msg": "寻回月度补给：分光水晶×%s"
+  },
+  {
     "id": "multi_minigame_single_type_start_fail",
     "msg": "只有在非联机状态下才能开启单人模式"
   },
@@ -34975,22 +35239,6 @@
     "msg": "动作详情"
   },
   {
-    "id": "medal_text_15",
-    "msg": "奖牌"
-  },
-  {
-    "id": "medal_text_14",
-    "msg": "{0}正在佩戴<span color=\"#ffc65f\">{1}</>，战斗内登场时的称号会显示为<span color=\"#ffc65f\">{2}</>。"
-  },
-  {
-    "id": "medal_text_13",
-    "msg": "{0}正在佩戴<span color=\"#ffc65f\">{1}</>，战斗内登场时的称号会显示为<span color=\"#ffc65f\">{2}</>，并显示特殊的登场特效。"
-  },
-  {
-    "id": "leave_bookworld_finish_note",
-    "msg": "离开奇遇场景后，将无法通过书本重新进入场景。是否确认离开？"
-  },
-  {
     "id": "building_npc_stable_title",
     "msg": "稳定度："
   },
@@ -35023,52 +35271,52 @@
     "msg": "美愿进阶"
   },
   {
-    "id": "owl_sanctuary_levelup_no_tools",
-    "msg": "当前道具数量不足，长按道具可查看获取方式"
-  },
-  {
-    "id": "Error_Code_3554",
-    "msg": "编队所有精灵数据异常，无法进行此操作"
-  },
-  {
-    "id": "activity_time_off_shop_tips",
-    "msg": "商店已过期"
-  },
-  {
-    "id": "bp_loop_reward_txt",
-    "msg": "循环奖励"
-  },
-  {
-    "id": "Error_Code_3553",
-    "msg": "好友编队有精灵数据异常，无法进行此操作"
+    "id": "Error_Code_3551",
+    "msg": "精灵数据异常，无法进行此操作"
   },
   {
     "id": "Error_Code_3552",
     "msg": "当前编队有精灵数据异常，无法进行此操作"
   },
   {
-    "id": "Error_Code_3551",
-    "msg": "精灵数据异常，无法进行此操作"
+    "id": "Error_Code_3553",
+    "msg": "好友编队有精灵数据异常，无法进行此操作"
   },
   {
-    "id": "grasstrial_text_2",
-    "msg": "将一个技能的能耗降低1"
+    "id": "Error_Code_3554",
+    "msg": "编队所有精灵数据异常，无法进行此操作"
   },
   {
-    "id": "grasstrial_text_3",
-    "msg": "选择两个同类技能进行融合"
+    "id": "pvpwatch_tp_title",
+    "msg": "传送并观战"
   },
   {
-    "id": "grasstrial_text_4",
-    "msg": "仅可携带{0}个初始技能"
+    "id": "pvpwatch_tp_describe",
+    "msg": "该玩家正在进行%s，是否<span color=\"#ffc65f\">传送并观战</>?"
   },
   {
-    "id": "grasstrial_text_5",
-    "msg": "精灵只能装配{0}个技能"
+    "id": "activity_time_off_shop_tips",
+    "msg": "商店已过期"
   },
   {
-    "id": "cant_magic_act_bookworld",
-    "msg": "特殊的童话书星星魔法无法使其消散，请及时阅读"
+    "id": "warehouse_box_name",
+    "msg": "精灵盒子"
+  },
+  {
+    "id": "pvpwatch_tp_button_1",
+    "msg": "仅传送"
+  },
+  {
+    "id": "pvpwatch_tp_button_2",
+    "msg": "传送并观战"
+  },
+  {
+    "id": "academy_semester_rule",
+    "msg": "欢迎各位小洛克正式加入分学院！\n\n<span color=\"#d56c1f\">研习奖章</>\n每个分学院将会有三个不同的研习奖章，完成每周研习/赛季研习/无限研习即可获得学分，进而提升对应的奖章等级。初次加入学院时所有奖章默认0级，最高可提升至III级。每个奖章等级互相独立，奖章等级仅计入从对应研习中获得的学分。奖章等级越高，可获得的奖励越丰富。\n\n<span color=\"#d56c1f\">研习任务</>\n每个学院都会有对应的每周研习、赛季研习、无限研习。完成研习任务后将会获得学分奖励和分光水晶奖励，其中学分奖励将会在完成时自动领取，而分光水晶奖励需要手动进行领取。\n\n<span color=\"#d56c1f\">学期奖励</>\n每个学期时长为两个赛季，学期结束后将会结算本学期的奖励，奖励包含学院专属名片、学期专属时装、学期专属奖励和学院积分卡等。玩家可以在学期结束后找到所在分院的分学院代表进行领取。\n需要注意的是，<span color=\"#d56c1f\">每个学院之间学分不会共享</>，若曾经有过多个分学院的学习经历，学期结束时<span color=\"#d56c1f\">奖励只会按照最终所在的分学院进行发放</>，记得去自己最喜欢的学院哦！\n\n<span color=\"#d56c1f\">切换学院</>\n在魔法学院中，每名小洛克都可以切换不同分学院来进行学习，每次切换学院后<span color=\"#d56c1f\">2周内不可以再次切换</>，加入学院就要认真学习！切换学院后，原学院获得的学分将会保留但不再增加，若存在未领取的奖励则会通过邮件进行奖励补发，一定要认真想好再切换喔~\n\n若在转学前已完成部分任务，继承规则如下：\n· 每周研习：转学后，当周每周任务会继承转学前已完成的对应进度；\n· 赛季研习：转学后，本学期的赛季任务将会继承转学前已完成的对应进度；\n· 无限研习：不继承转学前的任何进度。"
+  },
+  {
+    "id": "bp_loop_reward_txt",
+    "msg": "循环奖励"
   },
   {
     "id": "grass_trial_adventure_progress",
@@ -35103,12 +35351,60 @@
     "msg": "本周限定精灵：{0}"
   },
   {
-    "id": "grasstrial_text_7",
-    "msg": "请选择一只精灵"
+    "id": "rp_social_action_stop",
+    "msg": "%s请求已中断 "
   },
   {
-    "id": "grasstrial_text_6",
-    "msg": "请选择精灵槽位"
+    "id": "social_action_pohto_share_button",
+    "msg": "分享此照片"
+  },
+  {
+    "id": "social_action_egg_repeat",
+    "msg": "对方今天已经送过你精灵蛋啦，明天再来吧 "
+  },
+  {
+    "id": "social_action_ball_confirm",
+    "msg": "是否向附近玩家赠送咕噜球"
+  },
+  {
+    "id": "social_action_photo_check_failed",
+    "msg": "照片审核未通过"
+  },
+  {
+    "id": "social_action_photo_checking",
+    "msg": "上传中"
+  },
+  {
+    "id": " social_action_photo_check_net",
+    "msg": "网络异常，上传失败"
+  },
+  {
+    "id": "social_action_ball_describe_title",
+    "msg": "赠送条件球  "
+  },
+  {
+    "id": "social_action_ball_describe",
+    "msg": "<span color=\"#d56c1f\">支持赠送的咕噜球种类与数量</>\n支持赠送的咕噜球包括：光合球、网兜球、调温球、美妙球、好战球、暗星球、淘沙球、变换球。\n单次最多赠送 <span color=\"#d56c1f\">%s</>个咕噜球。\n<span color=\"#d56c1f\">赠送条件球次数限制</>\n同一玩家每天仅可领取 1 次你赠送的咕噜球。"
+  },
+  {
+    "id": "social_action_ball_ban_jump",
+    "msg": "当前情况下无法跳转 "
+  },
+  {
+    "id": "social_action_egg_describe_title",
+    "msg": "赠送精灵蛋 "
+  },
+  {
+    "id": "social_action_egg_describe",
+    "msg": "<span color=\"#d56c1f\">不可赠送的精灵蛋</>\n特殊途径获取/高稀有度的精灵蛋，会带有精灵蛋标签。\n带有标签的精灵蛋，无法赠予其他玩家。\n包括珍贵精灵蛋、异色精灵蛋、炫彩精灵蛋、异色炫彩精灵蛋、唯一精灵蛋。\n\n<span color=\"#d56c1f\">赠送精灵蛋次数限制</>\n同一玩家每天仅可领取 1 次你赠送的精灵蛋。"
+  },
+  {
+    "id": "social_action_photo_save",
+    "msg": "照片已保存至相册"
+  },
+  {
+    "id": "social_action_photo_full",
+    "msg": "相册已满，缺少存储空间"
   },
   {
     "id": "building_npc_next_level_banner",
@@ -35124,15 +35420,15 @@
   },
   {
     "id": "BP_rule_level_max_tips",
-    "msg": "等级超过100级则无法购买"
+    "msg": "等级超过{0}级则无法购买"
   },
   {
     "id": "pet_lordevo_text23",
     "msg": "首领化精灵不可修改血脉，如需修改需要先解除首领化~"
   },
   {
-    "id": "cant_enter_bookworld",
-    "msg": "绘本中有其他故事尚未完成，请稍后再尝试吧"
+    "id": "Reset_BubbleSkin_Tips",
+    "msg": "是否将聊天气泡重置为默认效果？"
   },
   {
     "id": "grass_trial_fusion_already_selected",
@@ -35143,32 +35439,8 @@
     "msg": "不在同行状态中"
   },
   {
-    "id": "pvpwatch_tp_button_2",
-    "msg": "传送并观战"
-  },
-  {
-    "id": "pvpwatch_tp_button_1",
-    "msg": "仅传送"
-  },
-  {
-    "id": "pvpwatch_tp_describe",
-    "msg": "该玩家正在进行%s，是否<span color=\"#ffc65f\">传送并观战</>?"
-  },
-  {
-    "id": "pvpwatch_tp_title",
-    "msg": "传送并观战"
-  },
-  {
     "id": "appearance_shop_tip_title",
     "msg": "购买小票"
-  },
-  {
-    "id": "territory_trial_token_exchange_missing",
-    "msg": "兑换道具不足"
-  },
-  {
-    "id": "territory_trial_token_exchange_confirm",
-    "msg": "是否兑换{0}?"
   },
   {
     "id": "grass_trial_battle_rule",
@@ -35179,40 +35451,332 @@
     "msg": "造物距离过远，创建失败"
   },
   {
-    "id": "pet_fruit_use_tips_ban_livable",
-    "msg": "庇护所周边缺少适宜环境"
+    "id": "guess_sign_reward",
+    "msg": "每日补给"
   },
   {
-    "id": "pet_fruit_use_tips_ban_lava",
-    "msg": "庇护所周边缺少熔岩环境"
+    "id": "guess_sign_reward_next_time",
+    "msg": "%s后可领"
   },
   {
-    "id": "NPC_BATTLE_TIP_006",
-    "msg": "可恶，这肯定是作弊！"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_005",
-    "msg": "干的漂亮！"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_004",
-    "msg": "相信自己！"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_003",
-    "msg": "加油啊"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_002",
-    "msg": "不堪一击，下一个。"
+    "id": "guess_tody_schedule",
+    "msg": "当前赛程"
   },
   {
     "id": "NPC_BATTLE_TIP_001",
     "msg": "哼，见识下木桶小队的威力吧！"
   },
   {
+    "id": "NPC_BATTLE_TIP_002",
+    "msg": "不堪一击，下一个。"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_003",
+    "msg": "加油啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_004",
+    "msg": "相信自己！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_005",
+    "msg": "干的漂亮！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_006",
+    "msg": "可恶，这肯定是作弊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_007",
+    "msg": "小心，这个贝古斯不对劲！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_008",
+    "msg": "太棒了！这次它没倒下！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_009",
+    "msg": "似乎还差一点，我们帮帮它！！"
+  },
+  {
+    "id": "guess_stage_1",
+    "msg": "选手已公布"
+  },
+  {
+    "id": "guess_stage_2",
+    "msg": "阵容已公布"
+  },
+  {
+    "id": "guess_stage_3",
+    "msg": "技能已公布"
+  },
+  {
+    "id": "guess_stage_4",
+    "msg": "对战中…"
+  },
+  {
+    "id": "guess_stage_empty",
+    "msg": "赛场打扫中…"
+  },
+  {
+    "id": "guess_current_generation",
+    "msg": "当前阶段"
+  },
+  {
+    "id": "guess_support",
+    "msg": "为TA打气"
+  },
+  {
+    "id": "guess_defeat_text_1",
+    "msg": "打气气球不足"
+  },
+  {
+    "id": "guess_defeat_text_2",
+    "msg": "此阶段已结束"
+  },
+  {
+    "id": "guess_defeat_text_3",
+    "msg": "剩余打气额度不足"
+  },
+  {
+    "id": "guess_global_support",
+    "msg": "全服打气气球数："
+  },
+  {
+    "id": "guess_my_support",
+    "msg": "已打气："
+  },
+  {
+    "id": "guess_finished_tips",
+    "msg": "此阶段投票结束"
+  },
+  {
+    "id": "guess_stage_countdown",
+    "msg": "%s后开启"
+  },
+  {
+    "id": "guess_watch_option",
+    "msg": "观看"
+  },
+  {
+    "id": "guess_during_time",
+    "msg": "赛场打扫中…"
+  },
+  {
+    "id": "guess_support_num",
+    "msg": "打气数量："
+  },
+  {
+    "id": "guess_support_comfirmation_tips",
+    "msg": "打气后无法撤回"
+  },
+  {
+    "id": "guess_earning_detail_title",
+    "msg": "第%d天 收益明细"
+  },
+  {
+    "id": "guess_earning_detail_des1",
+    "msg": "比赛结果"
+  },
+  {
+    "id": "guess_earning_detail_des2",
+    "msg": "阶段Ⅰ"
+  },
+  {
+    "id": "guess_earning_detail_des3",
+    "msg": "阶段Ⅱ"
+  },
+  {
+    "id": "guess_earning_detail_des4",
+    "msg": "阶段Ⅲ"
+  },
+  {
+    "id": "guess_earning_detail_des5",
+    "msg": "最终结算："
+  },
+  {
+    "id": "guess_earning_detail_des6",
+    "msg": "本周胜场（含观战）"
+  },
+  {
+    "id": "guess_earning_detail_des7",
+    "msg": "已达上限"
+  },
+  {
+    "id": "guess_showdown_detail_title",
+    "msg": "赛事详情"
+  },
+  {
+    "id": "guess_showdown_detail_icon",
+    "msg": "回顾"
+  },
+  {
+    "id": "guess_showdown_detail_subtitle1",
+    "msg": "赛程回顾"
+  },
+  {
+    "id": "guess_showdown_detail_subtitle2",
+    "msg": "收益明细"
+  },
+  {
+    "id": "guess_showdown_detail_date",
+    "msg": "第%s天"
+  },
+  {
+    "id": "guess_showdown_notstarted_des1",
+    "msg": "今日"
+  },
+  {
+    "id": "guess_showdown_notstarted_des2",
+    "msg": "（当前）"
+  },
+  {
+    "id": "guess_showdown_notstarted_des3",
+    "msg": "等待中…"
+  },
+  {
+    "id": "guess_showdown_detail_today",
+    "msg": "今日对决"
+  },
+  {
+    "id": "guess_showdown_detail_former",
+    "msg": "往期对决"
+  },
+  {
+    "id": "guess_showdown_emoji_1",
+    "msg": "表情"
+  },
+  {
+    "id": "guess_showdown_emoji_2",
+    "msg": "表情"
+  },
+  {
+    "id": "guess_showdown_close_danmaku",
+    "msg": "关闭弹幕"
+  },
+  {
+    "id": "guess_showdown_close_danmaku_2",
+    "msg": "开启弹幕"
+  },
+  {
+    "id": "guess_showdown_support_num",
+    "msg": "已打气："
+  },
+  {
+    "id": "guess_showdown_review_des2",
+    "msg": "20:00开始"
+  },
+  {
+    "id": "guess_progress_reward_title",
+    "msg": "累计奖励"
+  },
+  {
+    "id": "guess_progress_reward_des",
+    "msg": "累计获得："
+  },
+  {
+    "id": "guess_progress_reward_option",
+    "msg": "全部领取"
+  },
+  {
+    "id": "guess_support_tips",
+    "msg": "对单名选手首次打气最少10个「打气气球」，追加不限数量。\n整场比赛对双方选手总计投出的「打气气球」最多999个。\n「打气气球」一旦投出，不可撤回。"
+  },
+  {
+    "id": "guess_watch_transfer_tips_title",
+    "msg": "观看"
+  },
+  {
+    "id": "guess_watch_transfer_tips",
+    "msg": "对决在魔法学院竞技场举行，是否传送至附近并观看比赛？"
+  },
+  {
+    "id": "guess_watch_transfer_tips_option_1",
+    "msg": "取消"
+  },
+  {
+    "id": "guess_watch_transfer_tips_option_2",
+    "msg": "传送并观看"
+  },
+  {
+    "id": "guess_watch_transfer_error_tips",
+    "msg": "请前往魔法学院后重试"
+  },
+  {
+    "id": "Error_Code_21600",
+    "msg": "比赛已结束，正在打扫赛场......"
+  },
+  {
+    "id": "Error_Code_3661",
+    "msg": "点击太快啦~请稍后重试"
+  },
+  {
+    "id": "Error_Code_21601",
+    "msg": "请稍后重试"
+  },
+  {
     "id": "grass_trial_progressing",
     "msg": "正在进行：{0}"
+  },
+  {
+    "id": "BLINDBOX_LOTTERY_TIPS_01",
+    "msg": "收集进度"
+  },
+  {
+    "id": "BLINDBOX_LOTTERY_TIPS_02",
+    "msg": "秋日丰收礼券不足"
+  },
+  {
+    "id": "BLINDBOX_LOTTERY_TIPS_03",
+    "msg": "恭喜获得 %s*%s"
+  },
+  {
+    "id": "BLINDBOX_LOTTERY_TIPS_04",
+    "msg": "已达成收集进度，请稍后再试"
+  },
+  {
+    "id": "Error_Code_3520",
+    "msg": "活动道具不足"
+  },
+  {
+    "id": "Error_Code_3521",
+    "msg": "当前存在奖励待领取，请稍后再试"
+  },
+  {
+    "id": "Error_Code_3522",
+    "msg": "全部可可果图案配额已耗尽"
+  },
+  {
+    "id": "Error_Code_3523",
+    "msg": "槽位下标越界或非法"
+  },
+  {
+    "id": "Error_Code_3524",
+    "msg": "槽位已被开启过"
+  },
+  {
+    "id": "Error_Code_3525",
+    "msg": "当前档进度未达到领奖阈值"
+  },
+  {
+    "id": "Error_Code_3526",
+    "msg": "无效参数"
+  },
+  {
+    "id": "Error_Code_3527",
+    "msg": "当天开启次数已达上限"
+  },
+  {
+    "id": "SeasonBattleRuleTitle",
+    "msg": "诅咒之路"
+  },
+  {
+    "id": "SeasonBattleRuleInfo",
+    "msg": "<span color=\"#d56c1f\">噩梦挑战</>\n精灵们被困在「月面」上，长期的噩梦侵蚀让它们丧失了理智，也赋予了它们更为强大的力量。\n噩梦挑战根据敌方精灵不同，会适用不同的战斗规则。\n\n<span color=\"#d56c1f\">星灵祝福</>\n击败噩梦精灵后，它们会恢复为正常状态，并为那枚特殊的星盘充能。\n充能后的星盘为小洛克提供额外的战斗增益效果，快去救回更多的精灵吧！\n尤里克也将它的涂鸦与星盘一并存放。"
+  },
+  {
+    "id": "s4_petbase_required_tip",
+    "msg": "当前小队中必须携带银月狼王家族、奇遇新精灵进行战斗"
   },
   {
     "id": "Error_Code_50748",
@@ -35221,6 +35785,82 @@
   {
     "id": "relationtree_invite_stranger_online_tips",
     "msg": "只有与房主成为好友，才能邀请其他魔法师加入队伍哦。"
+  },
+  {
+    "id": "academy_alchemy_privilege_title_text",
+    "msg": "获取学分途径"
+  },
+  {
+    "id": "academy_battle_privilege_tips",
+    "msg": "<span color=\"#d56c1f\">「战斗学」分院特权说明</>\n炼金合成「适格钥匙」「残缺魔镜」消耗许愿星和洛克贝的数量减少<span color=\"#d56c1f\">20%</>。"
+  },
+  {
+    "id": "academy_alchemy_privilege_tips",
+    "msg": "<span color=\"#d56c1f\">「炼金学」分院特权说明</>\n炼金合成合成各类咕噜球时，有概率获得更多的数量。"
+  },
+  {
+    "id": "academy_alchemy_privilege_text",
+    "msg": "「炼金学」分院特权生效:本次额外获得<span color=\"#70c800\">{0}</>"
+  },
+  {
+    "id": "academy_alchemy_privilege_tips_text",
+    "msg": "<span color=\"#d56c1f\">「炼金学」分院特权说明</>\n炼金合成合成各类咕噜球时，有概率获得更多的数量。"
+  },
+  {
+    "id": "academy_pet_privilege_name",
+    "msg": "确认"
+  },
+  {
+    "id": "academy_pet_privilege_text",
+    "msg": "家园室内摆放了精灵学分院赠与的「学院小窝」，需要先收回才能选择其他分院。"
+  },
+  {
+    "id": "academy_pet_privilege_btn1",
+    "msg": "取消"
+  },
+  {
+    "id": "academy_pet_privilege_btn2",
+    "msg": "前往家园"
+  },
+  {
+    "id": "academy_ceremony_privilege_tips",
+    "msg": "<span color=\"#d56c1f\">「仪典学」分院特权内容</>\n每日可额外刷新一次随机商店的次数。"
+  },
+  {
+    "id": "academy_ceremony_privilege_btn",
+    "msg": "{0}/{1}"
+  },
+  {
+    "id": "academy_ceremony_privilege_btn_text",
+    "msg": "刷新"
+  },
+  {
+    "id": "academy_ceremony_privilege_btn_no_time_tips",
+    "msg": "今日刷新次数已用完"
+  },
+  {
+    "id": "Error_Code_2577",
+    "msg": "请先翻完当前这批牌"
+  },
+  {
+    "id": "Error_Code_2578",
+    "msg": "当前无新的时装"
+  },
+  {
+    "id": "Error_Code_3564",
+    "msg": "家园室内摆放了学院小窝，需要先收回，才能转到其他学院"
+  },
+  {
+    "id": "Error_Code_3565",
+    "msg": "今日刷新次数已用完"
+  },
+  {
+    "id": "academy_ceremony_privilege_empty_text",
+    "msg": "您已拥有皮卡时装随机商店中的所有时装。"
+  },
+  {
+    "id": "academy_ceremony_privilege_exchange_text",
+    "msg": "炼金学院专属配方"
   },
   {
     "id": "unknow_song",
@@ -35233,10 +35873,6 @@
   {
     "id": "q_song_unplayable",
     "msg": "该歌曲因版权限制无法播放"
-  },
-  {
-    "id": "warehouse_box_name",
-    "msg": "精灵盒子"
   },
   {
     "id": "under_development_tips",
@@ -35255,6 +35891,10 @@
     "msg": "即将结束"
   },
   {
+    "id": "sprint_catch_buff_title",
+    "msg": "赛季奇遇精灵捕捉加速！"
+  },
+  {
     "id": "grass_trial_minimum_skill_limit",
     "msg": "精灵最少装配{0}个技能"
   },
@@ -35271,68 +35911,80 @@
     "msg": "当使用<span color=\"#D56C1F\">美愿结晶、幽影石、结晶枝</>等材料，对星霜灯、星火灯、南瓜灯等造物进行升级时，会自动提升全服贡献度"
   },
   {
-    "id": "Error_Code_50783",
-    "msg": "当前状态不允许该操作"
+    "id": "rltt_wish_request_1",
+    "msg": "是否消耗%s许愿星发出祝福申请，祝福成功后会获得%s祝福星 "
+  },
+  {
+    "id": "rltt_wish_request_2",
+    "msg": "申请成功后将消耗"
+  },
+  {
+    "id": "rltt_wish_agree_1",
+    "msg": "是否消耗<span color=\"#d56c1f\">%s许愿星</>同意祝福请求，同意后将获得<span color=\"#d56c1f\">%s祝福星</>"
+  },
+  {
+    "id": "rltt_wish_agree_2",
+    "msg": "同意后将消耗"
+  },
+  {
+    "id": "rltt_wish_friend_max",
+    "msg": "今天已经和%s互相祝福过了"
+  },
+  {
+    "id": "rltt_wish_today_max",
+    "msg": "已达到今日祝福次数上限%s次，请明天再来哦 "
+  },
+  {
+    "id": "rltt_star_lack",
+    "msg": "许愿星数量不足"
   },
   {
     "id": "amycrystal_stage_caption",
     "msg": "美愿树的萌芽阶段展示"
   },
   {
-    "id": "owl_sanctuary_levelup_guest_tools_pause",
-    "msg": "暂停计时"
-  },
-  {
-    "id": "ai_coach_20",
-    "msg": "帮我用迪莫推荐一套阵容吧~"
-  },
-  {
-    "id": "ai_coach_21",
-    "msg": "试用"
-  },
-  {
-    "id": "pet_rollback_free_title_1",
-    "msg": "放生后返还的材料"
-  },
-  {
-    "id": "pet_rollback_free_tip",
-    "msg": "本次放生含有<span color=\"#d56c1f\">可时光回溯</>的精灵，<span color=\"#d56c1f\">回溯并放生</>将消耗<span color=\"#d56c1f\">1次</>时光回溯次数"
-  },
-  {
-    "id": "pet_rollback_free_des_2",
-    "msg": "仅放生奖励"
-  },
-  {
-    "id": "pet_rollback_free_des_1",
-    "msg": "回溯并放生奖励"
-  },
-  {
-    "id": "pet_rollback_check_title",
-    "msg": "时光回溯确认"
+    "id": "pet_rollback_number_tip",
+    "msg": "剩余次数：<span color=\"#d56c1f\">%s次</>"
   },
   {
     "id": "pet_rollback_check_describe",
     "msg": "精灵回溯不可逆，回溯后精灵在本期回溯活动中无法再次回溯。\n\n是否确定回溯？"
   },
   {
-    "id": "pet_rollback_number_tip",
-    "msg": "剩余次数：<span color=\"#d56c1f\">%s次</>"
+    "id": "pet_rollback_check_title",
+    "msg": "时光回溯确认"
   },
   {
-    "id": "nightmare_pet_discovered",
-    "msg": "小加尔想了想，染上了几笔<orange>污染</>的颜色！"
+    "id": "pet_rollback_free_des_1",
+    "msg": "回溯并放生奖励"
   },
   {
-    "id": "mix_pet_discovered",
-    "msg": "小加尔想了想，染上了几笔<orange>混乱</>的颜色！"
+    "id": "pet_rollback_free_des_2",
+    "msg": "仅放生奖励"
   },
   {
-    "id": "fantastic_pet_discovered",
-    "msg": "小加尔想了想，染上了几笔<orange>奇异</>的颜色！"
+    "id": "pet_rollback_free_tip",
+    "msg": "本次放生含有<span color=\"#d56c1f\">可时光回溯</>的精灵，<span color=\"#d56c1f\">回溯并放生</>将消耗<span color=\"#d56c1f\">1次</>时光回溯次数"
+  },
+  {
+    "id": "social_action_ball_lack",
+    "msg": "没有可用于赠送的咕噜球"
+  },
+  {
+    "id": "social_action_ball_repeat",
+    "msg": "对方今天已经送过你咕噜球啦，明天再来吧"
+  },
+  {
+    "id": "pet_rollback_free_title_1",
+    "msg": "放生后返还的材料"
   },
   {
     "id": "pet_rollback_free_ban_1",
     "msg": "可回溯精灵无法被批量放生"
+  },
+  {
+    "id": "pet_rollback_free_button_1",
+    "msg": "仅放生"
   },
   {
     "id": "pet_rollback_free_button_2",
@@ -35343,60 +35995,52 @@
     "msg": "不可输入"
   },
   {
-    "id": "pet_rollback_free_button_1",
-    "msg": "仅放生"
-  },
-  {
     "id": "mall_preview_buybtn",
     "msg": "购买礼包"
-  },
-  {
-    "id": "harmonyos_ban_qqmusic_tips",
-    "msg": "QQ音乐接入正在准备中，请小洛克们耐心等待"
-  },
-  {
-    "id": "bookworld_time_up",
-    "msg": "绘本场景即将消散，请尽快捕捉并离开场景"
-  },
-  {
-    "id": "pet_free_describe_2",
-    "msg": "放生后返还的材料"
-  },
-  {
-    "id": "pet_free_describe_1",
-    "msg": "放生以下精灵"
   },
   {
     "id": "journey_ban_boss_battle_tips",
     "msg": "请先完成任务「{0}」"
   },
   {
-    "id": "grasstrial_text_8",
-    "msg": "解锁难度：%s"
+    "id": "fashion_mall_exclude_owned_item",
+    "msg": "已拥有商品扣除"
   },
   {
-    "id": "grasstrial_text_9",
-    "msg": "冒险日志解锁新条目"
+    "id": "social_action_egg_tip_confirm",
+    "msg": "是否向附近玩家赠送精灵蛋"
   },
   {
-    "id": "grasstrial_text_10",
-    "msg": "冒险日志解锁新奖励"
+    "id": "social_action_egg_tip_once",
+    "msg": "相同玩家每天只能领取一次哦"
   },
   {
-    "id": "grasstrial_text_11",
-    "msg": "玩法说明"
+    "id": "harmonyos_ban_qqmusic_tips",
+    "msg": "QQ音乐接入正在准备中，请小洛克们耐心等待"
   },
   {
-    "id": "grasstrial_text_12",
-    "msg": "<span color=\"#d56c1f\">玩法说明</>\n八大徽章是每个魔法师的英勇证明！完成草系大魔法师罗兰的试炼即可获得草系徽章！\n\n<span color=\"#d56c1f\">基础规则</>\n·选择1只精灵并携带3个初始技能即可开始试炼，推荐使用60级5星成长的精灵，精灵觉醒数值不会生效。\n·挑战路径由3×8个挑战节点构成，节点上会出现野生精灵、首领精灵、魔力之源、远行商人等随机事件。\n·挑战过程中可以获得对手精灵的特性、技能以及具备特殊效果的碎片，此外还可以通过技能融合让精灵进一步成长。\n·最多携带6个技能进入战斗，每个技能在使用后会进入3回合CD，挑战过程中的生命回复会受到一定程度的限制。\n·完成所有节点视为挑战成功，挑战过程中精灵力竭视为挑战失败，失败后再次挑战不会继承上次进度。\n\n<span color=\"#d56c1f\">技能融合</>\n·击败对手后掉落的奖励技能可以选择直接获得或者进行技能融合。\n·技能融合需要选择1个当前技能组中的同类技能（攻击/状态/防御）作为胚子，非同类技能无法进行融合。\n·融合后的技能会继承胚子技能的系别、伤害类型（物攻/魔攻）和效果，并额外获得奖励技能的效果。\n·融合后技能的能耗和威力会继承两技能中的最高值，同类型的效果在融合后会进行加算（如连击数、威力倍数等）。\n·每个胚子技能最多只能融合2次。\n\n<span color=\"#d56c1f\">挑战说明</>\n·草系徽章试炼设有3个难度，初始仅开放默认难度，通关后自动解锁进阶难度。\n·草系徽章试炼设有18个系别挑战槽位，使用对应主系别的精灵完成挑战即可解锁奖励，完成高难度挑战自动视为完成低难度挑战。\n\n<span color=\"#d56c1f\">玩法奖励</>\n·首次通关挑战即可以获得纪念家具「草系徽章」、共鸣魔法「光合治愈」，武斗酷猫首领信物「月光罐头」。\n·完成对应系别的挑战即可累计冒险进度，完成所有18个系别槽位的冒险进度后可以获得「草系徽章背包挂饰」。\n·每次挑战结算时会根据本次进度获得洛克贝和星光，精灵越稀有，洛克贝获取效率越高。\n·洛克贝和星光均受到游戏内整体获取上限的限制。\n·使用不同精灵通关最高难度的挑战还可以获得专属精灵奖牌「草系奖牌」。\n·挑战过程中遇到新的精灵可以解锁冒险日志中的地区探索奖励，包含「分光水晶」地区主题的「名片」和「称号」。\n·草系徽章试炼活动开启期间参与试炼即可获得活动积分，完成难度1累计可以获得600积分，难度2累计可以获得900积分，难度3累计可以获得1200积分，积分达标后可以兑换相应的活动奖励，活动结束后参与挑战将不再获得活动积分。"
+    "id": "pet_free_describe_1",
+    "msg": "放生以下精灵"
   },
   {
-    "id": "grasstrial_text_13",
-    "msg": "%s家族获得了%s"
+    "id": "pet_free_describe_2",
+    "msg": "放生后返还的材料"
   },
   {
-    "id": "grasstrial_text_14",
-    "msg": "使用%s主系别精灵通关%s"
+    "id": "catch_forbid_glass",
+    "msg": "炫彩精灵无法使用棱镜球捕捉哦"
+  },
+  {
+    "id": "catch_forbid_chaos_three",
+    "msg": "噩梦残留精灵无法使用棱镜球捕捉哦"
+  },
+  {
+    "id": "catch_forbid_chaos_two",
+    "msg": "这只精灵受到噩梦力量的保护，咕噜球无法发挥作用"
+  },
+  {
+    "id": "catch_forbid_vacant",
+    "msg": "这只精灵受到魔力波动的影响，咕噜球无法发挥作用"
   },
   {
     "id": "Error_Code_2884",
@@ -35405,6 +36049,38 @@
   {
     "id": "grass_trial_type_adventure_progress",
     "msg": "使用主系别为<span color=\"#fece56\">{0}</>的精灵完成挑战任务"
+  },
+  {
+    "id": "activity_slot_in_progress",
+    "msg": "前往"
+  },
+  {
+    "id": "activity_slot_notstarted",
+    "msg": "后开始"
+  },
+  {
+    "id": "activity_slot_finished",
+    "msg": "已结束"
+  },
+  {
+    "id": "Join_Academy_Confirm_Title",
+    "msg": "选择分学院"
+  },
+  {
+    "id": "Join_Academy_Confirm_Des1",
+    "msg": "确认加入后，若想要切换分学院："
+  },
+  {
+    "id": "Join_Academy_Confirm_Des2",
+    "msg": "1.原分学院学分将会冻结，新分学院学分重新开始计算\n2.原分学院特权将会回收，加入新分学院后获得新特权\n3.<span color=\"#d56c1f\">两周内</>无法切换学院，同时<span color=\"#d56c1f\">已领取的非学分奖励将无法重复领取</>"
+  },
+  {
+    "id": "Join_Academy_Confirm_Des3",
+    "msg": "请确认<span color=\"#d56c1f\">是否加入【{0}】</>？"
+  },
+  {
+    "id": "Join_Academy_Confirm_Button",
+    "msg": "加入学院"
   },
   {
     "id": "grass_trial_activity_text_1",
@@ -35419,8 +36095,64 @@
     "msg": "由于本次回顾洛克贝已超过领取上限，噜噜已经将超出上限部分放入邮件~"
   },
   {
-    "id": "sprint_catch_buff_title",
-    "msg": "赛季奇遇精灵捕捉加速！"
+    "id": "Change_Academy_Confirm_Title",
+    "msg": "切换学院"
+  },
+  {
+    "id": "Change_Academy_Confirm_Des1",
+    "msg": "当前学院为<span color=\"#d56c1f\">【{0}】</>，若想要切换访学学院："
+  },
+  {
+    "id": "Change_Academy_Confirm_Des2",
+    "msg": "1.原学院学期学分将会冻结，新学院学期学分重新开始计算\n2.学院特权将会回收，完成新学院入学考试后获得新特权\n3.<span color=\"#d56c1f\">两周内</>无法再次切换学院"
+  },
+  {
+    "id": "Change_Academy_Confirm_Des3",
+    "msg": "请确认<span color=\"#d56c1f\">是否切换【{0}】</>？"
+  },
+  {
+    "id": "Change_Academy_Confirm_Button",
+    "msg": "切换学院"
+  },
+  {
+    "id": "Change_Academy_Hand_Title",
+    "msg": "切换学院"
+  },
+  {
+    "id": "Change_Academy_Hand_Des1",
+    "msg": "切换学院<span color=\"#d56c1f\">需与对应学院的玩家牵手</>进行，未牵手则无法进行学院切换，不如试着找找好友来帮帮你？"
+  },
+  {
+    "id": "Change_Academy_Hand_Button",
+    "msg": "查看好友"
+  },
+  {
+    "id": "Invite_Academy_Tips",
+    "msg": "后续可切换其他学院"
+  },
+  {
+    "id": "ACADEMY_SEMESTER_SCORE",
+    "msg": "总学分：{0}"
+  },
+  {
+    "id": "Academy_tips_title",
+    "msg": "{0}成就"
+  },
+  {
+    "id": "Academy_tips_score_text",
+    "msg": "总学分："
+  },
+  {
+    "id": "owl_fruit_search",
+    "msg": "请输入精灵果实名称"
+  },
+  {
+    "id": "academy_reward_score_text",
+    "msg": "学期奖励待领取"
+  },
+  {
+    "id": "academy_semester_end_time ",
+    "msg": "结束时间：{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}"
   },
   {
     "id": "Error_Code_2865",
@@ -35435,36 +36167,12 @@
     "msg": "没有索引到对应队伍"
   },
   {
+    "id": "System_Setting_Change_Text",
+    "msg": "画面品质设置成功，部分效果重启后生效"
+  },
+  {
     "id": "actibity_gift_unlock_task_tips",
     "msg": "还没满足条件呢，需要达成任务后才可以领取奖励噢！"
-  },
-  {
-    "id": "Error_Code_2165",
-    "msg": "通行证主题已确认，请前往通行证查看"
-  },
-  {
-    "id": "qqmusic_disclaimer",
-    "msg": "歌曲来源自QQ音乐"
-  },
-  {
-    "id": "owl_sanctuary_levelup_description",
-    "msg": "当前庇护所解锁的效果：\n%s"
-  },
-  {
-    "id": "challenge_dialogue_30",
-    "msg": "“哼哼，又到我闪耀的时刻了吗？”"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_009",
-    "msg": "似乎还差一点，我们帮帮它！！"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_008",
-    "msg": "太棒了！这次它没倒下！"
-  },
-  {
-    "id": "NPC_BATTLE_TIP_007",
-    "msg": "小心，这个贝古斯不对劲！"
   },
   {
     "id": "building_npc_recycle_warnning_title",
@@ -35475,24 +36183,68 @@
     "msg": "回收造物时不会返还已经用于造物升级的材料，确定回收吗？"
   },
   {
-    "id": "grasstrial_text_15",
-    "msg": "击败奖励×%s"
+    "id": "interactiontree_cifu_random_egg_confim",
+    "msg": "1.赐福后，精灵蛋孵化出的精灵，其<span color=\"#d56c1f\">性格、特长、个体资质的种类</>将与赐福精灵保持一致。\n2.神奇的蛋完成赐福后，将转化为赐福精灵进化链对应的珍贵精灵蛋。"
   },
   {
-    "id": "grasstrial_text_16",
-    "msg": "请至少选择一个技能"
+    "id": "Error_Code_2165",
+    "msg": "通行证主题已确认，请前往通行证查看"
   },
   {
-    "id": "grasstrial_text_17",
-    "msg": "可选择技能已达上限"
+    "id": "activity_SturgeonCooperation_TaskGroup_Dec",
+    "msg": " 孵化云梦豚"
   },
   {
-    "id": "grasstrial_text_18",
-    "msg": "已装备技能"
+    "id": "activity_sturgeon_cooperation_egg_title",
+    "msg": "云梦豚蛋"
   },
   {
-    "id": "grasstrial_text_19",
-    "msg": "%s的玩家获得"
+    "id": "activity_sturgeon_cooperation_egg_des",
+    "msg": "云梦豚蛋的孵化，需要干净的水域生态，也需要陪伴与关怀…\n多去看看它吧~"
+  },
+  {
+    "id": "academy_semester_reward_tips",
+    "msg": "<span color=\"#d56c1f\">学期结束后</>将根据本学期奖章阶数发放对应奖励，请前往对应学院代表处领取"
+  },
+  {
+    "id": "activity_sturgeon_cooperation_modify_title",
+    "msg": "我希望精灵名字是"
+  },
+  {
+    "id": "rltt_wish_agree_title",
+    "msg": "同意祝福提示"
+  },
+  {
+    "id": "rltt_wish_request_title",
+    "msg": "祝福申请提示"
+  },
+  {
+    "id": "share_video_code_loading_tips",
+    "msg": "上传到云端中，请稍后"
+  },
+  {
+    "id": "pet_fruit_search_empty_tips",
+    "msg": "未搜索到果实"
+  },
+  {
+    "id": "shrea_video_code_loading_done",
+    "msg": "视频已上传云端，快去分享吧！"
+  },
+  {
+    "id": "qqmusic_disclaimer",
+    "msg": "歌曲来源自QQ音乐"
+  },
+  {
+    "id": "daily_exchange_wish_num",
+    "msg": "本日已凝结许愿星"
+  },
+  {
+    "id": "daily_exchange_wish_up_text",
+    "msg": "周六、日上限提升"
+  },
+  {
+    "id": "Screenshot_sharing_tips",
+    "msg": "截图成功，快分享给朋友们吧！"
   },
   {
     "id": "umg_FacePhoto_1",
@@ -35503,8 +36255,44 @@
     "msg": "去看看"
   },
   {
-    "id": "grasstrial_text_20",
-    "msg": "获得比例"
+    "id": "social_action_in_progress",
+    "msg": "正在进行此动作哦"
+  },
+  {
+    "id": "activity_sturgeonCooperation_certificate_lock_tip",
+    "msg": "完成「孵蛋日记」中的任务后可领取"
+  },
+  {
+    "id": "social_action_photo_thumb_up",
+    "msg": "点赞"
+  },
+  {
+    "id": "BP_rule_tips_23004",
+    "msg": "<span color=\"#d56c1f\">月涌通行证</>\n本次通行证提供了两种主题！\n日之光：圣凯布米龙。\n月之华：月使鹭纳。\n\n<span color=\"#d56c1f\">月涌通行证规则说明</>\n通行证分为“日之光”和“月之华”主题，洛克们可二选一。\n发行方将赠予每位小洛克官方指定的“基础礼券”。\n提升通行证等级，可领取礼券所对应的各种奖励。还可购买“（闪耀）契约礼券”来解锁更多更丰厚的奖励。\n请注意！解锁对应主题礼券后，将锁定所选主题，不可再进行主题切换。\n（闪耀）契约礼券是发行方为小洛克准备的进阶馈礼，购买并提升等级，就可获得所选主题对应的限定明星精灵。购买双人（闪耀）契约礼券，在解锁进阶礼券时，可获得另一主题对应档位副券，在背包中使用赠予好友，受赠者可免费解锁对应主题档位礼券。所有礼券在通行证结束5小时前下架。\n\n<span color=\"#d56c1f\">副券赠送说明</>\n将副券赠送给好友时需满足一定的条件限制：需要解锁与好友在社交关系树中的私聊功能，成为好友超过4小时且好友的魔法师等级达到12级。<span color=\"#d56c1f\">若对方已解锁任意主题礼券，将无法再获赠副券。</>\n若副券在24小时内未被获赠方领取，将通过邮件自动退回。邮件有效期为365天，请及时领取。\n\n副券仅在对应赛季期间内有效。契约副券过期后将转化为410洛克钻，闪耀契约副券过期后将转化为820洛克钻，请及时使用或赠送。\n副券过期后，兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n从邮件中领取的退回副券，若因赛季更迭已过期，将自动兑换为等价洛克钻。兑换记录可在「背包 - 重要」页签中查看。查看后将不再提示。\n\n<span color=\"#d56c1f\">等级说明</>\n等级越高，发行方回馈的奖励就越多。\n可以通过以下主要途径来提升等级：进行各种可以磨练和证明魔法师实力的行为，如捕捉精灵、挑战稀兽花种、挑战首领精灵等。\n\n<span color=\"#d56c1f\">任务说明</>\n日常任务每日04:00(UTC +8)发布。\n热力勋印获取受周热力勋印上限约束。周热力勋印上限刷新时间为每周一04:00(UTC +8)。所有任务随当期通行证结束一起关闭。\n\n<span color=\"#d56c1f\">特殊说明</>\n通行证结束后，已解锁但未领取的奖励将通过邮件发送至邮箱当中，邮件有效期为365天，请及时领取。\n好友锁定主题信息的更新存在短暂延迟，并非实时同步。\n\n<span color=\"#d56c1f\">记忆商店</>\n受到小洛克的愿力影响，过往赛季的部分奖励将会在记忆商店中出现。各位小洛克可以用记忆代币兑换各种限定奖励，购买当期（闪耀）契约礼券可额外解锁商品兑换，记忆代币可由通行证获得。"
+  },
+  {
+    "id": "Error_Code_2901",
+    "msg": "编队不符合规则要求"
+  },
+  {
+    "id": "Error_Code_2902",
+    "msg": "该玩法暂未开放"
+  },
+  {
+    "id": "CIFU_PEG_UNDISCOVERED",
+    "msg": "这只精灵无法赐福哦"
+  },
+  {
+    "id": "Error_Code_3641",
+    "msg": "这只精灵无法赐福哦"
+  },
+  {
+    "id": "activity_sturgeon_cooperation_egg_btn_title",
+    "msg": "前往孵化"
+  },
+  {
+    "id": "social_action_photo_lack",
+    "msg": "没有可分享的照片哦"
   },
   {
     "id": "grass_trial_touch_limit",
@@ -35513,6 +36301,14 @@
   {
     "id": "grass_trial_reward_title",
     "msg": "完成{0}"
+  },
+  {
+    "id": "activity_sturgeonCooperation_tab_lock_tip",
+    "msg": "请等待任务解锁哦"
+  },
+  {
+    "id": "apply_all_wand_tips",
+    "msg": "已应用全部"
   },
   {
     "id": "Error_Code_21550",
@@ -35575,6 +36371,18 @@
     "msg": "取消"
   },
   {
+    "id": "Error_Code_3566",
+    "msg": "当前无进行中的学期"
+  },
+  {
+    "id": "Error_Code_3568",
+    "msg": "当前学院存在未领取奖励"
+  },
+  {
+    "id": "Error_Code_3569",
+    "msg": "请完成绩点大赛后再来加入吧~"
+  },
+  {
     "id": "quick_select_rule",
     "msg": "<span color=\"#d56c1f\">快速选择</>\n对全部盒子中符合条件且未被选中的精灵（若处于筛选中，则对筛选列表的精灵）进行快速选择\n<span color=\"#d56c1f\">当前分页可选精灵</>\n该分页内，可被直接选中的精灵。不包括家园中、标记中、对战编队中和不可选中等状态下的精灵"
   },
@@ -35599,80 +36407,1004 @@
     "msg": "当前兑换券内的时装已经全部兑换完了~"
   },
   {
-    "id": "grasstrial_text_21",
-    "msg": "搜索精灵"
+    "id": "season_handbook_task_explain_text_3",
+    "msg": "{0}家族"
   },
   {
-    "id": "Error_Code_2902",
-    "msg": "该玩法暂未开放"
+    "id": "season_handbook_task_explain_text_2",
+    "msg": "捕捉精灵家族内任意阶级的异色精灵，即可增加任务进度。\n需要收集<span color=\"#d56c1f\">16种</>精灵家族，当前收集进度如下："
   },
   {
-    "id": "Error_Code_2901",
-    "msg": "编队不符合规则要求"
+    "id": "season_handbook_task_explain_text_1",
+    "msg": "S{0}赛季异色收集进度"
+  },
+  {
+    "id": "season_battle_wish",
+    "msg": "战斗增益："
   },
   {
     "id": "sp_xueying_bond_not_own",
     "msg": "到底是什么呢？【花园里的秘密礼物】活动获得精灵蛋并在商店购买礼包后可以查看该华丽徽章的效果"
   },
   {
-    "id": "owl_fruit_search",
-    "msg": "请输入精灵果实名称"
+    "id": "ai_filter_conclusion",
+    "msg": "斯嘉丽总结了当前智能筛选的内容：\n<span color=\"#d56c1f\">%s</>"
   },
   {
-    "id": "grasstrial_text_22",
-    "msg": "精灵踪迹"
+    "id": "ai_batch_marking_tip",
+    "msg": "这<span color=\"#d56c1f\">%d</>只精灵的标记将被调整"
   },
   {
-    "id": "grasstrial_text_23",
-    "msg": "活动积分"
+    "id": "ai_batch_marked_tip",
+    "msg": "已完成标记的调整"
   },
   {
-    "id": "grasstrial_text_24",
-    "msg": "出现了一些小问题，请尝试暂离后重新回到挑战/(ㄒoㄒ)/~~"
+    "id": "shop_fashion_parts_all_owned_tips",
+    "msg": "已拥有"
   },
   {
-    "id": "grasstrial_text_25",
-    "msg": "不能将已融合技能作为材料技能进行融合"
+    "id": "shop_fashion_parts_partial_owned_tips",
+    "msg": "散件"
   },
   {
-    "id": "pet_fruit_search_empty_tips",
-    "msg": "未搜索到果实"
+    "id": "academy_change_tips",
+    "msg": "暂不可以切换学院，请%s天后重试"
   },
   {
-    "id": "season_manual_task_type3",
-    "msg": "<span color=\"#7f4dffff\">【每周】</>"
+    "id": "activity_bp_level_up",
+    "msg": "可可果通行证等级提升至<span color=\"#ffc65f\">%s</>级，快去领取奖励吧！"
   },
   {
-    "id": "challenge_again_teammate_skip",
-    "msg": "有队友跳过了动画"
+    "id": "NPC_BATTLE_TIP_010",
+    "msg": "我可不是报复你抢我生意哦"
   },
   {
-    "id": "Error_Code_2801",
-    "msg": "每周挑战已更新，请刷新页面后重试"
+    "id": "NPC_BATTLE_TIP_011",
+    "msg": "商人就要各凭本事"
   },
   {
-    "id": "magic_challenge_topic_tips3",
-    "msg": "可能完成课题"
+    "id": "NPC_BATTLE_TIP_012",
+    "msg": "你还有很多要学的啊"
   },
   {
-    "id": "magic_challenge_topic_tips2",
-    "msg": "未收集"
+    "id": "NPC_BATTLE_TIP_013",
+    "msg": "哇哦，老师你轻敌了~"
   },
   {
-    "id": "magic_challenge_topic_tips1",
-    "msg": "可完成：{0}"
+    "id": "NPC_BATTLE_TIP_014",
+    "msg": "嘿，不堪一击"
   },
   {
-    "id": "weekly_challenge_extra_reward_tips_3",
-    "msg": "，已获得"
+    "id": "NPC_BATTLE_TIP_015",
+    "msg": "……真弱"
   },
   {
-    "id": "weekly_challenge_extra_reward_tips_2",
-    "msg": "额外欢呼声可得"
+    "id": "NPC_BATTLE_TIP_016",
+    "msg": "承让了"
   },
   {
-    "id": "weekly_challenge_extra_reward_tips_1",
-    "msg": "当前最高"
+    "id": "NPC_BATTLE_TIP_017",
+    "msg": "承让了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_018",
+    "msg": "这就是威风组的实力！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_019",
+    "msg": "运气，运气，嘿嘿"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_020",
+    "msg": "这就是我的真正实力"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_021",
+    "msg": "你的实力名不副实"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_022",
+    "msg": "吼吼，这次运气不错啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_023",
+    "msg": "哈！拿下！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_024",
+    "msg": "嘿嘿，本公主的胜利是必然的！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_025",
+    "msg": "我果然很优秀~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_026",
+    "msg": "承让了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_027",
+    "msg": "看来运气之神在眷顾我"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_028",
+    "msg": "一会去我那里休息吧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_029",
+    "msg": "这就是我的艺术！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_030",
+    "msg": "这是，我要赢了么？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_031",
+    "msg": "别太气馁，毕竟我更擅长对战"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_032",
+    "msg": "安安静静的等待我的胜利！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_033",
+    "msg": "不断求索才会变强！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_034",
+    "msg": "这次看来是我要赢喽"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_035",
+    "msg": "看来这次情报挺准的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_036",
+    "msg": "哼~看来我更强一点"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_037",
+    "msg": "果然，如计算一样"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_038",
+    "msg": "呜呜，不开心"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_039",
+    "msg": "呃，好亏啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_040",
+    "msg": "不错的学以致用！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_041",
+    "msg": "哎呀，感觉毕业要出问题了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_042",
+    "msg": "啧，还没完"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_043",
+    "msg": "……让你一个"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_044",
+    "msg": "不错的一击"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_045",
+    "msg": "精彩的进攻"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_046",
+    "msg": "威风组绝不认输！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_047",
+    "msg": "好，好厉害啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_048",
+    "msg": "这是战略收缩"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_049",
+    "msg": "姑且承认你这一次进攻"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_050",
+    "msg": "哎呀，校长还是风采依旧啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_051",
+    "msg": "呜呜，可恶，还没完！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_052",
+    "msg": "我，我只是让着你一下"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_053",
+    "msg": "公主果然令人头痛"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_054",
+    "msg": "你很厉害，但我也不会退缩！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_055",
+    "msg": "有输才有赢~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_056",
+    "msg": "小家伙...辛苦你了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_057",
+    "msg": "没进化都那么强么？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_058",
+    "msg": "对战果然很难啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_059",
+    "msg": "你的精灵培养得很好啊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_060",
+    "msg": "不过是一次小小的失败"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_061",
+    "msg": "哎，好像零件有些故障了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_062",
+    "msg": "你这是欺负老头子啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_063",
+    "msg": "你的魔药难道有增强精灵的效果？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_064",
+    "msg": "啧，果然不习惯光明正大的对决"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_065",
+    "msg": "嗯？这次好像和计算出入"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_066",
+    "msg": "嘿嘿，都给安妮加油吧！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_067",
+    "msg": "大卖！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_068",
+    "msg": "上课要认真听讲！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_069",
+    "msg": "呀吼！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_070",
+    "msg": "嘿嘿，求我我就放水"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_071",
+    "msg": "……呵"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_072",
+    "msg": "侥幸而已"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_073",
+    "msg": "你别灰心"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_074",
+    "msg": "看我的厉害！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_075",
+    "msg": "嘿嘿"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_076",
+    "msg": "都在我的计算之中"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_077",
+    "msg": "我比你都了解你"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_078",
+    "msg": "嗯，看来是我优势了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_079",
+    "msg": "我很了不起吧！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_080",
+    "msg": "噢耶！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_081",
+    "msg": "我不会放水哦"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_082",
+    "msg": "你不要气馁"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_083",
+    "msg": "是胜利的味道~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_084",
+    "msg": "不要小看我的精灵哦"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_085",
+    "msg": "闪耀吧！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_086",
+    "msg": "哦？蒙对了？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_087",
+    "msg": "我的精灵今天很有活力呢"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_088",
+    "msg": "哈哈~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_089",
+    "msg": "我的精灵们都很厉害！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_090",
+    "msg": "灵感来啦~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_091",
+    "msg": "哦吼，猜中了！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_092",
+    "msg": "你的机械有点笨重啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_093",
+    "msg": "如我所料"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_094",
+    "msg": "我厉害吧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_095",
+    "msg": "心情好，下次进些新奇货"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_096",
+    "msg": "这个我讲过啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_097",
+    "msg": "呼，侥幸而已"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_098",
+    "msg": "做人就要落井下石"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_099",
+    "msg": "……还是我强"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_100",
+    "msg": "漂亮！啊，不能太骄傲"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_101",
+    "msg": "好！咳咳，你也要加油"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_102",
+    "msg": "哈！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_103",
+    "msg": "侥幸，侥幸"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_104",
+    "msg": "我看到了胜利的可能性！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_105",
+    "msg": "你认输吧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_106",
+    "msg": "校长还是太好猜了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_107",
+    "msg": "猜中了！好耶！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_108",
+    "msg": "让你见识下皇家的实力！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_109",
+    "msg": "我可不是公报私仇~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_110",
+    "msg": "这是骑士的直觉"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_111",
+    "msg": "优秀的商人嗅觉都很敏锐"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_112",
+    "msg": "你没受伤吧？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_113",
+    "msg": "我是无敌的~！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_114",
+    "msg": "有干劲了呢！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_115",
+    "msg": "加油哦~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_116",
+    "msg": "稳赚不赔！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_117",
+    "msg": "不要小看我们一起探险的羁绊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_118",
+    "msg": "看来晚上我要请客了！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_119",
+    "msg": "我的情报告诉我会赢的~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_120",
+    "msg": "你的计算好像出错了哦？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_121",
+    "msg": "我的胜利概率又增加了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_122",
+    "msg": "看招！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_123",
+    "msg": "不要小看商人的嗅觉！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_124",
+    "msg": "难道是我的教学有问题"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_125",
+    "msg": "相信野性的直觉！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_126",
+    "msg": "你太嫩了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_127",
+    "msg": "……哼，搞笑"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_128",
+    "msg": "运气不错~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_129",
+    "msg": "你疏忽了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_130",
+    "msg": "哈哈，这就是我的实力！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_131",
+    "msg": "哇，我居然猜中了？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_132",
+    "msg": "这次会是我的胜利！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_133",
+    "msg": "看来这次又是我要赢了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_134",
+    "msg": "年龄大了，经验还是很丰富的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_135",
+    "msg": "我只是看着小，不要小看我！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_136",
+    "msg": "这就是我们羁绊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_137",
+    "msg": "我的观察一直很敏锐的~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_138",
+    "msg": "看来还是我技高一筹"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_139",
+    "msg": "看来这次收获颇丰"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_140",
+    "msg": "这次是我猜中了~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_141",
+    "msg": "艺术的直觉！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_142",
+    "msg": "我培养的精灵们厉害吧？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_143",
+    "msg": "猜中了呢"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_144",
+    "msg": "这就是久经商场的经验！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_145",
+    "msg": "你作为商人不善于隐藏啊？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_146",
+    "msg": "哈哈哈哈，这下不错吧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_147",
+    "msg": "看看我的杀招！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_148",
+    "msg": "哼哼哼哼~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_149",
+    "msg": "你的手段对我没用的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_150",
+    "msg": "呜呜"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_151",
+    "msg": "和赔钱一样心痛"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_152",
+    "msg": "哇哦"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_153",
+    "msg": "直觉也有不准的时候"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_154",
+    "msg": "可恶"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_155",
+    "msg": "……啧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_156",
+    "msg": "你变强了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_157",
+    "msg": "果然你很厉害"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_158",
+    "msg": "哇，你好强"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_159",
+    "msg": "呜啊，你好厉害啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_160",
+    "msg": "可恶，一定是数据错误"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_161",
+    "msg": "你进步了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_162",
+    "msg": "果然活到老学到老"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_163",
+    "msg": "可恶，你变厉害了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_164",
+    "msg": "呜呜，居然被看穿了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_165",
+    "msg": "居然被看穿了？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_166",
+    "msg": "很精彩的策略"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_167",
+    "msg": "不愧是骑士团的团长"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_168",
+    "msg": "这下看着有点疼啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_169",
+    "msg": "好累啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_170",
+    "msg": "跨行研究果然很难！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_171",
+    "msg": "你很有干劲啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_172",
+    "msg": "你的表情太难猜了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_173",
+    "msg": "这下没骗过去么"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_174",
+    "msg": "嘿，这你也能猜中？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_175",
+    "msg": "哎，情报之外的操作？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_176",
+    "msg": "啧，机械真硬"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_177",
+    "msg": "1%，也复现了吗？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_178",
+    "msg": "要输了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_179",
+    "msg": "可恶"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_180",
+    "msg": "不错的一击"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_181",
+    "msg": "啊啊，感觉要出事"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_182",
+    "msg": "啊！一定是侥幸！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_183",
+    "msg": "……"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_184",
+    "msg": "精彩！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_185",
+    "msg": "漂亮的决策"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_186",
+    "msg": "不愧是公主的随从啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_187",
+    "msg": "还是不行啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_188",
+    "msg": "什么？计算出现了错误？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_189",
+    "msg": "我的观测日记还需要丰富"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_190",
+    "msg": "又长知识了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_191",
+    "msg": "呜，有点饿了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_192",
+    "msg": "好吧，你，你有点本事"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_193",
+    "msg": "可恶，好不容易有机会教训她"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_194",
+    "msg": "商人果然精通人心"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_195",
+    "msg": "嗯？难道我的想法暴露了？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_196",
+    "msg": "小家伙挺住啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_197",
+    "msg": "护士也那么厉害么？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_198",
+    "msg": "还是研究图鉴课题简单……"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_199",
+    "msg": "呵呵，老人家很有活力啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_200",
+    "msg": "可恶！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_201",
+    "msg": "哎，年久失修了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_202",
+    "msg": "唔……你这次有点强啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_203",
+    "msg": "你又变强了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_204",
+    "msg": "不需要你的同情！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_205",
+    "msg": "看来要调整算法了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_206",
+    "msg": "讨厌的感觉"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_207",
+    "msg": "看板娘果然很有实力"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_208",
+    "msg": "是我轻敌了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_209",
+    "msg": "不愧是老师，好强"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_210",
+    "msg": "哼，让让你"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_211",
+    "msg": "你，你，你，可恶！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_212",
+    "msg": "我还能坚持！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_213",
+    "msg": "我还要锻炼啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_214",
+    "msg": "呜啊，你是怎么猜到的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_215",
+    "msg": "又，又要被公主骂了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_216",
+    "msg": "这，不科学！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_217",
+    "msg": "好吧，运气也是实力的一部分"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_218",
+    "msg": "果然好久没活动筋骨了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_219",
+    "msg": "哎，还能这样？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_220",
+    "msg": "我绝不认输！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_221",
+    "msg": "难道，我会输吗"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_222",
+    "msg": "在下佩服"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_223",
+    "msg": "好吧，这次是我看走眼了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_224",
+    "msg": "我果然不善于对战"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_225",
+    "msg": "啊啊啊，要输啊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_226",
+    "msg": "哎，被看穿了啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_227",
+    "msg": "哇哦，这一下很漂亮哦"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_228",
+    "msg": "呜……你还挺厉害"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_229",
+    "msg": "探险家的字典里没有放弃！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_230",
+    "msg": "你的情报真全啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_231",
+    "msg": "你生意那么好，让让我呗"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_232",
+    "msg": "哼，这次算你运气好"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_233",
+    "msg": "难道数据出错了？"
+  },
+  {
+    "id": "setting_image_antialiasing_style",
+    "msg": "抗锯齿方法"
+  },
+  {
+    "id": "setting_image_antialiasing_level",
+    "msg": "抗锯齿等级"
+  },
+  {
+    "id": "Error_Code_51328",
+    "msg": "当前没有进行中的分享，无法结束"
+  },
+  {
+    "id": "Error_Code_51327",
+    "msg": "当前已参与分享，请勿重复加入"
+  },
+  {
+    "id": "Error_Code_51326",
+    "msg": "当前已有进行中的分享，请勿重复发起"
+  },
+  {
+    "id": "Error_Code_51325",
+    "msg": "分享邀请已失效，请重新发起"
+  },
+  {
+    "id": "bp_chasing_or_txt",
+    "msg": "或"
+  },
+  {
+    "id": "ai_caoch_22",
+    "msg": "需要什么样的精灵，我来帮你找！"
+  },
+  {
+    "id": "ai_caoch_23",
+    "msg": "帮我选出可以放生的精灵吧~"
+  },
+  {
+    "id": "ai_batch_mark_title",
+    "msg": "批量标记"
+  },
+  {
+    "id": "ai_batch_mark_sub_title1",
+    "msg": "处理前的标记情况"
+  },
+  {
+    "id": "ai_batch_mark_sub_title2",
+    "msg": "处理后的标记情况"
+  },
+  {
+    "id": "ai_fiter_title",
+    "msg": "斯嘉丽筛选"
+  },
+  {
+    "id": "ai_fiter_option",
+    "msg": "智能筛选"
   },
   {
     "id": "weekly_challenge_pet_text_38",
@@ -35703,8 +37435,204 @@
     "msg": "{0}年{1}月{2}日，于<span size=\"22\" color=\"#ffc65f\">守护地</>中，遇见了<span size=\"22\" color=\"#ffc65f\">等级{3}</>的它"
   },
   {
-    "id": "grasstrial_text_26",
-    "msg": "当前技能组中没有可以互相融合的技能"
+    "id": "bp_chasing_details_btn",
+    "msg": "查看"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_234",
+    "msg": "不是很想输给你啊！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_235",
+    "msg": "买卖自由！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_236",
+    "msg": "就算我是老师，也不会放水的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_237",
+    "msg": "哈哈，多多指教了！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_238",
+    "msg": "老子是不会输的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_239",
+    "msg": "……那就试试"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_240",
+    "msg": "来，活动活动筋骨！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_241",
+    "msg": "即使是友谊赛我也会认真对待的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_242",
+    "msg": "嘿！威风组最强！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_243",
+    "msg": "啊，哦，哦，我也会加油的！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_244",
+    "msg": "我永远是对的"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_245",
+    "msg": "没有人从不犯错"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_246",
+    "msg": "哎呀，上一次对决是多少年前了？"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_247",
+    "msg": "哼～小格里芬让我看看你的成长吧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_248",
+    "msg": "与本公主对战是你的荣幸"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_249",
+    "msg": "头痛，为什么是和公主比赛啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_250",
+    "msg": "以骑士之名，承让！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_251",
+    "msg": "哎呀，这个比赛充满商机！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_252",
+    "msg": "哎，又要有精灵受伤了"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_253",
+    "msg": "哦吼，完美的宣传机会！"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_254",
+    "msg": "我不善战斗，请多指教~"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_255",
+    "msg": "看起来你也喜欢草系精灵呢"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_256",
+    "msg": "做生意多稳定"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_257",
+    "msg": "探索未知更有乐趣"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_258",
+    "msg": "哎呀，你可要让着点老头子我啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_259",
+    "msg": "嘿嘿，你赢了要请客啊"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_260",
+    "msg": "机械精灵啊，啧"
+  },
+  {
+    "id": "NPC_BATTLE_TIP_261",
+    "msg": "我能获胜的概率是…65.73%"
+  },
+  {
+    "id": "s4_star_ui_tip",
+    "msg": "回合结束，陨星根据所获能量，变成更多能量的颜色，能量相同，变成最新能量的颜色。"
+  },
+  {
+    "id": "grasstrial_text_22",
+    "msg": "精灵踪迹"
+  },
+  {
+    "id": "grasstrial_text_23",
+    "msg": "活动积分"
+  },
+  {
+    "id": "grasstrial_text_24",
+    "msg": "出现了一些小问题，请尝试暂离后重新回到挑战/(ㄒoㄒ)/~~"
+  },
+  {
+    "id": "grasstrial_text_25",
+    "msg": "不能将已融合技能作为材料技能进行融合"
+  },
+  {
+    "id": "grass_trial_text_title",
+    "msg": "草系徽章"
+  },
+  {
+    "id": "ai_batch_mark_continue_tip",
+    "msg": "本次已处理了{0}个精灵的标记，仍有<span color=\"#d56c1f\">{1}</>个未处理，是否继续处理"
+  },
+  {
+    "id": "skill_no_space",
+    "msg": "空间不足，无法释放技能"
+  },
+  {
+    "id": "social_action_photo_thumb_up_save",
+    "msg": "点赞并保存"
+  },
+  {
+    "id": "low_break_ore",
+    "msg": "体重不够，砸不动这块矿石"
+  },
+  {
+    "id": "challenge_again_teammate_skip",
+    "msg": "有队友跳过了动画"
+  },
+  {
+    "id": "challenge_again_invite_master_text",
+    "msg": "请等待其他队友"
+  },
+  {
+    "id": "academy_reward_pupop_title",
+    "msg": "学期奖励"
+  },
+  {
+    "id": "academy_reward_pupop_des1",
+    "msg": "一、本学期结束后，根据学期奖章获得数量，发放对应纪念家具（仅获得最高等级）"
+  },
+  {
+    "id": "academy_reward_pupop_des2",
+    "msg": "二、本学期结束后，总学分达到对应条件即可领取全部奖励。"
+  },
+  {
+    "id": "academy_reward_pupop_tips",
+    "msg": "%s分"
+  },
+  {
+    "id": "academy_new_activity_bubble",
+    "msg": "<span color=\"#d56c1f\">分院服：{0}/{1}</>\n集齐后开启研习"
+  },
+  {
+    "id": "glass_pet_discovered",
+    "msg": "发现<orange>炫彩</>精灵!"
+  },
+  {
+    "id": "academy_reward_pupop_reward_tag",
+    "msg": "当前"
+  },
+  {
+    "id": "Error_Code_2801",
+    "msg": "每周挑战已更新，请刷新页面后重试"
+  },
+  {
+    "id": "academy_activity_privilege_text",
+    "msg": "分学院研习"
   },
   {
     "id": "usage_rate_tips1",
@@ -35727,6 +37655,310 @@
     "msg": "对战排名"
   },
   {
+    "id": "academy_lock_title",
+    "msg": "集齐四套分院服后可选择加入分学院，解锁专属特权！"
+  },
+  {
+    "id": "academy_lock_des",
+    "msg": "每个分学院的专属特权和研习任务均不相同，要认真选择最适合自己的分学院加入哦~"
+  },
+  {
+    "id": "academy_unlock_title",
+    "msg": "请选择你想加入的分学院"
+  },
+  {
+    "id": "academy_unlock_des",
+    "msg": "点击选择对应的分学院并完成任务可解锁学院专属特权"
+  },
+  {
+    "id": "academy_reward_pupop_des3",
+    "msg": "总学分：{0}"
+  },
+  {
+    "id": "challenge_again_invite_visitor_text",
+    "msg": "%s向你发起了再次挑战邀请"
+  },
+  {
+    "id": "challenge_again_cancel_confirm",
+    "msg": "取消挑战将中断再次挑战邀请，是否继续？"
+  },
+  {
+    "id": "challenge_again_cancel_tip",
+    "msg": "挑战已中止"
+  },
+  {
+    "id": "challenge_again_invite_timeout",
+    "msg": "再次挑战邀请已超时"
+  },
+  {
+    "id": "challenge_again_visitor_quit_tip",
+    "msg": "有队员退出了互访，请稍后再试"
+  },
+  {
+    "id": "challenge_again_visitor_quit",
+    "msg": "有队员退出了互访"
+  },
+  {
+    "id": "challenge_again_capture_incomplete_tip",
+    "msg": "有队员尚未完成捕捉，请稍后再试"
+  },
+  {
+    "id": "challenge_again_capture_incomplete",
+    "msg": "有队员尚未完成捕捉"
+  },
+  {
+    "id": "challenge_again_quit",
+    "msg": "%s已退出挑战"
+  },
+  {
+    "id": "challenge_again_wait",
+    "msg": "可等待%s发起[再次挑战]邀请"
+  },
+  {
+    "id": "challenge_again_refuse",
+    "msg": "%s拒绝了邀请"
+  },
+  {
+    "id": "legend_refresh_tip",
+    "msg": "传说精灵挑战已刷新"
+  },
+  {
+    "id": "flower_refresh_tip",
+    "msg": "花种已刷新"
+  },
+  {
+    "id": "season_manual_task_type3",
+    "msg": "<span color=\"#7f4dffff\">【每周】</>"
+  },
+  {
+    "id": "boss_respawn_tip",
+    "msg": "首领将在%s秒后归来"
+  },
+  {
+    "id": "magic_challenge_topic_tips3",
+    "msg": "可能完成课题"
+  },
+  {
+    "id": "magic_challenge_topic_tips2",
+    "msg": "未收集"
+  },
+  {
+    "id": "magic_challenge_topic_tips1",
+    "msg": "可完成：{0}"
+  },
+  {
+    "id": "weekly_challenge_extra_reward_tips_3",
+    "msg": "，已获得"
+  },
+  {
+    "id": "weekly_challenge_extra_reward_tips_2",
+    "msg": "额外欢呼声可得"
+  },
+  {
+    "id": "weekly_challenge_extra_reward_tips_1",
+    "msg": "当前最高"
+  },
+  {
+    "id": "Error_Code_18371",
+    "msg": "当前照片不可用，换一张试试吧。"
+  },
+  {
+    "id": "not_enough_free_disk_space_tips",
+    "msg": "检测到存储空间不足，可能导致严重卡顿或崩溃，建议预留2G存储空间后游玩。"
+  },
+  {
+    "id": "challenge_again_title_text",
+    "msg": "再次挑战"
+  },
+  {
+    "id": "grasstrial_text_26",
+    "msg": "当前技能组中没有可以互相融合的技能"
+  },
+  {
+    "id": "TRIAL_TEAM_SAVE_BUTTON",
+    "msg": "保存"
+  },
+  {
+    "id": "Error_Code_3704",
+    "msg": "闪耀周末试用阵容无法编辑"
+  },
+  {
+    "id": "Error_Code_3703",
+    "msg": "当前不在闪耀周末活动时间，无法使用该试用阵容"
+  },
+  {
+    "id": "Error_Code_3702",
+    "msg": "无法修改非归属精灵的属性"
+  },
+  {
+    "id": "Error_Code_3701",
+    "msg": "该精灵暂不支持试用"
+  },
+  {
+    "id": "Error_Code_3700",
+    "msg": "试用阵容数量已达上限"
+  },
+  {
+    "id": "TRIAL_TEAM_TAG_TEXT",
+    "msg": "闪耀周末试用阵容"
+  },
+  {
+    "id": "TRIAL_TEAM_RULE_CONTENT",
+    "msg": "<span color=\"#d56c1f\">周末试用阵容</>\n闪耀周末期间可以试用阵容，体验更多精灵搭配。\n对于玩家未拥有的精灵，各项个体资质统一补齐至8。\n对于玩家已有的精灵，各项个体资质不足8的补齐至8，达到或超过8的保留原值。\n试用精灵均为普通形态，不包含炫彩 / 异色形态。\n时间：周五4:00:00～下周一4:00:00开启，其他时间段不可使用。"
+  },
+  {
+    "id": "99gongyi_tittle",
+    "msg": "「共同守护濒危物种」公益项目"
+  },
+  {
+    "id": "99gongyi_text",
+    "msg": "深圳市一个地球自然基金会致力于保护生物多样性，\n创造人类与自然和谐相处的美好未来。"
+  },
+  {
+    "id": "99agreement_tittle",
+    "msg": "温馨提示"
+  },
+  {
+    "id": "99agreement_text",
+    "msg": "您须使用当前登录账号对应的腾讯公益平台账号参与活动。为完成账号关联，您同意本产品将您当前登录账号的用户标识、公益行为完成情况同步至腾讯公益平台，用于识别并关联您的公益账号。"
+  },
+  {
+    "id": "99agreement_tips",
+    "msg": "我已阅读并同意"
+  },
+  {
+    "id": "99agreement1",
+    "msg": "<span size=\"18\" color=\"#c15100\">《腾讯公益平台用户服务协议》</>"
+  },
+  {
+    "id": "99agreement2",
+    "msg": "<span size=\"18\" color=\"#c15100\">《腾讯公益平台隐私保护指引》</>"
+  },
+  {
+    "id": "99agreement_button",
+    "msg": "同意并继续"
+  },
+  {
+    "id": "99toast_agreement",
+    "msg": "勾选“我已阅读并同意协议”后可继续"
+  },
+  {
+    "id": "99toast_medal",
+    "msg": "请先领取小红花奖牌"
+  },
+  {
+    "id": "99_progress1",
+    "msg": "+{0}"
+  },
+  {
+    "id": "99_progress2",
+    "msg": "{0}万"
+  },
+  {
+    "id": "99_progress3",
+    "msg": "{0}万+"
+  },
+  {
+    "id": "99_reward_tips",
+    "msg": "感谢小洛克为精灵戴上小红花奖牌，特赠小红花头像，并送你一笔公益金，将自动助力「共同守护濒危物种」公益项目"
+  },
+  {
+    "id": "TRIAL_TEAM_RULE_TITLE",
+    "msg": "周末试用阵容说明"
+  },
+  {
+    "id": "TRIAL_TEAM_NOT_OPEN_TEXT",
+    "msg": "仅闪耀周末期间可用 "
+  },
+  {
+    "id": "TRIAL_TEAM_NOT_OPEN_TIP",
+    "msg": "不在闪耀周末活动期间"
+  },
+  {
+    "id": "TRIAL_TEAM_CANNOT_EDIT",
+    "msg": "来自闪耀周末试用阵容的精灵，不可编辑"
+  },
+  {
+    "id": "TRIAL_TEAM_CANNOT_EDIT_TIPS",
+    "msg": "闪耀周末试用阵容，不可编辑"
+  },
+  {
+    "id": "TRIAL_TEAM_IMPORT_ALREADY",
+    "msg": "已导入阵容:{0}/{1}"
+  },
+  {
+    "id": "TRIAL_TEAM_IMPORT_BUTTON",
+    "msg": "试用"
+  },
+  {
+    "id": "TRIAL_TEAM_IMPORT_OK",
+    "msg": "导入成功"
+  },
+  {
+    "id": "lineup_code_illegal_tip",
+    "msg": "阵容码数据异常，无法导入"
+  },
+  {
+    "id": "Error_Code_50823",
+    "msg": "钟绳正在摆动中，稍后再试吧"
+  },
+  {
+    "id": "cifu_request_text",
+    "msg": "是否确定向<span color=\"#d56c1f\">{0}</>申请对此精灵蛋进行赐福？\n"
+  },
+  {
+    "id": "academy_task_show_tips",
+    "msg": "每个研习学分互相独立，奖章等级单独计算，完成任务时学分将自动领取"
+  },
+  {
+    "id": "academy_task_show_score",
+    "msg": "当前学分：%s"
+  },
+  {
+    "id": "academy_achieve_score_tips",
+    "msg": "%s分解锁"
+  },
+  {
+    "id": "academy_weekly_task_finish",
+    "msg": "已完成"
+  },
+  {
+    "id": "academy_season_task_finish",
+    "msg": "已完成"
+  },
+  {
+    "id": "academy_task_finish_score",
+    "msg": "仅可获得学分"
+  },
+  {
+    "id": "academy_semester_task_tips",
+    "msg": "同一名小洛克每日仅限1次"
+  },
+  {
+    "id": "cifu_self_text",
+    "msg": "是否确定对此精灵蛋进行赐福？\n"
+  },
+  {
+    "id": "TRIAL_TEAM_IMPORT_TITLE",
+    "msg": "导入阵容"
+  },
+  {
+    "id": "sp_lifangren_bond_not_own",
+    "msg": "到底是什么呢？【秋，丰收与机器人】活动获得精灵蛋并在商店购买礼包后可以查看该华丽徽章的效果"
+  },
+  {
+    "id": "academy_task_finish_des",
+    "msg": "已完成：%s次"
+  },
+  {
+    "id": "academy_task_conduct_des",
+    "msg": "进行中"
+  },
+  {
+    "id": "Error_Code_2839",
+    "msg": "花种已刷新，请小洛克回到自己的世界中查看最新的花种信息吧~"
+  },
+  {
     "id": "AI_coach_setting1",
     "msg": "斯嘉丽设置"
   },
@@ -35739,59 +37971,19 @@
     "msg": "斯嘉丽（已开启）"
   },
   {
-    "id": "99_progress3",
-    "msg": "{0}万+"
+    "id": "challenge_again_afk_text",
+    "msg": "有队员处于暂离状态"
   },
   {
-    "id": "99_reward_tips",
-    "msg": "感谢小洛克为精灵戴上小红花奖牌，特赠小红花头像，并送你一笔公益金，将自动助力「共同守护濒危物种」公益项目"
+    "id": "Error_Code_30097",
+    "msg": "还有人没进入战场，请稍后再试哦！"
   },
   {
-    "id": "99_progress2",
-    "msg": "{0}万"
+    "id": "Error_Code_51360",
+    "msg": "有队员当前无法参与，无法发起再次挑战。"
   },
   {
-    "id": "99_progress1",
-    "msg": "+{0}"
-  },
-  {
-    "id": "99toast_medal",
-    "msg": "请先领取小红花奖牌"
-  },
-  {
-    "id": "99toast_agreement",
-    "msg": "勾选“我已阅读并同意协议”后可继续"
-  },
-  {
-    "id": "99agreement_button",
-    "msg": "同意并继续"
-  },
-  {
-    "id": "99agreement2",
-    "msg": "<span size=\"18\" color=\"#c15100\">《腾讯公益平台隐私保护指引》</>"
-  },
-  {
-    "id": "99agreement1",
-    "msg": "<span size=\"18\" color=\"#c15100\">《腾讯公益平台用户服务协议》</>"
-  },
-  {
-    "id": "99agreement_tips",
-    "msg": "我已阅读并同意"
-  },
-  {
-    "id": "99agreement_text",
-    "msg": "您须使用当前登录账号对应的腾讯公益平台账号参与活动。为完成账号关联，您同意本产品将您当前登录账号的用户标识、公益行为完成情况同步至腾讯公益平台，用于识别并关联您的公益账号。"
-  },
-  {
-    "id": "99agreement_tittle",
-    "msg": "温馨提示"
-  },
-  {
-    "id": "99gongyi_text",
-    "msg": "深圳市一个地球自然基金会致力于保护生物多样性，\n创造人类与自然和谐相处的美好未来。"
-  },
-  {
-    "id": "99gongyi_tittle",
-    "msg": "「共同守护濒危物种」公益项目"
+    "id": "fuyuewangguowuhui1",
+    "msg": "舞会伴手礼"
   }
 ]

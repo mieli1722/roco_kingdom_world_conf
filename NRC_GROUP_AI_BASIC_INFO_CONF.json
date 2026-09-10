@@ -237,7 +237,8 @@
         "event_id": 300092,
         "abort_type": 1,
         "group_behavior_id": 300089,
-        "group_station_id": 10005
+        "group_station_id": 10005,
+        "auto_destroy": true
       },
       {
         "event_id": 300091,
@@ -788,6 +789,7 @@
       },
       {
         "event_id": 230075,
+        "abort_type": 2,
         "group_behavior_id": 230055,
         "auto_destroy": true
       },
@@ -969,6 +971,36 @@
       {
         "event_id": 280240,
         "group_behavior_id": 280228
+      },
+      {
+        "event_id": 530053,
+        "abort_type": 2,
+        "group_behavior_id": 530052
+      },
+      {
+        "event_id": 230098,
+        "group_behavior_id": 230082,
+        "auto_destroy": true
+      },
+      {
+        "event_id": 530054,
+        "group_behavior_id": 530053
+      },
+      {
+        "event_id": 230101,
+        "group_behavior_id": 230084,
+        "group_station_id": 10004,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 230102,
+        "group_behavior_id": 230085,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 660008,
+        "group_behavior_id": 660011
       }
     ]
   },
@@ -2206,6 +2238,7 @@
     "event_array": [
       {
         "event_id": 230071,
+        "abort_type": 4,
         "group_behavior_id": 230051,
         "group_station_id": 10004,
         "auto_destroy": true
@@ -2371,18 +2404,21 @@
       },
       {
         "event_id": 10017,
+        "abort_type": 1,
         "group_behavior_id": 230068,
         "auto_destroy": true,
         "lock_fsm": true
       },
       {
         "event_id": 10023,
+        "abort_type": 1,
         "group_behavior_id": 230068,
         "auto_destroy": true,
         "lock_fsm": true
       },
       {
         "event_id": 230084,
+        "abort_type": 1,
         "group_behavior_id": 230068,
         "auto_destroy": true,
         "lock_fsm": true
@@ -2415,7 +2451,6 @@
       },
       {
         "event_id": 230083,
-        "abort_type": 1,
         "group_behavior_id": 230062,
         "auto_destroy": true
       }
@@ -2429,6 +2464,104 @@
         "event_id": 230079,
         "abort_type": 1,
         "group_behavior_id": 230059,
+        "auto_destroy": true
+      }
+    ]
+  },
+  {
+    "id": 230068,
+    "editor_name": "【种内26】热团团-新月鹭-超能球球",
+    "event_array": [
+      {
+        "event_id": 10017,
+        "abort_type": 1,
+        "group_behavior_id": 230079,
+        "auto_destroy": true
+      },
+      {
+        "event_id": 230096,
+        "group_behavior_id": 230080,
+        "auto_destroy": true
+      },
+      {
+        "event_id": 230097,
+        "group_behavior_id": 230081,
+        "auto_destroy": true
+      },
+      {
+        "event_id": 230099,
+        "group_behavior_id": 230083
+      },
+      {
+        "event_id": 230100,
+        "group_behavior_id": 230083
+      }
+    ]
+  },
+  {
+    "id": 230069,
+    "editor_name": "【种内27】玳龟叠叠乐",
+    "event_array": [
+      {
+        "event_id": 660003,
+        "abort_type": 1,
+        "group_behavior_id": 230086,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 10022,
+        "group_behavior_id": 530062
+      }
+    ]
+  },
+  {
+    "id": 230070,
+    "editor_name": "【种内27】玳塔叠叠乐",
+    "event_array": [
+      {
+        "event_id": 530059,
+        "abort_type": 1,
+        "group_behavior_id": 230087,
+        "auto_destroy": true,
+        "lock_fsm": true
+      }
+    ]
+  },
+  {
+    "id": 230071,
+    "editor_name": "【种内28】章脑神经网络",
+    "event_array": [
+      {
+        "event_id": 230103,
+        "abort_type": 1,
+        "group_behavior_id": 230088,
+        "group_station_id": 230009
+      },
+      {
+        "event_id": 10001,
+        "group_behavior_id": 230089
+      },
+      {
+        "event_id": 10002,
+        "group_behavior_id": 230090
+      },
+      {
+        "event_id": 10003,
+        "group_behavior_id": 230091
+      },
+      {
+        "event_id": 10005,
+        "group_behavior_id": 230092
+      }
+    ]
+  },
+  {
+    "id": 230072,
+    "editor_name": "【种内28】章脑神经网络_跟随",
+    "event_array": [
+      {
+        "event_id": 10003,
+        "group_behavior_id": 230093,
         "auto_destroy": true
       }
     ]
@@ -3978,6 +4111,111 @@
       {
         "event_id": 280236,
         "group_behavior_id": 280224,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280244,
+        "group_behavior_id": 280232,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 530057,
+        "abort_type": 2,
+        "group_behavior_id": 530059
+      },
+      {
+        "event_id": 530056,
+        "abort_type": 2,
+        "group_behavior_id": 530058
+      },
+      {
+        "event_id": 530055,
+        "abort_type": 2,
+        "group_behavior_id": 530057
+      },
+      {
+        "event_id": 300131,
+        "group_behavior_id": 300127,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280245,
+        "group_behavior_id": 530055,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280247,
+        "group_behavior_id": 280234,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280246,
+        "group_behavior_id": 280233,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280250,
+        "group_behavior_id": 280237,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280251,
+        "group_behavior_id": 280238,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280252,
+        "group_behavior_id": 280239,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280253,
+        "group_behavior_id": 280240,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280254,
+        "group_behavior_id": 280241,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280255,
+        "group_behavior_id": 280242,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280256,
+        "group_behavior_id": 280243,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 280257,
+        "group_behavior_id": 280244,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 300132,
+        "group_behavior_id": 300128,
+        "auto_destroy": true,
+        "lock_fsm": true
+      },
+      {
+        "event_id": 300133,
+        "group_behavior_id": 300129,
         "auto_destroy": true,
         "lock_fsm": true
       }
@@ -6075,6 +6313,38 @@
       {
         "event_id": 10001,
         "group_behavior_id": 530051
+      }
+    ]
+  },
+  {
+    "id": 530010,
+    "editor_name": "【布灵】找光系绕圈庆祝",
+    "event_array": [
+      {
+        "event_id": 10005,
+        "abort_type": 2,
+        "group_behavior_id": 530002,
+        "auto_destroy": true
+      }
+    ]
+  },
+  {
+    "id": 530011,
+    "editor_name": "幽铃",
+    "event_array": [
+      {
+        "event_id": 530058
+      }
+    ]
+  },
+  {
+    "id": 530012,
+    "editor_name": "【时装】大头骨龙一起龙吼",
+    "event_array": [
+      {
+        "event_id": 10003,
+        "abort_type": 1,
+        "group_behavior_id": 530061
       }
     ]
   }

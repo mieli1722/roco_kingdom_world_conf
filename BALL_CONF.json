@@ -6,18 +6,11 @@
     "solid_ball_act": 100001,
     "ball_prob": 20000,
     "Noeffect_ball_prob": 20000,
-    "guarant_efficiency": 12000,
     "static_catch_rate": -1,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_effect_blackboard": "Normal",
     "ball_threshold_modify": 10000,
     "Noeffect_threshold_modify": 10000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50338,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 2,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100002.100002'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu1_png.img_qiu1_png'",
@@ -31,18 +24,11 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 30000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_effect_blackboard": "GaoJi",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 240000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50339,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 3,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100003.100003'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu2_png.img_qiu2_png'",
@@ -54,16 +40,9 @@
     "fx_source": 15065,
     "bigworld_catch": true,
     "solid_ball_act": 100001,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_effect_blackboard": "Normal",
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50340,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 999999,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100254.100254'"
   },
@@ -72,26 +51,16 @@
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_003/FairyBall_003_H_Skin.FairyBall_003_H_Skin'",
     "fx_source": 15066,
     "bigworld_catch": true,
-    "catch_not_give_peer": true,
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 2,
-    "extra_effect_group": [
-      {
-        "extra_effect": 5
-      }
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "GuoWang",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50341,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 1001,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100255.100255'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_qiu3_png.img_qiu3_png'",
@@ -105,12 +74,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 22500,
     "Noeffect_ball_prob": 17800,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       3
     ],
@@ -120,10 +85,7 @@
     "catch_effect_blackboard": "KeShui",
     "ball_threshold_modify": 90000,
     "Noeffect_threshold_modify": 90000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50801,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 13,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_keshuiqiu.img_keshuiqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_keshuiqiu_png.img_keshuiqiu_png'",
@@ -137,12 +99,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       2
     ],
@@ -153,10 +111,7 @@
     "catch_effect_blackboard": "HaiHai",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50806,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 9,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_haihaiqiu.img_haihaiqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_haihaiqiu_png.img_haihaiqiu_png'",
@@ -170,12 +125,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       1
     ],
@@ -186,10 +137,7 @@
     "catch_effect_blackboard": "LuMang",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50807,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 10,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_lumangqiu.img_lumangqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_lumangqiu_png.img_lumangqiu_png'",
@@ -203,12 +151,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_skilldam": [
       3,
       6
@@ -216,10 +160,7 @@
     "catch_effect_blackboard": "GuangHe",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50802,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 4,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_guangheqiu.img_guangheqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_guangheqiu_png.img_guangheqiu_png'",
@@ -233,23 +174,23 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_skilldam": [
       5,
       15
     ],
+    "param_move": [
+      3,
+      2
+    ],
+    "param_surface": [
+      1
+    ],
     "catch_effect_blackboard": "WangDou",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50804,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 5,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_wangdiuqiu.img_wangdiuqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_wangdiuqiu_png.img_wangdiuqiu_png'",
@@ -263,12 +204,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       4,
       12
@@ -283,10 +220,7 @@
     "catch_effect_blackboard": "DaoDan",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50808,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 11,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_daodanqiu.img_daodanqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_daodanqiu_png.img_daodanqiu_png'",
@@ -300,12 +234,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_skilldam": [
       9,
       4
@@ -313,10 +243,7 @@
     "catch_effect_blackboard": "TiaoWen",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50809,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 6,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_tiaowenqiu.img_tiaowenqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_tiaowenqiu_png.img_tiaowenqiu_png'",
@@ -330,12 +257,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_skilldam": [
       11,
       12
@@ -343,10 +266,7 @@
     "catch_effect_blackboard": "JueYuan",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50810,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 8,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_jueyuanqiu.img_jueyuanqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_jueyuanqiu_png.img_jueyuanqiu_png'",
@@ -360,12 +280,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 22500,
     "Noeffect_ball_prob": 17800,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_weather": [
       3,
       4
@@ -373,10 +289,7 @@
     "catch_effect_blackboard": "ShuiZhu",
     "ball_threshold_modify": 90000,
     "Noeffect_threshold_modify": 90000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50803,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 14,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_shuizhuqiu.img_shuizhuqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_shuizhuqiu_png.img_shuizhuqiu_png'",
@@ -390,22 +303,15 @@
     "solid_ball_act": 100001,
     "ball_prob": 22500,
     "Noeffect_ball_prob": 17800,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_weather": [
       5
     ],
     "catch_effect_blackboard": "BingLing",
     "ball_threshold_modify": 90000,
     "Noeffect_threshold_modify": 90000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50805,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 15,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_binglingqiu.img_binglingqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_binglingqiu_png.img_binglingqiu_png'",
@@ -419,12 +325,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       6,
       25
@@ -439,10 +341,7 @@
     "catch_effect_blackboard": "ShaLi",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50811,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 7,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_shaliqiu.img_shaliqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_shaliqiu_png.img_shaliqiu_png'",
@@ -456,12 +355,8 @@
     "solid_ball_act": 100001,
     "ball_prob": 30000,
     "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": -1,
     "ball_type": 4,
-    "extra_effect_group": [
-      {}
-    ],
     "param_blackboard": [
       8,
       10
@@ -477,10 +372,7 @@
     "catch_effect_blackboard": "MiWu",
     "ball_threshold_modify": 240000,
     "Noeffect_threshold_modify": 50000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 1000,
     "npc_id": 50812,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 12,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_miwuqiu.img_miwuqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/MainUI/Raw/Atlas/MainUI/Frames/img_miwuqiu_png.img_miwuqiu_png'",
@@ -494,19 +386,12 @@
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "BuGuang",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50340,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 501,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100792.100792'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon11_png.img_icon11_png'",
@@ -517,29 +402,16 @@
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_141/FairyBall_141_Skin.FairyBall_141_Skin'",
     "fx_source": 15901,
     "bigworld_catch": true,
-    "catch_not_give_peer": true,
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [
-      {
-        "extra_effect": 4
-      },
-      {
-        "extra_effect": 5
-      }
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "LengJing",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50814,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 10000,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100795.100795'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon18_png.img_icon18_png'",
@@ -551,20 +423,13 @@
     "fx_source": 15903,
     "bigworld_catch": true,
     "solid_ball_act": 100001,
-    "ball_prob": 25000,
-    "Noeffect_ball_prob": 25000,
-    "guarant_efficiency": 20000,
-    "static_catch_rate": -1,
-    "extra_effect_group": [
-      {}
-    ],
+    "ball_prob": 9990000,
+    "Noeffect_ball_prob": 9990000,
+    "static_catch_rate": 10000,
     "catch_effect_blackboard": "GaoJi",
-    "ball_threshold_modify": 240000,
-    "Noeffect_threshold_modify": 240000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
+    "ball_threshold_modify": 9990000,
+    "Noeffect_threshold_modify": 9990000,
     "npc_id": 50339,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 101,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100825.100825'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon19_png.img_icon19_png'",
@@ -575,29 +440,16 @@
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_171/FairyBall_171_Skin.FairyBall_171_Skin'",
     "fx_source": 15904,
     "bigworld_catch": true,
-    "catch_not_give_peer": true,
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [
-      {
-        "extra_effect": 4
-      },
-      {
-        "extra_effect": 5
-      }
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "S1",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50816,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 10001,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100876.100876'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon20_png.img_icon20_png'",
@@ -608,29 +460,16 @@
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_181/FairyBall_181_Skin.FairyBall_181_Skin'",
     "fx_source": 15906,
     "bigworld_catch": true,
-    "catch_not_give_peer": true,
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [
-      {
-        "extra_effect": 4
-      },
-      {
-        "extra_effect": 5
-      }
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "S2",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50817,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 10002,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_lengjingqiu_s2.img_lengjingqiu_s2'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon22_png.img_icon22_png'",
@@ -644,19 +483,12 @@
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "QiQU",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50340,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 502,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_qiquqiu.img_qiquqiu'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon21_png.img_icon21_png'",
@@ -667,33 +499,40 @@
     "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_201/FairyBall_201_Skin.FairyBall_201_Skin'",
     "fx_source": 19001,
     "bigworld_catch": true,
-    "catch_not_give_peer": true,
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
     "ball_effect_type": 3,
-    "extra_effect_group": [
-      {
-        "extra_effect": 4
-      },
-      {
-        "extra_effect": 5
-      }
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "S3",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50819,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 10003,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_lengjingqiu_s3.img_lengjingqiu_s3'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon24_png.img_icon24_png'",
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon24_png.img_icon24_png'"
+  },
+  {
+    "id": 100292,
+    "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_241/FairyBall_241_Skin.FairyBall_241_Skin'",
+    "fx_source": 19003,
+    "bigworld_catch": true,
+    "solid_ball_act": 100001,
+    "ball_prob": 9990000,
+    "Noeffect_ball_prob": 9990000,
+    "static_catch_rate": 10000,
+    "ball_effect_type": 3,
+    "catch_action": "ColorFul",
+    "catch_effect_blackboard": "S4",
+    "ball_threshold_modify": 9990000,
+    "Noeffect_threshold_modify": 9990000,
+    "npc_id": 50823,
+    "ball_list_priority": 100004,
+    "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_lengjingqiu_s4.img_lengjingqiu_s4'",
+    "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon26_png.img_icon26_png'",
+    "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon26_png.img_icon26_png'"
   },
   {
     "id": 100982,
@@ -703,23 +542,35 @@
     "solid_ball_act": 100001,
     "ball_prob": 9990000,
     "Noeffect_ball_prob": 9990000,
-    "guarant_efficiency": 20000,
     "static_catch_rate": 10000,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_action": "ColorFul",
     "catch_effect_blackboard": "QiQU",
     "ball_threshold_modify": 9990000,
     "Noeffect_threshold_modify": 9990000,
-    "hp_sup_prob": 1,
-    "refresh_prob": 4000,
     "npc_id": 50340,
-    "hidden_capture_correction": 300,
     "ball_list_priority": 503,
     "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/100982.100982'",
     "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon23_png.img_icon23_png'",
     "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon23_png.img_icon23_png'"
+  },
+  {
+    "id": 100983,
+    "model": "SkeletalMesh'/Game/ArtRes/AnimSequence/Ball/FairyBall_231/FairyBall_231_Skin.FairyBall_231_Skin'",
+    "fx_source": 19004,
+    "bigworld_catch": true,
+    "solid_ball_act": 100001,
+    "ball_prob": 9990000,
+    "Noeffect_ball_prob": 9990000,
+    "static_catch_rate": 10000,
+    "catch_action": "ColorFul",
+    "catch_effect_blackboard": "QiQU",
+    "ball_threshold_modify": 9990000,
+    "Noeffect_threshold_modify": 9990000,
+    "npc_id": 50340,
+    "ball_list_priority": 504,
+    "ball_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/101046.101046'",
+    "ball_mini_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon25_png.img_icon25_png'",
+    "ball_tips_icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Atlas/PetUI/Frames/img_icon25_png.img_icon25_png'"
   },
   {
     "id": 280001,
@@ -728,11 +579,7 @@
     "solid_ball_act": 100001,
     "ball_prob": 20000,
     "Noeffect_ball_prob": 20000,
-    "guarant_efficiency": 12000,
     "static_catch_rate": -1,
-    "extra_effect_group": [
-      {}
-    ],
     "catch_effect_blackboard": "LinShi",
     "ball_threshold_modify": 10000,
     "Noeffect_threshold_modify": 10000,

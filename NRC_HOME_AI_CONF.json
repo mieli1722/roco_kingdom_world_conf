@@ -2862,5 +2862,478 @@
     "group_configuration_id": 280021,
     "group_event_id": 280236,
     "group_initiator_role_type": 7501
+  },
+  {
+    "id": 28039,
+    "editor_name": "S3赛季-云梦豚专属画框",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 16,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 122,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 19,
+    "fn_role_id": 7502,
+    "group_configuration_id": 280021,
+    "group_event_id": 280244,
+    "group_initiator_role_type": 7502
+  },
+  {
+    "id": 28040,
+    "editor_name": "测风蝉直升飞机",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 123,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 70,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 5000,
+    "successful_detection_cd": 300000,
+    "successful_cd_float_detection": 60000,
+    "initiator_role_id": [
+      123
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280245,
+    "group_initiator_role_type": 123
+  },
+  {
+    "id": 28041,
+    "editor_name": "小浣蛋绑架精灵",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 124,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "initiator_role_id": [
+      124
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280246,
+    "group_initiator_role_type": 124
+  },
+  {
+    "id": 28042,
+    "editor_name": "未完虫蝴蝶翅膀",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 125,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 2,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "initiator_role_id": [
+      125
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280248,
+    "group_initiator_role_type": 125
+  },
+  {
+    "id": 28043,
+    "editor_name": "玳龟扫射炮弹",
+    "ai_disable_event_switch": true,
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 129,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 28043,
+    "initiator_role_id": [
+      129
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280250,
+    "group_initiator_role_type": 129
+  },
+  {
+    "id": 28044,
+    "editor_name": "玳塔蓄能炮弹",
+    "ai_disable_event_switch": true,
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 130,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 28043,
+    "initiator_role_id": [
+      130
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280251,
+    "group_initiator_role_type": 130
+  },
+  {
+    "id": 28045,
+    "editor_name": "樟脑丸情绪波动",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 126,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 10000,
+    "detecting_cd_float": 10000,
+    "successful_detection_cd": 30000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 20,
+    "initiator_role_id": [
+      126
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280252,
+    "group_initiator_role_type": 126
+  },
+  {
+    "id": 28046,
+    "editor_name": "樟脑丸情绪波动",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 126,
+        "number": 2,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 10000,
+    "detecting_cd_float": 10000,
+    "successful_detection_cd": 30000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 20,
+    "initiator_role_id": [
+      126
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280252,
+    "group_initiator_role_type": 126
+  },
+  {
+    "id": 28047,
+    "editor_name": "樟脑丸情绪波动",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 126,
+        "number": 3,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 10000,
+    "detecting_cd_float": 10000,
+    "successful_detection_cd": 30000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 20,
+    "initiator_role_id": [
+      126
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280252,
+    "group_initiator_role_type": 126
+  },
+  {
+    "id": 28048,
+    "editor_name": "樟脑丸情绪波动",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 126,
+        "number": 4,
+        "comparison_symbols": 6,
+        "operand": 2
+      }
+    ],
+    "detecting_cd": 10000,
+    "detecting_cd_float": 10000,
+    "successful_detection_cd": 30000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 20,
+    "initiator_role_id": [
+      126
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280252,
+    "group_initiator_role_type": 126
+  },
+  {
+    "id": 28049,
+    "editor_name": "S4赛季机械臂",
+    "ai_disable_event_switch": true,
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 21,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      },
+      {
+        "activation_condition_parameter": 36,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 8202,
+    "group_configuration_id": 280021,
+    "group_event_id": 280253,
+    "group_initiator_role_type": 8202
+  },
+  {
+    "id": 28050,
+    "editor_name": "S4赛季跑步机",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 21,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 8201,
+    "group_configuration_id": 280021,
+    "group_event_id": 280257,
+    "group_initiator_role_type": 8201
+  },
+  {
+    "id": 28051,
+    "editor_name": "S4赛季扫地机",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 8203,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 38,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "group_npc_id": [
+      45431
+    ],
+    "initiator_role_id": [
+      8203
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 280256,
+    "group_initiator_role_type": 8203
+  },
+  {
+    "id": 28052,
+    "editor_name": "S4赛季休眠舱休息",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 21,
+    "fn_role_id": 6102,
+    "group_configuration_id": 280021,
+    "group_event_id": 280254,
+    "group_initiator_role_type": 6102
+  },
+  {
+    "id": 28053,
+    "editor_name": "S4赛季休眠舱害怕",
+    "cell_ai_group_param": [
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 2,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 50,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "cd_group": 21,
+    "fn_role_id": 6102,
+    "group_configuration_id": 280021,
+    "group_event_id": 280255,
+    "group_initiator_role_type": 6102
+  },
+  {
+    "id": 30000,
+    "editor_name": "测风蝉直升飞机2",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 123,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 72,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 5000,
+    "successful_detection_cd": 300000,
+    "successful_cd_float_detection": 60000,
+    "initiator_role_id": [
+      123
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 300131,
+    "group_initiator_role_type": 123
+  },
+  {
+    "id": 30001,
+    "editor_name": "S4赛季毛头小蛛家族攻击扫地机",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 8203,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition_parameter": 131,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 25000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 40000,
+    "successful_cd_float_detection": 500,
+    "group_npc_id": [
+      45431
+    ],
+    "initiator_role_id": [
+      8203
+    ],
+    "group_configuration_id": 280021,
+    "group_event_id": 300132,
+    "group_initiator_role_type": 8203
+  },
+  {
+    "id": 30002,
+    "editor_name": "未完虫上画",
+    "cell_ai_group_param": [
+      {
+        "activation_condition_parameter": 125,
+        "number": 1,
+        "comparison_symbols": 6,
+        "operand": 2
+      },
+      {
+        "activation_condition": 5,
+        "activation_condition_parameter": 16,
+        "number": 1,
+        "comparison_symbols": 6
+      }
+    ],
+    "detecting_cd": 45000,
+    "detecting_cd_float": 500,
+    "successful_detection_cd": 240000,
+    "successful_cd_float_detection": 500,
+    "fn_role_id": 7500,
+    "group_configuration_id": 280021,
+    "group_event_id": 300133,
+    "group_initiator_role_type": 7500
   }
 ]
