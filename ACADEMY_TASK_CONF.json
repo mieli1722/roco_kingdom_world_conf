@@ -30,7 +30,8 @@
     "task_type": 4,
     "task_variable": 1,
     "task_loop": 3,
-    "get_score": 1
+    "get_score": 1,
+    "show_limit_tips": "同一名小洛克每日仅限1次"
   },
   {
     "id": 4,
@@ -39,7 +40,8 @@
     "task_type": 3,
     "task_variable": 1,
     "task_loop": 3,
-    "get_score": 1
+    "get_score": 1,
+    "show_limit_tips": "同一名小洛克每日仅限1次"
   },
   {
     "id": 5,
@@ -72,7 +74,8 @@
     "task_type": 10,
     "task_variable": 1,
     "task_loop": 3,
-    "get_score": 1
+    "get_score": 1,
+    "show_limit_tips": "同一名小洛克每日仅限1次"
   },
   {
     "id": 8,
@@ -105,7 +108,8 @@
     "task_type": 13,
     "task_variable": 5,
     "task_loop": 3,
-    "get_score": 1
+    "get_score": 1,
+    "show_limit_tips": "同一名小洛克每日仅限1次"
   },
   {
     "id": 11,
@@ -138,5 +142,15 @@
     "task_variable": 500000,
     "task_loop": 3,
     "get_score": 1
+  },
+  {
+    "id": 14,
+    "task_name": "仪典学-分享照片获得点赞",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>分享照片获得5次点赞",
+    "task_type": 15,
+    "task_variable": 5,
+    "task_loop": 3,
+    "get_score": 1,
+    "show_limit_tips": "同一名小洛克每日仅限1次"
   }
 ]

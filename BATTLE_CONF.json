@@ -126053,6 +126053,48 @@
     "npc_round_tip_scale": 100
   },
   {
+    "id": 340010,
+    "name": "3v3 PVP 随机对决",
+    "type": 44,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Boss;Boss;PVP",
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 20,
+    "npc_battle_list": [
+      {}
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 340011,
+    "name": "3v3 PVP 奇异对决",
+    "type": 45,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "bgm_battle_state": "Battle_Type;Boss;Boss;PVP",
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 15,
+    "npc_battle_list": [
+      {}
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
     "id": 341001,
     "name": "PVP 排位赛-机器人战斗1",
     "type": 22,
@@ -126540,6 +126582,138 @@
         ],
         "pos3_1st": [
           1658
+        ]
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 341014,
+    "name": "PVP 极速对决随机对决 机器人战斗",
+    "type": 44,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 35,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 16025,
+        "npc_title_1st": "测试用",
+        "pos1_1st": [
+          1611
+        ],
+        "pos2_1st": [
+          1612
+        ],
+        "pos3_1st": [
+          1613
+        ]
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 341015,
+    "name": "PVP 极速对决随机对决 机器人战斗",
+    "type": 44,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 35,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 16025,
+        "npc_title_1st": "测试用",
+        "pos1_1st": [
+          1614
+        ],
+        "pos2_1st": [
+          1615
+        ],
+        "pos3_1st": [
+          1616
+        ]
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 341016,
+    "name": "PVP 极速对决奇异对决 机器人战斗",
+    "type": 45,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 35,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 16025,
+        "npc_title_1st": "测试用",
+        "pos1_1st": [
+          1611
+        ],
+        "pos2_1st": [
+          1612
+        ],
+        "pos3_1st": [
+          1613
+        ]
+      }
+    ],
+    "npc_round_scale": 100,
+    "npc_round_tip_scale": 100
+  },
+  {
+    "id": 341017,
+    "name": "PVP 极速对决奇异对决 机器人战斗",
+    "type": 45,
+    "opposite_type": 2,
+    "show_availableHP_rule": 1,
+    "role_available_HP": 2,
+    "rival_available_HP": 2,
+    "challanger_unit_num": 1,
+    "bechallanger_unit_num": 1,
+    "max_round": 50,
+    "background_music": 9022,
+    "can_escape": 1,
+    "can_changepet": 1,
+    "round_pet_timeout": 35,
+    "npc_battle_list": [
+      {
+        "battle_model_1st": 16025,
+        "npc_title_1st": "测试用",
+        "pos1_1st": [
+          1614
+        ],
+        "pos2_1st": [
+          1615
+        ],
+        "pos3_1st": [
+          1616
         ]
       }
     ],

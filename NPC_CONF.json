@@ -273308,6 +273308,56 @@
     "can_be_bound_and_hidden": true
   },
   {
+    "id": 63048,
+    "reward_drop_type": 1,
+    "name": "「极速对决」导师",
+    "model_conf": 10084,
+    "original_action": "Relax1",
+    "ai_perform_group": 50,
+    "bulky": 2,
+    "show_name": 1,
+    "title_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_pvp_RandomJinling_png.img_pvp_RandomJinling_png'",
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      6304801,
+      6304500
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "freeze_movement_when_spawn": true,
+    "can_be_bound_and_hidden": true
+  },
+  {
+    "id": 63049,
+    "reward_drop_type": 1,
+    "name": "「极速对决」导师",
+    "model_conf": 10080,
+    "original_action": "Relax1",
+    "ai_perform_group": 50,
+    "bulky": 2,
+    "show_name": 1,
+    "title_icon_path": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/img_pvp_RandomJinling_png.img_pvp_RandomJinling_png'",
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      6304901,
+      6304500
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "freeze_movement_when_spawn": true,
+    "can_be_bound_and_hidden": true
+  },
+  {
     "id": 63300,
     "reward_drop_type": 1,
     "name": "传送工具人",

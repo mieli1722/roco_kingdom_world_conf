@@ -83,7 +83,7 @@
     "academy_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_xueyuan_yidian2_png.img_xueyuan_yidian2_png'",
     "privilege_title": "仪典学专属特权",
     "task_title": "仪典学研习内容",
-    "task_des": "<img id=\"StarPoint\"/>每周研习：晚风小憩获得2400星光\n<img id=\"StarPoint\"/>赛季研习：通过皮卡商店或随机商店收集10个时装部件\n<img id=\"StarPoint\"/>无限研习：留言/留影被互动5次<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>",
+    "task_des": "<img id=\"StarPoint\"/>每周研习：晚风小憩获得2400星光\n<img id=\"StarPoint\"/>赛季研习：通过皮卡商店或随机商店收集10个时装部件\n<img id=\"StarPoint\"/>无限研习：留言/留影被互动5次<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>\n<img id=\"StarPoint\"/>无限研习：分享照片累计获得5次点赞<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>",
     "academy_npc_refresh": 20050,
     "privilege_png": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_InvitationPhoto4.img_InvitationPhoto4'",
     "table_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_Icon_jidian2_png.img_Icon_jidian2_png'",
@@ -103,6 +103,10 @@
       {
         "task_title": "无限研习：",
         "task_info": "留言/留影被互动5次<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>"
+      },
+      {
+        "task_title": "无限研习：",
+        "task_info": "分享照片累计获得5次点赞<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>"
       }
     ],
     "academy_privilege_des": [

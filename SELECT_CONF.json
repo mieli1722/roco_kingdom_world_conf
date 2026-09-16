@@ -71984,6 +71984,89 @@
     ]
   },
   {
+    "id": 63048011,
+    "text": "寻找对手！",
+    "opt_dia_relate": [
+      6304801
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63048011
+  },
+  {
+    "id": 63048023,
+    "online_process": 3,
+    "text": "离开",
+    "opt_dia_relate": [
+      6304801
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_fanhui_png.img_fanhui_png'",
+    "times": -1,
+    "obtain_story_flags": [
+      9
+    ]
+  },
+  {
+    "id": 63049011,
+    "text": "寻找对手！",
+    "opt_dia_relate": [
+      6304901
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_zhandou_png.img_zhandou_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63049011
+  },
+  {
+    "id": 63049012,
+    "text": "精灵编队",
+    "opt_dia_relate": [
+      6304901
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_jinglingbiandui_png.img_jinglingbiandui_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63049021
+  },
+  {
+    "id": 63049021,
+    "online_process": 3,
+    "text": "取消",
+    "opt_dia_relate": [
+      6304901
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63049010
+  },
+  {
+    "id": 63049022,
+    "online_process": 3,
+    "text": "确认",
+    "opt_dia_relate": [
+      6304901
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Dialogue/Raw/Frames/img_duihua_png.img_duihua_png'",
+    "times": -1,
+    "notimes_disable": 1,
+    "select_next_dialogue": 63049013
+  },
+  {
+    "id": 63049023,
+    "online_process": 3,
+    "text": "离开",
+    "opt_dia_relate": [
+      6304901
+    ],
+    "select_icon": "PaperSprite'/Game/NewRoco/Modules/System/Camping/Raw/Frames/img_fanhui_png.img_fanhui_png'",
+    "times": -1,
+    "obtain_story_flags": [
+      9
+    ]
+  },
+  {
     "id": 73100310,
     "online_process": 3,
     "text": "炼金造物",

@@ -445,5 +445,63 @@
     ],
     "start_time": "2026-08-17 04:00:00",
     "end_time": "2026-08-31 03:59:59"
+  },
+  {
+    "id": 9001,
+    "sequence": 9,
+    "name": "命运对决",
+    "des": "使用3只随机精灵进行对决！",
+    "npcid": 4100013,
+    "npc_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10084.10084'",
+    "banner": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_3v3.img_3v3'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_pvpsuiji_png.img_pvpsuiji_png'",
+    "icon_color": "433f84",
+    "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_cao.img_cao'",
+    "time": 60,
+    "battle_config": 340010,
+    "team_type": 14,
+    "air_wall": 81030005,
+    "team_num": 3,
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ],
+    "rule_num": 3,
+    "start_time": "2030-10-12 04:00:00",
+    "end_time": "2030-10-26 03:59:59"
+  },
+  {
+    "id": 10001,
+    "sequence": 10,
+    "name": "奇异对决",
+    "des": "携带3只奇异或污染血脉精灵进行对决！",
+    "npcid": 4100014,
+    "npc_icon": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/10080.10080'",
+    "banner": "PaperSprite'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/PVP/img_3v3.img_3v3'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/PetUI/Raw/Impression/Frames/img_pvpsuiji_png.img_pvpsuiji_png'",
+    "icon_color": "433f84",
+    "ticket_stub": "Texture2D'/Game/NewRoco/Modules/System/MagicManual/Raw/MagicManual/Textures/TitleBg/img_cao.img_cao'",
+    "time": 30,
+    "battle_config": 340011,
+    "team_type": 15,
+    "air_wall": 81030005,
+    "team_num": 3,
+    "mappoint": [
+      "103;430811;671497;890",
+      "103;404147;642168;1121"
+    ],
+    "rule_tips": "双方拥有2点魔力，可上阵3只精灵，每只精灵必须为奇异血脉或者污染血脉。",
+    "rule_num": 3,
+    "rule_list": [
+      {
+        "rule": 3,
+        "para": [
+          23,
+          24
+        ]
+      }
+    ],
+    "start_time": "2030-09-21 04:00:00",
+    "end_time": "2030-10-05 03:59:59"
   }
 ]

@@ -273045,5 +273045,275 @@
       {}
     ],
     "auto_finish": 1
+  },
+  {
+    "id": 110000831,
+    "name": "「奇异对决」累计参与1次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          9001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100013"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000832,
+    "name": "「奇异对决」累计参与3次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          9001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100013"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000833,
+    "name": "「奇异对决」累计参与5次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          9001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100013"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000834,
+    "name": "「奇异对决」取得1次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          9001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100013"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000835,
+    "name": "「奇异对决」取得3次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          9001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100013"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000836,
+    "name": "「命运对决」累计参与1次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          10001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100014"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000837,
+    "name": "「命运对决」累计参与3次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          10001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100014"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000838,
+    "name": "「命运对决」累计参与5次",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          10001
+        ],
+        "data2": [
+          0
+        ],
+        "count": 5
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100014"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000839,
+    "name": "「命运对决」取得1次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          10001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100014"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000840,
+    "name": "「命运对决」取得3次胜利",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "type": 341,
+        "data1": [
+          10001
+        ],
+        "data2": [
+          1
+        ],
+        "count": 3
+      }
+    ],
+    "go_guide": [
+      {
+        "type": 5,
+        "text": "BigMapModuleCmd.OnTraceForceShowNpc",
+        "args": "4100014"
+      }
+    ],
+    "auto_finish": 1,
+    "peer_available": true,
+    "online_process": 3
   }
 ]

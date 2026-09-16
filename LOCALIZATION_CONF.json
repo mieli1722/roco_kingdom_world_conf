@@ -36128,7 +36128,7 @@
   },
   {
     "id": "Invite_Academy_Tips",
-    "msg": "后续可切换其他学院"
+    "msg": "开启分学院任务后不可切换或放弃，任务完成后需两周才可更换学院"
   },
   {
     "id": "ACADEMY_SEMESTER_SCORE",
@@ -37792,7 +37792,7 @@
   },
   {
     "id": "Error_Code_3701",
-    "msg": "该精灵暂不支持试用"
+    "msg": "阵容中包含不允许试用的精灵"
   },
   {
     "id": "Error_Code_3700",
@@ -37985,5 +37985,21 @@
   {
     "id": "fuyuewangguowuhui1",
     "msg": "舞会伴手礼"
+  },
+  {
+    "id": "join_academy_pre_tips",
+    "msg": "已选定：%s"
+  },
+  {
+    "id": "change_academy_show_tips",
+    "msg": "切换分院服需完成"
+  },
+  {
+    "id": "join_academy_pre_button",
+    "msg": "开启任务"
+  },
+  {
+    "id": "Error_Code_3705",
+    "msg": "奇异技能缺失，无法试用"
   }
 ]
