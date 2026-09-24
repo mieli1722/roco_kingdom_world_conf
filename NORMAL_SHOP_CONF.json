@@ -500,7 +500,7 @@
     "shop_id": 8010,
     "goods_name": "10积分卡",
     "enable": true,
-    "shop_pos": 4,
+    "shop_pos": 99,
     "Type": 2,
     "item_id": 40,
     "item_num": 10,
@@ -640,7 +640,7 @@
     "shop_id": 8010,
     "goods_name": "国王球",
     "enable": true,
-    "shop_pos": 3,
+    "shop_pos": 98,
     "Type": 1,
     "item_id": 100255,
     "item_num": 1,
@@ -1081,7 +1081,7 @@
     "shop_id": 8010,
     "goods_name": "织梦棱镜球",
     "enable": true,
-    "shop_pos": 1,
+    "shop_pos": 3,
     "Type": 1,
     "item_id": 100288,
     "item_num": 1,
@@ -2099,14 +2099,222 @@
   {
     "id": 229100,
     "shop_id": 11002,
+    "goods_name": "说明须知",
+    "enable": true,
+    "shop_pos": 20,
+    "Type": 1,
+    "item_id": 320180,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229121,
+    "shop_id": 11002,
     "goods_name": "可可果球",
     "enable": true,
-    "shop_pos": 1,
+    "shop_pos": 10,
     "Type": 1,
     "item_id": 100287,
     "item_num": 1,
     "price_goods_type": 2,
     "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-25 04:00:00",
+    "disable_time": "2026-09-26 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229122,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-26 04:00:00",
+    "disable_time": "2026-09-27 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229123,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-27 04:00:00",
+    "disable_time": "2026-09-28 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229124,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-28 04:00:00",
+    "disable_time": "2026-09-29 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229125,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-29 04:00:00",
+    "disable_time": "2026-09-30 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229126,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-09-30 04:00:00",
+    "disable_time": "2026-10-01 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229127,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-01 04:00:00",
+    "disable_time": "2026-10-02 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229128,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-02 04:00:00",
+    "disable_time": "2026-10-03 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229129,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-03 04:00:00",
+    "disable_time": "2026-10-04 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229130,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-04 04:00:00",
+    "disable_time": "2026-10-05 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229131,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-05 04:00:00",
+    "disable_time": "2026-10-06 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229132,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-06 04:00:00",
+    "disable_time": "2026-10-07 03:59:59",
+    "fashion_random_shop": {}
+  },
+  {
+    "id": 229133,
+    "shop_id": 11002,
+    "goods_name": "可可果球",
+    "enable": true,
+    "shop_pos": 10,
+    "Type": 1,
+    "item_id": 100287,
+    "item_num": 1,
+    "price_goods_type": 2,
+    "price_goods_id": 1,
+    "buy_limit_num": 20,
+    "enable_time": "2026-10-07 04:00:00",
+    "disable_time": "2026-10-08 03:59:59",
     "fashion_random_shop": {}
   },
   {
@@ -33180,7 +33388,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001300,
@@ -33212,7 +33420,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001301,
@@ -33448,7 +33656,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001314,
@@ -33480,7 +33688,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001315,
@@ -33716,7 +33924,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001328,
@@ -33748,7 +33956,7 @@
       "enable": true,
       "enable_time": "2026-12-04 04:00:00"
     },
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001329,
@@ -33980,7 +34188,7 @@
     "enable_time": "2026-10-09 04:00:00",
     "disable_time": "2026-10-23 04:00:00",
     "fashion_random_shop": {},
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001342,
@@ -34008,7 +34216,7 @@
     "enable_time": "2026-10-09 04:00:00",
     "disable_time": "2026-10-23 04:00:00",
     "fashion_random_shop": {},
-    "resource_inpackage": "111-week3"
+    "resource_inpackage": "111-week2"
   },
   {
     "id": 24001343,

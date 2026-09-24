@@ -155,8 +155,8 @@
   {
     "id": 10019,
     "drop_behavior": 20,
-    "begin_time": "2026-09-25 04:00:00",
-    "end_time": "2026-10-09 03:59:59",
+    "begin_time": "2026-10-02 04:00:00",
+    "end_time": "2026-10-16 03:59:59",
     "reward_group": [
       {
         "goods_type": 1,
@@ -247,7 +247,7 @@
         "goods_id": 6,
         "goods_count": 6,
         "day_got_limit": 1200,
-        "total_got_limit": 86400
+        "total_got_limit": 18000
       }
     ]
   },
@@ -260,7 +260,7 @@
         "goods_id": 6,
         "goods_count": 6,
         "day_got_limit": 1200,
-        "total_got_limit": 86400
+        "total_got_limit": 18000
       }
     ]
   },
@@ -273,7 +273,7 @@
         "goods_id": 6,
         "goods_count": 12,
         "day_got_limit": 1200,
-        "total_got_limit": 86400
+        "total_got_limit": 18000
       }
     ]
   },
@@ -287,7 +287,7 @@
         "goods_id": 6,
         "goods_count": 6,
         "day_got_limit": 1200,
-        "total_got_limit": 86400
+        "total_got_limit": 18000
       }
     ]
   },
@@ -301,7 +301,118 @@
         "goods_id": 6,
         "goods_count": 12,
         "day_got_limit": 1200,
-        "total_got_limit": 86400
+        "total_got_limit": 18000
+      }
+    ]
+  },
+  {
+    "id": 2701016,
+    "drop_behavior": 23,
+    "area_param": 641030046,
+    "area_id": 641030046,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 2000,
+        "total_got_limit": 42000
+      }
+    ]
+  },
+  {
+    "id": 2701017,
+    "drop_behavior": 23,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 2000,
+        "total_got_limit": 42000
+      }
+    ]
+  },
+  {
+    "id": 2701018,
+    "drop_behavior": 23,
+    "area_param": 1,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 2000,
+        "total_got_limit": 42000
+      }
+    ]
+  },
+  {
+    "id": 2701022,
+    "drop_behavior": 23,
+    "area_param": 641030046,
+    "area_id": 641030046,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 1200,
+        "total_got_limit": 24000
+      }
+    ]
+  },
+  {
+    "id": 2701023,
+    "drop_behavior": 23,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 1200,
+        "total_got_limit": 24000
+      }
+    ]
+  },
+  {
+    "id": 2701024,
+    "drop_behavior": 23,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "day_got_limit": 1200,
+        "total_got_limit": 24000
+      }
+    ]
+  },
+  {
+    "id": 2701025,
+    "drop_behavior": 23,
+    "area_param": 1,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 6,
+        "day_got_limit": 1200,
+        "total_got_limit": 24000
+      }
+    ]
+  },
+  {
+    "id": 2701026,
+    "drop_behavior": 23,
+    "area_param": 1,
+    "reward_group": [
+      {
+        "goods_type": 2,
+        "goods_id": 6,
+        "goods_count": 12,
+        "day_got_limit": 1200,
+        "total_got_limit": 24000
       }
     ]
   },

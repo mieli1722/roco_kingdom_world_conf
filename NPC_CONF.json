@@ -26058,6 +26058,110 @@
     "can_be_bound_and_hidden": true
   },
   {
+    "id": 10895,
+    "reward_drop_type": 1,
+    "name": "护主犬",
+    "model_conf": 14878,
+    "LocationTag": 5,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "npc_nameplate_show_distance": 2000,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "monster_fightflee_type": 1,
+    "throwing_interact_type": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      10895,
+      62010
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3870
+    ],
+    "nightmare_ai_group": 100001,
+    "ai_group_role_id": [
+      1008
+    ],
+    "can_be_bound_and_hidden": true
+  },
+  {
+    "id": 10896,
+    "reward_drop_type": 1,
+    "name": "音速犬",
+    "model_conf": 14879,
+    "LocationTag": 5,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "npc_nameplate_show_distance": 2000,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "monster_fightflee_type": 1,
+    "throwing_interact_type": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      10896,
+      62010,
+      70061
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3871
+    ],
+    "nightmare_ai_group": 100001,
+    "ai_group_role_id": [
+      1008
+    ],
+    "can_be_bound_and_hidden": true
+  },
+  {
+    "id": 10897,
+    "reward_drop_type": 1,
+    "name": "公平鸽",
+    "model_conf": 14880,
+    "LocationTag": 5,
+    "shining_ai_conf": 2,
+    "icon": "yanjiuyuan",
+    "bulky": 3,
+    "npc_nameplate_show_distance": 2000,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "monster_fightflee_type": 1,
+    "throwing_interact_type": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      10897,
+      62010
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_minigame": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3872
+    ],
+    "nightmare_ai_group": 100001,
+    "ai_group_role_id": [
+      1008
+    ],
+    "can_be_bound_and_hidden": true
+  },
+  {
     "id": 11001,
     "reward_drop_type": 1,
     "name": "测试专用睡眠喵喵",
@@ -230343,6 +230447,181 @@
     "npc_role_type": 1
   },
   {
+    "id": 53918,
+    "reward_drop_type": 1,
+    "name": "护主犬",
+    "model_conf": 14878,
+    "ai_perform_group": 5070,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      150001
+    ],
+    "aura_id": [
+      10015
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3870
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 380038,
+        "ai_group_role": 9,
+        "ai_group_role_id": [
+          9
+        ]
+      },
+      {
+        "ai_group": 380012,
+        "ai_group_role": 2,
+        "ai_group_role_id": [
+          2
+        ]
+      },
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          22,
+          38,
+          46,
+          50
+        ]
+      },
+      {},
+      {
+        "ai_group": 100001,
+        "ai_group_role_id": [
+          999
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 1
+  },
+  {
+    "id": 53919,
+    "reward_drop_type": 1,
+    "name": "音速犬",
+    "model_conf": 14879,
+    "ai_perform_group": 5071,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      150001
+    ],
+    "aura_id": [
+      10016
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3871
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 380038,
+        "ai_group_role": 9,
+        "ai_group_role_id": [
+          9
+        ]
+      },
+      {},
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          22,
+          39,
+          44,
+          50
+        ]
+      },
+      {},
+      {
+        "ai_group": 100001,
+        "ai_group_role_id": [
+          999
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 1
+  },
+  {
+    "id": 53920,
+    "reward_drop_type": 1,
+    "name": "公平鸽",
+    "model_conf": 14880,
+    "ai_perform_group": 5499,
+    "icon": "yanjiuyuan",
+    "bulky": 3,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "monster_hit_type": 1,
+    "option_id": [
+      150001
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3872
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 380038,
+        "ai_group_role": 9,
+        "ai_group_role_id": [
+          9
+        ]
+      },
+      {},
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          20,
+          38,
+          48,
+          50,
+          63,
+          68,
+          74
+        ]
+      },
+      {},
+      {
+        "ai_group": 100001,
+        "ai_group_role_id": [
+          999,
+          120
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 1
+  },
+  {
     "id": 54000,
     "reward_drop_type": 1,
     "name": "小鹬",
@@ -413394,6 +413673,144 @@
     "can_be_bound_and_hidden": true,
     "npc_role_type": 2,
     "ai_random_pool_id": 710748
+  },
+  {
+    "id": 710777,
+    "reward_drop_type": 1,
+    "name": "护主犬",
+    "model_conf": 14878,
+    "ai_perform_group": 42,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      720000013,
+      720000014,
+      720000015,
+      720000016,
+      150011
+    ],
+    "aura_id": [
+      10015
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3870
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          22,
+          38,
+          46,
+          50
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 2,
+    "ai_random_pool_id": 710069
+  },
+  {
+    "id": 710778,
+    "reward_drop_type": 1,
+    "name": "音速犬",
+    "model_conf": 14879,
+    "ai_perform_group": 40,
+    "icon": "yanjiuyuan",
+    "bulky": 2,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      720000013,
+      720000014,
+      720000015,
+      720000016,
+      150011
+    ],
+    "aura_id": [
+      10016
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3871
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          22,
+          39,
+          44,
+          50
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 2,
+    "ai_random_pool_id": 710070
+  },
+  {
+    "id": 710779,
+    "reward_drop_type": 1,
+    "name": "公平鸽",
+    "model_conf": 14880,
+    "ai_perform_group": 44,
+    "icon": "yanjiuyuan",
+    "bulky": 3,
+    "show_name": 1,
+    "npc_nameplate_show_distance": 1300,
+    "npc_speed": 400,
+    "model_scale": 100,
+    "lock_on_ground": 1,
+    "npc_interact_type": 2,
+    "option_id": [
+      720000013,
+      720000014,
+      720000015,
+      720000016,
+      150011
+    ],
+    "can_hide_in_sequence": 1,
+    "can_hide_in_player_condition": 1,
+    "can_hide_in_pvp": 1,
+    "traverse_data_type": 1,
+    "traverse_data_param": [
+      3872
+    ],
+    "ai_group_param": [
+      {
+        "ai_group": 280021,
+        "ai_group_role_id": [
+          20,
+          38,
+          48,
+          50,
+          63,
+          68,
+          74
+        ]
+      }
+    ],
+    "can_be_bound_and_hidden": true,
+    "npc_role_type": 2,
+    "ai_random_pool_id": 710470
   },
   {
     "id": 720009,

@@ -17357,6 +17357,102 @@
     "selfie_takephoto_params": "0;33;0;222;41;0;150"
   },
   {
+    "id": 3870,
+    "editor_name": "护主犬(看守麦田的样子)",
+    "animation_name": "Fir_YinSuQuan1Ar_001",
+    "monitor_data_version": 111,
+    "basic_movement_list": [
+      11001
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70002
+    ],
+    "second_active_skill__list": [
+      40006
+    ],
+    "model_scale": 105,
+    "capsule_half_height": 90,
+    "capsule_radius": 50,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "start_lava_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -50,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;27;0;124;68;0;136"
+  },
+  {
+    "id": 3871,
+    "editor_name": "音速犬(看守麦田的样子)",
+    "animation_name": "Fir_YinSuQuan2Ar_001",
+    "monitor_data_version": 111,
+    "basic_movement_list": [
+      12001,
+      30201,
+      240001
+    ],
+    "passive_skill": [
+      2003,
+      5001,
+      4002
+    ],
+    "active_skill_list": [
+      60005,
+      80001,
+      70001
+    ],
+    "second_active_skill__list": [
+      40001,
+      150002,
+      70003
+    ],
+    "model_scale": 153,
+    "capsule_half_height": 70,
+    "capsule_radius": 57,
+    "mesh_offset_z": -70,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 90,
+    "start_lava_swim_water_depth": 80,
+    "max_step_height": 40,
+    "ride_throw_camera_offset_x": -350,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": 5,
+    "ride_foot_num": 4,
+    "selfie_takephoto_params": "0;30;0;190;50;0;150"
+  },
+  {
+    "id": 3872,
+    "editor_name": "公平鸽（称量的样子）",
+    "animation_name": "Com_GongPingGe1Ar_001",
+    "monitor_data_version": 111,
+    "basic_movement_list": [
+      11015
+    ],
+    "passive_skill": [
+      5002
+    ],
+    "active_skill_list": [
+      70001
+    ],
+    "model_scale": 100,
+    "capsule_half_height": 90,
+    "capsule_radius": 60,
+    "mesh_offset_z": -90,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 60,
+    "start_lava_swim_water_depth": 60,
+    "ride_throw_camera_offset_x": -210,
+    "ride_throw_camera_offset_y": 65,
+    "ride_throw_camera_offset_z": -50,
+    "ride_foot_num": 3,
+    "selfie_takephoto_params": "0;31;0;183;38;0;150"
+  },
+  {
     "id": 5001,
     "editor_name": "钻石蜗",
     "animation_name": "Lig_KuangChongBo_001",
@@ -19277,6 +19373,42 @@
     "start_lava_swim_water_depth": 60,
     "throw_switch": true,
     "selfie_takephoto_params": "0;22;0;200;33;0;150"
+  },
+  {
+    "id": 5075,
+    "editor_name": "风暴战犬（护主犬(看守麦田的样子)进化而来）",
+    "animation_name": "Fir_YinSuQuanBo_001",
+    "monitor_data_version": 111,
+    "basic_movement_list": [
+      12001,
+      30201,
+      240001
+    ],
+    "passive_skill": [
+      2003,
+      5001,
+      4002
+    ],
+    "active_skill_list": [
+      60005,
+      80001,
+      70001
+    ],
+    "second_active_skill__list": [
+      40001,
+      150002,
+      70003
+    ],
+    "model_scale": 190,
+    "capsule_half_height": 75,
+    "capsule_radius": 56,
+    "mesh_offset_z": -75,
+    "climb_mesh_offset": "X=0.000 Y=0.000 Z=0.000",
+    "start_swim_water_depth": 120,
+    "start_lava_swim_water_depth": 110,
+    "ride_foot_num": 4,
+    "eyes_view_point_offset_z": 15,
+    "selfie_takephoto_params": "0;16;0;129;15;0;150"
   },
   {
     "id": 9801,

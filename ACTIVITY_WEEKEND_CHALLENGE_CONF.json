@@ -285,7 +285,17 @@
       12
     ],
     "entry_a": 1,
-    "entry_b": 1
+    "entry_b": 1,
+    "condition_group": [
+      {
+        "way": 1,
+        "rate": 200
+      },
+      {
+        "way": 2,
+        "rate": 200
+      }
+    ]
   },
   {
     "id": 3300030,

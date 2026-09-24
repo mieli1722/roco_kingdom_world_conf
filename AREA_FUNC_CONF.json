@@ -18083,6 +18083,40 @@
     "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
   },
   {
+    "id": 5000030,
+    "area_id": [
+      451030228
+    ],
+    "name": "- 星光庇护所 -",
+    "broadcast_type": 4,
+    "name_priority": 15,
+    "battle_source": "L_Demo03_Combat",
+    "switch_group_name": "World_Time",
+    "area_bgm": [
+      {
+        "end_time": 15600,
+        "switch": "Night"
+      },
+      {
+        "start_time": 15600,
+        "end_time": 72000,
+        "switch": "Day"
+      },
+      {
+        "start_time": 72000,
+        "end_time": 86400,
+        "switch": "Night"
+      }
+    ],
+    "bgm_priority": 4,
+    "amb_switch": "YueYa_Lakeside",
+    "amb_switch_priority": 2,
+    "scene_effect": [
+      {}
+    ],
+    "water_platform": "Blueprint'/Game/NewRoco/Modules/Core/Battle/BP_WaterPlatform01.BP_WaterPlatform01_C'"
+  },
+  {
     "id": 5000100,
     "area_id": [
       630000001

@@ -21288,6 +21288,93 @@
     "touch_battle_cd": 3000
   },
   {
+    "id": 10895,
+    "npc_aim_display": 1,
+    "online_process": 3,
+    "option_priority": 1,
+    "option_radius": -1,
+    "npc_interact_type": 1,
+    "unmount_type": 1,
+    "action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300874",
+      "action_param4": "1"
+    },
+    "pet_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300874"
+    },
+    "pet_power_dash_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300874"
+    },
+    "wild_action": {},
+    "magic_interact_id": 10001,
+    "touch_battle_cd": 3000
+  },
+  {
+    "id": 10896,
+    "npc_aim_display": 1,
+    "online_process": 3,
+    "option_priority": 1,
+    "logic_status_blacklist": [
+      1401
+    ],
+    "option_radius": -1,
+    "npc_interact_type": 1,
+    "unmount_type": 1,
+    "action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300875",
+      "action_param4": "1"
+    },
+    "pet_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300875"
+    },
+    "pet_power_dash_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300875"
+    },
+    "wild_action": {},
+    "magic_interact_id": 10001,
+    "touch_battle_cd": 3000
+  },
+  {
+    "id": 10897,
+    "npc_aim_display": 1,
+    "online_process": 3,
+    "option_priority": 1,
+    "option_radius": -1,
+    "npc_interact_type": 1,
+    "unmount_type": 1,
+    "action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300876",
+      "action_param4": "1"
+    },
+    "pet_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300876"
+    },
+    "pet_power_dash_action": {
+      "action_type": 10001,
+      "action_param1": "0",
+      "action_param2": "300876"
+    },
+    "wild_action": {},
+    "magic_interact_id": 10001,
+    "touch_battle_cd": 3000
+  },
+  {
     "id": 11001,
     "npc_aim_display": 1,
     "online_process": 3,

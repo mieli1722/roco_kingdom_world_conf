@@ -18527,6 +18527,33 @@
     "worldmap_npc_des": "魔法聚集在此，星光洒落一地，祝福将一直温暖地笼罩着你，直到晨光初现。\n好好休息吧，小魔法师。明天的王国还有更多奇遇等着你去探索！"
   },
   {
+    "id": 10000032,
+    "map_show_type": 1,
+    "npc_refresh_ids": [
+      2605612
+    ],
+    "name_area_id": 451030228,
+    "explored_in_compass": 1,
+    "unfinished_in_compass": 1,
+    "explored_in_minimap": 1,
+    "unfinished_in_minimap": 1,
+    "h_detection_range": "h_drange_Waypoint",
+    "v_detection_range": "v_drange_Waypoint",
+    "unexplored_in_map": 1,
+    "explored_in_map": 1,
+    "areaicon_explore": "img_yejianxiuxi_png.img_yejianxiuxi_png",
+    "npcicon_unlock": "img_yejianxiuxi_png.img_yejianxiuxi_png",
+    "teleport_id": 1541,
+    "map_func_icon_group": 2,
+    "element_show_scale": 4,
+    "lock_element_show_top": 1,
+    "unlock_element_show_top": 1,
+    "map_tips_show_type": 25,
+    "element_text_name": "星光庇护所",
+    "world_map_NPCicon_des": "PaperSprite'/Game/NewRoco/Modules/System/BigMap/Raw/Atlas/WorldMapNpc/Frames/TipDes_cangbaotu_png.TipDes_cangbaotu_png'",
+    "worldmap_npc_des": "可可丰收节期间，无论清晨、午后、还是深夜，「星光庇护所」都会在这里。"
+  },
+  {
     "id": 10000049,
     "map_show_type": 1,
     "npc_refresh_ids": [

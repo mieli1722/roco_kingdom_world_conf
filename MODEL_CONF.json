@@ -29181,6 +29181,90 @@
     ]
   },
   {
+    "id": 14878,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Fir_YinSuQuan1Ar_001/BP_Fir_YinSuQuan1Ar_001.BP_Fir_YinSuQuan1Ar_001_C'",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3870.3870'",
+    "shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3870.3870'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3870.3870'",
+    "big_shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3870.3870'",
+    "ui_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3870.3870'",
+    "small_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3870.3870'",
+    "capsule_radius": 55000,
+    "capsule_halfheight": 55000,
+    "model_scale": 105,
+    "exclude_nav_flag": 2,
+    "pet_habitat_flag": [
+      2,
+      4
+    ],
+    "enable_stick_to_socket": [
+      9,
+      10
+    ],
+    "enable_sticked_socket": [
+      9
+    ]
+  },
+  {
+    "id": 14879,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Fir_YinSuQuan2Ar_001/BP_Fir_YinSuQuan2Ar_001.BP_Fir_YinSuQuan2Ar_001_C'",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3871.3871'",
+    "shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3871.3871'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3871.3871'",
+    "big_shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3871.3871'",
+    "ui_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3871.3871'",
+    "small_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3871.3871'",
+    "capsule_radius": 61000,
+    "capsule_halfheight": 75000,
+    "model_scale": 123,
+    "exclude_nav_flag": 2,
+    "pet_habitat_flag": [
+      2,
+      4
+    ],
+    "enable_stick_to_socket": [
+      9,
+      10
+    ],
+    "enable_sticked_socket": [
+      9
+    ]
+  },
+  {
+    "id": 14880,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Com_GongPingGe1Ar_001/BP_Com_GongPingGe1Ar_001.BP_Com_GongPingGe1Ar_001_C'",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3872.3872'",
+    "shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3872.3872'",
+    "big_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3872.3872'",
+    "big_shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BigHeadIcon256/3872.3872'",
+    "ui_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3872.3872'",
+    "small_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3872.3872'",
+    "capsule_radius": 47000,
+    "capsule_halfheight": 54000,
+    "model_scale": 100,
+    "exclude_nav_flag": 22,
+    "pet_habitat_flag": [
+      0
+    ],
+    "enable_stick_to_socket": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "enable_sticked_socket": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
     "id": 15001,
     "path": "Blueprint'/Game/ArtRes/BP/Pets/Fir_HuoYu3_011/BP_Fir_HuoYu3_011.BP_Fir_HuoYu3_011_C'",
     "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/HeadIcon/3080.3080'",
@@ -42347,6 +42431,30 @@
     "model_scale": 100
   },
   {
+    "id": 3870001,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Fir_YinSuQuan0Ar_001/BP_Fir_YinSuQuan0Ar_001.BP_Fir_YinSuQuan0Ar_001_C'",
+    "capsule_radius": 21000,
+    "capsule_halfheight": 24000,
+    "model_scale": 80,
+    "exclude_nav_flag": 6,
+    "pet_habitat_flag": [
+      0
+    ],
+    "resource_inpackage_version": "111"
+  },
+  {
+    "id": 3872001,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Com_GongPingGe0Ar_001/BP_Com_GongPingGe0Ar_001.BP_Com_GongPingGe0Ar_001_C'",
+    "capsule_radius": 21000,
+    "capsule_halfheight": 24000,
+    "model_scale": 80,
+    "exclude_nav_flag": 6,
+    "pet_habitat_flag": [
+      0
+    ],
+    "resource_inpackage_version": "111"
+  },
+  {
     "id": 3900001,
     "path": "Blueprint'/Game/NewRoco/Modules/Core/NPC/Bud/BP_NPC_Bud_Gra.BP_NPC_Bud_Gra_C'",
     "capsule_radius": 242582,
@@ -46855,5 +46963,33 @@
     "pet_habitat_flag": [
       0
     ]
+  },
+  {
+    "id": 9000001,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Fir_YinSuQuan0Ar_001/BP_Fir_YinSuQuan0Ar_001.BP_Fir_YinSuQuan0Ar_001_C'",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_Fir_YinSuQuan0Ar_001_Egg.img_Fir_YinSuQuan0Ar_001_Egg'",
+    "shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_Fir_YinSuQuan0Ar_001_Egg.img_Fir_YinSuQuan0Ar_001_Egg'",
+    "capsule_radius": 21000,
+    "capsule_halfheight": 24000,
+    "model_scale": 80,
+    "exclude_nav_flag": 6,
+    "pet_habitat_flag": [
+      0
+    ],
+    "resource_inpackage_version": "111"
+  },
+  {
+    "id": 9000002,
+    "path": "Blueprint'/Game/ArtRes/BP/Pets/Com_GongPingGe0Ar_001/BP_Com_GongPingGe0Ar_001.BP_Com_GongPingGe0Ar_001_C'",
+    "icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/BagItem/img_Com_GongPingGe0Ar_001_Egg.img_Com_GongPingGe0Ar_001_Egg'",
+    "shiny_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/img_Com_GongPingGe0Ar_001_Egg.img_Com_GongPingGe0Ar_001_Egg'",
+    "capsule_radius": 21000,
+    "capsule_halfheight": 24000,
+    "model_scale": 80,
+    "exclude_nav_flag": 6,
+    "pet_habitat_flag": [
+      0
+    ],
+    "resource_inpackage_version": "111"
   }
 ]

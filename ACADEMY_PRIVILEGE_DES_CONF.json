@@ -45,7 +45,7 @@
     "academy_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_xueyuan_lianjin2_png.img_xueyuan_lianjin2_png'",
     "privilege_title": "炼金学专属特权",
     "task_title": "炼金学研习内容",
-    "task_des": "<img id=\"StarPoint\"/>每周研习：累计合成400个条件球\n<img id=\"StarPoint\"/>赛季研习：获得3只异色炫彩精灵\n<img id=\"StarPoint\"/>无限研习：赠送他人1次咕噜球<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>",
+    "task_des": "<img id=\"StarPoint\"/>每周研习：累计合成400个条件球\n<img id=\"StarPoint\"/>赛季研习：获得3只异色炫彩精灵\n<img id=\"StarPoint\"/>无限研习：赠送他人1次咕噜球<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>\n<img id=\"StarPoint\"/>无限研习：赠送他人1次咕噜球<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>\n<img id=\"StarPoint\"/>无限研习：为其他小洛克浇水或施肥12次",
     "academy_npc_refresh": 20049,
     "privilege_png": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_InvitationPhoto1.img_InvitationPhoto1'",
     "table_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_Icon_lianjin2_png.img_Icon_lianjin2_png'",
@@ -65,6 +65,10 @@
       {
         "task_title": "无限研习：",
         "task_info": "赠送他人1次咕噜球<span color=\"#d56c1f\">（同一小洛克每日仅限1次）</>"
+      },
+      {
+        "task_title": "无限研习：",
+        "task_info": "为其他小洛克浇水或施肥12次"
       }
     ],
     "academy_privilege_des": [
@@ -122,7 +126,7 @@
     "academy_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_xueyuan_jingji2_png.img_xueyuan_jingji2_png'",
     "privilege_title": "战斗学专属特权",
     "task_title": "战斗学研习内容",
-    "task_des": "<img id=\"StarPoint\"/>每周研习：闪耀大赛获得10场胜利\n<img id=\"StarPoint\"/>赛季研习：闪耀大赛达到大师段位\n<img id=\"StarPoint\"/>无限研习：给观战的小洛克累计分享500000洛克贝",
+    "task_des": "<img id=\"StarPoint\"/>每周研习：闪耀大赛获得10场胜利\n<img id=\"StarPoint\"/>赛季研习：闪耀大赛达到大师段位\n<img id=\"StarPoint\"/>无限研习：给观战的小洛克累计分享500000洛克贝\n<img id=\"StarPoint\"/>无限研习：闪耀大赛获得1场胜利",
     "academy_npc_refresh": 20051,
     "privilege_png": "Texture2D'/Game/NewRoco/Modules/System/CollegeCareerDevelopmentPlan/Raw/Textures/img_InvitationPhoto3.img_InvitationPhoto3'",
     "table_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Frames/img_Icon_jingji2_png.img_Icon_jingji2_png'",
@@ -142,6 +146,10 @@
       {
         "task_title": "无限研习：",
         "task_info": "给观战的小洛克累计分享500000洛克贝"
+      },
+      {
+        "task_title": "无限研习：",
+        "task_info": "闪耀大赛获得1场胜利"
       }
     ],
     "academy_privilege_des": [

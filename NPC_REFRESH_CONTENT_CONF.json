@@ -25557,6 +25557,169 @@
     "model_scale": 100
   },
   {
+    "id": 100869,
+    "refresh_type": 1,
+    "refresh_param": 11032878,
+    "refresh_rule": 3,
+    "npc_id": 10895,
+    "npc_level_script": 4,
+    "level_param": [
+      3,
+      1
+    ],
+    "lock_on_ground": 1,
+    "glass_limit_type": 1,
+    "ai_group_param": [
+      {
+        "ai_group": 230022,
+        "ai_group_role": 2,
+        "ai_group_role_id": [
+          2
+        ]
+      },
+      {
+        "ai_group": 230039,
+        "ai_group_role": 6,
+        "ai_group_role_id": [
+          6
+        ]
+      },
+      {
+        "ai_group": 230035,
+        "ai_group_role": 7,
+        "ai_group_role_id": [
+          7
+        ]
+      },
+      {
+        "ai_group": 300026,
+        "ai_group_role": 3,
+        "ai_group_role_id": [
+          3
+        ]
+      },
+      {
+        "ai_group": 100001,
+        "ai_group_role": 14,
+        "ai_group_role_id": [
+          14,
+          1005,
+          22
+        ]
+      }
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 100870,
+    "refresh_type": 1,
+    "refresh_param": 11032878,
+    "refresh_rule": 3,
+    "npc_id": 10896,
+    "npc_level_script": 4,
+    "level_param": [
+      3,
+      1
+    ],
+    "lock_on_ground": 1,
+    "glass_limit_type": 1,
+    "ai_group_param": [
+      {
+        "ai_group": 230022,
+        "ai_group_role": 2,
+        "ai_group_role_id": [
+          2
+        ]
+      },
+      {
+        "ai_group": 230039,
+        "ai_group_role": 6,
+        "ai_group_role_id": [
+          6
+        ]
+      },
+      {
+        "ai_group": 230035,
+        "ai_group_role": 7,
+        "ai_group_role_id": [
+          7
+        ]
+      },
+      {
+        "ai_group": 300026,
+        "ai_group_role": 3,
+        "ai_group_role_id": [
+          3
+        ]
+      },
+      {
+        "ai_group": 100001,
+        "ai_group_role": 14,
+        "ai_group_role_id": [
+          14,
+          1005,
+          22,
+          77
+        ]
+      }
+    ],
+    "model_scale": 100
+  },
+  {
+    "id": 100871,
+    "refresh_type": 1,
+    "refresh_param": 11032878,
+    "refresh_rule": 3,
+    "npc_id": 10897,
+    "npc_level_script": 4,
+    "level_param": [
+      3,
+      1
+    ],
+    "lock_on_ground": 1,
+    "glass_limit_type": 1,
+    "ai_group_param": [
+      {
+        "ai_group": 380035,
+        "ai_group_role": 6,
+        "ai_group_role_id": [
+          6
+        ]
+      },
+      {
+        "ai_group": 300002,
+        "ai_group_role": 3,
+        "ai_group_role_id": [
+          3
+        ]
+      },
+      {
+        "ai_group": 380031,
+        "ai_group_role": 9,
+        "ai_group_role_id": [
+          9
+        ]
+      },
+      {},
+      {
+        "ai_group": 100001,
+        "ai_group_role": 14,
+        "ai_group_role_id": [
+          14,
+          1005,
+          12,
+          120
+        ]
+      }
+    ],
+    "world_hide": 5,
+    "world_hide_param": [
+      1
+    ],
+    "mimic_target": 20037,
+    "model_scale": 100
+  },
+  {
     "id": 110001,
     "refresh_type": 1,
     "refresh_param": 11032878,
@@ -388716,6 +388879,14 @@
     "id": 2605611,
     "refresh_type": 1,
     "refresh_param": 451030183,
+    "refresh_rule": 3,
+    "npc_id": 600000,
+    "model_scale": 100
+  },
+  {
+    "id": 2605612,
+    "refresh_type": 1,
+    "refresh_param": 451030229,
     "refresh_rule": 3,
     "npc_id": 600000,
     "model_scale": 100

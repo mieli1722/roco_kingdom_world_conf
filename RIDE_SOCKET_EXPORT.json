@@ -8620,6 +8620,52 @@
     ]
   },
   {
+    "id": 3870,
+    "editor_name": "护主犬(看守麦田的样子)",
+    "animation_name": "Fir_YinSuQuan1Ar_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S2_B0_Ride"
+    ]
+  },
+  {
+    "id": 3871,
+    "editor_name": "音速犬(看守麦田的样子)",
+    "animation_name": "Fir_YinSuQuan2Ar_001",
+    "default_socket_pc1": "S1_G0_Ride",
+    "default_socket_pc2": "S2_G0_Ride",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
+    ]
+  },
+  {
+    "id": 3872,
+    "editor_name": "公平鸽（称量的样子）",
+    "animation_name": "Com_GongPingGe1Ar_001",
+    "default_socket_pc1": "S1_B0_Ride",
+    "default_socket_pc2": "S2_B0_Ride",
+    "socket_mask": 32,
+    "all_sockets": [
+      "S1_B0_Ride",
+      "S2_B0_Ride"
+    ]
+  },
+  {
     "id": 5001,
     "editor_name": "钻石蜗",
     "animation_name": "Lig_KuangChongBo_001",
@@ -9644,6 +9690,28 @@
       "S1_G0_Ride_0",
       "S2_G0_Ride",
       "S2_G0_Ride_0"
+    ]
+  },
+  {
+    "id": 5075,
+    "editor_name": "风暴战犬（护主犬(看守麦田的样子)进化而来）",
+    "animation_name": "Fir_YinSuQuanBo_001",
+    "default_socket_pc1": "S1_G0_Ride_2",
+    "default_socket_pc2": "S2_G0_Ride_2",
+    "socket_mask": 1,
+    "all_sockets": [
+      "S1_G0_Ride",
+      "S1_G0_Ride_0",
+      "S1_G0_Ride_1",
+      "S1_G0_Ride_2",
+      "S1_G0_Ride_3",
+      "S1_G0_Ride_4",
+      "S2_G0_Ride",
+      "S2_G0_Ride_0",
+      "S2_G0_Ride_1",
+      "S2_G0_Ride_2",
+      "S2_G0_Ride_3",
+      "S2_G0_Ride_4"
     ]
   },
   {

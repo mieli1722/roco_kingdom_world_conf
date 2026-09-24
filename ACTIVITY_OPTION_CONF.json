@@ -533,6 +533,14 @@
     "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityEveningRest/Frames/img_baitian_shangdianjie_png.img_baitian_shangdianjie_png'"
   },
   {
+    "id": 1032,
+    "option_type": 3,
+    "option_param1": "可可果广场",
+    "option_param2": "10000032",
+    "option_param4": "0.4",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityEveningRest/Frames/img_baitian_shangdianjie_png.img_baitian_shangdianjie_png'"
+  },
+  {
     "id": 2001,
     "option_type": 3,
     "option_param1": "解忧扭蛋机",
@@ -695,9 +703,17 @@
     "option_param5": "回到自己的世界后再来吧"
   },
   {
+    "id": 2098,
+    "option_type": 2,
+    "option_param1": "分享礼包",
+    "option_param2": "ActivityModuleCmd.OptionOpenRandomLinkH5OrQRCode",
+    "option_param3": "4000005;2001;2002;1;0;0",
+    "image_path": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityAbu/Frames/img_fenxianglibao_png.img_fenxianglibao_png'"
+  },
+  {
     "id": 2099,
     "option_type": 2,
-    "option_param1": "兑换商店",
+    "option_param1": "可可果球商店",
     "option_param2": "NPCShopUIModuleCmd.OpenShopById",
     "option_param3": "11002",
     "option_param5": "回到自己的世界后再来吧",
@@ -756,11 +772,12 @@
   },
   {
     "id": 3007,
-    "option_type": 3,
-    "option_param1": "秋日款留言",
-    "option_param2": "910044",
+    "option_type": 2,
+    "option_param1": "秋日小憩",
+    "option_param2": "ActivityModuleCmd.OpenMainPanel",
+    "option_param4": "5900003",
     "option_param5": "回到自己的世界后再来吧",
-    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_qiuri04.img_qiuri04'"
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/ActivityCollegeGlory/Textures/img_qiuri05.img_qiuri05'"
   },
   {
     "id": 3008,
@@ -1617,6 +1634,25 @@
     "option_param1": "前往",
     "option_param2": "910024",
     "option_param4": "0.4"
+  },
+  {
+    "id": 20062,
+    "option_type": 2,
+    "option_param1": "前往",
+    "option_param2": "ActivityModuleCmd.OpenLegendaryBattleReturn"
+  },
+  {
+    "id": 20063,
+    "option_type": 2,
+    "option_param1": "前往",
+    "option_param2": "SeasonIntegrationModuleCmd.OpenSeasonIntegrationPopUp",
+    "option_param5": "3002"
+  },
+  {
+    "id": 20064,
+    "option_type": 2,
+    "option_param1": "前往",
+    "option_param2": "ShopModuleCmd.OpenCreditMall"
   },
   {
     "id": 20065,

@@ -1828,8 +1828,8 @@
       1500014
     ],
     "activity_name": "月幕下的决斗-累计奖励",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-09 03:59:59",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
@@ -2749,11 +2749,11 @@
     "id": 1800029,
     "activity_type": 18,
     "base_id": [
-      1800002
+      1800003
     ],
     "activity_name": "500%孵蛋加速日",
-    "prompt_text": "魔法孵化钟限时敲响！5倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
-    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至500%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
+    "prompt_text": "魔法孵化钟限时敲响！10倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
+    "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至1000%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
     "appear_time": "2026-10-01 04:00:00",
     "disappear_time": "2026-10-08 03:59:59",
     "world_level_required": 1,
@@ -5604,8 +5604,8 @@
       2600066
     ],
     "activity_name": "远行商人上新!",
-    "prompt_text": "9月25日-9月27日「绝缘球」、「美妙球」大量上新\n等你来购买!",
-    "activity_txt": "9月25日-9月27日期间，远行商人每日上架200个<span color=\"#d56c1f\">「绝缘球」、「美妙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "prompt_text": "9月25日-9月27日「网兜球」大量上新\n等你来购买!",
+    "activity_txt": "9月25日-9月27日期间，远行商人每日上架400个<span color=\"#d56c1f\">「网兜球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
     "appear_time": "2026-09-25 04:00:00",
     "disappear_time": "2026-09-27 23:59:59",
     "world_level_required": 1,
@@ -5624,8 +5624,8 @@
       2600067
     ],
     "activity_name": "远行商人上新!",
-    "prompt_text": "10月1日-10月7日「美妙球」大量上新\n等你来购买!",
-    "activity_txt": "10月1日-10月7日期间，远行商人每日上架200个<span color=\"#d56c1f\">「美妙球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
+    "prompt_text": "10月1日-10月7日「美妙球」大量上新\n10月1日、4日、7日，还将额外上新「可可果球」\n千万别错过!",
+    "activity_txt": "10月1日-10月7日期间，远行商人每日上架200个<span color=\"#d56c1f\">「美妙球」</>。\n10月1日、10月4日、10月7日，远行商人还将分别上架30个、20个、20个<span color=\"#d56c1f\">「可可果球」</>。\n\n<span color=\"#d56c1f\">特别提示</>\n远行商人的营业时间为现实时间的08:00-24:00(UTC+8)。非营业时间内，远行商人不会出现。",
     "appear_time": "2026-10-01 04:00:00",
     "disappear_time": "2026-10-07 23:59:59",
     "world_level_required": 1,
@@ -5782,8 +5782,8 @@
       2600081
     ],
     "activity_name": "留言:秋天的笔记",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-16 03:59:59",
+    "appear_time": "2025-09-25 04:00:00",
+    "disappear_time": "2025-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
@@ -5940,7 +5940,7 @@
     "prompt_text": "赛季大厅掉落&晚间休息",
     "activity_txt": "赛季大厅掉落&晚间休息",
     "appear_time": "2026-09-10 04:00:00",
-    "disappear_time": "2026-11-05 03:59:59",
+    "disappear_time": "2026-09-25 03:59:59",
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
@@ -5971,13 +5971,51 @@
       2701004
     ],
     "activity_name": "月下决斗-捕捉精灵掉落打气气球",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-09 03:59:59",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
     "belong_system": 1,
     "priority": 1
+  },
+  {
+    "id": 2701005,
+    "activity_type": 27,
+    "base_id": [
+      2701005
+    ],
+    "activity_name": "秋日小憩",
+    "prompt_text": "赛季大厅掉落&晚间休息",
+    "activity_txt": "赛季大厅掉落&晚间休息",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
+  },
+  {
+    "id": 2701006,
+    "activity_type": 27,
+    "base_id": [
+      2701007
+    ],
+    "activity_name": "休憩时刻",
+    "prompt_text": "赛季大厅掉落&晚间休息",
+    "activity_txt": "赛季大厅掉落&晚间休息",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 1,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
   },
   {
     "id": 2800001,
@@ -6626,9 +6664,9 @@
     "base_id": [
       3300029
     ],
-    "activity_name": "闪耀周末",
-    "prompt_text": "闪耀大赛热浪来袭，双倍胜场+限免精灵\n阵容已备好，快来磨炼你的对战技巧吧！",
-    "activity_txt": "由魔法学院举办的「闪耀大赛」活动火热进行中，这里是展现实力的好地方！\n\n<span color=\"#d56c1f\">活动时间</>\n每周五凌晨4:00~下周一凌晨4:00\n\n<span color=\"#d56c1f\">活动说明</>\n活动期间，小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
+    "activity_name": "闪耀假日",
+    "prompt_text": "假日尽情畅享对战乐趣！\n赛季代币收益可享双倍加成\n快来磨炼你的对战技巧吧！",
+    "activity_txt": "<span color=\"#d56c1f\">活动说明</>\n· 活动期间，挑战闪耀大赛和草系徽章将获取双倍的赛季代币奖励。\n· 小洛克可采用「推荐阵容」参与闪耀大赛。每期活动将更新最多 3 套推荐阵容，该阵容可作为参赛策略参考，助力小洛克提升赛场表现。\n· 若小洛克暂未拥有推荐阵容中的精灵，或未解锁对应精灵的指定技能，则需先在活动中解决缺失和差异后才可使用（如精灵捕捉、技能学习等）；也可替换为自身已有的精灵组建队伍，合理搭配阵容同样可在比赛中取得优异成绩。\n\n<span color=\"#d56c1f\">胜场翻倍</>\n周末期间尽情对战吧，将更有效率地获得对战奖励。具体规则如下：\n· 活动期间，每周挑战任务胜场进度*2，即赢1场=赢2场。\n· 活动期间，每使对手1只精灵力竭可以获得更多洛克贝。",
     "appear_time": "2026-10-01 04:00:00",
     "disappear_time": "2026-10-08 03:59:59",
     "world_level_required": 2,
@@ -6754,6 +6792,25 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_JoinCollege.UMG_Activity_JoinCollege_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijixueyuan2_png.img_saijixueyuan2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_saijixueyuan1_png.img_saijixueyuan1_png'"
+  },
+  {
+    "id": 3400027,
+    "activity_type": 40,
+    "base_id": [
+      3400027
+    ],
+    "activity_name": "S1赛季重逢",
+    "prompt_text": "星辰落在王国，重逢的钟声，为所有久别的奇遇敲响。那些错过的小小身影，正沿着梦的轨迹，回到你身边…",
+    "activity_txt": "<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">龙息帕尔再临</>\n<span color=\"#d56c1f\">活动说明</>\n传说精灵「龙息帕尔」再临！活动期间，玩家参与龙息帕尔的团体战并完成捕捉后将会获得活动奖励。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">赛季奇遇精灵返场</>\n<span color=\"#d56c1f\">活动说明</>\nS1赛季奇遇异色精灵于2026年10月01日04:00返场，S4赛季结束后下架。返场后，小洛克对S1赛季可异色的精灵进行同进化链连续捕捉时，有概率出现对应的异色精灵。\n<span color=\"#d56c1f\">特别提示</>\n返场的S1赛季奇遇异色精灵仅可通过连续捕捉同进化链精灵的方式获取，无法通过混乱连续捕捉行为、同系别连续捕捉行为获取，也不会影响当前赛季混乱连续捕捉行为、同系别连续捕捉行为可获得的精灵。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">织梦棱镜球上架</>\n<span color=\"#d56c1f\">活动说明</>\n「织梦棱镜球」已上架商城，并在活动结束后以常驻形式长期上架珍稀道具城。",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-11-05 03:59:59",
+    "world_level_required": 1,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 471,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_WeekendEventS1.UMG_Activity_WeekendEventS1_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_quanfujindu2_png.img_quanfujindu2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_quanfujindu1_png.img_quanfujindu1_png'"
   },
   {
     "id": 3500002,
@@ -7103,8 +7160,8 @@
     "activity_name": "观看:月幕下的决斗",
     "prompt_text": "■■■欢迎锁定晚间观赛频道■■□\n■■老对手重逢，新故事开场■■\n■先把气打满，晚八点弹幕见□",
     "activity_txt": "月幕之下，对决将启。每晚八点，不见不散。\n\n<span color=\"#d56c1f\">活动周期</>\n活动持续 14 天，每天 1 场对战，于 20:00 准时开始。\n\n<span color=\"#d56c1f\">如何获得「打气气球」</>\n每天登录：每天可领取 100 个「打气气球」。\n捕捉掉落：活动期间捕捉精灵有 50% 概率掉落1个「打气气球」（每日掉落上限 99 个）。\n\n<span color=\"#d56c1f\">比赛阶段与返还规则</>\n每场比赛分为四个阶段，不同阶段的打气返还比例不同：\n<span color=\"#d56c1f\">阶段Ⅰ选手公布</>\n开启时间：前一天 21:00（首日 04:00）\n猜中返还200% ，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅱ阵容公布</>\n开启时间：12:00\n猜中返还 180%，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅲ技能公布</>\n开启时间：16:00\n猜中返还 150%，猜错返还 50%\n<span color=\"#d56c1f\">阶段Ⅳ比赛开始</>\n开启时间：20:00\n只能观战，不能打气\n*「打气气球」均在比赛结束后统一返还。\n\n<span color=\"#d56c1f\">打气规则</>\n首次打气：对某一方选手首次打气，至少投出10 个「打气气球」。\n追加打气：追加打气每次至少投出1 个。\n单场上限：单场比赛对双方选手总计最多打气 999 个「打气气球」。\n不可撤回：一旦打气，不可撤回。\n\n<span color=\"#d56c1f\">观看比赛</>\n阶段Ⅳ开启后，点击选手头像旁的【观看】按钮即可进入直播间。\n支持选择不同视角观战，切换视角需退出后重新选择。\n支持发送表情弹幕，也可选择关闭弹幕。\n可在战报中查看每回合的详细记录。\n\n<span color=\"#d56c1f\">气球收益与观赛胜场</>\n比赛结束后，返还当天的「打气气球」。\n给获胜选手打气，且在正式对战期间进行过观战的玩家，闪耀大赛每周挑战中本周胜场 +1。（观战了才算哦，记得来看~）\n周末胜场双倍计算：1 场计 2 场（到达周上限后不再增加）。\n\n<span color=\"#d56c1f\">进度奖励</>\n根据累计「打气气球」数量（累增计数，不算消耗）达到指定档位，即可领取对应奖励。\n\n<span color=\"#d56c1f\">活动结束后</>\n活动结束后，剩余的「打气气球」将按照<span color=\"#d56c1f\">1:1000</>的比例折算为 洛克贝，请前往背包查收。",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-09 03:59:59",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "maintab_id": 1,
     "belong_system": 1,
@@ -7119,9 +7176,9 @@
     "base_id": [
       4000005
     ],
-    "activity_name": "秋日漫游记·导览",
-    "prompt_text": "秋天说：可以偷懒\n于是，留言变成了秋色——\n\n可可果球是个调皮大王，蹦得很高\n一蹦，就蹦进了秋色里——",
-    "activity_txt": "<span color=\"#d56c1f\">观看:月幕下的决斗</>\n趁月亮还没升起来，先为支持的选手打气吧~\n晚八点准时开赛，14天，每晚一场，不见不散。\n<span color=\"#d56c1f\">掀开:可可奇妙盒</>\n获得秋日礼券后，可开启可可奇妙盒，随机抽取奖励。\n<span color=\"#d56c1f\">留言:秋天的笔记</>\n「留言魔法」、「留影魔法」更新秋日外观，限时生效：\n写下的话、留下的影，都会变成秋天的颜色。\n<span color=\"#d56c1f\">可可果通行证</>\n完成每日任务与活动任务，即可累积进度，获得通行证奖励。\n\n——秋天不催人，慢慢玩。",
+    "activity_name": "可可丰收节·导览",
+    "prompt_text": "用可可果球捕捉精灵，「星陨流光」每次都来\n开奇妙盒收惊喜，日落后再看场比赛\n累了就歇歇脚——想偷懒，星光照攒",
+    "activity_txt": "<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">特殊机制</>\n「可可丰收节」期间，「可可果球」满载愿力。使用「可可果球」捕捉精灵，必定触发奇遇<span color=\"#d56c1f\">「星陨流光」</>，迎来一场奇妙相遇。\n活动结束后，「可可果球」将恢复为普通「可可果球」，捕捉概率为100%，不再必定触发奇遇。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">收礼物</>\n<span color=\"#d56c1f\">丰收手册</>\n活动时间：「可可丰收节」期间\n参与方式：完成丰收手册任务，积累手册经验，即可领取对应奖励。\n<span color=\"#d56c1f\">分享礼包</>\n活动时间：「可可丰收节」期间\n参与方式：首次打开「分享礼包」，可领取10个「可可果球」（仅1次）并抽取1份随机奖励；通过好友分享的链接，还可再次抽取随机奖励。活动期间共可抽取5份随机奖励。\n<span color=\"#d56c1f\">掀开：可可奇妙盒</>\n活动时间：9月25日04:00~10月9日04:00\n参与方式：使用「可可果球」捕捉精灵，获得「秋日丰收礼券」；消耗「秋日丰收礼券」开启可可奇妙盒，即可随机抽取奖励，收获秋日惊喜。\n<span color=\"#d56c1f\">查收：一份丰收心意</>\n发放时间：「可可丰收节」开启时\n组委会将通过邮件送上一份心意，邮件有效期30天，记得及时前往邮箱领取。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">新品上架</>\n<span color=\"#d56c1f\">可可果球商店</>\n活动时间：9月25日04:00~10月8日04:00\n限购数量：每日限购20个「可可果球」（每日04:00更新）\n<span color=\"#d56c1f\">远行商人</>\n活动时间：10月1日、10月4日、10月7日，每日08:00~24:00\n到货数量：10月1日到货30个，10月4日、10月7日各到货20个「可可果球」，仅限到货当日购买。\n商品单价：50「洛克贝」／个\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">节日活动</>\n<span color=\"#d56c1f\">观看：月幕下的决斗</>\n活动时间：10月2日~10月15日，开赛前给支持的选手打气，每日20:00正式开赛\n连续14天，每晚一场。月幕之下，不见不散。\n\n<span size=\"36\" color=\"#292929\" font=\"/Game/NewRoco/Font/244-ShangShouDunDun_Font\">环境变化</>\n<span color=\"#d56c1f\">白月天气</>\n活动时间：9月25日04:00~9月28日04:00\n威廉古堡等区域持续出现「白月天气」，阴影与永夜的负面影响一同消散，视野内所有精灵的完整样貌都将清晰可见。\n<span color=\"#d56c1f\">留言：秋天的笔记</>\n活动时间：「可可丰收节」期间\n外观变化：「留言魔法」与「留影魔法」限时换上秋日外观，特殊魔法法杖的效果不受影响。写下的话、留下的影，都会染上秋天的颜色。\n<span color=\"#d56c1f\">小憩：秋日慢慢</>\n活动时间：「可可丰收节」期间全天开启，「星光」每日获取上限提升至2000。\n参与方式：前往大世界中出现的「星光庇护所」休憩，即可获得「星光」奖励。\n节日加成：10月1日~10月5日，「许愿星」每日凝结数量提升至50颗。",
     "appear_time": "2026-09-25 04:00:00",
     "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
@@ -7130,7 +7187,8 @@
     "priority": 480,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_AutumnTheme.UMG_Activity_AutumnTheme_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguide2_png.img_kekeguide2_png'",
-    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguide1_png.img_kekeguide1_png'"
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_kekeguide1_png.img_kekeguide1_png'",
+    "message_id": 60001
   },
   {
     "id": 4200001,
@@ -7850,9 +7908,9 @@
     "base_id": [
       4500004
     ],
-    "activity_name": "可可果通行证",
+    "activity_name": "丰收手册",
     "prompt_text": "可可果熟了，攒满一整个秋天——\n慢慢摘，都是你的。",
-    "activity_txt": "秋风把林梢染透，可可果一颗颗压弯了枝头。噜噜翻出那本收了整个秋天的册子，等你一起把它填满。\n每日在王国里走一走、练一练，就能为「可可果通行证」积攒经验、提升手册等级，免费领取养成资源与秋日限定珍品。也可消耗少量洛克钻解锁<span color=\"#d56c1f\">秋日限定手册</>，额外收获对应档位的丰厚奖励。\n\n<span color=\"#d56c1f\">活动规则</>\n<span color=\"#d56c1f\">摘取果实</>：完成「每日任务」与「秋日限定」中的任务即可获得手册经验，每日任务于每日 4:00 刷新，限定任务只需完成一次。\n<span color=\"#d56c1f\">装满行囊</>：手册等级提升后可领取对应等级奖励，免费奖励直接领取；解锁秋日限定手册后，还可领取限定专属奖励。\n\n<span color=\"#d56c1f\">秋日限定</>：「可可果球」、「可可果絮语」奖牌、「溢韵可可果」名片与可可果包挂饰等限定收藏，只在这个秋天等你。",
+    "activity_txt": "秋风把林梢染透，可可果一颗颗压弯了枝头。噜噜翻出那本收了整个秋天的册子，等你一起把它填满。\n每日在王国里走一走、练一练，就能为「丰收手册」积攒经验、提升手册等级，免费领取养成资源与秋日限定珍品。也可消耗洛克钻解锁<span color=\"#d56c1f\">岁稔年丰</>，额外收获对应档位的丰厚奖励。\n\n<span color=\"#d56c1f\">活动规则</>\n<span color=\"#d56c1f\">摘取果实</>：完成「每日任务」与「秋日限定」中的任务即可获得手册经验，每日任务于每日 4:00 刷新，限定任务只需完成一次。\n<span color=\"#d56c1f\">装满行囊</>：手册等级提升后可领取对应等级奖励，免费奖励直接领取；解锁<span color=\"#d56c1f\">岁稔年丰</>后，还可领取限定专属奖励。\n\n<span color=\"#d56c1f\">岁稔年丰</>：「可可果球」、「可可果絮语」奖牌、可可果包挂饰、积分卡等限定收藏，只在这个秋天等你。",
     "appear_time": "2026-09-25 04:00:00",
     "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
@@ -7886,8 +7944,8 @@
       4700002
     ],
     "activity_name": "月幕下的决斗-登陆送加气气球",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-09 03:59:59",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
@@ -8282,16 +8340,58 @@
     "type_param": [
       2701002
     ],
-    "activity_name": "S4晚间休息活动",
+    "activity_name": "S4晚间休息活动-1",
     "prompt_text": "当钟楼指针指向23:00，王国将沉入宁静的夜色\n魔法的星光已经点亮，小魔法师，快去休息吧\n精灵们睡着了，洛克们也要回家了~\n“今晚的美梦会是什么馅的呢……”",
     "activity_txt": "星光正在轻声呢喃，庇护所现已开启，快前往收集掉落的星光吧~\n\n<span color=\"#d56c1f\">星光收集</>\n每日18:00-次日4:00，大世界中会出现「星光庇护所」，前往休憩将会掉落“星光”奖励。\n23:00-次日4:00，在「星光庇护所」休憩时，掉落的“星光”奖励数量将会翻倍。\n每日在「星光庇护所」中可获得的星光数量上限为1200，且与「月面」共享获取上限。\n\n<span color=\"#d56c1f\">王国入夜</>\n每日23:00-次日4:00，王国将进入夜晚，此时魔力之源将暂时沉睡，时间修改功能会暂时关闭。\n嘘——静夜帷幕落下，居民们也回家休息啦！一起来享受静谧的夜晚吧。",
     "appear_time": "2026-09-10 04:00:00",
+    "disappear_time": "2026-09-25 03:59:59",
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_EveningRest.UMG_Activity_EveningRest_C'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi2_png.img_wanjianxiuxi2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'"
+  },
+  {
+    "id": 5900003,
+    "activity_type": 59,
+    "base_id": [
+      5900003
+    ],
+    "type_param": [
+      2701005
+    ],
+    "activity_name": "小憩：秋日慢慢",
+    "prompt_text": "一整片秋色漫过王国，连风都慢了起来\n精灵靠在树上，打了个长长的哈欠\n歇一会儿吧~在秋天里，什么都不用急",
+    "activity_txt": "当檐下的风铃摇得慢一些，可可果的香气飘得远一些，丰收的季节到来了~\n\n<span color=\"#d56c1f\">星光收集</>\n「可可丰收节」期间，大世界中「星光庇护所」将会全天开启，前往休憩将会掉落“星光”奖励。\n每日在「星光庇护所」中可获得的星光数量上限将会提升为2000，且与「月面」共享获取上限。\n\n<span color=\"#d56c1f\">节日加成</>\n10月1日-10月5日，许愿星凝结数量提升至每日50颗。\n慢慢享受秋日的时光吧~ ",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
+    "maintab_id": 3,
+    "belong_system": 1,
+    "priority": 500,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_EveningRest.UMG_Activity_EveningRest_C'",
+    "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_qiurizhuti.img_qiurizhuti'",
+    "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi2_png.img_wanjianxiuxi2_png'",
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'"
+  },
+  {
+    "id": 5900004,
+    "activity_type": 59,
+    "base_id": [
+      5900004
+    ],
+    "type_param": [
+      2701006
+    ],
+    "activity_name": "S4晚间休息活动-2",
+    "prompt_text": "当钟楼指针指向23:00，王国将沉入宁静的夜色\n魔法的星光已经点亮，小魔法师，快去休息吧\n精灵们睡着了，洛克们也要回家了~\n“今晚的美梦会是什么馅的呢……”",
+    "activity_txt": "星光正在轻声呢喃，庇护所现已开启，快前往收集掉落的星光吧~\n\n<span color=\"#d56c1f\">星光收集</>\n每日18:00-次日4:00，大世界中会出现「星光庇护所」，前往休憩将会掉落“星光”奖励。\n23:00-次日4:00，在「星光庇护所」休憩时，掉落的“星光”奖励数量将会翻倍。\n每日在「星光庇护所」中可获得的星光数量上限为1200，且与「月面」共享获取上限。\n\n<span color=\"#d56c1f\">王国入夜</>\n每日23:00-次日4:00，王国将进入夜晚，此时魔力之源将暂时沉睡，时间修改功能会暂时关闭。\n嘘——静夜帷幕落下，居民们也回家休息啦！一起来享受静谧的夜晚吧。",
+    "appear_time": "2026-10-16 04:00:00",
     "disappear_time": "2026-11-05 03:59:59",
     "maintab_id": 3,
     "belong_system": 1,
     "priority": 500,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_EveningRest.UMG_Activity_EveningRest_C'",
-    "image_path": "Texture10D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_wanjianxiuxi_bg.img_wanjianxiuxi_bg'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi2_png.img_wanjianxiuxi2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_wanjianxiuxi1_png.img_wanjianxiuxi1_png'"
   },
@@ -8303,9 +8403,9 @@
     ],
     "activity_name": "掀开:可可奇妙盒",
     "prompt_text": "秋风染透了林梢，可可果正熟得刚好\n轻启可可奇妙盒，把这缕香甜细细藏进心底吧",
-    "activity_txt": "· 使用可可果球捕捉精灵，即可获得「秋日丰收礼券」，「秋日丰收礼券」每日获取上限为10张。\n· 开启可可奇妙盒需要消耗一张「秋日丰收礼券」，每次开启都会随机开出一个可可果图案，同时获得一份随机奖励。\n· 当集齐三个相同的可可果图案时即可获得该可可果对应品级的奖励，领取后将重置所有礼盒及收集进度并开启下一轮。\n· 单轮集齐三个相同可可果综合概率说明：\n黄金可可果：6.49%\n可可果：10.48%\n绿色可可果：83.03%\n每10轮收集必定集齐三个可可果，每14轮必定集齐三个黄金可可果！",
-    "appear_time": "2026-10-02 04:00:00",
-    "disappear_time": "2026-10-16 03:59:59",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n· 使用可可果球捕捉1只精灵，即可获得2张「秋日丰收礼券」，「秋日丰收礼券」每日获取上限为10张。\n· 消耗「秋日丰收礼券」*1 可开启一次「可可奇妙盒」，每次开启必定获得一份随机奖励，并翻开一个可可果图案。\n· 随机奖励内容及概率如下：\n魔法粉尘*10：16%\n贤者碎晶*2：16%\n洛克贝*100000：16%\n可可果*50：16%\n无花果*10：16%\n魔力果*5：15%\n留影沙漏*1：5%\n· 每次开启翻出各图案的概率如下：\n黄金可可果：8%\n红色可可果：27%\n绿色可可果：65%\n· 每轮开启过程中，翻出的图案将累计计数。若集齐三个相同的可可果图案，即可获得该品级对应的奖励；奖励领取后本轮结束，计数重置并开启下一轮。\n\n<span color=\"#d56c1f\">特别说明</>\n*活动期间前 10 轮内必定可集齐一次「黄金可可果」。",
+    "appear_time": "2026-09-25 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
     "world_level_required": 1,
     "maintab_id": 1,
     "belong_system": 1,
@@ -8396,8 +8496,8 @@
       6500014
     ],
     "activity_name": "月幕下的决斗-观赛竞猜",
-    "appear_time": "2026-09-25 04:00:00",
-    "disappear_time": "2026-10-09 03:59:59",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "maintab_id": 1,
@@ -9116,7 +9216,8 @@
     "priority": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_SpecificTime.UMG_Activity_SpecificTime_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang2_png.img_bphuizhang2_png'",
-    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'"
+    "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_bphuizhang1_png.img_bphuizhang1_png'",
+    "message_id": 60001
   },
   {
     "id": 50000032,

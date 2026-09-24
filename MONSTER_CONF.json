@@ -53516,6 +53516,53 @@
     "Catch_difficulty_UnderThreshold": 800
   },
   {
+    "id": 410865,
+    "name": "护主犬",
+    "base_id": 3870,
+    "petbase_find_enum": 1,
+    "find_param": [
+      3870
+    ],
+    "level": 1,
+    "difficulty": 1,
+    "custom_glass": {},
+    "catch_difficulty": 10000,
+    "Catch_difficulty_OverThreshold": 5000,
+    "Catch_difficulty_UnderThreshold": 4000,
+    "catch_prob_max": 9500
+  },
+  {
+    "id": 410866,
+    "name": "音速犬",
+    "base_id": 3871,
+    "petbase_find_enum": 1,
+    "find_param": [
+      3871
+    ],
+    "level": 1,
+    "difficulty": 1,
+    "custom_glass": {},
+    "catch_difficulty": 10000,
+    "Catch_difficulty_OverThreshold": 1200,
+    "Catch_difficulty_UnderThreshold": 800,
+    "catch_prob_max": 9500
+  },
+  {
+    "id": 410867,
+    "name": "公平鸽",
+    "base_id": 3872,
+    "petbase_find_enum": 1,
+    "find_param": [
+      3872
+    ],
+    "difficulty": 1,
+    "custom_glass": {},
+    "catch_difficulty": 10000,
+    "Catch_difficulty_OverThreshold": 800,
+    "Catch_difficulty_UnderThreshold": 4000,
+    "catch_prob_max": 9500
+  },
+  {
     "id": 420001,
     "name": "喵喵",
     "base_id": 3001,

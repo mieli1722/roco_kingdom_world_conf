@@ -8926,6 +8926,7 @@
   {
     "id": 3070,
     "name": "护主犬",
+    "form": "本来的样子",
     "move_type": "步行",
     "pet_evolution_id": [
       32
@@ -9055,6 +9056,7 @@
   {
     "id": 3071,
     "name": "音速犬",
+    "form": "本来的样子",
     "move_type": "步行",
     "pet_evolution_id": [
       32
@@ -22607,7 +22609,8 @@
     ],
     "audio_config_id": 3180,
     "falling_resistance": 100,
-    "available_time": "2026-03-26 04:00:00"
+    "available_time": "2026-03-26 04:00:00",
+    "shiny_ban_free": 1
   },
   {
     "id": 3181,
@@ -22740,7 +22743,8 @@
     ],
     "audio_config_id": 3181,
     "falling_resistance": 100,
-    "available_time": "2026-03-26 04:00:00"
+    "available_time": "2026-03-26 04:00:00",
+    "shiny_ban_free": 1
   },
   {
     "id": 3182,
@@ -22869,7 +22873,8 @@
     ],
     "audio_config_id": 3182,
     "falling_resistance": 100,
-    "available_time": "2026-03-26 04:00:00"
+    "available_time": "2026-03-26 04:00:00",
+    "shiny_ban_free": 1
   },
   {
     "id": 3183,
@@ -57182,6 +57187,7 @@
   {
     "id": 3499,
     "name": "公平鸽",
+    "form": "本来的样子",
     "move_type": "步行",
     "pet_evolution_id": [
       183
@@ -84441,7 +84447,7 @@
       10.0,
       0.0
     ],
-    "audio_config_id": 3744,
+    "audio_config_id": 3665,
     "falling_resistance": 100,
     "available_time": "2026-07-16 04:00:00",
     "head_marker_offset": 25.0
@@ -84566,7 +84572,7 @@
       0.0,
       40.0
     ],
-    "audio_config_id": 3745,
+    "audio_config_id": 3666,
     "falling_resistance": 100,
     "available_time": "2026-07-16 04:00:00",
     "head_marker_offset": 15.0
@@ -87849,6 +87855,379 @@
     "audio_config_id": 3796,
     "falling_resistance": 100,
     "available_time": "2026-09-10 04:00:00"
+  },
+  {
+    "id": 3870,
+    "name": "护主犬",
+    "form": "看守麦田的样子",
+    "move_type": "步行",
+    "pet_evolution_id": [
+      385
+    ],
+    "legal_petbase": 1,
+    "quality": 2,
+    "stength_stage": 2,
+    "stage": 1,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      4
+    ],
+    "ai_group_info_id": 3070,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      6,
+      12,
+      2
+    ],
+    "level_skill_conf_id": 3870,
+    "pet_feature": 200149,
+    "model_conf": 14878,
+    "description": "戴着暖暖的格纹围巾，整日在麦田与果园之间巡逻。风吹麦浪、果实落地，任何一点动静都逃不过它的耳朵。狗狗精灵个头不大，却拥有强烈的责任心，不允许大家辛苦一年的收获被打扰。",
+    "pet_scale": 2,
+    "pictorial_book_id": 47,
+    "petfree_sort": 4,
+    "pet_bond_id": 101,
+    "pet_reaction": [
+      3001,
+      1,
+      107
+    ],
+    "pet_takephoto_reaction": [
+      10019,
+      1,
+      107
+    ],
+    "evolution_pet_id": [
+      3871
+    ],
+    "bosspetbase_id_arry": [
+      3871
+    ],
+    "hp_max_race": 68,
+    "phy_attack_race": 92,
+    "spe_attack_race": 31,
+    "phy_defence_race": 81,
+    "spe_defence_race": 66,
+    "speed_race": 96,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "fire_enhance": 2500,
+    "petpage_ui_percentage": 0.379316,
+    "petpage_capsule_offset": [
+      0.0,
+      0.0,
+      -0.5
+    ],
+    "handbook_ui_percentage": 0.644837,
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "npc_id": 53918,
+    "world_nature": 1,
+    "Catch_Threshold_Bonustime": 1,
+    "weight_low": 13600,
+    "weight_high": 17500,
+    "height_low": 64,
+    "height_high": 92,
+    "pet_classis_id": 8,
+    "break_award_sort": 34,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/img_Fir_YinSuQuan1Ar_001_Res.img_Fir_YinSuQuan1Ar_001_Res'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/img_Fir_YinSuQuan1Ar_001_Res.img_Fir_YinSuQuan1Ar_001_Res'",
+    "res_ui_percentage": 0.62,
+    "res_offset": [
+      -23.0,
+      60.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -23.0,
+      60.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_Yellow.img_BgLawn_Yellow'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn_GoldenYellow.img_Share_BgLawn_GoldenYellow'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_LawnYellow.img_Fg_LawnYellow'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_LawnYellow.img_Bg_LawnYellow'",
+    "pet_egg": 107032,
+    "egg_group": [
+      6
+    ],
+    "axial_density": "1",
+    "radial_density": "1",
+    "pet_track_npc_id": [
+      10895
+    ],
+    "home_npc_id": 710777,
+    "report_res_ui_percentage": 0.53,
+    "report_res_offset": [
+      15.0,
+      30.0
+    ],
+    "card_res_ui_percentage": 0.935484,
+    "card_res_offset": [
+      0.0,
+      30.0
+    ],
+    "audio_config_id": 3070,
+    "falling_resistance": 100,
+    "available_time": "2026-10-01 04:00:00"
+  },
+  {
+    "id": 3871,
+    "name": "音速犬",
+    "form": "看守麦田的样子",
+    "move_type": "步行",
+    "pet_evolution_id": [
+      385
+    ],
+    "legal_petbase": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 2,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      4
+    ],
+    "ai_group_info_id": 3071,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      6,
+      12
+    ],
+    "level_skill_conf_id": 3871,
+    "pet_feature": 200149,
+    "model_conf": 14879,
+    "description": "秋天的风把果实的香气吹起，音速犬在风里飞奔，许多气味快速的掠过它湿漉漉的小鼻子，这些气味传递着果实们都安好的信息。巡逻一天后，它满意地长叹一口气，在麦田的角落里缩成团睡去。",
+    "pet_scale": 2,
+    "pictorial_book_id": 48,
+    "petfree_sort": 6,
+    "pet_bond_id": 101,
+    "pet_reaction": [
+      3001,
+      1,
+      107
+    ],
+    "pet_takephoto_reaction": [
+      10019,
+      1,
+      107
+    ],
+    "degenerate_pet_id": 3870,
+    "bosspetbase_id_arry": [
+      5075
+    ],
+    "bosspetbase_rule": 2,
+    "bosspetbase_rule_param": [
+      20000002
+    ],
+    "evolution_need_level": 26,
+    "hp_max_race": 85,
+    "phy_attack_race": 116,
+    "spe_attack_race": 38,
+    "phy_defence_race": 101,
+    "spe_defence_race": 82,
+    "speed_race": 120,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "fire_enhance": 2500,
+    "petpage_ui_percentage": 0.393726,
+    "handbook_ui_percentage": 0.669334,
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "npc_id": 53919,
+    "world_nature": 1,
+    "Catch_Threshold_Bonustime": 1,
+    "weight_low": 39500,
+    "weight_high": 51500,
+    "height_low": 113,
+    "height_high": 162,
+    "pet_classis_id": 8,
+    "break_award_sort": 34,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/img_Fir_YinSuQuan2Ar_001_Res.img_Fir_YinSuQuan2Ar_001_Res'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/img_Fir_YinSuQuan2Ar_001_Res.img_Fir_YinSuQuan2Ar_001_Res'",
+    "res_ui_percentage": 0.7,
+    "res_offset": [
+      -37.0,
+      56.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      3.0,
+      -32.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_Yellow.img_BgLawn_Yellow'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn_GoldenYellow.img_Share_BgLawn_GoldenYellow'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_LawnYellow.img_Fg_LawnYellow'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_LawnYellow.img_Bg_LawnYellow'",
+    "can_swim": 1,
+    "pet_egg": 107032,
+    "egg_group": [
+      6
+    ],
+    "stun_resistance": 1,
+    "axial_density": "0.9",
+    "radial_density": "0.75",
+    "pet_track_npc_id": [
+      10896
+    ],
+    "home_npc_id": 710778,
+    "report_res_ui_percentage": 0.76,
+    "report_res_offset": [
+      -115.0,
+      -5.0
+    ],
+    "card_res_ui_percentage": 1.148027,
+    "card_res_offset": [
+      -20.0,
+      50.0
+    ],
+    "audio_config_id": 3071,
+    "falling_resistance": 100,
+    "available_time": "2026-10-01 04:00:00"
+  },
+  {
+    "id": 3872,
+    "name": "公平鸽",
+    "form": "称量的样子",
+    "move_type": "步行",
+    "pet_evolution_id": [
+      386
+    ],
+    "legal_petbase": 1,
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 1,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      2
+    ],
+    "ai_group_info_id": 3499,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      0
+    ],
+    "level_skill_conf_id": 3872,
+    "pet_feature": 200221,
+    "model_conf": 14880,
+    "description": "第一、绝对不允许任何一筐果实缺斤少两！\n第二、绝对不能把布兜里的标准砝码偷偷吃掉！\n第三、绝对要在被果实堵住嘴之前做出判决！——《公平鸽的秋收守则》",
+    "pet_scale": 2,
+    "pictorial_book_id": 162,
+    "petfree_sort": 4,
+    "pet_bond_id": 302,
+    "pet_reaction": [
+      3004,
+      1
+    ],
+    "pet_takephoto_reaction": [
+      10022,
+      1
+    ],
+    "hp_max_race": 113,
+    "phy_attack_race": 93,
+    "spe_attack_race": 93,
+    "phy_defence_race": 125,
+    "spe_defence_race": 125,
+    "speed_race": 100,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "common_enhance": 2500,
+    "petpage_ui_percentage": 0.34086,
+    "handbook_ui_percentage": 0.579462,
+    "pet_ui_percentage": 0.7,
+    "formation_ui_scale": 1.0,
+    "npc_id": 53920,
+    "world_nature": 1,
+    "Catch_Threshold_Bonustime": 1,
+    "weight_low": 2500,
+    "weight_high": 3940,
+    "height_low": 45,
+    "height_high": 60,
+    "pet_classis_id": 6,
+    "break_award_sort": 87,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/img_Com_GongPingGe1Ar_001_Res.img_Com_GongPingGe1Ar_001_Res'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/img_Com_GongPingGe1Ar_001_Res.img_Com_GongPingGe1Ar_001_Res'",
+    "res_ui_percentage": 0.65,
+    "res_offset": [
+      -22.0,
+      6.0
+    ],
+    "shadow_horizontal_flip_data": 1,
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      -22.0,
+      6.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_Yellow.img_BgLawn_Yellow'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_BgLawn_NeverSee.img_BgLawn_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgLawn_GoldenYellow.img_Share_BgLawn_GoldenYellow'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_LawnYellow.img_Fg_LawnYellow'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_LawnYellow.img_Bg_LawnYellow'",
+    "pet_egg": 107182,
+    "egg_group": [
+      5
+    ],
+    "axial_density": "1",
+    "radial_density": "1",
+    "pet_track_npc_id": [
+      10897
+    ],
+    "home_npc_id": 710779,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.65,
+    "report_res_offset": [
+      -10.0,
+      -25.0
+    ],
+    "card_res_ui_percentage": 1.048387,
+    "card_res_offset": [
+      10.0,
+      25.0
+    ],
+    "audio_config_id": 3499,
+    "falling_resistance": 100,
+    "available_time": "2026-10-09 04:00:00"
   },
   {
     "id": 4005,
@@ -99743,6 +100122,120 @@
     "audio_config_id": 3585,
     "falling_resistance": 100,
     "available_time": "2026-09-10 04:00:00"
+  },
+  {
+    "id": 5075,
+    "name": "风暴战犬",
+    "pet_evolution_id": [
+      385
+    ],
+    "quality": 2,
+    "stength_stage": 3,
+    "stage": 4,
+    "consume_role_hp": 1,
+    "max_energy": 10,
+    "unit_type": [
+      4
+    ],
+    "ai_group_info_id": 3071,
+    "pet_habitat_group_role_type": 1005,
+    "ecology_feature": [
+      6,
+      12
+    ],
+    "level_skill_conf_id": 3871,
+    "pet_feature": 280014,
+    "model_conf": 16019,
+    "description": "它的冠毛与尾巴像火焰一样摇曳，这代表它体内的火元素的热流外显。它的斗志一旦被点燃，会化作更强的火势与更可靠的压制力。",
+    "pet_scale": 2,
+    "pictorial_book_id": 48,
+    "petfree_sort": 6,
+    "ban_free": 1,
+    "pet_bond_id": 101,
+    "pet_reaction": [
+      3001,
+      1,
+      107
+    ],
+    "pet_takephoto_reaction": [
+      10019,
+      1,
+      107
+    ],
+    "hp_max_race": 85,
+    "phy_attack_race": 116,
+    "spe_attack_race": 38,
+    "phy_defence_race": 101,
+    "spe_defence_race": 82,
+    "speed_race": 120,
+    "hp_max_first": 10,
+    "phy_attack_first": 10,
+    "spe_attack_first": 10,
+    "phy_defence_first": 10,
+    "spe_defence_first": 10,
+    "speed_first": 10,
+    "critical_dam": 20000,
+    "fire_enhance": 2500,
+    "petpage_ui_percentage": 0.433099,
+    "handbook_ui_percentage": 0.702801,
+    "pet_ui_percentage": 1.0,
+    "formation_ui_scale": 1.0,
+    "npc_id": 110074,
+    "world_nature": 4,
+    "weight_low": 61030,
+    "weight_high": 79060,
+    "height_low": 175,
+    "height_high": 191,
+    "pet_classis_id": 6,
+    "break_award_sort": 34,
+    "JL_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet1024/JL_yinsuquan_shouling.JL_yinsuquan_shouling'",
+    "JL_small_res": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Pet256/JL_yinsuquan_shouling.JL_yinsuquan_shouling'",
+    "res_ui_percentage": 0.88,
+    "res_offset": [
+      -50.0,
+      -23.0
+    ],
+    "shadow_ui_percentage": [
+      0.83,
+      0.18
+    ],
+    "shadow_offset": [
+      3.0,
+      -32.0
+    ],
+    "shadow_angle": [
+      48.0,
+      -1.0
+    ],
+    "shadow_opacity": 0.223,
+    "handbook_standpaint_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Town.img_Town'",
+    "handbook_unknown_bg": "Texture2D'/Game/NewRoco/Modules/System/Handbook/Raw/Common/Quiet/Textures/img_Town_NeverSee.img_Town_NeverSee'",
+    "share_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/PetUIStatic/Textures/img_Share_BgTown.img_Share_BgTown'",
+    "share_uncommon_card_fg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Fg_Town.img_Fg_Town'",
+    "share_uncommon_card_bg": "Texture2D'/Game/NewRoco/Modules/System/PetUI/Raw/Cards/img_Bg_Town.img_Bg_Town'",
+    "can_swim": 1,
+    "pet_egg": 107032,
+    "egg_group": [
+      6
+    ],
+    "stun_resistance": 1,
+    "axial_density": "0.9",
+    "radial_density": "0.75",
+    "is_boss": 1,
+    "pet_track_npc_id": [
+      120017
+    ],
+    "home_npc_id": 130074,
+    "report_res_horizontal_flip_data": 1,
+    "report_res_ui_percentage": 0.8,
+    "card_res_ui_percentage": 1.641099,
+    "card_res_offset": [
+      0.0,
+      -10.0
+    ],
+    "audio_config_id": 3071,
+    "falling_resistance": 100,
+    "available_time": "2026-10-01 04:00:00"
   },
   {
     "id": 6001,

@@ -154,5 +154,26 @@
     "share_button_type": 16,
     "share_type": 1,
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_SturgeonCooperation_SharePhoto.UMG_SturgeonCooperation_SharePhoto_C'"
+  },
+  {
+    "id": 2001,
+    "share_button_type": 20,
+    "share_type": 3,
+    "is_need_information": true,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "洛克王国:世界",
+    "wechat_applet_des": "领取可可果球",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_logo_png.img_logo_png'"
+  },
+  {
+    "id": 2002,
+    "share_button_type": 20,
+    "share_type": 5,
+    "is_need_information": true,
+    "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/ShareUI/Res/UMG_CulturalActivities_SharePhoto.UMG_CulturalActivities_SharePhoto_C'",
+    "wechat_applet_title": "洛克王国:世界",
+    "wechat_applet_des": "领取可可果球",
+    "wechat_applet_first_page": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivityFission/Frames/img_logo_png.img_logo_png'",
+    "wechat_applet_QRCode_tips": "310011"
   }
 ]

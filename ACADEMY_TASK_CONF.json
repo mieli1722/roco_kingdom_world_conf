@@ -152,5 +152,23 @@
     "task_loop": 3,
     "get_score": 1,
     "show_limit_tips": "同一名小洛克每日仅限1次"
+  },
+  {
+    "id": 15,
+    "task_name": "炼金学-浇水施肥的次数",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>为其他小洛克浇水或施肥12次",
+    "task_type": 16,
+    "task_variable": 12,
+    "task_loop": 3,
+    "get_score": 1
+  },
+  {
+    "id": 16,
+    "task_name": "战斗学-获得胜场的次数",
+    "task_des": "<span color=\"#d56c1f\">【可重复】 </>闪耀大赛获得1场胜利",
+    "task_type": 17,
+    "task_variable": 1,
+    "task_loop": 3,
+    "get_score": 1
   }
 ]

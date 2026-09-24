@@ -5,238 +5,7 @@
     "max_bet_total": 999,
     "stage_group": [
       {
-        "stage_start_time": "2026-09-25 04:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-25 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-25 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-25 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500002,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-25 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-26 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-26 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-26 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500003,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-26 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-27 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-27 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-27 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500004,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-27 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-28 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-28 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-28 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500005,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-28 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-29 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-29 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-29 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500006,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-29 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-30 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-30 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-09-30 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500007,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-09-30 21:00:00",
-        "stage_title": "Ⅰ",
-        "stage_des": "选手公布",
-        "success_return": 20000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-10-01 12:00:00",
-        "stage_title": "Ⅱ",
-        "stage_des": "阵容公布",
-        "success_return": 18000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-10-01 16:00:00",
-        "stage_title": "Ⅲ",
-        "stage_des": "技能公布",
-        "success_return": 15000,
-        "fail_return": 5000
-      },
-      {
-        "stage_start_time": "2026-10-01 20:00:00",
-        "stage_title": "Ⅳ",
-        "stage_des": "比赛开始"
-      }
-    ]
-  },
-  {
-    "id": 6500008,
-    "min_bet_first_time": 10,
-    "max_bet_total": 999,
-    "stage_group": [
-      {
-        "stage_start_time": "2026-10-01 21:00:00",
+        "stage_start_time": "2026-10-02 04:00:00",
         "stage_title": "Ⅰ",
         "stage_des": "选手公布",
         "success_return": 20000,
@@ -264,7 +33,7 @@
     ]
   },
   {
-    "id": 6500009,
+    "id": 6500002,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -297,7 +66,7 @@
     ]
   },
   {
-    "id": 6500010,
+    "id": 6500003,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -330,7 +99,7 @@
     ]
   },
   {
-    "id": 6500011,
+    "id": 6500004,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -363,7 +132,7 @@
     ]
   },
   {
-    "id": 6500012,
+    "id": 6500005,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -396,7 +165,7 @@
     ]
   },
   {
-    "id": 6500013,
+    "id": 6500006,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -429,7 +198,7 @@
     ]
   },
   {
-    "id": 6500014,
+    "id": 6500007,
     "min_bet_first_time": 10,
     "max_bet_total": 999,
     "stage_group": [
@@ -456,6 +225,237 @@
       },
       {
         "stage_start_time": "2026-10-08 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500008,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-08 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-09 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-09 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-09 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500009,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-09 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-10 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-10 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-10 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500010,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-10 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-11 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-11 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-11 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500011,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-11 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-12 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-12 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-12 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500012,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-12 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-13 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-13 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-13 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500013,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-13 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-14 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-14 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-14 20:00:00",
+        "stage_title": "Ⅳ",
+        "stage_des": "比赛开始"
+      }
+    ]
+  },
+  {
+    "id": 6500014,
+    "min_bet_first_time": 10,
+    "max_bet_total": 999,
+    "stage_group": [
+      {
+        "stage_start_time": "2026-10-14 21:00:00",
+        "stage_title": "Ⅰ",
+        "stage_des": "选手公布",
+        "success_return": 20000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-15 12:00:00",
+        "stage_title": "Ⅱ",
+        "stage_des": "阵容公布",
+        "success_return": 18000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-15 16:00:00",
+        "stage_title": "Ⅲ",
+        "stage_des": "技能公布",
+        "success_return": 15000,
+        "fail_return": 5000
+      },
+      {
+        "stage_start_time": "2026-10-15 20:00:00",
         "stage_title": "Ⅳ",
         "stage_des": "比赛开始"
       }

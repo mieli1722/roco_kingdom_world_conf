@@ -3,34 +3,34 @@
     "id": 4500004,
     "advanced_bp_buy_vitem": 2,
     "advanced_bp_price": 360,
-    "bp_name": "秋日限定手册",
+    "bp_name": "岁稔年丰",
     "advanced_bp_description": "只需少量洛克钻即可轻松解锁，可获得更多更丰富的奖励！",
     "advanced_bp_icon": "Texture2D'/Game/NewRoco/Modules/System/Common/Icon/Item190/101040.101040'",
     "tab_txt_left": "秋日限定",
     "tab_txt_right": "每日任务",
-    "upgrade_button_txt": "升级限定版",
-    "upgradedown_button_txt": "限定版已解锁",
+    "upgrade_button_txt": "升级岁稔年丰",
+    "upgradedown_button_txt": "岁稔年丰已解锁",
     "goods_type": 2,
     "goods_id": 54,
     "condition_group": [
       {
         "bp_task": 110000820,
-        "task_exp": 30,
+        "task_exp": 20,
         "is_daily": 1
       },
       {
         "bp_task": 110000821,
-        "task_exp": 20,
+        "task_exp": 30,
         "is_daily": 1
       },
       {
         "bp_task": 110000822,
-        "task_exp": 20,
+        "task_exp": 30,
         "is_daily": 1
       },
       {
         "bp_task": 110000823,
-        "task_exp": 30,
+        "task_exp": 40,
         "is_daily": 2
       },
       {
@@ -40,12 +40,12 @@
       },
       {
         "bp_task": 110000825,
-        "task_exp": 90,
+        "task_exp": 40,
         "is_daily": 2
       },
       {
         "bp_task": 110000826,
-        "task_exp": 120,
+        "task_exp": 60,
         "is_daily": 2
       }
     ],
@@ -53,119 +53,135 @@
       {
         "bp_level": 1,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000036
+        "level_reward1": 750000068,
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 2,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000032
+        "level_reward1": 750000068,
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 3,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000036
+        "level_reward1": 750000068,
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 4,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000032
+        "level_reward1": 750000068,
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 5,
         "next_need_exp": 50,
         "level_reward1": 750000021,
-        "level_reward2": 750000042,
+        "level_reward2": 750000021,
         "is_paid2": 1
       },
       {
         "bp_level": 6,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000037
+        "level_reward1": 750000020,
+        "level_reward2": 750000042,
+        "is_paid2": 1
       },
       {
         "bp_level": 7,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000033
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 8,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000037
+        "level_reward2": 750000041,
+        "is_paid2": 1
       },
       {
         "bp_level": 9,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000033
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 10,
         "next_need_exp": 50,
         "level_reward1": 750000021,
-        "level_reward2": 750000042,
+        "level_reward2": 750000021,
         "is_paid2": 1
       },
       {
         "bp_level": 11,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000038
+        "level_reward1": 750000031,
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 12,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000034
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 13,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000038
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 14,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000034
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 15,
         "next_need_exp": 50,
-        "level_reward1": 750000024,
-        "level_reward2": 750000040,
+        "level_reward1": 750000021,
+        "level_reward2": 750000021,
         "is_paid2": 1
       },
       {
         "bp_level": 16,
         "next_need_exp": 50,
-        "level_reward1": 750000041,
-        "level_reward2": 750000039
+        "level_reward1": 750000031,
+        "level_reward2": 750000042,
+        "is_paid2": 1
       },
       {
         "bp_level": 17,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000035
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 18,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000039
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 19,
         "next_need_exp": 50,
         "level_reward1": 750000041,
-        "level_reward2": 750000035
+        "level_reward2": 750000054,
+        "is_paid2": 1
       },
       {
         "bp_level": 20,
@@ -175,6 +191,6 @@
         "is_paid2": 1
       }
     ],
-    "up_bp_name": "秋日限定"
+    "up_bp_name": "岁稔年丰"
   }
 ]

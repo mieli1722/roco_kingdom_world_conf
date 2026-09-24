@@ -33703,6 +33703,126 @@
     "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_HomeFNS4XMC1"
   },
   {
+    "id": 2800724,
+    "editor_name": "【攻击】快速攻击——不进战",
+    "belong_to_state": [
+      8,
+      7,
+      9,
+      6,
+      5,
+      4
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_QuickAttack3",
+    "input_key": [
+      "Global_BackPos"
+    ],
+    "output_key": [
+      "Global_BackPos"
+    ],
+    "bb_info": [
+      {
+        "bb_name": "[BB_QuickAttack]_Dmg",
+        "tooltip": "魔力伤害",
+        "data_type": 1,
+        "default_data": 1
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_IsHeavy",
+        "tooltip": "是否重击",
+        "data_type": 3
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_HitBoxRange",
+        "tooltip": "判定范围",
+        "data_type": 2,
+        "default_data": 5000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_HitStrength",
+        "tooltip": "撞击力度",
+        "data_type": 2,
+        "default_data": 2500,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_ChaseDistance",
+        "tooltip": "追击距离--与追击起点的距离",
+        "data_type": 2,
+        "default_data": 200000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_SkipClear",
+        "tooltip": "跳过清空感知状态切换",
+        "data_type": 3,
+        "default_data": 1
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_SkipClearCon",
+        "tooltip": "跳过清空攻击状态切换次数",
+        "data_type": 3,
+        "default_data": 1
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_ToPlayerDistance",
+        "tooltip": "追击距离--与玩家的距离",
+        "data_type": 2,
+        "default_data": 250000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_SkipGroup10010",
+        "tooltip": "跳过发送群落事件10010",
+        "data_type": 3,
+        "default_data": 1
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_ToDistance",
+        "tooltip": "远离出生点距离",
+        "data_type": 2,
+        "default_data": 250000,
+        "additional_para": [
+          100
+        ]
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_SkipChase",
+        "tooltip": "跳过攻击追击",
+        "data_type": 3,
+        "default_data": 1
+      },
+      {
+        "bb_name": "[BB_QuickAttack]_SkipShow",
+        "tooltip": "跳过战后小表演",
+        "data_type": 3
+      }
+    ]
+  },
+  {
+    "id": 2800725,
+    "editor_name": "【骑乘】敌对大类_快速攻击无伤害",
+    "belong_to_state": [
+      7
+    ],
+    "tree_name": "/Game/NewRoco/Modules/AI/BehaviorTree/MFBT/DotsVersion2/SubTree/NewVer/Common/BT_Riding_Attack1",
+    "input_key": [
+      "Global_BornPos"
+    ],
+    "tick_input_key": [
+      "Global_ReactionIndex"
+    ]
+  },
+  {
     "id": 3000000,
     "editor_name": "【甜田螺】匿踪逃跑",
     "belong_to_state": [
