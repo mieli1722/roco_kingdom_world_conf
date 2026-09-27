@@ -51805,7 +51805,7 @@
     ],
     "task_condition": [
       {
-        "text": "集齐S1赛季的异色精灵",
+        "text": "集齐S1赛季的异色精灵进化链",
         "type": 246,
         "data1": [
           8,
@@ -51835,6 +51835,162 @@
       {}
     ],
     "Reward": 201105,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 1151001,
+    "name": "S1图鉴：收集该赛季的所有新精灵进化链",
+    "task_class": 3,
+    "belong_place": "？？？",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-09-30 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "集齐S1赛季的赛季新精灵进化链",
+        "type": 246,
+        "data1": [
+          44,
+          54,
+          61,
+          63,
+          78,
+          90,
+          102,
+          123,
+          126,
+          148,
+          2002
+        ],
+        "count": 11
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 201108,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 1151002,
+    "name": "S2图鉴：收集该赛季的所有新精灵进化链",
+    "task_class": 3,
+    "belong_place": "？？？",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-09-30 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "集齐S2赛季的赛季新精灵进化链",
+        "type": 246,
+        "data1": [
+          73,
+          169,
+          172,
+          181,
+          187,
+          189,
+          190,
+          192,
+          193,
+          194,
+          2014
+        ],
+        "count": 11
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 201108,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 1151003,
+    "name": "S3图鉴：收集该赛季的所有新精灵进化链",
+    "task_class": 3,
+    "belong_place": "？？？",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-09-30 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "集齐S3赛季的赛季新精灵进化链",
+        "type": 246,
+        "data1": [
+          86,
+          143,
+          168,
+          177,
+          180,
+          182,
+          186,
+          191,
+          195,
+          199,
+          2015
+        ],
+        "count": 11
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 201108,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 1151004,
+    "name": "S4图鉴：收集该赛季的所有新精灵进化链",
+    "task_class": 3,
+    "belong_place": "？？？",
+    "show": 1,
+    "accept_condition": [
+      {
+        "type": 5,
+        "available_time": "2026-09-30 04:00:00"
+      }
+    ],
+    "task_condition": [
+      {
+        "text": "集齐S4赛季的赛季新精灵进化链",
+        "type": 246,
+        "data1": [
+          74,
+          164,
+          196,
+          202,
+          203,
+          204,
+          205,
+          206,
+          207,
+          208,
+          209
+        ],
+        "count": 11
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "Reward": 201108,
     "peer_available": true,
     "online_process": 3
   },
@@ -264586,9 +264742,307 @@
     "auto_finish": 1,
     "Reward": 200000235,
     "peer_available": true,
-    "online_process": 3,
-    "expire_time_type": 2,
-    "expire_time_param": 6200001
+    "online_process": 3
+  },
+  {
+    "id": 110000366,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000367,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000368,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000369,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000370,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000371,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000372,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000373,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000374,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000375,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000376,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
+  },
+  {
+    "id": 110000377,
+    "name": "盲盒活动掉落盲盒券",
+    "task_class": 18,
+    "task_condition": [
+      {
+        "text": "使用可可果球捕捉精灵",
+        "type": 16,
+        "data1": [
+          100287
+        ],
+        "data3": [
+          1
+        ],
+        "count": 1
+      }
+    ],
+    "go_guide": [
+      {}
+    ],
+    "auto_finish": 1,
+    "Reward": 200000235,
+    "peer_available": true,
+    "online_process": 3
   },
   {
     "id": 110000401,
@@ -265847,11 +266301,11 @@
   },
   {
     "id": 110000471,
-    "name": "<span color=\"#42a7cc\">新的一天</>\n登录游戏",
+    "name": "<span color=\"#42a7cc\">新的一天</>\n每日凝结1次许愿星",
     "task_class": 18,
     "task_condition": [
       {
-        "type": 203,
+        "type": 358,
         "count": 1
       }
     ],
@@ -265870,9 +266324,6 @@
       {
         "type": 207,
         "data1": [
-          110000473,
-          110000474,
-          110000475,
           110000476,
           110000477,
           110000478,
@@ -265895,7 +266346,7 @@
   },
   {
     "id": 110000473,
-    "name": "查看来自远方的信",
+    "name": "【废弃】查看来自远方的信",
     "task_class": 1,
     "paragraph_id": 79996,
     "task_des": "查看来自远方的信",
@@ -265929,7 +266380,7 @@
   },
   {
     "id": 110000474,
-    "name": "查看来自远方的信",
+    "name": "【废弃】查看来自远方的信",
     "task_class": 1,
     "paragraph_id": 79996,
     "task_des": "查看来自远方的信",
@@ -265963,16 +266414,11 @@
   },
   {
     "id": 110000475,
-    "name": "查看来自远方的信",
+    "name": "【废弃】查看来自远方的信",
     "task_class": 1,
     "paragraph_id": 79996,
     "task_des": "查看来自远方的信",
-    "accept_condition": [
-      {
-        "type": 5,
-        "available_time": "2026-10-01 04:00:00"
-      }
-    ],
+    "open": 1,
     "task_condition": [
       {
         "text": "阅读来信",
@@ -266009,7 +266455,7 @@
     "accept_condition": [
       {
         "type": 5,
-        "available_time": "2026-10-05 04:00:00"
+        "available_time": "2026-10-01 04:00:00"
       }
     ],
     "task_condition": [
@@ -266048,7 +266494,7 @@
     "accept_condition": [
       {
         "type": 5,
-        "available_time": "2026-10-12 04:00:00"
+        "available_time": "2026-10-09 04:00:00"
       }
     ],
     "task_condition": [
@@ -266087,7 +266533,7 @@
     "accept_condition": [
       {
         "type": 5,
-        "available_time": "2026-10-19 04:00:00"
+        "available_time": "2026-10-16 04:00:00"
       }
     ],
     "task_condition": [
@@ -266126,7 +266572,7 @@
     "accept_condition": [
       {
         "type": 5,
-        "available_time": "2026-10-26 04:00:00"
+        "available_time": "2026-10-23 04:00:00"
       }
     ],
     "task_condition": [
@@ -266165,7 +266611,7 @@
     "accept_condition": [
       {
         "type": 5,
-        "available_time": "2026-11-02 04:00:00"
+        "available_time": "2026-10-30 04:00:00"
       }
     ],
     "task_condition": [

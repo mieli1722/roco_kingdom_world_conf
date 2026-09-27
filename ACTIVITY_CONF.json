@@ -2751,7 +2751,7 @@
     "base_id": [
       1800003
     ],
-    "activity_name": "500%孵蛋加速日",
+    "activity_name": "1000%孵蛋加速日",
     "prompt_text": "魔法孵化钟限时敲响！10倍速破壳精灵蛋!\n注意~获得1个精灵蛋后开启孵蛋功能",
     "activity_txt": "<span color=\"#d56c1f\">玩法说明</>\n「孵蛋加速日」活动期间，背包孵化精灵速度提升至1000%。\n点击活动回顾，可查看本期活动中孵化成功的精灵。",
     "appear_time": "2026-10-01 04:00:00",
@@ -6861,9 +6861,9 @@
     ],
     "activity_name": "秋，丰收与机器人",
     "prompt_text": "秋风掀起遍野麦浪，虫声浅浅，红叶翩跹\n卡洛西亚大陆迎来了满满的丰收\n秋收中的立方人似乎也有一份特别的收获",
-    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n完成任务，获得「印着精灵的小卡」，达到积分档位要求即可兑换奖励。\n登录状态将会在每日04:00刷新，每周任务将在每周一04:00刷新。\n活动结束后，剩余的「印着精灵的小卡」将转化为洛克贝。",
+    "activity_txt": "<span color=\"#d56c1f\">活动规则</>\n完成任务，获得「印着精灵的小卡」，达到积分档位要求即可领取奖励。\n· 每日任务状态将在04:00刷新。\n· 每周任务共5周：\n第一周为10月1日-10月9日03:59:59\n第二周为10月9日-10月16日03:59:59\n第三周为10月16日-10月23日03:59:59\n第四周为10月23日-10月30日03:59:59\n第五周为10月30日-11月6日03:59:59\n\n活动结束后，剩余的「印着精灵的小卡」将转化为洛克贝。\n\n<span color=\"#d56c1f\">迎接新朋友！</>\n达到积分档位可领取「秋日兑换币」，小洛克可前往秋日限定兑换机，使用「秋日兑换币」或「许愿星」兑换，获得「精灵印象·秋日纪」主题的精灵蛋。\n小洛克可在「活动页面-来信日历」中查看新朋友到来的日期，并快速传送至兑换机旁~\n活动结束后，兑换机将会暂时离开。届时小洛克将无法获得「精灵印象·秋日纪」主题的精灵蛋。\n活动结束后，未使用的「秋日兑换币」将按照1：25的比例转化为许愿星。",
     "appear_time": "2026-10-01 04:00:00",
-    "disappear_time": "2026-11-05 03:59:59",
+    "disappear_time": "2026-11-06 03:59:59",
     "world_level_required": 1,
     "maintab_id": 1,
     "belong_system": 1,
@@ -6872,7 +6872,49 @@
     "image_path": "Texture2D'/Game/NewRoco/Modules/System/Activity/Raw/Textures/img_saijiqiandao_lifangren_bg.img_saijiqiandao_lifangren_bg'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian2_png.img_zigeliebian2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_zigeliebian1_png.img_zigeliebian1_png'",
-    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'"
+    "title_icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/ActivitySummaryRecall/Frames/img_qiriqiandao_png.img_qiriqiandao_png'",
+    "refresh_event_group": [
+      {
+        "refresh_content": [
+          2650111,
+          2650112,
+          2650113
+        ],
+        "start_time": "2026-10-01 04:00:00"
+      },
+      {
+        "refresh_content": [
+          2650114,
+          2650121
+        ],
+        "start_time": "2026-10-09 04:00:00"
+      },
+      {
+        "refresh_content": [
+          2650115,
+          2650116,
+          2650122
+        ],
+        "start_time": "2026-10-16 04:00:00"
+      },
+      {
+        "refresh_content": [
+          2650117,
+          2650118,
+          2650123
+        ],
+        "start_time": "2026-10-23 04:00:00"
+      },
+      {
+        "refresh_content": [
+          2650119,
+          2650120,
+          2650124
+        ],
+        "start_time": "2026-10-30 04:00:00",
+        "end_time": "2026-11-06 03:59:59"
+      }
+    ]
   },
   {
     "id": 3600001,
@@ -8413,6 +8455,201 @@
     "umg_path": "WidgetBlueprint'/Game/NewRoco/Modules/System/Activity/Res/UMG_Activity_BlindBox.UMG_Activity_BlindBox_C'",
     "icon": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_manghe2_png.img_manghe2_png'",
     "icon_select": "PaperSprite'/Game/NewRoco/Modules/System/Activity/Raw/Frames/img_menghe1_png.img_menghe1_png'"
+  },
+  {
+    "id": 6200002,
+    "activity_type": 26,
+    "base_id": [
+      2600092
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-09-26 04:00:00",
+    "disappear_time": "2026-09-27 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200003,
+    "activity_type": 26,
+    "base_id": [
+      2600093
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-09-27 04:00:00",
+    "disappear_time": "2026-09-28 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200004,
+    "activity_type": 26,
+    "base_id": [
+      2600094
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-09-28 04:00:00",
+    "disappear_time": "2026-09-29 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200005,
+    "activity_type": 26,
+    "base_id": [
+      2600095
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-09-29 04:00:00",
+    "disappear_time": "2026-09-30 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200006,
+    "activity_type": 26,
+    "base_id": [
+      2600096
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-09-30 04:00:00",
+    "disappear_time": "2026-10-01 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200007,
+    "activity_type": 26,
+    "base_id": [
+      2600097
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-02 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200008,
+    "activity_type": 26,
+    "base_id": [
+      2600098
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-02 04:00:00",
+    "disappear_time": "2026-10-03 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200009,
+    "activity_type": 26,
+    "base_id": [
+      2600099
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-03 04:00:00",
+    "disappear_time": "2026-10-04 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200010,
+    "activity_type": 26,
+    "base_id": [
+      2600100
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-04 04:00:00",
+    "disappear_time": "2026-10-05 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200011,
+    "activity_type": 26,
+    "base_id": [
+      2600101
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-05 04:00:00",
+    "disappear_time": "2026-10-06 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200012,
+    "activity_type": 26,
+    "base_id": [
+      2600102
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-06 04:00:00",
+    "disappear_time": "2026-10-07 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200013,
+    "activity_type": 26,
+    "base_id": [
+      2600103
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-07 04:00:00",
+    "disappear_time": "2026-10-08 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
+  },
+  {
+    "id": 6200014,
+    "activity_type": 26,
+    "base_id": [
+      2600104
+    ],
+    "activity_name": "掀开:可可奇妙盒",
+    "appear_time": "2026-10-08 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
+    "world_level_required": 1,
+    "if_hide": true,
+    "maintab_id": 1,
+    "belong_system": 1,
+    "priority": 140
   },
   {
     "id": 6300001,
@@ -16964,8 +17201,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-10-01 04:00:00",
-    "disappear_time": "2026-10-05 03:59:59",
+    "appear_time": "2024-09-21 04:00:00",
+    "disappear_time": "2024-09-28 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
@@ -16979,8 +17216,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-10-05 04:00:00",
-    "disappear_time": "2026-10-12 03:59:59",
+    "appear_time": "2026-10-01 04:00:00",
+    "disappear_time": "2026-10-09 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
@@ -16994,8 +17231,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-10-12 04:00:00",
-    "disappear_time": "2026-10-19 03:59:59",
+    "appear_time": "2026-10-09 04:00:00",
+    "disappear_time": "2026-10-16 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
@@ -17009,8 +17246,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-10-19 04:00:00",
-    "disappear_time": "2026-10-26 03:59:59",
+    "appear_time": "2026-10-16 04:00:00",
+    "disappear_time": "2026-10-23 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
@@ -17024,8 +17261,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-10-26 04:00:00",
-    "disappear_time": "2026-11-02 03:59:59",
+    "appear_time": "2026-10-23 04:00:00",
+    "disappear_time": "2026-10-30 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
@@ -17039,8 +17276,8 @@
     ],
     "activity_name": "来自远方的信",
     "prompt_text": "来自远方的信",
-    "appear_time": "2026-11-02 04:00:00",
-    "disappear_time": "2026-11-05 03:59:59",
+    "appear_time": "2026-10-30 04:00:00",
+    "disappear_time": "2026-11-06 03:59:59",
     "world_level_required": 1,
     "if_hide": true,
     "belong_system": 1,
